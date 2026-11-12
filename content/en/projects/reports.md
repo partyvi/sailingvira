@@ -174,6 +174,33 @@ Still on the list for later: a safety strap so the engine and LPG lids stay with
 
 Diary: [19 Feb 2026](https://irwin34.blogspot.com/2026/02/things-are-done-since-102924.html)
 
+## Since February 2026
+
+November 2026:
+
+- Installed AIS transponder on 6' pole at the transom.
+- Added night mode to main breaker panel to dim indicator LEDs.
+- Radar installed.
+- Installed 25 A charger for inverter battery.
+- Mast lightning grounding connected and wire hidden over wooden trim.
+- New mainsail.
+- New standing rigging installed.
+- Helm navigation station designed, made and installed.
+- Marine ELCI replaces domestic GFCI module.
+- Variable speed fresh water pump installed.
+- Electric fresh water toilet installed.
+- Refrigerator compressor replaced with DC model.
+- Refrigerator smart thermostat designed, made and installed.
+- Refrigerator lid designed, made and installed.
+- New outhaul setup.
+- 4 reefs installed, new reef lines and boom winches.
+- Windlass motor replaced for brand new.
+- Anchor shackles replaced.
+
+![Men at work sign](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghCyppnW624BBfiRMzQ7MsoLdwkdaW9p7_VwX5Ez9FVIMBH276fEefmmgObDYC_V6OneuQtiWdWQBK-RVeYBB26Q0IN8SR0iiVk5R3k28-VxBO80QynDFsn4F5kJGZ0LdT7Y4XnU7tqSawOYFuD_lwLzsgR7bYx4Jk9VOujc175TnDFcMtvq54_noO1LOf/s1600/man%20at%20work.png)
+
+Diary: [12 Nov 2026](https://irwin34.blogspot.com/2026/11/progress-report-sinse-02192026.html)
+
 ## Everything that's better than the original
 
 This list now lives on its own page: [Upgrades log](../boat/upgrades/). I keep adding to it.
