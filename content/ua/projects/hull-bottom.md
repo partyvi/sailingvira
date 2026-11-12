@@ -84,6 +84,10 @@ Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-prepa
 
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
+У квітні 2026-го заміряв накладку, щоб закрити дріт заземлення.
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 Потім я поставив дошку поруч із пілерсом, щоб провести кабель. Перш ніж бак чорної води повернувся на місце, я закрив отвір доступу до болта пластини 3-дюймовою гумовою пробкою, яка добре сіла, і провів кабель без різких згинів. І так, це армований скотч, але його досить, щоб тримати радіус згину близько 8 дюймів.
 
 ![Накладка кабелю заземлення біля пілерса](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnSxzrg0PDADPk0AM8dtqLar9tDMS8FjpxQgZRrjSiaSfgZ7ZFDNPRp24cdj9mlmxvbcgHDZQWdYWGiJCYScg4GLLztgh7M0H299wt-fIcMvb5M8jRQqXrxuzDXlhjWd5-rwenQgAxtJv5xrzB4n9utcjAVq8OXvBbJZXStdzR7ouJ9OydszsB4_S4Dip/s1600/IMG_1455.HEIC)

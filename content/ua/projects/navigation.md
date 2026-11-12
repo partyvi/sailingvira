@@ -431,6 +431,18 @@ Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind
 
 ## Біди з AIS і надрукований зі сталі хомут
 
+Квітень 2026-го: звук з OpenPlotter через Bluetooth, щоб тривоги були гучні. Налаштування авторульового: струм муфти знижено до 30%, а максимальну швидкість піднято. Вражає. У неділю він кермував на короткій хвилі 2–3 фути при 20–25 вузлах, без драми.
+
+В AIS Maiana якось потрапила вода, і GPS помер, хоча приймач AIS досі працював. Чищення і сушіння не допомогли. Перш ніж викинути плату, спробую замінити GPS. Ще одне розчарування: «алюмінієвий» кронштейн антени насправді виявився хромованим цинковим сплавом і розсипався за три тижні на морі.
+
+Я почистив датчик лагу і — сюрприз — він працює. Перекалібрував.
+
+![Плата AIS-транспондера Maiana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
+![Сліди води на модулі GPS плати AIS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
+![Зламаний кронштейн антени AIS з цинкового сплаву](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 У квітні 2026-го я додав вимикач для великого сенсорного екрана в кокпіті, щоб дощ перестав його «тицяти». А відремонтований AIS-транспондер повернувся і пройшов тест. Тепер люди мене бачать, якщо я передаю свою позицію.
 
 ![Налаштування AIS на навігаційному екрані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOg63eSDutrs7NuqtN69HqutSfgHfwaEHzLBzBUBogts4VOKZaG7qToRtH4-3SQKtYIazfrazY93eGpB92Qzqkmm7ZnrXbSqgCTQtV2nBHW_hk7uAlSt0sfrgPmjylc2vbCukGnuIIqi1xVHs5fVTGMvwdHrSehIbD4jEXKatapkiUSxs3p6teWFjsw5KX/s1600/IMG_1229.HEIC)

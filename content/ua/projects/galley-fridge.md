@@ -301,6 +301,12 @@ Diary: [12 Jul 2025](https://irwin34.blogspot.com/2025/07/day-207-water-came-bac
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
+Квітень 2026-го: я поставив дуже гарячу кавоварку на стільницю камбуза і випалив на ній кільце. Олія тунгового дерева на тій стільниці виявилася чудовою ідеєю: трохи поту — і я зашліфував і заново промаслив її майже без сліду. З лаком це була б катастрофа.
+
+![Камбуз із тиковою стільницею, відремонтованою після опіку кавоваркою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC)
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 ## Побутовий компресор помирає в морі
 
 Чотири роки тому я поставив у холодильну скриню нутрощі побутового холодильника. На озері він роками працював на диво добре. Кілька днів у затоці Галвестон його добили.

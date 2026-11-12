@@ -93,6 +93,10 @@ Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
+У квітні 2026-го вплів кінці шкертів лазиджека замість вузлів, бо хвости постійно застрягали в блискавці.
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 ## Жорсткий спрейхуд, що полетів
 
 Вересень 2025-го. Я хотів жорсткий спрейхуд: склопластик, справжнє скло спереду, полікарбонат по боках. Цей човен несиметричний, і нічого на ньому не стоїть під прямим кутом — я в цьому переконувався не раз. Тож щоб будувати вдома, мені потрібен був повнорозмірний об'ємний шаблон.
@@ -134,6 +138,13 @@ Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-te
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
 ## Новий грот із чотирма рифами
+
+У квітні 2026-го я зняв основні розміри, щоб замовити новий грот. На старому сотні дірочок, і він дуже розтягнутий.
+
+![Форма замірів грота, перша сторінка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
+![Форма замірів грота з висотами рифів, без закрутки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
 Після довгих роздумів я обрав Far East Sails, щоб спроєктувати і пошити новий грот. Заміри робив сам на човні і сподівався, що не наробив великої помилки, про яку шкодуватиму. Що я змінив:
 
