@@ -12,6 +12,8 @@ The site will be published at **sailingvira.com**. The domain currently redirect
 - **Tone:** first person, Viktor's voice, "telling the story by a campfire". Simple, human, short sentences,
   his small jokes and reactions. Keep ALL facts, numbers, part names and prices. No generic explanations,
   no teacher tone.
+- **Ukrainian tone:** the same voice, with a light touch of humor (Viktor asked for it): small ironic remarks
+  and idioms, never at the cost of facts.
 - **Photos:** ALL diary photos go into the stories, in the place they belong. Photos are loaded from
   Blogger (googleusercontent) URLs. They are not copied into the repo.
 - **Diary links:** every chapter links back to its original Blogger post(s).
