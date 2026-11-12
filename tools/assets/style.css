@@ -167,3 +167,16 @@ a.tile:hover{transform:translateY(-2px);box-shadow:0 8px 24px var(--shade)}
 .gal.pairg span{position:absolute;left:8px;top:8px;font-family:var(--f-mono);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;
   background:rgba(16,34,46,.72);color:#fff;padding:2px 8px;border-radius:3px}
 .pair figcaption{margin-top:6px;color:var(--muted);font-size:15px}
+
+/* workshop items */
+.items{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px;margin:16px 0}
+.item{display:grid;grid-template-rows:auto 1fr;background:var(--paper);border:1px solid var(--line);border-radius:6px;overflow:hidden;min-width:0}
+.item .ph{display:block;aspect-ratio:4/3;background:var(--line) center/cover no-repeat}
+.item .tx{padding:12px 14px 14px;display:grid;gap:6px;align-content:start}
+.item h3{font-size:22px;font-weight:600}
+.item h3 a{color:inherit;text-decoration:none}
+.item p{margin:0;font-size:15px;line-height:1.45;color:var(--muted)}
+.item .act{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-top:4px}
+.item .st{font-family:var(--f-display);font-size:17px;text-transform:uppercase;text-decoration:none}
+.dl{font-family:var(--f-mono);font-size:12.5px;padding:3px 10px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none}
+.dl.soon{border-color:var(--line);color:var(--muted)}
