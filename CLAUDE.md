@@ -28,7 +28,7 @@ The site will be published at **sailingvira.com**. The domain currently redirect
 
 1. Source on GitHub (done: first commit).
 2. Stories to CMS-friendly Markdown (front matter + readable photo blocks) (done).
-3. New build: page per project, EN/UK, photos from Blogger, sitemap, noindex switch.
+3. New build: page per project, EN/UK, photos from Blogger, sitemap, noindex switch (done).
 4. GitHub Actions deploys to GitHub Pages.
 5. Ukrainian translation of all stories.
 6. Pages CMS set-up and test.
@@ -40,7 +40,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
 
 - Ask questions **one at a time**, and wait for the answer before the next.
 - Go step by step. Propose, then wait for confirmation before large changes.
-- Changes after the first commit go as pull requests.
+- Changes after the first commit go as pull requests. Viktor asked (12 Nov 2026) that Claude merges its own
+  pull requests and keeps going; stop and ask only for decisions that are his.
 
 ## Repository layout
 
@@ -61,5 +62,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   photo ids, original photo URLs and the assigned project.
 - `data/sections.json`: section key (`s123`) → date, post title, URL, project, photo ids.
 - `data/photos.json`: photo id → Blogger photo URL.
-- `tools/build.py`: builds `site/` from `content/` (`pip install -r requirements.txt`).
+- `content/site.yml`: site name, base URL, `noindex` switch, home page texts (EN/UK).
+- `tools/build.py`: builds the static site into `site/` (`pip install -r requirements.txt`):
+  `/<id>/` and `/uk/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a
+  Ukrainian file shows the English text with a note. Styles and the photo viewer are in `tools/assets/`.
 - `tools/`: other pipeline scripts used to read new diary posts (see README).
