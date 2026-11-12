@@ -111,13 +111,7 @@ const span=(a,b)=>{if(!a)return'';if(a===b)return fmt(a);const[ya,ma]=a.split('-
   if(ya===yb&&ma===mb)return `${+a.slice(8)}–${fmt(b)}`;if(ya===yb)return `${fmt(a).replace(' '+ya,'')} – ${fmt(b)}`;return `${fmt(a)} – ${fmt(b)}`};
 const monthSpan=(a,b)=>{const f=d=>`${MONTHS[d.slice(5,7)-1]} ${d.slice(0,4)}`;return f(a)===f(b)?f(a):`${f(a)} – ${f(b)}`};
 const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const rich=s=>esc(s).replace(/https?:\/\/[^\s<)]+[^\s<).,;]/g,u=>`<a href="${u}" target="_blank" rel="noopener">${u.replace(/^https?:\/\/(www\.)?/,'').slice(0,48)}${u.length>56?'…':''}</a>`);
-const order=DATA.structure.flatMap(g=>g.subs.map(s=>s[0]));
-const packs={};
-function loadPack(id){
-  if(!packs[id])packs[id]=fetch('packs/'+id+'.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
-  return packs[id];
-}
+const order=DATA.structure.flatMap(g=>g.subs);
 function home(){
   const s=DATA.stats;
   let h=`<header class="mast"><span class="eyebrow">Irwin Citation 34 · 1978 · rebuild log</span><h1>Vira</h1>
@@ -125,10 +119,10 @@ function home(){
   <div class="stats mono"><span><b>${s.posts}</b>diary posts</span><span><b>${s.days}</b>work days</span><span><b>${s.photos.toLocaleString('en-US')}</b>photos</span><span><b>${s.first.slice(0,4)}–${s.last.slice(0,4)}</b>Texas</span></div></header>`;
   for(const g of DATA.structure){
     h+=`<section class="group"><h2>${esc(g.title)} <span class="mono">${g.subs.length} projects</span></h2><div class="cards">`;
-    for(const[id]of g.subs){const p=DATA.subs[id];
+    for(const id of g.subs){const p=DATA.subs[id];
       const done=!!p.chapters;
       const when=done&&p.chapters.length?monthSpan(p.chapters.map(c=>c.from).filter(Boolean).sort()[0],p.chapters.map(c=>c.to).filter(Boolean).sort().pop()):'';
-      h+=`<a class="card" href="#${id}"><div class="ph" style="${p.cover?`background-image:url(data:image/webp;base64,${p.cover})`:''}"></div><div class="tx">
+      h+=`<a class="card" href="#${id}"><div class="ph" style="${p.cover?`background-image:url('${p.cover}')`:''}"></div><div class="tx">
       <h3>${esc(p.title)}</h3><p>${esc(p.blurb)}</p><span class="mono">${when?when+' · ':''}${p.n} photos</span>
       ${done?'':'<span class="pill">Story being written</span>'}</div></a>`}
     h+=`</div></section>`}
@@ -144,20 +138,21 @@ function project(id){
   if(!p.chapters){h+=`<div class="pending">This story is being written. ${p.n} photos are waiting for it.</div>`}
   else{
     let toc='',body='';
-    if(p.intro&&p.intro.length)body+=`<div class="intro">${p.intro.map(b=>b.p?`<p>${rich(b.p)}</p>`:'').join('')}</div>`;
+    if(p.intro&&p.intro.length)body+=`<div class="intro">${p.intro.map(b=>b.p?`<p>${b.p}</p>`:'').join('')}</div>`;
     p.chapters.forEach((c,ci)=>{
       toc+=`<a href="#${id}" data-chap="c${ci}">${esc(c.h)}</a>`;
       body+=`<section class="chap" id="c${ci}"><h2>${esc(c.h)}</h2><div class="log mono">`+
         (c.days?`<span>Day ${c.days[0]===c.days[1]?c.days[0]:c.days[0]+'–'+c.days[1]}</span>`:'<span>Story page</span>')+
         (c.from?`<span>${span(c.from,c.to)}</span>`:'')+`</div>`;
       for(const b of c.blocks){
-        if(b.p)body+=`<p>${rich(b.p)}</p>`;
-        else if(b.ul)body+=`<ul>${b.ul.map(x=>`<li>${rich(x)}</li>`).join('')}</ul>`;
+        if(b.p)body+=`<p>${b.p}</p>`;
+        else if(b.ul)body+=`<ul>${b.ul.map(x=>`<li>${x}</li>`).join('')}</ul>`;
         else if(b.g){
-          const n=b.g.length;body+=`<div class="gal${n===1?' n1':n===2?' n2':''}">`;
-          for(const[img,k]of b.g){gallery.push([img,k]);body+=`<button data-i="${gallery.length-1}" aria-label="Open photo"><img data-id="${img}" alt="Photo from the diary, ${fmt(DATA.sources[k].d)}"></button>`}
-          body+=`</div><div class="src mono">`+[...new Set(b.g.map(x=>x[1]))].map(k=>{const s=DATA.sources[k];
-            return `<a href="${s.u}" target="_blank" rel="noopener">${s.page?'Story page':'Diary'} · ${fmt(s.d)} ↗</a>`}).join('')+`</div>`}
+          const n=b.g.length;
+          if(n){body+=`<div class="gal${n===1?' n1':n===2?' n2':''}">`;
+            for(const[sm,big]of b.g){gallery.push([big,b.src]);body+=`<button data-i="${gallery.length-1}" aria-label="Open photo"><img src="${sm}" loading="lazy" alt="Photo from the diary"></button>`}
+            body+=`</div>`}
+          body+=`<div class="src mono">`+b.src.map(l=>`<a href="${l.url}" target="_blank" rel="noopener">${l.page?'Story page · ':'Diary · '}${esc(l.label)} ↗</a>`).join('')+`</div>`}
       }
       body+=`</section>`});
     h+=`<div class="layout"><div class="story">${body}</div><aside class="toc">${toc}</aside></div>`;
@@ -165,16 +160,14 @@ function project(id){
   h+=`<nav class="pnav">${prev?`<a href="#${prev}"><span class="mono">← Previous</span><b>${esc(DATA.subs[prev].title)}</b></a>`:'<span></span>'}${next?`<a href="#${next}"><span class="mono">Next →</span><b>${esc(DATA.subs[next].title)}</b></a>`:''}</nav>`;
   app.innerHTML=h;document.title=p.title+' · Vira';
   app.querySelectorAll('.toc a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();document.getElementById(a.dataset.chap).scrollIntoView({behavior:'smooth'})}));
-  if(p.chapters)loadPack(id).then(pk=>{if(location.hash.slice(1)!==id)return;
-    app.querySelectorAll('img[data-id]').forEach(im=>{const b=pk[im.dataset.id];if(b)im.src='data:image/webp;base64,'+b})});
 }
 function route(){const id=location.hash.slice(1);if(DATA.subs[id])project(id);else home();window.scrollTo(0,0)}
 addEventListener('hashchange',route);route();
 /* lightbox */
 const lb=document.getElementById('lb'),lbimg=document.getElementById('lbimg'),lbcap=document.getElementById('lbcap');let cur=0;
-function show(i){cur=(i+gallery.length)%gallery.length;const[img,k]=gallery[cur],s=DATA.sources[k];
-  const el=app.querySelector(`img[data-id="${img}"]`);lbimg.src=el&&el.src?el.src:'';
-  lbcap.innerHTML=`${cur+1} / ${gallery.length} · <a href="${s.u}" target="_blank" rel="noopener">${s.page?'Story page':'Diary'} · ${fmt(s.d)} ↗</a>`;lb.hidden=false}
+function show(i){cur=(i+gallery.length)%gallery.length;const[big,src]=gallery[cur];
+  lbimg.src=big;
+  lbcap.innerHTML=`${cur+1} / ${gallery.length}`+src.map(l=>` · <a href="${l.url}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join('');lb.hidden=false}
 app.addEventListener('click',e=>{const b=e.target.closest('.gal button');if(b)show(+b.dataset.i)});
 document.getElementById('lbclose').onclick=()=>lb.hidden=true;
 document.getElementById('lbprev').onclick=()=>show(cur-1);
