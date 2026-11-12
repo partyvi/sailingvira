@@ -4,6 +4,12 @@ base_url: https://sailingvira.com
 # true = hidden from search engines (until launch)
 noindex: true
 blog_url: https://irwin34.blogspot.com
+# Boat diary tab (later diary.sailingvira.com)
+diary_url: https://irwin34.blogspot.com
+youtube_url: https://www.youtube.com/@sailingvira
+# Banner photos: Home (16:7) and all other pages (5:1). A path in the site or a full photo URL.
+banner_home: assets/banner-home.webp
+banner_strip: assets/banner-strip.webp
 home:
   eyebrow:
     en: Irwin Citation 34 · 1978 · rebuild log
@@ -12,5 +18,5 @@ home:
     en: Vira
     ua: Віра
   intro:
-    en: From a neglected project boat on Lake Travis to sailing Galveston Bay. The day-by-day diary, regrouped by project and told as stories.
-    ua: Від занедбаного проєктного човна на озері Тревіс до плавань у затоці Галвестон. Щоденник день за днем, зібраний за проєктами і розказаний як історії.
+    en: From a neglected project boat on Lake Travis to sailing big water.
+    ua: Від занедбаного проєктного човна на озері Тревіс до плавань у великій воді.

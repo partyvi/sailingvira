@@ -238,15 +238,44 @@ FONTS = ("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600
          "opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap")
 
 
-def page(path, lang, pid, title, desc, body, image="", lightbox=False):
-    depth = path.count("/")
-    rel = "../" * depth
-    alts = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{BASE}/{url_of(l, pid)}">' for l in LANGS)
-    alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}/{url_of("en", pid)}">'
+PHOTOS = json.load(open(f"{B}/data/photos.json"))
+
+# Tabs: (key, site-relative slug, labels). "diary" goes to Blogger.
+TABS = [("home", "", {"en": "Home", "ua": "Головна"}),
+        ("boat", "boat/", {"en": "The Boat", "ua": "Човен"}),
+        ("projects", "projects/", {"en": "Projects", "ua": "Проєкти"}),
+        ("sailing", "voyages/", {"en": "Sailing", "ua": "Плавання"}),
+        ("diary", None, {"en": "Boat diary", "ua": "Щоденник"}),
+        ("workshop", "workshop/", {"en": "Workshop", "ua": "Майстерня"}),
+        ("videos", "videos/", {"en": "Videos", "ua": "Відео"}),
+        ("about", "about/", {"en": "About me", "ua": "Про мене"}),
+        ("contact", "contact/", {"en": "Contact", "ua": "Контакти"})]
+TAB = {k: (slug, lab) for k, slug, lab in TABS}
+
+
+def asset(u, rel):
+    """A banner setting: full URL, or a path inside the site."""
+    return u if re.match(r"https?://", u or "") else rel + (u or "")
+
+
+def tab_href(key, lang, rel):
+    slug = TAB[key][0]
+    return site.get("diary_url") or site["blog_url"] if slug is None else (rel + url_of(lang) + slug or "./")
+
+
+def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home=False, path=None):
+    path = path or url_of(lang) + slug + "index.html"
+    rel = "../" * path.count("/")
+    home_href = rel + url_of(lang) or "./"
+    alts = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{BASE}/{url_of(l)}{slug}">' for l in LANGS)
+    alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}/{slug}">'
     robots = '<meta name="robots" content="noindex, nofollow">' if site.get("noindex") else ""
     lang_links = "".join(
-        f'<a href="{rel}{url_of(l, pid)}" hreflang="{HTML_LANG[l]}"{" aria-current=page" if l == lang else ""}>{ {"en": "EN", "ua": "УКР"}[l]}</a>'
+        f'<a href="{rel + url_of(l) + slug or "./"}" hreflang="{HTML_LANG[l]}"{" aria-current=page" if l == lang else ""}>{ {"en": "EN", "ua": "УКР"}[l]}</a>'
         for l in LANGS)
+    tabs = "".join(
+        f'<a href="{esc(tab_href(k, lang, rel))}"{" aria-current=page" if k == tab else ""}'
+        f'{" target=_blank rel=noopener" if TAB[k][0] is None else ""}>{lab[lang]}</a>' for k, _, lab in TABS)
     og_img = f'<meta property="og:image" content="{esc(size(image, "w1200"))}">' if image else ""
     lb = ""
     if lightbox:
@@ -255,6 +284,8 @@ def page(path, lang, pid, title, desc, body, image="", lightbox=False):
               f'<button id="lbnext" aria-label="{UI[lang]["next"]}">→</button>'
               f'<button id="lbclose">{UI[lang]["close"]}</button></span></div></div>'
               f'<script src="{rel}assets/app.js?v={ASSET_V}"></script>')
+    banner = asset(site.get("banner_home" if home else "banner_strip"), rel)
+    hero = f'<div class="hero-t"><h1>{esc(text(site["home"]["title"], lang))}</h1></div>' if home else ""
     doc = f"""<!doctype html>
 <html lang="{HTML_LANG[lang]}">
 <head>
@@ -262,19 +293,23 @@ def page(path, lang, pid, title, desc, body, image="", lightbox=False):
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
-{robots}<link rel="canonical" href="{BASE}/{url_of(lang, pid)}">{alts}
+{robots}<link rel="canonical" href="{BASE}/{url_of(lang)}{slug}">{alts}
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}">
-<meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{BASE}/{url_of(lang, pid)}">{og_img}
+<meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{BASE}/{url_of(lang)}{slug}">{og_img}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <link rel="stylesheet" href="{rel}assets/style.css?v={ASSET_V}">
 </head>
 <body>
+<header class="banner{" home" if home else ""}" style="background-image:url('{esc(banner)}')">
+<div class="band"><a class="brand" href="{home_href}">{esc(site["name"])}</a>
+<span class="lang">{lang_links}</span>
+<nav class="tabs" aria-label="{"Sections" if lang == "en" else "Розділи"}">{tabs}</nav></div>
+{hero}</header>
 <div class="wrap">
-<header class="sitebar"><a class="brand" href="{rel}{url_of(lang)}">{esc(site["name"])}</a>
-<nav><a href="{rel}{url_of(lang)}">{UI[lang]["all"]}</a><span class="lang">{lang_links}</span></nav></header>
 {body}
-<footer class="foot mono"><a href="{esc(site["blog_url"])}" target="_blank" rel="noopener">{UI[lang]["blog"]} ↗</a>
+<footer class="foot mono"><a href="{esc(site.get("diary_url") or site["blog_url"])}" target="_blank" rel="noopener">{UI[lang]["blog"]} ↗</a>
+<a href="{esc(site.get("youtube_url", ""))}" target="_blank" rel="noopener">YouTube ↗</a>
 <span>© {esc(site["name"])}</span></footer>
 </div>
 {lb}
@@ -283,6 +318,74 @@ def page(path, lang, pid, title, desc, body, image="", lightbox=False):
 """
     os.makedirs(os.path.dirname(f"{OUT}/{path}") or OUT, exist_ok=True)
     open(f"{OUT}/{path}", "w", encoding="utf-8").write(doc)
+
+
+def cards_html(ids, lang, rel):
+    ui, cards = UI[lang], []
+    for pid in ids:
+        p, _ = project(pid, lang)
+        m = p["meta"]
+        photos = photos_of(p)
+        dates = sorted(d for c in p["chapters"] for d in chapter_info(c)[0] if d)
+        when = month_span(dates[0], dates[-1], lang) + " · " if dates else ""
+        cover = m.get("cover") or (photos[-1] if photos else "")
+        cards.append(f'<a class="card" href="{rel}{pid}/"><div class="ph" style="background-image:url(\'{esc(size(cover, "w600"))}\')"></div>'
+                     f'<div class="tx"><h3>{esc(m["title"])}</h3><p>{esc(m.get("description", ""))}</p>'
+                     f'<span class="mono">{when}{len(photos)} {ui["photos"]}</span></div></a>')
+    return f'<div class="cards">{"".join(cards)}</div>'
+
+
+def groups_html(tab, lang, rel):
+    out = []
+    for s in sections:
+        if s.get("tab", "projects") != tab:
+            continue
+        ids = [pid for pid in order if EN[pid]["meta"].get("section") == s["id"]]
+        if ids:
+            out.append(f'<section class="group"><h2>{esc(text(s["title"], lang))} <span class="mono">{len(ids)} {UI[lang]["projects"]}</span></h2>'
+                       + cards_html(ids, lang, rel) + "</section>")
+    return "\n".join(out)
+
+
+def tab_of(pid):
+    s = next((x for x in sections if x["id"] == EN[pid]["meta"].get("section")), {})
+    return s.get("tab", "projects")
+
+
+def latest_posts(n=5):
+    """Newest diary posts from the saved blog data (the Home page refreshes them live from Blogger)."""
+    seen, out = set(), []
+    for v in sorted(sec.values(), key=lambda v: v["date"], reverse=True):
+        if v["kind"] != "post" or v["url"] in seen:
+            continue
+        seen.add(v["url"])
+        img = next((PHOTOS[i] for x in sec.values() if x["url"] == v["url"] for i in x["imgs"] if i in PHOTOS), "")
+        out.append((v["date"], v["ptitle"].strip(), v["url"], img))
+        if len(out) == n:
+            break
+    return out
+
+
+PAGES = {  # simple pages, filled in step by step
+    "boat": {"en": ("The Boat", "The Irwin Citation 34: what she is, what I like and dislike about her, and every upgrade I made."),
+             "ua": ("Човен", "Irwin Citation 34: що це за човен, що мені в ньому подобається і ні, і всі мої покращення.")},
+    "workshop": {"en": ("Workshop", "3D models, drawings and electronics from the rebuild, free to download."),
+                 "ua": ("Майстерня", "3D-моделі, креслення й електроніка з відновлення, можна завантажити безкоштовно.")},
+    "videos": {"en": ("Videos", "Sailing and project videos from the Sailing Vira channel."),
+               "ua": ("Відео", "Відео з плавань і проєктів на каналі Sailing Vira.")},
+    "about": {"en": ("About me", "Who is behind Vira."), "ua": ("Про мене", "Хто стоїть за «Вірою».")},
+    "contact": {"en": ("Contact", "Questions about the boat or the projects? Write to me."),
+                "ua": ("Контакти", "Питання про човен чи проєкти? Пишіть.")},
+}
+SOON = {"en": "This page is being built. Come back soon.", "ua": "Ця сторінка ще будується. Зазирніть трохи згодом."}
+HOME_UI = {
+    "en": {"projects_t": "Projects", "projects_p": "Everything I rebuilt on Vira, one story per project.",
+           "all": "All {n} projects →", "sail_p": "Days on the water: from Lake Travis to Galveston Bay.",
+           "diary_t": "Latest from the diary", "diary_all": "Open the diary →", "go": "Open →"},
+    "ua": {"projects_t": "Проєкти", "projects_p": "Усе, що я відновив на «Вірі», по історії на кожен проєкт.",
+           "all": "Усі {n} проєкти →", "sail_p": "Дні на воді: від озера Тревіс до Галвестонської затоки.",
+           "diary_t": "Свіже зі щоденника", "diary_all": "Відкрити щоденник →", "go": "Відкрити →"},
+}
 
 
 # ---------------------------------------------------------------- build
@@ -295,6 +398,7 @@ posts = {(v["date"], v["ptitle"]) for v in sec.values() if v["kind"] == "post"}
 stats = {"posts": len(posts), "photos": sum(len(photos_of(EN[p])) for p in order),
          "first": min(p[0] for p in posts)[:4], "last": max(p[0] for p in posts)[:4],
          "days": max(d for p in posts for d in (daynums(p[1]) or [0]))}
+LATEST = latest_posts()
 
 for lang in LANGS:
     ui = UI[lang]
@@ -327,42 +431,83 @@ for lang in LANGS:
         html_body = (head + f'<div class="layout"><div class="story">' + "\n".join(body) + "</div>"
                      f'<aside class="toc">{"".join(toc)}</aside></div>' + nav)
         photos = photos_of(p)
-        page(url_of(lang, pid) + "index.html", lang, pid, f"{title} · {site['name']}", blurb, html_body,
-             m.get("cover") or (photos[-1] if photos else ""), lightbox=True)
+        page(f"{pid}/", lang, f"{title} · {site['name']}", blurb, html_body,
+             m.get("cover") or (photos[-1] if photos else ""), lightbox=True, tab=tab_of(pid))
+
+    # -- projects and sailing lists
+    for key, slug in (("projects", "projects/"), ("sailing", "voyages/")):
+        label = TAB[key][1][lang]
+        lead = HOME_UI[lang]["projects_p"] if key == "projects" else HOME_UI[lang]["sail_p"]
+        page(slug, lang, f"{label} · {site['name']}", lead,
+             f'<header class="phead"><h1>{esc(label)}</h1><p>{esc(lead)}</p></header>' + groups_html(key, lang, "../"),
+             tab=key)
+
+    # -- simple pages (being built)
+    for key, t in PAGES.items():
+        label, lead = t[lang]
+        extra = ""
+        if key == "videos":
+            extra = f'<p><a href="{esc(site.get("youtube_url", ""))}" target="_blank" rel="noopener">YouTube: @sailingvira ↗</a></p>'
+        page(TAB[key][0], lang, f"{label} · {site['name']}", lead,
+             f'<header class="phead"><h1>{esc(label)}</h1><p>{esc(lead)}</p></header>'
+             f'<p class="pending">{SOON[lang]}</p>{extra}', tab=key)
 
     # -- home
-    h = site["home"]
-    parts = [f'<header class="mast"><span class="eyebrow">{esc(text(h["eyebrow"], lang))}</span>'
-             f'<h1>{esc(text(h["title"], lang))}</h1><p>{esc(text(h["intro"], lang))}</p>'
-             f'<div class="stats mono"><span><b>{stats["posts"]}</b>{ui["posts"]}</span>'
-             f'<span><b>{stats["days"]}</b>{ui["days"]}</span>'
-             f'<span><b>{stats["photos"]:,}</b>{ui["photos"]}</span>'.replace(",", " " if lang == "ua" else ",")
-             + f'<span><b>{stats["first"]}–{stats["last"]}</b>{ui["years"]}</span></div></header>']
-    for s in sections:
-        ids = [pid for pid in order if EN[pid]["meta"].get("section") == s["id"]]
-        if not ids:
-            continue
-        cards = []
-        for pid in ids:
-            p, _ = project(pid, lang)
-            m = p["meta"]
-            photos = photos_of(p)
-            dates = sorted(d for c in p["chapters"] for d in chapter_info(c)[0] if d)
-            when = month_span(dates[0], dates[-1], lang) + " · " if dates else ""
-            cover = m.get("cover") or (photos[-1] if photos else "")
-            cards.append(f'<a class="card" href="{pid}/"><div class="ph" style="background-image:url(\'{esc(size(cover, "w600"))}\')"></div>'
-                         f'<div class="tx"><h3>{esc(m["title"])}</h3><p>{esc(m.get("description", ""))}</p>'
-                         f'<span class="mono">{when}{len(photos)} {ui["photos"]}</span></div></a>')
-        parts.append(f'<section class="group"><h2>{esc(text(s["title"], lang))} <span class="mono">{len(ids)} {ui["projects"]}</span></h2>'
-                     f'<div class="cards">{"".join(cards)}</div></section>')
-    page(url_of(lang) + "index.html", lang, None, f"{site['name']} · {text(h['eyebrow'], lang)}",
-         text(h["intro"], lang), "\n".join(parts),
-         EN[order[-1]]["meta"].get("cover", ""))
+    h, hu = site["home"], HOME_UI[lang]
+    mosaic = "".join(
+        f'<a href="{pid}/" title="{esc(project(pid, lang)[0]["meta"]["title"])}">'
+        f'<i style="background-image:url(\'{esc(size(EN[pid]["meta"].get("cover", ""), "s200-c"))}\')"></i></a>'
+        for pid in order)
+    proj_n = sum(1 for pid in order if tab_of(pid) == "projects")
+    rows = "".join(
+        f'<a class="drow" href="{esc(u)}" target="_blank" rel="noopener"><i style="background-image:url(\'{esc(size(img, "w240"))}\')"></i>'
+        f'<span><b>{esc(t)}</b><span class="mono">{fmt(d, lang)}</span></span></a>' for d, t, u, img in LATEST)
+    sail_cover = EN["sailing"]["meta"].get("cover", "")
+    boat_cover = EN["hull-bottom"]["meta"].get("cover", "")
+    simple = lambda key: (f'<a class="tile" href="{TAB[key][0]}"><h2>{PAGES[key][lang][0]}</h2>'
+                          f'<p>{esc(PAGES[key][lang][1])}</p><span class="go">{hu["go"]}</span></a>')
+    diary_feed = (site.get("diary_url") or site["blog_url"]).rstrip("/")
+    months = json.dumps(UI[lang]["months"], ensure_ascii=False)
+    body = f"""<header class="mast"><span class="eyebrow">{esc(text(h["eyebrow"], lang))}</span>
+<p>{esc(text(h["intro"], lang))}</p>
+<div class="stats mono"><span><b>{stats["posts"]}</b>{ui["posts"]}</span><span><b>{stats["days"]}</b>{ui["days"]}</span>
+<span><b>{f'{stats["photos"]:,}'.replace(",", " " if lang == "ua" else ",")}</b>{ui["photos"]}</span>
+<span><b>{stats["first"]}–{stats["last"]}</b>{ui["years"]}</span></div></header>
+<div class="tiles">
+<div class="tile wide"><h2><a href="projects/">{hu["projects_t"]}</a></h2><p>{hu["projects_p"]}</p>
+<div class="mosaic">{mosaic}</div><a class="go" href="projects/">{hu["all"].format(n=proj_n)}</a></div>
+<a class="tile" href="boat/"><div class="ph" style="background-image:url('{esc(size(boat_cover, "w600"))}')"></div>
+<h2>{PAGES["boat"][lang][0]}</h2><p>{esc(PAGES["boat"][lang][1])}</p><span class="go">{hu["go"]}</span></a>
+<a class="tile" href="voyages/"><div class="ph" style="background-image:url('{esc(size(sail_cover, "w600"))}')"></div>
+<h2>{TAB["sailing"][1][lang]}</h2><p>{hu["sail_p"]}</p><span class="go">{hu["go"]}</span></a>
+<div class="tile wide"><h2><a href="{esc(diary_feed)}" target="_blank" rel="noopener">{hu["diary_t"]}</a></h2>
+<div class="diary" id="diary">{rows}</div><a class="go" href="{esc(diary_feed)}" target="_blank" rel="noopener">{hu["diary_all"]}</a></div>
+{simple("workshop")}{simple("videos")}{simple("about")}{simple("contact")}
+</div>
+<script>
+window.svDiary = function (d) {{
+  var e = (d.feed && d.feed.entry) || [], m = {months}, box = document.getElementById("diary"), h = "";
+  e.forEach(function (x) {{
+    var l = (x.link || []).filter(function (k) {{ return k.rel === "alternate"; }})[0];
+    if (!l) return;
+    var t = (x.title.$t || "").replace(/[<&]/g, function (c) {{ return c === "<" ? "&lt;" : "&amp;"; }});
+    var p = x.published.$t, dt = (+p.slice(8, 10)) + " " + m[+p.slice(5, 7) - 1] + " " + p.slice(0, 4);
+    var img = x.media$thumbnail ? x.media$thumbnail.url.replace(/s72-c/, "w240-h180-c") : "";
+    h += '<a class="drow" href="' + l.href + '" target="_blank" rel="noopener"><i style="background-image:url(\\'' + img + '\\')"></i><span><b>' + t + '</b><span class="mono">' + dt + '</span></span></a>';
+  }});
+  if (h) box.innerHTML = h;
+}};
+</script>
+<script src="{esc(diary_feed)}/feeds/posts/default?alt=json-in-script&amp;max-results=5&amp;callback=svDiary" async></script>"""
+    page("", lang, f"{site['name']} · {text(h['eyebrow'], lang)}", text(h["intro"], lang), body,
+         site.get("banner_home", ""), tab="home", home=True)
 
 # -- 404, sitemap, robots
-page("404.html", "en", None, f"{UI['en']['notfound']} · {site['name']}", UI["en"]["notfound_text"],
-     f'<header class="phead"><h1>{UI["en"]["notfound"]}</h1><p><a href="/">{UI["en"]["notfound_text"]}</a></p></header>')
-urls = [url_of(l, pid) for l in LANGS for pid in [None] + order]
+page("", "en", f"{UI['en']['notfound']} · {site['name']}", UI["en"]["notfound_text"],
+     f'<header class="phead"><h1>{UI["en"]["notfound"]}</h1><p><a href="{BASE}/projects/">{UI["en"]["notfound_text"]}</a></p></header>',
+     path="404.html")
+slugs = [""] + [s for k, s, _ in TABS if s] + [f"{pid}/" for pid in order]
+urls = [url_of(l) + s for l in LANGS for s in dict.fromkeys(slugs)]
 open(f"{OUT}/sitemap.xml", "w").write(
     '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     + "".join(f"  <url><loc>{BASE}/{u}</loc></url>\n" for u in urls) + "</urlset>\n")

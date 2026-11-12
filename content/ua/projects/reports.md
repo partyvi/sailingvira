@@ -1,8 +1,8 @@
 ---
 id: reports
 title: "Звіти про прогрес"
-section: journey
-order: 4
+section: story
+order: 2
 description: "Піврічні звіти і списки зробленого."
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png
 ---

@@ -1,7 +1,7 @@
 ---
 id: beginning
 title: "Початок"
-section: journey
+section: story
 order: 1
 description: "Як «Віра» знайшла мене, якою вона була і що з нею було не так."
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6fOXij0dI5VfaIfzYLFs6JtzbobtxSUPDlF6af_-z34R76petG1LoKWXxSeez5EegY7lWfeoDpjoaTYtRxcvmAFLN6Lq0STzAo5IXlWLqO8br_6rhG-94kiyEHAbcdSWW49Hvtf96gqX7vtMZk_LnRWb2JV-1m-_UgiDSndV1uwcCZqJ-el9HQyjjxluS/s1600/Untitled.jpg
