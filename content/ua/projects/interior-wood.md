@@ -732,7 +732,7 @@ Diary: [19 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-sa
 
 Грудень 2024-го: ласкаво просимо на борт. Майже всю фанеру в інтер'єрі замінено, крім лівої частини головної переборки, стінок навколо гальюна, трьох панелей у шафках камбуза і деяких накладок із масиву. Нова права головна переборка. Підлога — якісний жорсткий вініл. Увесь білий гелькоут усередині легенько зашліфований, щоб освіжити і прибрати «упс»-краплі епоксидки, фарбу і 46 років вивітрювання, потім відполірований і навощений.
 
-![Головний салон, грудень 2024](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJxv3zOdjmjyYwCNyPcHrbMZFlJ-mMOzVi_pyPjr3mq3FG7ux-2_fjj7B9aBSStYzE9OPWYBH6Yg56ClJ7VDpm3SLWGsiQKp5kb8b3o-7YDBjOI_HueQ2snWMUbRwzPElerP40TFLONmm-KO_vYbMnPGatIGe4lHozAnWgfCwu14SC0itGQUTMHAFp3Mz/s1600/IMG_9581.HEIC)
+![«Віра» біля причалу вночі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJxv3zOdjmjyYwCNyPcHrbMZFlJ-mMOzVi_pyPjr3mq3FG7ux-2_fjj7B9aBSStYzE9OPWYBH6Yg56ClJ7VDpm3SLWGsiQKp5kb8b3o-7YDBjOI_HueQ2snWMUbRwzPElerP40TFLONmm-KO_vYbMnPGatIGe4lHozAnWgfCwu14SC0itGQUTMHAFp3Mz/s1600/IMG_9581.HEIC)
 
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 

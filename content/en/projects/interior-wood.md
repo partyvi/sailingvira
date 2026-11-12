@@ -732,7 +732,7 @@ Diary: [19 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-sa
 
 December 2024: welcome aboard. Almost all the plywood in the interior is replaced, except the port part of the main bulkhead, the walls around the head, three panels in the galley cabinets, and some solid wood trim. A new starboard main bulkhead. The floor is high-quality rigid vinyl. All the white gelcoat inside lightly sanded to refresh it and remove "oops" epoxy drops, paint, and 46 years of weathering, then polished and waxed.
 
-![Main cabin, December 2024](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJxv3zOdjmjyYwCNyPcHrbMZFlJ-mMOzVi_pyPjr3mq3FG7ux-2_fjj7B9aBSStYzE9OPWYBH6Yg56ClJ7VDpm3SLWGsiQKp5kb8b3o-7YDBjOI_HueQ2snWMUbRwzPElerP40TFLONmm-KO_vYbMnPGatIGe4lHozAnWgfCwu14SC0itGQUTMHAFp3Mz/s1600/IMG_9581.HEIC)
+![Vira at the dock at night](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJxv3zOdjmjyYwCNyPcHrbMZFlJ-mMOzVi_pyPjr3mq3FG7ux-2_fjj7B9aBSStYzE9OPWYBH6Yg56ClJ7VDpm3SLWGsiQKp5kb8b3o-7YDBjOI_HueQ2snWMUbRwzPElerP40TFLONmm-KO_vYbMnPGatIGe4lHozAnWgfCwu14SC0itGQUTMHAFp3Mz/s1600/IMG_9581.HEIC)
 
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 

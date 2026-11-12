@@ -47,6 +47,9 @@ for v in sec.values():
 IMG = re.compile(r"^!\[([^\]]*)\]\(([^)\s]+)\)\s*$")
 SRC = re.compile(r"^(Diary|Story page):\s*(.*)$")
 LINK = re.compile(r"\[([^\]]*)\]\(([^)\s]+)\)")
+CARD = re.compile(r"^Card:\s*\[([^\]]+)\]\(([^)\s]+)\)\s*(?:\|\s*(.*))?$")
+PAIR = re.compile(r"^Was/now:\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*(?:\|\s*(.*))?$")
+PAIR_UI = {"en": ("Was", "Now"), "ua": ("Було", "Стало")}
 esc = html.escape
 
 
@@ -115,6 +118,26 @@ def parse_body(body):
             if cur:
                 cur["links"] += [l["url"] for l in links]
             continue
+        if ln.startswith("|"):
+            flush(); t = target()
+            cells = [c.strip() for c in ln.strip("|").split("|")]
+            if all(re.fullmatch(r":?-{2,}:?", c) for c in cells):
+                continue
+            if not (t and "table" in t[-1]):
+                t.append({"table": []})
+            t[-1]["table"].append([inline(c) for c in cells]); continue
+        m = CARD.match(ln)
+        if m:
+            flush(); t = target()
+            if not (t and "cards" in t[-1]):
+                t.append({"cards": []})
+            t[-1]["cards"].append((m.group(1), m.group(2), inline(m.group(3) or ""))); continue
+        m = PAIR.match(ln)
+        if m:
+            flush(); t = target()
+            if not (t and "pairs" in t[-1]):
+                t.append({"pairs": []})
+            t[-1]["pairs"].append((m.group(2), m.group(1), m.group(4), m.group(3), inline(m.group(5) or ""))); continue
         if ln.startswith("- "):
             flush(); t = target()
             if not (t and "ul" in t[-1]):
@@ -137,6 +160,20 @@ def load_projects(lang):
             out[fn[:-3]] = {"meta": meta, "intro": intro, "chapters": chapters}
     return out
 
+
+def load_pages(lang):
+    """Site pages (The Boat, Workshop, ...): content/<lang>/pages/<id>.md with title, description, slug, tab."""
+    d, out = f"{B}/content/{lang}/pages", {}
+    if os.path.isdir(d):
+        for fn in sorted(os.listdir(d)):
+            if fn.endswith(".md"):
+                meta, body = read_md(f"{d}/{fn}")
+                intro, chapters = parse_body(body)
+                out[fn[:-3]] = {"meta": meta, "intro": intro, "chapters": chapters}
+    return out
+
+
+PG = {lang: load_pages(lang) for lang in ["en", "ua"]}
 
 sections = sorted(yaml.safe_load(open(f"{B}/content/sections.yml", encoding="utf-8")), key=lambda s: s["order"])
 P = {lang: load_projects(lang) for lang in LANGS}
@@ -213,10 +250,26 @@ def src_html(links, lang):
     return '<div class="src mono">' + "".join(out) + "</div>"
 
 
-def blocks_html(blocks, lang, alt):
+def blocks_html(blocks, lang, alt, rel=""):
     h = []
     for b in blocks:
-        if "p" in b:
+        if "table" in b:
+            rows = b["table"]
+            h.append('<div class="tbl"><table><thead><tr>' + "".join(f"<th>{c}</th>" for c in rows[0]) + "</tr></thead><tbody>"
+                     + "".join("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>" for r in rows[1:]) + "</tbody></table></div>")
+        elif "cards" in b:
+            h.append('<div class="lcards">' + "".join(
+                f'<a class="lcard" href="{esc(u if re.match(r"https?://", u) else rel + url_of(lang) + u)}"'
+                f'{" target=_blank rel=noopener" if re.match(r"https?://", u) else ""}><b>{esc(t)}</b><span>{d}</span><i>→</i></a>'
+                for t, u, d in b["cards"]) + "</div>")
+        elif "pairs" in b:
+            was, now = PAIR_UI[lang]
+            for u1, a1, u2, a2, cap in b["pairs"]:
+                fig = lambda u, a, lab: (f'<button data-big="{esc(size(u, "s1600"))}" aria-label="{UI[lang]["open"]}">'
+                                         f'<img src="{esc(size(u, "w800"))}" loading="lazy" alt="{esc(a or alt)}"><span>{lab}</span></button>')
+                h.append(f'<figure class="pair"><div class="gal pairg">{fig(u1, a1, was)}{fig(u2, a2, now)}</div>'
+                         + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
+        elif "p" in b:
             h.append(f"<p>{b['p']}</p>")
         elif "ul" in b:
             h.append("<ul>" + "".join(f"<li>{x}</li>" for x in b["ul"]) + "</ul>")
@@ -435,8 +488,34 @@ for lang in LANGS:
              f'<header class="phead"><h1>{esc(label)}</h1><p>{esc(lead)}</p></header>' + groups_html(key, lang, "../"),
              tab=key)
 
-    # -- simple pages (being built)
+    # -- site pages from content/<lang>/pages (fall back to English)
+    for gid, enp in PG["en"].items():
+        pg = PG[lang].get(gid) or enp
+        m = {**enp["meta"], **{k: v for k, v in pg["meta"].items() if v}}
+        slug, rel = m["slug"], "../" * (url_of(lang) + m["slug"]).count("/")
+        title, blurb = m.get("title", gid), m.get("description", "")
+        body, toc = [], []
+        if pg["intro"]:
+            body.append('<div class="intro">' + blocks_html(pg["intro"], lang, title, rel) + "</div>")
+        for ci, c in enumerate(pg["chapters"]):
+            (a, b2), days = chapter_info(c)
+            log = f'<div class="log mono"><span>{span(a, b2, lang)}</span></div>' if a else ""
+            toc.append(f'<a href="#c{ci + 1}">{esc(c["h"])}</a>')
+            body.append(f'<section class="chap" id="c{ci + 1}"><h2>{esc(c["h"])}</h2>{log}\n'
+                        + blocks_html(c["blocks"], lang, f"{title}: {c['h']}", rel) + "</section>")
+        note = "" if gid in PG[lang] or lang == "en" else f'<p class="note">{ui["missing"]}</p>'
+        eyebrow = f'<span class="eyebrow">{esc(m["eyebrow"])}</span>' if m.get("eyebrow") else ""
+        head = f'<header class="phead">{eyebrow}<h1>{esc(title)}</h1><p>{esc(blurb)}</p>{note}</header>'
+        side = f'<aside class="toc">{"".join(toc)}</aside>' if len(toc) > 2 else ""
+        page(slug, lang, f"{title} · {site['name']}", blurb,
+             head + f'<div class="layout{"" if side else " one"}"><div class="story">' + "\n".join(body) + f"</div>{side}</div>",
+             m.get("cover", ""), lightbox=True, tab=m.get("tab"))
+
+    # -- simple pages (being built) for tabs without a content page
+    have = {PG["en"][g]["meta"].get("slug") for g in PG["en"]}
     for key, t in PAGES.items():
+        if TAB[key][0] in have:
+            continue
         label, lead = t[lang]
         extra = ""
         if key == "videos":
@@ -499,7 +578,7 @@ window.svDiary = function (d) {{
 page("", "en", f"{UI['en']['notfound']} · {site['name']}", UI["en"]["notfound_text"],
      f'<header class="phead"><h1>{UI["en"]["notfound"]}</h1><p><a href="{BASE}/projects/">{UI["en"]["notfound_text"]}</a></p></header>',
      path="404.html")
-slugs = [""] + [s for k, s, _ in TABS if s] + [f"{pid}/" for pid in order]
+slugs = [""] + [s for k, s, _ in TABS if s] + [f"{pid}/" for pid in order] + [g["meta"]["slug"] for g in PG["en"].values()]
 urls = [url_of(l) + s for l in LANGS for s in dict.fromkeys(slugs)]
 open(f"{OUT}/sitemap.xml", "w").write(
     '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
