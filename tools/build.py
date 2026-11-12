@@ -134,6 +134,8 @@ def parse_body(body):
             if not (t and "cards" in t[-1]):
                 t.append({"cards": []})
             t[-1]["cards"].append((m.group(1), m.group(2), inline(m.group(3) or ""))); continue
+        if ln in ("[videos]", "[contact form]"):
+            flush(); target().append({"special": ln.strip("[]")}); continue
         m = ITEM.match(ln)
         if m:
             flush(); t = target()
@@ -258,6 +260,54 @@ def src_html(links, lang):
     return '<div class="src mono">' + "".join(out) + "</div>"
 
 
+def youtube_videos():
+    """Latest videos of the channel in site.yml, read from YouTube at build time. Empty when offline."""
+    import urllib.request, xml.etree.ElementTree as ET
+    url = site.get("youtube_url", "")
+    if not url:
+        return []
+    try:
+        get = lambda u: urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=15).read().decode("utf-8", "replace")
+        cid = re.search(r'"(?:channelId|externalId)":"(UC[\w-]{22})"', get(url)).group(1)
+        ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+        root = ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"))
+        return [{"id": e.find("yt:videoId", ns).text, "title": e.find("a:title", ns).text,
+                 "date": e.find("a:published", ns).text[:10]} for e in root.findall("a:entry", ns)]
+    except Exception as err:  # offline or YouTube changed: the page shows the channel link only
+        print(f"YouTube videos not loaded: {err}")
+        return []
+
+
+VIDEOS = youtube_videos()
+FORM_UI = {"en": {"name": "Your name", "email": "Your email (so I can answer)", "msg": "Message", "send": "Send",
+                  "off": "The contact form opens soon. Until then, leave a comment on any diary post."},
+           "ua": {"name": "Ваше ім'я", "email": "Ваш email (щоб я міг відповісти)", "msg": "Повідомлення", "send": "Надіслати",
+                  "off": "Форма зв'язку скоро запрацює. А поки залиште коментар під будь-яким записом щоденника."}}
+
+
+def special_html(kind, lang):
+    if kind == "videos":
+        yt = esc(site.get("youtube_url", ""))
+        if not VIDEOS:
+            return f'<p><a class="dl" href="{yt}" target="_blank" rel="noopener">YouTube @sailingvira ↗</a></p>'
+        return '<div class="items vids">' + "".join(
+            f'<a class="item" href="https://www.youtube.com/watch?v={esc(v["id"])}" target="_blank" rel="noopener">'
+            f'<span class="ph" style="background-image:url(\'https://i.ytimg.com/vi/{esc(v["id"])}/hqdefault.jpg\')"><b>▶</b></span>'
+            f'<span class="tx"><h3>{esc(v["title"])}</h3><span class="mono">{fmt(v["date"], lang)}</span></span></a>'
+            for v in VIDEOS) + f'</div><p><a class="dl" href="{yt}" target="_blank" rel="noopener">YouTube @sailingvira ↗</a></p>'
+    if kind == "contact form":
+        f, action = FORM_UI[lang], site.get("contact_form", "")
+        if not action:
+            return f'<p class="pending">{f["off"]}</p>'
+        return (f'<form class="cform" action="{esc(action)}" method="POST">'
+                f'<label for="cf-name">{f["name"]}</label><input id="cf-name" name="name" required autocomplete="name">'
+                f'<label for="cf-email">{f["email"]}</label><input id="cf-email" name="email" type="email" required autocomplete="email">'
+                f'<label for="cf-msg">{f["msg"]}</label><textarea id="cf-msg" name="message" rows="7" required></textarea>'
+                f'<input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">'
+                f'<button type="submit">{f["send"]}</button></form>')
+    return ""
+
+
 def blocks_html(blocks, lang, alt, rel=""):
     h = []
     for b in blocks:
@@ -270,6 +320,8 @@ def blocks_html(blocks, lang, alt, rel=""):
                 f'<a class="lcard" href="{esc(u if re.match(r"https?://", u) else rel + url_of(lang) + u)}"'
                 f'{" target=_blank rel=noopener" if re.match(r"https?://", u) else ""}><b>{esc(t)}</b><span>{d}</span><i>→</i></a>'
                 for t, u, d in b["cards"]) + "</div>")
+        elif "special" in b:
+            h.append(special_html(b["special"], lang))
         elif "items" in b:
             st, dl, soon = ITEM_UI[lang]
             cards = []
@@ -557,6 +609,11 @@ for lang in LANGS:
     boat_cover = EN["hull-bottom"]["meta"].get("cover", "")
     simple = lambda key: (f'<a class="tile" href="{TAB[key][0]}"><h2>{PAGES[key][lang][0]}</h2>'
                           f'<p>{esc(PAGES[key][lang][1])}</p><span class="go">{hu["go"]}</span></a>')
+    video_tile = simple("videos")
+    if VIDEOS:
+        v = VIDEOS[0]
+        video_tile = (f'<a class="tile" href="videos/"><div class="ph" style="background-image:url(\'https://i.ytimg.com/vi/{esc(v["id"])}/hqdefault.jpg\')"></div>'
+                      f'<h2>{PAGES["videos"][lang][0]}</h2><p>{esc(v["title"])}</p><span class="go">{hu["go"]}</span></a>')
     diary_feed = (site.get("diary_url") or site["blog_url"]).rstrip("/")
     months = json.dumps(UI[lang]["months"], ensure_ascii=False)
     body = f"""<header class="mast"><span class="eyebrow">{esc(text(h["eyebrow"], lang))}</span>
@@ -573,7 +630,7 @@ for lang in LANGS:
 <h2>{TAB["sailing"][1][lang]}</h2><p>{hu["sail_p"]}</p><span class="go">{hu["go"]}</span></a>
 <div class="tile wide"><h2><a href="{esc(diary_feed)}" target="_blank" rel="noopener">{hu["diary_t"]}</a></h2>
 <div class="diary" id="diary">{rows}</div><a class="go" href="{esc(diary_feed)}" target="_blank" rel="noopener">{hu["diary_all"]}</a></div>
-{simple("workshop")}{simple("videos")}{simple("about")}{simple("contact")}
+{simple("workshop")}{video_tile}{simple("about")}{simple("contact")}
 </div>
 <script>
 window.svDiary = function (d) {{
