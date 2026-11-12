@@ -195,6 +195,17 @@ for s in sections:
 
 
 # ---------------------------------------------------------------- helpers
+UPDATED = {"en": "Last updated", "ua": "Оновлено"}
+MONTHS_FULL = {"en": ["January", "February", "March", "April", "May", "June", "July", "August",
+                      "September", "October", "November", "December"],
+               "ua": ["січня", "лютого", "березня", "квітня", "травня", "червня", "липня", "серпня",
+                      "вересня", "жовтня", "листопада", "грудня"]}
+
+
+def fmt_full(d, lang):
+    return f"{int(d[8:10])} {MONTHS_FULL[lang][int(d[5:7]) - 1]} {d[:4]}"
+
+
 def fmt(d, lang):
     return f"{int(d[8:])} {UI[lang]['months'][int(d[5:7]) - 1]} {d[:4]}"
 
@@ -577,6 +588,8 @@ for lang in LANGS:
         note = "" if gid in PG[lang] or lang == "en" else f'<p class="note">{ui["missing"]}</p>'
         eyebrow = f'<span class="eyebrow">{esc(m["eyebrow"])}</span>' if m.get("eyebrow") else ""
         head = f'<header class="phead">{eyebrow}<h1>{esc(title)}</h1><p>{esc(blurb)}</p>{note}</header>'
+        if m.get("updated"):  # e.g. the Upgrades log, kept in step with the blog page
+            body.append(f'<p class="updated mono">{UPDATED[lang]}: {fmt_full(str(m["updated"]), lang)}</p>')
         side = f'<aside class="toc">{"".join(toc)}</aside>' if len(toc) > 2 else ""
         page(slug, lang, f"{title} · {site['name']}", blurb,
              head + f'<div class="layout{"" if side else " one"}"><div class="story">' + "\n".join(body) + f"</div>{side}</div>",
