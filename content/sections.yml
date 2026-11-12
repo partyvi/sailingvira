@@ -1,0 +1,30 @@
+- id: hull
+  order: 1
+  title:
+    en: Hull & deck
+    uk: ''
+- id: rig
+  order: 2
+  title:
+    en: Rig & sails
+    uk: ''
+- id: engine
+  order: 3
+  title:
+    en: Engine & mechanical
+    uk: ''
+- id: electric
+  order: 4
+  title:
+    en: Electrical & electronics
+    uk: ''
+- id: interior
+  order: 5
+  title:
+    en: Interior & comfort
+    uk: ''
+- id: journey
+  order: 6
+  title:
+    en: The journey
+    uk: ''
