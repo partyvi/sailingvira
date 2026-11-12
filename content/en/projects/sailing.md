@@ -22,7 +22,7 @@ Diary: [18 Dec 2021](https://irwin34.blogspot.com/2021/12/4-12182021-lake-travis
 Welcome to the marina.
 
 ![Welcome to Commanders Point marina](https://blogger.googleusercontent.com/img/a/AVvXsEiP-u0sQGEZeqcfCOKRelq3_jYksv7yd0CF8Fqy_LnoPaLh7wBhqgV1bGeXtNELQG3eo0CKVrNK-U0eGP5Xd6l0fXJdoXjJzkvXZ3ncOaXVdoW8-DDy2RWrd_Gv48JQvIGm7LvC8ZIUcKod0OqIM8K4RT1zX4tK3SEfnTHRXRzkMImY-_fYBuos34nc8g=s1600)
-![Welcome to Commanders Point marina](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
+
 
 
 In March 2022 they asked me to free the second slip, so the girls got rafted together.
