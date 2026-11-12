@@ -1,6 +1,8 @@
 # Site settings. Edit in the CMS or by hand.
 name: Sailing Vira
 base_url: https://sailingvira.com
+# Where the site is served now (until sailingvira.com points here). The diary theme links to it.
+live_url: https://partyvi.github.io/sailingvira
 # true = hidden from search engines (until launch)
 noindex: true
 blog_url: https://irwin34.blogspot.com

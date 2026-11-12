@@ -2,7 +2,7 @@
 :root{
   --bg:#F2F5F6; --paper:#FFFFFF; --ink:#10222E; --muted:#56666F; --line:#D3DCE0;
   --accent:#0E6A87; --brass:#8C6A1C; --shade:rgba(16,34,46,.06);
-  --f-display:"Barlow Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-display:"Barlow Condensed","Roboto Condensed","Arial Narrow",system-ui,sans-serif;
   --f-body:"Source Serif 4",Georgia,"Times New Roman",serif;
   --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
 }
@@ -100,7 +100,7 @@ h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.0
 .foot a{color:var(--muted)}
 
 /* banner and tabs: a dark band over the photo (same on every page and on the Blogger diary) */
-.banner{position:relative;display:flex;flex-direction:column;justify-content:space-between;
+.banner{position:relative;width:100%;display:flex;flex-direction:column;justify-content:space-between;
   aspect-ratio:5/1;min-height:150px;max-height:260px;max-width:100%;background:#10222E center/cover no-repeat}
 .banner.home{aspect-ratio:16/7;min-height:320px;max-height:640px;background-position:center 62%}
 .band{display:flex;flex-wrap:wrap;align-items:center;gap:6px 22px;background:rgba(16,34,46,.62);color:#fff;
