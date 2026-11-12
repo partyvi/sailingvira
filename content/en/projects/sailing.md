@@ -24,7 +24,6 @@ Welcome to the marina.
 ![Welcome to Commanders Point marina](https://blogger.googleusercontent.com/img/a/AVvXsEiP-u0sQGEZeqcfCOKRelq3_jYksv7yd0CF8Fqy_LnoPaLh7wBhqgV1bGeXtNELQG3eo0CKVrNK-U0eGP5Xd6l0fXJdoXjJzkvXZ3ncOaXVdoW8-DDy2RWrd_Gv48JQvIGm7LvC8ZIUcKod0OqIM8K4RT1zX4tK3SEfnTHRXRzkMImY-_fYBuos34nc8g=s1600)
 
 
-
 In March 2022 they asked me to free the second slip, so the girls got rafted together.
 
 ![Sea Sun and Vira rafted together](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_D73x2dyLMzQhwlIUuSOseiwz6c9u0iiF01x33zWSfSj_uWYHjpR7ZsUZnqa2b-HQur45uc7nc8v6h_vy58DK5wCKZEPuWTglQu2t5WvHo4qg8nQTsAHbHNgYquq9PcQlAlESK_hOjlS7bPvLcXoSBkzoQFmEUP5J_DyBBi01iep81tM4frTwj6gag/s1600/IMG_2139.HEIC)
