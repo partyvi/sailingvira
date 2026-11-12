@@ -104,7 +104,7 @@ In December 2024 I made one long list of what's improved compared to the factory
 - **2026** engine room light added
 - **2026** PCU Designed and installed for better use of shore power high current power supply.
 - **2026** Batteries monitoring implemented for all batteries on the board over SignalK
-- **2026** 25A inverter battery installed.
+- **2026** 25A inverter battery charger installed.
 - **2026** ELCI breaker installed.
 - **2026** Windlass motor replaced.
 
