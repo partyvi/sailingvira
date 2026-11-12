@@ -6,7 +6,6 @@ order: 2
 description: "Дні під вітрилами, люди, погода і життя довкола човна."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC"
 ---
-
 Уся ця робота заради одного: піти під вітрилами. Тут дні на воді, люди, що ходили зі мною, і життя довкола човна: причали, що переїжджають, озеро, яке висихає і вертається, шторми і нарешті Галвестонська затока.
 
 ## Дівчата разом
@@ -23,9 +22,7 @@ Diary: [18 Dec 2021](https://irwin34.blogspot.com/2021/12/4-12182021-lake-travis
 Ласкаво просимо на марину.
 
 ![Ласкаво просимо на марину Commanders Point](https://blogger.googleusercontent.com/img/a/AVvXsEiP-u0sQGEZeqcfCOKRelq3_jYksv7yd0CF8Fqy_LnoPaLh7wBhqgV1bGeXtNELQG3eo0CKVrNK-U0eGP5Xd6l0fXJdoXjJzkvXZ3ncOaXVdoW8-DDy2RWrd_Gv48JQvIGm7LvC8ZIUcKod0OqIM8K4RT1zX4tK3SEfnTHRXRzkMImY-_fYBuos34nc8g=s1600)
-![Ласкаво просимо на марину Commanders Point](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
 
-Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
 У березні 2022-го нас попросили звільнити друге місце, тож дівчат поставили борт до борту.
 
@@ -119,16 +116,6 @@ Diary: [26 Feb 2023](https://irwin34.blogspot.com/2023/02/set-sail-4-hour-walk-a
 
 ![Туманний ранок на марині](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpWE7J0htxQ5PHxIwiOWW98nCVw7KEl22s8BnkA1dGU8RNCB3LcTXrOMEVp2xZI0ilWnl5h-xYWf-OPvwCl9FX1RF5C3HtrkjzqiOTzUbPbMb1QBREd3XXKrG9pfR2oVD3JW5s0HhY2hjbCzauhkEsVCD6rK5h5aa2QbEUVVlTLtciKbwRbcfs11ynA/s1600/IMG_5497.HEIC)
 
-Diary: [5 Feb 2023](https://irwin34.blogspot.com/2023/02/day-77-24-2523-swower-bulkhead-bottom.html)
-
-Зазвичай я відбираю фото для блогу, але з липня 2023-го почав додавати і бонусні.
-
-![Бонусні фото з марини, липень 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAKbC2GQXEhujILVG8WajI9UkCa9YKTHqYSXzRBlrCK70IBj_5QvENJzjxjg1QznqmQyUsEQwhz9kW3RXN3M6zT6MQmFM1_ZCeK1uOdkB_qFnu3ReMj7KyY5pI5sls2xb_xaVxo8uMvvtb8VqJqHVVWN_Iuz6a2LjUyqbD60atOFkQfwlXVymkKH3-Qidu/s1600/IMG_6170.HEIC)
-![Бонусні фото з марини, липень 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8uq4bctcBc-vDgduMCZ-w71-8pMkekmjMSOK2wj4ZIEMg5IQB75lq63tvtpp_EL46d9EoB977YV3-rHpZtz9TYSEpbro1ntZmXKo8My-eQI2UCqH_vrq-_c9g1pXu7iY9-MFn-EEM-q86uDWEcLqV5MRo-CSKtWb8IEBX8NUHPRuA3xPbC9YX5dgVnnT/s1600/IMG_6178.HEIC)
-![Бонусні фото з марини, липень 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif3blbLXgL1E6ORJzy2P6f22vji2gvJ2vzZVyBB5jqW0RrdbdS4E8P24N-atayjJnQrfZGQUj5W5TvBZaEKTXPqQ2KFMgQnhG0uIz7NAZVZkpF2-Wy79vUJhnGo74uVKYR2Y4b-uAi3XN7GsaJpSJWZ8hY4KjqdON1leK78oEXGP19XRXV8j4o5FhGlW7g/s1600/IMG_6149.HEIC)
-![Бонусні фото з марини, липень 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEyVuRbshS_IsG7-NU-9UGJad1PgIV5MSlg8igJPrnMTgLU4CjMTw3Dkt8QXFatpqv7to2iqcjcxRfvT5sXSlL8pdWzNHNoIkvxjkqkiCWvtpL-8_u0JLJ1WON55UjmUi2fyTIwPfs0owgO-kfnz0BP6fLJ5qycSryTFfnC0cw6b2oHP0AGTxvB37Vio5E/s1600/IMG_6165.HEIC)
-![Бонусні фото з марини, липень 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6-KlxtZZy2ojlK6oMAZ7v6CAB2_AM4pW5LyAVI-gSlLmwWY-_ao-6yQp_0jE1yiBJ4UCx0QxOj8BugiRUGfVn6z8YhN4Z2hTUr_n5zGt6KUIE-5xw49MQ4HMrFv94uh0faIRCxJzi1RiGFFqunD8IEbfi1-bEWKfB1cIdEYo7Enz3ea4uP2_BNA7t_Et0/s1600/IMG_6164.HEIC)
-
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 
 Серпень 2023-го: озеро Тревіс усе ще падає. Човен ліворуч, тепер на суші, був на 8 футів під водою, і я маневрував над ним у січні 2022-го. Ще один ніс, що стирчить, з'явився пару місяців тому; тепер він на 3 фути над водою. Причали на пагорбі колись стояли якраз біля урізу води. Рейки підйомника закінчилися.
@@ -186,18 +173,6 @@ Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-
 ![Нічне плавання на озері Тревіс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOd2pimT0wDYoszxwniEjHPx19ayruh1w_k77mf5Jb_fjRrEIrEknMOKpnTToiUJMX63hRpVVBygHZJ0mIkTvtuJ8tSVW3dHh6wUK4BMhKwBNHQnKYfZB_OfB45hCE82Sta5i8vYwmQKjQX2zI-_bdv2N9kVz63fg49_c_zCQw7PkFdujnH6nhe2LPizqx/s1600/IMG_7619.HEIC)
 ![Інструменти і сміття, зібрані після роботи з люками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk00m4nsg00WSO6l5SwgYgv1AB_c81fFVH0NSja8sBk9DFjLKEGuSzeRmb9dCm7xzxCUIYoWEBEPEVRgjwIkFwXXW_hB28-pEKnDnGI7RmaJAVk1vxkkuCaACIG96Iy14trXr__ZH_XVkLCK-9wxD-i5lYlPUT-LRDtKJdbMKd61XRifasjoI5pfWooI60/s1600/IMG_7612.HEIC)
 
-Diary: [24 Feb 2024](https://irwin34.blogspot.com/2024/02/day-131-224-depth-sounder-anr-speed.html)
-
-А коли люки були готові — зібрати всі інструменти й сміття і пофотографувати.
-
-![Інструменти і сміття, зібрані після роботи з люками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg44fYefgmMQn265TmbDHGQPZPVbBEOTCZNmXJRUzYEjzxJsuCriG0ggpgvBrbjSQKL_RE-LELIaPPM4JSp67Bng_A4KgaFBGkCEEIp2N6-V4zfD-XWOzjekVe6MOYFyadM2qz5GYM7JRKFLPsuH26lZcfByLvSQRPAwsIeiO5TMysPWohUFk3GaD7F0eZ3/s1600/IMG_7543.HEIC)
-![Інструменти і сміття, зібрані після роботи з люками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiffvM7q8MjbSuToZ3vNPrsIgwL6fZQfL7KR15TuDHKBa4F5_QuaZbmI2I2-CdUnXvqZrDBGNlZb8kQ7GDn9FS6p3NvfMKEwKI5OEe-JNwPUupG4nyCgUl3Bi1IAkLqClBbugZmLW3idKzu3fSaeWj5q4N39kEVOURJI01b3TZmV8eb8iQnRy9ebuqo-cE4/s1600/IMG_7544.HEIC)
-
-Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
-
-Травень 2024-го, фото дня: протиковзке покриття даху каюти готове.
-
-![Протиковзке покриття даху каюти готове, травень 2024](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjceeWlqo92h8H4_MUNjD5H8IMWSWxgxoAj7Utw8z8DN1OpxzGArdBlD18D4IRNcJYD33veLAIQQTG8fglFVMc0JO1ReeHZTaXzy72bXNcqCSAImFeBmTUBFkhlbm1zM8HqVyV-4moXcBnfRD3EqNV2fL8147b1G4C9O8aBFtoAXpLYazI6tnIkQzOLd2we/s1600/IMG_8200.HEIC)
 
 Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-prep-for-no-skid.html)
 
@@ -276,14 +251,7 @@ Diary: [12 Jul 2025](https://irwin34.blogspot.com/2025/07/day-207-water-came-bac
 ![«Віра» біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1o-CGKt5mAhYc8Jsb5cpWgymuNBaszjarJOw2WfmWWR7ss9WzlcuklUY929IP8wl_X5bgka2ORkT4gj3m7DhYKiFJKeqsLZdKoUwKOKKngWFusMVDgy1k9RlDqSDr5ZYgWDmIH2gNb_fVBq2W7ZxgfMj9DjutnjPxMgn8CCHyah75uoZW3JSTyPqr7LLn/s1600/IMG_1046.HEIC)
 ![«Віра» біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOkaFJo7PZQrK9w2mZIBtyTv7WLPvwF-9wF7GZ403T2Pvu4gS_f-0e3ovy0JYn3QkEieFSHYAQpvzt2sFBL5LAwH_6gRuOB2BhjBcrNfBs_8oP3G7XrA_ArUckEdVELp0xTx0lNdsKQrH3ucjVjNx8JaenmXzGcqFFmcnigupx5H7YGEwRTE6a4ocYEk0v/s1600/IMG_1044.HEIC)
 
-Diary: [19 Jul 2025](https://irwin34.blogspot.com/2025/07/day-208-autopilot-arm-reinstallation.html)
 
-Серпень: кілька годин спокійного плавання. Радар уже був схований під палубою. Потім тиждень без роботи: мені зробили невелику операцію на нозі.
-
-![Спокійне плавання, радар схований під палубою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dg__HNZJRTCycaNmIUC5uWQjhR4Ck-4nsC7o1zKzEcJEvj5DvDPv1YNOZn8I8fcSQcbdrsfJzyT7s23nFo4_g8nCcgru1tkv2_QZ4gO4aWT0dMLfreaxoCFN4G3H9P2IPzkSd8eUb7-DYCYPULIH0zgEl7OW7zr1OFGBjgfHofnyKiJlTvP3rX5359nb/s1600/IMG_1130.HEIC)
-![Спокійне плавання, радар схований під палубою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_AVe7dhkfRYg3jUVzUj2ktu8sFrknomneOsGriOBMHJXA0bAykgjgPpuIts44MUk5r6CDQs8wb8XpR-wj1lrPtVR0XAob4W_Ihui2r_S8T2vmKs6cAUhHBcuk25Am5mgu431phPqoRb-PcbJ3q0rs-j521XOLX12-DQ7QjpC264dSVUyZapE7dR6ijZ5z/s1600/IMG_8354.HEIC)
-
-Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-testing-little.html)
 Diary: [23 Aug 2025](https://irwin34.blogspot.com/2025/08/no-work-on-boat-this-week.html)
 
 Вересень: гарний день, близько 6 годин круїзу озером Тревіс при майже стабільних 10–15 вузлах із парою поривів до 20. 21 миля на лагу (трек, на жаль, загубився) і щонайменше 40–50 поворотів. Ходити під вітрилами озером «річкового типу» — трохи спорт. На борту мій молодший син і друг. І новини марини: вони перевезли причал із 20 човнами за раз. Тетріс для дорослих.
@@ -319,34 +287,7 @@ Diary: [1 Nov 2025](https://irwin34.blogspot.com/2025/11/no-work-on-last-weekend
 ![Дощовий вечір, перша ніч на борту «Віри»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1v0vMpkVP5A6LUfAu0G2Sfaiv9YOo5hS0T8Y9frzWC8sXoaO_7YzCrNpVOLK-DSpI5Q8yCG-OAWjWP8TyotEdQM3pktIKk7Z45S_4Y6CK_PvNmKxu6cW9xYowr7qHPE2BZjcR4Nh3kZEOZoRIRZMr-kCl7v1DCAZywvhU6kx8eVGCtBCv7gMip5bKhPRD/s1600/IMG_0900.HEIC)
 ![Kemah Boardwalk Marina після дощу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig_BlA0kBg-AkXPeNiiVOWzeROH-zSnPRUThXbHEgxIEcMuQVv6-WGpLLpqNlI7ybU3W8VT4io2el6Qh_ZFOhKwoG-odCGSIEdkkkY_CSuOckcz9-9KmVjuumU3qTpDL33PLAiNL87mE2HnujfvVRPkgProHdp8gaz5ySBG_5TkpH_0dZvoPVakzKAFzTK/s1600/IMG_0901.HEIC)
 
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-Потім решта фото того вікенду: автомат класу T (може, не найкраща установка). Набори свердел треба поповнити: потрібні 1/16, 3/32, 5/32, 13/64, 15/32 і 29/64, 3/16 замінити, і 1, 3,5, 5, 5,5, 6, 6,5 і 7 мм. Захисні ковпачки і дріт-контровка на установчих гвинтах ущільнення PSS і муфти. Водонагрівач знову на місці, на новому кронштейні. Дроти щогли знову під'єднані, ще треба впорядкувати. Кришки на автомати, щоб ніхто випадково не вимкнув щось важливе. А новий ахтерштаг ЗАДОВГИЙ. Такелажник пообіцяв виправити.
-
-![«Віра» вночі в Кемі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFULt___Wau1YLoiCvE5ro8jzV0SbO08AmWZjMHz24F-jV_5HdSDAlNvTEyQdjPi4cwD1timy_nnF6nAbm4Z93R9WqH4y7MdX_cs-AVGb8ynfPBjiqUzuD_72dOVAfPYBDr0oTubbG0V4LtVAKHPnw_TU6y9oOdj-ZOiRW83W64WBwbJbPPR2ZlGyP86c/s1600/IMG_0894.HEIC)
-![Автомат класу T встановлений](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Kbn2AUeKotgGYjAXlaLMff7hH45thC_ccr6dzupxQ0-j1mvd6IyewAYf2e3yxuEU0Z_fZgSa4oKXCuQhAXg_-dnIfdQ6VarCIAcg0ELlUFGLuj_LPsC4FvBJ7KC3TDDueiaQzhmnc7IximUgGiMtelC-604N0hSUyyNRAMxzswhs8skcBZKPgN1L2WDP/s1600/IMG_0906.HEIC)
-![Розміри свердел, які треба докупити](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBVH4XNbRhlCjaUO9h9wO5ByEM_ySdUDlmdngtLf_bZFu8AKDp_3dQMMd0eFd-UoYzGEQlByL70006bNmoPp1Tq2q93s-qb2cKG2Jg7wZDpUqCMqAsXmhi6P11Qig6n2salc7t43qOQIgQvs8Cwp76GhMHQfzX3vZpXkWaZ4Zd3Y4rx0cuFMNcBLMwjKmk/s1600/IMG_0907.HEIC)
-![Розміри свердел, які треба докупити](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzGFQeKwdTDne6QkXaet8e3YSVLloXnXxo5unZ9-Fn5O-5Yfwfg74oQu7PAU8tUhfqsT03OhEU942kPFz_9m_WVq1msK_yXdKfNLxCHQKV1dpZlDoCHNgh1iaFHrp3txRCL2rXv2ySZD_oO_9nS9Prd1m6MVPsYck7vD7pLh2f4HUSw731xO0wjcOQsVDR/s1600/IMG_0908.HEIC)
-![Захисні ковпачки і дріт на гвинтах ущільнення PSS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCStjZrS_8NGLUHsuHoRutUVvT19oUhVQg9DV2Hv-vc-ZoxfOOGUTyAKTLQz6B7Qp_ITiOmNnh4npw7QfSm2L4sH6J7DBbA3j0oGE0rGZqnPLbs6uoAqB9yExgGDetPjtSAXdSSFTVuNAVnCFyi1OYj-6pSfq6hX35EhxbjYFb34cnca5iwVcTGkluHrq/s1600/IMG_0911.HEIC)
-![Водонагрівач на новому кронштейні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOxEa_f97IjYKp1Z_v0MMXuBeSnIdUC_XhTOPmbBYSahz7JtZU8sYtXjGp0sbw4VFtl5cNJjhMp4RnRgOybbOzC28Y72Q5OwLxQDvnWr8aEF5RlDbvgyBYK3MgoharDllxH2uynXfEyQ2MXAgA4aFGHfxMTAar4QFidR4B0CpqY7Qznn2vWGOJLoXzmsOD/s1600/IMG_0912.HEIC)
-![Дроти щогли знову під'єднані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0Pjr44pzijoAIgn1gUvygwJFtQ7MP7ORq5U07VydO_lUX0J59FcASfGc9tW8CcwY1AjHvD9maAgdodIzO7h13_23YKHV512gotSsi_eeMWBEacA6ww3mD13WhVRX3JEy332GTcNjbpLwOxb4uvECqnznpbDb1EL7rxzafL0w943W-nfKD7yqQuR5UTHX/s1600/IMG_0893.HEIC)
-![Кришки на автоматах щита](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTjn7aKQXkUkKXcTrzfh0poshs_mjtLdl1Pc3W3zrkpSuvmpNfEXtKJYZLCafSb5OhCnMNu3DhqrSHntr2C7UhL8ElV67d4TdYZ_fSG-LaBFJsrT0Ud03YVeVNLbtUL79kHxLFyii14QSh5Wd3RNshq_E2EVaLzVk3Ogn3W9YyEArpkTsJMw0QiAbtMyM5/s1600/IMG_0895.HEIC)
-![Новий ахтерштаг задовгий](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyTRkZx_eiENBDZQT56nKE-92Jg2O89GXdAnSvKT96aLEsSOHYAlt9W8LIuO2RmXnslv3DXb-jmEkFvtp86S4rKMnFOvB_bBmR48ZpNbMbJRojvmn1HDJb20gPR8-k_cHq_1YV9M7pSwJA41FcmPlgTuDKkTrNfgfqnZPs4BbSVJO-EryQJ5khuy3aDqH/s1600/IMG_0918-EDIT.jpg)
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-Наступний візит почався з сюрпризу: я ввімкнув водяну помпу, а за пів години на підлозі була вода. Протікав гідроакумулятор. Наступного дня я купив новий SeaFlo у West Marine і замінив. Я дуже задоволений новою мариною, хоч трохи втомлений дорогою, а «сюрприз» завжди бадьорить. Кабелі щогли, перевірка радара (у марині особливо нічого перевіряти, купа відбиттів, але працює), упорядкована проводка в гальюні, панель стелі і накладки на місці. Трохи комфорту: мій сніданок, дзеркало і перевірка, чи влазить чаша унітаза на свій «п'єдестал». Трохи звисатиме всередину, але краще повнорозмірне сидіння.
-
-![Виходимо з Кеми, перше плавання в Галвестонській затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHFWuZm8sMyxMATTAaOnpuWUaW6K2nkKkI9Ri7K7h0DmuBZRNXArpVvlr5JK09Z9LX_2Il3XRHq-1vsFjKs-y_ZB1JcKQBrKHbUozIy1QoAOtbGDWVzQ7NlCJ3mFqXSCyvxcS0iHVL0eugYmlp3fxrvKbKOotsURCIu9mIRgqliEaXBOKx4M_Ar3aEgAXC/s1600/IMG_0988.HEIC)
-![Новий гідроакумулятор SeaFlo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYSg7VlYDbSmzX2cSwNvazQfqWUwqnMjhQWqeX7idk-sb3XjIDqy7SqHIJTYhuGcxDyUtkOYNvTdIMDu-ngcGcu7_gWlxY7LVU7ErdEsRzkypZmR0yp1jQ0E3l0N_1IkpQgx2SvEvOfzOmesCfSPJJrKxtBtcvSpATq-YQT2n69ex-vZQCvTtdZbA9Elx_/s1600/IMG_0979.HEIC)
-![Kemah Boardwalk Marina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKlJBjwJvCg6o0_kcjHUHeAGqxF8nhPf3-wFJJvAnwWECo9I-TY76uqZ1r9n-IE4bpj40FvlxKRGbBFiAVEJiLUvlRLXh04MqDkBxYTz44x2t_VlWle4lActvdun6bqmmWEQ8iKM5uRJZXL-IyAhiZoncQFOJ5dzqTmlzjGqt2t22vE-NRZRI9plnW7tc/s1600/IMG_0973.HEIC)
-![Kemah Boardwalk Marina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ipJBTBuSOE0LNlkxUtHvfgkuvLUvbuzx713rKJY-vpw4tC4ygBBNBjFQGrR3DCVt7COW-j_QessyGq9_iL4po_uQ27AfTNH2WoAlBhp5vsRmp6tThuNx0cUBalJ-uNb1s8C4T6_p0H7P4keWZp3Y1ap5_WrdVIvy8_Gybg0JwRpH2ueMFk2PRz0f-xEs/s1600/IMG_0974.HEIC)
-![Кабелі щогли і перевірка радара](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmqlr4KoQFv1hridrdfmkGK1Iy28PnlZAGPE3Oy40nk7uljABgWAyIdFMa8eDWvovz5lJw5GTQpowVSNp5h4QkVjpYZJDHME9iFDDmczfsxbC4iBFqQprjqrcbmNZpS1IuvFw_XT61sbT_33iZ-8bMuLWdHN_ASZAoz79ybbj_00VyxRAds5gIR52BfKB0/s1600/IMG_0985.HEIC)
-![Кабелі щогли і перевірка радара](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5NdPXnpjwwLqJGGfbbp8QWJWt6NzBtRVoZ18rrM2wy-slyb-Id-MmPP2TNNz8qe7uDx2tWuSZQxRQbWAP59xb2qYTmlfgdvwyMgarTZ1msRuW9Cn8ZX9GiFHs5VQF_ZeQ0QEvIJkGFVUO_eubHsbi65z3nxTjnqzKauzf5y52qmDL83c-evpmjynA-uV/s1600/IMG_1036.HEIC)
-![Радар на екрані карти в марині](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-uVy7XD7nWQCglnpMv7l8Rppps3_-YGP24FTemtzWS6HzOMhG603HuXWZVIckGURXIDd_o4mlgjGlP0rucyGltUaEaRmH-g2FwpeCSjW2fdth_ujHDnG58WS_rTD8WdtlITApgmFK-eO-nLG6sd_rTVBpjpWYrLxCI8bz2c2J4lduLeIfRn0CZ-WyX7kT/s1600/IMG_0982.HEIC)
-![Мій сніданок на борту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicCyusljvH4IjhssCebjb57pRXK4-mWdNm3RzqORZr00rHClzvrAY9LawndyLB9Ut5vnwDtDwOEyUwQ4PARUoRuskESfRwvWTYdfH40kWBcoLPpKgHT1ZmvMLUt_BsyOEs57mw91UdhafPXV0Jun4vWYPtWqEf8C3zyV-NfiyBnFgI5GlTffCoWss1ayf6/s1600/IMG_0987.HEIC)
-![Нове дзеркало в гальюні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-AwQQxO3P2LzTe9HnOLLUwwP5e__yIRwpHD6s0dfVR_EM7t4WC6y1GgZkWl3oDcKBNUPnW8-e3bZ4qsdw4mRkirbjZcT7IRLfe52jx67zfjs9Etfp2GprUg-kwcWQQnE5uhT_Wivyirhyphenhyphenm9F7AhkmUrvoaLYyqZkY4srgc3GPqeBOmrYtd110222m91d7/s1600/IMG_1037.HEIC)
-![Перевіряю чашу унітаза на «п'єдесталі»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVEKMETowdXqPzAkIXt-7QnD7U_C8QfoLqC7fZavFoJeV7hjuQ8aGmjgtv8Tm4JlGzN6hei39MYQaMk4OO4g9npqPaZ7qRJT8_0nPav8z3btf89pUhEj_D4XhP6I4LaVHOa4OC30Zk2yyVV2Rpvb-XnHJW4y6OSF9aJmyl5mX-g_9Slk0IUjm2jU7QM1-/s1600/IMG_1033.HEIC)
 
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 

@@ -17,6 +17,8 @@ The site will be published at **sailingvira.com**. The domain currently redirect
   no teacher tone.
 - **Lists and reference pages** (Upgrades log, likes/dislikes and similar): copy Viktor's own items from the blog
   item by item, with their years. Never shorten, merge or summarize them; fix only typos.
+- **Languages stay in sync** (Viktor, Nov 2026): when Viktor edits one language in Pages CMS (commits "via Pages CMS"),
+  mirror the same change in the other language. Check for such commits at every update.
 - **Ukrainian tone:** the same voice, with a light touch of humor (Viktor asked for it): small ironic remarks
   and idioms, never at the cost of facts.
 - **Photos:** ALL diary photos go into the stories, in the place they belong. Photos are loaded from
