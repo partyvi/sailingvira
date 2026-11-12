@@ -1,6 +1,6 @@
 {
  "page": "https://irwin34.blogspot.com/p/what-is-improved-vs-original.html",
- "updated": "2026-11-12T08:51:15.499-06:00",
+ "updated": "2026-11-12T17:25:58.166-06:00",
  "sections": [
   {
    "title": "Structural/safety",
@@ -24,8 +24,10 @@
     "2025 Thru hulls replaced to Forespar composite material.",
     "2025 Cockpit drains plumbing redone to direct drain with crossed hoses.",
     "2025 1sq.ft. copper grounding plate installed for lightning protection. Mast connected to grounding plate.",
+    "2026 Lightning protection cable installed.",
     "2025 Bottom rudder bearing block replaced.",
-    "2025 Rudder stuffing box repacked."
+    "2025 Rudder stuffing box repacked.",
+    "2026 AIS transponder installed"
    ]
   },
   {
@@ -82,7 +84,8 @@
     "2023 Built new navigation station with built in 21\" industrial grade LCD and secondary electrical panel.",
     "2025 New 3-color / anchor light installed on the mast top.",
     "2025 New LED steam light installed on the mast.",
-    "2025 *B&G Radar installed"
+    "2026 B&G Radar installed",
+    "2026 Helm station Navigation pod installed"
    ]
   },
   {
@@ -104,7 +107,10 @@
     "2026 100AH Home battery upgraded to LiFePo",
     "2026 engine room light added",
     "2026 PCU Designed and installed for better use of shore power high current power supply.",
-    "2026 Batteries monitoring implemented for all batteries on the board over SignalK"
+    "2026 Batteries monitoring implemented for all batteries on the board over SignalK",
+    "2026 25A inverter battery installed",
+    "2026 ELCI breaker installed.",
+    "2026 Windlass motor replaced"
    ]
   },
   {
@@ -167,7 +173,8 @@
     "2023 Head painted with 2 part paint.",
     "2023 Installed new faucet.",
     "2023 Dorades box built for Head ventilation, fan installed.",
-    "2023 Installed water level sensors for fresh water tanks and gauge for waste water tank."
+    "2023 Installed water level sensors for fresh water tanks and gauge for waste water tank.",
+    "2026 New Electric toilet installed"
    ]
   },
   {
@@ -206,7 +213,8 @@
   {
    "title": "Mast",
    "items": [
-    "2025 mast coated with Nyalic coating."
+    "2025 mast coated with Nyalic coating.",
+    "2026 new standing rigging"
    ]
   },
   {

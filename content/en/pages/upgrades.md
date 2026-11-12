@@ -30,8 +30,10 @@ In December 2024 I made one long list of what's improved compared to the factory
 - **2025** Thru hulls replaced to Forespar composite material.
 - **2025** Cockpit drains plumbing redone to direct drain with crossed hoses.
 - **2025** 1sq.ft. copper grounding plate installed for lightning protection. Mast connected to grounding plate.
+- **2026** Lightning protection cable installed.
 - **2025** Bottom rudder bearing block replaced.
 - **2025** Rudder stuffing box repacked.
+- **2026** AIS transponder installed.
 
 ## Water intrusion prevention
 
@@ -80,7 +82,8 @@ In December 2024 I made one long list of what's improved compared to the factory
 - **2023** Built new navigation station with built in 21" industrial grade LCD and secondary electrical panel.
 - **2025** New 3-color / anchor light installed on the mast top.
 - **2025** New LED steam light installed on the mast.
-- **2025** B&G radar installed
+- **2026** B&G radar installed.
+- **2026** Helm station navigation pod installed.
 
 ## Electric system
 
@@ -101,6 +104,9 @@ In December 2024 I made one long list of what's improved compared to the factory
 - **2026** engine room light added
 - **2026** PCU Designed and installed for better use of shore power high current power supply.
 - **2026** Batteries monitoring implemented for all batteries on the board over SignalK
+- **2026** 25A inverter battery installed.
+- **2026** ELCI breaker installed.
+- **2026** Windlass motor replaced.
 
 ## Piping / tanks
 
@@ -156,6 +162,7 @@ In December 2024 I made one long list of what's improved compared to the factory
 - **2023** Installed new faucet.
 - **2023** Dorades box built for Head ventilation, fan installed.
 - **2023** Installed water level sensors for fresh water tanks and gauge for waste water tank.
+- **2026** New electric toilet installed.
 
 ## Ports and hatches
 
@@ -187,6 +194,7 @@ In December 2024 I made one long list of what's improved compared to the factory
 ## Mast
 
 - **2025** mast coated with Nyalic coating.
+- **2026** New standing rigging.
 
 ## Hull
 
