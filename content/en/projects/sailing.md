@@ -184,18 +184,6 @@ In the afternoon, a nice sail in a steady 10 knots from the south. 15.2 NM in 4 
 ![Night sailing on Lake Travis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOd2pimT0wDYoszxwniEjHPx19ayruh1w_k77mf5Jb_fjRrEIrEknMOKpnTToiUJMX63hRpVVBygHZJ0mIkTvtuJ8tSVW3dHh6wUK4BMhKwBNHQnKYfZB_OfB45hCE82Sta5i8vYwmQKjQX2zI-_bdv2N9kVz63fg49_c_zCQw7PkFdujnH6nhe2LPizqx/s1600/IMG_7619.HEIC)
 ![Tools and trash collected after the hatch work](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk00m4nsg00WSO6l5SwgYgv1AB_c81fFVH0NSja8sBk9DFjLKEGuSzeRmb9dCm7xzxCUIYoWEBEPEVRgjwIkFwXXW_hB28-pEKnDnGI7RmaJAVk1vxkkuCaACIG96Iy14trXr__ZH_XVkLCK-9wxD-i5lYlPUT-LRDtKJdbMKd61XRifasjoI5pfWooI60/s1600/IMG_7612.HEIC)
 
-Diary: [24 Feb 2024](https://irwin34.blogspot.com/2024/02/day-131-224-depth-sounder-anr-speed.html)
-
-And after the hatches were done, collect all the tools and trash and take pictures.
-
-![Tools and trash collected after the hatch work](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg44fYefgmMQn265TmbDHGQPZPVbBEOTCZNmXJRUzYEjzxJsuCriG0ggpgvBrbjSQKL_RE-LELIaPPM4JSp67Bng_A4KgaFBGkCEEIp2N6-V4zfD-XWOzjekVe6MOYFyadM2qz5GYM7JRKFLPsuH26lZcfByLvSQRPAwsIeiO5TMysPWohUFk3GaD7F0eZ3/s1600/IMG_7543.HEIC)
-![Tools and trash collected after the hatch work](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiffvM7q8MjbSuToZ3vNPrsIgwL6fZQfL7KR15TuDHKBa4F5_QuaZbmI2I2-CdUnXvqZrDBGNlZb8kQ7GDn9FS6p3NvfMKEwKI5OEe-JNwPUupG4nyCgUl3Bi1IAkLqClBbugZmLW3idKzu3fSaeWj5q4N39kEVOURJI01b3TZmV8eb8iQnRy9ebuqo-cE4/s1600/IMG_7544.HEIC)
-
-Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
-
-May 2024, picture of the day: the cabin top non-skid finished.
-
-![Cabin top no-skid finished, May 2024](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjceeWlqo92h8H4_MUNjD5H8IMWSWxgxoAj7Utw8z8DN1OpxzGArdBlD18D4IRNcJYD33veLAIQQTG8fglFVMc0JO1ReeHZTaXzy72bXNcqCSAImFeBmTUBFkhlbm1zM8HqVyV-4moXcBnfRD3EqNV2fL8147b1G4C9O8aBFtoAXpLYazI6tnIkQzOLd2we/s1600/IMG_8200.HEIC)
 
 Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-prep-for-no-skid.html)
 
@@ -274,14 +262,7 @@ A couple of pictures of the boat.
 ![Vira at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1o-CGKt5mAhYc8Jsb5cpWgymuNBaszjarJOw2WfmWWR7ss9WzlcuklUY929IP8wl_X5bgka2ORkT4gj3m7DhYKiFJKeqsLZdKoUwKOKKngWFusMVDgy1k9RlDqSDr5ZYgWDmIH2gNb_fVBq2W7ZxgfMj9DjutnjPxMgn8CCHyah75uoZW3JSTyPqr7LLn/s1600/IMG_1046.HEIC)
 ![Vira at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOkaFJo7PZQrK9w2mZIBtyTv7WLPvwF-9wF7GZ403T2Pvu4gS_f-0e3ovy0JYn3QkEieFSHYAQpvzt2sFBL5LAwH_6gRuOB2BhjBcrNfBs_8oP3G7XrA_ArUckEdVELp0xTx0lNdsKQrH3ucjVjNx8JaenmXzGcqFFmcnigupx5H7YGEwRTE6a4ocYEk0v/s1600/IMG_1044.HEIC)
 
-Diary: [19 Jul 2025](https://irwin34.blogspot.com/2025/07/day-208-autopilot-arm-reinstallation.html)
 
-August: a few hours of peaceful sailing. The radar was already hidden below deck. Then a week of no work: I had minor surgery on my foot.
-
-![Peaceful sailing, radar hidden below deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dg__HNZJRTCycaNmIUC5uWQjhR4Ck-4nsC7o1zKzEcJEvj5DvDPv1YNOZn8I8fcSQcbdrsfJzyT7s23nFo4_g8nCcgru1tkv2_QZ4gO4aWT0dMLfreaxoCFN4G3H9P2IPzkSd8eUb7-DYCYPULIH0zgEl7OW7zr1OFGBjgfHofnyKiJlTvP3rX5359nb/s1600/IMG_1130.HEIC)
-![Peaceful sailing, radar hidden below deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_AVe7dhkfRYg3jUVzUj2ktu8sFrknomneOsGriOBMHJXA0bAykgjgPpuIts44MUk5r6CDQs8wb8XpR-wj1lrPtVR0XAob4W_Ihui2r_S8T2vmKs6cAUhHBcuk25Am5mgu431phPqoRb-PcbJ3q0rs-j521XOLX12-DQ7QjpC264dSVUyZapE7dR6ijZ5z/s1600/IMG_8354.HEIC)
-
-Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-testing-little.html)
 Diary: [23 Aug 2025](https://irwin34.blogspot.com/2025/08/no-work-on-boat-this-week.html)
 
 September: a nice day, about 6 hours cruising Lake Travis in an almost steady 10–15 knots with a couple of 20-knot puffs. 21 NM on the log (sadly the track was lost) and at least 40–50 tacks. Sailing a "river-type" lake is a bit sporty. My younger son and a friend aboard. And a marina update: they moved a dock with 20 boats on it all at once. Tetris for adults.
