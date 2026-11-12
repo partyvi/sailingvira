@@ -2,29 +2,29 @@
   order: 1
   title:
     en: Hull & deck
-    uk: ''
+    uk: Корпус і палуба
 - id: rig
   order: 2
   title:
     en: Rig & sails
-    uk: ''
+    uk: Щогла й вітрила
 - id: engine
   order: 3
   title:
     en: Engine & mechanical
-    uk: ''
+    uk: Двигун і механіка
 - id: electric
   order: 4
   title:
     en: Electrical & electronics
-    uk: ''
+    uk: Електрика й електроніка
 - id: interior
   order: 5
   title:
     en: Interior & comfort
-    uk: ''
+    uk: Інтер'єр і комфорт
 - id: journey
   order: 6
   title:
     en: The journey
-    uk: ''
+    uk: Подорож
