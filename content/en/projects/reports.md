@@ -1,12 +1,11 @@
 ---
 id: reports
-title: "Progress reports"
+title: Progress reports
 section: story
 order: 2
-description: "Half-year reports and lists of what was done."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png
+description: Half-year reports and lists of what was done.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png
 ---
-
 Every few months I stopped and wrote down what was done. When you work weekend after weekend, it's easy to feel like nothing moves. Then you write the list, and you see how far you came. Here are all of them, in order.
 
 ## Half a year: 211 hours
