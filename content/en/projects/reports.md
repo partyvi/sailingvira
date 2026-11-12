@@ -4,7 +4,7 @@ title: Progress reports
 section: story
 order: 2
 description: Half-year reports and lists of what was done.
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC"
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png"
 ---
 Every few months I stopped and wrote down what was done. When you work weekend after weekend, it's easy to feel like nothing moves. Then you write the list, and you see how far you came. Here are all of them, in order.
 
@@ -177,22 +177,3 @@ Diary: [19 Feb 2026](https://irwin34.blogspot.com/2026/02/things-are-done-since-
 ## Everything that's better than the original
 
 This list now lives on its own page: [Upgrades log](../boat/upgrades/). I keep adding to it.
-
-## A Saturday report
-
-One Saturday in April 2026 I wrote it all as a list too. I put a very hot coffee maker on the galley countertop and burned a ring into it. Using tung oil on that countertop was a great idea: with some elbow grease I sanded and re-oiled it almost without a trace. With varnish it would have been a disaster.
-
-Then: sound from OpenPlotter over Bluetooth, so the alarms are loud. Autopilot tuning: clutch current down to 30% and max speed up. Impressive. On Sunday it steered in a short 2–3 foot sea with 20–25 knots, no drama.
-
-The Maiana AIS somehow got water inside, and the GPS died, although the AIS receiver still worked. Cleaning and drying didn't help. Before I throw the board away I'll try replacing the GPS. Another letdown: the "aluminum" antenna bracket was actually chrome-plated zinc alloy, and it fell apart in three weeks at sea.
-
-I cleaned the speed-through-water sensor and, surprise, it works. Recalibrated. I spliced the sail pack lines instead of knots, because the tails kept jamming in the zipper. I disconnected the house battery from the alternator: charging LiFePO4 from the engine alternator without watching the alternator temperature wasn't a smart idea. I measured trim to cover the lightning ground wire. And I took the main measurements to order a new sail. The old one has hundreds of pinholes and is stretched a lot.
-
-![Galley with the teak countertop repaired after the coffee maker burn](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC)
-![Maiana AIS transponder board](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
-![Water damage on the AIS board's GPS module](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
-![Broken zinc-alloy AIS antenna bracket](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
-![Mainsail measurement form, page one](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
-![Mainsail measurement form with reef heights, no furling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
-
-Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)

@@ -4,7 +4,7 @@ title: "Звіти про прогрес"
 section: story
 order: 2
 description: "Піврічні звіти і списки зробленого."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC"
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png"
 ---
 
 Що кілька місяців я зупинявся і записував, що зроблено. Коли працюєш вікенд за вікендом, легко відчути, що нічого не рухається. А потім пишеш список і бачиш, скільки пройшов. Ось усі вони, по порядку.
@@ -178,22 +178,3 @@ Diary: [19 Feb 2026](https://irwin34.blogspot.com/2026/02/things-are-done-since-
 ## Усе, що краще за оригінал
 
 Цей список тепер живе на окремій сторінці: [Журнал покращень](../boat/upgrades/). Я його досі доповнюю.
-
-## Суботній звіт
-
-Однієї суботи у квітні 2026-го я теж записав усе списком. Я поставив дуже гарячу кавоварку на стільницю камбуза і випалив на ній кільце. Олія тунгового дерева на тій стільниці виявилася чудовою ідеєю: трохи поту — і я зашліфував і заново промаслив її майже без сліду. З лаком це була б катастрофа.
-
-Далі: звук з OpenPlotter через Bluetooth, щоб тривоги були гучні. Налаштування авторульового: струм муфти знижено до 30%, а максимальну швидкість піднято. Вражає. У неділю він кермував на короткій хвилі 2–3 фути при 20–25 вузлах, без драми.
-
-В AIS Maiana якось потрапила вода, і GPS помер, хоча приймач AIS досі працював. Чищення і сушіння не допомогли. Перш ніж викинути плату, спробую замінити GPS. Ще одне розчарування: «алюмінієвий» кронштейн антени насправді виявився хромованим цинковим сплавом і розсипався за три тижні на морі.
-
-Я почистив датчик лагу і — сюрприз — він працює. Перекалібрував. Вплів кінці шкертів лазиджека замість вузлів, бо хвости постійно застрягали в блискавці. Від'єднав побутову батарею від генератора: заряджати LiFePO4 від генератора двигуна, не стежачи за його температурою, було не найрозумнішою ідеєю. Заміряв накладку, щоб закрити дріт заземлення. І зняв основні розміри, щоб замовити новий грот. На старому сотні дірочок, і він дуже розтягнутий.
-
-![Камбуз із тиковою стільницею, відремонтованою після опіку кавоваркою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC)
-![Плата AIS-транспондера Maiana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
-![Сліди води на модулі GPS плати AIS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
-![Зламаний кронштейн антени AIS з цинкового сплаву](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
-![Форма замірів грота, перша сторінка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
-![Форма замірів грота з висотами рифів, без закрутки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
-
-Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
