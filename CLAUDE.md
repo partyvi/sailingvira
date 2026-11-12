@@ -54,7 +54,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   - Body is plain Markdown:
     - `## Heading` starts a chapter. Text before the first heading is the intro.
     - Paragraphs are separated by a blank line. `- ` is a list item. Inline Markdown works.
-    - `![](url)` is a photo. Photos one after another (blank lines allowed) form one gallery.
+    - `![description](url)` is a photo. The description is the alt text and the photo viewer caption, written from
+      what the photo shows (`tools/alts.py`). Photos one after another (blank lines allowed) form one gallery.
     - `Diary: [28 May 2022](post url)` links the gallery or paragraph above to its diary post.
       `Story page: [Title](page url)` links to a Blogger story page. Several such lines may follow each other.
       Chapter dates and day numbers come from these links (looked up in `data/sections.json`).

@@ -49,6 +49,10 @@ elif cmd == "merge":
     if len(tr) != len(us):
         sys.exit(f"{pid}: {len(tr)} lines translated, {len(us)} expected")
     lines = body.split("\n")
+    out = f"content/{lang}/projects/{pid}.md"
+    if os.path.exists(out):  # keep photo descriptions already written in this language
+        old = {m.group(2): m.group(1) for m in (re.match(r"^!\[([^\]]*)\]\(([^)\s]+)\)", l.strip()) for l in open(out, encoding="utf-8")) if m and m.group(1)}
+        lines = [re.sub(r"^!\[[^\]]*\]\(([^)\s]+)\)", lambda m: f"![{old[m.group(1)]}]({m.group(1)})", l) if IMG.match(l.strip()) and re.search(r"\(([^)\s]+)\)", l).group(1) in old else l for l in lines]
     for u, t in zip(us, tr):
         if u[0] == "body":
             orig = lines[u[1]]
