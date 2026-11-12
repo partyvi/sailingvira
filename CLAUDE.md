@@ -7,7 +7,7 @@ The site will be published at **sailingvira.com**. The domain currently redirect
 ## Agreed decisions (keep to these; ask before changing them)
 
 - **Audience:** public. Irwin owners, DIY boaters, sailors, search engines. Every project gets its own page and URL.
-- **Languages:** English and Ukrainian from the start (`/engine/` and `/uk/engine/`). Every update is written in both.
+- **Languages:** English and Ukrainian from the start (`/engine/` and `/ua/engine/`; folders and keys use `ua`, the HTML language code stays `uk`). Every update is written in both.
 - **Structure:** 2 levels. 6 sections (`content/sections.yml`), 24 projects (`content/en/projects/`).
 - **Tone:** first person, Viktor's voice, "telling the story by a campfire". Simple, human, short sentences,
   his small jokes and reactions. Keep ALL facts, numbers, part names and prices. No generic explanations,
@@ -45,7 +45,7 @@ Later: scheduled updates, auto-publish, diary moves into the site.
 
 ## Repository layout
 
-- `content/sections.yml`: the site sections (`id`, `order`, `title.en`, `title.uk`).
+- `content/sections.yml`: the site sections (`id`, `order`, `title.en`, `title.ua`).
 - `content/en/projects/<id>.md`: one story per project. The file name is the project id and URL slug.
   - Front matter: `title`, `section` (a section id), `order` (position inside the section),
     `description` (one line), `cover` (photo URL for the project card).
@@ -57,13 +57,13 @@ Later: scheduled updates, auto-publish, diary moves into the site.
       `Story page: [Title](page url)` links to a Blogger story page. Several such lines may follow each other.
       Chapter dates and day numbers come from these links (looked up in `data/sections.json`).
   - Photo URLs are stored at size `s1600`. The build makes the small grid size (`w600`) itself.
-- Ukrainian goes in `content/uk/projects/<id>.md` with the same ids (Phase 5).
+- Ukrainian goes in `content/ua/projects/<id>.md` with the same ids (`python3 tools/translate.py merge <id> ua FILE`).
 - `data/classified.json`: every post and page of the blog, split into sections (headings), with text,
   photo ids, original photo URLs and the assigned project.
 - `data/sections.json`: section key (`s123`) → date, post title, URL, project, photo ids.
 - `data/photos.json`: photo id → Blogger photo URL.
 - `content/site.yml`: site name, base URL, `noindex` switch, home page texts (EN/UK).
 - `tools/build.py`: builds the static site into `site/` (`pip install -r requirements.txt`):
-  `/<id>/` and `/uk/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a
+  `/<id>/` and `/ua/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a
   Ukrainian file shows the English text with a note. Styles and the photo viewer are in `tools/assets/`.
 - `tools/`: other pipeline scripts used to read new diary posts (see README).

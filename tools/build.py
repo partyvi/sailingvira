@@ -3,8 +3,8 @@
 Usage: python3 tools/build.py [repo_dir]
 
 Pages:
-  /                 English home        /uk/              Ukrainian home
-  /<project>/       English project     /uk/<project>/    Ukrainian project
+  /                 English home        /ua/              Ukrainian home
+  /<project>/       English project     /ua/<project>/    Ukrainian project
 plus sitemap.xml, robots.txt, 404.html and assets/.
 
 All links between pages are relative, so the site works both at
@@ -17,7 +17,8 @@ import yaml, markdown
 
 B = sys.argv[1] if len(sys.argv) > 1 else "."
 OUT = f"{B}/site"
-LANGS = ["en", "uk"]
+LANGS = ["en", "ua"]
+HTML_LANG = {"en": "en", "ua": "uk"}  # ISO code for Ukrainian is "uk"; folders and URLs use "ua"
 
 UI = {
     "en": {"all": "All projects", "prev": "Previous", "next": "Next", "photos": "photos", "posts": "diary posts",
@@ -26,7 +27,7 @@ UI = {
            "blog": "Diary on Blogger", "missing": "", "notfound": "Page not found",
            "notfound_text": "This page does not exist. Go to all projects.",
            "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]},
-    "uk": {"all": "Усі проєкти", "prev": "Попередній", "next": "Наступний", "photos": "фото", "posts": "записів у щоденнику",
+    "ua": {"all": "Усі проєкти", "prev": "Попередній", "next": "Наступний", "photos": "фото", "posts": "записів у щоденнику",
            "days": "робочих днів", "years": "Техас", "projects": "проєкти", "day": "День", "diary": "Щоденник",
            "page": "Сторінка", "story_page": "Сторінка історії", "open": "Відкрити фото", "close": "Закрити",
            "blog": "Щоденник на Blogger",
@@ -170,7 +171,7 @@ def month_span(a, b, lang):
 
 def url_of(lang, pid=None):
     """Site-relative path, e.g. 'uk/fuel/'."""
-    return ("uk/" if lang == "uk" else "") + (f"{pid}/" if pid else "")
+    return ("ua/" if lang == "ua" else "") + (f"{pid}/" if pid else "")
 
 
 def text(v, lang):
@@ -240,11 +241,11 @@ FONTS = ("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600
 def page(path, lang, pid, title, desc, body, image="", lightbox=False):
     depth = path.count("/")
     rel = "../" * depth
-    alts = "".join(f'<link rel="alternate" hreflang="{l}" href="{BASE}/{url_of(l, pid)}">' for l in LANGS)
+    alts = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{BASE}/{url_of(l, pid)}">' for l in LANGS)
     alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}/{url_of("en", pid)}">'
     robots = '<meta name="robots" content="noindex, nofollow">' if site.get("noindex") else ""
     lang_links = "".join(
-        f'<a href="{rel}{url_of(l, pid)}" hreflang="{l}"{" aria-current=page" if l == lang else ""}>{ {"en": "EN", "uk": "УКР"}[l]}</a>'
+        f'<a href="{rel}{url_of(l, pid)}" hreflang="{HTML_LANG[l]}"{" aria-current=page" if l == lang else ""}>{ {"en": "EN", "ua": "УКР"}[l]}</a>'
         for l in LANGS)
     og_img = f'<meta property="og:image" content="{esc(size(image, "w1200"))}">' if image else ""
     lb = ""
@@ -255,7 +256,7 @@ def page(path, lang, pid, title, desc, body, image="", lightbox=False):
               f'<button id="lbclose">{UI[lang]["close"]}</button></span></div></div>'
               f'<script src="{rel}assets/app.js?v={ASSET_V}"></script>')
     doc = f"""<!doctype html>
-<html lang="{lang}">
+<html lang="{HTML_LANG[lang]}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -335,7 +336,7 @@ for lang in LANGS:
              f'<h1>{esc(text(h["title"], lang))}</h1><p>{esc(text(h["intro"], lang))}</p>'
              f'<div class="stats mono"><span><b>{stats["posts"]}</b>{ui["posts"]}</span>'
              f'<span><b>{stats["days"]}</b>{ui["days"]}</span>'
-             f'<span><b>{stats["photos"]:,}</b>{ui["photos"]}</span>'.replace(",", " " if lang == "uk" else ",")
+             f'<span><b>{stats["photos"]:,}</b>{ui["photos"]}</span>'.replace(",", " " if lang == "ua" else ",")
              + f'<span><b>{stats["first"]}–{stats["last"]}</b>{ui["years"]}</span></div></header>']
     for s in sections:
         ids = [pid for pid in order if EN[pid]["meta"].get("section") == s["id"]]
@@ -369,4 +370,4 @@ open(f"{OUT}/robots.txt", "w").write(
     "User-agent: *\nDisallow: /\n" if site.get("noindex") else f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
 open(f"{OUT}/.nojekyll", "w").write("")
 print(f"site/: {len(order)} projects x {len(LANGS)} languages, {stats['photos']} photos, "
-      f"Ukrainian translated: {sum(1 for p in order if p in P['uk'])}, noindex: {bool(site.get('noindex'))}")
+      f"Ukrainian translated: {sum(1 for p in order if p in P['ua'])}, noindex: {bool(site.get('noindex'))}")
