@@ -84,6 +84,7 @@ h1,h2,h3{font-family:var(--f-display);line-height:1.05;margin:0;text-wrap:balanc
 .post h2 a{color:inherit;text-decoration:none}
 .comments{margin-top:36px;padding-top:16px;border-top:1px solid var(--line);display:grid;gap:14px}
 .comments h3{font-size:24px;font-weight:600;text-transform:uppercase}
+.cframe{width:100%;min-height:360px;border:1px solid var(--line);border-radius:6px;background:#fff}
 .comment{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:10px 14px}
 .pager{display:flex;justify-content:space-between;gap:16px;margin-top:40px;padding-top:16px;border-top:1px solid var(--line);
   font-family:var(--f-display);font-size:20px;text-transform:uppercase}
@@ -97,10 +98,10 @@ JS = """
 (function () {
   var SITE = %(site)s, T = {
     en: {title: "Boat diary", lead: "Every work day on Vira, as it happened. Newest first.", loading: "Loading…",
-         all: "All posts", comment: "Leave a comment", label: "Label", notfound: "This post could not be loaded.",
+         all: "All posts", comment: "Leave a comment", comments: "Comments", label: "Label", notfound: "This post could not be loaded.",
          months: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},
     ua: {title: "Щоденник", lead: "Кожен робочий день на «Вірі», як він був. Нові записи зверху.", loading: "Завантажую…",
-         all: "Усі записи", comment: "Залишити коментар", label: "Мітка", notfound: "Цей запис не вдалося завантажити.",
+         all: "Усі записи", comment: "Залишити коментар", comments: "Коментарі", label: "Мітка", notfound: "Цей запис не вдалося завантажити.",
          months: ["січ","лют","бер","кві","тра","чер","лип","сер","вер","жов","лис","гру"]}};
   var lang = "en", mode = "", posts = [], cur = null, labelName = "";
   try { lang = localStorage.getItem("sv_lang") || (/\\/ua\\//.test(document.referrer) ? "ua" : "en"); } catch (e) {}
@@ -154,15 +155,38 @@ JS = """
             '</h1></header><div class="body">' + (cur.content ? cur.content.$t : "") + "</div>";
         if (cur.category) h += '<div class="labels">' + cur.category.map(function (c) {
           return '<a href="/search/label/' + encodeURIComponent(c.term) + '">' + esc(c.term) + "</a>"; }).join("") + "</div>";
-        if (ids[2] && /\\.post-/.test(cur.id.$t)) h += '<section class="comments"><a href="https://www.blogger.com/comment/fullpage/post/' + ids[1] + "/" + ids[2] +
-            '" target="_blank" rel="noopener">' + t.comment + "</a></section>";
+        if (ids[2]) h += '<section class="comments" id="comments"><div class="sv-cmt" data-blog="' + ids[1] + '" data-post="' + ids[2] + '"></div></section>';
         h += '<nav class="pager"><span></span><a href="/">' + t.all + "</a><span></span></nav></article>";
         document.title = cur.title.$t + " · " + t.title + " · Sailing Vira";
       }
     }
     root.innerHTML = h;
+    fillComments();
   }
 
+  function fillComments() {
+    var t = T[lang];
+    [].forEach.call(document.querySelectorAll(".sv-cmt"), function (box) {
+      var blog = box.getAttribute("data-blog"), id = box.getAttribute("data-post");
+      if (!blog || !id) return;
+      box.innerHTML = "<h3>" + t.comments + '</h3><div id="sv-comments"></div>' +
+        '<iframe class="cframe" title="' + t.comment + '" src="https://www.blogger.com/comment/frame/' + blog + "?po=" + id +
+        "&hl=" + (lang === "ua" ? "uk" : "en") + "&origin=" + encodeURIComponent(location.origin) + '"></iframe>' +
+        '<p class="mono"><a href="https://www.blogger.com/comment/fullpage/post/' + blog + "/" + id + '" target="_blank" rel="noopener">' +
+        t.comment + " ↗</a></p>";
+      loadComments(id);
+    });
+  }
+  function loadComments(id) {
+    fetch("/feeds/" + id + "/comments/default?alt=json&max-results=200").then(function (r) { return r.json(); }).then(function (d) {
+      var e = (d.feed.entry || []).slice().reverse(), box = document.getElementById("sv-comments");
+      if (!box) return;
+      box.innerHTML = e.map(function (c) {
+        return '<div class="comment"><div class="mono">' + esc(c.author[0].name.$t) + " · " + day(c.published.$t) + "</div><div>" +
+               (c.content ? c.content.$t : "") + "</div></div>";
+      }).join("");
+    }).catch(function () {});
+  }
   function each(url, onEntries, done) {
     (function page(start) {
       fetch(url + (url.indexOf("?") < 0 ? "?" : "&") + "alt=json&max-results=150&start-index=" + start)
@@ -189,6 +213,7 @@ JS = """
   }
 
   apply();
+  fillComments();
   // The Blogger widget shows posts when it works; otherwise the page builds itself from the blog's own feed.
   var widgetPosts = document.querySelector("#main .post");
   var p = location.pathname, m;
@@ -249,12 +274,7 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
     <div class='body'><data:post.body/></div>
     <b:if cond='data:post.labels'><div class='labels'><b:loop values='data:post.labels' var='label'><a expr:href='data:label.url'><data:label.name/></a></b:loop></div></b:if>
     <b:if cond='data:view.isSingleItem'>
-      <section class='comments' id='comments'>
-        <b:if cond='data:post.numberOfComments != 0'><h3>Comments</h3>
-          <b:loop values='data:post.comments' var='comment'><div class='comment'><div class='mono'><data:comment.author/> · <data:comment.timestamp/></div><div><data:comment.body/></div></div></b:loop>
-        </b:if>
-        <b:if cond='data:post.allowNewComments'><a expr:href='data:post.addCommentUrl' target='_blank'>Leave a comment</a></b:if>
-      </section>
+      <section class='comments' id='comments'><div class='sv-cmt' expr:data-blog='data:blog.blogId' expr:data-post='data:post.id'/></section>
     </b:if>
   </article>
   </b:loop>
