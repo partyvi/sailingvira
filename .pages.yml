@@ -93,6 +93,66 @@ content:
           ![](photo url) is a photo; photos one after another form a gallery.
           "Diary: [28 May 2022](post url)" links back to the diary post.
 
+  - name: pages_en
+    label: "Site pages (English)"
+    type: collection
+    path: content/en/pages
+    format: yaml-frontmatter
+    filename: "{fields.id}.md"
+    view:
+      fields: [title, slug]
+      primary: title
+    fields:
+      - { name: id, label: Id (file name), type: string, required: true }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: slug, label: Address on the site (e.g. boat/likes/), type: string, required: true }
+      - name: tab
+        label: Tab it belongs to
+        type: select
+        options:
+          values: [home, boat, projects, sailing, workshop, videos, about, contact]
+      - { name: eyebrow, label: Small line above the title, type: string }
+      - { name: description, label: One-line description, type: string }
+      - { name: cover, label: Photo for sharing (URL), type: string }
+      - name: body
+        label: Page text
+        type: code
+        options:
+          format: markdown
+        description: >
+          Same format as the stories, plus: "| a | b |" lines make a table, "Card: [Title](boat/likes/) | text" makes a link card,
+          "Was/now: ![](old url) ![](new url) | caption" makes a was/now photo pair.
+
+  - name: pages_ua
+    label: "Сторінки сайту (українською)"
+    type: collection
+    path: content/ua/pages
+    format: yaml-frontmatter
+    filename: "{fields.id}.md"
+    view:
+      fields: [title, slug]
+      primary: title
+    fields:
+      - { name: id, label: Id (file name), type: string, required: true }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: slug, label: Address on the site (e.g. boat/likes/), type: string, required: true }
+      - name: tab
+        label: Tab it belongs to
+        type: select
+        options:
+          values: [home, boat, projects, sailing, workshop, videos, about, contact]
+      - { name: eyebrow, label: Small line above the title, type: string }
+      - { name: description, label: One-line description, type: string }
+      - { name: cover, label: Photo for sharing (URL), type: string }
+      - name: body
+        label: Page text
+        type: code
+        options:
+          format: markdown
+        description: >
+          Same format as the stories, plus: "| a | b |" lines make a table, "Card: [Title](boat/likes/) | text" makes a link card,
+          "Was/now: ![](old url) ![](new url) | caption" makes a was/now photo pair.
+
   - name: sections
     label: Sections
     type: file
