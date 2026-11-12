@@ -235,21 +235,14 @@ def blocks_html(blocks, lang, alt):
 ASSET_V = hashlib.md5((open(f"{B}/tools/assets/style.css", "rb").read() +
                        open(f"{B}/tools/assets/app.js", "rb").read())).hexdigest()[:8]
 FONTS = ("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,"
-         "opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap")
+         "opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500"
+         "&family=Roboto+Condensed:wght@500;600;700&display=swap")
 
 
 PHOTOS = json.load(open(f"{B}/data/photos.json"))
 
-# Tabs: (key, site-relative slug, labels). "diary" goes to Blogger.
-TABS = [("home", "", {"en": "Home", "ua": "Головна"}),
-        ("boat", "boat/", {"en": "The Boat", "ua": "Човен"}),
-        ("projects", "projects/", {"en": "Projects", "ua": "Проєкти"}),
-        ("sailing", "voyages/", {"en": "Sailing", "ua": "Плавання"}),
-        ("diary", None, {"en": "Boat diary", "ua": "Щоденник"}),
-        ("workshop", "workshop/", {"en": "Workshop", "ua": "Майстерня"}),
-        ("videos", "videos/", {"en": "Videos", "ua": "Відео"}),
-        ("about", "about/", {"en": "About me", "ua": "Про мене"}),
-        ("contact", "contact/", {"en": "Contact", "ua": "Контакти"})]
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from site_tabs import TABS  # noqa: E402
 TAB = {k: (slug, lab) for k, slug, lab in TABS}
 
 
@@ -514,5 +507,6 @@ open(f"{OUT}/sitemap.xml", "w").write(
 open(f"{OUT}/robots.txt", "w").write(
     "User-agent: *\nDisallow: /\n" if site.get("noindex") else f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
 open(f"{OUT}/.nojekyll", "w").write("")
+os.system(f'{sys.executable} "{B}/tools/blogger_theme.py" "{B}" "{OUT}/blogger-theme.xml"')
 print(f"site/: {len(order)} projects x {len(LANGS)} languages, {stats['photos']} photos, "
       f"Ukrainian translated: {sum(1 for p in order if p in P['ua'])}, noindex: {bool(site.get('noindex'))}")

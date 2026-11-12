@@ -32,3 +32,14 @@ Every script takes the folder it works in as its argument.
 3. `python3 tools/classify.py data`: assign each section to a project, then `data/classified.json`.
 4. `python3 tools/dump.py data`: one text dump per project, and `data/sections.json`.
 5. `python3 tools/fetch_imgs.py data`: optional, downloads photos to `data/img/` (not committed).
+
+## Blogger diary theme
+
+`tools/blogger_theme.py` (also run by the build) makes `site/blogger-theme.xml`: the Boat diary in the site's
+look, with the same banner, tabs and EN / УКР switch. The diary's main page lists every post, newest first. Links point to
+`live_url` in `content/site.yml` (the address the site is served from now). Install it in Blogger:
+
+1. Theme → ⋮ (next to Customize) → **Backup** → Download, to keep the old theme.
+2. Theme → ⋮ → **Edit HTML**, select everything, paste the new theme, **Save**.
+
+When the site moves to sailingvira.com, empty `live_url`, rebuild and paste the theme again.
