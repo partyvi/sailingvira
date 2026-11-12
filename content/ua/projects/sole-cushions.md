@@ -1,4 +1,5 @@
 ---
+id: sole-cushions
 title: "Підлога, подушки і стіл"
 section: interior
 order: 2

@@ -1,4 +1,5 @@
 ---
+id: sailing
 title: "Журнал плавань"
 section: journey
 order: 3

@@ -1,0 +1,151 @@
+# Pages CMS configuration (https://pagescms.org).
+# Viktor has full access: stories in both languages, sections and site settings.
+# Photos stay on Blogger: paste the photo URL (size s1600) into the story text, not an upload.
+
+content:
+  - name: stories_en
+    label: Stories (English)
+    type: collection
+    path: content/en/projects
+    format: yaml-frontmatter
+    filename: "{fields.id}.md"
+    view:
+      fields: [title, section, order]
+      primary: title
+      sort: [section, order]
+    fields:
+      - name: id
+        label: Id (file name and URL, e.g. engine)
+        type: string
+        required: true
+        description: Lowercase, no spaces. Use the same id for the English and Ukrainian story. Only used when creating a new story.
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: section
+        label: Section
+        type: string
+        required: true
+        description: "Section id: hull, rig, engine, electric, interior or journey (see Sections)."
+      - name: order
+        label: Order inside the section
+        type: number
+      - name: description
+        label: One-line description
+        type: string
+      - name: cover
+        label: Cover photo URL
+        type: string
+        description: Blogger photo URL at size s1600, shown on the project card.
+      - name: body
+        label: Story
+        type: code
+        options:
+          format: markdown
+        description: >
+          "## Heading" starts a chapter. Blank line between paragraphs. "- " is a list item.
+          ![](photo url) is a photo; photos one after another form a gallery.
+          "Diary: [28 May 2022](post url)" links back to the diary post.
+
+  - name: stories_ua
+    label: Історії (українською)
+    type: collection
+    path: content/ua/projects
+    format: yaml-frontmatter
+    filename: "{fields.id}.md"
+    view:
+      fields: [title, section, order]
+      primary: title
+      sort: [section, order]
+    fields:
+      - name: id
+        label: Id (file name and URL, e.g. engine)
+        type: string
+        required: true
+        description: Lowercase, no spaces. Use the same id for the English and Ukrainian story. Only used when creating a new story.
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: section
+        label: Section
+        type: string
+        required: true
+        description: "Section id: hull, rig, engine, electric, interior or journey (see Sections)."
+      - name: order
+        label: Order inside the section
+        type: number
+      - name: description
+        label: One-line description
+        type: string
+      - name: cover
+        label: Cover photo URL
+        type: string
+        description: Blogger photo URL at size s1600, shown on the project card.
+      - name: body
+        label: Story
+        type: code
+        options:
+          format: markdown
+        description: >
+          "## Heading" starts a chapter. Blank line between paragraphs. "- " is a list item.
+          ![](photo url) is a photo; photos one after another form a gallery.
+          "Diary: [28 May 2022](post url)" links back to the diary post.
+
+  - name: sections
+    label: Sections
+    type: file
+    path: content/sections.yml
+    format: yaml
+    list: true
+    fields:
+      - name: id
+        label: Id (used in URLs and stories)
+        type: string
+        required: true
+      - name: order
+        label: Order
+        type: number
+      - name: title
+        label: Title
+        type: object
+        fields:
+          - { name: en, label: English, type: string }
+          - { name: ua, label: Українською, type: string }
+
+  - name: site
+    label: Site settings
+    type: file
+    path: content/site.yml
+    format: yaml
+    fields:
+      - { name: name, label: Site name, type: string }
+      - { name: base_url, label: Base URL, type: string }
+      - name: noindex
+        label: Hidden from search engines (noindex)
+        type: boolean
+        description: Keep on until the site goes public.
+      - { name: blog_url, label: Blogger diary URL, type: string }
+      - name: home
+        label: Home page
+        type: object
+        fields:
+          - name: eyebrow
+            label: Small line above the title
+            type: object
+            fields:
+              - { name: en, label: English, type: string }
+              - { name: ua, label: Українською, type: string }
+          - name: title
+            label: Title
+            type: object
+            fields:
+              - { name: en, label: English, type: string }
+              - { name: ua, label: Українською, type: string }
+          - name: intro
+            label: Intro
+            type: object
+            fields:
+              - { name: en, label: English, type: text }
+              - { name: ua, label: Українською, type: text }

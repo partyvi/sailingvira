@@ -1,4 +1,5 @@
 ---
+id: head-shower
 title: "Гальюн і душ"
 section: interior
 order: 4

@@ -1,4 +1,5 @@
 ---
+id: fuel
 title: "Fuel tank"
 section: engine
 order: 2

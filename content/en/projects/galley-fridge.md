@@ -1,4 +1,5 @@
 ---
+id: galley-fridge
 title: "Galley & refrigerator"
 section: interior
 order: 3

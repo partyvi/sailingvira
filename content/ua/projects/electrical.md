@@ -1,4 +1,5 @@
 ---
+id: electrical
 title: "Електрична система"
 section: electric
 order: 1

@@ -1,4 +1,5 @@
 ---
+id: windlass
 title: "Windlass, chain locker & anchor"
 section: hull
 order: 4

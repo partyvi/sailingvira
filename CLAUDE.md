@@ -33,7 +33,7 @@ The site will be published at **sailingvira.com**. The domain currently redirect
 3. New build: page per project, EN/UK, photos from Blogger, sitemap, noindex switch (done).
 4. GitHub Actions deploys to GitHub Pages (done: .github/workflows/pages.yml).
 5. Ukrainian translation of all stories (done).
-6. Pages CMS set-up and test.
+6. Pages CMS set-up (`.pages.yml`, full access for Viktor) and test.
 7. First real diary update as a PR.
 8. Go public: sailingvira.com DNS to GitHub Pages, HTTPS, Search Console, link from Blogger.
 Later: scheduled updates, auto-publish, diary moves into the site.
@@ -49,7 +49,7 @@ Later: scheduled updates, auto-publish, diary moves into the site.
 
 - `content/sections.yml`: the site sections (`id`, `order`, `title.en`, `title.ua`).
 - `content/en/projects/<id>.md`: one story per project. The file name is the project id and URL slug.
-  - Front matter: `title`, `section` (a section id), `order` (position inside the section),
+  - Front matter: `id` (same as the file name; Pages CMS names new files from it), `title`, `section` (a section id), `order` (position inside the section),
     `description` (one line), `cover` (photo URL for the project card).
   - Body is plain Markdown:
     - `## Heading` starts a chapter. Text before the first heading is the intro.

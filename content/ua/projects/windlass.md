@@ -1,4 +1,5 @@
 ---
+id: windlass
 title: "Брашпиль, ланцюговий ящик і якір"
 section: hull
 order: 4

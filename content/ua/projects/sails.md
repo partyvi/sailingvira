@@ -1,4 +1,5 @@
 ---
+id: sails
 title: "Вітрила і біжучий такелаж"
 section: rig
 order: 3

@@ -1,4 +1,5 @@
 ---
+id: sole-cushions
 title: "Cabin sole, cushions & table"
 section: interior
 order: 2

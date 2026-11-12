@@ -1,4 +1,5 @@
 ---
+id: navigation
 title: "Навігація й авторульовий"
 section: electric
 order: 2

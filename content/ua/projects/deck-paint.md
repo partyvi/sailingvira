@@ -1,4 +1,5 @@
 ---
+id: deck-paint
 title: "Фарбування палуби і люки"
 section: hull
 order: 2

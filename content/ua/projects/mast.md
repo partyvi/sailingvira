@@ -1,4 +1,5 @@
 ---
+id: mast
 title: "Щогла"
 section: rig
 order: 1

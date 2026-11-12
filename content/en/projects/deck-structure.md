@@ -1,4 +1,5 @@
 ---
+id: deck-structure
 title: "Deck & structure"
 section: hull
 order: 1
