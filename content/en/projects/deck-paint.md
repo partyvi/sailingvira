@@ -4,7 +4,7 @@ title: "Deck painting & hatches"
 section: hull
 order: 2
 description: "Fourteen weeks of sanding, priming and painting, new hatches and companionway."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlxLrCDtZQuvJaJWs_Ah5eqDdtRO6zGjmPPR7jNhl7lFA2MQ0wT-sygNq0cnKfnwE5dWvvC9phQ0CSl_GBxjcZglLYy9HDcI1JuzKmQxUqcPZavRNPdUcNuUGUak3Ng47fudFynpj9dpxHC4L2c0vNQw8baIn6GHT8YFB2oQAjVmCu_UzM9oNo5aoi8sl1/s1600/IMG_8448.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludbXj5NF1-gb2goQQ-RS-YlD77BwZt07PFJWfLAWXUeIZrHwACXEqHpRpvtLoBdvknohqM7Btb1Dtg2rSWb8K032ExvL0V7H-3jX1AA2nx2D_fu1cYUjI7fqZ355t5Dyg3IUb1OgxnEtfkquWty1NXPXX0PR7FOclaQIgXpyTzthNi3NgDDc/s1600/IMG_8305.HEIC"
 ---
 
 The deck was 40 years old paint, "maintainable", as I wrote before buying her. In spring 2024 I finally repainted it: 130 hours, 19 work days, 14 weeks. Before that came the companionway and the new hatches.

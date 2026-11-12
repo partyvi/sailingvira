@@ -4,7 +4,7 @@ title: "Windlass, chain locker & anchor"
 section: hull
 order: 4
 description: "New windlass mount, rebuilt chain locker, bow roller and anchor rode."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcUi40aztqzldgAw7XEq68tbcuPFPaW2SWMbBSFFFxwHTN5zk9hLiNX49oZ3Yqk7As9dTKAsiljTUVAG3qpXoJRyfStizpB5vXfV9IVKNIlStTRACa_yVb4iP31cVXssC-hzlEbOc5_h07X0Df9F-0JlWajcKBhQyrt14twMfW8oIG7koslWyKT5-S-HB-/s1600/IMG_2819.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkeg4FNZ0fDsH87EBlDE4EOnJQfqzSLo0KJMZj6fwDr_0VRY_WBHW_zGOzTgM1qchxlaT2XxyW0Gt4mj9V_tbMfoYHBfqjJcDu0507x3xGSaowczZenh3PB7mTeXoTUiYOU1nCq5uTwmZ-LW7esbT6bT2pu27dzSqkm-iztcpLctRz33mwEdlUIj1MKJh/s1600/IMG_8757.HEIC"
 ---
 
 I'm not very young anymore, and pulling up even a 25 lb CQR plus chain by hand isn't easy, especially if I plan to sail almost single-handed. So Vira got a windlass. But first she needed a real bow roller, a chain locker deep enough for the chain, and a mount strong enough for both.

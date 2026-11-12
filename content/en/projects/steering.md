@@ -4,7 +4,7 @@ title: "Steering, rudder & shaft"
 section: engine
 order: 3
 description: "Quadrant, rudder sensor, pedestal guard, rudder drop and dripless seal."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSTwjD7j4qJem6KmQTupX9LT_NOlJqHY9V1bHllNtsIr5NjWhLrUrSwx4hegQwixDj39WU7DSpj3-dxr6zcTHDlqtcH7Bh8cdNr3pE4UQDvd91LzDMjff0aS2tqp2vILodQgve9852ZhESxZ2CU3hFOhyzp5wCbpgtdDd5y3VXDGAJUulCPjq7HEvbwNK5/s1600/IMG_0407.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSYmVCuFYOn9WMcJPfKyff_DGeXv_zTTeSr2hFG3SprBIM0nSPX3GjAHF6KS_L7X7NCCJqhvizg1-AD5X4acVAlM1ldtrJ8F_2HB22L1_F6VIaa7-HdVRY5u7VJqxJmmt2LcSszlOlqYWCjvBkPzZ3tUUdd0-i8DiXSHSIoclOR7zzOIvludrVqSQ6lDaD/s1600/IMG_9465.HEIC"
 ---
 
 Steering, rudder, shaft: the stuff you never think about until something goes wrong. On Vira I fixed it in bits. Tightening things at the dock first, and then the big jobs when she was on the hard in late 2025.

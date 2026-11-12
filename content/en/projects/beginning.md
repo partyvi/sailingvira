@@ -4,7 +4,7 @@ title: "The beginning"
 section: story
 order: 1
 description: "How Vira found me, what she looked like and what was wrong."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6fOXij0dI5VfaIfzYLFs6JtzbobtxSUPDlF6af_-z34R76petG1LoKWXxSeez5EegY7lWfeoDpjoaTYtRxcvmAFLN6Lq0STzAo5IXlWLqO8br_6rhG-94kiyEHAbcdSWW49Hvtf96gqX7vtMZk_LnRWb2JV-1m-_UgiDSndV1uwcCZqJ-el9HQyjjxluS/s1600/Untitled.jpg
+cover: "https://blogger.googleusercontent.com/img/a/AVvXsEiyQA0qbz237Z-QhU0nteMv3hrrlyd5tV-ntYI7hfSgi5_EApb1mdV-_hpwvK0dUpd7DOVl-M_jHydkQh7imqrbXDqsnGq0Qka5sOjYnpb_XrT_7zhJznBQ5yWgYYediGEnB6qH4gg6OIGiSY9gFjvKMk0IMYRaISjfOBq8d3orJIOkBXCzqpeVGOEaWw=s1600"
 ---
 
 Every project boat story starts the same way: "I wasn't really looking for a project boat..." Mine too.

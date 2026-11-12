@@ -4,7 +4,7 @@ title: "Sails & running rigging"
 section: rig
 order: 3
 description: "Sail pack, the new mainsail, boom, reefing, winches, bimini and dodger."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGD2xVSiY1Sk2UIgnJe8yn989AWVTCJTdDKwoRxV4eSgjSrnDNoo2OISMH7cPhDDFZTOpc-8sIMe8DU4pkccuw0p95UL_aAkyK7Q71Ja6U96Wf1Ff1EgIt_XI5Gi7MrO9ee9afLxgZlCrvE614nyrJGPgGNfJzW2cl3YzOMVZMRvOyoLaHj1ISFai2Rct0/s1600/IMG_2760.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxHK5TXVBlcdEd82WmhRokCuDQYKj0JY5ifcl3et545x4xTti-7CeKGZMxYSq18EcVYJbR35Y_huMn_5Pq3MjbTySs7eBtKTEaJ1uIesaRmTAr2neS43IzCIKowHYZhg9prccdKK-tumxf83m1_Wa9oQomwE4TTFvvL3Zw8nsunWk6BiEyDVHRJiFteQi/s1600/IMG_1563.HEIC"
 ---
 
 Sails came with the boat, and for a few years they were "good enough". Then little by little everything around them changed: a sail pack, a new mainsail with four reefs, and a boom full of blocks and winches.

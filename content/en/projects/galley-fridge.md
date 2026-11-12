@@ -4,7 +4,7 @@ title: "Galley & refrigerator"
 section: interior
 order: 3
 description: "New galley base and countertop, and the refrigerator built from scratch."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwRnA65Y4WqnqNrp9lm59v3MIxqUxv_ep9E0wzG6kaOCdpK5TOxcb0of8CHIhG_iBd5qE_VQEGsP4GpgYNOebwyfqzx3Xpgnp6dOUtQIUW3xq9MNKLfzESCMFCHGSQ7W0BfNkAE1H7PMlt83ErH1a1rG40EkEaj8-09u-8YWndZveZPRWyMLMDu-M9BOld/s1600/IMG_2810.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh46Lmckdc6fJakQaxPNhqcEubFdnETQ2C7GVkPWVxAuRw6RPGS53sEVe1SveXYY_j6GaN2D1yn7O066CKg-jsGXfw6_MU3M8U44uwHZdd5upmpD3rFk6S_VkrFccagp-NKtLOXtBRxnyI1ZXG47pKIDc3x2-caDuRhyPxx9GX0O6p-5CVA39hbGgxPg8vV/s1600/IMG_2811.HEIC"
 ---
 
 The galley is where the boat becomes a home. When I bought Vira, it looked more or less OK, until you lifted anything up. Then everything was rotten. In the end I rebuilt it all, and turned the old ice chest into a real refrigerator. That refrigerator taught me a lot. It's also why I ended up designing my own thermostat.

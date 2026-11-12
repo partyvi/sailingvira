@@ -4,7 +4,7 @@ title: "Журнал плавань"
 section: voyages
 order: 2
 description: "Дні під вітрилами, люди, погода і життя довкола човна."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJzvmmk2uG99zTR2KozyZu3wa6ioZXjKuocMhyphenhyphenI3QTnNJkX4IT-32g2lJsQONuuQ90GTeag2oEcQt-cMcm-8SKKHF9K1bVRT0j4GR9zEu136Uu_Lpmb2FTa-EAyumiTmLSph3yr7gK89fTSFF2B5i7hfE58OThFfoVYjdklmRHpz3hrlUJPT63hx0kLi_q/s1600/IMG_2801.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC"
 ---
 
 Уся ця робота заради одного: піти під вітрилами. Тут дні на воді, люди, що ходили зі мною, і життя довкола човна: причали, що переїжджають, озеро, яке висихає і вертається, шторми і нарешті Галвестонська затока.

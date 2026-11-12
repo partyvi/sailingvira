@@ -4,7 +4,7 @@ title: "Брашпиль, ланцюговий ящик і якір"
 section: hull
 order: 4
 description: "Нова основа брашпиля, перебудований ланцюговий ящик, роульс і якірний трос."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcUi40aztqzldgAw7XEq68tbcuPFPaW2SWMbBSFFFxwHTN5zk9hLiNX49oZ3Yqk7As9dTKAsiljTUVAG3qpXoJRyfStizpB5vXfV9IVKNIlStTRACa_yVb4iP31cVXssC-hzlEbOc5_h07X0Df9F-0JlWajcKBhQyrt14twMfW8oIG7koslWyKT5-S-HB-/s1600/IMG_2819.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkeg4FNZ0fDsH87EBlDE4EOnJQfqzSLo0KJMZj6fwDr_0VRY_WBHW_zGOzTgM1qchxlaT2XxyW0Gt4mj9V_tbMfoYHBfqjJcDu0507x3xGSaowczZenh3PB7mTeXoTUiYOU1nCq5uTwmZ-LW7esbT6bT2pu27dzSqkm-iztcpLctRz33mwEdlUIj1MKJh/s1600/IMG_8757.HEIC"
 ---
 
 Я вже не дуже молодий, і витягати руками навіть 25-фунтовий CQR разом із ланцюгом нелегко, особливо якщо плануєш ходити майже самотужки. Тож «Віра» отримала брашпиль. Але спершу їй потрібні були справжній роульс, ланцюговий ящик достатньої глибини і основа, міцна для обох.

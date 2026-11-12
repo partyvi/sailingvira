@@ -4,7 +4,7 @@ title: "Фарбування палуби і люки"
 section: hull
 order: 2
 description: "Чотирнадцять тижнів шліфування, ґрунтування і фарбування, нові люки і вхідний люк."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlxLrCDtZQuvJaJWs_Ah5eqDdtRO6zGjmPPR7jNhl7lFA2MQ0wT-sygNq0cnKfnwE5dWvvC9phQ0CSl_GBxjcZglLYy9HDcI1JuzKmQxUqcPZavRNPdUcNuUGUak3Ng47fudFynpj9dpxHC4L2c0vNQw8baIn6GHT8YFB2oQAjVmCu_UzM9oNo5aoi8sl1/s1600/IMG_8448.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludbXj5NF1-gb2goQQ-RS-YlD77BwZt07PFJWfLAWXUeIZrHwACXEqHpRpvtLoBdvknohqM7Btb1Dtg2rSWb8K032ExvL0V7H-3jX1AA2nx2D_fu1cYUjI7fqZ355t5Dyg3IUb1OgxnEtfkquWty1NXPXX0PR7FOclaQIgXpyTzthNi3NgDDc/s1600/IMG_8305.HEIC"
 ---
 
 Палуба мала 40-річну фарбу, «в робочому стані», як я написав перед купівлею. Навесні 2024-го я нарешті її перефарбував: 130 годин, 19 робочих днів, 14 тижнів. А перед цим були вхідний люк і нові люки.

@@ -4,7 +4,7 @@ title: "Fixed ports & windows"
 section: hull
 order: 3
 description: "Opening ports, fixed windows, adhesion tests and the second set of ports."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRrmEI_HAZiBBUgdGCu4owVRvbMnMD6GFglAIoxKP-FmSaJF-MjcMKr6aNe8jRq0ejHdX-1nanV8tiGMgYY5kSKo3RptrO5x3ZtxzMnUdSgJKo6JEkg3WrVdTvw8xAYZdyhU_3s3RJnNXU2yFJOKyjumYubHP66UNNJDyEjBr3tkazvtz8EC7Jr7WObsc7/s1600/IMG_0972.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcbIOm2n9jBRQUMA0ST4GfkKc5rJSu8x0SkHgmC1gIMVlnSNIj_MByA0zL2_LSGfcrViXUUH9EaaxoIFXDkZQR7Wqhx53zNWK75dD-SNSxD47cxvQd6StaiKVZD5_FQFBJRQk891JhOzIcufyz-rKgUsdxZs15cfJAhuNawlz4aXn5xzWvWLUNpodKjbp2/s1600/IMG_7092.HEIC"
 ---
 
 Vira has two kinds of windows. Six small opening ports, and the two long fixed windows on the cabin sides. The ports took one summer. The fixed windows took me two years and four tries.

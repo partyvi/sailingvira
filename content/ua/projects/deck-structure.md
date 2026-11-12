@@ -4,7 +4,7 @@ title: "Палуба і силовий набір"
 section: hull
 order: 1
 description: "Новий заповнювач правого борту палуби, стик палуби з корпусом, стійки лєєрів і шпігати."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqG4nsQ5W38Cdgbgjna6xD4qF_9glxZfZaz9zonpwnkcl4MDeUbwI5oUEiwPJ9A1_8alIIfwR9e_LoIDLX9jMJn_soXXUp8pUTCFAMiZ_OsCRp3-Uugg10Ag2cn_P7DHUrsAl5uKDwHr6NC4Om-w6D3yX1EjWhDvef4OVp7bUDa9-HUi0dE7LH4KW3znm/s1600/IMG_0870.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbVwnyqjSoDo6RspiLrPmRG9CsqGc1B-FKd0gQOKLrhS6dv5aBvH1q22ZD9hEyo_IqZdAmgPcmMjN5Zpp5nemCoaYzWGbDbxFcVCIihBCRPoRAhkLsa2WwxewwlLQbTvpb9-z7NSUu4QhMNydKNG3SxKywP12E-g99EXJ1tz5qicGOvORBE9Rk3g8d3w/s1600/IMG_4127.HEIC"
 ---
 
 На цьому човні є одне головне правило: усе на палубі, чого я ще не торкався, протікає. Я вивчив це на власному досвіді, деталь за деталлю.

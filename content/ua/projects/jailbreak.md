@@ -4,7 +4,7 @@ title: "Втеча з озера і верф"
 section: voyages
 order: 1
 description: "Як ми покинули обміліле озеро Тревіс заради Кема, і дев'ять днів на березі."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVT9JNGV8ptjwrYupxHMaJw8XjJ07pDe9wU-FQRHJa6CNm4d0YMwIC4kRKPWxw1ya5-vOSk6_V2h6XPKaSxX-4Cd77JX4TDcEowQ1HiQvUGUubGTL63qNrGIIWxdXPwn5AQUYusXZMRQSh23QUSckAwQry0CsauTkP4bj74jyScV2tzL9PfY30vqfvCzB6/s1600/IMG_0938.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4AojRpatKVIhIuqm669ho9bWItjoojQvkZ5EDQIahHTv3NwRXQkZs4lk9uyFZxGyx8SE4reBvMBcEU0eN5-4OABigjaJhwIKGX4d0V5aQRegHRQItpBt3FtWr4jQjcrxpUlzRGGYvE1SQMKXQQk1XOlM5VO11KqCutyQuVnwNcJfLuMxBQTVMh_8K4pM/s1600/Resized_20251111_194347_1762911848395.jpeg"
 ---
 
 Чотири роки «Віра» жила на озері Тревіс. 34-футовий човен в озері, звідки немає виходу у велику воду. Восени 2025-го я вирішив це виправити. Я назвав це втечею з в'язниці.

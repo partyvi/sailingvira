@@ -4,7 +4,7 @@ title: "Електрична система"
 section: electric
 order: 1
 description: "Нова проводка, електрощит, батареї, інвертор, берегове живлення і ELCI."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26seaoPEsXLaudrfXbbrtm6V_3mkF7mfCKoYPCp07gGzcZ-gS5iBAXhXuNRgltch9DszulRL-0hbPcI6fY1gjGo-AgLRlZRz-5u_XPswMoPEIY99flJx5gEKoxpIyJDn94_h4B1-wodsTgAjqwee_4c7wJntEqXvqbtygtbiJszXDmAQqmZr91ps_XE0n/s1600/IMG_1453.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZjDGXloN-Viv-gVOY_tz9cUl9jrVHuEn60GyXW-k7J53xhBOGh15P7aXt1Ciwwso9t54f1QoxAA5NC0PS2JG7JDe6fijFzJsr02kXPvdK_RIVYaijw403U7rquGzUCg3Oyt2fqQfikFIBRXhHW2nz-xUfGd_dd5sACiYIrwJE0YsjXYEjF/s1600/IMG_6092.HEIC"
 ---
 
 40-річний човен із 40-річною проводкою. Голий мідний дріт, скрутки під ізострічкою, згорілий генератор і дві мертві батареї. Зрештою я замінив на «Вірі» кожен дріт, потім зібрав щит, а потім заліз у літій, інвертори і купу уроків про розумні батареї.

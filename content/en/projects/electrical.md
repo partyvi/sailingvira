@@ -4,7 +4,7 @@ title: "Electrical system"
 section: electric
 order: 1
 description: "New wiring, electric panel, batteries, inverter, shore power and ELCI."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26seaoPEsXLaudrfXbbrtm6V_3mkF7mfCKoYPCp07gGzcZ-gS5iBAXhXuNRgltch9DszulRL-0hbPcI6fY1gjGo-AgLRlZRz-5u_XPswMoPEIY99flJx5gEKoxpIyJDn94_h4B1-wodsTgAjqwee_4c7wJntEqXvqbtygtbiJszXDmAQqmZr91ps_XE0n/s1600/IMG_1453.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZjDGXloN-Viv-gVOY_tz9cUl9jrVHuEn60GyXW-k7J53xhBOGh15P7aXt1Ciwwso9t54f1QoxAA5NC0PS2JG7JDe6fijFzJsr02kXPvdK_RIVYaijw403U7rquGzUCg3Oyt2fqQfikFIBRXhHW2nz-xUfGd_dd5sACiYIrwJE0YsjXYEjF/s1600/IMG_6092.HEIC"
 ---
 
 A 40-year-old boat with 40-year-old wiring. Bare copper, twisted joints under electrical tape, a burned-out alternator and two dead batteries. I ended up replacing every wire on Vira, then built a panel, and then went into lithium, inverters and a lot of lessons about smart batteries.

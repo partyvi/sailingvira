@@ -4,7 +4,7 @@ title: "Hull & bottom"
 section: hull
 order: 5
 description: "Blisters, barrier coat, topside paint, thru-hulls and her name."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpLgHFFDtJIx5FLC5Ivoj0L0hwq3HXJTPos-36nLbO_McFB87TEaj2gzmMyloFzV2O6TendzPPzKi8SLpb7CaJK5lnjWidJkdxcauH0n0sTViOkZOvvYEU0mmC8WLY-liHgLoKxv4cqgHZWHHuQwe8RUxcIWhencu1gLDK5Fb3X3yYHh3JoS8bmcrYQS4/s1600/IMG_0760.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgh19ag6IykztOjEfiVI6uHpiKrB7HnCJf2URgH752BIlyKrI7rZnCiy4IiknWB_vcP7_v5YjQI4UilHGvjTXLNJ44crKEkE64XdYba3sBtwexzdV9mmhs0F8StuOEsRQyu8ioaAgpRiVgVUNyFRU7UU7oM-lvS2T4ZfXF63yce2NHCe_gUW7-uP8LgyVr/s1600/IMG_0593.HEIC"
 ---
 
 For four years I could only work on Vira's hull from the dock: a few scratches, a couple of thru-hull hoses, a soft spot inside a locker. Everything under the water had to wait for the boatyard. When she finally came out in November 2025, I found out what 47 years in a lake does to a bottom.
