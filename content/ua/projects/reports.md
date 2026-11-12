@@ -33,7 +33,7 @@ cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_
 - Вхідний люк: напрямні і дверцята перебудовані, дві дошки зроблені з тику з віконцями з акрилу 1/4 дюйма. Виглядає круто!
 - Дивний злив якірного колодязя: виявився дюймом старої ПВХ-труби, що йшла до зливу кокпіту. Безглуздо, і майже зруйновано. Його замінить новий, глибший ланцюговий ящик.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png)
 
 Diary: [21 Jul 2022](https://irwin34.blogspot.com/2022/07/half-year-report-my-citation-34.html)
 
@@ -43,7 +43,7 @@ Diary: [21 Jul 2022](https://irwin34.blogspot.com/2022/07/half-year-report-my-ci
 
 У серпні я відкрив свою дошку Trello для всіх, тож кожен може бачити список задач.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4U2hgtAH4o0B2VNEwQv9W11oDun_b9uGqABgRF9d_1qldS9iJRS9Is8ypOI75lAAzMrSyDv1tLwpqLTokWC45m1tB-xbWspb4m6dmXrEwbODiD58VCtvBx6hjbfPNKCqyuxKL7PDb8qO1smblxXnIuYVoQmibS63J8XKx3UJy6bNBiOPfN5BMczvhfA/s1600/trelo.png)
+![Дошка Trello зі списком задач відновлення Irwin 34](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4U2hgtAH4o0B2VNEwQv9W11oDun_b9uGqABgRF9d_1qldS9iJRS9Is8ypOI75lAAzMrSyDv1tLwpqLTokWC45m1tB-xbWspb4m6dmXrEwbODiD58VCtvBx6hjbfPNKCqyuxKL7PDb8qO1smblxXnIuYVoQmibS63J8XKx3UJy6bNBiOPfN5BMczvhfA/s1600/trelo.png)
 
 Diary: [3 Aug 2022](https://irwin34.blogspot.com/2022/08/opened-access-to-my-trello-tasks.html)
 
@@ -63,7 +63,7 @@ Diary: [3 Aug 2022](https://irwin34.blogspot.com/2022/08/opened-access-to-my-tre
 
 І ТАК, у мене був день під вітрилами на озері. Вона чудова!
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png)
 
 Diary: [25 Sep 2022](https://irwin34.blogspot.com/2022/09/work-report-2-since-jul-21-2022.html)
 
@@ -80,7 +80,7 @@ Diary: [25 Sep 2022](https://irwin34.blogspot.com/2022/09/work-report-2-since-ju
 - Ліва переборка приформована з боку гальюна і до палуби.
 - Почав шліфувати дерево інтер'єру.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png)
 
 Diary: [29 Nov 2022](https://irwin34.blogspot.com/2022/11/progress-report-3-since-sep-25-2022.html)
 
@@ -102,7 +102,7 @@ Diary: [29 Nov 2022](https://irwin34.blogspot.com/2022/11/progress-report-3-sinc
 - Біміні. Великий 15-дюймовий сенсорний екран у кокпіті для OpenPlotter, там, де колись був лівий ілюмінатор між камбузом і кокпітом.
 - Камбуз: верхні шафки, посилені шафки з новими дверцятами і шухлядами, знімна полиця під мийкою, щоб діставатися до помп, нова стільниця і новий змішувач.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsntzqy54ZTOHcbaot6aj9tzwxufW5vivHoIHE71oJPCyIW63cGVIR5gO8oIMG2CuHuR1cnP5X2eiEwqn-71NyI-8GumL7-zN90Fi8L6MyYkvMgo6PTY7RUWooyis8YThNA2l9bGNbKUFkjGm6ozqbABe_uKaDDu77YdFp_omuNBOIkUOrgWBZl9u_Q/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsntzqy54ZTOHcbaot6aj9tzwxufW5vivHoIHE71oJPCyIW63cGVIR5gO8oIMG2CuHuR1cnP5X2eiEwqn-71NyI-8GumL7-zN90Fi8L6MyYkvMgo6PTY7RUWooyis8YThNA2l9bGNbKUFkjGm6ozqbABe_uKaDDu77YdFp_omuNBOIkUOrgWBZl9u_Q/s1600/man%20at%20work.png)
 
 Diary: [26 Jun 2023](https://irwin34.blogspot.com/2023/06/progress-report-4-since-nov-28-2022.html)
 
@@ -119,7 +119,7 @@ Diary: [26 Jun 2023](https://irwin34.blogspot.com/2023/06/progress-report-4-sinc
 
 Перебудова інтер'єру завершена, і все дерево покрите лаком.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsntzqy54ZTOHcbaot6aj9tzwxufW5vivHoIHE71oJPCyIW63cGVIR5gO8oIMG2CuHuR1cnP5X2eiEwqn-71NyI-8GumL7-zN90Fi8L6MyYkvMgo6PTY7RUWooyis8YThNA2l9bGNbKUFkjGm6ozqbABe_uKaDDu77YdFp_omuNBOIkUOrgWBZl9u_Q/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsntzqy54ZTOHcbaot6aj9tzwxufW5vivHoIHE71oJPCyIW63cGVIR5gO8oIMG2CuHuR1cnP5X2eiEwqn-71NyI-8GumL7-zN90Fi8L6MyYkvMgo6PTY7RUWooyis8YThNA2l9bGNbKUFkjGm6ozqbABe_uKaDDu77YdFp_omuNBOIkUOrgWBZl9u_Q/s1600/man%20at%20work.png)
 
 Diary: [19 Dec 2023](https://irwin34.blogspot.com/2023/12/progress-report-5-since-jun-27-2023.html)
 
@@ -133,7 +133,7 @@ Diary: [19 Dec 2023](https://irwin34.blogspot.com/2023/12/progress-report-5-sinc
 - Електрика: рівнеміри баків води і чорної води, проводка щогли впорядкована з кабельним вводом, усі батарейні кабелі замінені, нові вимикачі батарей, ізолятор заряду для генератора, монітори батарей з дисплеєм, береговий блок живлення постійного струму, інвертор на 3 кВт із літієвою батареєю на 2,5 кВт·год і зумер на головній трюмній помпі.
 - Навігація: OpenPlotter на Raspberry Pi з дисплеєм на штурманському столі і спліттером, що дублює екран у кокпіті. Вітромір і Wi-Fi-камера на топі, ехолот і лаг, привід авторульового і датчик пера — усе під'єднане.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsntzqy54ZTOHcbaot6aj9tzwxufW5vivHoIHE71oJPCyIW63cGVIR5gO8oIMG2CuHuR1cnP5X2eiEwqn-71NyI-8GumL7-zN90Fi8L6MyYkvMgo6PTY7RUWooyis8YThNA2l9bGNbKUFkjGm6ozqbABe_uKaDDu77YdFp_omuNBOIkUOrgWBZl9u_Q/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsntzqy54ZTOHcbaot6aj9tzwxufW5vivHoIHE71oJPCyIW63cGVIR5gO8oIMG2CuHuR1cnP5X2eiEwqn-71NyI-8GumL7-zN90Fi8L6MyYkvMgo6PTY7RUWooyis8YThNA2l9bGNbKUFkjGm6ozqbABe_uKaDDu77YdFp_omuNBOIkUOrgWBZl9u_Q/s1600/man%20at%20work.png)
 
 Diary: [12 Jun 2024](https://irwin34.blogspot.com/2024/06/things-are-done-since-122023.html)
 
@@ -147,7 +147,7 @@ Diary: [12 Jun 2024](https://irwin34.blogspot.com/2024/06/things-are-done-since-
 - Паливний бак відремонтований із суцільною склопластиковою кришкою, сервісна паливна помпа, фільтри на 30 і 10 мікрон, усі паливні лінії A1-15.
 - Вентиляція фекального бака з фільтром, виведена в ланцюговий ящик.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghCyppnW624BBfiRMzQ7MsoLdwkdaW9p7_VwX5Ez9FVIMBH276fEefmmgObDYC_V6OneuQtiWdWQBK-RVeYBB26Q0IN8SR0iiVk5R3k28-VxBO80QynDFsn4F5kJGZ0LdT7Y4XnU7tqSawOYFuD_lwLzsgR7bYx4Jk9VOujc175TnDFcMtvq54_noO1LOf/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghCyppnW624BBfiRMzQ7MsoLdwkdaW9p7_VwX5Ez9FVIMBH276fEefmmgObDYC_V6OneuQtiWdWQBK-RVeYBB26Q0IN8SR0iiVk5R3k28-VxBO80QynDFsn4F5kJGZ0LdT7Y4XnU7tqSawOYFuD_lwLzsgR7bYx4Jk9VOujc175TnDFcMtvq54_noO1LOf/s1600/man%20at%20work.png)
 
 Diary: [29 Oct 2024](https://irwin34.blogspot.com/2024/10/things-are-done-since-61224.html)
 
@@ -171,7 +171,7 @@ Diary: [29 Oct 2024](https://irwin34.blogspot.com/2024/10/things-are-done-since-
 
 Ще в списку на потім: страхувальний ремінь, щоб кришки моторного і газового рундуків лишалися з човном. Тріщина шверта (не критично, баласт — свинцевий дріб в епоксидці), розбита вісь, що стукає, коли човен гойдається, і труба підйомного шкерта. Передній путенс із вирваним пальцем. Гучний зумер на лампах тривоги двигуна. Залити епоксидкою дерев'яні стики між частинами переборки.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghCyppnW624BBfiRMzQ7MsoLdwkdaW9p7_VwX5Ez9FVIMBH276fEefmmgObDYC_V6OneuQtiWdWQBK-RVeYBB26Q0IN8SR0iiVk5R3k28-VxBO80QynDFsn4F5kJGZ0LdT7Y4XnU7tqSawOYFuD_lwLzsgR7bYx4Jk9VOujc175TnDFcMtvq54_noO1LOf/s1600/man%20at%20work.png)
+![Знак «Люди працюють»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghCyppnW624BBfiRMzQ7MsoLdwkdaW9p7_VwX5Ez9FVIMBH276fEefmmgObDYC_V6OneuQtiWdWQBK-RVeYBB26Q0IN8SR0iiVk5R3k28-VxBO80QynDFsn4F5kJGZ0LdT7Y4XnU7tqSawOYFuD_lwLzsgR7bYx4Jk9VOujc175TnDFcMtvq54_noO1LOf/s1600/man%20at%20work.png)
 
 Diary: [19 Feb 2026](https://irwin34.blogspot.com/2026/02/things-are-done-since-102924.html)
 
@@ -191,7 +191,7 @@ Diary: [19 Feb 2026](https://irwin34.blogspot.com/2026/02/things-are-done-since-
 - Інтер'єр: знімна обшивка стелі зі спіненого ПВХ, нові шафки і полиці з саморобними рулонними дверцятами, нова шафа кондиціонера, нова підлога, глибоко вичищений гелькоут, нові подушки, стіл із масиву на підйомнику.
 - Вітрила і такелаж: генуя і грот обслужені, нові шкоти і шкерт закрутки, сходинки на щоглі, скоби на штагах замінені пластинами і пальцями, щогла заново покрита, новий стоячий такелаж, новий грот, лебідки на гіку і рифові блоки, і аутгол 4:1.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNXR_yFnrkU8-6I11sk5RaYHv3bhFCNmzNMnlzaLtoleheCO3ynLr5Yy2DAalOpghyphenhyphen_LANtGFDhucnXLrJLvEjOppypOAnd9Y9ED6IUhLIJtfznaXcFScmuKqvAqgqjvT3L_QNcgW-a3k4uBhP4AmqKmlOP_yT1hDR9vjmogy1U8JdZKMG7Z5WhzCiEKIW/s1600/th1.png)
+![Великий палець угору](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNXR_yFnrkU8-6I11sk5RaYHv3bhFCNmzNMnlzaLtoleheCO3ynLr5Yy2DAalOpghyphenhyphen_LANtGFDhucnXLrJLvEjOppypOAnd9Y9ED6IUhLIJtfznaXcFScmuKqvAqgqjvT3L_QNcgW-a3k4uBhP4AmqKmlOP_yT1hDR9vjmogy1U8JdZKMG7Z5WhzCiEKIW/s1600/th1.png)
 
 Story page: [What is improved vs original?](https://irwin34.blogspot.com/p/what-is-improved-vs-original.html)
 
@@ -205,11 +205,11 @@ Story page: [What is improved vs original?](https://irwin34.blogspot.com/p/what-
 
 Я почистив датчик лагу і — сюрприз — він працює. Перекалібрував. Вплів кінці шкертів лазиджека замість вузлів, бо хвости постійно застрягали в блискавці. Від'єднав побутову батарею від генератора: заряджати LiFePO4 від генератора двигуна, не стежачи за його температурою, було не найрозумнішою ідеєю. Заміряв накладку, щоб закрити дріт заземлення. І зняв основні розміри, щоб замовити новий грот. На старому сотні дірочок, і він дуже розтягнутий.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
+![Камбуз із тиковою стільницею, відремонтованою після опіку кавоваркою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC)
+![Плата AIS-транспондера Maiana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
+![Сліди води на модулі GPS плати AIS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
+![Зламаний кронштейн антени AIS з цинкового сплаву](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
+![Форма замірів грота, перша сторінка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
+![Форма замірів грота з висотами рифів, без закрутки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
