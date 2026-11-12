@@ -64,6 +64,8 @@ h1,h2,h3{font-family:var(--f-display);line-height:1.05;margin:0;text-wrap:balanc
 .eyebrow{font-family:var(--f-mono);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--brass)}
 .phead h1{font-size:clamp(40px,7vw,68px);font-weight:700;text-transform:uppercase}
 .phead p{margin:0;color:var(--muted);font-size:18px}
+.post .phead h1{font-size:clamp(28px,4.2vw,42px);text-transform:none;line-height:1.1}
+.post .body h2,.post .body h3{margin:1.2em 0 .4em}
 .note{margin:16px 0 0;padding:10px 14px;border:1px dashed var(--line);border-radius:6px;color:var(--muted);font-size:15px}
 .note[hidden]{display:none}
 .list{display:grid;gap:2px;margin-top:12px}
@@ -94,12 +96,20 @@ a:focus-visible{outline:2px solid #E0B85C;outline-offset:2px}
 JS = """
 (function () {
   var SITE = %(site)s, T = {
-    en: {title: "Boat diary", lead: "Every work day on Vira, as it happened. Newest first.", loading: "Loading the posts",
+    en: {title: "Boat diary", lead: "Every work day on Vira, as it happened. Newest first.", loading: "Loading…",
+         all: "All posts", comment: "Leave a comment", label: "Label", notfound: "This post could not be loaded.",
          months: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},
-    ua: {title: "Щоденник", lead: "Кожен робочий день на «Вірі», як він був. Нові записи зверху.", loading: "Завантажую записи",
+    ua: {title: "Щоденник", lead: "Кожен робочий день на «Вірі», як він був. Нові записи зверху.", loading: "Завантажую…",
+         all: "Усі записи", comment: "Залишити коментар", label: "Мітка", notfound: "Цей запис не вдалося завантажити.",
          months: ["січ","лют","бер","кві","тра","чер","лип","сер","вер","жов","лис","гру"]}};
-  var lang = "en";
+  var lang = "en", mode = "", posts = [], cur = null, labelName = "";
   try { lang = localStorage.getItem("sv_lang") || (/\\/ua\\//.test(document.referrer) ? "ua" : "en"); } catch (e) {}
+  var root = document.getElementById("sv-js");
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]; }); }
+  function day(d) { var m = T[lang].months; return (+d.slice(8, 10)) + " " + m[+d.slice(5, 7) - 1] + " " + d.slice(0, 4); }
+  function alt(x) { var l = (x.link || []).filter(function (k) { return k.rel === "alternate"; })[0]; return l ? l.href : ""; }
+  function thumb(x) { return x.media$thumbnail ? x.media$thumbnail.url.replace(/\\/s72-[^/]*\\//, "/w300-h225-c/").replace(/=s72-[^/]*$/, "=w300-h225-c") : ""; }
+
   function apply() {
     document.documentElement.lang = lang === "ua" ? "uk" : "en";
     [].forEach.call(document.querySelectorAll("#sv-tabs a"), function (a) {
@@ -108,12 +118,7 @@ JS = """
       if (s !== null) a.href = SITE + "/" + (lang === "ua" ? "ua/" : "") + s;
     });
     var b = document.getElementById("sv-brand"); if (b) b.href = SITE + "/" + (lang === "ua" ? "ua/" : "");
-    [].forEach.call(document.querySelectorAll("[data-ua-text]"), function (el) {
-      if (!el.hasAttribute("data-en-text")) el.setAttribute("data-en-text", el.textContent);
-      el.textContent = el.getAttribute("data-" + lang + "-text");
-    });
     [].forEach.call(document.querySelectorAll(".lang a"), function (a) { a.className = a.getAttribute("data-l") === lang ? "on" : ""; });
-    var n = document.getElementById("sv-note"); if (n) n.hidden = lang !== "ua";
   }
   [].forEach.call(document.querySelectorAll(".lang a"), function (a) {
     a.addEventListener("click", function (ev) {
@@ -122,38 +127,78 @@ JS = """
       apply(); render();
     });
   });
-  apply();
 
-  // Home: the full list of posts, newest first, grouped by year.
-  var box = document.getElementById("sv-all"), posts = [];
-  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]; }); }
   function render() {
-    if (!box || !posts.length) return;
-    var m = T[lang].months, h = "", year = "";
-    posts.forEach(function (p) {
-      var y = p.d.slice(0, 4);
-      if (y !== year) { year = y; h += '<h2 class="year">' + y + "</h2>"; }
-      h += '<a class="row" href="' + esc(p.u) + '"><i style="background-image:url(\\'' + esc(p.t) + '\\')"></i><span><b>' + esc(p.title) +
-           '</b><span class="mono">' + (+p.d.slice(8, 10)) + " " + m[+p.d.slice(5, 7) - 1] + " " + y + "</span></span></a>";
-    });
-    box.innerHTML = h;
-  }
-  function load(start) {
-    fetch("/feeds/posts/summary?alt=json&max-results=150&start-index=" + start).then(function (r) { return r.json(); }).then(function (d) {
-      var e = d.feed.entry || [];
-      e.forEach(function (x) {
-        var l = (x.link || []).filter(function (k) { return k.rel === "alternate"; })[0];
-        if (!l) return;
-        var t = x.media$thumbnail ? x.media$thumbnail.url.replace(/\\/s72-[^/]*\\//, "/w300-h225-c/").replace(/=s72-[^/]*$/, "=w300-h225-c") : "";
-        posts.push({title: x.title.$t || "(no title)", u: l.href, d: x.published.$t, t: t});
+    if (!root) return;
+    var t = T[lang], h = "";
+    if (mode === "list") {
+      h = '<header class="phead"><span class="eyebrow">Irwin Citation 34 · 1978</span><h1>' + esc(labelName || t.title) + "</h1>" +
+          (labelName ? '<p><a href="/">' + t.all + "</a></p>" : "<p>" + t.lead + "</p>") +
+          (lang === "ua" ? '<p class="note">Щоденник ведеться англійською. Історії проєктів українською є на сайті.</p>' : "") + "</header>";
+      if (!posts.length) h += '<p class="mono">' + t.loading + "</p>";
+      var year = "";
+      h += '<div class="list">';
+      posts.forEach(function (p) {
+        var y = p.d.slice(0, 4);
+        if (y !== year) { year = y; h += '<h2 class="year">' + y + "</h2>"; }
+        h += '<a class="row" href="' + esc(p.u) + '"><i style="background-image:url(\\'' + esc(p.t) + '\\')"></i><span><b>' + esc(p.title) +
+             '</b><span class="mono">' + day(p.d) + "</span></span></a>";
       });
-      render();
-      if (e.length === 150) load(start + 150);
-    }).catch(function () {
-      if (!posts.length) box.innerHTML = '<p class="mono"><a href="/search">Open the posts</a></p>';
-    });
+      h += "</div>";
+    } else if (mode === "post") {
+      if (!cur) { h = '<p class="mono">' + t.loading + "</p>"; }
+      else if (cur === "none") { h = '<p class="note">' + t.notfound + ' <a href="/">' + t.all + "</a></p>"; }
+      else {
+        var ids = (cur.id.$t.match(/blog-(\\d+)\\.(?:post|page)-(\\d+)/) || []);
+        h = '<article class="post"><header class="phead"><span class="eyebrow">' + day(cur.published.$t) + "</span><h1>" + esc(cur.title.$t) +
+            '</h1></header><div class="body">' + (cur.content ? cur.content.$t : "") + "</div>";
+        if (cur.category) h += '<div class="labels">' + cur.category.map(function (c) {
+          return '<a href="/search/label/' + encodeURIComponent(c.term) + '">' + esc(c.term) + "</a>"; }).join("") + "</div>";
+        if (ids[2] && /\\.post-/.test(cur.id.$t)) h += '<section class="comments"><a href="https://www.blogger.com/comment/fullpage/post/' + ids[1] + "/" + ids[2] +
+            '" target="_blank" rel="noopener">' + t.comment + "</a></section>";
+        h += '<nav class="pager"><span></span><a href="/">' + t.all + "</a><span></span></nav></article>";
+        document.title = cur.title.$t + " · " + t.title + " · Sailing Vira";
+      }
+    }
+    root.innerHTML = h;
   }
-  if (box) load(1);
+
+  function each(url, onEntries, done) {
+    (function page(start) {
+      fetch(url + (url.indexOf("?") < 0 ? "?" : "&") + "alt=json&max-results=150&start-index=" + start)
+        .then(function (r) { return r.json(); })
+        .then(function (d) { var e = d.feed.entry || []; if (onEntries(e) === false) return done(); if (e.length === 150) page(start + 150); else done(); })
+        .catch(function () { done(); });
+    })(1);
+  }
+  function list(feed) {
+    mode = "list"; render();
+    each(feed, function (e) {
+      e.forEach(function (x) { var u = alt(x); if (u) posts.push({title: x.title.$t || "(no title)", u: u, d: x.published.$t, t: thumb(x)}); });
+      render();
+    }, render);
+  }
+  function post(kind) {
+    mode = "post"; render();
+    var want = location.pathname;
+    each("/feeds/" + kind + "/default", function (e) {
+      for (var i = 0; i < e.length; i++) {
+        var u = alt(e[i]); if (u && u.replace(/^https?:\\/\\/[^/]+/, "") === want) { cur = e[i]; return false; }
+      }
+    }, function () { if (!cur) cur = "none"; render(); });
+  }
+
+  apply();
+  // The Blogger widget shows posts when it works; otherwise the page builds itself from the blog's own feed.
+  var widgetPosts = document.querySelector("#main .post");
+  var p = location.pathname, m;
+  if (p === "/" || p === "") list("/feeds/posts/summary");
+  else if (!widgetPosts) {
+    if (/^\\/\\d{4}\\/\\d{2}\\/.+\\.html$/.test(p)) post("posts");
+    else if (/^\\/p\\/.+\\.html$/.test(p)) post("pages");
+    else if ((m = p.match(/^\\/search\\/label\\/(.+)$/))) { labelName = decodeURIComponent(m[1]); list("/feeds/posts/summary/-/" + encodeURIComponent(labelName)); }
+    else list("/feeds/posts/summary");
+  }
 })();
 """
 
@@ -176,15 +221,21 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <nav aria-label='Sections' class='tabs' id='sv-tabs'>{tabs}</nav></div>
 </header>
 <div class='wrap'>
-<b:section class='main' id='main' maxwidgets='1' showaddelement='false'>
-<b:widget id='Blog1' locked='true' title='Boat diary' type='Blog' version='2' visible='true'>
-<b:includable id='main'>
+<div id='sv-js'/>
+<b:section class='main' id='main' showaddelement='yes'>
+<b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2' visible='true'>
+<b:widget-settings>
+<b:widget-setting name='showDateHeader'>false</b:widget-setting>
+<b:widget-setting name='showShareButtons'>false</b:widget-setting>
+<b:widget-setting name='showComments'>true</b:widget-setting>
+<b:widget-setting name='showLabels'>true</b:widget-setting>
+<b:widget-setting name='showTimestamp'>true</b:widget-setting>
+<b:widget-setting name='showAuthor'>false</b:widget-setting>
+<b:widget-setting name='postsPerAd'>1</b:widget-setting>
+<b:widget-setting name='showInlineAds'>false</b:widget-setting>
+</b:widget-settings>
+<b:includable id='main' var='this'>
 <b:if cond='data:view.isHomepage'>
-  <header class='phead'><span class='eyebrow'>Irwin Citation 34 · 1978</span>
-  <h1 data-ua-text='Щоденник'>Boat diary</h1>
-  <p data-ua-text='Кожен робочий день на «Вірі», як він був. Нові записи зверху.'>Every work day on Vira, as it happened. Newest first.</p>
-  <p class='note' hidden='hidden' id='sv-note'>Щоденник ведеться англійською. Історії проєктів українською є на сайті.</p></header>
-  <div class='list' id='sv-all'><p class='mono'>Loading the posts…</p></div>
 <b:else/>
   <b:if cond='data:view.isMultipleItems'>
     <header class='phead'><span class='eyebrow'><a expr:href='data:blog.homepageUrl'>Boat diary</a></span><h1><data:view.title.escaped/></h1></header>
