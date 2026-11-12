@@ -1,12 +1,11 @@
 ---
 id: sailing
-title: "Sailing log"
+title: Sailing log
 section: voyages
 order: 2
-description: "Sailing days, people, weather and life around the boat."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC"
+description: Sailing days, people, weather and life around the boat.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC
 ---
-
 All this work is for one thing: to go sailing. Here are the days on the water, the people who came along, and the life around the boat: docks that move, a lake that dries up and comes back, storms, and finally Galveston Bay.
 
 ## Girls together
@@ -25,7 +24,6 @@ Welcome to the marina.
 ![Welcome to Commanders Point marina](https://blogger.googleusercontent.com/img/a/AVvXsEiP-u0sQGEZeqcfCOKRelq3_jYksv7yd0CF8Fqy_LnoPaLh7wBhqgV1bGeXtNELQG3eo0CKVrNK-U0eGP5Xd6l0fXJdoXjJzkvXZ3ncOaXVdoW8-DDy2RWrd_Gv48JQvIGm7LvC8ZIUcKod0OqIM8K4RT1zX4tK3SEfnTHRXRzkMImY-_fYBuos34nc8g=s1600)
 ![Welcome to Commanders Point marina](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
 
-Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
 In March 2022 they asked me to free the second slip, so the girls got rafted together.
 
