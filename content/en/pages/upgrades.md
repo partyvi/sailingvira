@@ -3,6 +3,7 @@ id: upgrades
 title: "Upgrades log"
 slug: boat/upgrades/
 tab: boat
+updated: 2026-11-12
 eyebrow: "The Boat"
 description: "Everything on Vira that is better now than when she left the factory, area by area, with the year."
 ---
@@ -54,6 +55,7 @@ In December 2024 I made one long list of what's improved compared to the factory
 - **2026** New main sail set.
 - **2026** Winches and reef blocks installed on the boom.
 - **2026** Outhaul purchase 4:1 line system made.
+- **2026** 4 reef lines added, added two boom winches for reefs.
 
 ## Comfort
 
@@ -66,6 +68,7 @@ In December 2024 I made one long list of what's improved compared to the factory
 - **2025** Water heater.
 - **2025** Added hood and fan to refrigerator condenser.
 - **2026** refrigerator updated to DC compressor.
+- **2026** "Online" refrigerator thermostat designed and installed.
 
 ## Electronics / navigation tools / instruments
 

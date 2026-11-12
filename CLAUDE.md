@@ -76,3 +76,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   `/<id>/` and `/ua/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a
   Ukrainian file shows the English text with a note. Styles and the photo viewer are in `tools/assets/`.
 - `tools/`: other pipeline scripts used to read new diary posts (see README).
+- `tools/sync_upgrades.py`: keeps the Upgrades log (`content/{en,ua}/pages/upgrades.md`) in step with the blog page
+  "What is improved vs original?". `check` compares the live page with `data/upgrades_blog.json` (the list as it was
+  at the last sync, raw); `save` stores the new copy. Runs once a month as a scheduled Claude task: new or changed
+  items go into both pages word for word (typos fixed, UA translated), `updated:` in the front matter is set to the
+  blog page's date (shown at the bottom of the page), then a PR that Claude merges.
