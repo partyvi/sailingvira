@@ -4,54 +4,192 @@ title: "Upgrades log"
 slug: boat/upgrades/
 tab: boat
 eyebrow: "The Boat"
-description: "Everything on Vira that is better now than when she left the factory, area by area."
+description: "Everything on Vira that is better now than when she left the factory, area by area, with the year."
 ---
-In December 2024 I made one long list of what's improved compared to the factory boat. I keep adding to it. A few highlights:
+In December 2024 I made one long list of what's improved compared to the factory boat. I keep adding to it.
 
-## Structure
+## Structural / safety
 
-New starboard bulkhead, rebuilt forestay knee, re-cored starboard deck, the starboard hull-to-deck joint glassed over, new 1/4-inch 316 chainplates with raised bases so water goes around, rebuilt stanchion mounts, a backing plate on the backstay chainplate, new grab rails, a chain locker with a 7-gallon box for 90 feet of 5/16 G4 chain and a latch on the lid, windlass and big bow roller, pedestal guard, composite thru-hulls, direct cockpit drains, a copper ground plate connected to the mast, a new lower rudder bearing.
+- **2021** Replaced starboard bulkhead.
+- **2021** Rebuilt port side front stay knee. (original was destroyed).
+- **2021** Re-cored big section of starboard deck. (it was water damaged)
+- **2022** Glassed over starboard side hull to deck connection.
+- **2022** New 0.25" SS316 chain plates.
+- **2022** Added steps around chainplates to divert water around
+- **2022** Rebuilt stanchions under-deck mounts.
+- **2023** Added backing plate on backstay chainplate.
+- **2023** New grab rails installed on the cabin top.
+- **2024** Big bow anchor roller installed.
+- **2024** Chain locker rebuilt (added 7 gal box) to get 90' G4 5/16 chain.
+- **2024** Latch handle installed to chain locker lid.
+- **2024** Windlass, windlass mount built and installed.
+- **2024** Chain locker latch added.
+- **2024** Pedestal guard built and installed.
+- **2024** Added locking latch to chain locker.
+- **2025** Thru hulls replaced to Forespar composite material.
+- **2025** Cockpit drains plumbing redone to direct drain with crossed hoses.
+- **2025** 1sq.ft. copper grounding plate installed for lightning protection. Mast connected to grounding plate.
+- **2025** Bottom rudder bearing block replaced.
+- **2025** Rudder stuffing box repacked.
+
+## Water intrusion prevention
+
+- **2022** All chainplates through decks elevated from deck surface.
+- **2022** Stanchions pipes plugged and filled with resin compound.
+- **2022** Cockpit drains replaced with marelon thru-hulls.
+- **2022** Deck spigots redone with G flex epoxy to avoid water leaks there
+- **2024** Mast cable gland elevated from deck surface
+- **2024** All deck hardware re-bedded.
+
+## Sails & rigging
+
+- **2022** Genoa sail professional maintenance. Good shape.
+- **2022** Main sail maintenance, sail is ok for weekend sailing.
+- **2022** Replaced Jib/Genoa sheet.
+- **2022** Installed fixed mast steps.
+- **2022** New furler control line.
+- **2022** backstay and forestay D shackles eliminated and replaced to plates and pins.
+- **2026** Mast stripped and re-coated with Nyalic coating.
+- **2026** Standing rigging replaced.
+- **2026** New main sail set.
+- **2026** Winches and reef blocks installed on the boom.
+- **2026** Outhaul purchase 4:1 line system made.
 
 ## Comfort
 
-12K BTU Webasto HVAC, the icebox turned into a refrigerator (with a hood and fan on the condenser, and in 2026 a DC compressor), a water heater.
+- **2023** New canvas on bimini and bimini frame adjusted to be used under sail.
+- **2022** Marine HVAC installed 12K BTU Webasto.
+- **2023** Icebox converted to refrigerator.
+- **2024** Increased depth of chain locker.
+- **2024** Big bow roller installed.
+- **2024** Windlass installed.
+- **2025** Water heater.
+- **2025** Added hood and fan to refrigerator condenser.
+- **2026** refrigerator updated to DC compressor.
 
-## Electronics
+## Electronics / navigation tools / instruments
 
-Wind instrument, tank sensors, linear autopilot drive, rudder sensor, a 15-inch cockpit display, a new nav station with a 21-inch industrial screen, the masthead tricolor and LED steaming light, B&G radar.
+- **2024** Added electronic wind instrument.
+- **2023** Installed water level sensors.
+- **2024** Installed Linear Autopilot drive.
+- **2024** Rudder position sensor installed.
+- **2023** Added cockpit 15" multifunction display
+- **2023** Built new navigation station with built in 21" industrial grade LCD and secondary electrical panel.
+- **2025** New 3-color / anchor light installed on the mast top.
+- **2025** New LED steam light installed on the mast.
+- **2025** B&G radar installed
 
-## Electrical
+## Electric system
 
-Tinned wire everywhere, 24 V LED cabin lights, a 3,000 W inverter, LED nav and deck lights, a new panel, a mast cable gland, a separate 55 Ah AGM battery for the windlass, a 100 Ah LiFePO4 house battery, a 314 Ah (3.6 kWh) LiFePO4 inverter battery with a 25 A shore charger, an engine room light, my own power switch for the shore supply, and battery monitoring over Signal K.
+- **2022** New 3x5A battery charger installed.
+- **2023** All wiring replaced with marine (tinned multi strand) wire.
+- **2023** All cabin lighting replaced with 24V LED lights.
+- **2024** Installed 3000W inverter
+- **2022** New navigation lights replaced with LED
+- **2022** New deck (spreader) lights installed.
+- **2023** Updated main electric distribution panel
+- **2024** New mast wiring cables gland installed.
+- **2024** Independent 12V 55Ah AGM windlass battery installed in front cabin.
+- **2025** Mast wiring replaced. Several cables added.
+- **2025** Flooded lead house battery replaced with LIFePO4 100AH one
+- **2025** LiFePO 314AH (3.6kWh) inverter battery installed
+- 25A shore power charger for inverter battery
+- **2026** 100AH Home battery upgraded to LiFePo
+- **2026** engine room light added
+- **2026** PCU Designed and installed for better use of shore power high current power supply.
+- **2026** Batteries monitoring implemented for all batteries on the board over SignalK
 
-## Water
+## Piping / tanks
 
-PEX plumbing, repaired and re-coated tanks with new lids, new sump pump, hot water priming back to the day tank, the shower controller, a variable-speed pump at 70 psi and 5 GPM, a 6-gallon heater, and the manual pump connected again.
+- **2023** Replaced all fresh water hoses with PEX piping.
+- **2023** Repaired, re-glassed and re-coated both fresh water tanks, built new lids.
+- **2021** Replaced main bilge pump hose
+- **2023** Replaced sanitary hoses.
+- **2023** Installed water level sensors and gauges for fresh water tanks.
+- **2021** Installed new sump pump and fixed sump box
+- **2022** Installed hot water priming system (return hot water to day water tank to prevent wasting water waiting when it gets hot)
+- **2025** Shower controller installed, shower is functional now.
+- **2025** New variable speed fresh water pressure pump installed 70psi @ 5GPM.
+- **2025** Water heater installed (6Gal)
+- **2024** Manual pump repaired and connected to main water system.
 
-## Engine
+## Engine, fuel and propulsion
 
-The fuel tank rebuild, plus white smoke above 2,000 RPM tracked down. Compression 395 psi, new fuel filter, new injector tips tested to open at 2,200 psi with no leaks, timing set to 22° (it was at 15°, which caused the smoke), and valves adjusted. Then fresh water cooling, a tachometer and hour meter on the pedestal, the engine monitor, re-laminated engine beds, new mounts, a manual starter, cutless bearing, dripless seal, raw water strainer, strut repair.
+- **2024** Fuel tank rebuilt, fixed voids in laminate, fuel safe epoxy inliner added with 9 oz cloth and 2 layers of clean epoxy added, made new solid fiberglass lid and glued it to tank.
+- **2024** Added review lid in the top of the tank. baffle wall added.
+- **2024** Electrical fuel level gauge installed.
+- **2024** Added return fitting to fuel tank.
+- **2024** Emergency/service electric fuel pump added.
+- **2024** Added 2 stage fuel pre-filter/separator/polisher 30 and 10 micron.
+- **2025** Engine hauled out to troubleshoot white smoke above 2000 RPM. Compression checked: 395 psi. On-engine fuel filter replaced. Injector tips (nozzles) replaced and checked: open at 2200 psi, no leaks. Injection timing fixed to 22° (it was set at 15°, which caused fuel smoke over 2000 RPM). Valve gaps adjusted to spec.
+- **2025** Engine converted to fresh water cooling
+- **2025** Engine tachometer installed on the pedestal.
+- **2025** Engine monitor controller installed.
+- **2025** Engine mount stringers re-laminated to hull, cross-member rebuilt.
+- **2025** Engine mounts (vibration absorbers) replaced. (6/7/25)
+- **2025** Engine manual starter made and installed.
+- **2025** Hour counter and tachometer gauge installed.
+- **2025** Cutlass bearing replaced
+- **2025** Drive shaft packing replaced with PSS dripless shaft seal.
+- **2025** Engine raw water strainer added.
+- **2025** Strut mounting repaired.
 
-## Galley and head
+## Galley
 
-New countertop and cabinets, faucet, LPG line and valve, a sliding drawer, a gimbaled microwave shelf. A new head cabinet, a folding door, walls glassed to the liner and painted, a dorade fan.
+- **2023** Replaced Galley countertop
+- **2023** Rebuilt Galley cabinets
+- **2023** Installed new faucet
+- **2023** New LPG line and valve installed.
+- **2022** LPG tank drain tube re-glassed
+- Added sliding drawer in the cavity under starboard cockpit seat.
+- **2024** Gimbaled shelf for the microwave installed under cooking surface.(no stove)
 
-## Hatches and ports
+## Head
 
-New washboards, new opening ports, new fixed windows, new deck hatches, a new companionway hatch.
+- **2023** Made new cabinet in the Head.
+- **2023** Made folding door to the Head. (the original was lost).
+- **2023** Head walls glassed to in-liner to prevent shower water to damage bulkheads.
+- **2023** Head painted with 2 part paint.
+- **2023** Installed new faucet.
+- **2023** Dorades box built for Head ventilation, fan installed.
+- **2023** Installed water level sensors for fresh water tanks and gauge for waste water tank.
 
-## Deck and hull
+## Ports and hatches
 
-Everything patched and painted with Interlux Perfection and KiwiGrip. Topsides in Alexseal 501, about 20 deeper and hundreds of small blisters fixed, three coats of TotalProtect barrier coat after three months of drying, and three coats of Spartan.
+- **2021** Rebuilt top washboard and made new bottom parts.
+- **2022** Installed all new port lights.
+- **2024** New fixed ports installed.
+- **2024** Installed new deck hatches
+- **2024** Replaced companionway hatch, new wood parts made.
+
+## Exterior / deck
+
+- **2024** Whole deck and cabin top surface voids and cracks glassed, patched.
+- **2024** Repaint deck with Interlux Perfection hard polyurethane 2 part paint 2-3 coats.
+- **2024** No-skid deck surface redone with KiwiGrip.
 
 ## Interior
 
-Removable foam PVC headliner, new cabinets and shelves with home-made roll-up doors, new HVAC cabinet, new sole, deep-cleaned gelcoat, new cushions, a solid wood table with a lift.
+- **2023** 40 years old headliner replaced with removable foamed PVC panels.
+- **2023** Built new closed shelves (cabinets) on starboard side of the main cabin .
+- **2023** Built open shelves on Port side of the main cabin .
+- **2023** New teak cabin table.
+- **2023** Made new Cabinet for the HVAC in front cabin.
+- **2023** All cabinets get roll up doors. Custom made.
+- **2024** New cabin sole hard PVC flooring.
+- **2024** Whole interior gelcoat surface "deep cleaning".
+- **2025** Made all new interior cushions.
+- **2025** Installed new solid wood tabletop table with lift mechanism.
 
-## Sails and rig
+## Mast
 
-Genoa and main serviced, new sheets and furler line, mast steps, shackles on the stays replaced with plates and pins, the mast re-coated, new standing rigging, a new main, boom winches and reef blocks, and a 4:1 outhaul.
+- **2025** mast coated with Nyalic coating.
 
-![Thumbs up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNXR_yFnrkU8-6I11sk5RaYHv3bhFCNmzNMnlzaLtoleheCO3ynLr5Yy2DAalOpghyphenhyphen_LANtGFDhucnXLrJLvEjOppypOAnd9Y9ED6IUhLIJtfznaXcFScmuKqvAqgqjvT3L_QNcgW-a3k4uBhP4AmqKmlOP_yT1hDR9vjmogy1U8JdZKMG7Z5WhzCiEKIW/s1600/th1.png)
+## Hull
+
+- **2025** Topsides prepped and painted with Alexseal TopCoat 501 - 2 part polyurethane paint.
+- **2025** Hundreds of small and about 20 deeper blisters fixed below waterline using West System epoxy system and fiberglass,
+- **2025** After 3 month drying 3 layers of TotalProtect Epoxy Barrier Coat from TotalBoat applied to the bottom
+- **2025** 3 layers of Spartan Totalboat bottom paint applied.
 
 Story page: [What is improved vs original?](https://irwin34.blogspot.com/p/what-is-improved-vs-original.html)
