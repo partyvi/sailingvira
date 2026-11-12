@@ -84,6 +84,10 @@ In March 2026 I ran a 4 AWG cable from the mast to the ground plate under the bl
 
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
+In April 2026 I measured trim to cover the lightning ground wire.
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 Then I put a plank next to the compression post to route the cable. Before the black water tank went back, I closed the access hole to the ground plate bolt with a 3-inch rubber plug, which fits well, and routed the cable with no sharp bends. And yes, it's duct tape, but good enough to hold a bend radius of about 8 inches.
 
 ![Ground cable trim by the compression post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnSxzrg0PDADPk0AM8dtqLar9tDMS8FjpxQgZRrjSiaSfgZ7ZFDNPRp24cdj9mlmxvbcgHDZQWdYWGiJCYScg4GLLztgh7M0H299wt-fIcMvb5M8jRQqXrxuzDXlhjWd5-rwenQgAxtJv5xrzB4n9utcjAVq8OXvBbJZXStdzR7ouJ9OydszsB4_S4Dip/s1600/IMG_1455.HEIC)

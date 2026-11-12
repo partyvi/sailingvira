@@ -344,6 +344,10 @@ Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
+У квітні 2026-го від'єднав побутову батарею від генератора: заряджати LiFePO4 від генератора двигуна, не стежачи за його температурою, було не найрозумнішою ідеєю.
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 У квітні я додав димер для світлодіодів індикації на головному щиті.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)

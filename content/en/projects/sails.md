@@ -93,6 +93,10 @@ After the trip to Kemah and the boatyard, in March 2026, the main and the sail p
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
+In April 2026 I spliced the sail pack lines instead of knots, because the tails kept jamming in the zipper.
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 ## The hard dodger that flew away
 
 September 2025. I wanted a hard dodger: fiberglass, real glass in front, polycarbonate sides. This boat isn't symmetrical and nothing on it is square, I've learned that many times. So to build it at home I needed a full-size 3D template.
@@ -134,6 +138,13 @@ All I could do was pick up the trash from the road.
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
 ## A new mainsail with four reefs
+
+In April 2026 I took the main measurements to order a new sail. The old one has hundreds of pinholes and is stretched a lot.
+
+![Mainsail measurement form, page one](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
+![Mainsail measurement form with reef heights, no furling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
 After a lot of thinking I went with Far East Sails to design and build a new main. I did the measurements myself on the boat and hoped I didn't make a big mistake I'd regret. What I changed:
 

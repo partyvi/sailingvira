@@ -344,6 +344,10 @@ March 2026: the new 100 Ah LiFePO4 house battery had been in for a few weeks wit
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
+In April 2026 I disconnected the house battery from the alternator: charging LiFePO4 from the engine alternator without watching the alternator temperature wasn't a smart idea.
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 In April I added a dimmer for the indicator LEDs on the main panel.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)

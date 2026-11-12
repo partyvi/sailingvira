@@ -301,6 +301,12 @@ In March 2026 I measured the galley drawers.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
+April 2026: I put a very hot coffee maker on the galley countertop and burned a ring into it. Using tung oil on that countertop was a great idea: with some elbow grease I sanded and re-oiled it almost without a trace. With varnish it would have been a disaster.
+
+![Galley with the teak countertop repaired after the coffee maker burn](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC)
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
 ## The household compressor dies at sea
 
 Four years ago I put the guts of a household refrigerator into my icebox. It worked surprisingly well for years of lake sailing. A few days in Galveston Bay finished it off.
