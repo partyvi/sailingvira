@@ -1,8 +1,8 @@
 ---
 id: sailing
 title: "Sailing log"
-section: journey
-order: 3
+section: voyages
+order: 2
 description: "Sailing days, people, weather and life around the boat."
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJzvmmk2uG99zTR2KozyZu3wa6ioZXjKuocMhyphenhyphenI3QTnNJkX4IT-32g2lJsQONuuQ90GTeag2oEcQt-cMcm-8SKKHF9K1bVRT0j4GR9zEu136Uu_Lpmb2FTa-EAyumiTmLSph3yr7gK89fTSFF2B5i7hfE58OThFfoVYjdklmRHpz3hrlUJPT63hx0kLi_q/s1600/IMG_2801.HEIC
 ---

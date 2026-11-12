@@ -1,3 +1,8 @@
+- id: story
+  order: 0
+  title:
+    en: The story
+    ua: Історія
 - id: hull
   order: 1
   title:
@@ -23,8 +28,9 @@
   title:
     en: Interior & comfort
     ua: Інтер'єр і комфорт
-- id: journey
+- id: voyages
   order: 6
+  tab: sailing
   title:
-    en: The journey
-    ua: Подорож
+    en: Sailing
+    ua: Плавання

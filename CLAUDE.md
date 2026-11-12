@@ -8,7 +8,10 @@ The site will be published at **sailingvira.com**. The domain currently redirect
 
 - **Audience:** public. Irwin owners, DIY boaters, sailors, search engines. Every project gets its own page and URL.
 - **Languages:** English and Ukrainian from the start (`/engine/` and `/ua/engine/`; folders and keys use `ua`, the HTML language code stays `uk`). Every update is written in both.
-- **Structure:** 2 levels. 6 sections (`content/sections.yml`), 24 projects (`content/en/projects/`).
+- **Structure:** 2 levels. 7 sections (`content/sections.yml`), 24 projects (`content/en/projects/`).
+- **Tabs (agreed Nov 2026, style A 'Logbook'):** Home · The Boat · Projects · Sailing · Boat diary (Blogger, later
+  diary.sailingvira.com) · Workshop · Videos · About me · Contact. A section with `tab: sailing` shows under Sailing
+  (`/voyages/`), the rest under Projects (`/projects/`). Project URLs stay `/<id>/`.
 - **Tone:** first person, Viktor's voice, "telling the story by a campfire". Simple, human, short sentences,
   his small jokes and reactions. Keep ALL facts, numbers, part names and prices. No generic explanations,
   no teacher tone.
@@ -48,7 +51,7 @@ Later: scheduled updates, auto-publish, diary moves into the site.
 
 ## Repository layout
 
-- `content/sections.yml`: the site sections (`id`, `order`, `title.en`, `title.ua`).
+- `content/sections.yml`: the site sections (`id`, `order`, optional `tab: sailing`, `title.en`, `title.ua`).
 - `content/en/projects/<id>.md`: one story per project. The file name is the project id and URL slug.
   - Front matter: `id` (same as the file name; Pages CMS names new files from it), `title`, `section` (a section id), `order` (position inside the section),
     `description` (one line), `cover` (photo URL for the project card).
@@ -66,7 +69,7 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   photo ids, original photo URLs and the assigned project.
 - `data/sections.json`: section key (`s123`) → date, post title, URL, project, photo ids.
 - `data/photos.json`: photo id → Blogger photo URL.
-- `content/site.yml`: site name, base URL, `noindex` switch, home page texts (EN/UK).
+- `content/site.yml`: site name, base URL, `noindex` switch, diary and YouTube links, banner photos, home page texts (EN/UK).
 - `tools/build.py`: builds the static site into `site/` (`pip install -r requirements.txt`):
   `/<id>/` and `/ua/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a
   Ukrainian file shows the English text with a note. Styles and the photo viewer are in `tools/assets/`.

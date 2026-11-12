@@ -27,7 +27,7 @@ content:
         label: Section
         type: string
         required: true
-        description: "Section id: hull, rig, engine, electric, interior or journey (see Sections)."
+        description: "Section id: story, hull, rig, engine, electric, interior or voyages (see Sections)."
       - name: order
         label: Order inside the section
         type: number
@@ -72,7 +72,7 @@ content:
         label: Section
         type: string
         required: true
-        description: "Section id: hull, rig, engine, electric, interior or journey (see Sections)."
+        description: "Section id: story, hull, rig, engine, electric, interior or voyages (see Sections)."
       - name: order
         label: Order inside the section
         type: number
@@ -107,6 +107,12 @@ content:
       - name: order
         label: Order
         type: number
+      - name: tab
+        label: Shown under tab
+        type: select
+        description: Projects (default) or Sailing.
+        options:
+          values: [projects, sailing]
       - name: title
         label: Title
         type: object
@@ -127,6 +133,16 @@ content:
         type: boolean
         description: Keep on until the site goes public.
       - { name: blog_url, label: Blogger diary URL, type: string }
+      - { name: diary_url, label: Boat diary tab link (later diary.sailingvira.com), type: string }
+      - { name: youtube_url, label: YouTube channel link, type: string }
+      - name: banner_home
+        label: Home banner photo (16:7)
+        type: string
+        description: A path in the site (assets/banner-home.webp) or a full photo URL.
+      - name: banner_strip
+        label: Banner strip on other pages (5:1)
+        type: string
+        description: A path in the site (assets/banner-strip.webp) or a full photo URL.
       - name: home
         label: Home page
         type: object
