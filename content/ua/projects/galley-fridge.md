@@ -1,4 +1,5 @@
 ---
+id: galley-fridge
 title: "Камбуз і холодильник"
 section: interior
 order: 3

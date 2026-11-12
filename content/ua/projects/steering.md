@@ -1,4 +1,5 @@
 ---
+id: steering
 title: "Кермо, перо стерна і вал"
 section: engine
 order: 3

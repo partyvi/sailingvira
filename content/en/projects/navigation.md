@@ -1,4 +1,5 @@
 ---
+id: navigation
 title: "Navigation & autopilot"
 section: electric
 order: 2

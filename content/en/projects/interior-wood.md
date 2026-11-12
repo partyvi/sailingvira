@@ -1,4 +1,5 @@
 ---
+id: interior-wood
 title: "Interior woodwork"
 section: interior
 order: 1

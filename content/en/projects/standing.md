@@ -1,4 +1,5 @@
 ---
+id: standing
 title: "Standing rigging & chainplates"
 section: rig
 order: 2

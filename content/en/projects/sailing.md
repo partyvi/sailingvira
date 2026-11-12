@@ -1,4 +1,5 @@
 ---
+id: sailing
 title: "Sailing log"
 section: journey
 order: 3

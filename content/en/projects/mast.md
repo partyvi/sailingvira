@@ -1,4 +1,5 @@
 ---
+id: mast
 title: "Mast"
 section: rig
 order: 1

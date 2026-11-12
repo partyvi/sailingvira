@@ -1,4 +1,5 @@
 ---
+id: hull-bottom
 title: "Корпус і днище"
 section: hull
 order: 5

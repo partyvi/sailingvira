@@ -1,4 +1,5 @@
 ---
+id: fuel
 title: "Паливний бак"
 section: engine
 order: 2

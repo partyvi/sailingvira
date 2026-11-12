@@ -1,4 +1,5 @@
 ---
+id: beginning
 title: "Початок"
 section: journey
 order: 1

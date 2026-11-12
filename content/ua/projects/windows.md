@@ -1,4 +1,5 @@
 ---
+id: windows
 title: "Ілюмінатори і вікна"
 section: hull
 order: 3

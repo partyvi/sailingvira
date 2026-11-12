@@ -1,4 +1,5 @@
 ---
+id: aircon
 title: "Кондиціонування і вентиляція"
 section: interior
 order: 6

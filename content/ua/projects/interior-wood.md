@@ -1,4 +1,5 @@
 ---
+id: interior-wood
 title: "Дерево в інтер'єрі"
 section: interior
 order: 1

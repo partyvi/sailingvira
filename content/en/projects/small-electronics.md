@@ -1,4 +1,5 @@
 ---
+id: small-electronics
 title: "Small electronics projects"
 section: electric
 order: 3

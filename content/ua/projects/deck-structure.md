@@ -1,4 +1,5 @@
 ---
+id: deck-structure
 title: "Палуба і силовий набір"
 section: hull
 order: 1

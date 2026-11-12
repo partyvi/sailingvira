@@ -1,4 +1,5 @@
 ---
+id: small-electronics
 title: "Маленькі електронні проєкти"
 section: electric
 order: 3

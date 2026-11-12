@@ -1,4 +1,5 @@
 ---
+id: deck-paint
 title: "Deck painting & hatches"
 section: hull
 order: 2

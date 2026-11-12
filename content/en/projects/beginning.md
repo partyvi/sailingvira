@@ -1,4 +1,5 @@
 ---
+id: beginning
 title: "The beginning"
 section: journey
 order: 1

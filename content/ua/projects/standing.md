@@ -1,4 +1,5 @@
 ---
+id: standing
 title: "Стоячий такелаж і путенси"
 section: rig
 order: 2
