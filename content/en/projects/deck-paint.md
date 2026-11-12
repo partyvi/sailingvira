@@ -71,7 +71,7 @@ It took almost three months to get them: go2marine shipped one and back-ordered 
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
-I decided to replace the original hatches with low-profile aluminum ones. A guy in a Facebook group recommended a model as a direct fit. Maybe his IC34 was built differently, but I got trapped. On MY boat the deck openings were just square cuts. When I dry fit the brand new, shiny hatches, their rounded corners didn't cover the square corners of the openings. And the hatch was about 3/4 inch smaller than the opening, so the mounting holes landed EXACTLY on the edge of the deck.
+The trap was this: a guy in a Facebook group recommended this model as a direct fit. Maybe his IC34 was built differently, but I got trapped. On MY boat the deck openings were just square cuts. When I dry fit the brand new, shiny hatches, their rounded corners didn't cover the square corners of the openings. And the hatch was about 3/4 inch smaller than the opening, so the mounting holes landed EXACTLY on the edge of the deck.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvZNIfeQpRY68xzet_RFBMobrMSpX3ftKpDV6MzBTdr1KCXOaa2DF6x5_xA0m18SiR5B2yhbJYMVzlpsOimx93vsBc9yGdN-q0R0RCIxqWfW6VDbuMCe35utlsvpLrAaJKzaH_sOl-tdbZc4axeN-VckEpEr6bR5Ht7jep5-jjLBhmgyHsQQuQbC2Dv0i/s1600/IMG_7266.HEIC)
 
