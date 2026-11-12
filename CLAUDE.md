@@ -32,7 +32,7 @@ The site will be published at **sailingvira.com**. The domain currently redirect
 2. Stories to CMS-friendly Markdown (front matter + readable photo blocks) (done).
 3. New build: page per project, EN/UK, photos from Blogger, sitemap, noindex switch (done).
 4. GitHub Actions deploys to GitHub Pages (done: .github/workflows/pages.yml).
-5. Ukrainian translation of all stories.
+5. Ukrainian translation of all stories (done).
 6. Pages CMS set-up and test.
 7. First real diary update as a PR.
 8. Go public: sailingvira.com DNS to GitHub Pages, HTTPS, Search Console, link from Blogger.
