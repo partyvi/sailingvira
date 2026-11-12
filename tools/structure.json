@@ -1,0 +1,32 @@
+[
+ {"id":"hull","title":"Hull & deck","subs":[
+   ["deck-structure","Deck & structure","Re-coring the starboard deck, the deck-to-hull joint, stanchions and drains."],
+   ["deck-paint","Deck painting & hatches","Fourteen weeks of sanding, priming and painting, new hatches and companionway."],
+   ["windows","Fixed ports & windows","Opening ports, fixed windows, adhesion tests and the second set of ports."],
+   ["windlass","Windlass, chain locker & anchor","New windlass mount, rebuilt chain locker, bow roller and anchor rode."],
+   ["hull-bottom","Hull & bottom","Blisters, barrier coat, topside paint, thru-hulls and her name."]]},
+ {"id":"rig","title":"Rig & sails","subs":[
+   ["mast","Mast","Mast top survey, mast steps, step-down, Nyalic coating and tuning."],
+   ["standing","Standing rigging & chainplates","New chainplates, the forestay failure and the switch to Dyneema."],
+   ["sails","Sails & running rigging","Sail pack, the new mainsail, boom, reefing, winches, bimini and dodger."]]},
+ {"id":"engine","title":"Engine & mechanical","subs":[
+   ["engine","Engine","Yanmar 2QM20: haul-out, new mounts, fresh water cooling, manual starter, bilge."],
+   ["fuel","Fuel tank","Opening the leaking integral tank and rebuilding it with fuel-resistant epoxy."],
+   ["steering","Steering, rudder & shaft","Quadrant, rudder sensor, pedestal guard, rudder drop and dripless seal."]]},
+ {"id":"electric","title":"Electrical & electronics","subs":[
+   ["electrical","Electrical system","New wiring, electric panel, batteries, inverter, shore power and ELCI."],
+   ["navigation","Navigation & autopilot","OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod."],
+   ["small-electronics","Small electronics projects","Home-made controllers: KhatkaPi, LPG, shower, dry bilge, tank fill, lights."]]},
+ {"id":"interior","title":"Interior & comfort","subs":[
+   ["interior-wood","Interior woodwork","Bulkheads, headliner, cabinets, trim and many coats of varnish."],
+   ["sole-cushions","Cabin sole, cushions & table","New cabin sole, hand-sewn cushions, cabin and chart tables."],
+   ["galley-fridge","Galley & refrigerator","New galley base and countertop, and the refrigerator built from scratch."],
+   ["head-shower","Head & shower","Shower walls, head cabinet, toilet and the shower that was never built."],
+   ["water","Fresh water system","Osmosis in the tanks, new plumbing, pumps and the water heater."],
+   ["aircon","Air conditioning & ventilation","Webasto unit, raw water pump trouble, ducts and teak vents."]]},
+ {"id":"journey","title":"The journey","subs":[
+   ["beginning","The beginning","How Vira found me, what she looked like and what was wrong."],
+   ["jailbreak","Jailbreak & boatyard","Leaving drought-struck Lake Travis for Kemah, and nine days on the hard."],
+   ["sailing","Sailing log","Sailing days, people, weather and life around the boat."],
+   ["reports","Progress reports","Half-year reports and lists of what was done."]]}
+]

@@ -1,0 +1,8 @@
+site/
+data/img/
+data/dump/
+data/feed_*.json
+data/pages.json
+data/parsed.json
+__pycache__/
+.DS_Store
