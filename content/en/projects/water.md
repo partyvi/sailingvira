@@ -4,7 +4,7 @@ title: "Fresh water system"
 section: interior
 order: 5
 description: "Osmosis in the tanks, new plumbing, pumps and the water heater."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNW5_j9v06G0UQuPQkgQg_UJg59gKs8r1DvwRRVL7ettjXi8jb1FQJkZp5LVIw0ZsUUoL_N6-E4a5iNiu6Jm3-cPRDl0j3iyso_DXbr00uxvpcB2gOtvhXFJv9jrNFsNa_edAvuzr8-7H7zH6hbyBNi-FZTaSBLzVl6mech6DckwMv50ceqfI9Aq7gpsEa/s1600/IMG_1646.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6abBxEM6i4ge0awiDr75WebRxhOblWqNxtSWR4T_UpsxS4dtIzJrCSsLnu_K23yZbo_oeE3H3B_uUstR7Ztl8yRh9Gxzwev6wB7umn7Ppx_7yNkQbqY7NkVlJO6dqqqOyuJHlVlb86Sx6k_Mwr3Hid68oXzWMhhkqx25uR3u5mkjNl8RKy-h1vq5FXQ/s1600/IMG_4312.HEIC"
 ---
 
 On a boat, fresh water is life. When I got Vira, the tanks were not something I'd drink from: osmosis pox, painted plywood lids, rusty drywall screws, and a hole drilled in the bottom of a tank. Yes, really.

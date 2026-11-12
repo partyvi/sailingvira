@@ -4,7 +4,7 @@ title: "Щогла"
 section: rig
 order: 1
 description: "Огляд топу, сходинки на щоглі, спуск, покриття Nyalic і налаштування."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaNvul03AMX1CX4B8lD5Y5ZyKRBkBOzrFiNtH8TeOs19Re1F5VivjO-cAhaDL8YTrqpNjsnuz3i7qZMWNcK9CnlLuP-McKDQO7Pp5as_iHO6EJ1Jye_S0q830PfrIC_OLsaYqHyAzAoIruHduU11HXhvFoVzhh93GhvNRb_3Ib4TlQhuBfUfd-ZoyNlDKq/s1600/IMG_2604.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpcN0OMu-xRUIoO_nuoqDctoFmus5xFdlhfKtMey18d6gZB0HBhwsW47Lc6AdLuwM4vdMGRhiu38-Z12aVFL4OMQHFykRRcFw8MTLVNcA7zSTnZvIDI2t5lhGgJw8UkZJvL6LXhsvxS3sSFlq2ObIwBAXwDGCAFwTClnCnrIwLQI7HDdIK9GI0qtZlFQ/s1600/IMG_3396.HEIC"
 ---
 
 Щогла на «Вірі» навіть не рідна. Колись її зламало, і та, що стоїть тепер, — з Irwin 30. Я на неї лазив, поставив на неї сходинки, знімав її, обдирав, покривав, ставив назад і налаштовував знову і знову. Відносини складні, але стабільні.

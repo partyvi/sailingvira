@@ -4,7 +4,7 @@ title: "Вітрила і біжучий такелаж"
 section: rig
 order: 3
 description: "Чохол на гік, новий грот, гік, рифи, лебідки, біміні і спрейхуд."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGD2xVSiY1Sk2UIgnJe8yn989AWVTCJTdDKwoRxV4eSgjSrnDNoo2OISMH7cPhDDFZTOpc-8sIMe8DU4pkccuw0p95UL_aAkyK7Q71Ja6U96Wf1Ff1EgIt_XI5Gi7MrO9ee9afLxgZlCrvE614nyrJGPgGNfJzW2cl3YzOMVZMRvOyoLaHj1ISFai2Rct0/s1600/IMG_2760.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxHK5TXVBlcdEd82WmhRokCuDQYKj0JY5ifcl3et545x4xTti-7CeKGZMxYSq18EcVYJbR35Y_huMn_5Pq3MjbTySs7eBtKTEaJ1uIesaRmTAr2neS43IzCIKowHYZhg9prccdKK-tumxf83m1_Wa9oQomwE4TTFvvL3Zw8nsunWk6BiEyDVHRJiFteQi/s1600/IMG_1563.HEIC"
 ---
 
 Вітрила прийшли разом із човном, і кілька років вони були «нормальні». А потім потроху все навколо них змінилося: чохол на гік, новий грот із чотирма рифами і гік, обвішаний блоками й лебідками, як ялинка.

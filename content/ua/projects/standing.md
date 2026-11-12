@@ -4,7 +4,7 @@ title: "Стоячий такелаж і путенси"
 section: rig
 order: 2
 description: "Нові путенси, обрив штага і перехід на дайніму."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDTeIHbRc3YMHfy_zqmbYO4htLJ2KJMsXXUIzA0DgbiuRs_WiRMUDX9EMxt5VnMZI7885xUyUXzNA0c734VSMbP538QAiE_dmo7Z92jZaQtOyASyghIci1xdfRsQla3QOTLv7qjE7b40TCjpJBovt2L2Z_dCkFWo1IMs89hriKH7obnTfRNNHjgxtifKqI/s1600/IMG_0420.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43nNRCZAJBt66v8KFjRednbxmciumiEzd4Te1bNxE1S07YFXKssjf3qcYTTH4qb6j6jJrufYL0IsFfuYIio70MjmLCS6C4mJ2Db_vNqvHKLW2V2Oul0oHPDv6V9bg37Mkjs6lRRAUain4E4mwX4_NRY0jXl8r2wM68RFMDBXjpqaw57N7FRYM5t0AFg/s1600/IMG_5358.HEIC"
 ---
 
 Щогла стоїть на тросах, а троси стоять на путенсах. На «Вірі» роботи вимагала майже кожна ланка цього ланцюга. Я почав із гнилих кріплень путенсів у першу ж зиму, а закінчив новенькими вантами у 2026-му.

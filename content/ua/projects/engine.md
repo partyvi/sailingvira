@@ -4,7 +4,7 @@ title: "Двигун"
 section: engine
 order: 1
 description: "Yanmar 2QM20: витягування, нові подушки, двоконтурне охолодження, ручний старт, трюм."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-mE4ujOwpnAO5wQEVwmqnNrZJojjXbDcxNos_nDhGMHPV_ClfqhM7X1w2AsX5dYs4PesteDdFtvsVz2AHoFf3pCWKPQWrdYSFClFCyk7rbWjWIM17_JBizq7I8H8GqmhldaXiVrOkLoAgBwIH1WbG56ynFKoqUVy0Dz36jWoLmJv5033sFp2kYD6ojJJ/s1600/Untitled.png
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC"
 ---
 
 У «Віри» Yanmar 2QM20, два циліндри і близько 20 к.с., кінця сімдесятих. Простий двигун. Йому навіть електрика для роботи не потрібна. Але я інженер, і хочу знати, що з ним усе ОК, і ловити будь-яку дрібницю ДО того, як вона виросте в ПРОБЛЕМУ. За п'ять років я витяг його з човна, виніс угору 140 сходинками, вилікував його дим, дав йому двоконтурне охолодження і ручку, і підключив до свого комп'ютера.

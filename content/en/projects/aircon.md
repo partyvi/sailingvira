@@ -4,7 +4,7 @@ title: "Air conditioning & ventilation"
 section: interior
 order: 6
 description: "Webasto unit, raw water pump trouble, ducts and teak vents."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX8L7aTiZfbkPq_TdB7cESF2rHOj8Tr1QPfewYcxvKKPS_ZwcuOrlnp0KJGG_035FbsMJyOTd-XrE4pvMsu1c4GMM2TOeh88Mtf57cY3vC2YtHmGhHXa9EH4y1lmF5B4MM7XGX57nDvvC_xsU4yMo_0jAmtddoSUouCvd_Xy61ck9InWpV-CLp2MCLKHnQ/s1600/IMG_1447.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC"
 ---
 
 Texas summer on a boat without air conditioning is not life, it's survival. So the AC came very early, in my second month. Making it really good took years.

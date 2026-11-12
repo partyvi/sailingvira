@@ -4,7 +4,7 @@ title: "Standing rigging & chainplates"
 section: rig
 order: 2
 description: "New chainplates, the forestay failure and the switch to Dyneema."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDTeIHbRc3YMHfy_zqmbYO4htLJ2KJMsXXUIzA0DgbiuRs_WiRMUDX9EMxt5VnMZI7885xUyUXzNA0c734VSMbP538QAiE_dmo7Z92jZaQtOyASyghIci1xdfRsQla3QOTLv7qjE7b40TCjpJBovt2L2Z_dCkFWo1IMs89hriKH7obnTfRNNHjgxtifKqI/s1600/IMG_0420.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43nNRCZAJBt66v8KFjRednbxmciumiEzd4Te1bNxE1S07YFXKssjf3qcYTTH4qb6j6jJrufYL0IsFfuYIio70MjmLCS6C4mJ2Db_vNqvHKLW2V2Oul0oHPDv6V9bg37Mkjs6lRRAUain4E4mwX4_NRY0jXl8r2wM68RFMDBXjpqaw57N7FRYM5t0AFg/s1600/IMG_5358.HEIC"
 ---
 
 The mast stands on wires, and the wires stand on chainplates. On Vira almost every piece of that chain needed work. I started with rotten chainplate mounts in my very first winter, and ended with brand new shrouds in 2026.

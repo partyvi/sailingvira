@@ -4,7 +4,7 @@ title: "Кондиціонування і вентиляція"
 section: interior
 order: 6
 description: "Агрегат Webasto, муки з помпою забортної води, повітроводи і тикові решітки."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX8L7aTiZfbkPq_TdB7cESF2rHOj8Tr1QPfewYcxvKKPS_ZwcuOrlnp0KJGG_035FbsMJyOTd-XrE4pvMsu1c4GMM2TOeh88Mtf57cY3vC2YtHmGhHXa9EH4y1lmF5B4MM7XGX57nDvvC_xsU4yMo_0jAmtddoSUouCvd_Xy61ck9InWpV-CLp2MCLKHnQ/s1600/IMG_1447.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC"
 ---
 
 Техаське літо на човні без кондиціонера — це не життя, це виживання. Тож кондиціонер з'явився дуже рано, на другий місяць. А от щоб він працював по-справжньому добре, знадобилися роки.

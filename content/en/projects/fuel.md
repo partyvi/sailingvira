@@ -4,7 +4,7 @@ title: "Fuel tank"
 section: engine
 order: 2
 description: "Opening the leaking integral tank and rebuilding it with fuel-resistant epoxy."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisZR2w9SOHdzjK_r5CQgBVR2yz3OIQSDMp__16SxtZTVUAUyNfSP_z19v_DuvB96N6i0kMWOGLlK_TPaGbNh1w6I-oe1vOqCmkvRlnfmwdZ0tGYcF-vqntOEGgC46m9ARzikvC4i8LfuIzwrYdLg55UxJ_zNYn95LYtZ-ve8ogF-R8EYgx4XF8FB1EwuSV/s1600/IMG_8918.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMeQY7Yy-wDHYHhNJbo5CfeKGpEho1FnsWHa_u5Aozcp_XzV50fJYsbBsF-UUUVkx9ShF1Ixlghyzpuh4PHSNeAwv3ieInyo1nDwSkBe4ZJPUg0RKxq1L46IllarUr9pbFPqwyEmFlBLd6aUDiOjbwBJ_rzMyOcJjoXCKKixar48q9TQoOlizfqAmatSoq/s1600/IMG_8799.HEIC"
 ---
 
 Here's a funny thing about the Irwin Citation 34: the fuel tank isn't really a tank. It's a fiberglass tub built right into the hull under the settee, with a lid on top. Mine leaked. I put it off for two and a half years, and then in the summer of 2024 I finally opened it up.

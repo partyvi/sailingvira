@@ -4,7 +4,7 @@ title: "Engine"
 section: engine
 order: 1
 description: "Yanmar 2QM20: haul-out, new mounts, fresh water cooling, manual starter, bilge."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-mE4ujOwpnAO5wQEVwmqnNrZJojjXbDcxNos_nDhGMHPV_ClfqhM7X1w2AsX5dYs4PesteDdFtvsVz2AHoFf3pCWKPQWrdYSFClFCyk7rbWjWIM17_JBizq7I8H8GqmhldaXiVrOkLoAgBwIH1WbG56ynFKoqUVy0Dz36jWoLmJv5033sFp2kYD6ojJJ/s1600/Untitled.png
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC"
 ---
 
 Vira has a Yanmar 2QM20, two cylinders and about 20 hp, from the late seventies. It's a simple engine. It doesn't even need electricity to run. But I'm an engineer, and I want to know it's OK and catch any issue BEFORE it grows into a PROBLEM. Over five years I took it out of the boat, carried it up 140 steps, fixed its smoke, gave it fresh water cooling and a hand crank, and wired it to my computer.

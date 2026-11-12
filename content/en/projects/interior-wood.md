@@ -4,7 +4,7 @@ title: "Interior woodwork"
 section: interior
 order: 1
 description: "Bulkheads, headliner, cabinets, trim and many coats of varnish."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFUBaV5Jmt9c4tM-izNJXr84-LW29RE_xe5R9py7cwUjPzgxNWWapEXIdjqPW4qPk3C-cGTnRM-Rr3aeCaBdElJg8F0EAR3ZV9tpMQRthKzOJGfle54KBfJ8lDXScXROBV3nmWFjBghQYvuU7wuQrp1ImjgkE-xclyqMt_a9P2UTMw1DDnoIvWqbqEHzAT/s1600/IMG_0944.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi9AkLCf0eRaKfL6tkOh6yc4XEjwhTj_o_T8H4TiHVnLZpENlaY9G3jbTVBEvAbWSYHZ8xvDDEdK5j5s8mEziQh5j-XzSD7X2chEkdnT6fEnarIWT5URs4YH7MLTwEUFbYCBDF-aA4mrL2o8_AjlGptzppCUcxbYnPqYpQB9m2PwLvGUqGKI7fgU5N1y_-/s1600/IMG_0788.HEIC"
 ---
 
 When I bought Vira, the interior was soaked and rotten in different stages of decay. Over two years I stripped it to the fiberglass and built it back: bulkheads, walls, cabinets, headliner, trim, then sealer, paint and many coats of varnish. Some of the old teak trim I saved, cleaned up and put back.

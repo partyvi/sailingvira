@@ -4,7 +4,7 @@ title: "Navigation & autopilot"
 section: electric
 order: 2
 description: "OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCruvtYbi2r_OuhsL04NJ5uk9bs-1k76g7m5vepScT49PpQvKGWGO0-OaGczdVHaDm0E3LGjrUgqAcZOaluyIz93pz5h26eZ4GWgtKcTMoBK1gH5WiTpbv_yAGbi5ub0b-GaOzXAa7-iXJufm8I_AbTyz6zpinGDWlyetLL91gVDwZ0T9puWXcboXg-2SS/s1600/IMG_2632.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC"
 ---
 
 I didn't want to buy a plotter and a box of instruments. I wanted to build my own: a Raspberry Pi with OpenPlotter, a home-made autopilot from an old Autohelm, a wind instrument on a mount I cast on the mast, and in the end a "NavPod" with real buttons. It took four years, and it's still growing.

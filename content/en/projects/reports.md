@@ -4,7 +4,7 @@ title: Progress reports
 section: story
 order: 2
 description: Half-year reports and lists of what was done.
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC"
 ---
 Every few months I stopped and wrote down what was done. When you work weekend after weekend, it's easy to feel like nothing moves. Then you write the list, and you see how far you came. Here are all of them, in order.
 

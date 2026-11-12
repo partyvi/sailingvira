@@ -4,7 +4,7 @@ title: "Гальюн і душ"
 section: interior
 order: 4
 description: "Стіни душу, шафка в гальюні, унітаз і душ, якого так і не збудували."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0AtI_SJjo_lSZVgO38uBFIZRoFIXeYxhfeThe_CwZ3rLgnZEk8jppA6MrYCCPQoAFd7YkIYqWT8Mj_AJWbup0eeRBcc5BgzZVt_fu6cyyzt3kfWk4MkmPkiumWddzD9Eq4uVHWhqRvb-umLngFYmVw-rSyFv1OAVcU8LjLbwsxqpnwbHIMNK5azCynyX5/s1600/IMG_1457.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC"
 ---
 
 Гальюн на старому човні — це місце, про яке ніхто не хоче говорити. Мій привітав мене в перший же день, плюнувши мені в обличчя пів літра старого... ну, ви зрозуміли чого. Тож так, роботи там вистачало.

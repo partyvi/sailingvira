@@ -4,7 +4,7 @@ title: "Камбуз і холодильник"
 section: interior
 order: 3
 description: "Нова основа камбуза і стільниця, і холодильник, зібраний з нуля."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwRnA65Y4WqnqNrp9lm59v3MIxqUxv_ep9E0wzG6kaOCdpK5TOxcb0of8CHIhG_iBd5qE_VQEGsP4GpgYNOebwyfqzx3Xpgnp6dOUtQIUW3xq9MNKLfzESCMFCHGSQ7W0BfNkAE1H7PMlt83ErH1a1rG40EkEaj8-09u-8YWndZveZPRWyMLMDu-M9BOld/s1600/IMG_2810.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh46Lmckdc6fJakQaxPNhqcEubFdnETQ2C7GVkPWVxAuRw6RPGS53sEVe1SveXYY_j6GaN2D1yn7O066CKg-jsGXfw6_MU3M8U44uwHZdd5upmpD3rFk6S_VkrFccagp-NKtLOXtBRxnyI1ZXG47pKIDc3x2-caDuRhyPxx9GX0O6p-5CVA39hbGgxPg8vV/s1600/IMG_2811.HEIC"
 ---
 
 Камбуз — це те місце, де човен стає домом. Коли я купив «Віру», він виглядав більш-менш пристойно, поки нічого не піднімати. А як піднімеш — усе гниле. Зрештою я перебудував його повністю, а стару холодильну скриню перетворив на справжній холодильник. Той холодильник багато чого мене навчив. Через нього я, власне, і спроєктував свій термостат.

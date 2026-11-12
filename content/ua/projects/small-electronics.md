@@ -4,7 +4,7 @@ title: "Маленькі електронні проєкти"
 section: electric
 order: 3
 description: "Саморобні контролери: KhatkaPi, газ, душ, сухий трюм, заповнення бака, підсвітка."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG2UhzxmaO5JBVW_bRLnzAqq2ZtpCX1HdFAoOOtKT-UNazweH0G8msNDuS98R5eTgbjbs7ZpmrZVlwrRNAonlhjDnZFlA6yT1RSY0oV-kG-QZzfXGdIKqJjRjdYyeYvnY2oWEJG-rfGXjpGV2jfyACkcXKhS1ux6YjNGJR3pG_qEzhUFKMqjPHHdG-uqB/s1600/5B20C409-8C04-48EB-8FA1-199F821AF230.jpg
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhml60cJ2eyTEz4fk6Vo1EDjs62pEWRDHkr09-IgniENoSdHyR7k9-OYhIq1CUs9Wn1FOKVOaLEurlXtQBmyrWpKo_BfUF5dvpxR4tm3uZqK4qJaB4sApl1938sluqZN1lMt81DhwyNXbuWCNrkHemjTsqDqiPyZNtR1-dU2iCfZgxjWrMLtYyljd2hkdPE/s1600/09E31248-A495-48A6-85D7-CF81C8BF50F8.jpg"
 ---
 
 Я інженер-електрик, і в якийсь момент перестав купувати для човна маленькі коробочки і почав проєктувати свої. Кожна з них почалася зі справжньої проблеми на «Вірі». Ось вони всі, з усіма подробицями, раптом хтось захоче зробити таке саме.

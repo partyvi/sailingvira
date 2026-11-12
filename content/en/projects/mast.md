@@ -4,7 +4,7 @@ title: "Mast"
 section: rig
 order: 1
 description: "Mast top survey, mast steps, step-down, Nyalic coating and tuning."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaNvul03AMX1CX4B8lD5Y5ZyKRBkBOzrFiNtH8TeOs19Re1F5VivjO-cAhaDL8YTrqpNjsnuz3i7qZMWNcK9CnlLuP-McKDQO7Pp5as_iHO6EJ1Jye_S0q830PfrIC_OLsaYqHyAzAoIruHduU11HXhvFoVzhh93GhvNRb_3Ib4TlQhuBfUfd-ZoyNlDKq/s1600/IMG_2604.HEIC
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpcN0OMu-xRUIoO_nuoqDctoFmus5xFdlhfKtMey18d6gZB0HBhwsW47Lc6AdLuwM4vdMGRhiu38-Z12aVFL4OMQHFykRRcFw8MTLVNcA7zSTnZvIDI2t5lhGgJw8UkZJvL6LXhsvxS3sSFlq2ObIwBAXwDGCAFwTClnCnrIwLQI7HDdIK9GI0qtZlFQ/s1600/IMG_3396.HEIC"
 ---
 
 Vira's mast isn't even her own. She was dismasted at some point, and the mast that's on her now came from an Irwin 30. I climbed it, put steps on it, took it down, stripped it, coated it, put it back and tuned it again and again.

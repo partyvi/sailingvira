@@ -4,7 +4,7 @@ title: "Підлога, подушки і стіл"
 section: interior
 order: 2
 description: "Нова підлога каюти, подушки, пошиті власноруч, обідній і штурманський столи."
-cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggdsGi8UwSEbLrRFTdo0QLR2gXN2DszEu6pWDQiLfC_OxJ9YuvL-cZdCrLPbHUwc6sY-_mO3Zxz-V-e97qxQMVXZdTwzsIqHusO0wPyIrMX4sxfCcJfuHhzjjx2GYqBY2m33vhPjNI1SL8utg8oyAUUVT75w9lKevuPx0wEyxiIk4mSBV-MHDVhpMXqL7c/s1600/Latch4.jpg
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX4NL-ZTopby8IZocosPczw5UQOUauEVMSq46jHwrnH4q4k8XxCnTJ33m9JlJBtoio4c7fl_sa3UC97JSUuePp4EdzL24CAzzLEq8l7xhV2TtHlpDK5eGbyyuQfUjXqQRq7je3w9sIgqQhiS95lEXBdve7TUftyV9zCZXvQ-4q7NyAFxuQR4Tfv5BsxWhQ/s1600/IMG_0703.HEIC"
 ---
 
 Це речі, на яких насправді живеш: підлога, подушки і стіл. Коли я купив «Віру», всі три вже добряче втомилися.
