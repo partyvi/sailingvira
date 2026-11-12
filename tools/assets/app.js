@@ -8,7 +8,8 @@
     var b = btns[cur];
     img.src = b.dataset.big;
     var src = b.closest('.gal').nextElementSibling;
-    cap.innerHTML = (cur + 1) + ' / ' + btns.length + (src && src.classList.contains('src') ? ' · ' + src.innerHTML : '');
+    var alt = b.querySelector('img').alt;
+    cap.innerHTML = (cur + 1) + ' / ' + btns.length + (alt ? ' · ' + alt.replace(/</g, '&lt;') : '') + (src && src.classList.contains('src') ? ' · ' + src.innerHTML : '');
     lb.hidden = false;
   }
   btns.forEach(function (b, i) { b.addEventListener('click', function () { show(i); }); });

@@ -102,7 +102,7 @@ def parse_body(body):
             flush(); t = target()
             if not (t and "g" in t[-1] and not t[-1]["src"]):
                 t.append({"g": [], "src": []})
-            t[-1]["g"].append(m.group(2)); continue
+            t[-1]["g"].append((m.group(2), m.group(1).strip())); continue
         m = SRC.match(ln)
         if m:
             flush()
@@ -191,7 +191,7 @@ def project(pid, lang):
 
 
 def photos_of(p):
-    return [u for c in p["chapters"] for b in c["blocks"] if "g" in b for u in b["g"]]
+    return [u for c in p["chapters"] for b in c["blocks"] if "g" in b for u, _ in b["g"]]
 
 
 def chapter_info(c):
@@ -226,7 +226,7 @@ def blocks_html(blocks, lang, alt):
                 cls = " n1" if n == 1 else " n2" if n == 2 else ""
                 h.append(f'<div class="gal{cls}">' + "".join(
                     f'<button data-big="{esc(size(u, "s1600"))}" aria-label="{UI[lang]["open"]}">'
-                    f'<img src="{esc(size(u, "w600"))}" loading="lazy" alt="{esc(alt)}"></button>' for u in b["g"]) + "</div>")
+                    f'<img src="{esc(size(u, "w600"))}" loading="lazy" alt="{esc(a or alt)}"></button>' for u, a in b["g"]) + "</div>")
             if b["src"]:
                 h.append(src_html(b["src"], lang))
     return "\n".join(h)
