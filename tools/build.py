@@ -49,6 +49,8 @@ SRC = re.compile(r"^(Diary|Story page):\s*(.*)$")
 LINK = re.compile(r"\[([^\]]*)\]\(([^)\s]+)\)")
 CARD = re.compile(r"^Card:\s*\[([^\]]+)\]\(([^)\s]+)\)\s*(?:\|\s*(.*))?$")
 PAIR = re.compile(r"^Was/now:\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*(?:\|\s*(.*))?$")
+ITEM = re.compile(r"^Item:\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*\[([^\]]+)\]\(([^)\s]+)\)\s*(?:\|\s*([^|]*))?(?:\|\s*(\S*))?\s*$")
+ITEM_UI = {"en": ("Story", "Download", "Files coming soon"), "ua": ("Історія", "Завантажити", "Файли скоро")}
 PAIR_UI = {"en": ("Was", "Now"), "ua": ("Було", "Стало")}
 esc = html.escape
 
@@ -132,6 +134,12 @@ def parse_body(body):
             if not (t and "cards" in t[-1]):
                 t.append({"cards": []})
             t[-1]["cards"].append((m.group(1), m.group(2), inline(m.group(3) or ""))); continue
+        m = ITEM.match(ln)
+        if m:
+            flush(); t = target()
+            if not (t and "items" in t[-1]):
+                t.append({"items": []})
+            t[-1]["items"].append(m.groups()); continue
         m = PAIR.match(ln)
         if m:
             flush(); t = target()
@@ -262,6 +270,17 @@ def blocks_html(blocks, lang, alt, rel=""):
                 f'<a class="lcard" href="{esc(u if re.match(r"https?://", u) else rel + url_of(lang) + u)}"'
                 f'{" target=_blank rel=noopener" if re.match(r"https?://", u) else ""}><b>{esc(t)}</b><span>{d}</span><i>→</i></a>'
                 for t, u, d in b["cards"]) + "</div>")
+        elif "items" in b:
+            st, dl, soon = ITEM_UI[lang]
+            cards = []
+            for alt_, img, t, u, note, f in b["items"]:
+                href = u if re.match(r"https?://", u) else rel + url_of(lang) + u
+                btn = (f'<a class="dl" href="{esc(f)}" target="_blank" rel="noopener">{dl} ↓</a>' if f
+                       else f'<span class="dl soon">{soon}</span>')
+                cards.append(f'<div class="item"><a class="ph" href="{esc(href)}" style="background-image:url(\'{esc(size(img, "w600"))}\')" aria-label="{esc(t)}"></a>'
+                             f'<div class="tx"><h3><a href="{esc(href)}">{esc(t)}</a></h3><p>{inline(note or "")}</p>'
+                             f'<div class="act"><a class="st" href="{esc(href)}">{st} →</a>{btn}</div></div></div>')
+            h.append('<div class="items">' + "".join(cards) + "</div>")
         elif "pairs" in b:
             was, now = PAIR_UI[lang]
             for u1, a1, u2, a2, cap in b["pairs"]:
