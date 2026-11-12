@@ -116,16 +116,6 @@ A foggy morning at the marina.
 
 ![Foggy morning at the marina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpWE7J0htxQ5PHxIwiOWW98nCVw7KEl22s8BnkA1dGU8RNCB3LcTXrOMEVp2xZI0ilWnl5h-xYWf-OPvwCl9FX1RF5C3HtrkjzqiOTzUbPbMb1QBREd3XXKrG9pfR2oVD3JW5s0HhY2hjbCzauhkEsVCD6rK5h5aa2QbEUVVlTLtciKbwRbcfs11ynA/s1600/IMG_5497.HEIC)
 
-Diary: [5 Feb 2023](https://irwin34.blogspot.com/2023/02/day-77-24-2523-swower-bulkhead-bottom.html)
-
-Usually I filter the photos I put on the blog, but from July 2023 I started adding bonus pictures too.
-
-![Bonus pictures from the marina, July 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAKbC2GQXEhujILVG8WajI9UkCa9YKTHqYSXzRBlrCK70IBj_5QvENJzjxjg1QznqmQyUsEQwhz9kW3RXN3M6zT6MQmFM1_ZCeK1uOdkB_qFnu3ReMj7KyY5pI5sls2xb_xaVxo8uMvvtb8VqJqHVVWN_Iuz6a2LjUyqbD60atOFkQfwlXVymkKH3-Qidu/s1600/IMG_6170.HEIC)
-![Bonus pictures from the marina, July 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8uq4bctcBc-vDgduMCZ-w71-8pMkekmjMSOK2wj4ZIEMg5IQB75lq63tvtpp_EL46d9EoB977YV3-rHpZtz9TYSEpbro1ntZmXKo8My-eQI2UCqH_vrq-_c9g1pXu7iY9-MFn-EEM-q86uDWEcLqV5MRo-CSKtWb8IEBX8NUHPRuA3xPbC9YX5dgVnnT/s1600/IMG_6178.HEIC)
-![Bonus pictures from the marina, July 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif3blbLXgL1E6ORJzy2P6f22vji2gvJ2vzZVyBB5jqW0RrdbdS4E8P24N-atayjJnQrfZGQUj5W5TvBZaEKTXPqQ2KFMgQnhG0uIz7NAZVZkpF2-Wy79vUJhnGo74uVKYR2Y4b-uAi3XN7GsaJpSJWZ8hY4KjqdON1leK78oEXGP19XRXV8j4o5FhGlW7g/s1600/IMG_6149.HEIC)
-![Bonus pictures from the marina, July 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEyVuRbshS_IsG7-NU-9UGJad1PgIV5MSlg8igJPrnMTgLU4CjMTw3Dkt8QXFatpqv7to2iqcjcxRfvT5sXSlL8pdWzNHNoIkvxjkqkiCWvtpL-8_u0JLJ1WON55UjmUi2fyTIwPfs0owgO-kfnz0BP6fLJ5qycSryTFfnC0cw6b2oHP0AGTxvB37Vio5E/s1600/IMG_6165.HEIC)
-![Bonus pictures from the marina, July 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6-KlxtZZy2ojlK6oMAZ7v6CAB2_AM4pW5LyAVI-gSlLmwWY-_ao-6yQp_0jE1yiBJ4UCx0QxOj8BugiRUGfVn6z8YhN4Z2hTUr_n5zGt6KUIE-5xw49MQ4HMrFv94uh0faIRCxJzi1RiGFFqunD8IEbfi1-bEWKfB1cIdEYo7Enz3ea4uP2_BNA7t_Et0/s1600/IMG_6164.HEIC)
-
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 
 August 2023: Lake Travis still dropping. The boat on the far left, now on dry land, was 8 feet under water, and I maneuvered over it in January 2022. Another bow sticking out appeared a couple of months ago; now it's 3 feet above the water. The docks on the hill were right at the waterline once. The lift tracks are over.
