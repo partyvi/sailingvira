@@ -315,6 +315,8 @@ Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-riggin
 
 ## New wire after all
 
+So why wire? My plan was to have all the Dyneema fittings made by a prototype shop in China (JLCCNC). That would have been a premium solution for very reasonable money. Then the new US tariffs came, and the Dyneema solution suddenly became too expensive. So I postponed that project. For about 10 years ;)
+
 In January 2026, at the boatyard, I picked up brand new stays, each made in one piece, the way they should be. The originals had extension plates, chains, extra toggles... Below are the chicken scratches I gave the rigger. He understood them, which says a lot about riggers.
 
 ![Notebook sketch of the new forestay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHsTAU_4NViaADUO7N8G50KdwpXS3bo-8dFcN883WUmou9Q8LqkizMSOEN9aHvRmcYQr_Kw9_iFA1b_T5H-C3-J4PxcEQw_TS-IixC6tvyaFHlvqRotddLCjEfXMdUSS2MtC4_SKSvGCjiDm9fNNn883aYn0RNsesXScHU5Lt1jj-4miLux1TxlrVoGzy_/s1600/IMG_0421.HEIC)
