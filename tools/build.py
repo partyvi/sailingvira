@@ -624,8 +624,13 @@ for lang in LANGS:
         f'<span><b>{esc(t)}</b><span class="mono">{fmt(d, lang)}</span></span></a>' for d, t, u, img in LATEST)
     sail_cover = EN["sailing"]["meta"].get("cover", "")
     boat_cover = EN["hull-bottom"]["meta"].get("cover", "")
-    simple = lambda key: (f'<a class="tile" href="{TAB[key][0]}"><h2>{PAGES[key][lang][0]}</h2>'
-                          f'<p>{esc(PAGES[key][lang][1])}</p><span class="go">{hu["go"]}</span></a>')
+    root = "../" if lang == "ua" else ""  # home page -> site root, for assets/
+
+    def simple(key):  # a tile; a photo on top if content/site.yml has tile_<key>
+        img = site.get(f"tile_{key}")
+        ph = (f'<div class="ph" style="background-image:url(\'{esc(asset(img, root))}\')"></div>' if img else "")
+        return (f'<a class="tile" href="{TAB[key][0]}">{ph}<h2>{PAGES[key][lang][0]}</h2>'
+                f'<p>{esc(PAGES[key][lang][1])}</p><span class="go">{hu["go"]}</span></a>')
     video_tile = simple("videos")
     if VIDEOS:
         v = VIDEOS[0]

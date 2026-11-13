@@ -207,6 +207,14 @@ content:
         label: Banner strip on other pages (5:1)
         type: string
         description: A path in the site (assets/banner-strip.webp) or a full photo URL.
+      - name: tile_workshop
+        label: Home page Workshop tile photo
+        type: string
+        description: A path in the site (assets/tile-workshop.webp) or a full photo URL. Empty = no photo.
+      - name: tile_about
+        label: Home page About me tile photo
+        type: string
+        description: A path in the site (assets/tile-about.webp) or a full photo URL. Empty = no photo.
       - name: home
         label: Home page
         type: object

@@ -23,7 +23,7 @@ The site will be published at **sailingvira.com**. The domain currently redirect
   and idioms, never at the cost of facts.
 - **Photos:** ALL diary photos go into the stories, in the place they belong. Photos are loaded from
   Blogger (googleusercontent) URLs. They are not copied into the repo. Exception (Viktor, Nov 2026): site design
-  images such as the banner live in `tools/assets/` (`banner-home.webp` 16:7, `banner-strip.webp` 5:1, `viktor.webp` portrait on About me via the page's `portrait:` field).
+  images such as the banner live in `tools/assets/` (`banner-home.webp` 16:7, `banner-strip.webp` 5:1, `viktor.webp` portrait on About me via the page's `portrait:` field, `tile-workshop.webp` and `tile-about.webp` for the Home tiles via `tile_<tab>:` in site.yml).
 - **Diary links:** every chapter links back to its original Blogger post(s).
 - **Blogger stays the diary** for now. Later the diary moves into the site, so leave room for a "Diary" section.
 - **New topics:** a diary topic that fits no project goes to a "Small projects" catch-all first. Once it has
