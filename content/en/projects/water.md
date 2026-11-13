@@ -100,7 +100,7 @@ There was osmosis pox all over the inside. I'm not worried about strength, but a
 
 I sanded and filled all the pox, the frame holes and the bottom hole, glassed over them, and added tape on the bottom edges. Then two coats of LiquaTile 1172 inside. It's the only product certified for drinking water that I could buy in a sane amount, and three quarts was exactly enough for two coats. It's made for concrete and steel, but the maker confirmed it works on fiberglass. It's really hard to work with: very thick, and no thinners allowed. It cures to a nice gloss, except where I put it on too thick and it ran. Not a cosmetic surface, so who cares.
 
-The only compromise was butyl tape on the lid. My plan: fill the tank completely with city water, freeze a sample while filling, wait 2–3 weeks, take a sample from the tank, and send both to a lab.
+The only compromise was butyl tape on the lid. My plan: fill the tank completely with city water, freeze a sample while filling, wait 2–3 weeks, take a sample from the tank, and send both to a lab. I never had the chance to do it.
 
 ![Front tank with the new lid and fittings](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Llw0acWthMfCtJO-wlI5G-uNRjTJ-WiiwJrkVH1KOJMeXdMalfnQtNzoSnYozu6iNjeyxmlfUuUANbzpQB6h7awK40brVZgPiTCyXw9-XuQnuKv-RZakv2G6zAHy-6DO97Pxs6AjTeQ3VVhkS_cs_8wMWp6d2LsIn4cFojz6pSsaoCDr9pYbhQnSEw/s1600/IMG_4239.HEIC)
 ![Osmosis pox all over the inside of the front tank](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpatnvZiZnvOxB8DYk6i5-hqY3zSb4L_nGducLVCUM8sHhZKpYekUaK75T3RVKtGHX9qbBTb7d09-VOlcpCohDvbBO2n15dfqDuO6jVRBbByjWVmnwiRxPHLS6fsDnB1s1_i0VMumFpEyJUD8e-4a1Xg5jVHPmeAZxLZRWe6wc_KjCfjB1TVRF2xqu4w/s1600/IMG_4168.HEIC)
