@@ -3,6 +3,7 @@ id: about
 title: "About me"
 slug: about/
 tab: about
+portrait: assets/viktor.webp
 eyebrow: "Viktor"
 description: "Who is behind Vira: an engineer who can fix just about anything, and a sailor who wanted the sea."
 ---

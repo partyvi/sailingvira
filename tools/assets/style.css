@@ -43,6 +43,9 @@ h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.0
 /* project page */
 .top{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;padding-bottom:14px;border-bottom:1px solid var(--line)}
 .top a{font-family:var(--f-mono);font-size:13px;text-decoration:none}
+.phead-p{display:flex;align-items:center;gap:32px;justify-content:space-between;max-width:1000px}
+.phead-p .portrait{width:200px;height:auto;aspect-ratio:500/620;object-fit:cover;border-radius:8px;border:1px solid var(--line);flex:none}
+@media (max-width:640px){.phead-p{flex-direction:column-reverse;align-items:flex-start;gap:8px}.phead-p .portrait{width:140px;margin-top:24px}}
 .phead{display:grid;gap:10px;padding-block:28px 8px;max-width:760px}
 .phead .eyebrow{font-family:var(--f-mono);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--brass)}
 .phead h1{font-size:clamp(44px,8vw,80px);font-weight:700;text-transform:uppercase}

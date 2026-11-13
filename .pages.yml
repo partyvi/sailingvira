@@ -114,6 +114,7 @@ content:
       - { name: eyebrow, label: Small line above the title, type: string }
       - { name: description, label: One-line description, type: string }
       - { name: cover, label: Photo for sharing (URL), type: string }
+      - { name: portrait, label: "Portrait next to the title (assets/viktor.webp or a photo URL)", type: string }
       - { name: updated, label: Last updated (shown at the bottom of the page), type: date }
       - name: body
         label: Page text
@@ -145,6 +146,7 @@ content:
       - { name: eyebrow, label: Small line above the title, type: string }
       - { name: description, label: One-line description, type: string }
       - { name: cover, label: Photo for sharing (URL), type: string }
+      - { name: portrait, label: "Portrait next to the title (assets/viktor.webp or a photo URL)", type: string }
       - { name: updated, label: Last updated (shown at the bottom of the page), type: date }
       - name: body
         label: Page text
