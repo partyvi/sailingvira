@@ -588,6 +588,10 @@ for lang in LANGS:
         note = "" if gid in PG[lang] or lang == "en" else f'<p class="note">{ui["missing"]}</p>'
         eyebrow = f'<span class="eyebrow">{esc(m["eyebrow"])}</span>' if m.get("eyebrow") else ""
         head = f'<header class="phead">{eyebrow}<h1>{esc(title)}</h1><p>{esc(blurb)}</p>{note}</header>'
+        if m.get("portrait"):  # e.g. About me: a photo next to the title (assets/... or a full URL)
+            src = m["portrait"] if m["portrait"].startswith("http") else rel + m["portrait"]
+            head = (f'<div class="phead-p">{head}<img class="portrait" src="{esc(src)}" '
+                    f'alt="{esc(m.get("eyebrow") or title)}" width="500" height="620"></div>')
         if m.get("updated"):  # e.g. the Upgrades log, kept in step with the blog page
             body.append(f'<p class="updated mono">{UPDATED[lang]}: {fmt_full(str(m["updated"]), lang)}</p>')
         side = f'<aside class="toc">{"".join(toc)}</aside>' if len(toc) > 2 else ""

@@ -3,6 +3,7 @@ id: about
 title: "Про мене"
 slug: about/
 tab: about
+portrait: assets/viktor.webp
 eyebrow: "Віктор"
 description: "Хто стоїть за «Вірою»: інженер, який полагодить майже все, і яхтсмен, якого тягнуло в море."
 ---
