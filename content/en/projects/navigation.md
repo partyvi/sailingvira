@@ -448,7 +448,7 @@ Later in April I added a switch for the big cockpit touchscreen, so rain stops "
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-Then a puzzle. Right after I installed the AIS transponder, the autopilot wouldn't stay running. I didn't connect the dots until later: PyPilot's control program was rebooting every 30 seconds, but only when the AIS was on. Long story short, the Maiana sends GPS data to Signal K as another GPS source, and PyPilot crashes because it can't parse it. I tried pointing PyPilot at the Linux GPSD daemon with a separate GPS. It worked fine at the dock, BUT underway GPSD locked onto stale positions, giving the wrong position and speed, and I had to restart it every time it went into the weeds. Back to the drawing board.
+Then a puzzle. Right after I installed the AIS transponder, the autopilot wouldn't stay running. I didn't connect the dots until later: PyPilot's control program was rebooting every 30 seconds, but only when the AIS was on. Long story short, the Maiana sends GPS data to Signal K as another GPS source, and PyPilot crashes because it can't parse it. I tried pointing PyPilot at the Linux GPSD daemon with a separate GPS. It worked fine at the dock, BUT underway GPSD locked onto stale positions, giving the wrong position and speed, and I had to restart it every time it went into the weeds. Back to the drawing board. In the end I just reorganized which GPS does what. The Maiana's GPS works for the AIS itself and for Signal K, and a separate 1 Hz GPS was dedicated to PyPilot. No more crashes.
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
 
@@ -492,7 +492,7 @@ In August 2026 the wind sensor showed nothing on the dashboards. A quick check: 
 
 Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-with-family-small.html)
 
-In September I added one more GPS, 10 Hz, mainly for the autopilot's GPS mode. A faster GPS lets the autopilot work more precisely. Nothing fancy, a standard u-blox 10 module, but in a custom outdoor housing for the back rail. Version 4.something of the whole system, and counting.
+In September I added one more GPS, 10 Hz, mainly for the autopilot's GPS mode. A faster GPS lets the autopilot work more precisely. Nothing fancy, a standard u-blox 10 module, but in a custom outdoor housing for the back rail. Now the 10 Hz GPS feeds PyPilot, and the old 1 Hz one stays connected to the Pi as a spare, not in use. Version 4.something of the whole system, and counting.
 
 ![New 10 Hz GPS on the stern rail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6A8P8cypdSsest_E7csTH-CWbvXrwXUSZeOtUrbrDFlprrUHQ5Fopj9E6TODie6hfEJhPracoLw8YFdpVjJSnQA0O3X77YYUZNdploNE3fur3Wdh-Cudgh6aHp2vvcw861mveUK5zCjjm45WZ_OGm4rJzdzL_wuimrYe5JyQAfT7S_7yPZcTa9zJAL0c6/s1600/IMG_2629.HEIC)
 ![GPS in its custom outdoor housing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCruvtYbi2r_OuhsL04NJ5uk9bs-1k76g7m5vepScT49PpQvKGWGO0-OaGczdVHaDm0E3LGjrUgqAcZOaluyIz93pz5h26eZ4GWgtKcTMoBK1gH5WiTpbv_yAGbi5ub0b-GaOzXAa7-iXJufm8I_AbTyz6zpinGDWlyetLL91gVDwZ0T9puWXcboXg-2SS/s1600/IMG_2632.HEIC)
