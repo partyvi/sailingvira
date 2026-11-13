@@ -6,12 +6,11 @@ order: 5
 description: "Blisters, barrier coat, topside paint, thru-hulls and her name."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgh19ag6IykztOjEfiVI6uHpiKrB7HnCJf2URgH752BIlyKrI7rZnCiy4IiknWB_vcP7_v5YjQI4UilHGvjTXLNJ44crKEkE64XdYba3sBtwexzdV9mmhs0F8StuOEsRQyu8ioaAgpRiVgVUNyFRU7UU7oM-lvS2T4ZfXF63yce2NHCe_gUW7-uP8LgyVr/s1600/IMG_0593.HEIC"
 ---
-
-For four years I could only work on Vira's hull from the dock: a few scratches, a couple of thru-hull hoses, a soft spot inside a locker. Everything under the water had to wait for the boatyard. When she finally came out in November 2025, I found out what 47 years in a lake does to a bottom.
+For four years I could only work on Vira's hull from the dock: a few scratches, a couple of thru-hull hoses, a soft spot inside a locker. Everything under the water had to wait for the boatyard. When she finally came out in November 2025, I found out what 47 years in a lake does to a bottom. Spoiler: blisters. Lots of them.
 
 ## Patching from the dock
 
-June 2022 I sanded the scratches on the topsides and filled them. No delamination.
+In June 2022 I sanded the scratches on the topsides and filled them. No delamination, which was good news.
 
 ![Scratched topsides filled with putty at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6MvUdWAeSY87XTGtLwxKj_GiUb2NaXWshztQOEZ4e28kIlYqPDw20cIeXmhUdfBaMrX0Aqb_lek5i61B4sU1QmZCmWy6xqcO5RGSyOggYNbyS0qW3yBlNAiFL0Qa5smxZrGCLEHOsVYryCQJNcGQUoFxW4_1J1OoTChRgOodn2LEjgs1gE-MPmvRVZg/s1600/IMG_2941.HEIC)
 ![Mixing yellow and blue putty](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhesv2btTZXn-5NxKDhk8RpV9MoYzGUPDpp9BIpTjGsPKyXVhMW4PK8SbxUs2D9pvP6x6DISqb1oWHsQS8GAgD0tMD5A7UGaKf4P3zk3EAsA44jTXY8-k6rEDvTp4_WurHPANm8ruEhDEdeJo91OlM3fhZ06q2gOHZz6ROv0zRXhjLgsxclU1CV5IrE7Q/s1600/IMG_2944.HEIC)
@@ -19,14 +18,14 @@ June 2022 I sanded the scratches on the topsides and filled them. No delaminatio
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-Twice more on the bow and starboard side. Next time just a light sanding and primer.
+Then twice more on the bow and the starboard side. Next time, just a light sanding and primer.
 
 ![Bow patched and sanded, seen from the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyJSWCthlx47Xk4KhtJEie4A2YGGMzi13bWSGzgEulLd_Wa2Wy4mMqHqgyAr4dBalD1eusi5-iqMVPiCslLcxUYQstrIlc4kHBta_QHK_j_ePJppWfFXlZNuqG-PJUFyzzExSyz3YE-S2LsJw1efq17UjWPqKs2xV-EvoMuxxU-otSksm8VouSk1-qSw/s1600/IMG_3067.HEIC)
 ![Sand bags and patches on the side deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZqENCx-SGKxRlw04tZ2yMvSEDNYzYcbaSK12PXAnieXTS8D2bzC3mKOw3L9cDU-ctt4BfK_EmPV16itumS_jSc1kRvn_J5-TcaFOo9IU-o7QiUSUhZCX2Ed_vZkFz_oZKPGK8uQcBTD7YrW7LSp-KF8E2PvB5YHbMpnGbHJJRbZm6D7CZOOmrifBdBg/s1600/IMG_3066.HEIC)
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-Then the starboard patches got primed, right under the toe rail, with Interlux Pre-Kote. The weather was crazy, 100 °F and up. Heavy orange peel, but at least it's covered from UV.
+Then the starboard patches got primed with Interlux Pre-Kote, right under the toe rail. The weather was crazy, 100 °F and up. Heavy orange peel, but at least they're covered from UV.
 
 ![Bow masked and primed with Pre-Kote](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Xeegp6UeUCtEy8gZ1uFe1y8_v8IEnhmpJqZePiLi6VD7kI2eRTs_SYBb2Dp7skqabRumWhEfGdiOn2pqiUjVdawA8svuWo-DrX3PXZakHZtpyVuaxrsxSyM99s95pkFZglInlaGrdM__EmBcwKlkSLjuAZO0oayogWRBoY_cMYnCQbHwIkcseAca7Q/s1600/IMG_3254.HEIC)
 ![Vira at the dock with primed patches](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3po-oRuKRjLSJhv1UqMIpRnOtBLZSBk7raXVhRjuAhAJh3bNr74HP9e3TqqhPFQlzswM9pq1BLdhqiwGBhuCyxWRgRLGwzCgVUtzA6nAaeHSFycLYMpbagXC6999hA0G3xHtB-mRy2j14_-pPT3d87PQowsGsxjEjkIEqgctnUJgqAag0Pb8Fab7iUw/s1600/IMG_3253.HEIC)
@@ -35,14 +34,14 @@ Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-pat
 
 ## Plastic fittings on the thru-hulls
 
-December 2022 I went to add a second clamp to the engine cooling water hose, and found a polypropylene (I hope), or maybe even PVC, hose-to-pipe fitting with a short barb. No room for a second clamp, and it had to go ASAP. The local store had no bronze or Marelon hose adapters, only nylon or brass. For obvious reasons I took nylon, as a temporary fix, and ordered bronze. There's one more to change, 1-1/2 inch, and that'll be a big challenge.
+In December 2022 I went to add a second clamp to the engine cooling water hose, and found a polypropylene (I hope), or maybe even PVC, hose-to-pipe fitting with a short barb. There was no room for a second clamp, and it had to go ASAP. The local store had no bronze or Marelon hose adapters, only nylon or brass. For obvious reasons I took nylon, as a temporary fix, and ordered bronze. There's one more to change, 1-1/2 inch, and that one will be a big challenge.
 
 ![Old plastic hose fitting on the engine seacock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirFKRiRXOoCG1nPQ1AwWj2JDn9dZ76apOhcb0AvVJoOSM_l8AvzaheMwwTSMniOV2cTZZMYMLXqEmTfv7ptuFzlPN0h3JeBU_pFAQnqUysBy8K6cnU699TlPext5214vLviPQmhb6bH5iFbMZXD8WW96234AJkY0bLx22mJDxcKibmtUAkF4a7ZVtTGg/s1600/IMG_4295.HEIC)
 ![Seacocks and hoses in the bilge locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPt8lzSLUxupIIi-VubrwLJx_0-KFrowndm5tfi-KuIl1z7NExyiqNP_TvP-3pq9V9FdDsk96ZBe7Rw8HDj2BzFxJ_jteXbChYgxN87ap3enVk9XB9SKYjJ4YL8TqOsMFoE9e9oU2f92ekh6RiM8Hh3dqPRXqLoH0pPLUOIhU9RDrHDQNHD3EiDb1PYw/s1600/IMG_4297.HEIC)
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
-Two weeks later the new bronze adapters were in. Yes, it's a rat's nest, but the boat's in the water and I don't see a way to redo it. Only one plastic adapter left.
+Two weeks later the new bronze adapters were in. Yes, it's a rat's nest, but the boat's in the water, and I don't see a way to redo it. Only one plastic adapter was left.
 
 ![Seacocks with the new bronze adapters](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL2nZD6n9c-Q0-ZHAdsP16KdTQhqu-7zIvIyuSX0wbxPDAfHMSC2uF7cEu25MPEYZZNpaeQ-KFN65dNQOktonn4HM1JuXzx6F9YIAgZri7l1Pm00wnWwJYg6BYzHYVs855MlrtpY43G9hq2B0ztZeTtsRto-z4z0dKhr45WYI4CBGfHLvMJIDVm8vtDg/s1600/IMG_4370.HEIC)
 
@@ -50,14 +49,14 @@ Diary: [17 Dec 2022](https://irwin34.blogspot.com/2022/12/day-69-121722-front-ca
 
 ## Delamination in the cockpit locker
 
-March 2023 I repaired the starboard cockpit locker area: re-glassed two walls and rebuilt a delaminated area of the hull.
+In March 2023 I repaired the starboard cockpit locker area: re-glassed two walls and rebuilt a delaminated area of the hull.
 
 ![Delaminated area in the starboard cockpit locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzcPWgARxb0_StUf9wYS62_-9LobEEq2I7pe_4sz1sbcaoqr2Y5_iGYkN8a50_qZEgMqq_iCrBbiSG8hQaVYz9KIFu40C1qOh8E6XMBBsUMJwixR3sHIHQ6Y89-O6V8tptwzTSoUAdiR_8Cp4fuo6pbjSocQ5zkYczFVyouF7rj8oGsC0-bsmmf3f4yg/s1600/IMG_5333.HEIC)
 ![Cockpit locker walls opened for glassing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG4eIYUnqarSDwjqQO7wnodajf_Gi5BaLVzh5jWUidb8WUI1GpriUzkH4KRz0mwYT2NoFoczPgX_FETVZ-GNt-HzNbgW8aIMTdONQINx-ug2YumT-IP3s-QzRfGTfyblxf8daVg1ceiUmeJrbhatzODewmIENNYkeL2L1og6gXbjWPavzyozaei3s84Q/s1600/IMG_5363.HEIC)
 
 Diary: [11 Mar 2023](https://irwin34.blogspot.com/2023/03/day-81-311-galley-and-main-cabin.html)
 
-And finished building up the laminate there.
+Then I finished building up the laminate there.
 
 ![Turtle on a dock line in the marina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGmzK9jNiIsznSUivfbQbGh3UsXdsytpmcbO82QN1jfIw3P-eYyl4nufHU3k1nremmff_DqIl_KzI1Ppm8i43Aub7gPmeeqa_vmSyzl7J_NYD11cX30FioO17o_hPTuvw54_qXy-78bRKfWIj5dOTYnG7Zs1fx4Asz9CaCChdeirsWOrYfNrQWIbWPAg/s1600/IMG_5465.HEIC)
 ![Laminate rebuilt in the cockpit locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTV1gKJct-IAF9X8WgvLiTMQXqDa-A8ZK2P8Xa3fwhdEs4f9nCtAicC6usWxcyk_vRTpBUBGGkn3LCUvsRUM6BiwUzGftoRq1rPKkSRipJSGZJ3wDu6nrjum4011t0vR1kc4YTd13uNVNwuK9WPfbLBpVqtfcHYF-RlWqhT-WqSsEMxk-bDMH_IHu-0A/s1600/IMG_5466.HEIC)
@@ -72,7 +71,7 @@ In September 2022 I emptied the holding tank, mostly because I wanted to get und
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-The answer came three years later, at the boatyard. I put in a lightning ground plate: 3 feet by 4 inches, on the port side of the hull. To drill as close to the mast as possible I had to take the gray water tank out of its locker, and getting the sanitation hoses off was hard. The plate is held by two 1/2-inch bronze bolts, one under the waste tank and one under the cabin sole beneath the table, and bedded in 3M 5200, pressed to the hull and left for a week.
+The answer came three years later, at the boatyard. I put in a lightning ground plate: 3 feet by 4 inches, on the port side of the hull. To drill as close to the mast as possible I had to take the gray water tank out of its locker, and getting the sanitation hoses off was hard. The plate is held by two 1/2-inch bronze bolts, one under the waste tank and one under the cabin sole beneath the table, bedded in 3M 5200, pressed to the hull and left for a week.
 
 ![Main cabin and the bulkhead with the documentation number](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixWVCuXQIb-iF6BkgkxKg3V4L5w4qoQtUFZAjMNRoaKaItX8oLP04sLEYY8tEFgcgfHkdsSFSLhTMDn-kLzwc-wGLVHzzCIjs72Kgf2_qC65hwdMKcWLFBNMwE7Y9cch_K9zMkbCU-Lm-aeDHck3dKKZlRnT_dB3ZPyOStqknW-E_k9mc_s8zvLxlwYY8k/s1600/IMG_0651.HEIC)
 
@@ -84,7 +83,7 @@ In March 2026 I ran a 4 AWG cable from the mast to the ground plate under the bl
 
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
-In April 2026 I measured trim to cover the lightning ground wire.
+In April 2026 I measured the trim to cover the lightning ground wire.
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
@@ -99,18 +98,18 @@ Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-instal
 
 ## First days on the hard
 
-November 2025. First, pressure wash the bottom. At first glance, only two big blisters. The work team: me and my son Vic. Great thanks to him.
+November 2025. First we pressure-washed the bottom. At first glance there were only two big blisters. First glances lie. The work team: me and my son Vic. Great thanks to him.
 
 ![Vira in the travel lift slings at the boatyard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixoBMhi_xuMzXeWbmuXxKNynEGL1aohDsQowFMgZ4Nun4-kDMy7h4H6GS3mGQxf9_hECkqspZ1Ec-X3kDTqmmN02yRyb_rO11N8Cng9301Nb-Lnca7kKg5Wer4FzDINgLiFHd9p0PzFxBFnC14I8JH_DNwX6W8PKSbktTVz2V8HK5mX-72AiBsjahP_ADq/s1600/IMG_0172.HEIC)
 ![Viktor and his son Vic in the car at the yard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_YXt4T3ENGrlgvFVYs3rXmmdStjn8tCfNEB80YqJ3plUwFIUhDs_VS0y1_a1Zv8QEKN44TTzJQ5JDPg-ZwpC9aUpTyjP9ZNAqwLELaQ_XKXyfpJDX5a3djVBfuqBC5ug3m_4Fgmb0lCGauzFXah3gqnPotgGHw8Qvte15OvDvqxL2TQA1kcoPM1_1gs2/s1600/IMG_0226.HEIC)
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 
-I opened some of the biggest ones. The "water" (resin soup) had collected under the first layer of chopped mat, right under the gelcoat. That first layer of mat looks like it was laid dry. Not sure if that's osmosis or just how the boat was built. And the port side has lots of little craters that look more like gelcoat voids than blisters.
+I opened some of the biggest ones. The "water" (resin soup) had collected under the first layer of chopped mat, right under the gelcoat. That first layer of mat looks like it was laid dry. I'm not sure if that's osmosis or just how the boat was built. And the port side has lots of little craters that look more like gelcoat voids than blisters.
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 
-Starboard, before we dug in.
+Here's the starboard side, before we dug in.
 
 ![Pressure-washed bottom, starboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-cpDHnxQZPvHK1ph-xB1bO0DxghLTgJIuQAgbaQRT3rzPznVay43TSuCwAZoKU5hsebhAXcpL0y3t7Nhl-W99Y5HjaSCSks3o2mG0C56kD2JV6cT73404LhfkMYF8ZtHES8ITnq7MvWHHEIEhGc5eOdK0KTEqdcTi9tSui3QIQ98_FTK2FG4tVPN1pyE0/s1600/IMG_0173.HEIC)
 ![Old blue bottom paint and blisters](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjTCuBzLmLr-HYM8v4fPGKY-lkhYtfeSy7GfR8T6hqa5pGd5joMWJj4giPieXp59hf7AkOHQzr9WLe6461KoxiPqYGvgicb_OJkW6PXNDcgvfu9LQynqnQmomV8hJxbcR0fOn4GhVXCkIoMFVBa2oVnSWa1ARyFxQ_Jf9SGg00eslTWKm2-3egyysGzH9/s1600/IMG_0174.HEIC)
@@ -121,7 +120,7 @@ Starboard, before we dug in.
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 
-By the end of day one I'd ground open every real and possible blister, and the count was getting close to 50–60. Vic worked on the old bottom paint and got about a third of one side done.
+By the end of day one I had ground open every real and possible blister, and the count was getting close to 50–60. Vic worked on the old bottom paint and got about a third of one side done.
 
 ![Vira on stands, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqGsj4xzW4SAB-HQLkSrx6B2RzNXvuYYxsoR77YiVJmCkr5PVs5gIm7jFkJ3mdNgzydYYFXIM4z_10UQvoC7z3J4fFT2kAzKVXrelPI_tYSu8atW62CmccErbPNGpRpBIKEPphqaC7wK5OoGhekqUevK178f9vvJRyR76RdRdu3nXX1rPAUjow_7V-y3_/s1600/IMG_0189.HEIC)
 ![Vira on stands, starboard side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9VHrrVxTcFuPKtTATEKTipyBmApmNYaibYqsCth0WA1kdA44BcOvQo76VdWQ5mwNMUDfEeucYbQ8GIGPV9DsnMZNENiBtmKMzKAkgqcrKhio99W7hszAPg9bTSpelAiiH6RxqVxQBflPC1XURZoyQXxDEsfTa62jgxxxI7nxCz3Ikx4qWcIukoGUJpKVD/s1600/IMG_0190.HEIC)
@@ -145,9 +144,9 @@ The strut wasn't sitting tight, so I dug out its mounting and found a pretty int
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 
-Then the keel. All around it I found a very intriguing hairline crack. I opened it to see what's going on. As far as I knew, my keel has encapsulated ballast with no bolts, so I assumed the keel was molded in one piece with the hull. But what I found doesn't fit that. The keel was made separately and then attached to the hull. But how? Asking on the forum didn't help. Anyway, the keel is solid: no movement between hanging in the slings and standing on the keel. So I'll just patch it, maybe with 1–2 layers of glass.
+Then the keel. All around it I found a very intriguing hairline crack. I opened it up to see what was going on. As far as I knew, my keel has encapsulated ballast with no bolts, so I assumed the keel was molded in one piece with the hull. But what I found doesn't fit that. The keel was made separately and then attached to the hull. But how? Asking on the forum didn't help. Anyway, the keel is solid: no movement between hanging in the slings and standing on the keel. So I'll just patch it, maybe with 1–2 layers of glass.
 
-I also found three pretty heavy hits on the hull at the waterline. One was so deep that, chasing the end of the delamination, I went all the way through the hull and made a hole. And a couple of smaller hits.
+I also found three pretty heavy hits on the hull at the waterline. One was so deep that, chasing the end of the delamination, I went all the way through the hull and made a hole. And there were a couple of smaller hits.
 
 ![Keel front with the hairline crack ground open](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Gwpjei-XOFsMciD2fHUErlW8LZa2v2kft6rapeUV9XLeLVdAA_YycuS7IrtgIkeI__FUL3GvGQc_zg2-LGsnSpUKISraNjvbQL1cTRjDTE2ZiZZLlQcAm94tlE04sIRkuZQWYc63YjI-R4XKEbOqcJrtC2x_tIkqMSUoCy6zlmwsxH1envBTmpMCC7Gr/s1600/IMG_0213.HEIC)
 ![Big blister ground open at the waterline](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoQP6IxeMzu-rOWdNnrQjG1JD3D01V3a3St6w30AJCNwON1B64LcMmwmxuRvEbUA2tv6t_lr-E-FpJoAp3Os7_bAXLjCPuZCAA9P_SfN1r6lyzUp48X3uhD-5gyJGOBGzajnoNmdjSuJVV-mIZt7gIPIFl83IKGAJGrPzaSkSEwhur6wnKWy9NpdXkne0I/s1600/IMG_0215.HEIC)
@@ -159,7 +158,7 @@ Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-op
 
 ## A deer at 70 mph
 
-On the way home after that weekend I met a deer, an adult deer, on Highway 290 at 70 mph. No time to brake. It appeared maybe 30–40 feet ahead. Luckily I swerved instead of braking and ended up with a couple of dents in the fender and passenger door, "below the waterline". Mostly the deer hit me, not the car hitting it.
+On the way home after that weekend I met a deer, an adult deer, on Highway 290 at 70 mph. No time to brake. It appeared maybe 30–40 feet ahead. Luckily I swerved instead of braking and ended up with a couple of dents in the fender and the passenger door, "below the waterline". Mostly the deer hit me, not the car hitting it. Apparently blisters weren't enough damage for one weekend.
 
 ![Pickup truck at a gas station at night](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qAfhkmB-KcE59_INpc9Uy9M7rW4gzDFNx7XJl1XuiTN48omVSwe6OUQLUMn6bOYZeVNE0mL70Lpu4KpWiMmcxBMp27eIWdKFGJ3huxYflD2sF8tTgpsj4tICx8NivUcymURJIGqnyx9loLDm-TS-ZvaqKLv5c-au_9KqVRBlsDQ3LWUFSkMqTJEsFLge/s1600/att.MS1rA-zTUyp3usx35SVFsxj66FIrFsaY15v1vg_k2VM.jpg)
 
@@ -167,23 +166,23 @@ Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-op
 
 ## Nine days of grinding and glass
 
-Then the nine-day marathon. A whole day sanding bottom paint down to clean gelcoat. Vic did the big surfaces, I opened and marked the small blisters. And there were a lot. By evening starboard was done and port started.
+Then came the nine-day marathon. A whole day of sanding the bottom paint down to clean gelcoat. Vic did the big surfaces, and I opened and marked the small blisters. And there were a lot. By the evening starboard was done, and port was started.
 
 ![Hull side with ground-out blisters](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuLJoUbJcM61fA4SLIhZ8e1GXii4RulL50ya8tE7bpMwEem5IOm-uHYYxZfLOh7yrKZA9vDCO5gq7LDbHlwNjT89usBo6QoeIPBJlGwqh9WhWiItcnUEqhDB_XrzZ52ml_kammmNCcjUeqfnyetXK3STg5ShqL1Y3kiX1Fi5BnnScFvGDRd8kbaPMGXhPl/s1600/IMG_0249.HEIC)
 ![Vira from the bow, blisters ground out](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVSmwkkeO0s4T61kVCCSs0zZEzZLYLh3-JOZ91TftAN6zvUroYL208HW7zrK2j26wx6-g5Xjm-dfwYlEjZsKG2r-xHDNCEQFr25_m8qu1xpHmi0ggnOoM1D_p_FEp9eGPGJ-lYbNauRxWJmNwx8O_VighhV_PfY4_wtHWKmTJhi6LD0nHlcFWJ6i6zC3j/s1600/IMG_0250.HEIC)
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-Lots of small voids in the gelcoat. Not all of them real blisters, but better to patch them. Lots of dust, lots of work.
+Lots of small voids in the gelcoat. Not all of them were real blisters, but it's better to patch them. Lots of dust, lots of work.
 
 ![Vira on stands, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJZdqRenfQCeD4f9BdsbzOqg4qj9nTyQXZoLg8t14bcyFRdzrimORcCXFPHdVYfN-OJgCK_miWihYjxdFGZQzKXtLJY-u4iJDyUdPxlLR4PCQbGei6knF0_tj1FCVSidpShY5h_A4HD44_rETGu9JL0mk19GXxHYNAXZ1mAzAe7G09Yl2PMON3H0y90gWm/s1600/IMG_0258.HEIC)
 ![Vira on stands, starboard side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKYVuT8PsCx5XXSmuNMmevpGZhGHg9Yli6AxEx_Q7VvGK_c0ViOVB6hzRxDZ9upwItY8UebNykk6_s2PM3MmZs1C9TiBw0Zlg33_6b1ZbBIQQs8WxzbxWpZmZiHN_slgGWI033mEwa5z0d26qH-Ot8_-MHNGxebDYZ3dVd-IhYgDMkyLKhx7PQdDZpGntl/s1600/IMG_0259.HEIC)
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-The hole at the waterline: 4 + 2 layers of 1708 to start, in epoxy, small pieces to big to build thickness. The hull is about 7 mm there, so six layers of 1708 (1.17 mm each) should be OK. I know I should follow the original layup, but the boat is 50 years old, the company is gone, nobody knows exactly how it was built, and at first look it's mostly chopper gun with one heavy mat inside. The shallow damage next to it got only two layers.
+The hole at the waterline got 4 + 2 layers of 1708 to start, in epoxy, small pieces to big to build thickness. The hull is about 7 mm there, so six layers of 1708 (1.17 mm each) should be OK. I know I should follow the original layup, but the boat is 50 years old, the company is gone, nobody knows exactly how it was built, and at first look it's mostly chopper gun with one heavy mat inside. The shallow damage next to it got only two layers.
 
-The deep blisters got 1–2 layers of 1708 (I'm lazy). Anything no deeper than the gelcoat just got TotalFair epoxy putty. First round of putty and glass done on starboard.
+The deep blisters got 1–2 layers of 1708 (I'm lazy). Anything no deeper than the gelcoat just got TotalFair epoxy putty. The first round of putty and glass was done on starboard.
 
 ![Glassed hole at the waterline](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfjFf8W02Nbt9Fz1z3Ap7pBf3uPfAHAhgyCdmW0xbdOnpF3k1mFsHxFa_9pz02Cm-92VPrHIwerjqeis8X0_6onKff8O_CoWXepckV8GJxVTK9v99QO074hfbY197-EaOyvUfZqiXa7CSUwz_lxkluUa8bDA1m8u_VE-ugJJ-EYwdexn8tfcu4RDgr0xj/s1600/IMG_0277.HEIC)
 ![Strut area with patches and putty](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoKviDXTc-wylmLQ88yHPll2uOKHljAgvzNtjO50LQ1jxM2ihPFo6HxNhyphenhyphenb0lPlogVKz1Xb2TI5zxctV8jQdDwlaQ2lw_r6ETA1uWjCxNZY4WAEIS7a7NBajLIm0K2_sOYY68hBB2BQj4CyODw2LySpFu8_4jhiIVgJb5R2TUP_tj6BJ6OWPNlSpsKpnDy/s1600/IMG_0278.HEIC)
@@ -191,7 +190,7 @@ The deep blisters got 1–2 layers of 1708 (I'm lazy). Anything no deeper than t
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-Lots of sanding, especially the glassed damage. Seven layers was a bit too much, and I had to grind off about 1.5 mm of solid glass over a square foot.
+Then lots of sanding, especially on the glassed damage. Seven layers was a bit too much, and I had to grind off about 1.5 mm of solid glass over a square foot.
 
 ![Big waterline patch, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq7GJaFqyVXWFKLTDbt5yob5J5W_POT1XXpGef0BUJnLAMYeEOjWi7ZGrV7VBBFWOQNfGewB3sinhxHxvbKBGj5FhMpUZqDM-AJxd_8ZyX5N09ovTRZENyIAxE9DXMJdBa9hX5rOGYgxtlMROWc_GqD3miQiX1FlEDJIXHWz16rCYO1o1Nbktmul-EXcs6/s1600/IMG_0284.HEIC)
 ![Strut area with fairing patches](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY1YTMf5cpTdnwJo17hTPcBKgsM9ANdEKI6r1KFGHhWEwMXfD5LRh-M4_hsGADruQdfESgdCvIC3cyL13WpMOnkYSifucFjPitxTblnGcexzIFpSbDM-A1VHyE1T9eWs9LIcS4mctoU7NjAfVso17Cz_NiCccM0jC9gygJzM3a9QgQfGJg43QOrwQ6Bduh/s1600/IMG_0285.HEIC)
@@ -207,7 +206,7 @@ Sanding, a lot of sanding. Patching, sanding, patching. One more day, one more g
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-The old one-part paint patches on the topsides had to come off. First I tried TotalBoat TotalStrip. It works, but strangely: it only bubbles the paint at the edges of the painted area. My two theories: the paint cured really hard over the years, or they used a one-part primer under a two-part paint. Maria applied it, cleaned an inch or two around the edge, applied again, and repeated. Hard and slow, for an area about 30 by 60 inches. So I switched to sanding and used the stripper only to check the area was really clean.
+The old one-part paint patches on the topsides had to come off. First I tried TotalBoat TotalStrip. It works, but strangely: it only bubbles the paint at the edges of the painted area. My two theories: the paint had cured really hard over the years, or they used a one-part primer under a two-part paint. Maria applied it, cleaned an inch or two around the edge, applied it again, and repeated. Hard and slow, for an area of about 30 by 60 inches. So I switched to sanding and used the stripper only to check that the area was really clean.
 
 ![Bow with sanded topsides](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaekHKyjxGnxIhQEj7SLk24sn5lBtwuMOFis4-HiBBcJiBPRfndSOjg7YKJ2-mRi4a7ZDFolRuY7HVOqUJzq-9UeepcxRH2-cAdYNDHik-uZZCFbnZdPbfK3BcPAa1JCLoFo33JJ1VAwTyanDjvB7AqELwjBBHQiV17YREaISiMK9eKLFREY3rOFB9JeP5/s1600/IMG_0386.HEIC)
 
@@ -215,11 +214,11 @@ Diary: [8 Dec 2025](https://irwin34.blogspot.com/2025/12/day-233-234-boatyard-to
 
 ## Out with the old thru-hulls
 
-The original thru-hulls are 50-year-old bronze with gate valves, so new Marelon ball seacocks were going in. I also split the cockpit drains into two separate thru-hulls, with no more long hose.
+The original thru-hulls were 50-year-old bronze with gate valves, so new Marelon ball seacocks were going in. I also split the cockpit drains into two separate thru-hulls, with no more long hose.
 
-Step 1: take out the old ones. About three hours solving the puzzle of what order to take the plumbing apart in, then fighting with old threads.
+Step 1: take out the old ones. About three hours went into solving the puzzle of what order to take the plumbing apart in, then fighting with old threads.
 
-Step 2: glass over the old holes. Four layers of 1708 from outside today, more tomorrow.
+Step 2: glass over the old holes. Four layers of 1708 from outside the first day, more the next.
 
 ![Old seacocks in the bilge locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ2Udb27RYom49IKlPDMcaodFXkKZgoPoCy4ea4xb0CbkFGKHO3vXP11dxBwBCfPfEbtPyQppozuvgv616du2YoWUzAKwGFpqQ_uwaLuSRNhQ5Qq3rnEtpAxYHqSynv_6-yPa-w3OI8K5lgPYfLT3hE_sXq96TDco3VACeD4tyIp4waf8SGXRAyNNcKghL/s1600/IMG_4370.HEIC)
 ![Old seacock holes after removal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigtsmm0FJPUeUb30QMqW04fnFioRtXHzpupS3nzwH3jZdMOz5AtHMfDG913zcfDzSs0f-wdUS4vdigxFtoogvjzERpGDNOmXz_jY-N7QI92JRcQQANcViUMVEad8TATjl7JeR7FHsOpB1Sv2SYAjJmD71eNEUb_aMOaEINIeihVLHXmZK14s38Jj04TuDi/s1600/IMG_0327.HEIC)
@@ -227,13 +226,13 @@ Step 2: glass over the old holes. Four layers of 1708 from outside today, more t
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-Three more layers from outside and three from inside.
+Then three more layers from outside and three from inside.
 
 ![Old thru-hull holes glassed, another view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKDFOgmCcItqWLhuYj9efVgviGFVx29OSuVb6BCKT6gez0WDvtDLVbn0JMRrEQ1x9JG8jnIQ7Ep2XJKY08m3nqsgi0k_ETN2DQb8mEBne6nqiMo0m0BDHWzqlsOpHGftz0NYXHUnt-TTpNxYyv7lbUh8aYgdqrOEuAMhBR4GWJ6I7qSgUZw0z8LX2TZves/s1600/IMG_0355.HEIC)
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-Vic started the first sanding pass on the topsides and took off the decorative stripes and the decals. We found a 10–15 square-foot area on starboard plus the transom that had been repainted with one-part paint, so it had to be sanded off or stripped before any two-part primer. And I tried to pull the prop with a clamp. No luck; I need to make a puller.
+Vic started the first sanding pass on the topsides and took off the decorative stripes and the decals. We found a 10–15 square-foot area on starboard, plus the transom, that had been repainted with one-part paint, so it had to be sanded off or stripped before any two-part primer. And I tried to pull the prop with a clamp. No luck; I need to make a puller.
 
 ![Hull sanded, stern view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3qSK1FBbhpSzu__VtIQLLpqXAgXCXV_4_JdD6vSKyKD2x4gB58cEHn0JpgO5eBjzbJy2xKMbXjJn9Gu2808zIlJ2_G375XawXk1RBxKrPvg8rF9BNcH-_4HhAXw6AHVlIwUaESgZIPEa3NWNnO78NHhkeMuOP33bd5KXWaI0SnV7wC39PCyD7ZccH6Fe/s1600/IMG_0331.HEIC)
 ![Bow and side sanded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9-0UrV7KX9ySzW10hM0Zzz1cTFte6sV7xcFESwsCRDteuqVQ-4kTQMEH__0HJbafITJUfpQ6gekLy8Vzy42Xpp0XnlkbH-1mHi4OkE6_KKc0wdAOWiFt0Wclh7Y0YZkOtkH6L1lYx49FMME7N6bILbveqONZgnMqr9fBnQFgcaUksYDBjjmoB-brm55JF/s1600/IMG_0332.HEIC)
@@ -242,7 +241,7 @@ Vic started the first sanding pass on the topsides and took off the decorative s
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-More sanding and patching. Last pass on starboard and final-final on port. We moved the stands and cleaned the bottom under them, and found a relatively big, deep blister on starboard that needs glass. The bow got sanded to finish.
+More sanding and patching: the last pass on starboard, and the final-final one on port. We moved the stands and cleaned the bottom under them, and found a relatively big, deep blister on starboard that needed glass. The bow got sanded to finish.
 
 ![Bottom with fairing compound patches](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVji_S18RYPMmxW99eetlQcICX1DcdlC80SG9fSxoDOy8dFUwUCm-9XtMbFKKTwjzQrnKNmdZIvhLRE9QidQ5mSMSzQa9zt6DbQ6VuBla4IdxUzBd3u0TDeVax9QAec1l5kSIxTzx38_oshtUfG8qaBTxJdjkiYBNGgkvaSfWcbR0VUfJPwPmFN-IsvQT6/s1600/IMG_0352.HEIC)
 ![Bottom patches, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQepKgbc2PaOHW2Ms3RShQa53rpsA-vlrYBPX0CU_JKR30WJZb24hGgOnkS7i13os7Sc14OonAUL-bnvTrjmEABCUZRwZyOSpgeyWuCT6xZi5NeUmWvqQA-0bZ_JyLpMQduQQqgxeEwE0ZF7A2iXcvt6zWu6j_SUyGfPvmwoPDQrpTD8S0hybjHhDdu8GE/s1600/IMG_0353.HEIC)
@@ -255,7 +254,7 @@ Diary: [8 Dec 2025](https://irwin34.blogspot.com/2025/12/day-233-234-boatyard-to
 
 ## Topsides, guide coat and one more giant blister
 
-Guide coat, then Vic hand-sanded with a long board. Not bad in general, but the area someone patched before I bought her is pretty bumpy. I sanded the lows on port and put on fairing compound.
+Guide coat, then Vic hand-sanded with a long board. Not bad in general, but the area someone had patched before I bought her is pretty bumpy. I sanded the lows on port and put on fairing compound.
 
 The transom: all the "toys" off, the one-part paint removed, and the whole surface sanded flat. Four holes from mounts I couldn't find a reason for were glassed over, plus two spots where the swim ladder hits the transom and the area around the LPG locker vents.
 
@@ -266,15 +265,15 @@ The transom: all the "toys" off, the one-part paint removed, and the whole surfa
 
 Diary: [15 Dec 2025](https://irwin34.blogspot.com/2025/12/day-235-236-thru-hulls-topsides-one.html)
 
-Looking over the barrier coat, I saw small "drips" where the hull was "crying", right next to a stand pad. I opened that blister, and it turned into about a square foot, 3–4 mm deep. Cleaned it, force-dried it and glassed it over with three layers of 1708.
+Looking over the barrier coat, I saw small "drips" where the hull was "crying", right next to a stand pad. I opened that blister, and it turned into about a square foot, 3–4 mm deep. I cleaned it, force-dried it and glassed it over with three layers of 1708.
 
 ![Big blister opened by the stand pad](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhquSt7l6H0skCKWqZJ-OSMcV773ahqkKxF5u8tLGwvnDv0rWCUUg2Fk7uDO2fIAnp8TnjKJI-p-GPbusDCSq5mHuqdpOnILdVU9is_GIQtnURzrrJtDF6bmLu6K0zjttaQ1OIN0eR1ueW15LP9hfjKJSiJBa1aBX-bKEVHmKFbsMapwbDIFlpczZdQU6qn/s1600/IMG_0412.HEIC)
 
 Diary: [15 Dec 2025](https://irwin34.blogspot.com/2025/12/day-235-236-thru-hulls-topsides-one.html)
 
-I finally decided on two separate hoses for the cockpit drains, crossed: starboard drain to the port thru-hull and port to starboard. Crossed hoses get a bit in the way of reaching the steering, but the thru-hulls have ball valves, so I can take the hoses off if I really need to.
+I finally decided on two separate hoses for the cockpit drains, crossed: the starboard drain to the port thru-hull, and port to starboard. Crossed hoses get a bit in the way of reaching the steering, but the thru-hulls have ball valves, so I can take the hoses off if I really need to.
 
-I made backing plates on my CNC. All the holes drilled, then 10 mm G10 backing plates set in West System thickened with 404 and 403 fibers. Next, glassing them in.
+I made backing plates on my CNC. All the holes were drilled, then the 10 mm G10 backing plates were set in West System thickened with 404 and 403 fibers. Next, glassing them in.
 
 ![CNC-cut G10 backing plates](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicCX0F3OE6b6Ud1OcVGXrrGHffLTUg-SqZopPjjMCUHzt-hmWt56b-azkNZmMGIPjcvv-W5PP_b3RRdcIXz58MhY8yVXteL3frU_yTAaQq6ogk9sgIK08EuOtiRC1AgUMivYvcLlu2n7-stjhve6d3jNLloLRC5EAYnbhccgH4gxmtgtHH5mGE-BTgE19r/s1600/IMG_0374.HEIC)
 
@@ -289,7 +288,7 @@ Diary: [15 Dec 2025](https://irwin34.blogspot.com/2025/12/day-235-236-thru-hulls
 
 ## The week before Christmas
 
-December 20: sanding the fairing on the topsides, lots of sanding, all the guide coat gone. I mixed another coat of barrier coat, then realized we needed to sand the whole bottom first, so that moved. The second coat went on later. Maria tried on the paint hood. WAY too small.
+December 20: sanding the fairing on the topsides. Lots of sanding, until all the guide coat was gone. I mixed another coat of barrier coat, then realized we needed to sand the whole bottom first, so that moved; the second coat went on later. Maria tried on the paint hood. WAY too small.
 
 ![Topsides faired, bow view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCDejDdj6T292Phk7G2PcIbVxbkCU-y4df_fu001_InxZk4GdUV4MIgMpBs-z11WcATt3Sv5IrOFcYPfuHoR6jR0DIA-vS1S46cXc6ZD1dQ_k1jVHN7C2mCzsdi8nGXtZev-8WVuXD9ldir21E6bVNoWq0Z8m4b4ChZD0P9xQ12b4BbhxEk_DbK7PaTp5w/s1600/IMG_0372.HEIC)
 ![Topsides faired, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5uR0rBtH7ml5Di6pWbyqm0Ggt0i_1M7b2zCn2zVIXgtSBYrFc1me8HanQ-ADHk3jJtiEfBQ94lv1zfhl4KSJ7ibOniznHX8m5Ogel8NVLpttNTjat0vGtxQHA5_oGLiFmLiCn2U_hzuBNw_8HTEJJmeV13BkH1rlTNbuRvg2Mvk6HqQg7cCmtPdj0UCgj/s1600/IMG_0373.HEIC)
@@ -317,9 +316,9 @@ Then we sanded the barrier coat between coats. It was warm and we weren't sandin
 
 Diary: [28 Dec 2025](https://irwin34.blogspot.com/2025/12/days.html)
 
-December 22, the third coat of primer. Me and my wife Maria.
+December 22: the third coat of primer. Me and my wife Maria.
 
-Then the cutless bearing. A poor man's puller: a piece of 1/2-inch pipe fitting, a long bolt and some washers. Works excellent. DON'T FORGET TO UNDO THE SET SCREWS. Old one out, new one pushed in, almost there. The cutless bearing for an Irwin 34 '78. Day over, time to go home. The fishing boat docks next to the yard.
+Then the cutless bearing. A poor man's puller: a piece of 1/2-inch pipe fitting, a long bolt and some washers. Works excellently. DON'T FORGET TO UNDO THE SET SCREWS. The old one out, the new one pushed in, almost there. Here's the cutless bearing for an Irwin 34 '78. The day was over, time to go home. And the fishing boat docks next to the yard.
 
 ![Vira with primer on the topsides](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic59PE6J9zCGFPKNEyhVqsBdmTK9dG4UPFy8VQGV2gwJKNQcoJgrKEGAMwhZrRYXLthbbC4OIYJZp_oqu2lbSACNR2mcf278nDhnQUyza7bxP1ObEaDB-xJzlrFW_afLtcLER9nAC3OS274kigRV28g5_Zg8ao_YgkZshHxP01IozUytmOrvQAqDmER0RV/s1600/IMG_0453.HEIC)
 ![Viktor and Maria by the boat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipyB3lL_tmftMZwN_z5Jdln4SPnlS4FfT3QHCpoakwhJudozbK2Jsw5hBwsbtQ3Va6OKK1u2K0j6nfZfIMcKR-nQmFxQVHxDzcMKIlBNgiHL14NjzgnQ3KHc3IMmLTlJ_az3mS2wkyta_1UDcDpV7Nrcj2msSeHID7WL9dmRhPht3RNpU54M2kUtahyphenhyphenLg7/s1600/IMG_0450.HEIC)
@@ -334,7 +333,7 @@ Then the cutless bearing. A poor man's puller: a piece of 1/2-inch pipe fitting,
 
 Diary: [28 Dec 2025](https://irwin34.blogspot.com/2025/12/days.html)
 
-December 23: glassing the thru-hull backing plates, redoing a bulkhead's tabbing, and the HVAC raw water pump. I dry fit the pump as compact as possible. For the bulkhead tabbing I filled the gap between the liner, the bulkhead and the hull with foam to support the glass, then four layers of 1708 on epoxy. The HVAC thru-hull backing plate and the strainer mount got glassed in. A new 100 Ah LiFePO4 battery replaced the old lead one. Final-final fairing on the topsides, and the strut bolt holes closed with PVC plugs and puttied.
+December 23: glassing the thru-hull backing plates, redoing a bulkhead's tabbing, and the HVAC raw water pump. I dry-fit the pump as compactly as possible. For the bulkhead tabbing I filled the gap between the liner, the bulkhead and the hull with foam to support the glass, then put four layers of 1708 on epoxy. The HVAC thru-hull backing plate and the strainer mount got glassed in. A new 100 Ah LiFePO4 battery replaced the old lead one. Final-final fairing on the topsides, and the strut bolt holes closed with PVC plugs and puttied.
 
 ![Raw water pump and strainer for the AC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ7FfxRg2bvfSfo1nQXihyphenhyphenLZv6seWdHfEySmQmPs6emKSUTQyzYa-6C7FYlp9CwPcOx_ialS81i3iZvt0zsA9CKtWN0_gje35YblUmuLMjURlWcpeTBuSwZSUXHPhGV3uCqoZCUXi1dWA_FqKCrBV0iVYglK446xwEvsNzIhCp6ppBAqWc8kdr2RRyVltN/s1600/IMG_0476.HEIC)
 ![Foam between the liner and the hull](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqlcCopqgCwUmgeKJksoTf-G_laCQiH9sUKRNZD3T1ZD49KGdSQcOSLl5I9BM6NsdE_-VqRg9PQQ3_-him8Biw1NKIxTHmzpUV8PQ1UBKunY1G2_sqUyxFfazDThTn9ndqD0N5Qgsqb05lPyEgIRRLreSe9ITOGuIJtbW200KS5D2CJidhK1jBzOcb3qgo/s1600/IMG_0474.HEIC)
@@ -347,7 +346,7 @@ December 23: glassing the thru-hull backing plates, redoing a bulkhead's tabbing
 
 Diary: [28 Dec 2025](https://irwin34.blogspot.com/2025/12/days.html)
 
-December 26, final prep. December 27, the first coat of topside paint. A LOT of cleaning first: scuff with 320, wash with soap, rinse with clean water, dry, wipe twice with alcohol, then tack cloth. AND THEN paint.
+December 26: final prep. December 27: the first coat of topside paint. A LOT of cleaning first: scuff with 320, wash with soap, rinse with clean water, dry, wipe twice with alcohol, then a tack cloth. AND THEN paint.
 
 ![Maria wiping the hull before paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Ibdh1ouperZVHDSWwG82ojyIeG_HAr3qYx5ROpYZKfvvg_3hNYKYiRL2sVNz881zz05bUAL4pwNJWQmVGa29MFiSpq9S2pSrSTshHNPnFhk-f1YOrQYWS6LI-GQmSqlPmiOs3SOceU95_3y9XXQ6EjRzyM6SkEBcBH-LvTxS9iMIFjeUOkKVTxD_1JaX/s1600/IMG_0417.HEIC)
 ![Viktor preparing the topsides](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNCw2Qfo_SegQamouBQPR4_Cjy8FQot8j4OCTnodi1HPS7rD2t2ol6r5sSPGUT6AE5Ucd0ZaY8frAx1CifgDxl-UzYwB_R5N8kE3dFRa4d2GyM5c-J5uSSZHhaeTZqgjroPGorb6SeNBscYWjBBgBlkPoswHL6WFsI0cy1NbrYzp7NOutAi7HMdYL3U6kk/s1600/IMG_0513.HEIC)
@@ -360,11 +359,11 @@ Diary: [28 Dec 2025](https://irwin34.blogspot.com/2025/12/days.html)
 
 ## The paint that went dull
 
-December 28, the second coat of topsides and the first coat of bottom paint. Overnight, spider webs all over the yard.
+December 28: the second coat on the topsides and the first coat of bottom paint. Overnight, spider webs all over the yard.
 
-In the morning, a surprise: the transom was completely flat, not glossy, and full of runs, and starboard had two big flat spots from condensation. Lots of air bubbles in the first coat too. But overall still better than the night before. We decided to put on at least one coat of bottom paint, so we sanded the bottom too. Light sanding of the bad spots on top, and the whole wash cycle again: soap, water, alcohol, tack cloth.
+In the morning, a surprise: the transom was completely flat, not glossy, and full of runs, and starboard had two big flat spots from condensation. Lots of air bubbles in the first coat too. But overall it was still better than the night before. We decided to put on at least one coat of bottom paint, so we sanded the bottom too. Light sanding of the bad spots on top, and the whole wash cycle again: soap, water, alcohol, tack cloth.
 
-First coat of TotalBoat Spartan on the bottom. Only one, because we ran out of rollers.
+The first coat of TotalBoat Spartan went on the bottom. Only one, because we ran out of rollers.
 
 Update: the painting was NOT a success. The humidity jumped around 8 PM, six hours after we painted, and the gloss went spotty. Next weekend, a third coat, but this time with a tent and a big heater to stop the condensation.
 
@@ -381,13 +380,13 @@ Diary: [28 Dec 2025](https://irwin34.blogspot.com/2025/12/days.html)
 
 It was heartbreaking. The first two coats had looked absolutely cool, and then all that work (and money) on the topsides came out very poor.
 
-I know Alexseal Topcoat 501 is humidity sensitive. But Interlux Perfection is too, and that went well, so I figured if I gave the paint a full 12 hours at 25 °C and about 70% humidity, it would be dry enough to handle the morning dew and fog. NO. The "morning dew" came Sunday evening, and fog covered the yard all night. The paint couldn't dry enough, and about 30% of the surface went from high gloss to dull matte.
+I know Alexseal Topcoat 501 is humidity sensitive. But Interlux Perfection is too, and that went well, so I figured that if I gave the paint a full 12 hours at 25 °C and about 70% humidity, it would be dry enough to handle the morning dew and fog. NO. The "morning dew" came Sunday evening, and fog covered the yard all night. The paint couldn't dry enough, and about 30% of the surface went from high gloss to dull matte.
 
 ![Maria polishing the hull](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5mNY6Jiy7gh-U40BpqMFEPR1tBLioG93NbW5H9GOH0oV-Z52vyBnFeiZpsKxn1Yrl4GOimCpVhrXBYEdIvmvgyPgT843LrDnzVaY46mAargyR1XRLqfr9ei8alU8Et6JhGmw9ofakjP0OA68dbiviNeW4qMEREEm5ZfdQ0NPwRTynxx3wUB-MsNwpKR7Y/s1600/IMG_0573.HEIC)
 
 Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-paint-done-you.html)
 
-So I changed strategy. We sanded and washed the previous coat the day before, and on Saturday morning, as soon as the dew dried, wiped with IPA and a tack cloth and started painting. Happy faces after the third coat. We finished about 11 AM instead of 2–3 PM, so we gained four hours. But even that wasn't enough to dry.
+So I changed strategy. We sanded and washed the previous coat the day before, and on Saturday morning, as soon as the dew dried, wiped with IPA and a tack cloth and started painting. Happy faces after the third coat. We finished at about 11 AM instead of 2–3 PM, so we gained four hours. But even that wasn't enough to dry.
 
 The datasheet says that without accelerator the paint is "tape dry" in 24 hours at 25 °C, 30 hours at 20 °C, and fully cured in 14–18 days. After two failures I trust those numbers. But it says nothing about when it can handle getting wet. Waiting 14 days in a controlled environment isn't practical, so I decided to at least keep condensation off it through the tape-dry period.
 
@@ -397,9 +396,9 @@ Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-p
 
 ## A tent the size of a small hangar
 
-Remember, it's winter near Houston in an open boatyard. 15–25 °C and 85% humidity in the day, 10–15 °C and 100% at night, heavy fog almost every morning and soaking dew overnight.
+Remember, it's winter near Houston, in an open boatyard: 15–25 °C and 85% humidity in the day, 10–15 °C and 100% at night, heavy fog almost every morning and soaking dew overnight.
 
-So I built a tent and heated it with a big 75,000 BTU kerosene blower. Simple to say, a tent for a 34-foot boat. It comes out the size of a small hangar, like 40 x 25 feet and 16 feet tall, with at least three sides and a roof. It also had to go up fast (under 2 hours), be light, easy to buy and dirt cheap (one-time use), handle 10 knots of wind (the forecast), go up over a freshly painted boat without touching the sides, and be put up and taken down by two people.
+So I built a tent and heated it with a big 75,000 BTU kerosene blower. It's simple to say "a tent for a 34-foot boat". It comes out the size of a small hangar, like 40 x 25 feet and 16 feet tall, with at least three sides and a roof. It also had to go up fast (under 2 hours), be light, easy to buy and dirt cheap (one-time use), handle 10 knots of wind (the forecast), go up over a freshly painted boat without touching the sides, and be put up and taken down by two people.
 
 I did it. The shopping list:
 
@@ -409,7 +408,7 @@ I did it. The shopping list:
 - 4 tarps, 29 x 39 feet, for the sides. 1 tarp, 20 x 18 feet, for the back wall. 1 tarp, 10 x 8 feet, as a skirt at the front to keep the hot air in (all returnable).
 - Zip-ties, masking tape so the joints don't slide, a couple of rolls of rope.
 
-Most of it can be "rented" from the store and returned, since nothing wears out. The heater I rented from Home Depot for $27 a day, and it burned 15 gallons of kerosene overnight, three 5-gallon cans at $35 each. Building it took a little over 2 hours.
+Most of it can be "rented" from the store and returned, since nothing wears out. I rented the heater from Home Depot for $27 a day, and it burned 15 gallons of kerosene overnight: three 5-gallon cans at $35 each. Building the tent took a little over 2 hours.
 
 ![Camera view: building the tent](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_zrLW-vsOKFfSsUAMPnaV3ncit07KdWZR_vBOKlzNa48iYAExWyD_i0P0XWwz4njigR32KeavPs0uDft2Rr4GuVqI61iFPqeZqe9bxyduESl3VU9VcQmJAORPoKSx6RHt77JjaLxAWaJFidvMjT10TQQhofbpQaCVxk_vPdvQ_US6ZTAoVKy0vFyCxJB/s1600/IMG_0616.PNG)
 ![Camera view: tent arches going up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmgjwqKqacgicsqhJVu3qTCutE_R2HS4cJcThGVOibTaVHTQhg39CpxGCmFWz5kce5V4rCll8l53bbwzm_1QFcL5MllIWQR1b7v5idW0lUZ1kQ9auGxUprn7Jv4tFQ1MqmTVD8fkGgK-fI8NyPDnU_oOIghEsQdIsblN6FxljE-_GCmC3R3vPrZEdBNzMR/s1600/IMG_0617.PNG)
@@ -420,9 +419,9 @@ Most of it can be "rented" from the store and returned, since nothing wears out.
 
 Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-paint-done-you.html)
 
-Vic tying the tarp to the mast. A tent the size of a small house. Only the last two arches are pinned to the ground. The middle ones are just zip-tied to the tarp, and the tarp holds them in place lengthwise. To keep it from flying away I bought the tarps oversized, so the extra makes "ears" on the ground weighed down with heavy wood blocks (the yard has them everywhere) and my toolboxes.
+Here's Vic tying the tarp to the mast. A tent the size of a small house. Only the last two arches are pinned to the ground. The middle ones are just zip-tied to the tarp, and the tarp holds them in place lengthwise. To keep it from flying away, I bought the tarps oversized, so the extra makes "ears" on the ground, weighed down with heavy wood blocks (the yard has them everywhere) and my toolboxes.
 
-About 10 PM it dropped to 15 °C outside and the wind came up to about 10 knots, and I saw the heater couldn't hold 20 °C with only three sides closed. So I went to the store for one more tarp.
+At about 10 PM it dropped to 15 °C outside, and the wind came up to about 10 knots, and I saw that the heater couldn't hold 20 °C with only three sides closed. So I went to the store for one more tarp.
 
 ![Vic on the mast tying the tarp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLN1TG9gMMb_Skj6dYFhKbRd-l3wxp7EIE9U5dlneXROeorn1OvjTnXmj6yfBAuZJLE6G8USj_elTg8PkKp0hfyLRfS2kbt9D83vcOLl_PPhX2_nmGU1_TEQpmH8qy-FWP4ivFxjGmYUN4wbkR_fo2Tge7LBXPMvQ7OtqdfHoDTKIcxfPhiiPI9oT9HF6Q/s1600/IMG_0575.HEIC)
 ![Tent the size of a small house](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjx19skX_RurKgAD1u8KRhS4CCirpiqGTeODqBvc7o58ZvCrpEsn_PL-w2-cx_TOBgx1IZkBBCGVtlT1kgl6zaMM1wrsrroInKu6K5qZ0lzrV5di-coHLQd9BlN-iq7M3warBA2vUtThzfg4Th_Gs7vF0KIXGiwggI3pohb_4H6JaVPQc3k9a2ymnc3TWt/s1600/IMG_0580.HEIC)
@@ -430,16 +429,16 @@ About 10 PM it dropped to 15 °C outside and the wind came up to about 10 knots,
 
 Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-paint-done-you.html)
 
-I didn't put the heater inside. It "shoots" air in from outside, and I left the mouth open. Several reasons: if the heater catches fire, the tent and boat don't catch right away. The exhaust is really hot, and there's no point testing what the boat can take. And most important: burning kerosene makes water as well as CO2, and in a closed space that pushes the humidity up. Mixing the heater output with cold outside air, which holds less water, keeps the humidity under control.
+I didn't put the heater inside. It "shoots" air in from outside, and I left the tent mouth open around it. There were several reasons. If the heater catches fire, the tent and the boat don't catch right away. The exhaust is really hot, and there's no point testing what the boat can take. And most important: burning kerosene makes water as well as CO2, and in a closed space that pushes the humidity up. Mixing the heater output with cold outside air, which holds less water, keeps the humidity under control.
 
-At the coldest moment, 4:22 AM, it was about 14 °C outside with condensation everywhere, and inside the tent I held almost 20 °C and 60% humidity. Morning brought good news: the paint survived the first night without damage!
+At the coldest moment, 4:22 AM, it was about 14 °C outside, with condensation everywhere, and inside the tent I held almost 20 °C and 60% humidity. The morning brought good news: the paint had survived the first night without damage!
 
 ![Tent at night from the front](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2cRtBzTeegHw4V3AoTxMBtbhumWdRgDsPiYYvmebHWDPIL35_3pil2Xo5p6xf1A5dLi2KNd-DAkxn3tm2Eqg39qSRGZIt0r5QcwGN5nQom_SMcwhwTzZdFHDcH_B6dLlfUWDVIuqNmhfMswVqiEulpju3QWOkKSYvan3JXXabloyuWI0IIUyNQKPoCoaV/s1600/IMG_0588.HEIC)
 ![Thermometer at 4:22 AM: 19.8 °C and 60%](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwBDP-5N2Ystjq_rWDuoD4XJFKY4VnHFYtX9HqF0ucmm2HZuY8TIC7K9J6wSF-MT_kgp1BUiOz127QKyubHMKz9fMf2HohlhdaTRTA_sYIPh_yIS1qqQm8B5nNumk6-6RYI4i5TDS7WYrb6GQO3gmv_tUGh-hqrjDvcgwX0Fsi8NpVtlNl9sYtqGGIx9rB/s1600/IMG_0589.PNG)
 
 Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-paint-done-you.html)
 
-The next night was foggy with lots of condensation, but the paint was dry by then and nothing happened. SUCCESS CONFIRMED.
+The next night was foggy, with lots of condensation, but by then the paint was dry, and nothing happened. SUCCESS CONFIRMED.
 
 ![Paint survived the night under the tent](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvoNkpjMyRCE5HsEe1VzQnwwop-ZHe_NmblVRyRjQJ2ZBviu1KScbBz6kqy7X9TjvBHubmLJnCpKCKd0tscq1CezGQRomfpotGex1OeRFyvVB1Yf2xAVShyphenhyphenmN2T5n0zWbrJ1A5ARXJSS6nzBGekjDlRu7fFudQujCKtT_mf-oThkhJaVP6jsQjnhM4Vbd/s1600/IMG_0591.HEIC)
 ![Topsides glossy after the tent](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgh19ag6IykztOjEfiVI6uHpiKrB7HnCJf2URgH752BIlyKrI7rZnCiy4IiknWB_vcP7_v5YjQI4UilHGvjTXLNJ44crKEkE64XdYba3sBtwexzdV9mmhs0F8StuOEsRQyu8ioaAgpRiVgVUNyFRU7UU7oM-lvS2T4ZfXF63yce2NHCe_gUW7-uP8LgyVr/s1600/IMG_0593.HEIC)
@@ -453,13 +452,13 @@ Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-p
 
 Meanwhile we put on the second and third coats of bottom paint. Nothing to photograph. Only one lesson: the Irwin 34 takes about a gallon of TotalBoat Spartan per coat with a 3/16 roller.
 
-The rudder: the stock cleaned and polished. I opened the skin and checked the foam. No water, no moisture, and the metal inside is fine. There were small cracks in the glass around the stock, so I Dremeled out about 1/4 inch around and 1/4 inch deep and filled it with West System and 403 and 404 fillers, to seal and grip the stock.
+The rudder: the stock was cleaned and polished. I opened the skin and checked the foam: no water, no moisture, and the metal inside is fine. There were small cracks in the glass around the stock, so I Dremeled out about 1/4 inch around and 1/4 inch deep and filled it with West System and 403 and 404 fillers, to seal and grip the stock.
 
 ![Rudder cleaned and painted in the garage](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_52ap45mNxw18mhSFE6nQeN4hHnTl6h1xKhYG4mLu9T8IpbxkdfVu3PcrOlUBALsziC2wnQeZNeuii7y7OwmJWMCzCES2VhfHNfcMcfzlXJovTEQdsNsU3p0nQuv_69pkfXBJqaqGAKimyr8-3SlUQJpMdMcUWwSME1zb2XIopwnqfccluOFalRxytiM/s1600/IMG_0571.HEIC)
 
 Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-paint-done-you.html)
 
-Then a weekend of putting things back. The rudder went in with new packing, and the quadrant, autopilot arm and rudder sensor went back on. The strut was realigned with the shaft. The drive shaft, prop and dripless seal went in. Then the thru-hulls for the cockpit, engine, HVAC and HVAC discharge, with the cockpit drain hoses crossed, star to port and port to star. Yes, I still have 90° fittings there. There's just not much space on a 34-footer, and the water heater has to go where that black pad is. The HVAC strainer, pump, hoses and wiring went back, and the transom parts, swim ladder, nav light and chainplate.
+Then a weekend of putting things back. The rudder went in with new packing, and the quadrant, the autopilot arm and the rudder sensor went back on. The strut was realigned with the shaft. The drive shaft, the prop and the dripless seal went in. Then the thru-hulls for the cockpit, the engine, the HVAC and the HVAC discharge, with the cockpit drain hoses crossed, starboard to port and port to starboard. Yes, I still have 90° fittings there. There's just not much space on a 34-footer, and the water heater has to go where that black pad is. The HVAC strainer, pump, hoses and wiring went back, and so did the transom parts: the swim ladder, the nav light and the chainplate.
 
 ![Rudder back on the boat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1UA2Yhzh75ZlulKkVhQsWQJ7mtF13I_V_ReiSZiNgjgpHSgthZTjVAyGpz7C1OIgFqv12QPoqyE0jKnkCjD41kYvQvi8F-zBVGVfpJqj264TqLsdxSVCGL9xkhTtXHq44fy9f0IpzKyf0J0tOqQVNnK8Gwtm3V8w5l8-N0IasOOXIfFNEnJsrtbltdHWP/s1600/IMG_0637.HEIC)
 ![Engine room with the thru-hulls and hoses](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlOiw1YtLrlaSW3y7KywUGrEXlPNCG7_3V3goTd31xceyZ2LYQp_G15BacVlDMfd9I4V_q1Ld7crqKfsYr7QC_oo_b2TdMLC6Upfnbgg2s99ScWIu4FxQWXSiiYOyFCTcfbaduTYKNK04f1tdHeRqyBIznAT6G4o67WFXOz1p7frE36tAHngXMI4jG5XOD/s1600/IMG_0633.HEIC)
@@ -467,19 +466,19 @@ Then a weekend of putting things back. The rudder went in with new packing, and 
 
 Diary: [11 Jan 2026](https://irwin34.blogspot.com/2026/01/day-246-247-mast-drive-shaft-propeller.html)
 
-Waterline: masking tape, a light coat of the white topside paint along the edge to seal it, then the next day a coat of blue. Fingers crossed there's no bleed under the edge. One more coat next week.
+The waterline: masking tape, a light coat of the white topside paint along the edge to seal it, then, the next day, a coat of blue. Fingers crossed there's no bleed under the edge. One more coat next week.
 
 ![Vira with the waterline masked](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMx2K_-8FA7XtdBo8BVYf1EiBQIowNCI42iuVwZ3OHMZ8VJAfCjHu4sMDwcEVWbBgFfELujJuRnHi0ThrND-urPfiKXyGKb7ItRCKXMgT-JckPDZdrcds2mRlHdizVp6be9eHlmwVTVcGtmWyYHEqEjtJL3Ss2vOs-ndTV7_BHVUtRaJwWgbfej42aPTv/s1600/IMG_0649.HEIC)
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-The strut bolts tightened, the recesses plugged with PVC plates and patched with epoxy putty. A rough patch for now; glass and finish next weekend.
+The strut bolts were tightened, and the recesses plugged with PVC plates and patched with epoxy putty. A rough patch for now; glass and finish next weekend.
 
 ![Strut and keel with the bottom painted](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghedJQGfvlbfEB3msJrd1f-c_EVJVnu4x3a_mr4qkvFYOX3x71NXvWJNrc4i2p2NXM97j-BxIeBIVR6WbbODK8aPpttjkEf79wmEjsQEM8sCSo8pRVHKUjMPOJnwYRj2XSDCePL6RuBv_dXxLTvDIirCzyJf0oLZ5pkMeT8GsnJ8Ak98Vqd0xGl-ZIX9-Q/s1600/IMG_0655.HEIC)
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-Then a week of no work. The Texas ice storm.
+Then a week of no work: the Texas ice storm.
 
 ![Ice storm at home, snow on the yard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkMXPKhw6hRp2WrZh3ODVOnQL_idHAa7rQ1Qxf6iL0sW0kUEBjP4Szq29QrPMtu_ldn0bbC1tGxZREnMFH-QG6unqsSbXQM62pfRlwlhzuc8pC9vy18BMDw6TAXmeb4YyNufJbrgjAYT57lwcNsvxs7FkTrPx7JzHoLvY-G6sXhhGnfSyBurMsjD8zv_dU/s1600/IMG_0564.HEIC)
 ![Ice storm, roof covered with snow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27Hiy3qFWPgZNWvuznV8zvFCPc1ST3e0O7wQ5BZSywGeqx5BZAqp8HKxprjCMVnThmYZFojxNYbKEfDSy4-dzY7IAfc1Hf6uAdA73Spi81-GqjW_zYJKphX8vgRWk_fqj_LAhEBBY1LHQtm6au9p6UHx1PrgdMFp9ljjalZJLE33XuN3qI7Dg0FpaYfLb/s1600/IMG_0563.HEIC)
@@ -489,7 +488,7 @@ Diary: [25 Jan 2026](https://irwin34.blogspot.com/2026/01/day-boat-name-image-sp
 
 ## She got her name
 
-The boat name coming to reality, a simulation for now.
+The boat's name coming to reality, a simulation for now.
 
 ![VIRA HOUSTON, TX name design](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRFDsWkJsDU7rg3ZUGH-B8NnyTLD1odXcQiDlBezOAbNwatlT0C3ILpV2LsnH47o0nHrboSJwmaEKiI4gxegdTonGjqCjzk8tLigYze1IP8RsXyPC0ADL1weWEDaMzJV5a_vJzjOvxz1pE2FWIeW2E4KnF_gMzR9z8ncQnTMMYLLGIt3brO074PxN0umPp/s1600/Boat%20name%20image.jpg)
 ![Name mock-up on the bow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7wga3KOrFxOAmRsvOm7t8YaB8MLE8n9EG3mFpfM3lwLNH2LClOQ8q1xYTs0SoGEb0SNRNbNCVoPF0ITiEbQ3YWHYxtCa6UyLVxR-kNrA27wuW46fa82kxV0_rfqsbAY3SfNg8Wanr1yjjMalDQGmOku4V5yXZCxBwdees564i66q8GqxM3bl8kQjGa7Nq/s1600/Boat%20name%20side.jpg)
@@ -498,7 +497,7 @@ The boat name coming to reality, a simulation for now.
 
 Diary: [25 Jan 2026](https://irwin34.blogspot.com/2026/01/day-boat-name-image-spreades-nyalic.html)
 
-Then mocked up on the hull, and the waterline painted.
+Then it was mocked up on the hull, and the waterline was painted.
 
 ![Name mocked up on the transom at the yard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinEvIGQHNFe8NotocClpLPZ8ViUOPdjEGS07cbsouitnmtGWTVi_ACB94J-3Jby4XvqD2SmKiOSxqFJ4OpgoYwyKAQSqL7dOf9FlEGUqqTUiOwDbx4KZiUlKwT1vGkHrB-3bom9mCCj2AAUQRPxW9hjYeXHGZnhI3RxL2ctJoyDK1fKyWwH27Arbl-rGV_/s1600/att.VxDcPjSYvztlDLzS4KMs717mr_Egj4XTH3EQ5bNnEX8.jpg)
 ![Vira on the hard with her name](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFL9htX-ehfK3a9hupDiQrj6BmqcRhEQfYRSa0hyphenhyphenS6Q-P_X2QP1XX2RCDLe8h9gvs-J6YB0jqRfNkIcRzPK42mGQPtZrbfZJmOtYa6ytwcjzn9RVhxiWtNvv5AZmCqsqXJFrhS9UYPfjUFUE6hvoU5tOXygJel9WCIfSb2v552R5MEpjjiAsXwLPd7x1Wg/s1600/IMG_0700.HEIC)
@@ -507,13 +506,13 @@ Then mocked up on the hull, and the waterline painted.
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-The last bottom paint on the port side of the keel. The strut cavity closed, glassed and given its first coat of bottom paint. The rudder and the stand pad spots painted.
+The last bottom paint went on the port side of the keel. The strut cavity was closed, glassed and given its first coat of bottom paint. The rudder and the stand pad spots were painted.
 
 ![Rudder and strut with the last bottom paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl7Em20Lq5xFNAL46iZKp0NxWImr62U78avdxe1SIYj6Vp-SaA-_JgIQjbSPsDkS02WEQwIsi2P1NN5_zmRXWdtS8BY_RmSu7fBUmnOQZrDg5tMZr-KCMjToNqvvdkomkMSkawGanpRl20oj4NuJxVwv238f-R9K23LfMKau0oqrKkSYElbBRryZ3KSvfC/s1600/IMG_0702.HEIC)
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-February 2026: today I put the registration numbers and the name and home port on the hull. She's an antique boat, so I could skip the Texas numbers, but I decided it's "polite" to show them and avoid extra questions. Starting today she is 100% officially VIRA.
+February 2026: I put the registration numbers, the name and the home port on the hull. She's an antique boat, so I could skip the Texas numbers, but I decided it's "polite" to show them and avoid extra questions. Starting that day, she is 100% officially VIRA.
 
 ![Vira with her name on the bow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGOD-ymhQCn4qtUsMfc0IG-DbsjRc-G_V66VvWl6zN1LfWpu1s4He-HhGMU42954t4gRQRDjvFjEcWk76FmK0HoQH51fjepUUj4wfkeqdqw3YpAJmnNp9qvS1XIFeXzq-c62hvd2CjwvVnDi0qdT0PsliJ924DvSJndsjt3WLIBRp9Ik8nJED9odoR-7uu/s1600/IMG_0767.HEIC)
 ![Vira with her name, bow view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSgBTHtRaVf_MPw_-X9GNiQmKdLMzRuZo_2BMUeZnEpIuxbOj4AwG_OVT2Pi_CfwMMJuzf3vFd57nBNA3q9FHaMg2t6qK0tPpVwq8wYHllxzCHo0rXuEIvfRJqPB_Q5nvxiwMwKR1o5PwtlQ2zw9_eYdrQ6CE5r13tM1s_4PVjUS0GitF1Xwr3w0CSNA_/s1600/IMG_0765.HEIC)

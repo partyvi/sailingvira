@@ -6,12 +6,11 @@ order: 1
 description: "How Vira found me, what she looked like and what was wrong."
 cover: "https://blogger.googleusercontent.com/img/a/AVvXsEiyQA0qbz237Z-QhU0nteMv3hrrlyd5tV-ntYI7hfSgi5_EApb1mdV-_hpwvK0dUpd7DOVl-M_jHydkQh7imqrbXDqsnGq0Qka5sOjYnpb_XrT_7zhJznBQ5yWgYYediGEnB6qH4gg6OIGiSY9gFjvKMk0IMYRaISjfOBq8d3orJIOkBXCzqpeVGOEaWw=s1600"
 ---
-
-Every project boat story starts the same way: "I wasn't really looking for a project boat..." Mine too.
+Every project boat story starts the same way: "I wasn't really looking for a project boat..." Mine does too. This is how Vira found me, what she looked like on day one, and how much was wrong with her. Spoiler: a lot.
 
 ## The project boat found me
 
-November 2021. We had been looking at boats around $40K on the coast, and we figured there was no way to get something within three hours' drive. Then I found an Irwin 34 on Facebook Marketplace, on Lake Travis, for $5K, thirty minutes from home.
+November 2021. We had been looking at boats around $40K on the coast, and we figured there was no way to find something within three hours' drive. Then I found an Irwin 34 on Facebook Marketplace, on Lake Travis, for $5K, thirty minutes from home.
 
 Long story short: project boat.
 
@@ -19,7 +18,7 @@ Long story short: project boat.
 
 Diary: [26 Nov 2021](https://irwin34.blogspot.com/2021/11/project-boat-did-found-me.html)
 
-An Irwin Citation 34 from 1978. A big project. Not total trash, but she needed a lot of love. People had been living aboard, and the cockpit was their backyard. An ugly RV-style AC sat on top, blocking the whole view from the cockpit, so you steered like a WWII pilot, looking only to the sides.
+She was a 1978 Irwin Citation 34. A big project. Not total trash, but she needed a lot of love. People had been living aboard, and the cockpit was their backyard. An ugly RV-style air conditioner sat on the cabin top and blocked the whole view forward, so you steered like a WWII fighter pilot, looking only out to the sides.
 
 ![Vira's bow at the dock, the day I found her](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUrI2fV_zdcc1C1QFygnMu9BQ4yZXDs0_DuJ6xRhGLkjrTdVnHMKh3MQ6IICywVSmaxYqfBpltTftTISkscSzfqDmCyrNjb48d4TwdVd-I5zq45XRG1RzaU8TGFRbZ5iiBhnxpcaBSvoFYDy9tb6VZJGdOGHcZ7mMgoXEHPbON9MSrXt4ujvh_utnQt_un/s1600/IMG_0351.HEIC)
 ![Cockpit under tarps, used as a backyard by the liveaboards](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlM6YMCnOCGm7ykSdc1KTZRu8EDTXuHYNml-NRexYu3gay0cOOfV5Yma5QYcZbq0Jg-BMQfvNGd52Fx0dAtEcvjS5IxuC8dwzh5sr8q0q3e3AAM3MERHvSKcPO1XgMRMhLp3VGmJRUmXUcU_YBZySce1aKKtcLq8b0JsE5cfZEUbgKCOdBugNlfcm6fNH/s1600/IMG_0353.HEIC)
@@ -28,7 +27,7 @@ Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
 ## The tour
 
-First look inside, the galley. More or less OK, until you lift things up. Everything under cloth or other stuff on the countertop had rotted to nothing. In the lockers behind the microwave someone had put a glass to collect water.
+Let's start inside, with the galley. More or less OK, until you lift things up. Everything that had been under cloth or other stuff on the countertop had rotted to nothing. In the locker behind the microwave someone had put a glass to collect the water. Very practical.
 
 ![RV air conditioner on the cabin top in front of the mast](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Rhs_l50pYZLd-KW0xejeJ4Z8MPQmsAur8Ev93hmjrj4LKrR_4OB2pxAwIKV9lmwx3vtzH4DjnWNEEN6KeWx0c8LrryyTLMEYEbAvvO0nxRCcbKGWHNApwgx8oe7Nunt9nSvhNf3P7S1WhilnSYsZga26Pn7smD66K6V6gFI5B5ONuSI5NMLiQPTONfEf/s1600/IMG_2759.HEIC)
 ![Galley on first inspection, countertop full of things](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGiZGE2sBSQsgxpzj_qpSK0oiP9cMnsKOJ9V_ktn2V_mDFlmVyEZu8EBj6QbV0NcH8znT8kw8NggNpsaL2qRRjf_ORmxaJ3d6Yd_EPOE2cxOj4y408MfiXterO-l-wqH7hg9dcBW9VgopdCByh0eF5mFT9AyDku-G34Znz5lCllUypz0Z-PFxFzGvUNyT/s1600/IMG_0342.HEIC)
@@ -36,7 +35,7 @@ First look inside, the galley. More or less OK, until you lift things up. Everyt
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-Then I took off the wall behind the microwave. Looking aft over the ice chest: the bulkhead between the cockpit lockers and the cabin was rotted out, and there was a hole into the ice chest through the countertop. Surprise, no insulation on top of the ice chest. Two things let all that water in: the stanchion bases (every one badly made and leaking) and the deck drains.
+Then I took off the wall behind the microwave and looked aft over the ice chest. The bulkhead between the cockpit lockers and the cabin was rotted out, and there was a hole into the ice chest through the countertop. Surprise: no insulation on top of the ice chest at all. Two things let all that water in: the stanchion bases (every one badly made and leaking) and the deck drains.
 
 ![Locker space behind the microwave with old perforated headliner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfyh1uXz0YsUB_XB5JdXXvnV89fN4AVnaphYA0uLhG0ExJyr9E7siCBtQwSe9MNQD8v5WId_B4x-51nk2QwtdUS5QSr94dW-tFUvI1rCl7QywtHTROju7pqoiYSeKlw6Y3xDAo5NFQI99W9jwuCO_DnSc69ORmaqXaYoBTwcTpnSmx3_ZggVmJE-Nv40bx/s1600/IMG_0502.HEIC)
 ![Rotted bulkhead and hole above the ice chest](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWVBnNGa-3cLBASv8YbrwuLngddZCJaUwbYND5kz26rN1ZuqCSgoW14fXhhOCCqF-y0OxBm0KtsREONJisJlYS39W_M4zQTHi7e3MgGe6npqrFnDsOANiy1fWN45o2_CODXS31dd6wBiSfbgnxVZ3f0glysQP6OoDsbofXQQGd1iY9tKFGyw9iRnayfRgE/s1600/IMG_1203.HEIC)
@@ -44,7 +43,7 @@ Then I took off the wall behind the microwave. Looking aft over the ice chest: t
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The front cabin. Not too bad? The floor was gone. The plywood side panels were rotten, the planks hanging on finish nails stuck in paint. The headliner smelled like grandma's basement and was torn in places. The front lower shroud chainplate base had been "repaired", and the chainplate was made of several pieces bolted together. I wasn't sure how much glass went into that repair.
+Next, the front cabin. Not too bad? Well. The floor was gone. The plywood side panels were rotten, the planks hanging on finish nails stuck in paint. The headliner smelled like grandma's basement and was torn in places. The front lower shroud chainplate base had been "repaired", and the chainplate itself was made of several pieces bolted together. I had no idea how much glass went into that repair.
 
 ![V-berth on first look](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfvgOi_BaAC8X4K2483Lb1zMFlEbJzCrejcL_oTzL0FSNNZ8X993smH3_XWrDMgI3JqfZ5ZxrazNUe1f2PZfi7q2GjQzV95LlvfJLoFJUjmqSO8BY7kHVxQnZUKyIg8zRDUtye9jPLTLy8Yaq7AK98SD1wtz36mFCGj-JPs61Iac8BYvVgxGcnWNfvyPpj/s1600/IMG_0595.HEIC)
 ![Looking forward past the head to the V-berth](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaDhTS3BIioWrZDJYLyNtW7T_dP94bn3X8ABghW5AcT0hcKY3YlJ5ORzbrT1Ok4ZriOh5r6K7KurvRon_mwi96-l_6k52vlxztqiltwbAdUo4LHUJhl_3KlWpIB7O442XYZ_zGdHjuGDzpGdse9o79DekzpNC0QtXPtvXtvzWB3-MHd5WOcPGbQI3jy8Ca/s1600/IMG_0593.HEIC)
@@ -55,7 +54,7 @@ The front cabin. Not too bad? The floor was gone. The plywood side panels were r
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The head. The toilet didn't work. When I started checking it, it puffed about half a liter of old pee-poo right back in my face. Everything behind and around it was rotten from the leaking stanchions.
+The head. The toilet didn't work. When I started checking it, it puffed about half a liter of old pee-poo right back in my face. A warm welcome. Everything behind and around it was rotten from the leaking stanchions.
 
 ![Head with toilet and sink on first inspection](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkSjbUWVVoHaZW1r4cePfmrLbzYNehdCZWyJJX2hn-htMaR6grwIk4PxY93ip2ip0vSfHKXS6JzUWfe06xQ5S8_LEtjhjclGLMw_NL9wM7yY_Ca4hZE-obT_nlq_PYOr_1PIhR2nHqeiG3C_ePXCyTw6PVt0atFRMwtC3hfPyMpa4IgEaeLIbF0IVnAvMP/s1600/IMG_0594.HEIC)
 ![Rotted wood behind the head sink](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBL-41Rt8XMzTccvYFHkUUVD-53XJwzL5tE1l6VbE3vs3QwZYWZtrVc_lHfe_As8vgvEHtEWNnsPh0hFwfArICKViQVRsXauus5HhPZgYMazSQ-5BXQCacG8_KxJFdiJ6arC1EGvuaOW8GtXchS81O39uJDpxq6fi-W01hj2cePvEE16abPkya9IyNAI2g/s1600/IMG_1767.JPG)
@@ -63,28 +62,28 @@ The head. The toilet didn't work. When I started checking it, it puffed about ha
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The main cabin looked tired. You could see water had stood on the floor for a while, so every floor panel had to go. The headliner was old and smelly. All the side panels were rotting, at different stages. The starboard bulkhead had been replaced, but the chainplates were leaking and it was getting wet again. Later I found it was teak veneer on particle board, over 1/2 inch of plywood of unknown quality.
+The main cabin looked tired. You could see that water had stood on the floor for a while, so every floor panel had to go. The headliner was old and smelly. All the side panels were rotting, each at its own stage. The starboard bulkhead had been replaced, but the chainplates were leaking and it was getting wet again. Later I found out it was teak veneer on particle board, over 1/2 inch of plywood of unknown quality.
 
 ![Main cabin looking forward, tired but complete](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzj9G2142RcDlaFqKEGOvv0-kJDpdU33F2D2G5mRjknxWUVrl5-VWpH04Vka7Ukz6hX06S8U2YbTR41Oz5mas_vPLV9Eb-VnRCgGLsa2gZLxCIYvwdJ4iuwkvB_UZf6jWdAZ3VT-9zc2mZobGUWahHNilA-dDMfNuYrB4xKwhqLi4C5jixJKEgxt-2cWv/s1600/IMG_0597.HEIC)
 ![Main cabin with the starboard settee and bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ra34wiMf61Kte9kI-WoByoQzVRRTX70EIoEyVTTOPA13P4763nzx2GmtzqO96Wuhb13d4hmJ7fBzrjKlou-6N7GKX5qUxRYz9DOWiSdajCZU-GEIBadoAC91A3aDWQCSjzDy14VloEEXoAGC_tY79Wus-GTlnAvLzMTEH4cZjKvMk9JXcDhC_U3WiJd_/s1600/IMG_0605.HEIC)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The fuel tank under the starboard settee looked like caulk over masking tape. Really strange technique. And a nice view of the bottom edge of a side panel.
+The fuel tank under the starboard settee was sealed with what looked like caulk over masking tape. A really strange technique. And here's a nice view of the bottom edge of a side panel.
 
 ![Moisture meter on the replaced starboard bulkhead next to the chainplate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkrR-Dtla1Jd49kbAnMIfpNhQQ1lvwk68cZAuhqz5rkFztC7qtYNWTiMeA4QcKSH76DuvdKSD9QcyDiXIUpmHum4Ju_tqfjtLaC60YjXpsJfDH95asyjvh9rrsCxA0oaeu8Aa7iKU3lsWZ-GecshMoBslMsylUpzOTcxNm7VvYv4GElRF5CSMQqlv5zutG/s1600/IMG_1927.HEIC)
 ![Fuel tank lid under the settee, caulk over masking tape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JtQ2dauqSLUz96O4iqSTd4lPQr2pWMK2rrH_jBeikE0b37uscbiKI3WIrlAbd9_6BAzAyF-mpzZG5TPfw9v1hwARZJ_TwSNnfA-0Jaldm6CdZaSwdTTDCq6snJxt61e-MAeuazRWIP_e8iJ9jdkSB5JWs31iDRaSaGvQWOoIsIX44ztW7GfDxENcRnxo/s1600/IMG_0446.HEIC)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The nav table was OK in general, but the wallpaper on the back covered rotten wood, and the side panel had to go. Clear signs of water next to the icebox.
+The nav table was OK in general, but the wallpaper on the back covered rotten wood, and the side panel had to go. There were clear signs of water next to the icebox.
 
 ![Navigation table and rotted side panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDEV6QWH1hBfyxRHo2rhJNM76Z8yh2gZ9_haFj8kZ7ocvwRwhzHhen1UWu1d5zhwuN4N9vjj1xBGJSY_IFeh0_nwOWa_-i5b7RO19TuypLeFwKKFMqlTXLfS6ZZeb45TEtQISinucpGZkh9oniT_Q33cBn0l7j4tsIxNCvdwgjhPPgcUIemupQtgtmkyxa/s1600/IMG_0607.HEIC)
 ![Starboard side of the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqCD0aSCxD7IJaEn8INbrpY7fOPUAs_EzgOGs5qqz9vpCuHvxgCGQhnCOC7VuNkxZqFVUpuTDB6zLa8w5rFmAqnrqyWc2T0JOlFH44671x8LodbNBHGQUgf6LgTR-IgjlCO4rbC6YdOrX7qIuV-zelPRrYAYLmRjSOTd8-imOjElfTVpzepSlW280l3rgA/s1600/IMG_0516.HEIC)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The port bulkhead was delaminated. There was a stress crack under the compression post: the support under the liner wasn't enough, or there was too much load. Question for the designer: is that pocket there on purpose, so water can rot the bulkhead and the compression post faster? There was some white powder in it too, looked like borax.
+The port bulkhead was delaminated. There was a stress crack under the compression post: either the support under the liner wasn't enough, or there was too much load. A question for the designer: is that pocket there on purpose, so water can rot the bulkhead and the compression post faster? There was some white powder in it too. It looked like borax.
 
 ![Port bulkhead with chainplate bolts](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvHmCkPKt8moHPnm2xOqHfnMtnmwk3RDPaRw4OiLFf8T6Bw2xf6pu0vFAuYojIJehnidb9pW9h2K_VzVfOxv4OgrHMFGXRnQa2-kO7g8Pj11naQmU0k67jlILHRy3MWcHpzK-8gzqhBT-64fhqefD2eZ8K-0HRW_y1Ka8SbXJgm3FNor7CR8yn9gk3zhg/s1600/IMG_0453.HEIC)
 ![Stress crack in the liner at the compression post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjanE5w-ljMu28G_xt04Mg0M04hz6ubkVXwipdZd-507pud4dOva9N_uhLPCG-zBlTkJaY0SdpQtyqBBePGT3Ob-zdQFZ6aMNrZDPVE1YVHuXJlF3Di9ammHxYeWRWvD5XRbgD9Mnqf9Nj0HkFs1GzMAz8UzFk2AqrMB32QDNikcGn2wmWjGItVLchXV6iF/s1600/IMG_0610.HEIC)
@@ -93,7 +92,7 @@ Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
 ## Wires, pumps and drains
 
-The low-voltage panel, and inside it. The 110 V panel, hidden around a corner, and inside it. Corrosion everything, everywhere. Nobody here had heard of heat-shrink terminals. The original alternator turned out to be completely burned out.
+Here's the low-voltage panel, and inside it. Then the 110 V panel, hidden around a corner, and inside that. Corrosion on everything, everywhere. Nobody here had heard of heat-shrink terminals. The original alternator turned out to be completely burned out.
 
 ![Original low-voltage panel and battery switch at the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzQpHjeNpMYkfoRBVi0UETEUo64fqPyls9kW4MpbVUPgkLz7_6gCjEiW6AqlH8S2C_xdsc9x-jhWww1BwoSDaxS7ggppV4KN9yLdt03vlrewDNvX3GLPzcKlEDeXlJ9Uq6xK7HgrrgUzqRfs5ktV7fXoa9gjwp5xqREQpSdAvTbfimb3Ly59CA7JuaSHP/s1600/IMG_0508.HEIC)
 ![Back of the low-voltage panel, oxidized wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC8qSsrtUwpidvQNOsu1rSXT7Q4iFvBvOdI8B6i19JVs7d4VLbLUsvEkBnfseGrSKpIKN5noyss-2WeDw5qQLtbc4MjlG92SCmVW8peQ8alypDEIQLUBXZQvc8oHWBTXGwqAHZmUCdbnyIgrN6ouJb9UgWujLlRyOgodcxb-F68eF_yuVvRsh4jTNba-Db/s1600/IMG_3816.HEIC)
@@ -104,7 +103,7 @@ The low-voltage panel, and inside it. The 110 V panel, hidden around a corner, a
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-A nice example of how the original wiring was done. And another good one. The engine wiring connector after some cleaning. The antenna needed some love, I mean help to retire. The deck light connection. The steaming light.
+A nice example of how the original wiring was done. And another good one. The engine wiring connector, after some cleaning. The antenna needed some love; I mean, help to retire. The deck light connection. The steaming light.
 
 ![Old wiring around the engine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz6H7imbXZEmUbs8JNQyFI8yZVYKP-oBWELZqPSBpbwKNz4Pmazdtty0XWqseOmaaX-o0tFgf5SNMmfj2EQC0wF4x0mMRLlvCry9fa8nBctsd7pVwgl15a1KA7uoukGSkCDOki9S7Y6BlJzMY3nVYz5_ct-zXAVFTY4zQsDFB525Ke0rruXr7BUiElrJBQ/s1600/IMG_1521.HEIC)
 ![Original wiring joint, taped and corroded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfrZsO5_41B7Xux08G1b6U551PlibJSEgIospqgsuoTWt6r8hcolqmq40izz-F-Hf3s1SV_FHrpzA48-BikRAGQ-nULbBFZwZNsqbvQ3UUf-FX-o89eaflOzDIRI-tdiGOe2x337CFCeFP19uPpURJO3kpYRTIveloJkJgJvKwL6fp5VAnPXE9T8OufsOz/s1600/IMG_3758.HEIC)
@@ -126,7 +125,7 @@ Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The deck drains were just tubes pushed into holes on some sealant, no glass. All four leaked more into the boat than they drained out.
+The deck drains were just tubes pushed into holes on some sealant, with no glass. All four leaked more water into the boat than they drained out.
 
 ![Deck drain and hull-to-deck joint on the side of the boat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij10g7Tt7c7UFKmGUUOLF8gJ_SOWI8lO5iyssBg4OAcVy5yEaeE320eKaZF2qxIuMKvRSC0C-DINg7geBlZt4mrGYtNbmSeOVR_FxbMJ1TGKTQn4Hf0s4Zqb4q8hwKIJLJwxdwhYsS9qKPguCYCRg7gEP_jvNQe_QIaoBFZAySqaPJ69Am8_oybPSNyuBv/s1600/IMG_2579.HEIC)
 ![Deck drain hole in the hull side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHZPN6fj0dO9gNlJmIcI6cb93BuaCzhHVvPPMS6pep-UlhTK1zJW_3YoGyfE5It3Eu8hzaDXPFQSYTdwD-lulbKMPHIO4uLuIFiNz8SDae4cxoFQ0GDI4NtFCSQeLfmBJJ8MtOthNQI4r7GHjUTb_Vuy0ZJEpS77jTi8r0CjfY-6q_yeyw7vP2zyDqZsg/s1600/IMG_2578.HEIC)
@@ -134,14 +133,14 @@ The deck drains were just tubes pushed into holes on some sealant, no glass. All
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The starboard chainplate slots weren't sealed properly, and a whole 2x6-foot piece of deck was soaked. I opened that later.
+The starboard chainplate slots weren't sealed properly, and a whole 2x6-foot piece of deck was soaked. I opened that up later.
 
 ![Starboard deck opened at the chainplates, soaked core](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIJtRsSLLlcVkKI9AETCHp6QD07zcGd_eAZI-7Pq570O-GkIuCBLLqrKASxXJpK70MXkjK1F1zPwDEo5V8M9upSDImRFJTihaA_u1e0okCPKa5By9HxrsuYq5H3mwhZkfRx6dV8Awll7Y4Y_l6q6A_lFHjFXXtNaqYPWyST5i-zoJ6LbX8Ha9Ws45hVhK_/s1600/IMG_1985.HEIC)
 ![Digging out wet core around the chainplates](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Xvk4xKpF1o_EcaVQfjGZPW7YbR_ExeQXJhifU3OcVqfi0u-WhU67A_oKQ83eoMPQ_yK0AuV9WM58XSqGzXdlTfLBGG6oUOAHK0r1MOJ-_yuELTnavRS9GiHKxHoejFRn9q2rLarR4dkz3ajQo46x187swBVQMAEOU7ORUXLm10NfDVCPn0poOBCpwhuX/s1600/IMG_1982.HEIC)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The stanchion mounts had to be rebuilt. They weren't built like Irwin's own drawings say. The wood blocks were too small, and the builder just put a decorative cover over the bad work. One layer of glass over dry cloth.
+The stanchion mounts had to be rebuilt. They weren't built the way Irwin's own drawings say. The wood blocks were too small, and the builder had just put a decorative cover over the bad work: one layer of glass over dry cloth.
 
 ![Stanchion mount bolts inside the hull](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qHNL64wnvlMZrdgiDcXceEeDy3TAS4we1f4CK_iDjHUbx4Vb0YMijnhj9tJWTCxey1x-H12TUD5PMe4EMbMjxD5PfcYvfciBnIZSIZeg3SABF_VgW98dMeKbINJHcywVYx7Al03K0er6HZoS-GD2hgkdrBI0ME9ffJhWBNI0yJts-__4LP0yAkRAFtZ8/s1600/IMG_1202.HEIC)
 ![Stanchion base block under one layer of glass](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1_GcA1cYH-EwVABig4elqRL4SNiJH5VyJOL9zUR5Et7X9N10aexWDsVBX3zWmwGroVgKqN0Pgz6CYuMOg_ubj_SJGJnZtH33xYUDSUDp6J0yhmY9RHZrRn6Te5OUTUbvky6qV4TEIOzsWrHG-hui2u9njsFReVTvx1wlRtJlAaJkQ6gbz76QedzI9yaC/s1600/IMG_1936.HEIC)
@@ -149,7 +148,7 @@ The stanchion mounts had to be rebuilt. They weren't built like Irwin's own draw
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The port front lower shroud knee: the plywood was rotten, and only two bolts held the chainplate, waiting for a good moment to let go.
+At the port front lower shroud knee the plywood was rotten, and only two bolts held the chainplate, waiting for a good moment to let go.
 
 ![Port forward lower shroud knee, rotted plywood](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRSAJOPzPZJ6PT_SEJ_uzUeeVhoq1Td62UsjYQK-x_ImcpYDbH4p4CLEfLwgT1LpDlX-1IRulWtI8b6TQaM2AfI53UbQ2dPGlPZLMxl6QYyehgPf0NaB60a1lknX9CBlGIoRsDj9fov13gMEe6ybAQP5DAp3lJggwzfGDIYYzYWqagR3yirvjtAbGt1xT/s1600/IMG_0448.HEIC)
 ![Rotted knee holding the chainplate on two bolts](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtQmzRNKaPDeJTJ5rqkeYCMjCNrY9K1m7B50l2mz7F69tTVsBV9RDFBR7x6hz8oZHLtOFRYW25RQd_na_fGkQhERqGFN3D1Px9Klvzh82HRkoi0pwtFvOyZvCdYTTbhkJjQbdHtppHwJAWTBQaWQE51el3qdpny7X8dJI6FIofcPl5wlU6Uoc93yHNROIc/s1600/IMG_1834.HEIC)
@@ -162,7 +161,7 @@ Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-And the headliner from behind, covered with every kind of mold. That's why I'm always surprised when people ask how to clean that kind of headliner, the car-style vinyl with little holes.
+And the headliner from behind, covered with every kind of mold you can imagine. That's why I'm always surprised when people ask how to clean that kind of headliner, the car-style vinyl with little holes. My answer: don't. Replace it.
 
 ![Old headliner panel taken down, back side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCCO-UMcX6oC9YQILcGFpacnIc-DblQnJyNi4YBA9BvFKnZLpirCrjkXCqbM4gieZYSRGuKcwIvMMCY_z_3lu6sX7CQ_k_WCGi_rlNPlQcOq3gVBzkFUjBSzJJV7W2ph4RxkRrh3pQfQGztr3foRXyeP_xCf1sLihKkdZOG_CYtohBrieLfYLWO8q_icU/s1600/IMG_1546.HEIC)
 
@@ -175,13 +174,13 @@ Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-The sump box was a "good" surprise. When the sump pump died, the previous owner didn't find anything better than drilling a hole in the box, so the galley sink drained into the bilge. Everything in the bilge was under half an inch of black, smelly goo. The picture is after cleaning.
+The sump box was a "good" surprise. When the sump pump died, the previous owner didn't find anything better than drilling a hole in the box, so the galley sink drained straight into the bilge. Everything in the bilge was under half an inch of black, smelly goo. The picture is after cleaning, believe it or not.
 
 ![Bilge opened under the cabin sole](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBCyY5v49m7mwFSbkM802StdhK6a9crwUrUCdjxWs1aYSN-vVFSKnXWdiaK6NLGacPv-5cTwM6o91Q-ErgSU9yXLl6O9BTbFp025s-68sWSRtd1O5vntAIco09ePkSdZjj77x5wSNxmaSPstNi23Y7kqg5-21QsgD83Qh-tHon4uC5B0sbokgbbyF3oL66/s1600/IMG_1122.HEIC)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-Outside, she'd been tied up for a while without fenders. Scratches on both sides, mostly gelcoat deep.
+Outside, she had been tied up for a while without fenders. There were scratches on both sides, mostly gelcoat deep.
 
 ![Gelcoat scratches on the hull side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrgdEExpg8sTgLRUW1P6hCVHaIvQdYSRkKibEhGSbj14LEHmzITsTMcsnAZAPqhYjKkEuThqH0ZX6QUM_Oa2Y5zapIPJl2JWYhAA0bLJcK6HQUoA7uZ4VvC5LTPuxgbz_rr7nKLl6wvL6CUy1jeuwVTnbJrwFJSFMwxsldAiDQNxEigoPKSyqaLn1LeKbg/s1600/IMG_0426.HEIC)
 
@@ -211,7 +210,7 @@ Before buying, I wrote down what I knew. The short version:
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
-And what I found later:
+And here's what I found later:
 
 - About 2 square feet of delamination in the starboard cockpit locker.
 - Wiring done with bare copper wire, no heat-shrink terminals. All of it had to be replaced.
@@ -225,9 +224,9 @@ Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
 ## Day 1
 
-The first post was lost, sadly. It was a good one. Nine hours of digging stuff out of the boat. I cleaned the bilge and found the sump pump wasn't even installed. The previous owner drained the kitchen sink into the bilge, so four of those hours were cleaning that. The pump float mount wasn't attached to the hull either. I set it somehow, but it needs redoing.
+The post about my first day was lost, sadly. It was a good one. Nine hours of digging stuff out of the boat. I cleaned the bilge and found that the sump pump wasn't even installed. The previous owner drained the kitchen sink into the bilge, so four of those hours went into cleaning that. The pump float mount wasn't attached to the hull either. I set it somehow, but it needs redoing.
 
-Found a fisherman's anchor, an extra headsail, and lots of small things, useful and not. And one problem to fix ASAP: one clamp on the stuffing box was missing.
+I found a fisherman's anchor, an extra headsail, and lots of small things, some useful, some not. And one problem to fix ASAP: one clamp on the stuffing box was missing.
 
 ![Bilge and sump box under the cabin sole](https://blogger.googleusercontent.com/img/a/AVvXsEgwWYAT5iYLCFJc7bU2hOXZdrN1_CRIQdmEO_ndnGsxZF6WJDBGUPUSAEdd2QntrHw6tqo50LRilY-uKCKIGctIEBCXbQTG420Xwl_b-35xs0tyfp9Wq1TDPA59PwTkWHMvMZ-Bv5ZKwXd9bZETWnDfmX5XRrXefqqiGK7TOElcPBjd5zcw7PtK3OvAqw=s1600)
 
@@ -235,7 +234,7 @@ Diary: [28 Nov 2021](https://irwin34.blogspot.com/2021/12/day-first.html)
 
 ## Day 3: the dock sank
 
-I came in the morning and the dock bridge had sunk. No way to get to the boat. After an hour trying to pull the bridge out from under the dock and calling people on the other side, we found a dinghy, and around 11 I made it aboard. So only six hours left.
+I arrived in the morning, and the dock bridge had sunk. No way to get to the boat. After an hour of trying to pull the bridge out from under the dock and calling people on the other side, we found a dinghy, and around 11 I made it aboard. That left only six hours of work.
 
 ![Day 3: the sunken dock bridge at the marina](https://blogger.googleusercontent.com/img/a/AVvXsEiWFkJ3Ud2jUByu82vhnTiIQA74WLhz24edDt5i7Brww0e0r-XKEJgmV74z9XA1qJ3nE8Yos_F0Y7hpu5eEjizElYFGYcHfN7Dt79jwAYb6crZaQuyXhc1EUvn45KMiXGXgqvQ6iTXVex0AzbKuxFuwt-y85SIvcFy8R35mtjvP0fIG-iroAYFpX2wR2Q=s1600)
 
@@ -250,7 +249,7 @@ I cleaned the rotten plywood out of the galley wall cabinet and kept the frame t
 
 Diary: [12 Dec 2021](https://irwin34.blogspot.com/2021/12/day-3-lot-of-measurements-and-removing.html)
 
-I checked how much water was around the chainplates: five test holes from inside, and about 10 inches was empty. Then I measured everything that needed replacing, the opening and fixed ports, the companionway frames and hatch, the chainplates. It's all in my work notebook.
+I checked how much water was around the chainplates: five test holes from inside, and about 10 inches was empty. Then I measured everything that needed replacing: the opening and fixed ports, the companionway frames and hatch, the chainplates. It's all in my work notebook.
 
 ![Notebook sketch: port dimensions](https://blogger.googleusercontent.com/img/a/AVvXsEjyvO71I4Uaz12oiS-HlOYDLk5zOb5vMPH674jXMZO2dUhRYXLKv7c5bGaxoWm2osOrNHHfEVnVLtkZIBpHscBu9bvpbV-ODPwt7Yqiz9WoNDOEcYAFmdAkNZwyJquW6gS366DhqIdalLqWmlAiOq112i4t4ny4nkzFSIOKkOGYwtYnZ66rjDjI7GTKUg=s1600)
 ![Notebook sketch: companionway frame measurements](https://blogger.googleusercontent.com/img/a/AVvXsEicOtR1sIhvxoFfOMPFNsUTRAD1azuDBTyK-GIZ1SfwwAaG9YbHNqAn9c1W563U822o7Krzcwk5VPGi1BxxRwHORXc9hrfUsbQvtVkkPf3uWaNUHv4PlR8wfYFj5Ev7G0FZmQbLI_QxZs19So-4iugLJ99o1iMZchPwrZlnRutcgCwk7Rz8G34vK-Fjsw=s1600)
@@ -258,9 +257,11 @@ I checked how much water was around the chainplates: five test holes from inside
 
 Diary: [12 Dec 2021](https://irwin34.blogspot.com/2021/12/day-3-lot-of-measurements-and-removing.html)
 
-The bulkheads. For some reason the port bulkhead is two pieces joined with a solid wood strip and 10–16 wood screws, and the replaced piece is held to the liner with two M6-ish screws. It's in very good shape, but needs some work. The starboard one has minor damage near the deck, about an inch. Neither bulkhead is attached to the hull side, so the tabbing has to be redone on both.
+Then the bulkheads. For some reason the port bulkhead is two pieces joined with a solid wood strip and 10–16 wood screws, and the replaced piece is held to the liner with two M6-ish screws. It's in very good shape, but needs some work. The starboard one has minor damage near the deck, about an inch. Neither bulkhead is attached to the hull side, so the tabbing has to be redone on both.
 
-Last, the sump box. The new pump fits, but I need to figure out the discharge hose: two 90° turns, about 0.9 inch OD and 0.6 inch ID. The sump box top is 13 x 9-5/8 inches, 0.17 inch thick.
+Last came the sump box. The new pump fits, but I need to figure out the discharge hose: two 90° turns, about 0.9 inch OD and 0.6 inch ID. The sump box top is 13 x 9-5/8 inches and 0.17 inch thick.
+
+That was the beginning. Everything after that is in the other stories on this site.
 
 ![Old sump box with the pump fittings](https://blogger.googleusercontent.com/img/a/AVvXsEgb4LXTJG8P2wnZuXRGgcqES3jLCjtItSST7xJBGkIW5DxfPSF9jwdDn0k5pJKPovySVdQ_dEMhaIksbXoh0_DEPUXDVfvi_jYgmhEqMFUjDLgcYSnpOUxHMNWoVIWrT4iVkFVc4yCjkQFLLu7gems-1y0iv85A-fOVFP7fK9HWuVDZxgo6wAlTlEIaNA=s1600)
 ![Notebook sketch: sump box and hose](https://blogger.googleusercontent.com/img/a/AVvXsEgR968xa_iUDmzB5j6RYAI28pvdPq4TT-PeQJpycupThGDqUMRPlDr76U05GwEoSC0id1jZL4k9lpbg6jQ2-h73_qCrqe5erx9EzVos38-2sM29xvZsB7qA5GJnb6qUqnvJ9OWWKJf3UlxxwqjUyF2d_SC5bCdWyg_8APsMj2CE74I1Alzlrqb0zSLkkA=s1600)
@@ -271,7 +272,7 @@ Diary: [12 Dec 2021](https://irwin34.blogspot.com/2021/12/day-3-lot-of-measureme
 
 I moved this to its own page: [What I like and dislike about the Irwin 34](../boat/likes/).
 
-In 2023 I put all the old "before" pictures together on one page: Beginning, linked from the top bar of the blog.
+In 2023 I put all the old "before" pictures together on one page of the blog, "Beginning", linked from the top bar.
 
 ![Notebook and pen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6fOXij0dI5VfaIfzYLFs6JtzbobtxSUPDlF6af_-z34R76petG1LoKWXxSeez5EegY7lWfeoDpjoaTYtRxcvmAFLN6Lq0STzAo5IXlWLqO8br_6rhG-94kiyEHAbcdSWW49Hvtf96gqX7vtMZk_LnRWb2JV-1m-_UgiDSndV1uwcCZqJ-el9HQyjjxluS/s1600/Untitled.jpg)
 

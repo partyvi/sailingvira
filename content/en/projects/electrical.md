@@ -6,12 +6,11 @@ order: 1
 description: "New wiring, electric panel, batteries, inverter, shore power and ELCI."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZjDGXloN-Viv-gVOY_tz9cUl9jrVHuEn60GyXW-k7J53xhBOGh15P7aXt1Ciwwso9t54f1QoxAA5NC0PS2JG7JDe6fijFzJsr02kXPvdK_RIVYaijw403U7rquGzUCg3Oyt2fqQfikFIBRXhHW2nz-xUfGd_dd5sACiYIrwJE0YsjXYEjF/s1600/IMG_6092.HEIC"
 ---
-
-A 40-year-old boat with 40-year-old wiring. Bare copper, twisted joints under electrical tape, a burned-out alternator and two dead batteries. I ended up replacing every wire on Vira, then built a panel, and then went into lithium, inverters and a lot of lessons about smart batteries.
+A 40-year-old boat with 40-year-old wiring: bare copper, twisted joints under electrical tape, a burned-out alternator and two dead batteries. I ended up replacing every wire on Vira, then built a new panel, and then went into lithium, inverters, and a long list of lessons about smart batteries that are a little too smart.
 
 ## The alternator
 
-January 2022 I took the alternator home to check it. I hoped it was just the regulator. Opening the case showed burned stator windings, so it's good only as a weight. I had a 63 A automotive alternator in the garage with a different mount, and with a hacksaw and my hands I adapted it to the Yanmar 2QM20. Later I'll take an AC signal for the tachometer and add voltage control so long engine runs don't overcharge the batteries. LATER.
+In January 2022 I took the alternator home to check it. I hoped it was just the regulator. Opening the case showed burned stator windings, so now it's good only as a boat anchor. I had a 63 A automotive alternator in the garage with a different mount, and with a hacksaw and my hands I adapted it to the Yanmar 2QM20. Later I'll take an AC signal for the tachometer and add voltage control, so long engine runs don't overcharge the batteries. LATER.
 
 ![Burned-out original alternator opened up](https://blogger.googleusercontent.com/img/a/AVvXsEivKWHnkP6lt-K7iVMMjzknNQ3gV4iDCdHIVRgZVLklYdQFhFRlJym4rB9UC8d35RlvxVUxQJhEICZD1iWUCkIjJP07YZpu_382VONb3QofVQikXZuO5EzPWPqXWPgIZMOFEcrIdeuk1lrWznbFMN4eqIjn_mfK6EO3n2h-sSzOtBVEW_KgZYhc52rQlQ=s1600)
 ![63 A automotive alternator on the workbench](https://blogger.googleusercontent.com/img/a/AVvXsEjJ7OI6vBKjgJwKBJl3mtUnZNcDcFCDGEsMQxGx43sSkUr-jKdhdSXInBgc1E37gIMZ64_IXbC2VkyNrqGloNrg4WVc1Xjx_bHxrd4KHMchmPhmD04FlhtLrvgproQitVA_Kp0w2DuyrfzZVrUaRqbfxsXT0cwm7f2a5MS0xzrzt_cofn4K_oWrrCQPbQ=s1600)
@@ -41,21 +40,21 @@ Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-cl
 
 ## Why does the wiring go around the boat?
 
-June 2022, one more surprise: the original wiring goes down the starboard side, turns, and comes back along the port side. WHY?
+June 2022 brought one more surprise: the original wiring goes down the starboard side, turns, and comes back along the port side. WHY?
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-September 2022: I know the original wiring is 40 years old, not tinned, not "marine", and that the 110 V outlets are corroded. But what I found under the ORIGINAL electrical tape made me feel I had to replace everything. Fun #1: during the build they apparently cut the wires in the head cabinet too short, added a piece with two loose twists and covered it with tape. I'm pretty sure it's original; it's the same tape as all the harnesses. Fun #2: the 110 V outlet by the nav desk had no box at all, just pushed into a hole in the liner.
+September 2022. I knew the original wiring was 40 years old, not tinned, not "marine", and that the 110 V outlets were corroded. But what I found under the ORIGINAL electrical tape made me feel I had to replace everything. Fun #1: during the build they apparently cut the wires in the head cabinet too short, added a piece with two loose twists and covered it with tape. I'm pretty sure it's original; it's the same tape as on all the harnesses. Fun #2: the 110 V outlet by the nav desk had no box at all; it was just pushed into a hole in the liner.
 
 ![Original wiring joint under tape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOM0idtfs_pY3S6Due17XarooxvOP-g6vwsc40OeiodtPZ5RLeTzT45k9y7kIpOUavTq4lJ9CvzwUmBSfCpJ6FJT1OVcEoLFaMtdgkCNifMW0m4BhJl95Oe8u_JwKtOuG5pOUVYcA6WqZ_4S5me6oEJWP0O_Et5H6Wqpk8Zu6XV6WlKL6tHLKGmU0LPA/s1600/IMG_3758.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-In September a quick test of the house and start batteries: one had 5–6 Ah left, the other 10–15. Both on the edge of death, so I replaced them.
+In September I also did a quick test of the house and start batteries: one had 5–6 Ah left, the other 10–15. Both were on the edge of death, so I replaced them.
 
-Then I found that ALL the original wiring was thick stranded copper, not tinned, and oxidized. Even inside the original harness there were twisted joints. And on my boat every port side wire goes from the main panel to the bow and back. I don't see why. There's a perfect path under the companionway step, and Irwin's own diagram shows the wires there, not around the whole boat. It's not just wire length; it also makes the system more vulnerable to lightning. Here's a nice example of an ORIGINAL power harness: looks like the wires came out a bit short and they extended them.
+Then I found that ALL the original wiring was thick stranded copper, not tinned, and oxidized. Even inside the original harness there were twisted joints. And on my boat every port side wire goes from the main panel to the bow and back. I don't see why. There's a perfect path under the companionway step, and Irwin's own diagram shows the wires there, not around the whole boat. It's not just wire length; it also makes the system more vulnerable to lightning. Here's a nice example of an ORIGINAL power harness: it looks like the wires came out a bit short, and they extended them.
 
-All the wiring is 40 years old and I don't trust it anymore, so I decided to replace everything. A couple of hours digging out space to route wires. Building the harness, every wire tagged at both ends. Mounting blocks glued to the hull every 18 inches to hold it.
+All the wiring was 40 years old, and I didn't trust it anymore, so I decided to replace everything. A couple of hours went into digging out space to route the wires. Then I built the harness, with every wire tagged at both ends, and glued mounting blocks to the hull every 18 inches to hold it.
 
 ![Original wiring joint under tape, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4w_Iw27cTytQovsZrjUjc5RaJzxDvp5pTetg1gi6sSwOJwGPz_F3u3ZLdNb-49AJcHqZnWQnWCvsnVX3NNIFD-lYU3FwUc0trEKIuO31QurCqvt1B7OVbdKR2L8vNBg-hjGXY4EjyroKDlJmy67uVKIoxk-UXcWA15nHkIqUCBtP6qDHmzNbWcn5pZw/s1600/IMG_3758.HEIC)
 ![Main cabin side panels removed, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPNqRHoZtSYFoYQaSiOgsZnZd0kNbZCAsFmYpWM4BqoOeVhaHKM6pGiAVaAXMyL_rq3qwGv6YY3aq4JqsQVawwQzv-3DN4akj_XeLbJ6-Eg8FYCzBpaPuQQpt5zdesOfkBoQ78n14Mn2q3qSBF2c_216xQQIIxJHdZnZHnQKr3v41kZBbplHKrccQRQQ/s1600/IMG_3772.HEIC)
@@ -66,7 +65,7 @@ All the wiring is 40 years old and I don't trust it anymore, so I decided to rep
 
 Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring-part-1-cockpit.html)
 
-Two observations not about wiring. There's lots of unused space in the corner left of the nav desk. My first thought: WOW, a nice place to hide electronics. But it'd be a nightmare to reach for maintenance. And the laminated plywood piece in the corner of the pilot berth is both inside and outside: not glassed on the outside, so water gets into it easily. When I removed it I got a "nice" opening from under the engine room hatch into the cabin. That should be glassed, not just plywood.
+Two observations that are not about wiring. There's lots of unused space in the corner left of the nav desk. My first thought: WOW, a nice place to hide electronics. But it would be a nightmare to reach for maintenance. And the laminated plywood piece in the corner of the pilot berth is both inside and outside: it's not glassed on the outside, so water gets into it easily. When I removed it, I got a "nice" opening from under the engine room hatch into the cabin. That should be glassed, not just plywood.
 
 ![Wires through the hull-to-deck area](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqdSYjwYrox_j_yn1ShleqwIqSJWP9wYoQde1xJ5jOmznY9v9SF8cW_NoiX2LjT4AqsVuJ1oMj041eVO_RL7N7sCYGYNIjj0Q5iw8b2M-GCAeihOZb5EGSN2Mky6eSpk8laI4wTdlla2xDB0-YhNtW0keJG4tMh6CTdLPChKgKbdNaB2ihJ54zYx76A/s1600/IMG_3774.HEIC)
 ![Unused space next to the nav station, marked with arrows](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJ7W-mQxVtaqY-MAMZrjj5k7_250PiqQ9hKeEN6-caCIeWXOT157Pt68Bxv6xFp0Ka8j7mxGf_2DZvUNSJAQnlvy8RBuEy36mpYxYhSs4SkPG8kHFXtC4viV0dzUALgw9R4JTkYOkHOHhR1ivaqyfIRkroNzqN1vNeDRnuBD4nZH1XuGyWIB3E6aDMQ/s1600/pic122.png)
@@ -75,7 +74,7 @@ Two observations not about wiring. There's lots of unused space in the corner le
 
 Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring-part-1-cockpit.html)
 
-Then the new wiring system, following my wiring diagram.
+Then came the new wiring system, following my wiring diagram.
 
 ![New wiring diagram](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7wtQ9oG1IJcwJWnS1jx6GXa7CrU1TB9h96pXWGUoHFN25hGWgaWSiPQOuHbJjQ0BgSN815L_kv_FtA3poFOMye2007T983DMzZtsgT4lzK6kpqggZVVfIfJ24TlKPlfFfOyxfDA8D57aePz0xE_cnzx2aFXpZyw_hw9OxBhnVRetyVJzVNwCutM5CBQ/s1600/Electric.png)
 ![Mounting blocks glued to the hull for the harness](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAiwYf02cx4H0qNKRscBSsn95LOtEMQuRfnOZE2cyHzxXZP6jjoZR7OEIvh9vfzjQswNCq9SXcskr-GkmuC4LmUan6IDEKFXJamUFJF2ncDgGkDRdhKlyIUPpk2_Qs221yeqRplsAvrZBoqTZCWSZ_TMqxMff9klCypdOg0hSjoty-FiH3W3M-QqLROg/s1600/IMG_3809.HEIC)
@@ -85,7 +84,7 @@ Then the new wiring system, following my wiring diagram.
 
 Diary: [17 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-917-new-wiring-part-2-cockpit.html)
 
-Wires for an electric toilet, the refrigerator, the autopilot and pumps, all organized along the hull sides. I tested the original battery charger, and surprise, it was broken: no real charge current, just a little pulsing. A new 3x5 A charger went in, in a temporary place.
+Wires for an electric toilet, the refrigerator, the autopilot and the pumps, all organized along the hull sides. I tested the original battery charger, and, surprise, it was broken: no real charge current, just a little pulsing. A new 3x5 A charger went in, in a temporary place.
 
 ![New harness along the hull, starboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitejI5vQazwjf0_4_j1Eymzfc_0MCwoNfSnVsED6zLUKSzkRvGnu6Epyl2XU0EtkIP15CvUtYwYsOews3Y1tgovQ2yHV547BmZDsFdMx4x8Qrp-hwqgW1wO0dhBbh7Ve_ZYFTUZ8M20OkrEPrpDvOIjyy_6xNKt1cauMFpbbEvC6W4m4tRBakWKABDYg/s1600/IMG_3827.HEIC)
 ![New harness clipped above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZMoE5Hzw5WHTcCwtgQX5lRxBmpoTrXVgbPGQPhg-LYJ3n70sm4XCzTa2PPHO3_jZA4m_fFmpU1FlhL4QFFZk8s9x4dH2ZOiVBiHmmpakJig-DGCuuF5iyopnvueQC1VXWirm8U-bOsvTI_3kqAjs7hyTsIhRFvdqsoivB0s7gjwi6Z6Hrk17obsJNw/s1600/IMG_3828.HEIC)
@@ -97,7 +96,7 @@ Wires for an electric toilet, the refrigerator, the autopilot and pumps, all org
 
 Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
 
-And in March 2023, at home, a small side project: one of my 18 V Bosch tool batteries had a broken latch cam. I broke it years ago and held it with masking tape, and it finally got too annoying. So I modeled and 3D printed a new cam.
+And in March 2023, at home, a small side project: one of my 18 V Bosch tool batteries had a broken latch cam. I broke it years ago and held it with masking tape, and it finally got too annoying. So I modeled and 3D printed a new cam. Once you have a 3D printer, nothing is broken for long.
 
 ![Cam for a Bosch 18 V battery, 3D model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8V8dZgTTGONQufGsuTRZrvpncozTkH4mzWlgeK2b_QhaKjvVmvaN0kcDl-HC_0NBzEnNWaPCCqg3A1BrQEcwSXjED_GP7T9MBNaIzN_wi2lE7lqMFooQBa5ir_8I2PukZ9MTrlXgQl2AHT77mvIQ_qOfnFh9F8aAAcGSC8qcfvcXCUNuNpz3OhBjkg/s1600/111.png)
 
@@ -105,20 +104,20 @@ Diary: [11 Apr 2023](https://irwin34.blogspot.com/2023/04/bosch-10v-li-ion-batte
 
 ## Inverters and lithium
 
-October 2022 I dry-tested a 3,000 W inverter running the air conditioner from one dual-purpose battery. My lithium batteries were still being built. The AC ran well, maximum load 1,200 W. And a small 400 W inverter with the refrigerator. Works well; the fridge label says 0.8 A, way below.
+In October 2022 I dry-tested a 3,000 W inverter running the air conditioner from one dual-purpose battery; my lithium batteries were still being built. The AC ran well, with a maximum load of 1,200 W. I also tried a small 400 W inverter with the refrigerator. It works well; the fridge label says 0.8 A, way below the limit.
 
 ![3000 W inverter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRVYsVQarMh5uljse2ARl8uabZeKlwS8tRvoGzWKYAG-3PqNuPDeyrYktfXmdI93TSd_x0ODhJjEt0BRpe8vbhJATHul-J4vseZe1mOLjvdSxraUiFVD8Nk1lP95ezetgSZmGfyYHZS4bTFcG5axV7a-uFUcH-hBNj0kU1mw-m0Oyj_eLVZUMn1rXgQ/s1600/inverter.png)
 
 Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-test-day-water.html)
 
-To make the 3 kW inverter work with a 10.8 V lithium battery I had to change its low-voltage cutoff, by adjusting a 20 kΩ resistor on a small control board. The battery box fit exactly in the locker next to the original batteries.
+To make the 3 kW inverter work with a 10.8 V lithium battery, I had to change its low-voltage cutoff by adjusting a 20 kΩ resistor on a small control board. The battery box fit exactly in the locker next to the original batteries.
 
 ![Adjusting the inverter's low-voltage cutoff on its control board](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLt6lCqSkoDtLq8qLp9_QAa02iEJMWfJ4BmbJBYluFWJcu6JeLyJwyPLWaTHk8pJzMuAFty6YoK0VFC-6QUapTeGmr-_Ym8dy-9HAk2RRLiFI4VqjZSteDB3fanKd21yywiFW3EBEzMKgVAxcBnHYKt6VKZz71uy8nWRZUA4gDT5Dj3c5selEcaxeZEw/s1600/IMG_4029.HEIC)
 ![Battery box in the locker next to the batteries](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhekLPTGFKhLbnbg6vZdHnWXr6mgRPuw8LbTUTiRWWGwr1vikZ8nLJzISAesPahB2cwKOLebBLkzAy1uXEiixZIoqzQV6BXerg13IK5jK_uHPi8McUTwPjQweYbKwaldCN14CwhbHeD67aXoT4K3PMie_iR5zWN-7GfBdf7yrC1CX_oDBQTjm64mCQ2Ng/s1600/IMG_4013.HEIC)
 
 Diary: [22 Oct 2022](https://irwin34.blogspot.com/2022/10/day-53-1016-paint-day-water-tank.html)
 
-Then a flat floor for the lithium battery in that compartment. Maybe I can fit a fifth pack there.
+Then I made a flat floor for the lithium battery in that compartment. Maybe I can fit a fifth pack there.
 
 ![Flat floor for the lithium battery in the locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0GMQtRomKc-d1POATxKfWauddmFF01tGys06C5RwGuJXBBQz4z_KhZKWN5z1bJEEJ3i9LEBlKGfaYlTOjqvlDICM-t0UEnOayKbJKVQLk-GI49onPf7zd-ptu4gM0AjgCSx6vboxRVxeqsVNUPssWUGD7QTkF01kyE56sprtiZ9ckmKrc5PVYtqPhw/s1600/IMG_4215.HEIC)
 
@@ -126,7 +125,7 @@ Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-ca
 
 ## Off the old panel
 
-April 2023: terminal blocks on the back of the fuse box, and all the high-current and 110 V wiring terminated.
+In April 2023 terminal blocks went on the back of the fuse box, and all the high-current and 110 V wiring was terminated.
 
 ![Terminal blocks on the back of the fuse box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibqqo_6XFyd8sR_UkVBpU8hOpqZh-iobyCuWFYp9x8VuTNBQ_IvfA6tEcw1DUhq7TcdtVWjwUUmXykVXz7ScrqJrjeGaNLpIcqFGChrYv41jywNGa2LmFFSo_f0IYJ0T29-axqfQiH2stHW7edYlaADl5ItVUd3mPq6TF_CvbxSj5J0Q1eWgIR8ZzIww/s1600/IMG_5630.HEIC)
 ![Fuse box terminals and new wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEuX8dBZrsEJ-HMuX5l7TdB90kQCQf3OIRkI38MayE-GPIuA45gpAlkwP4bGefy6wsIzoX1521Uh0iHdKbenx4Nwon9On0LPcubqajvLq61BZfBCuoH2J7CSniPWDgZXPBO-uFF8Fe4nXCTXLBNFtJRVGjNg_bT0WQBdjZtd71Y4Mt6muzqAjbBaM1Jg/s1600/IMG_5681.HEIC)
@@ -136,7 +135,7 @@ April 2023: terminal blocks on the back of the fuse box, and all the high-curren
 Diary: [22 Apr 2023](https://irwin34.blogspot.com/2023/04/day-86-42423-refrigerator-electrical-8.html)
 Diary: [29 Apr 2023](https://irwin34.blogspot.com/2023/04/day-87-42923-front-cabin-vent.html)
 
-May: the battery charger moved to its permanent place, the original panels came out, and temporary connections went in so I'd still have power: 15 A fuse on DC, 25 A on AC. And a shelf for the inverter.
+In May the battery charger moved to its permanent place, the original panels came out, and temporary connections went in so I'd still have power: a 15 A fuse on DC, 25 A on AC. And a shelf for the inverter.
 
 ![Battery charger in its permanent place](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsRl-UYew-tdjFVrgRM7clOyLlThhhl9eFBFkZQSQTx9pCs2s69wriB716zXHdP4K9W0tdDr89xRGZKpy-8gLsDBnWo8TpW3bikp_Uw3XrXgNtXPCzEmw4vWYzae8ee26IIltICPnqzEelG2fdweCf7sLsYsDUVYQOHnTjz2LHZ6MebXI_HQTC7j5CdA/s1600/IMG_5768.HEIC)
 ![Temporary connections behind the removed panels](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwasK1rJ2zmNy7B2mf9rdvGVGfHaj6O8-9ckkhkfP4aGUdRhn5q0Y7008gKRZovuV_huH0n7tVaBNq4-EO0ZOKOwznB3HgsLR3XAzZDDpQCkOrBvbtGhRDZWmPUVxMlE4PiAow_o5ELvyRAFluFsKguvFF5CyzX2hYSWqh1d8jSxc7RbVtWIB7Fl_9Kg/s1600/IMG_5767.HEIC)
@@ -144,7 +143,7 @@ May: the battery charger moved to its permanent place, the original panels came 
 
 Diary: [13 May 2023](https://irwin34.blogspot.com/2023/05/day-90-51323-bimini-galley-base-rebuild.html)
 
-A 110 V outlet in the front cabin, then a 12 V outlet and USB charger there too. A temporary switch for the nav lights. Time to build a switch panel.
+Then a 110 V outlet in the front cabin, and a 12 V outlet and a USB charger there too. A temporary switch for the nav lights. Time to build a switch panel.
 
 ![Front cabin 110 V outlet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIKjkieIjF80LuvwsSI1dIdivZkBruDbKkQ1BZA-eyhYa3H8U9b2PRoR4VhjouAFnBE6gZZvGyhDKi1XoCfyAfZhId4QdO1zOxRLXiFK7RjfFvH8OjcmcGMdx9BAjE7RZqOjLjA54nIh-VsNPIm7GMFuzFReJCuRFDFwZsVwClJxpYCNR9IhzpvYfu6A/s1600/IMG_5823.HEIC)
 ![Front cabin 12 V outlet and USB charger](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRIRISAfKfiuMSJEo3L-D08lqAa9zaxNpGhejdou5DShvmtIQvSqI2fkIsrGYW5ao7uSTcZ4dfkZxC6avROs2kqxJUmucskuf3WMzUWu82KgJJX6RhxklCG9HdeIZGIqDyrwLE8QRD2wW8bulFbn5tQNr-TYeiyqe8KuWaKQvYIwq98Rx8BWt9hpxXFA/s1600/IMG_5905.HEIC)
@@ -153,7 +152,7 @@ Diary: [27 May 2023](https://irwin34.blogspot.com/2023/05/day-91-52723-fixed-win
 Diary: [10 Jun 2023](https://irwin34.blogspot.com/2023/06/day-93-61023-galley-countertop-fit-to.html)
 Diary: [17 Jun 2023](https://irwin34.blogspot.com/2023/06/day-94-61723-galley-countertop-final.html)
 
-Four galley outlets. A bottom plate separating the distribution panel compartment from the engine room. And the new electric panel design.
+Next: four galley outlets, a bottom plate separating the distribution panel compartment from the engine room, and the design of the new electric panel.
 
 ![CAD model of the new electric panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi72diMtbURqGgUkIAr0z0dJ3wBIx_xlE8bWBa4lswmFmDy3KG5jIJylAmxQHEcpdpOlf152eb8615o0Zqe2_uqfDTgPua6TWnUPzlxEzMnE4_QoDGcD05mn6aNnShwkSmE2Mh3oMrGfrJKFyATs7x2pgm8IsnVXqAelbc60bqe7X9jMAcqoxQ1ShHiRqKw/s1600/Panel.png)
 
@@ -161,7 +160,7 @@ Diary: [24 Jun 2023](https://irwin34.blogspot.com/2023/06/day-95-61724-galley-co
 
 ## A new panel
 
-July 2023: the new panel design, garage manufacturing, assembly, first dry fit. Really tight, but it fits.
+July 2023: the new panel design, manufacturing in the garage, assembly, and the first dry fit. Really tight, but it fits.
 
 ![Panel layout drawing on the screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5et1T32xHSRj_W_5qDZK3DICTY4CNqBGFuFex8v2_KSjuiVcL6jO2m7ht8S_HCzLz9sXEbKXUL0YxXODEIMYeWHiggQJNsysup2URWYLDe2mKiQO5TsCFUQ0egzKrkLmRa4udDJBzMsaIsqI7te-lm7Qw7Q7lTy8IHL-BneopUcZkW07JKDaWgODOrm8/s1600/IMG_5969.HEIC)
 ![Panel face cut on the CNC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDOi4OblmUa9mMZfosBntaRPcDTY-HEZwwJQ7mGk4JP5Jdd4az0s7ShZeTZQi3al3mAlQbngUYkev_Ks-nLGt-Zk1FoFJSKnGsHAqgu3HtIDh0tfWwfUpigTFEMeUueCA3y9JbZHwXbXvuJaSZEqPzg_IWUXNshXBw1pTfjdOB4jy1_jeWqlVXAIbHr2Q_/s1600/IMG_5974.HEIC)
@@ -189,11 +188,11 @@ Diary: [4 Jul 2023](https://irwin34.blogspot.com/2023/07/day-97-7424-new-electri
 
 ## The dock turned 90 degrees
 
-October 2023. I usually get to the marina early, and that day I came about 7 AM and... didn't see my boat. Even more, I didn't see THE DOCK my boat was on. I called the marina owner, and of course he doesn't answer at 7 AM on a Saturday. Short story: they turned the whole dock, with all the boats, 90 degrees. Five very hard minutes, then I found my boat.
+October 2023. I usually get to the marina early, and that day I came at about 7 AM and... didn't see my boat. Even more, I didn't see THE DOCK my boat was on. I called the marina owner, and of course he doesn't answer at 7 AM on a Saturday. Short story: they had turned the whole dock, with all the boats, 90 degrees. Five very hard minutes, and then I found my boat.
 
-Second surprise: no electricity on the docks. Third: the boat was now somewhere almost impossible to get in and out of: about 10 feet from shore to the transom and 3 feet from the rudder to the rocks. Later the owner let me swap with a boat across the dock.
+The second surprise: no electricity on the docks. The third: the boat was now somewhere almost impossible to get in and out of, about 10 feet from shore to the transom and 3 feet from the rudder to the rocks. Later the owner let me swap with a boat across the dock.
 
-But no electricity. So I went home and got the inverter and my 2.5 kWh lithium battery.
+But still no electricity. So I went home and got the inverter and my 2.5 kWh lithium battery.
 
 ![Marina from the stairs with the dock missing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV9VszjpMxaKccIF1KausTpRJYsV_yuzeshYa-P6HhvDxcNwlRdrUDRPr81djGx-vC-1fPh2XVGTWX1MwhKPf6PzKu8oh7mAAMbX_oyUp9TQTgBgiryIoDI1jADltiC52aOuxgxh2aZOgr7eGdeQmRrCbRc0pAB6c9VNaBcS98gJLW5AlfyHNGgJR42Qpf/s1600/123.png)
 ![Marina from the hill, my boat marked](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7yH7Kp3jY10kqQRZulVB5PnvyMEFO00ecx-UnOmCZcW-U4_uYeZO5aNzAmymnGrYlp1uT4A56abYN1Wg659vRVxBsZn4Y9FkEoPmy9m7yPk1aOj7lHsJhJY3kUpLGA9E3a73Qs64BQjhsxGbCRipBlHa5gl6OO_X5rcOmes7BYL43KH84GNiAYIhj4NsK/s1600/123.png)
@@ -201,9 +200,9 @@ But no electricity. So I went home and got the inverter and my 2.5 kWh lithium b
 
 Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-surprise.html)
 
-That was the first time I ran the inverter on the boat. A "dry" install: inverter on a cardboard box, output to the wires I'd run for it, low-voltage cables to the battery, and start. Everything worked perfectly. The 110 V panel lit the inverter lamp and I switched the input to "inverter". With just one battery I could only use about 1 kW without tripping the BMS, but that was enough for the lead battery charger, lights, a fan, and now and then the big shop vac and some power tools.
+That was the first time I ran the inverter on the boat. A "dry" install: the inverter on a cardboard box, its output to the wires I'd run for it, low-voltage cables to the battery, and start. Everything worked perfectly. The 110 V panel lit the inverter lamp, and I switched the input to "inverter". With just one battery I could only use about 1 kW without tripping the BMS, but that was enough for the lead battery charger, the lights, a fan, and now and then the big shop vac and some power tools.
 
-I'd put a battery monitor screen on the DC panel, but it shows battery current, not the house loads. When anything charges the battery, you see the battery current, not what the house uses. So I added another meter next to the refrigerator thermostat, to see the real 12 V consumption. I'm not proud of this solution, but better now than later. I also dry-fit a battery monitor and shunt on the lead battery and left it a few days to see how much they drain: under 10 mA, so about 5,000 hours, or roughly 7 months, to drain the battery. I think that's OK for "self-discharge".
+I'd put a battery monitor screen on the DC panel, but it shows the battery current, not the house loads. When anything charges the battery, you see the battery current, not what the house uses. So I added another meter next to the refrigerator thermostat, to see the real 12 V consumption. I'm not proud of this solution, but better now than later. I also dry-fit a battery monitor and shunt on the lead battery and left it a few days to see how much they drain: under 10 mA, so about 5,000 hours, or roughly 7 months, to drain the battery. I think that's OK for "self-discharge".
 
 ![Nav station panel with the battery monitor and current meter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFWtZseRktKBPak6J8gMMuG3aHeNM0b2hFPYG2b4GjSlNMdwtHpjLxqINJL4Qy8EkgBmpLs2RUpDJxW9rUKc6xkT6zj9ANcE2KuHL-ZcfGCjXIo8B2Q2KrBF5iS0Z5oYNXv7rE9qdb4LY5-tO1wupMwbH4bTE-2UWm_FIFci9jdHIHxP-zAStNCp7aRd8/s1600/Untitled.png)
 ![Junctek battery monitor on the 12 V panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHW1mFNFyN8Wh8oK_3M7hemGPYmzXLNGbwYlj32GgtEWr1mNRQzEOfm5pu9lXLbW4sMNml1g0oUsPwSIA7_Z7rABrbpFInuilPM_uCJoHHfMyHFTjddgwq1r6M2xZUBL7V6OxMgjp_aqO1Wt36dphpoxd-rWpoW-uai4E-iHlDae1zRZuz9gWndIm3OTbA/s1600/IMG_6727.HEIC)
@@ -212,7 +211,7 @@ Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-
 
 ## The nav desk panel
 
-January 2024: a panel at the nav table, with water and fuel tank gauges and a small 2.5-inch thermal printer, just in case I want to print a "ticket". The light over the desk dims from "good enough for surgery" to "hard to see anything". The black water gauge is where you'll check it before use.
+In January 2024 I built a panel at the nav table, with water and fuel tank gauges and a small 2.5-inch thermal printer, just in case I want to print a "ticket". The light over the desk dims from "good enough for surgery" to "hard to see anything". The black water gauge sits in the head, where you'll check it before use.
 
 ![Nav desk with the panel, gauges and light on](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCuMrdGCmBylOo6hksrc5BGH-xseWxP4S-7Rmxdzbaq2bRUvXTNh-gXBveWu6AAGEdJGj6VU69ayperNTj0LaJr9Or1T_J3Dal0Sii4aJvfj9tOlZt5yl0jYDdUtsrZNHK8d9m5gnmj53M_42qhUbNuZUXbbS7BllLusU6n3NqNbSd0VMtJ43axr1fHGNV/s1600/IMG_7135.HEIC)
 ![Nav desk light dimmed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8vELp-O0QoqjC-Y1dPT9_DrnK4XEwpItkqaxQ3MDdKth0Qq5kNEaB8ZF-XDzv90YCWz1nVOVESnYEjL1skrxBTOmWtV4iefoSYVNrdYGNoNc8yqEe-xmranta8n13cGazF8Ih6LcdnwF3Anyi-33CBxZNgdzOwcoH9nRuwobwkwu1jqmlyQq3cqb9mR-j/s1600/IMG_7140.HEIC)
@@ -220,7 +219,7 @@ January 2024: a panel at the nav table, with water and fuel tank gauges and a sm
 
 Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-year-8-hours.html)
 
-I connected that black water gauge to an indicator in the head, powered from the "WC" breaker, so when you go to flush you can see how much room is left for "stuff". I powered up the thermal printer; it's always nice to have something aboard that can print. Then I got ready for the cold with the engine compartment heater. And then, COLD WEATHER: −5 °C outside, docks covered with ice, and the lake at about +15 °C, steaming like tea in a cup.
+I connected that black water gauge to an indicator in the head, powered from the "WC" breaker, so when you go to flush, you can see how much room is left for "stuff". I powered up the thermal printer; it's always nice to have something aboard that can print. Then I got ready for the cold with the engine compartment heater. And then, COLD WEATHER: −5 °C outside, the docks covered with ice, and the lake at about +15 °C, steaming like tea in a cup.
 
 ![Black water tank gauge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Gzh4y40h7S9su9kXCigjdafEXoM0wfKlNe7SfzOhr8ISM6q8GSuFwY8L6xCMQSJqAFqKTSuV1-UwLAIN9mZsznOGIIB0malUN7fAE9LjCew_P9ojn1pkj0UgiwaPBtL9IT3EmukHssitzAC2HCwxrrN_3nvVHqj8k2ZnGGumDdN_FmZIglFr6_BKra2I/s1600/IMG_7281.HEIC)
 ![Thermal printer printing at the nav desk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQl6WQZemVAOY8HdOF7q0KEaaEc2o56reUmHerjFqVVu-0Ux49cfMVzDCQq6nfSD4gJJYk4zrjphv55_FPX6grP-w9mUBoQOWZosS3RgUmhHsST_LqMM77nu8tWdBkcuIiXluwVD4fkMq5RtH7neaeHzTTrR8oJqku2B0GL1Co0Bf7GirZF0UmK6fVElHr/s1600/IMG_7279.HEIC)
@@ -231,34 +230,34 @@ Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-co
 
 ## New battery cables
 
-I'd replaced all the wiring after the breaker panel with high-flex tinned wire to UL 1426, but left the battery side as it was. Now its time came. Three days: one to take apart the old wiring, one to look at the engine wiring and start building the new, and one to finish, tidy, label and zip-tie.
+I had replaced all the wiring after the breaker panel with high-flex tinned wire to UL 1426, but left the battery side as it was. Now its time had come. It took three days: one to take the old wiring apart, one to look at the engine wiring and start building the new, and one to finish, tidy, label and zip-tie.
 
 What I didn't like about the original battery wiring:
 
 - Old wires heavily oxidized, with many broken strands.
-- Low-quality crimps, strands sticking out of the terminals.
+- Low-quality crimps, with strands sticking out of the terminals.
 - The battery switch 7 feet from the batteries.
 - 15 feet of positive cable from the battery to the starter, plus 4 feet of negative, all in 2 AWG.
 - 10 AWG for the negative from the batteries to the DC panel, really undersized.
 - No way to charge both batteries from the alternator without paralleling them, which should be a last resort.
 - None of the extra features I wanted.
 
-The goal: comfortable, safe, to standard, reliable, easy to fix if something fails, and all the bells and whistles I want. Sounds simple. The new wiring:
+The goal: comfortable, safe, to standard, reliable, easy to fix if something fails, and with all the bells and whistles I want. Sounds simple. The new wiring:
 
 - Switches moved right next to the batteries. Three of them: start, house, and coupler (1+2).
-- Starter cables down to 3 feet positive and 3 feet negative, upsized to 0 AWG, so it can take everything from both batteries if needed.
-- A 50 A breaker on the house right after the switch.
+- Starter cables down to 3 feet positive and 3 feet negative, upsized to 0 AWG, so the starter can take everything from both batteries if needed.
+- A 50 A breaker on the house circuit, right after the switch.
 - A dual battery isolator, so the alternator charges both batteries.
-- An "ideal diode" module, so the house runs from a shore power 14 V supply when available. A battery charger gets confused when loads are on the battery while it tries to charge. No more confused charger.
-- A smart monitor on each battery, two 400 A shunts and their electronics.
-- Wiring for my 350 Ah 12 V lithium battery to the 3 kW inverter, with a fuse and switch. The lithium doesn't feed the 12 V system directly, only the inverter. A DC-DC charger to the house battery later.
+- An "ideal diode" module, so the house runs from a 14 V shore power supply when available. A battery charger gets confused when loads are on the battery while it tries to charge. No more confused charger. (Spoiler: it found new ways to get confused. See "Lithium lessons" below.)
+- A smart monitor on each battery: two 400 A shunts and their electronics.
+- Wiring for my 350 Ah 12 V lithium battery to the 3 kW inverter, with a fuse and a switch. The lithium doesn't feed the 12 V system directly, only the inverter. A DC-DC charger to the house battery will come later.
 - 4 AWG from the batteries to the DC panel, good for up to 130 A.
 
 ![Notebook sketch of the new battery wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOsSKB6ksSSybnmScBXpTcPr1elhe2tyKIg9sqp9nFUzUKc6DC9GDJBwjN1KHP9mx30EuTFVgR9JV8figuf3cA8YPqnNkwRNNb2IRKbSTmpI8l8qsYyRH3bGTVZ1OzmV7_HCut-bpfTDiHw-maN07wrCfrjRWh51sHCDI7O0SElyJiDBiC4zQVYs7Xb_By/s1600/IMG_7329.HEIC)
 
 Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-12823-batteries.html)
 
-Ideas on paper, then counting every length and gauge. I ordered all the cables made up from Battery Cables USA and got them in three days, with very good crimps and real marine battery cable. Lots of planning to get everything right. I laid them out to check lengths and terminal sizes, then laid out the components. Switches, diodes and breakers are in the engine room, port side, right next to the batteries on the other side of the wall. In 2D it looks a bit messy; in 3D it's better. The battery compartment, with the monitors on the side wall, and a view toward the engine, with some wires still "flying" on day two.
+First ideas on paper, then counting every length and gauge. I ordered all the cables made up by Battery Cables USA and got them in three days, with very good crimps and real marine battery cable. It took lots of planning to get everything right. I laid the cables out to check lengths and terminal sizes, then laid out the components. The switches, diodes and breakers are in the engine room, on the port side, right next to the batteries on the other side of the wall. In 2D it looks a bit messy; in 3D it's better. Here's the battery compartment, with the monitors on the side wall, and a view toward the engine, with some wires still "flying" on day two.
 
 ![Notebook list of cable lengths and gauges](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_G52ge7vlv4Gw__aljVbUYJ4Ax20QYzpTAOfBDNpxfVTDD3vuVsEKsnAXMlMHtsJY3Wp1wkcEoxUOKEstY0zXwC8DsqGmgrM2hfeY-AltKTxW5VEcuVTaY62qYo80zOWd6i-Tye52zIWYKp8_dg0yKn8L0eRBkEwi93NeVL63Dyj6aEbrCxMip2NBL5t0/s1600/IMG_7328.HEIC)
 ![Notebook list of cables and terminals](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhNty1NqcTxB2KoUZwZdmAftdBO7eOj5tW1BpCDfVpid-HZDMyWDWH3zLkZDzA8xU9e2PElFeP9byFdUWWMUuX7BpPcM8cdPlzp7ENT4rn4UYKtbVZZRfaZJbk7qXLbRDcLNr2dbJudmNao8tSYSiP_j5fudUpH6NcJeDTTeZV_03IKmFlxS47nr6Z2rrk/s1600/IMG_7327.HEIC)
@@ -273,7 +272,7 @@ Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-
 
 ## Priming the inverter
 
-With the 3 kW inverter and lithium battery working, I wanted a switch for that "sweet couple". But the first time I connected the battery to the inverter, the BMS shut it off: a huge current spike from charging the inverter's input capacitors. So the capacitors have to be charged first. I added a button and a 100 Ω resistor across the main switch, with an LED showing the voltage across the resistor. Now I "prime" the inverter: press the button and wait until the LED goes out, then switch on. A new power switch panel, dry-fitted.
+With the 3 kW inverter and the lithium battery working, I wanted a switch for that "sweet couple". But the first time I connected the battery to the inverter, the BMS shut it off: a huge current spike from charging the inverter's input capacitors. So the capacitors have to be charged first. I added a button and a 100 Ω resistor across the main switch, with an LED showing the voltage across the resistor. Now I "prime" the inverter: press the button and wait until the LED goes out, then switch on. Here's the new power switch panel, dry-fitted.
 
 I also found something pressing on the back of the big cockpit screen, stressing the LCD. It was a USB extender box stuck between the plywood and the display. I cut a hole to take off the strain. It was like digging around a land mine: cut the plywood without breaking into the adapter. I scratched it a little, but it still works. A nice cover next time.
 
@@ -282,7 +281,7 @@ I also found something pressing on the back of the big cockpit screen, stressing
 
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
-All the antenna cables joined with N-type connectors. Ready to close the headliner. Testing with a handheld VHF, the signal is much better from the masthead antenna. Unfortunately there's no radio check service in Austin, at least I didn't find one. And a "booster" battery, another 67 Ah, next to my 268 Ah inverter battery. The small wire powers the smart monitor. Still need to figure out how to secure the batteries in the locker.
+All the antenna cables are now joined with N-type connectors, ready to close the headliner. Testing with a handheld VHF, the signal is much better from the masthead antenna. Unfortunately there's no radio check service in Austin; at least I didn't find one. And a "booster" battery, another 67 Ah, went in next to my 268 Ah inverter battery. The small wire powers the smart monitor. I still need to figure out how to secure the batteries in the locker.
 
 ![Antenna cables along the ceiling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdWs-6bccy6mMYpbo-g3PX77jQZ_C4417l5t2Cd5fdcweAlg1p2alUV2meTObiIcd5pIzd5v3nSIOdgcIcWxaJ6mhLx9dKtBZSMTIBUUU4cE57uZTgT9n5v-C3Jipl47fyDh44C7RuPa7t7oqdkapdIZBo211iOXOltjStbdEP1Ix59Zkrlg_9VYCyHApW/s1600/IMG_7631.HEIC)
 ![Handheld VHF testing the masthead antenna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcQZqNKFP4TUkHUEvNM1Z8VSZKk53uWCus2CtLXUOuYqEvc-qGDn2p0kPreMVfVUBIbX0c8MnGtBfQOjKqOlvPowCEtzIT5fevJDI61UHKupUJZAt176EZs6Ww0kgmDa6BjJ03M2Y3rZ6gqsyNeCYlLUYHS8r4fyAD62IdJkahSXOIds2bLE3shBxS4mbz/s1600/IMG_7632.HEIC)
@@ -292,9 +291,9 @@ Diary: [25 Feb 2024](https://irwin34.blogspot.com/2024/02/day-132-225-getting-it
 
 ## Mast cables
 
-In February 2024 I sealed the last piece of wiring: where the mast cables come through the deck. For now three cables: nav and deck lights, VHF antenna, wind instrument. First, let's see what comes out of the mast. Just a 40-year-old boat: three connections for each wire hidden inside the mast, wrapped in layers of electrical tape, some crimped, some twisted.
+In February 2024 I sealed the last piece of wiring: where the mast cables come through the deck. For now there are three cables: nav and deck lights, the VHF antenna, and the wind instrument. First, let's see what came out of the mast. Just a 40-year-old boat: three connections for each wire hidden inside the mast, wrapped in layers of electrical tape, some crimped, some twisted.
 
-I chose a single cable seal box made for 3+ cables, so I can add more later, the powder-coated stainless version. It's well designed, but I like to raise through-deck fittings a little so water flows around the seal. So a 6 mm G10 mounting plate laminated to the deck, which also gives a nice flat surface for the gland. 20 minutes in CAD and 15 minutes on the CNC. The plate glued on thickened epoxy with fillets around.
+I chose a single cable seal box made for 3+ cables, so I can add more later, in the powder-coated stainless version. It's well designed, but I like to raise through-deck fittings a little, so water flows around the seal. So a 6 mm G10 mounting plate is laminated to the deck, which also gives a nice flat surface for the gland. 20 minutes in CAD and 15 minutes on the CNC. The plate is glued on thickened epoxy, with fillets around.
 
 ![Mast wires coming through the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxO8H2tjRsB5qAucfOItSaVQ8O25NBp6Fd87_BmGKI8-NARB08xvbWwATSr-6p-HabgE-ryTf0Md-fyKrVvMFCdVdbp61zotsZLwO-menPrSj86KDV7Gon5V7wt8f3k2yuuVK2jQzlpor9605nfoKZmFAOvovOjoVggp1jP8KgSZmfekY0_f-OOveyXry9/s1600/IMG_7545.HEIC)
 ![Seaview cable gland](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinoXGSbsNmxPVUTaRa8jbn97Y3-f4la13LGMJsZEgQbEchUkd5pVW_PR82tTuW1D88vIwblNuOY1wP_LzpJt5nue9BE3d-VPYqySKpVKZy57ZdlmhxbRyuj_FquMO_FIqIF6X4_WIk6g-Macdgj6jORO-fZfZKqDA4cA-cYVy36f8pgm0RsmrvWy6Y_C9b/s1600/104.jpg)
@@ -303,11 +302,11 @@ I chose a single cable seal box made for 3+ cables, so I can add more later, the
 
 Diary: [18 Feb 2024](https://irwin34.blogspot.com/2024/02/day-130-218-mast-cables-cable-gland.html)
 
-The cables got sleeved in polyester rope covers, for UV protection, and they look fun. You can see the raised plate, with about half an inch each side for water to go around. Patching and painting later.
+The cables got sleeved in polyester rope covers, for UV protection, and they look fun. You can see the raised plate, with about half an inch on each side for water to go around. Patching and painting later.
 
-By the way, the mast base looks cracked, but when I drilled the deck for the wires the core shavings were completely dry, so the cracks are probably only gelcoat deep. I'll fix them when the mast comes down. Not now.
+By the way, the mast base looks cracked, but when I drilled the deck for the wires, the core shavings were completely dry, so the cracks are probably only gelcoat deep. I'll fix them when the mast comes down. Not now.
 
-Under the deck I tidied the wiring too. The wires dip to a low point before they connect, as a water trap in case of a leak. And a water test: a 2-inch masking tape dam around the seal, filled with water, left for 30 minutes. No drip inside, at least for now.
+Under the deck I tidied the wiring too. The wires dip to a low point before they connect, as a water trap in case of a leak. Then a water test: a 2-inch masking tape dam around the seal, filled with water and left for 30 minutes. No drip inside, at least for now.
 
 ![Cable gland installed by the mast](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtkVh0roe0S3aRVSTfIu-_ZQo-J7OQzpBHsFMYUmd5o8mdiyhDI7iOvEB15bssROV-1sIkz9qd7b_224LfUk6MKdR0QCFOWHt9ezxKjWhW0QD5XXQjGP6MCP-g54RdAhLYVj_kv3SGc4g19Q_Wx2QCZRF9TB_V07Kyx27nEVtlO88z0EuvoUO32X-QomK/s1600/IMG_7550.HEIC)
 ![Mast cables with polyester braid in the gland](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRvnR2PzmJD2pKdwTixr2u5IrVcCOF1RGIxy-yx0VP3DgFxtseeW2gBCU53mzW_E6e2TC3KUvhvZOQSPXlb5B0w7SsmjmU_dfzHXZ9tv9jLCotq6I1WnSD3Gd6SncgvoWScBwoPUt16Ic_MXSQs0q_-4NOZoua9-_wM3wpprAAwk1RjOspqD3eY0gxw9z/s1600/IMG_7549.HEIC)
@@ -315,7 +314,7 @@ Under the deck I tidied the wiring too. The wires dip to a low point before they
 
 Diary: [18 Feb 2024](https://irwin34.blogspot.com/2024/02/day-130-218-mast-cables-cable-gland.html)
 
-I routed the wind instrument cable to OpenPlotter, so now I have the instrument and the camera view on the dashboard. And a plug plate over the hole I'd cut to take the pressure off the cockpit LCD. Maybe later one single plate.
+I routed the wind instrument cable to OpenPlotter, so now I have the instrument and the camera view on the dashboard. And a plug plate went over the hole I'd cut to take the pressure off the cockpit LCD. Maybe later it'll be one single plate.
 
 ![Nav station with the chart on the big screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihZbU2bcQKnrNkix1of9czHkAsWVXAfgxMyIulgFUjcFMWoGeOiUNOjtGG2Hrwd7t3_JlbFZEAMGxBq_-q5gFfzj4-gDOQ-6mNBjzwNOGStQRB7V5sjDIyw2epWk73YsQJN5VMNgwxJ5PdGuSe2yAFzr3PltVF9r6QP-voP1jDUtmdP97fZOMhCpFRirMS/s1600/IMG_7547.HEIC)
 ![Plug plate covering the hole by the cockpit screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSei9IRMrBNh1aIBzmu_0laF5zBQknf6oA__ixfKkYIbvroMem8DEYyf3DS6othfEATnrH8ePrZJAht0yJQvmJgdZ5leJjdA1Pgj4189QDp_yG-eVKwH_i6w6z9TsfLXifemoey_LRJbeoupfZuCDC-w3R9DARQBharKpoy1kBL4gMQxRpRlyS9kQaFjlS/s1600/IMG_7481.HEIC)
@@ -331,48 +330,50 @@ In February 2026, at the boatyard, the mast got all new cables, eight in total:
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)
 
-Connecting them under the deck: easy to say, two hours to play with. I still had to fish three wires to the nav desk: the radar, the Ring camera power and the spare Ethernet from mid-mast.
+Connecting them under the deck: easy to say, but two hours to play with. I still had to fish three wires to the nav desk: the radar, the Ring camera power and the spare Ethernet from mid-mast.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
 ## Lithium lessons
 
-March 2026: the new 100 Ah LiFePO4 house battery had been in for a few weeks without a proper fuse. A class-T fuse went on the battery cable. Breaker guards on the main panel. And a Victron 25 A charger for the inverter battery, wired behind the panel. Still to do: its 110 V feed, and a relay to block charging when the 110 V system runs from the inverter.
+March 2026: the new 100 Ah LiFePO4 house battery had been in for a few weeks without a proper fuse. A class-T fuse went on the battery cable. Breaker guards went on the main panel. And a Victron 25 A charger for the inverter battery was wired in behind the panel. Still to do: its 110 V feed, and a relay to block charging when the 110 V system runs from the inverter.
 
 ![Victron 25 A charger behind the panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqwQ5ZT3V_QSB8Cp8l6lADtiCRCWkUcZZTquOkeKAHhRGvfNHLlOgoCdSzypw-HJh_1Gk7EZnKlNs7URWZ55WH3jenqcm2PI5_UXtVJcXBsIDUw8PTGNXsSDXat-jtfUP9Xgmo6hyphenhyphentwwHCI8ZPKYc7Xw1wys-9HmEkPa0P1OiG5BkM9wv3EacyiKpi0Amc/s1600/IMG_0983.HEIC)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
-In April 2026 I disconnected the house battery from the alternator: charging LiFePO4 from the engine alternator without watching the alternator temperature wasn't a smart idea.
+In April 2026 I disconnected the house battery from the alternator: charging LiFePO4 from the engine alternator without watching the alternator's temperature wasn't a smart idea.
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
-In April I added a dimmer for the indicator LEDs on the main panel.
+Also in April, I added a dimmer for the indicator LEDs on the main panel.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-I have a NOCO GEN5X3 three-bank charger for the start, house and windlass batteries. It worked well for about five years with lead-acid. Then the house battery became LiFePO4 and I switched that bank to lithium mode. Everything looked fine at first. I also had a 40 A, 14.2 V power supply running the 12 V system from shore power, joined to the battery through a 100 A ideal-diode module.
+I have a NOCO GEN5X3 three-bank charger for the start, house and windlass batteries. It worked well for about five years with lead-acid. Then the house battery became LiFePO4, and I switched that bank to lithium mode. Everything looked fine at first. I also had a 40 A, 14.2 V power supply running the 12 V system from shore power, joined to the battery through a 100 A ideal-diode module.
 
 One night, sleeping aboard, I saw the lights blinking now and then and the nav computer rebooting every 10–15 seconds. A mystery. I checked for heavy loads, loose connections, bad wiring. Then I saw the NOCO showing "Overvoltage" on the lithium battery. Surprising. The BMS showed nothing suspicious: the battery was simply at 100%.
 
-Then I found the BMS was a little too smart. At 100%, it simply disconnects the charging path. No fault, just discharge-only. After resting, the battery voltage dropped back to about 13.9–14.0 V. The charger saw that and decided to charge again. But the BMS had blocked charging, so the current had nowhere to go and made a short spike of about 16.5 V. The battery couldn't absorb it, so it went to the ideal-diode module. The module saw the battery side suddenly higher and switched sources, and because the pulse was so short, it confused the whole sharing arrangement and made a spike and then a dip on the 12 V bus. My computer's protection socket saw the bad voltage and shut the computer down. A few seconds later everything recovered, and then it all happened again.
+Then I found that the BMS was a little too smart. At 100%, it simply disconnects the charging path. No fault, just discharge-only. After resting, the battery voltage dropped back to about 13.9–14.0 V. The charger saw that and decided to charge again. But the BMS had blocked charging, so the current had nowhere to go and made a short spike of about 16.5 V. The battery couldn't absorb it, so it went to the ideal-diode module. The module saw the battery side suddenly higher and switched sources, and because the pulse was so short, it confused the whole sharing arrangement and made a spike and then a dip on the 12 V bus. My computer's protection socket saw the bad voltage and shut the computer down. A few seconds later everything recovered, and then it all happened again. Three smart devices, and together they made one dumb party.
 
-That's what pushed me to design my own UPS-like power switch. It's in the small electronics story.
+That's what pushed me to design my own UPS-like power switch. It's in the Small electronics story.
 
 Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-kemahtx-to.html)
 
 ## A real ELCI
 
-In May 2026 the shore power GFCI started tripping whenever the refrigerator compressor started. I'd checked the compressor pins to the case before and couldn't measure anything under several megohms, so I was sure it was fine. Maybe the GFCI got damp or too sensitive in the humidity. When it tripped again, I decided it was time for a real Equipment Leakage Circuit Interrupter made for boats.
+In May 2026 the shore power GFCI started tripping whenever the refrigerator compressor started. I had checked the compressor pins to the case before and couldn't measure anything under several megohms, so I was sure the compressor was fine. Maybe the GFCI got damp or too sensitive in the humidity. When it tripped again, I decided it was time for a real Equipment Leakage Circuit Interrupter made for boats.
 
 Saying ELCIs are expensive is an understatement. You hardly find anything under $250, even on sale. But I hate the idea of 110 V on the boat without ground-fault protection, so I bit the bullet: a 30 A ELCI and an IP67 box, to replace the industrial DIN-rail GFCI.
 
-It arrived, nice and shiny. I spent an hour putting proper terminals on the wires and figuring out the routing. Then, on the very last screw, I heard a "crack" and the terminal came loose. It wasn't secured properly inside. So no GFCI or ELCI until next time.
+It arrived, nice and shiny. I spent an hour putting proper terminals on the wires and figuring out the routing. Then, on the very last screw, I heard a "crack", and the terminal came loose. It wasn't secured properly inside. So: no GFCI and no ELCI until next time.
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
 
-Thanks to Walmart for refunding the broken one, I ordered a new one, a Blue Sea A-Series 30 A double-pole. Now there's a proper ELCI on the shore power. I found an IP68 box as small as reasonable, and as usual it's "a little small", but the next size is really big. A panel-mount ELCI in a box with no front panel isn't simple: it's deep and doesn't fit in the base, so the panel has to stick out about 1/4 inch. I designed a panel that protrudes, with threaded inserts in the box, and a separate space for a ground terminal block behind a small wall. It's installed 10 inches from the shore power inlet, in the starboard cockpit locker, easy to reach. And the real label.
+Walmart refunded the broken one, and I ordered a new one, a Blue Sea A-Series 30 A double-pole. Now there's a proper ELCI on the shore power. I found an IP68 box as small as reasonable, and as usual it's "a little small", but the next size up is really big. A panel-mount ELCI in a box with no front panel isn't simple: it's deep and doesn't fit in the base, so the panel has to stick out about 1/4 inch. I designed a panel that protrudes, with threaded inserts in the box, and a separate space for a ground terminal block behind a small wall. It's installed 10 inches from the shore power inlet, in the starboard cockpit locker, easy to reach. And here's the real label.
+
+From bare copper twisted under tape to an ELCI, a smart power switch and every wire tagged at both ends: the electrical system is the part of Vira that changed the most, even if you can't see most of it.
 
 ![Old shore power box with the inlet wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiISXDV5noWA_D_cQuMnGaZmF_FZmiDfoxGCDvh36uN0TzYdekU4k9Fbk9U_d1TBYSp3dMot_DrCfat8Wqngqb5YbghXN8LvF7ux6LgqfxGDX7hirmnDSj6wKqsI3lkMYXGn2Ku4DJZ6bmv5-Ts67ScCszXYFNkeJAHsHMc5Wl9WsP_wDEVdsVpaTOcHtPW/s1600/IMG_1448.HEIC)
 ![3D model of the raised ELCI panel and box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZetSPRaUkl3G-fNEf9-sITJfnefSGz3G8cb1i0KIQVh1ISlhQqoIwgq-R6wCXUr-ZtQjYWzFZJbvug8gLx1uiNXEcE8DuAWssK1GioR206eTKCPhXDxg1Rxu-sJm4KmrulbtS6owgakLYEM4TDboM1FEbzu3SrODk7XDpNvGhWzCKHLHpwq96K757dC1A/s1600/Untitled.png)

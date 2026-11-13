@@ -6,16 +6,15 @@ order: 2
 description: "New chainplates, the forestay failure and the switch to Dyneema."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43nNRCZAJBt66v8KFjRednbxmciumiEzd4Te1bNxE1S07YFXKssjf3qcYTTH4qb6j6jJrufYL0IsFfuYIio70MjmLCS6C4mJ2Db_vNqvHKLW2V2Oul0oHPDv6V9bg37Mkjs6lRRAUain4E4mwX4_NRY0jXl8r2wM68RFMDBXjpqaw57N7FRYM5t0AFg/s1600/IMG_5358.HEIC"
 ---
-
-The mast stands on wires, and the wires stand on chainplates. On Vira almost every piece of that chain needed work. I started with rotten chainplate mounts in my very first winter, and ended with brand new shrouds in 2026.
+The mast stands on wires, and the wires stand on chainplates. If any link in that chain gives up, the mast comes down, usually with drama. On Vira almost every link needed work. I started with rotten chainplate mounts in my very first winter, and finished with brand new shrouds in 2026.
 
 ## Taking the load off
 
 January 2022. First I dropped the sails, to take as much load off the mast as possible, and to clean and fix them. Folding sails alone is a bit tricky, but this deck is pretty good for short-handed work.
 
-To get to the port lower shroud chainplate, I needed it free while the mast was still up. You can't just unpin a shroud with the mast standing. So I made a bracket and moved the tension to the toe rail. Not elegant, but without big loads it should hold.
+To get to the port lower shroud chainplate, I needed it free while the mast was still up. You can't just unpin a shroud with the mast standing. So I made a bracket and moved the tension to the toe rail. Not elegant, but with no big loads it should hold.
 
-And look at this cotter pin. I was impressed.
+And look at this cotter pin. I was impressed, and not in a good way.
 
 ![Sails dropped on deck to take the load off the mast](https://blogger.googleusercontent.com/img/a/AVvXsEgj58kSeqqVGCRJ8TAdP7_rjB81VqtoJi3_BP80P7FUl-TZMDnm3rpD61HLU6iNAytC8LYbTwRYSCjls1VN7_Mhou47nvG6dtc55QOtJIrBmLtX_Q3V2sVEu4r8pqUt-YoHdVDVJUMMJ_iR84vv8fVTTJxWIaCViA9XVfDH6G9Z-nSA0cfKaWbjJNWnlA=s1600)
 ![Genoa dropped on the foredeck](https://blogger.googleusercontent.com/img/a/AVvXsEgKNZRzfYr2-VGyUhU5Aifxdze2HEC-pao5TxnMVq-xsDfbJWkn9Fs-29bn4ETpJcSkW4dzmEIffRNitIR53vpQtym6xb620Et0EJnvJg6OcdwjAii75FsppicbJiy4jBQK1Fk85w5MM170Hv40PJRPt6XZ-ibUBBpEbNe4i7VCDtPWDRiZDa91SB--EQ=s1600)
@@ -31,9 +30,9 @@ Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-st
 
 ## Welcome to hell
 
-The chainplate mount is inside a molded cabinet in the head. Welcome to hell. Who did this and why, I have no idea, but it's not right. The two top bolts sat in totally rotten plywood.
+The chainplate mount sits inside a molded cabinet in the head. Welcome to hell. Who designed it this way, and why, I have no idea, but it's not right. The two top bolts sat in totally rotten plywood.
 
-Three hours of boat yoga in the toilet to get that rotten board out. With the tools I had, I couldn't even finish all the prep sanding.
+It took three hours of boat yoga in the toilet to get that rotten board out. With the tools I had, I couldn't even finish all the prep sanding.
 
 ![Head with the cabinet removed for access](https://blogger.googleusercontent.com/img/a/AVvXsEi_BxAVQmr4hi_bPFHzCTkBxArD7UAS3fyjABN9KgDcKATLMSJNnKgB5UYPas1Xn9iVnYHS6qdm9s1nIA0d-lZ4iByb_Gclc6QENCh-xG0KbCoVmt0IZEjTk5NzI79RCeO-pNhDthhAFfjA1eJQ2Wp2YOYTQTRzbuOUWVwh4Ts-gDg3KmOXqFH5GBF0VQ=s1600)
 ![Rotted chainplate mount inside the head](https://blogger.googleusercontent.com/img/a/AVvXsEhfJk0Xwonko4C11uNtXanRWcxahVMjAz0BQBZDS1wvswyRwg82M80N3UYUpBfKirkt0z4Hk0RDqWXhyLVB7-cY72Rz5wme40M8drlACQvo8y8phN6iAfSiCMZobW_eXbgQVLUrUmvGHV8pr8wOvF7iqjxTwp33DZAGRDACeudx_M4TTh1XpoZNQPQ9bQ=s1600)
@@ -48,13 +47,13 @@ Three hours of boat yoga in the toilet to get that rotten board out. With the to
 
 Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-stay-chainplate.html)
 
-A week later I built the new mount. I kept the original tabbing sides and beveled them 12:1, three inches for a quarter inch. I chiseled the inside down to clean glass and left the glass "wool" on purpose for more grip. Maybe wrong, but more surface can't hurt.
+A week later I built the new mount. I kept the original tabbing on the sides and beveled it 12:1, three inches for every quarter inch of thickness. I chiseled the inside down to clean glass and left the glass "wool" on purpose, for more grip. Maybe that's wrong, but more surface can't hurt.
 
-Then I glued three layers of 12 mm bakelite plywood together, 1.5 inches total, wrapped it in epoxy-soaked mat and glued it in the original place. Then four layers of 1708 on each side to match the original tabbing, and two more on the right side a few hours later. It was cold, so I left a heater to keep 20 °C, because the slow hardener wants above 16.
+Then I glued three layers of 12 mm bakelite plywood together, 1.5 inches in total, wrapped it in epoxy-soaked mat and glued it in the original place. Then came four layers of 1708 on each side to match the original tabbing, and two more on the right side a few hours later. It was cold, so I left a heater running to keep 20 °C, because the slow hardener wants more than 16.
 
-Next day I ground it again and added three more layers of 1708 each side, tabbed to the hull in single pieces. I also measured the chainplates to make a new set.
+The next day I ground it again and added three more layers of 1708 on each side, tabbed to the hull in single pieces. I also measured the chainplates to make a new set.
 
-And a bonus, my glassing workplace.
+And a bonus: my glassing workplace.
 
 ![Knee area sanded around the old tabbing](https://blogger.googleusercontent.com/img/a/AVvXsEgyQE6WHgpih5psZZ8Fnkz6M-gG4sGXBMjYxYQrspmKC1xSOGBb6xSEA7XQispVfcqYDnQ1prWFkRsaPET0EFqg4WRdjO7GcJT9es6sLG4S54Hr6GDfN0gELEqAGrmrjp2XjBAqBg7Dp3b48c3gPbA3GeuhcXo3QdXRz84Hg0RO8aWkyKfPN2Zi6hoECg=s1600)
 ![Old knee glass cleaned with a chisel](https://blogger.googleusercontent.com/img/a/AVvXsEjCn8LaL2egjEeW-LVQvNWQd3_1ujHEx52CxJgRQayBOYsj9iSyX_DCRyHPfrrmOJjJsG100-fuceahUqVXMCWg8HJOz0PiyYWxYQCBie_xd_ktZIVvkFfZA4W2k1ayLpJvJjoxN-kRAGxObHfMBQvBSIcaSCLktMZYw_yrzUZi4OeNh_PlOmfYD54cVA=s1600)
@@ -69,7 +68,7 @@ And a bonus, my glassing workplace.
 
 Diary: [30 Jan 2022](https://irwin34.blogspot.com/2022/01/day-12-130-chainplate-mount-part2-3.html)
 
-Oh, and I have a first aid kit on a board now.
+Oh, and I have a first aid kit on a board now. Given the tools involved, it was about time.
 
 ![First aid kit and the head cabinet area](https://blogger.googleusercontent.com/img/a/AVvXsEh0uWJ0IzYbQKDxf-VUBVmp7Pa-6nAYjcQLVSjuvRR6vdttCSg3OkiJDloAWOaRyObcNy3nulbN-3xj48m2vK8iVMMDidA4LFR9tEFDW2Ct1b_3PbE90rtvaqVkzapT2fivoPuvBqOJDApeb40Dz6ngRsXFr0loxTySU6OxJOg_ahpsCQJB7FODAn2yIQ=s1600)
 
@@ -77,14 +76,14 @@ Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-st
 
 ## New chainplates
 
-February: the new chainplates arrived. I tried to polish them. Not excellent, but they look good.
+In February the new chainplates arrived. I tried to polish them. Not excellent, but they look good.
 
 ![New stainless chainplates on a board](https://blogger.googleusercontent.com/img/a/AVvXsEiARe5Hr0tcxUscnV1NQLRpBehIbKYQTzTJxejiKwJjsUpPp1mZrvTU90daTfLwWfMLAtnwJuW-feJQ9wopU0tsVfko0h85CNSFlxZH-poBcY-DbRhWpQ5BpYN6QooQo0cnSDVHX7Uwb9_8c6PU_uhJaaYO5Z-PK_m19qm8DPCC-BhBceL35cZ__hE6OQ=s1600)
 ![New chainplate and the old one on the deck](https://blogger.googleusercontent.com/img/a/AVvXsEiao_s8YMgPkQSENrzJo2KhihCu5RjHaDkj-gAATvbhspOv4LWIe0uDh09TArZM4N6f0n_NaG_qTj0HUXnlBh4_D7xQ8Fz-yvjHnMeD1ZKd1qITHnjYFwD2sTQB4ajvfjpyke5ByPy7ap1CYRFJsmdRNPQ4oTK99CwJO-3X2Yc_SPGT29bEcnC9-kDe6Q=s1600)
 
 Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-saturated-deck.html)
 
-Dry fit on the port side. I drilled the holes, drilled them out bigger and filled them with thickened epoxy. On the starboard side the mount got three layers of 1708 outside, three inside and one layer of woven roving.
+Next came the dry fit on the port side. I drilled the holes, drilled them out bigger and filled them with thickened epoxy, so the bolts never touch bare plywood. On the starboard side the mount got three layers of 1708 outside, three inside, and one layer of woven roving.
 
 ![New chainplate dry fit on the knee](https://blogger.googleusercontent.com/img/a/AVvXsEiTrSIQQhasWNHM-BNpmqKPD-5NOhJdUhCQmf5ExXydJXBXbTGtdKi1ZdyYv2vky4dZKYVcDkE-l20Bd-J1QFCm32ooF9tuy_PX3cHByKcAuZBm5xZRmdwWTTpRmAojNd8IKqS7MztztHutb6U8Lv01TVmR57bWQtvy8rpfUVVnktxURm-1FnOT3RkUIw=s1600)
 ![Knee with the chainplate bolt holes filled](https://blogger.googleusercontent.com/img/a/AVvXsEi8nJmceJ4zTOxPuUoGRUBx6W0_1BJk9N402mzzxOIhDJATfxQDjBQ1IgGK7vUfo_gi7h2jDotlGxj5ILgOBuGjkW6xK0zpSFa-KsgYlzC7aZAsybqHq0sk4COEwJMx3VlzSwyYc_LhAvktXv-3-t48rvVejuXM36ohPrswFYlqc1QsnlUvK2geIP7QUw=s1600)
@@ -94,13 +93,13 @@ Dry fit on the port side. I drilled the holes, drilled them out bigger and fille
 
 Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-saturated-deck.html)
 
-I machined little "humps" out of G10 for where the chainplates come through the deck.
+I machined little "humps" out of G10 for the places where the chainplates come through the deck, so water runs around them instead of into them.
 
 ![G10 deck plate for the chainplate](https://blogger.googleusercontent.com/img/a/AVvXsEiZRi3P6bLUSNsN6QpTaY1vSaR9gzaNyJezBHUN2GWx5PhM-EWSkXUOdIJLnJESbZl7uH29lPUwvOZRmFmWEhdhKoR4tJ1P9W9HGX3chgiEb0tOj2SamFkAbwJ2wb4-GDAv_tVQ-o-R3INQF9_wR8Wxxo2tT8ozm7CmbK0qtdE8afw03PcG9dyZfvrRig=s1600)
 
 Diary: [19 Feb 2022](https://irwin34.blogspot.com/2022/02/day-15-21922-deck-re-coreing-step-3.html)
 
-March: I cut the deck openings, dry fit the plates, and filled the holes in the deck and the top plates with thickened epoxy.
+In March I cut the deck openings, dry-fit the plates, and filled the holes in the deck and the top plates with thickened epoxy.
 
 ![Chainplate in the main cabin](https://blogger.googleusercontent.com/img/a/AVvXsEhc9wIlDzgisf6jXC7nPAWv93mBn2uxwolYbMnXP2e8ZYqjCG_b2DaJVXfSRmXVe62KQ-sVWS_HtDplIShLTPD1udZiGhMRMV3bvta5bBiOd-ca5tDC8D2AVDFN-l2IWmVw8628xccDiFu14jDlcXIZYEPCzow8w-BgJu7rz45MIt8pfi1Coz6NojX_ZQ=s1600)
 ![Port side cabin wall under construction](https://blogger.googleusercontent.com/img/a/AVvXsEjElTbrE7I6iepoon0wSVUSTu-HJVBcCfH021ZeSMbfhYe5xiRnoLevBNVTUFH74vZvZ7n9GnLPJ1Oc3YJrCz9H8sI5EauIg14GIHGraN2ySHlpgc-GnifPt6smiQg3zbNpkd5a4RDcQzttyGI8i4tBEwPspF1Vp1qhc35k3gu8ihTxuPpMIT7CmED__w=s1600)
@@ -110,7 +109,7 @@ March: I cut the deck openings, dry fit the plates, and filled the holes in the 
 
 Diary: [5 Mar 2022](https://irwin34.blogspot.com/2022/03/day-16-3522-starboard-deck-fairing.html)
 
-A couple of weeks later three of the four places were done. I beveled the deck slots and countersunk the holes so the sealant gets squeezed properly, and sealed the plates and bolts with butyl tape. I wrapped paper around the chainplates inside, so I'll see right away if anything leaks. A wood block glued to the bulkhead gives the bolts better support. The original bolts were a bit short now with all the extra glass, so only two bolts per plate until the new ones came.
+A couple of weeks later three of the four places were done. I beveled the deck slots and countersunk the holes, so the sealant gets squeezed properly, and sealed the plates and bolts with butyl tape. Inside, I wrapped paper around the chainplates, so I'll see right away if anything leaks. A wood block glued to the bulkhead gives the bolts better support. With all the extra glass, the original bolts were now a bit short, so each plate got only two bolts until the new ones came.
 
 ![New chainplate cover plate on the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyDxQ8rPVlI-bEzV-I1waL0lzBuhYMdsuQP7J8odttRqbwB2XeBtXoygBvjIydwqwM2HWX594IJxEAoWSofSfWmMHm0OFK-EgcvGhRV0-UQjmP_FFlxdbJPES6AmJN5p9govHGCbQDh2hhevNZNEk_GwSK72_N9Tdb3T8ejXIO0-zzsjKBNfyCzuO3lw/s1600/IMG_2124.HEIC)
 ![Stay connected to the new chainplate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdH1g0tzmimGCx6G1WnYeHiS9DF1_znEwrajJv2YgOX1SsBmHznDbzCGJt_gAYiDY8CeQCkJcrXJeg7Que6mh9Yy-I4ca89H6s0vZVRvOzKJiOC2GwLX1vMA71NIY6RuSUR9-GJ8I2xwSf1ePhYCQiFLJp2nGWBzgJ-fNXMd2ywRabhIiVZyBwamm1w/s1600/IMG_2125.HEIC)
@@ -123,14 +122,14 @@ A couple of weeks later three of the four places were done. I beveled the deck s
 
 Diary: [24 Mar 2022](https://irwin34.blogspot.com/2022/03/day-17-31822-starboard-deck-fairing.html)
 
-April: all the new bolts went in.
+In April all the new bolts went in.
 
 ![Chainplate bolted through the knee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKTPceeiKVqoxSp3TmRJcuZyu3DRboh-6pUx5qgbBm2Q8ebTXrGC1MOHoWiSmUPhgKsk5X4HRr1DuFeC3gh-uDkFFUADM_UQa6NjHXL9TJ_WuNl53btAfcKDcPvhC5Xyruwtn2OwAECro7WAT5fbxG86yDGeVcQjZi7RVCVbrvyej8wp3dB5sHP9O-ww/s1600/IMG_2471.HEIC)
 ![Chainplate with the new bolts on the bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivpIuAYiqBjZDtKM4DPr-dqLYAmnguA0YJ9zHhc3d2W0kWXaholFP8XBL_A6P7xVj35kdLGQfsc2biDPPsDyc8qSbDr212nOBPOMP8PQUufrzEVkb5-2AJiJKVyujZPlDaevkm7E02sakDj9lvlq7ZtTnmN4ijoOSDLLZDrZGmpY-VIgBYH7F6oFAMFA/s1600/IMG_2470.HEIC)
 
 Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboard-deck-fairing.html)
 
-Then the last two, on the port side. Shrouds moved to the toe rail again. Somebody had just caulked the cover plate onto the non-skid, no real seal at all. So I took off the gelcoat, mounted a raised plate on the deck, opened the holes and filled them.
+Then came the last two, on the port side, and the shrouds moved to the toe rail again. Somebody had simply caulked the cover plate onto the non-skid, with no real seal at all. So I took off the gelcoat, mounted a raised plate on the deck, and opened and filled the holes.
 
 ![Vira at the dock with sandbags on deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVGuL-8mMkRRZda1xlt1TF_x_-NAIBpVQwhfE0W3Kaen3jHOXP_8K6rQbNRFSWkt_9BF7aIOVd1rcsXGJuxWWT46nkVQ8KDlzdI7zgxeahBTMt4VsJBs4V4rfbn1U9cDwnJIZ-jYtp-fMe8U04zbT7ylJpOXjiOGes5EfX7mrKRYTREG4BrH1NpjW5NQ/s1600/IMG_2528.HEIC)
 ![Old chainplate slots in the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLG3AVn9MdJkD5IxC6MMacm1f5N3vS4EL2lYvgV_cDJ87fs1KFNTqD1XtFbwkiY8QRpj_dRW8WRbHp8JqC5XR6JbNoGxJVDrRLcaNDcc2xkQP_KqNCazoh7PD3PwvjnBGEL1nPj6KOx0kZLT8jkibR-uogp_9pgncBrPmTLCDgrKr2fWERDK8nsIIJAA/s1600/IMG_2523.HEIC)
@@ -141,7 +140,7 @@ Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchion
 
 A week later the new port chainplates were in. I filled the old holes in the bulkhead and redrilled them in the right places, glued in a teak spacer, beveled and sanded the slots, and sealed everything with butyl.
 
-Then I set the mast straight left to right, with 15% load on the upper shrouds and less on the lowers. Nice day, too. Turtles were sunbathing on somebody's sunk boat next door.
+Then I set the mast straight, left to right, with 15% load on the upper shrouds and less on the lowers. It was a nice day, too. Next door, turtles were sunbathing on somebody's sunken boat. They looked more relaxed than me.
 
 ![Port chainplates on the bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8QglPy3EsB2yZ0gwXS9UfQ6-xkkH6hqiqRHt2xZz3S-rgjW2rxdqn8C4ET5cL4pBQ4l-0pJTPV5Gv0p3sZ5jwFeaAOvaM6arJE7xpvvnLF8PyHgknN0hySp83tPmV1GKIq-pPXhk7LOPuztVyVYHyAagPtWWcxgyDIkB7tOIWy1wiJ-6Q6FPWdposkg/s1600/IMG_2550.HEIC)
 ![Chainplate on the bulkhead with a ruler](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVlGFScwfhDO1omJ5Ev6ZApnek--9r2WNEfD_D6pr6Se9f1Z2ezs5l6rbJwjGNVwUIhOZ6mn3awZoLBhqgMH8GNEdMWvR6yo_APAKwE6VLHvJlbtSKU2-r0VORvDA2edMcTMhLgyyfgDe7oduBlKsvJbD59GciDsiSxkvVmpf77v5J8OOfooxZEtrkTA/s1600/IMG_2546.HEIC)
@@ -158,9 +157,9 @@ Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchion
 
 ## A welded forestay chainplate
 
-June 2022. Surprise! Irwin welded a piece of stainless rod onto the forestay chainplate. It's original. I was in shock.
+June 2022 brought a surprise: Irwin had welded a piece of stainless rod onto the forestay chainplate. It's original. I was in shock.
 
-I looked at how to replace it and got more questions than answers. All the bow nuts are about 1.5 m from a tiny door in the V-berth corner. You can barely see them, never mind put a wrench on them.
+I looked into how to replace it and got more questions than answers. All the bow nuts are about 1.5 m from a tiny door in the corner of the V-berth. You can barely see them, never mind put a wrench on them.
 
 ![Forestay chainplate with a welded rod and chain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg51XJzJDJGpbkLwJ2No-vlj6-iLiteYVf5UYTNMwQOXgU6iQOLzHVetGS5HqBWl-ADKyhuPUVt0Uq5Y_a6fFjrkC2M1VYb3PHErWihFUPSrokkbTFmyvD_1j7SHiml2x-30UcR8_uEU8dvJj7nMItzvIljkgLc-2A75HRTS2ErniLy94XvCfLW6qt3WA/s1600/IMG_2901.HEIC)
 ![Forestay chainplate and anchor chain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbIjuvN4pAAOhlNzuwBj3EyJ47AYbUYUCoRCIJTWa38wI8XNKq0RcKh0DFIa51H--TeEakFRmZRyOKHPL_Vtf2pzHKoo0ykVPTmLGbepu12MVKYlGkTQcDrc0gH2NUmX7PuqC7TO7q2dJUltxLN1iAFWlljj8Mwiv3A-wau0rw8nmCW0057t0nj7E3Uw/s1600/IMG_2902.HEIC)
@@ -171,7 +170,7 @@ Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fre
 
 ## The forestay fail
 
-July 2022 my friend went up the mast. On the forestay: one strand broken, others unwinding.
+In July 2022 my friend went up the mast. On the forestay he found one strand broken and others unwinding.
 
 ![Masthead with the forestay fitting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhyPuuBDraaKU0sRzygRA46fuoFi1Cp_Z40oNdwuPCw5QbJgcMh02_yVyNpwZ7UVm7_vfvwOGxKaI0lLvZ2JvLgbs-l0nlreCMLTj957jTdFk_1GX7-lKNnfGYfWDCEuYm1eQbP1wpmQEATxJpwHZu44En203AnmPPi5OZui9dmv2D_IhNYUUvS26A_A/s1600/IMG_3019.HEIC)
 ![Broken strand on the forestay at the swage](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE5ELOMQElm4UEPXBtNveq2Sr6EdW0nBb2YBg_x81IegwDJUeKwhrGAAcfNKBEkpPvUGOUO7G1BxSkWKwxPCdn3446DLf56Mzq-WJs5D_z5mb-Jms6_fMT3Y09PMe5HF_8VLBwNkiLOzOIJYE8Bdh8hANiZWzPpd3HPrhkvmaqT9GpT_bgCL9I4TJXxw/s1600/IMG_3022.HEIC)
@@ -204,15 +203,15 @@ Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-cl
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-I tried to push the forestay's threaded pin further and couldn't. So I cut the wire again and reinserted it, but now the forestay is two inches shorter. I ordered new Sta-Lok inserts.
+I tried to push the forestay's threaded pin further in and couldn't. So I cut the wire again and reinserted it, but now the forestay is two inches shorter. I ordered new Sta-Lok inserts.
 
-I also priced a full new set of standing rigging with Sta-Lok: $2,672. Something to think about...
+I also priced a full new set of standing rigging with Sta-Lok fittings: $2,672. Something to think about...
 
 ![Spreadsheet of new rigging parts and prices](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDQULeRRvtWGchVPZvjIXIqwBfh2ZceNvySA29SmYcEidz8qaUXvrMcwnHNDLnF5QwdiMlnrt9TRiLWe_DfIqELqNKJRP6s67efLqLFGxq26ELzXCEDsZahxp-BVP2-jGZ5fFoVYJV0VfuUwjbrtl-gQdTgXAa2vhs086vdMunizKhCBwvoab4SCJ6w/s1600/Standing%20rigging.png)
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-Then I thought I saw a crack in the chainplate on the starboard spreader. On a closer look it was just a scratch and dirt. But it got me going anyway: I drew a new set of plates, for the forestay, the backstay, backing plates for both, the top and mid-top plates and the spreader plates. SendCutSend made them, bending included, for $440 total. One more update: the backstay plate only needs about 5 degrees of bend, not 14.
+Then I thought I saw a crack in the chainplate at the starboard spreader. On a closer look it was just a scratch and dirt. But it got me going anyway. I drew a new set of plates: for the forestay and the backstay, backing plates for both, the top and mid-top plates, and the spreader plates. SendCutSend made them all, bending included, for $440. One more correction: the backstay plate only needs about 5 degrees of bend, not 14.
 
 ![Spreader bracket with the crack circled](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEyOKrXcqWQit-GlwzuSFKpclfyprfMu8bT0DeBRO0Ta7cp2VByY4KRXK9F8YUK7euZW59mfENHj1K_l6-XKXQCZCjxcsGRFo7lQ5IgfV9OAR48sk41Ygoqh6XQrYNSh4SFK6ZfsTEp6mxE4QBod9k-3VTRkv0jQH9JZYMk47DSxGT-59ZcG6fRwYVYQ/s1600/IMG_3043.HEIC)
 ![Crack mark on the spreader bracket](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0sGZ7xX4uF13VHAf61Otqccje5JhIW5ApVV9_4f3XQ-TxW8Q-jB18L4MzUj9JQKRkBLnduHF9S_O-Jm67vszaOSKAzwcSpwnNPfBA-TmUodd-L-gl7JTltkXaM9HeE8wjHmO9xs_6ldG67weTnu1Sb6bqfJN5xr9Dj7ICfBxBQ-wa0KFR4gSowgcDA/s1600/spreaser%20crack1.png)
@@ -222,7 +221,7 @@ Then I thought I saw a crack in the chainplate on the starboard spreader. On a c
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-Same month I replaced the jib halyard.
+The same month I replaced the jib halyard.
 
 ![Foredeck and mast at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM56Qh9Pm-E4vmOd-QN-avHUxzO2UWHJ-OkDY4GkNTO99ONMt-eu0WTQZlezkX8Fd1B4ccT9MdlW_7_QR9n6vwrG3nGl5kIkQHusHEIfxbfMnBU-lYik9rdaqXXvZwyz9QJBgr_3gSqnZYKv19KX_XwkvVJbiNDQ97Hymis6U8IAU29FfFGf2s-zCvyw/s1600/IMG_3354.HEIC)
 
@@ -230,18 +229,18 @@ Diary: [18 Jul 2022](https://irwin34.blogspot.com/2022/07/day-37-718-port-window
 
 ## No more shackle on the backstay
 
-December 2022. What really worried me was a 2,000 lb shackle in the backstay. A chain isn't the best answer either, but at least it's as strong as the wire. Now it's two plates and two 1/2-inch pins, and the plates are thicker than the old chainplate.
+In December 2022 I dealt with what really worried me: a 2,000 lb shackle in the backstay. A chain isn't the best answer either, but at least it's as strong as the wire. Now it's two plates and two 1/2-inch pins, and the plates are thicker than the old chainplate.
 
 ![Backstay chain and shackle at the stern](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUqVVkD0co4VX7sKtZ9nnuJIFBvNjLWSoGzFS9qH2QB573mGndJ6BgaUg8M4UQYvbFtYETDEVrS62kSOVPN7BnIpqwuOYfyjiwtUHeFXxQTgNQrrSpZ-bfcZSXgYyer4YmjRLNx3VwxCb2sNcu5b7ORtMWCK85QIVCRKI7bzZVe2LSYZ-SXQdXElyekA/s1600/IMG_4175.HEIC)
 ![Backstay chain and shackle, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFljGdRpenkt2xBcp5PfPQwpfZopNnzC2v6c7WIY8CWrQWRig7ah1BxF2EQGCY_rUlYELUMWzkNyuEbKDvsmA9ayiL0cqRNd9QOSG-krF4Ne-GwqRCwkCS_A7DETsvyuuo0CmuCi6B_on9KMzHpCH_5QeS3kuCKYP_7MTrlMkF9JqnJyWlHNYjjd-trA/s1600/IMG_4282.HEIC)
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
-March 2023 the backstay chainplate itself. The old one was made from some unknown stainless bar, really badly. The pin hole was off-center, almost at the edge, and it was only 3/16 thick. I went up to 1/4-inch 316, with the old plate as a backer.
+In March 2023 it was the backstay chainplate's turn. The old one was made, really badly, from some unknown stainless bar. The pin hole was off-center, almost at the edge, and the plate was only 3/16 thick. I went up to 1/4-inch 316, and used the old plate as a backer.
 
-But the transom was about 1/8 inch thicker at the top two bolts than the bottom two, so the backer couldn't sit flat. I ground off the gelcoat and laid three layers of 1708 on the lower part, shifted a bit, to flatten it, then one sheet over everything. I also filled the old oversized holes with epoxy and silica.
+But the transom was about 1/8 inch thicker at the top two bolts than at the bottom two, so the backer couldn't sit flat. I ground off the gelcoat and laid three layers of 1708 on the lower part, shifted a bit, to flatten it, then one sheet over everything. I also filled the old oversized holes with epoxy and silica.
 
-The epoxy was red again. My fast hardener had been stored a long time. West System says metal can turn 205 hardener red or purple and it doesn't change anything. When it cured I drilled new holes and bolted the new chainplate on.
+The epoxy came out red again. My fast hardener had been stored a long time. West System says metal can turn 205 hardener red or purple and that it doesn't change anything. When it cured, I drilled new holes and bolted the new chainplate on.
 
 ![Transom with the backstay chainplate marked](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4Ot3eSz4ig2FvbrcIl_arSMbB7UWKigyFX44u9J7oRkdZqywKj-QOledKKHC6HHFX1UqDQmww5sYBINTAikoFlShUbKiimPZXZWwQr-morAPT_aXT7UEhto7q_-AEO31CLGIoM0EPTF15W68IkJWNGoL1T1hm67SFyTnmn8uR1cWm5nPN4GZGzY95g/s1600/333704592_178363911591498_3446884384909027995_n.jpg)
 ![Drawing of the new backstay plate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjJLfyr9JJ4rrzrWzpcdbjh1SMnjcKs8aaBp8dOK5Ol4qagY157c_hSKPsKiNrVvkTC8LTiEH5yoYZoC2MuxgVa9IfV8_qhSCDOYQFFNkuXNws_UWE90c01Nm6NGvO50Tz-d-JAY2t8iO-egpUE5OmPQBv-ckAr0C2FzoMDPjdpHLIn04Aa1aqKxzAjw/s1600/334038041_870374277390289_6373817110647311786_n.jpg)
@@ -257,11 +256,11 @@ Diary: [4 Mar 2023](https://irwin34.blogspot.com/2023/03/day-80-34-galley-counte
 
 By 2025 I was thinking about synthetic rigging. Here's what I had:
 
-- Forestay and backstay: 9/32 (7.14 mm), breaking 3,500 kg. 15% is 525 kg.
-- Lower main shrouds: 1/4 (6.4 mm), breaking 3,220 kg. 15% is 483 kg.
-- Other shrouds: 3/16 (4.76 mm), breaking 2,100 kg. 15% is 315 kg.
+- Forestay and backstay: 9/32 (7.14 mm), breaking at 3,500 kg. 15% is 525 kg.
+- Lower main shrouds: 1/4 (6.4 mm), breaking at 3,220 kg. 15% is 483 kg.
+- Other shrouds: 3/16 (4.76 mm), breaking at 2,100 kg. 15% is 315 kg.
 
-For Dyneema I looked at Colligo hardware and Excel D12 Max with SK99 fiber, about 15–18% stronger than SK75/78 and better in creep. Sizes I noted: 6 mm, 7 mm, 8 mm.
+For Dyneema I looked at Colligo hardware and Excel D12 Max with SK99 fiber, which is about 15–18% stronger than SK75/78 and creeps less. The sizes I noted: 6 mm, 7 mm and 8 mm.
 
 I drew a rope guide for the spreader tips, so the upper and lower parts of the shroud make one closed loop and the load sits right on the bolt.
 
@@ -285,14 +284,14 @@ I drew a rope guide for the spreader tips, so the upper and lower parts of the s
 
 Story page: [Standing rigging](https://irwin34.blogspot.com/p/standing-rigging.html)
 
-In August 2025 I measured the shroud angles. I took the picture from far away to get closer to the real angles.
+In August 2025 I measured the shroud angles. I took the picture from far away, to get closer to the real angles.
 
 ![Vira's mast from the side at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9G8RzmTfmUCWrsmRrvO5FNlXXCB1xxMzvjD8xC889HRPreayBGt6DkPRh-oiuZj1-2f9nk42WHQ0pLIN-tDJDnqadi81YQCjKd8__Vf2utlnjtYHUYflPHOkhJkNNvwroWD_lQlzV2eB3ulgPhEVPEKHWPJA3RTa5xgWBITtN3P0VMvMND8DSYI-YxLyG/s1600/IMG_1094.HEIC)
 ![Mast drawing with shroud angles](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgoUhuomBr8tX7q7hQy5OXZqvMx7MJT9pa2WOy-7nLUJX0KaMoGn-g2Qaqkns-V8F6ilOyGC3jAYr69O_baBop9djhQzd4LEXokZR0z4pR08QZL_KlNNGdksYoUJ7kwet0DDUXtTi53YGycHuSl8hHWS7Lnd0nRRQXtu6iMQ9TlLHd_fmaZ_5l4JzCecP9/s1600/Mast,%20far%20view%20with%20angles.png)
 
 Diary: [3 Aug 2025](https://irwin34.blogspot.com/2025/08/day-210-finalized-sailpack-radar.html)
 
-Then the mast end. The original connections are simple for steel, but synthetic can be simpler still. I designed tilted thimbles, made at my rigging angles, with a curved face that sits on the mast. One for the cap shrouds and one for the intermediates with the bigger angle. Fewer parts, more reliable, and less stainless touching the aluminum.
+Then the mast end. The original connections are simple for steel, but synthetic can be simpler still. I designed tilted thimbles, made at my rigging angles, with a curved face that sits on the mast: one for the cap shrouds, and one with a bigger angle for the intermediates. Fewer parts, more reliable, and less stainless touching the aluminum.
 
 ![Original shroud tang on the mast](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg564_XyfbuSq9f7-tt3siDWnjt3ScokKQuslR-3J3gR38vWhZ1nxHGmc-Prfhkdtjow7pcRK2Dj97xzb2qwEW0AhxQP1ItyOyI89n-A_8tpzTxSJAmrOY4LYU-TqWT2eIAQBEwRHzZAUSd6HKnHArqX7vAfylrlHL5nJn7l5mL_GBdeVtH-v3Xcu6PwV1i/s1600/IMG_2631.PNG)
 ![3D model of the cap shroud connector](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUxmfhoBmi8IVAdB8JmmKX84ojnoZaCYTssxW5Anp-abnVJUL8QZUpRjRunax23gS0oFggmh5P_DcHkiMGyHtvy2YV-ksI-yi8PbkdMoRMSJ_riX1WW0X8DFH86oG2in-0FBW0ZwKs-6W5clG35MYTYM31ujPQvuwljmsJRhnJJ9AZLYG7b7UWrqERO9VX/s1600/p5.png)
@@ -308,7 +307,7 @@ And terminators for the chainplate end, with lacing holes shaped to give the rop
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-Same week, Vira became officially USCG documented. The number is on the main bulkhead.
+The same week, Vira became officially USCG documented. The number is on the main bulkhead.
 
 ![Documentation number on the main bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja4x_MTQuvA6EAuTSPQrYkorP5880ed8nLAXuVQVR2TYunJtp877wCd3euIqPbliHmZowrIBMdMqU2gkxTG2BArLDdE_GNvNvsUEH_erJfA9zpy-Yl76c5bsW7l12rWqafZ-6DJ7A1Lba5M6zhPtCwbEfJ8aASgJMKbG05kXpu8V-A5ju5ISt7QQ5DPmHK/s1600/IMG_1249.HEIC)
 
@@ -316,17 +315,17 @@ Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-riggin
 
 ## New wire after all
 
-In January 2026, at the boatyard, I picked up brand new stays, each made in one piece like they should be. The originals had extension plates, chains, extra toggles... Below are the chicken scratches I gave the rigger.
+In January 2026, at the boatyard, I picked up brand new stays, each made in one piece, the way they should be. The originals had extension plates, chains, extra toggles... Below are the chicken scratches I gave the rigger. He understood them, which says a lot about riggers.
 
 ![Notebook sketch of the new forestay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHsTAU_4NViaADUO7N8G50KdwpXS3bo-8dFcN883WUmou9Q8LqkizMSOEN9aHvRmcYQr_Kw9_iFA1b_T5H-C3-J4PxcEQw_TS-IixC6tvyaFHlvqRotddLCjEfXMdUSS2MtC4_SKSvGCjiDm9fNNn883aYn0RNsesXScHU5Lt1jj-4miLux1TxlrVoGzy_/s1600/IMG_0421.HEIC)
 ![Notebook sketch of the new stays](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDTeIHbRc3YMHfy_zqmbYO4htLJ2KJMsXXUIzA0DgbiuRs_WiRMUDX9EMxt5VnMZI7885xUyUXzNA0c734VSMbP538QAiE_dmo7Z92jZaQtOyASyghIci1xdfRsQla3QOTLv7qjE7b40TCjpJBovt2L2Z_dCkFWo1IMs89hriKH7obnTfRNNHjgxtifKqI/s1600/IMG_0420.HEIC)
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-When we stepped the mast, the pin holding the port lowers at the spreader root slid out of place. I had to ease the lowers and push it back.
+When we stepped the mast, the pin that holds the port lowers at the spreader root slid out of place. I had to ease the lowers and push it back in.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-July 2026: new main, new shrouds, out sailing.
+In July 2026 Vira went sailing with a new main and new shrouds. From rotten plywood in the head to new wire from top to bottom: that chain is finally strong in every link.
 
 Diary: [5 Jul 2026](https://irwin34.blogspot.com/2026/07/day-270-271-new-sail-new-standing.html)

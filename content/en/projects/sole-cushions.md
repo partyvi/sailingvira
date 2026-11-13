@@ -6,12 +6,11 @@ order: 2
 description: "New cabin sole, hand-sewn cushions, cabin and chart tables."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX4NL-ZTopby8IZocosPczw5UQOUauEVMSq46jHwrnH4q4k8XxCnTJ33m9JlJBtoio4c7fl_sa3UC97JSUuePp4EdzL24CAzzLEq8l7xhV2TtHlpDK5eGbyyuQfUjXqQRq7je3w9sIgqQhiS95lEXBdve7TUftyV9zCZXvQ-4q7NyAFxuQR4Tfv5BsxWhQ/s1600/IMG_0703.HEIC"
 ---
-
-These are the things you actually live on: the floor, the cushions and the table. When I bought Vira, all three were tired.
+These are the things you actually live on: the floor, the cushions and the table. When I bought Vira, all three were tired. By the summer of 2025 all three were new, and I had learned two new trades along the way: woodworking with a table saw and sewing.
 
 ## The chart table
 
-July 2023 I came back to the nav table. Originally the whole top opened on a piano hinge, but I'm putting a screen and dashboard right behind it, so there's no room for it to swing. New hinges.
+In July 2023 I came back to the nav table. Originally the whole top opened on a piano hinge, but I'm putting a screen and a dashboard right behind it, so there's no room for it to swing up. It got new hinges.
 
 ![Drawing of the original and new chart table hinge design](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjshyYojMjV1ZoVT9Gxo1hxWTqq6uXEvzdxcbw-tRq4Q_VDh3WSa5-gurE0YOKnHGL0nF1wlPGcPas__sHGQjlLZv_Du5emHVTlmMIJChcTM260Z2KFoYJuh4d_gM4lncW9SIy6zib4HyCtjlD31T_RPjA2s3oSOb-KmeiESqlY7cql5K5dWsCpgQ7FvoJY/s1600/Untitled.png)
 ![Chart table lid with new hinges](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTxEjPIplMONh-bP3yahXdirM63_zg43FBrmdcytcNE5sTxpyB_75JLdP9ase-me_uQmaRwk3gOGbBvTu9ejhhMefFQj08n4jJdV4YPhXHcM2LRXkanJu8LgE8qmFEiGkhj1pewdebyXPJIgiyS0rzUz3ESz5GVO0dK52lTDQltP7n2PBT1GiQktfXO0hK/s1600/IMG_6110.HEIC)
@@ -29,7 +28,7 @@ In November I added a link so the display door can't hit the desk, and screwed t
 Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electrical-little.html)
 Diary: [11 Nov 2023](https://irwin34.blogspot.com/2023/11/day-113-1111-preparing-for-varnishing.html)
 
-January 2024: display control buttons, 3D printed.
+In January 2024 came the display control buttons, 3D printed.
 
 ![Nav station display with new control buttons](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt0RTtGmpfaaZYN4B4pM6yZzXpdI_0zkRYExJOcS8YJZsTzdlQ4iZ-28d4WEVZI4WVNp607ancNfN9qX8AZ38-PU0qCPEtVl8SlwuFjAGQs6wnvxwlM_WJV4bvN3U__p_WCAuBhf58jky6wxgTCH720myrzdj_gxGV_ljPolhMlqf5JFQVd4BBcU4Fcgqt/s1600/IMG_7334.HEIC)
 
@@ -37,11 +36,11 @@ Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-
 
 ## A new cabin table
 
-Remember, the Irwin 34 has a dining table on the port side of the main cabin. What I got was a 40-year-old plywood table with fake teak Formica, chipped in places, scratched all over, and just ugly, especially next to the real teak butcher block in the galley. Real wood next to fake wood is too much contrast. And the old top had no fiddles to stop things sliding off.
+The Irwin 34 has a dining table on the port side of the main cabin. What I got was a 40-year-old plywood table with fake teak Formica, chipped in places, scratched all over, and just ugly, especially next to the real teak butcher block in the new galley. Real wood next to fake wood is too much contrast. And the old top had no fiddles to stop things from sliding off.
 
-On one hand, an ugly table. On the other, leftovers of a superior teak countertop. The only problem: no single piece big enough, and it's thick (1-1/2 inch) and heavy for a table. Short story: I sliced countertop pieces into ~5/8 boards and joined them.
+So on one hand I had an ugly table. On the other hand I had leftovers of a superior teak countertop. The only problem: no single piece was big enough, and the countertop is thick (1-1/2 inch) and heavy for a table. Short story: I sliced countertop pieces into ~5/8 boards and joined them.
 
-I cut the countertop into 5-inch wide strips, 1-1/2 inch thick, and resawed them on the table saw into two 5/8-inch boards each. Then I glued the 5/8 boards into one panel. I DID IT FOR THE FIRST TIME IN MY LIFE! Then routed it to the size and shape of the original table. A 3/4 plywood backer underneath for stability and mounting, bonded with thickened epoxy. Then 1-inch strips around the bottom edge so it looks about an inch thick and is stiffer. Turned it over and glued on fiddles, about 1/4 x 1/2 inch. Routed all the edges to match the galley countertop. The first coat of varnish primer. Looks very nice, isn't it?
+Long story: I cut the countertop into 5-inch-wide strips, 1-1/2 inch thick, and resawed each strip on the table saw into two 5/8-inch boards. Then I glued the 5/8 boards into one panel. I DID IT FOR THE FIRST TIME IN MY LIFE! Then I routed it to the size and shape of the original table. Underneath went a 3/4 plywood backer for stability and mounting, bonded with thickened epoxy. Then 1-inch strips around the bottom edge, so it looks about an inch thick and is stiffer. I turned it over and glued on fiddles, about 1/4 x 1/2 inch, and routed all the edges to match the galley countertop. Then the first coat of varnish primer. Looks very nice, doesn't it?
 
 ![Old cabin table top on the workbench](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTP5-Di3xEii6qqYeNnVB5K_-KF7oTr1WCXuvNTgEh_8maBKzZImthXkSbde_sAbPNZtoMWUONDlbgnZCtIVUmLn5uT3O_vCDEdKVpTTAViHaOmOuUnNVgfgzmf0IcOPqwhyphenhyphenvBCuizdXHdCteaF2xyV1PLVw8OtbxWQjCqZDr4zs6gtb3b2RStVf9jbOFv/s1600/IMG_6774.HEIC)
 ![Drawing of how to cut the teak boards for the table](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2iNScUNZeR8B_9dRVSCEtKtaJtruq4-1dci17Rq3Th1bjkc7n35dbFNdtXDuURfwceRGX7sqDnqHCjGoVITbKBzwUOQfq1NkG27_oZRP3Mp2cnewHhC6DhqUfIeizFLMNDAuoaOI8lP3O6WGVbsUF_7jF-yyXR0SmNdW7DBLW5fNl6CJ-TFG5dh_1zGRU/s1600/Untitled.png)
@@ -52,7 +51,7 @@ I cut the countertop into 5-inch wide strips, 1-1/2 inch thick, and resawed them
 
 Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electrical-little.html)
 
-The old table was really worn out, and next to the new galley countertop it looked like a piece of... you know. So I built a new one.
+The old table was so worn out that next to the new galley countertop it looked like a piece of... you know. The new one doesn't.
 
 ![New teak table top, oiled](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8XFQ0Ls2S4blPNbXVOwB8AdCvrdyCbuHTXOjQaFRWCteNyR0PhTyqwClRnY0FGWXZAh_z90S8DZkbVNdbaCufBKWf485JM8408aznR_Q7_hGYcfOhWbn86lKzI0XacgsYfg7e7UGlN7GUPij-GrzW_inVwcczU3CfgsG4R1_PirbCGxjrlUg0qUS2_8YW/s1600/IMG_6783.HEIC)
 ![Old cabin table](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbgfVmQmGX8m2FFs5BOx7HAvuMVgiNdjAOYvfJRMojwnkLWps0D_aLP3QGZQHsTSHdGynAXgPIzgk5Rtv9UR91TREX8tcuicPS6Wu8dKkOfIcBlaNmVL23NrYeH_dcDOLkpd0OoJX9ElS15_sfV259dUZResZyTeEYFNSc0R-flbbyPK5PccUmt4-1sJw/s1600/IMG_6774.HEIC)
@@ -69,19 +68,19 @@ The old table was really worn out, and next to the new galley countertop it look
 
 Story page: [Cabin table](https://irwin34.blogspot.com/p/cabin-table.html)
 
-October 2024 I checked if it fits as part of the sleeping platform. Nice, isn't it? But when I made it I did a "little improvement": all the corner radii the same and exact 90° corners. Now I know I had to copy the original exactly. It doesn't sit where it should for the bed. There's a 1/2-inch gap and the holding ribs are only about 3/4, so it won't sit tight.
+In October 2024 I checked whether it fits as part of the sleeping platform. Nice, isn't it? But when I made it, I did a "little improvement": all the corner radii the same and exact 90° corners. Now I know I should have copied the original exactly. It doesn't sit where it should for the bed. There's a 1/2-inch gap, and the holding ribs are only about 3/4, so it won't sit tight. Lesson learned: in a 40-year-old boat, "improved" geometry doesn't fit anything.
 
 ![New table on the floor between the settees](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0fN8d4wcG5IoY8LwA-cFWfwIkRPyfI8d164wjYE90JbNVNY4DF2sHiQrqYKt0nFtz9AsZEfwKolMnLGMGVYIT3vI-MoXuPrmS76WYQH9j9f7L3qRDEaHwJJA2JddbFLbtZtg5z55t9hA796GRA8HqW8xfCjgLzyurWLpEDQNRpNsNUVyMHksobrLgiueb/s1600/IMG_9213.HEIC)
 
 Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-oil-change.html)
 
-In March 2025 I tried it in the cabin and suddenly it looked so massive, taking so much space. Maybe the cabin was just full of tools and parts. Or maybe I just didn't want a table.
+In March 2025 I tried it in the cabin, and suddenly it looked so massive, taking so much space. Maybe the cabin was just full of tools and parts. Or maybe I just didn't want a table.
 
 ![New table in the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmF7NYSLtGOTuzSWqH7IVMTXPoVZjqUsONGPfEKfRi2drJmrUzs8Vl1YFILULfPY1cmvt4z8y9hH7Nc-gUB7aINsynlRb0LQU2kLvMtgtZ_djafGiA5Y8LjqY9CJAb3M6DD9pBakq-2xNGVF9KrEFrf6K7DEgOXIdpUtHh7EQl_PVya2C46NusHxAPX3R/s1600/IMG_0349.HEIC)
 
 Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishing-heat-exchanger.html)
 
-It went in anyway. In June Maria and I found it was a bit low in the up position, so I added spacer plates, another 1.25 inches. It still goes down to make a bed.
+It went in anyway. In June Maria and I found it a bit low in the up position, so I added spacer plates, another 1.25 inches. It still goes down to make a bed.
 
 ![Checking the table height on its post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_MOOfetRif5fmRYdYt3AReW9Voy3UcGgwY19IvIepnw0Sxc8CfrXmf-rBnchW_BC2a8czAXBI73_eZn8RQU3PU9Wz1PMiQ0J6ZaiEa0WafGX7L8IZvP9SSMUxDw63i1tqHwi-3tu839hfdjB1ih737zsgqsu6TM3u9C0IRfh1b1IOyqzcd8VwWYjLqMq/s1600/IMG_0891.HEIC)
 
@@ -89,14 +88,14 @@ Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers
 
 ## Polishing the old floor
 
-December 2023 I tried a light sand of the stained gelcoat floor under the table, 350 grit, a small piece. Came out pretty good. The gelcoat is thick enough to sand and polish again.
+In December 2023 I tried lightly sanding a small piece of the stained gelcoat floor under the table, with 350 grit. It came out pretty good. The gelcoat is thick enough to sand and polish again.
 
 ![Port settee and cabin sole, old teak and holly](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwRhtF83D1x_eSYtse4gAEi989DLJaEbiuHJ6_4H1j1H6jBSZlpDnxydtOvoMazcl2XJXPlOD5ETyeJJiEeXYaJ9dGYq6ksbK2ZPc_sU_et2gcKS3mCrzbicBArL6NrIvwmEpJ36s5u83SCmOCkBACWYmTd1JGD2A4VrJMf_WsLJl9v30NfrCBi8AzFxF8/s1600/IMG_7042-EDIT.jpg)
 ![Starboard settee and old teak and holly sole](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP3mp1YacVWL1YEcTYixaJI0yJp368AsznPPuKRYaDK-g6zigI1nri3Tm6ila6JeSQz6CCQi8UXA-07pS9NROAfmZap9U3kDwhkXHlDoVJ6BUXh1-2fNh258rxrI5ClhDpiJkLdoBC40jjHSF4EQsoluDpdA5hFTrH7XyhQbq7me_waMEzNiecV65Od8_l/s1600/IMG_7094.HEIC)
 
 Diary: [27 Dec 2023](https://irwin34.blogspot.com/2023/12/day-118-122623-fixed-window-ports.html)
 
-In October 2024 the real demolition started: the old teak-and-holly plywood came off the floor. It was mostly delaminated, and about half of it rotten. My younger son helped a lot. The galley floor in progress, then the whole floor clear of wood.
+In October 2024 the real demolition started: the old teak-and-holly plywood came off the floor. It was mostly delaminated, and about half of it was rotten. My younger son helped a lot. Here's the galley floor in progress, and then the whole floor clear of wood.
 
 ![Main cabin floor torn up, rotted plywood](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2t8fZFtcF7Aeo5CywPPAHJSrVd6Lnpq1VtY8MzmEOIsAavyOcPHLDMY18AWWutZFhAG-1jLlPCzRKFf4RS2FY-WrFWgGTu5Pi9AD73iRvShKd8GW0e9PcHF_QVGUp9FvXwMqNMGgJQJqHpqASsXLiICflpzkaoqwQy2RaP00vc-4rHTHJWcCDhcZW1ZI9/s1600/IMG_9267.HEIC)
 ![My son removing the old floor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSC1Yv9jKg_OSPwSf4Zdfm6noQk95iqpGsc2uoba7XXWOvyrWWG0ev9VOb3ahciN2nxrloB7e2pJ6moKrBTEAZvAF7WUtk3vx0Nc0fkCFMR_DJev9FYKfQJVAeGQr2dDePImlq01hPQTzAXZ9agrMvuoRPQHSx6ohruG_-0SyqcjUEPQeNPxjW0DrkZcxy/s1600/IMG_9266.HEIC)
@@ -117,7 +116,7 @@ Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-
 
 Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole-rebuild.html)
 
-In November I cleaned the sealant leftovers off the floor and sanded the gelcoat to a fresh surface, getting rid of "oops" epoxy drops. First round done. And I ground openings in the floor to look at the area around the compression post, ready to re-glass. That afternoon we went sailing: 10–20 knots, upwind at 6.1 knots in 17 knots of wind, heeling 23.8°. Yes, overpowered.
+In November I cleaned the sealant leftovers off the floor and sanded the gelcoat to a fresh surface, getting rid of "oops" epoxy drops. First round done. I also ground openings in the floor to look at the area around the compression post, ready to re-glass. That afternoon we went sailing: 10–20 knots, upwind at 6.1 knots in 17 knots of wind, heeling 23.8°. Yes, overpowered. But what a break from sanding.
 
 ![Main cabin with the old floor removed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQq24h_G6V2_1qBe8_tEbJKdtZDHAV5QldIy-rNIx2tCJuhRaIxPNiOQYF-88pVsSnqzk7ZXnAArPzTB0sTghnNUrO6bdsJ0Kpi96UsA7kGN8282DUUDeOqDczfby6eLYqiHyfQ5DhM_oSjAv_0eKG_fu9LYCnPtTaZe9lvVPQuCFO095iFA2Md1evtu2g/s1600/IMG_9397.HEIC)
 ![Old floor strip left by the galley](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQyZtyju4QZHhBJGxms-KEKhH38wVmMsLq3qcURmzMM6pi-3c3KucSsh7sCt2_U1BpY7pmmI_awrlHr9A7QGMl4CQtFbfAqtGOIr6tfki7263pWj-KedKF74SmPGx5B3VARo9TCEI_AP0BQU945mpcCgZ0jPDdKOnw97_g1fgZw8RdyVM4WeBlmYbYvKUI/s1600/IMG_9396.HEIC)
@@ -128,7 +127,7 @@ In November I cleaned the sealant leftovers off the floor and sanded the gelcoat
 
 Diary: [18 Nov 2024](https://irwin34.blogspot.com/2024/11/day-175-110924-floor-cleanning-floor.html)
 
-I was still thinking about keeping the original gelcoat on the sole and on the built-in furniture. In 40 years, with my repairs and everyone else's, that white floor got really weathered. But the gelcoat is pretty thick, so I decided to sand, polish and wax it. Easy to say: about 10 hours with three sanders and hand blocks, 120, 240, 320, 400, 600. After 600 it's still satin, but really smooth. In a few spots it was too thin and I went through to the glass. I left them. Where the wood goes, I only sanded with 80 to take off the old glue.
+I was still thinking about keeping the original gelcoat on the sole and on the built-in furniture. In 40 years, with my repairs and everyone else's, that white floor had gotten really weathered. But the gelcoat is pretty thick, so I decided to sand, polish and wax it. Easy to say: it took about 10 hours with three sanders and hand blocks, 120, 240, 320, 400, 600. After 600 it's still satin, but really smooth. In a few spots it was too thin, and I went through to the glass. I left them. Where the wood goes, I only sanded with 80 to take off the old glue.
 
 ![Cabin sole sanded white, looking forward](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgUKHLmtCiBcQKYz0jBsT4OkH1UOuZVBMNU-HALRiLTFfwL2hE7urgFbfVa9F3i-SOHFBKX-A08rLD3608Af048L6su8AwU-w-P07gHdDULJcW80zJXdAGKmsRV7ZI58GJewk7UHFy0lU6HkAG7kQr3sx40Ca2gJb4z1OntO4SfN_HsPDOadPPodZQxnH3/s1600/IMG_9425.HEIC)
 ![Port settee area with sanded gelcoat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigfQCPZvebZGVkgbhs1Q9rPK18zVMUID_nB5MU8SgBK_n_st65GaJ9mgHRSS0ySUqVZebZsxVTUlXjo9FK-FUoRKOzhQflvavbrZUJ4NP5gj0PhqErLVsWIHWNSqPwnoZbmPOgYDZvGLXxn_2Wld4QgLitRXS2duHB5Pi6bC73a23C-qLhfn5u8THRVJn0/s1600/IMG_9423.HEIC)
@@ -138,7 +137,7 @@ I was still thinking about keeping the original gelcoat on the sole and on the b
 
 Diary: [24 Nov 2024](https://irwin34.blogspot.com/2024/11/day-176-111624-floor-cleanning-binacle.html)
 
-After sanding I re-glassed the holes I'd cut in the floor to look under the sole at the compression post.
+After sanding, I re-glassed the holes I'd cut in the floor to look at the compression post.
 
 ![Openings in the floor glassed over](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY9GDTxwmEXM3gqP28mJRvkX6xrmmBsrjTxHcnrQaKuNCo6OkxMwCjjeaZxk2ZsvQtp7GjC2TaRhLx3AGY4z7Bh9h81ZP8wLK2tSZds9ukPZ8RFcuk8WtId5N6VnLyyVIWKUe-N4F-EH-4a4rqhSZpMlvcb7RdMLsmXKpzfw6CH5pN-E4eCFNBbiNqXF1/s1600/IMG_9429.HEIC)
 
@@ -146,7 +145,7 @@ Diary: [24 Nov 2024](https://irwin34.blogspot.com/2024/11/day-176-111624-floor-c
 
 ## Templates, sand bags and vinyl planks
 
-We made brown paper templates, then cut cheap 1/8-inch MDF wall panel from them, half an inch bigger. Then fit each one in the boat with a jigsaw and a sander. Easy to say: 10 to 15 rounds of try, cut, sand, try for each of the four pieces.
+We made brown paper templates, then cut pieces of cheap 1/8-inch MDF wall panel from them, half an inch bigger. Then we fit each one in the boat with a jigsaw and a sander. Easy to say again: 10 to 15 rounds of try, cut, sand, try, for each of the four pieces.
 
 ![Cabin sole with vinyl planks laid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1UWCIu5BHTvHIGKPdFqAEU10W8yjwfKcdSq3y2bZ6TUy35cCIK0y1psegGuJffZDR0QD_c9hPZ1n25GGVN8wmCEOJFw689ZjVJ9JosjSt2mfAXi3RdugyOF2XPCsSQDWFC_qSd_1h6sUd_ufS5AB91Zt0yqDS9gYLe8SkpYz0fgmLWWuf8kVDB2qqN9Zt/s1600/IMG_9529.HEIC)
 ![Floor patches sanded smooth](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPNOX0AzRA5csWD8PpawQYVaWIG23D_niqiIzT-28nFUP4EWwQouYRHFrQlKgh1RHsZMDehwaTA526qeCZmqCosregEehjvVpcYNp1OLaQ0IBzBBqeCHV0YYnHqga0wCaazOs-OTEYyV_pL3GDxkHQM0-ZNT8ES8kUiUqfMECiFmBWFAB8l-WFVEoA8Sj-/s1600/IMG_9462.HEIC)
@@ -166,11 +165,11 @@ Some gelcoat areas are just too slippery, so they got KiwiGrip non-skid: under t
 
 Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-120124-cabin-sole.html)
 
-The floor is STAINMASTER London Sky Oak Gray rigid vinyl plank, 6 mm thick, exactly as thick as the old teak and holly. Exactly two cartons.
+The floor is STAINMASTER London Sky Oak Gray rigid vinyl plank, 6 mm thick, exactly as thick as the old teak and holly. It took exactly two cartons.
 
-The trick was keeping the planks as one piece. I clicked the floor together on the bench, put masking tape on the top seams, flipped it and put duct tape on the bottom. Then everything stays locked and you can handle it like a solid board. I cut each piece with a jigsaw a quarter inch big, then routed it exactly to the template. Three hours and all four pieces were done.
+The trick was keeping the planks as one piece. I clicked the floor together on the bench, put masking tape on the top seams, flipped it and put duct tape on the bottom. Then everything stays locked, and you can handle it like a solid board. I cut each piece with a jigsaw a quarter inch big, then routed it exactly to the template. Three hours, and all four pieces were done.
 
-Then install: lots of masking tape and brown paper, 3M 4200 on the edges and between the pieces, and sand bags. Lots of sand bags, 16 of them at 50 lb each. My neighbors at the marina had fun watching me drag sand bags down the dock.
+Then the install: lots of masking tape and brown paper, 3M 4200 on the edges and between the pieces, and sand bags. Lots of sand bags: 16 of them, 50 lb each. My neighbors at the marina had fun watching me drag sand bags down the dock. I think some of them still wonder what I was building.
 
 ![Sand bags pressing the vinyl floor sections down](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1HL8xyenGMDzywANK_j-Y8M8TkBaroC7NhZ7sjar-pgsh4M9S_Rj8G4GeQU9NiL2smFPhm9DN24zY8j-9jy4sZFlLKytzdoYyiJX_N7yZDE0aJN_Mn53aqV2op2FKcZDnkEwPDXiJDXZM3amfyeOsKbtl3JmgVWXL6Uk44yZEw4TsuPQhie0gIWzP3GmH/s1600/IMG_9474.HEIC)
 ![Vinyl floor laid in the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yVLpQytKvxbzmURz84AnLI1lId6CIpnK4zSXdQxGRcoipbDxwmrtRcaK6lyv8c0pGPf9BDtXy-NOJmGgB-lmJWr1D2lJgM1Lvd_Y-SyUHC1ZwLXCxT0N203PzbEqMwejdeZ0SBgL2x4fe_wcCe-XfVwardFw-GngY8lioNfXPf4B1KNF9X4ClqJ_Hio5/s1600/IMG_9532.HEIC)
@@ -186,7 +185,7 @@ Then install: lots of masking tape and brown paper, 3M 4200 on the edges and bet
 Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-120124-cabin-sole.html)
 Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole-rebuild.html)
 
-December 7, 2024: the last pieces went in. Cabin sole done. Officially.
+On December 7, 2024 the last pieces went in. The cabin sole was done. Officially.
 
 ![Main cabin with the new vinyl floor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4QUGYMIDtNFRVfvmo1_R_A2xK3OCEym1VTyjkEFDDG80sEIvj5yI-vMVBFT1cNQSu-a5kUos2dIftxO8tLed58l4obX-pyWR7CzTlmq8ZGJZt0t1mRsI6qFkdCqWk-PuuWaD0AMWQE9QrpoZArs34eAzYXm471ljpGsaa6DBrVugFNQAJe1ioAvx5X8U/s1600/IMG_9578.HEIC)
 ![Main cabin with the new vinyl floor, starboard side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ur5oopjSW0nQ7zPyv1wyB6R0U31TY5s8vp6LyBl5TlZqhDv5eAS9PDFHQh9jfKesO0mFmZ3qeQdGMXBjgqZpBYivTiDaSdg19zE4Tuq_Bltf70jJQAeacBtFGWw38iHVezMikWVzffcHli0_zeEqivGs8ndKYYVtUQSPtYD2YJTIEREVftMhyphenhyphenCsdtjWU/s1600/IMG_9578.HEIC)
@@ -196,7 +195,7 @@ December 7, 2024: the last pieces went in. Cabin sole done. Officially.
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole-rebuild.html)
 
-Same weekend I sanded the main cabin settee gelcoat 120, 220, 320, 400, 600, 1200, cleaned and waxed it. Looks like new. Next on the list: cushions, and that table.
+The same weekend I sanded the gelcoat of the main cabin settee with 120, 220, 320, 400, 600 and 1200, then cleaned and waxed it. It looks like new. Next on the list: cushions, and that table.
 
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 
@@ -209,26 +208,26 @@ In February 2025 I re-oiled the galley countertop and worked out the cushion mat
 
 Diary: [16 Feb 2025](https://irwin34.blogspot.com/2025/02/day-188-engine-mount-angles-dry-fit-and.html)
 
-In April I started. I ordered from Sailrite: 30 yards of Outdura Chesterfield Graphite 54-inch upholstery fabric ($22.95 a yard), a 50-foot #5 YKK molded-tooth zipper chain ($30.90), pulls, top and bottom stops, and Tex 90 Cadet Grey UV polyester thread. Foam from Foam Factory: a full sheet of 6-inch Lux regular foam, 82 x 76 inches, $169, for the seats, and a half sheet of 3-inch, $43.99, for the settee backs.
+In April I started. I ordered from Sailrite: 30 yards of Outdura Chesterfield Graphite 54-inch upholstery fabric ($22.95 a yard), a 50-foot #5 YKK molded-tooth zipper chain ($30.90), pulls, top and bottom stops, and Tex 90 Cadet Grey UV polyester thread. The foam came from Foam Factory: a full sheet of 6-inch Lux regular foam, 82 x 76 inches, for $169, for the seats, and a half sheet of 3-inch foam, $43.99, for the settee backs.
 
-The list: two almost identical 4-inch V-berth cushions with good foam. The big port U-shaped seat, 6 inches, fair foam that I'm thinking of replacing. The port cushion over the table, 6 inches, good foam. The starboard settee, which sat over the leaking fuel tank, so its foam is trash. The pilot berth, which came with no cushion at all, so new foam and a template. And the settee backs: I had the original port set, but they'd been stored in a wet garage and the foam was beyond saving. In three of my six cushions the foam was fine, no smell or mold, so those just got new covers.
+Here's the list. Two almost identical 4-inch V-berth cushions, with good foam. The big port U-shaped seat, 6 inches, with fair foam that I'm thinking of replacing. The port cushion over the table, 6 inches, good foam. The starboard settee, which sat over the leaking fuel tank, so its foam was trash. The pilot berth, which came with no cushion at all, so new foam and a template. And the settee backs: I had the original port set, but it had been stored in a wet garage, and the foam was beyond saving. In three of my six cushions the foam was fine, with no smell or mold, so those just got new covers.
 
-I learned how to make cushions from Sailrite's videos, which helped a lot. The V-berth cushions: very similar, but the starboard one has a rounded corner on purpose. One picture, but about 8 hours of work. Still needs some steaming. Not bad for the first cushions in my life?
+I learned how to make cushions from Sailrite's videos, which helped a lot. The V-berth cushions are very similar, but the starboard one has a rounded corner on purpose. One picture, but about 8 hours of work. They still need some steaming. Not bad for the first cushions in my life?
 
 ![New V-berth cushions on the floor at home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 ![New V-berth cushions, another view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 
 Diary: [6 Apr 2025](https://irwin34.blogspot.com/2025/04/day-194-stared-remake-cabin-cushions-v.html)
 
-The old cushions were really old, stained and falling apart. In spring 2025 I made new ones at home, a couple of hours almost every afternoon. 6-inch Lux regular foam for the pilot berth and starboard settee, fabric and zippers from Sailrite.
+The old cushions were really old, stained and falling apart, so the work went on at home through the spring, a couple of hours almost every afternoon: 6-inch Lux regular foam for the pilot berth and the starboard settee, fabric and zippers from Sailrite.
 
-Cutting thick foam: use an electric knife, mark the line on both sides, and get two people, one holding the motor end and one guiding the tip on the other side. All the panels cut, piping ready, three of six cushions done.
+A tip for cutting thick foam: use an electric knife, mark the line on both sides, and get two people, one holding the motor end and one guiding the tip on the other side. All the panels cut, piping ready, three of six cushions done.
 
 ![New settee cushion](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomdNPTr1__jrjvR1LZk1sqX0no51otyoLjUJfEchXmjCVOrLPBYOlwIQT_RamNWpEp2Yr9hT6Qd3XfRVJFt6jNvXeAtUoJ04yOPRCHG3-W6Md1q_7VSMnf_oNVVLg3kf_bP1lecdeOLSfHCoi0se_yLouVIpKF3L90ANPDAr36VxoRf71fGJLnraV-5YP/s1600/IMG_0603.HEIC)
 
 Diary: [14 May 2025](https://irwin34.blogspot.com/2025/05/day-198-virtually-work-at-home-on.html)
 
-May 2025: the new cushions are finished. Not perfect, but not too bad for my first upholstery. Cushions in place.
+In May 2025 the new cushions were finished. Not perfect, but not too bad for my first upholstery. Here they are in place.
 
 ![New V-berth cushions laid side by side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9jg8Z2jvdtE3oAGRsan9A1v8iMQt8kX9bp5ylhpFlDodZCE45X9IGW-Q_QloedZFRCaglP6pqoP-kn0LgX60IQryuKFyoK3i30-NgRuwZZ8Q_aay1Z7AnQJ3-1yH9WceEk6t1Td9ao-KHbCWIcooM3Idh4ex8Hp-bfwbVFItg3hOhPO_D1pRSTJxsP8U/s1600/IMG_0670.HEIC)
 ![New cushions laid out on the floor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEyKw4AVpJisUprFA0L5AziGXrvOh1CwoQ0iCyRiV2AKkzkxPdREld5scxD9FRUdV8l45C7SBBdYXFMx4YaGYq0iMqZggX_CIhGqoGSdIJ9nW9apaV3rHV9a0MAe4sm6xzqWqPL6ekjlSGz1dgw-j2aVkSUO1sY4BxSgLGfgkasBGi75Gr9JSHIMdS1kvR/s1600/IMG_0671.HEIC)
@@ -241,7 +240,9 @@ May 2025: the new cushions are finished. Not perfect, but not too bad for my fir
 Diary: [14 May 2025](https://irwin34.blogspot.com/2025/05/day-198-virtually-work-at-home-on.html)
 Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-happy-sailing.html)
 
-June: back cushions on the starboard settee. I removed the side parts of the backrest that used to sit on the bulkhead and galley cabinets, to get the most usable length, and I'll add drop-in cushions. Port side underway. The cabin table is in, on a 3-stage lift leg so it lowers to make a bed. The leg's control was on top, which meant a hole in the table, and my wife and I hated the idea of an ugly plastic button in the middle of the table. So I removed it and made a control that works from under the top: a piece of 1/4-inch stainless rod with a small plate welded on and a couple of 3D-printed parts, like an office chair. The table in the lowered position. That evening friends and I anchored and soaked in the lake, then had a relaxing sunset sail in 7–10 knots, with the autopilot in charge and some fun on the bow.
+In June came the back cushions on the starboard settee. I removed the side parts of the backrest that used to sit against the bulkhead and the galley cabinets, to get the most usable length, and I'll add drop-in cushions there. The port side was underway.
+
+The cabin table went in on a 3-stage lift leg, so it lowers to make a bed. The leg's control was on top, which meant a hole in the table, and my wife and I hated the idea of an ugly plastic button in the middle of the table. So I removed it and made a control that works from under the top: a piece of 1/4-inch stainless rod with a small plate welded on and a couple of 3D-printed parts, like an office chair. Here's the table in the lowered position. That evening friends and I anchored and soaked in the lake, then had a relaxing sunset sail in 7–10 knots, with the autopilot in charge and some fun on the bow.
 
 ![Main cabin with the table and starboard cushions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaUCcZCzKSNfaCBnlsGN4rheaW6t1K1x4uxz_WMUUirwZQrdVJ8SH4s5RXWlQTl-SGfmE628CWkJvw-Z15ai5GJrAS-I4lUMQiD4l-kndRVLw5C6BxfG9STClq5__wAIdnbGSUSGsryTw1L7EpzpiJOHH2rNJJmj7xwc5Qz9lk04Yhbgp500me8rYZvP-_/s1600/IMG_0769.HEIC)
 ![Table on its lift post, from below](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHs0TukAbsh9poIlB-pau2hypbBiIz_baCjXF_UjdeHVpDzJ7rTaHwl5nwz5hxENcpVeb0eR5M3TZS-YWieS5KQXMMiYcY0p3p6z79kANmmM2mL3fSOsEHFZ4YOrtRQKk7zVmHUJKGiJ97ZC1Qg3VZD3pEurcXuWJGVoTxGCbaiBhW9iSoPlT1fyzAa-86/s1600/IMG_0770.HEIC)
@@ -251,7 +252,7 @@ June: back cushions on the starboard settee. I removed the side parts of the bac
 
 Diary: [2 Jun 2025](https://irwin34.blogspot.com/2025/06/day-201-new-cushions-continue-cabin.html)
 
-Then the settee back cushions were done. Now it looks much better. A special word about latches. The originals were just friction catches, so if something heavy is stored in the lockers, it pushes the seat back open and flies across the cabin. Not a good thing. I wanted latches with a positive lock, couldn't find anything that fit, so I designed and 3D printed my own in PETG. Each is three parts (top box, bottom plate and the latch tongue) plus a 0.6 x 6 x 30 stainless compression spring. About 40 g of filament, roughly $1 per latch plus $0.80 of filament and $0.20 for the spring. Assembled, and a couple of sections showing the inside.
+Then the settee back cushions were done, and the cabin looks much better. A special word about latches. The originals were just friction catches, so if something heavy is stored in the lockers, it pushes the seat back open and flies across the cabin. Not a good thing at sea. I wanted latches with a positive lock and couldn't find anything that fit, so I designed and 3D printed my own in PETG. Each is three parts (top box, bottom plate and the latch tongue) plus a 0.6 x 6 x 30 stainless compression spring. About 40 g of filament: roughly $1 per latch, $0.80 of filament plus $0.20 for the spring. Here they are assembled, and a couple of sections showing the inside.
 
 ![Settees with the new back pillows](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeVfm8Vypxf1272gHDG54Tr9g_Gfd8IrA25cMjJmbJ3ZP_HLAgvQ4bq1j4L7faSZ8b4Fytd7nUGvjrZvZkwd6N3dbxIB0K3SNr5TjQZi1DBSA8snZqP6ZYR_a7IwN9HY5XTnrg6evbDM-v73jyVV99RDG6JArfLdElN_enp6zrh8leRGCVrS1PfiPmEz0_/s1600/IMG_0781.HEIC)
 ![3D-printed latch on a settee locker lid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv-INtmBbXlSt5hdnvcE7iI3ByZhw6OR3oH3wOcBJPrCTk7WX3S4xwiHTlojsx51EcTQrKGVd8WCaaO7IwKt-DZLa6dptrTBkaJ2wG3Ci7gWAB_JPu903f_40IqA3YuXwNl9pR6KmprM8_Le-zPmwpQJN_uXrX1acVsgzCyPrb22dtRznkIy9AfJv1BH0L/s1600/IMG_0783.HEIC)

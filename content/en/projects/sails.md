@@ -6,14 +6,13 @@ order: 3
 description: "Sail pack, the new mainsail, boom, reefing, winches, bimini and dodger."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxHK5TXVBlcdEd82WmhRokCuDQYKj0JY5ifcl3et545x4xTti-7CeKGZMxYSq18EcVYJbR35Y_huMn_5Pq3MjbTySs7eBtKTEaJ1uIesaRmTAr2neS43IzCIKowHYZhg9prccdKK-tumxf83m1_Wa9oQomwE4TTFvvL3Zw8nsunWk6BiEyDVHRJiFteQi/s1600/IMG_1563.HEIC"
 ---
-
-Sails came with the boat, and for a few years they were "good enough". Then little by little everything around them changed: a sail pack, a new mainsail with four reefs, and a boom full of blocks and winches.
+The sails came with the boat, and for a few years they were "good enough". Then, little by little, everything around them changed: winches, a bimini, a sail pack, a new mainsail with four reefs, and a boom full of blocks and winches. Plus one hard dodger that never made it home.
 
 ## Laundry day
 
-May 2022 I took all the sails out and looked at them properly. The genoa had been living on the furler. It was clean and in good shape, just a few stitches on the UV cover to redo and new telltales. The main was dirty but working. It had lots of tears on the folds, about 20 spots patched with sail repair tape, and only one reef point. Then there was a spare genoa: dirty where it was exposed, luff rope missing, luff pocket needs redoing, otherwise not bad. Maybe a sail loft can bring it back someday.
+In May 2022 I took all the sails out and looked at them properly. The genoa had been living on the furler. It was clean and in good shape; only a few stitches on the UV cover needed redoing, plus new telltales. The main was dirty but working. It had lots of tears along the folds, about 20 spots patched with sail repair tape, and only one reef point. Then there was a spare genoa: dirty where it had been exposed, with the luff rope missing and a luff pocket that needs redoing, but otherwise not bad. Maybe a sail loft can bring it back someday.
 
-Then laundry. Two cups of OxiClean in about 300 liters of water, soak for 24 hours, and dry. The genoa is big. I mean really big.
+Then came laundry day. Two cups of OxiClean in about 300 liters of water, a 24-hour soak, and dry. The genoa is big. I mean really big. Folding it alone is a workout.
 
 ![Genoa laid out on the lawn for inspection and washing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGemsDsE5mz7a0V48groAO7nnoFcKHpuYMuKHlhCAejbHfzgw1GRXexj2fpI7p1rJuvFOPYSPRTqylhWnO2rrpHuasPNcrA7ir2Qj7IhzD6vYaAxGXR4YD1_0hBrG9j2RviIkmP9TEwKUnMDJ8_t3aYzZznScT24cM-ATfeF_jnWqE-z884lr9DjKpQ/s1600/IMG_2785.HEIC)
 
@@ -21,7 +20,7 @@ Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-wat
 
 ## Winches
 
-Just for history, the original main winches. Lewmar 25, I think.
+Just for history, here are the original main winches. Lewmar 25, I think.
 
 ![Lewmar main winch on the cockpit coaming](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil1cgUO15zw2LeQVFMnfKEt-L_7hKUP8BkEF4q-mHSCxnD6o3Edu3XyHWZz6-R4N1SjnZF8wsEpX3TTQN-2dSAoC8WBlx4sbyPirlDQB7W8A7vR8ANRyxTFsvPeZbOCmxulDpNL1jamAE70fmraZCsKr1V_5nISczv7ZThknemj2ZqeOOeEVqEXReN0w/s1600/IMG_2920.HEIC)
 ![Primary winch with a sheet wrapped around it](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgnG9M7Hpz9k5PcK1tQ6E5Rz9-EfAnRkmDthKhWg3K9sCyAxhV3Kt0o5WR49gevKWGLTZCrIOUCIs3bubypjpoYrvYwpSfRJ-Uis-1sUbZPEGrD84ZF11cgI3aWILEK-eRuje7MQCu8KSIcpRL0CZL973cKc3IfmvkLEkKU9bHl5x-IwGrqUfJ8XIbgw/s1600/IMG_2921.HEIC)
@@ -32,7 +31,7 @@ Just for history, the original main winches. Lewmar 25, I think.
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-In June 2024 I put Barton self-tailers on the main winches. Same day I put back the engine room vent duct, put a 3D-printed cover on the Horizon VHF, tied down boxes in the V-berth and dry-fit the bow roller and windlass base. Then I went sailing for four hours.
+In June 2024 I put Barton self-tailers on the main winches. The same day I put back the engine room vent duct, put a 3D-printed cover on the Horizon VHF, tied down boxes in the V-berth, and dry-fit the bow roller and the windlass base. Then I went sailing for four hours. A perfect day.
 
 ![Winch with a new Barton winch handle in place](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXuURL49D87zZoVcyJzDkR05TM6PGzl_VP60gi8IJQuypMEp5Uj5lSKd8jG4zgWb19AAyr8DHTKyqN8FmQbDyY8A_eMQ6dPfcfcMZ_TJbSdrxWYbmXWKMs9PovSIJGINzltWayICmsv4bgslfrY2N7TBHAqM7prYMESOq2tzOzctCGzQ5YjvimNrrnbPc1/s1600/IMG_8358.HEIC)
 ![Storage bins in the V-berth](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uCcuu1cGMUR9C_lCLaXkphvOyyPU32wwhFWe8sHkYfKSpeaYzyuW6iSOP5o792Wjie4kuL458vdApzyx5VZrwn3WfiWn9wtk6jXRU5hdxIpSHMxo_ZUAzPblB9QE8VRepjtwmbh3v33SyaF5we5lrjDOxU_9-TU-k9ieQ7eYKZy_pkNRnk0mfG45SRls/s1600/IMG_8359.HEIC)
@@ -41,7 +40,7 @@ In June 2024 I put Barton self-tailers on the main winches. Same day I put back 
 
 Diary: [16 Jun 2024](https://irwin34.blogspot.com/2024/06/day-153-61524-work-on-small-things-4.html)
 
-Another winch had problems. The small winch for the centerboard line, in November 2022. When I took it and its backing plate off, I saw somebody had made Swiss cheese there. From the top I drilled out and cleaned all the holes, filled them with thickened epoxy and glassed over with three layers of 8 oz. From below I cut the skin open. Only three squares of the plywood core were wet, which surprised me. I dried it and fitted new teak plywood blocks between the skins, filled everything with thickened epoxy, put the original skin back and glassed it with three layers. Somebody will say that's not enough, but this winch only lifts the centerboard, almost no load. Originally it was held with wood screws and the backing plate did nothing. Now it has through-bolts with nuts.
+Another winch had problems: the small one for the centerboard line. In November 2022, when I took it and its backing plate off, I saw that somebody had made Swiss cheese there. From the top I drilled out and cleaned all the holes, filled them with thickened epoxy and glassed over them with three layers of 8 oz cloth. From below I cut the skin open. Only three squares of the plywood core were wet, which surprised me. I dried it, fitted new teak plywood blocks between the skins, filled everything with thickened epoxy, put the original skin back and glassed it with three layers. Somebody will say that's not enough, but this winch only lifts the centerboard, with almost no load. Originally it was held with wood screws, and the backing plate did nothing. Now it has through-bolts with nuts.
 
 ![Old winch base with many drilled holes on the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSczRhmKWU5CcreJ4Q7vOoO8Cx2zYUAat9BvMqb8GaIleDM5Kyw9yEMKnol16Wq56SmdvaIwXVw_qyJ78alvS6DeyMNYdD2vShhkDmWHetWjjQov2O965OdCvAqfS7_chZ-3lAgPWB12X0M65Ek9BKMDHrAgcsaRmAOb1XnXHTEazA5Uv_YW_FhlwlNQ/s1600/IMG_4045.HEIC)
 ![Old holes in the deck seen from below](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipcw6L2VO8Bb6SUU0tlg-c5QmxBaS6qmHVykppafCAlbPkHecQAXj5omYnArTKbGazPyW7VBn01x601HjCkK4LhsbTfUPr9mnm65p1hWj_14l3bmVBiGj6Xtr3hdTB0EiuzkTUuhyFJYLcZtwikA5AjPZH9woo8DSsspo8Jt41GOvMkf6Iy2-kJrK13A/s1600/IMG_4042.HEIC)
@@ -56,7 +55,7 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 ## Bimini
 
-May 2023: a nice new skin on my bimini. Sewed it, tried it, installed it. But once it was all assembled I found something interesting: the mounts the previous owner put in sit right where the bimini gets in the way of the winches and the jib sheet cleats. So I had to take it apart again and move it back 10–15 inches. Then it touches the furler cleat a little, but that's easy to fix.
+In May 2023 my bimini got a nice new skin. I sewed it, tried it and installed it. But once it was all assembled, I found something interesting: the mounts the previous owner had put in sit exactly where the bimini gets in the way of the winches and the jib sheet cleats. So I had to take it apart again and move it back 10–15 inches. Then it touches the furler cleat a little, but that's easy to fix.
 
 ![Vira at the dock with the blue bimini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqo4pzR_B5pdxpn_0ePUv1BJiywiouT2x_rIM4l7x49-VU3EO56_ZP_ER5q8l7xSIfI9zMVoUUs8rnVtrvKPfyoWRmY9LNwyVrTmq7RGPnW7wJNFnw7l-aU7BNbIYi360g8g-rFDDzsvx44YOv_cmbjIBy5KOGqTh1wgpF-4rO-NUt2LSvUExxQ4hNTg/s1600/IMG_5759.HEIC)
 ![New blue bimini skin over the cockpit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcOeO8evZKPS88Zj104SlZAJhxjjeQ8Plq-NA9gSwteiHJ_yKCiGzLwGek4nXgSnDcXEeRfKi6RCW9WWDZEfYHYdu9gmCq8e5j3-zUI-TiI1GmtPMIqqblEdYVJJc-IGFFoim5CYyWWuifPNgGU9y9bQSFDu2HN-tn2YVNjCpshiQtrX5z14LigOOqgA/s1600/IMG_5760.HEIC)
@@ -72,14 +71,14 @@ Diary: [20 May 2023](https://irwin34.blogspot.com/2023/05/90.html)
 
 ## A sail pack
 
-In summer 2025 I sewed a sail pack with lazy jacks. July was the dry fit. I was sick that day, so only about an hour of work. It fits very well. A bit big at the front, but since I was planning a new main anyway, better bigger than smaller. Left to do: cheek blocks and a cleat on the mast, an eye for the front top corner, and the zipper line.
+In the summer of 2025 I sewed a sail pack with lazy jacks. July was the dry fit. I was sick that day, so I only did about an hour of work. It fits very well. It's a bit big at the front, but since I was planning a new main anyway, better bigger than smaller. Left to do: cheek blocks and a cleat on the mast, an eye for the front top corner, and the zipper line.
 
 ![Vira with the new blue sail pack on the boom](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVZI5LV3NKdO2IoxG73zF5mxaoIswPuOFNu94fLQyiMXVHLGXT1eufk6_bCO-L865xh2605iUOjAHUOYXCNFLGDybGMCnvTRMLp-CXecs6mj-C9FZ1pNwAXra_BBjfXYjH1K82PcD5Kw9EqubuDqAhs9fGze-jt5b4Ga74cHrkmDuiqiRta-IiAv_-k2j/s1600/IMG_1076.HEIC)
 ![Blue sail pack on the boom](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSpEI__Tc1osdC701E3lXdwlD2toZsWUoNB0PHMIuYSS0_uVhuI_OUsrUswZFh4SAUPGoOPpaGbsO3W0KJ4fGy98-3gA-0pAdhwu4ZqLMyv2oxdFCabYS6GC63pVh0Z033lf09bc7Rq-vnvg_l5QjxmN3SmB-BRqLSh7CkEfcxgxKxE-zbMuCM7DDbVCS2/s1600/IMG_1077.HEIC)
 
 Diary: [26 Jul 2025](https://irwin34.blogspot.com/2025/07/day-209-dryfit-of-new-sail-pack.html)
 
-A week later it was done: cheek block on the mast, all lines adjusted.
+A week later it was done: the cheek block on the mast, and all lines adjusted.
 
 Diary: [3 Aug 2025](https://irwin34.blogspot.com/2025/08/day-210-finalized-sailpack-radar.html)
 
@@ -89,19 +88,19 @@ After the sail pack I had about 17 feet of Sunbrella left over. Too good to wast
 
 Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-testing-little.html)
 
-After the trip to Kemah and the boatyard, in March 2026, the main and the sail pack went back on and the lazy jacks back up to the mast.
+After the trip to Kemah and the boatyard, in March 2026, the main and the sail pack went back on, and the lazy jacks went back up to the mast.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-In April 2026 I spliced the sail pack lines instead of knots, because the tails kept jamming in the zipper.
+In April 2026 I spliced the sail pack lines instead of tying knots, because the tails kept jamming in the zipper.
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
 ## The hard dodger that flew away
 
-September 2025. I wanted a hard dodger: fiberglass, real glass in front, polycarbonate sides. This boat isn't symmetrical and nothing on it is square, I've learned that many times. So to build it at home I needed a full-size 3D template.
+September 2025. I wanted a hard dodger: fiberglass, real glass in front, polycarbonate sides. This boat isn't symmetrical, and nothing on it is square; I've learned that many times. So to build the dodger at home, I needed a full-size 3D template.
 
-I've made lots of templates during this rebuild. My way is 1-inch strips of 5 mm plywood and hot glue. I started from the center line: a rope pulled tight from the mast to the backstay, just under the boom, which is also the highest the dodger can go. I covered the deck with masking tape so I could hot-glue straight to it, and laid down strips for the footprint.
+I've made lots of templates during this rebuild. My way is 1-inch strips of 5 mm plywood and hot glue. I started from the center line: a rope pulled tight from the mast to the backstay, just under the boom, which is also the highest the dodger can go. I covered the deck with masking tape, so I could hot-glue straight to it, and laid down strips for the footprint.
 
 ![Wood strip dodger template pieces in the truck bed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinHkUxfLUpfKE_mNNG09TiODiuzCxovToMKZ1Tg4qhii4aCMCbpxijL1gSq-fzF05mCbRJTjs0weOy-9xsK2wP1Kuovf9m0RTUJORfrlO9n_PnED1nAWwdJppIbWQxL8f9ZjAcRgatwk3Qk4xuHPLhJxLQwd-r-uWm6-hrbXKn6eboueJ-S96gPE6MVzc-/s1600/IMG_1333.HEIC)
 ![Wood strips and tape for the dodger template on deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwK9PjI_84rXAJJTUyIs__ofb9-mYtAYPWQPWcEAUeQmHU9686zeBViJwD1z1NnRyvy4T1RgdaY9Dx0zdkU6G7vWFKWYPK-eoGh1yFjiluqsoDN8hP4r8HUi0axR-dJJWxMIQI5CZ8hdlq6S06zMGx5Yid5WsjDF6YCLljSQpYOF322nRVIcrJGQU_OZe/s1600/IMG_1310.HEIC)
@@ -116,7 +115,7 @@ I set the windshield angle to follow the mainsheet line. On the Irwin 34 the com
 
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
-Four long hours under the Texas sun, and the whole thing was built, with about 4 inches clearance under the boom.
+Four long hours under the Texas sun, and the whole thing was built, with about 4 inches of clearance under the boom.
 
 ![Dodger template frame from the front](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgalWaVracsqDv7QfZcRD-tafTyav5lCfecmZsLeYimXL6YOLNuNHgjA84HXi0WnDjxLFUEsYp9mDhDUG2huCtmIKuoI9-0CEXDtseeUDBlXaBGwTZEO77a1-rOguJTeKjEdt6OUoYg2D3LgrhFYz3CbqpvkRR55dk360hhyphenhyphenNdT2RdGLrBvaZsLaKeai0w9/s1600/IMG_1320.HEIC)
 ![Hard dodger template seen from the side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6dnkEtaK9GMQ9Gf5Z6hgPJTFNyISPMbgzV_DAsx_titBIt8wGui_4abcYuM22T3QZ3YCIYS4PWrcMr2sxKEyBrsY78zhtUFhdkbDG5hhvwPk8c662x4UoTtR6BdFhuvqZ1Mc-xDa8WQwGplXj0ZfDr8ZA1cj-PkxFfit0x7FFk9jBOPHGEUCCgTaXWll/s1600/IMG_1321.HEIC)
@@ -126,11 +125,11 @@ Four long hours under the Texas sun, and the whole thing was built, with about 4
 
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
-I took it off, carried it carefully to the truck and tied it down. It was really fragile, so I planned to take side roads under 40 mph.
+I took it off, carried it carefully to the truck and tied it down. It was really fragile, so I planned to take side roads at under 40 mph.
 
 And then, about five miles from home, I forgot. I saw a 60 sign, thought "why am I driving so slow?", and pressed the gas a little. At about 55 I realized my template had come loose, snapped around the tie-down and flown off. One second later a car ran it over and made a nice pile of plywood sticks out of my four hours of work.
 
-All I could do was pick up the trash from the road.
+All I could do was pick up the trash from the road. The dodger is still on the wish list. The template is in a landfill.
 
 ![Dodger template pieces in the truck after the wind took it](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxYmaKLVTPYZus4zOC29AlmmM94srn-9faiZu7q9rQE_0HUdFH6MpBkwtyxP-V3s8MoFU3kcRHP37eFc-APB25trv2_VwsH1DHVBGIgJNBU7cGQVYmoPacc-Q8KJlHIYBS2p0CsKby7yryHWTx1Y3OR0p82kj_dBs8J4Cb96iiamY6bAi2pu3rT0iMO7WQ/s1600/IMG_1330.HEIC)
 ![New mainsail laid out at the loft with VIRA on it](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinHkUxfLUpfKE_mNNG09TiODiuzCxovToMKZ1Tg4qhii4aCMCbpxijL1gSq-fzF05mCbRJTjs0weOy-9xsK2wP1Kuovf9m0RTUJORfrlO9n_PnED1nAWwdJppIbWQxL8f9ZjAcRgatwk3Qk4xuHPLhJxLQwd-r-uWm6-hrbXKn6eboueJ-S96gPE6MVzc-/s1600/IMG_1333.HEIC)
@@ -139,14 +138,14 @@ Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-te
 
 ## A new mainsail with four reefs
 
-In April 2026 I took the main measurements to order a new sail. The old one has hundreds of pinholes and is stretched a lot.
+In April 2026 I took the main measurements to order a new sail. The old one had hundreds of pinholes and was stretched a lot.
 
 ![Mainsail measurement form, page one](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
 ![Mainsail measurement form with reef heights, no furling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
-After a lot of thinking I went with Far East Sails to design and build a new main. I did the measurements myself on the boat and hoped I didn't make a big mistake I'd regret. What I changed:
+After a lot of thinking, I went with Far East Sails to design and build the new main. I did the measurements myself on the boat and hoped I hadn't made a big mistake I'd regret. What I changed:
 
 - 4 reefs. Yes, four. Maybe I'll never use the fourth in my life, but better to have it.
 - Luff 1.2 inches shorter than spec.
@@ -171,13 +170,13 @@ Four weeks after the deposit and a few emails, they said the sail was almost rea
 
 Diary: [21 May 2026](https://irwin34.blogspot.com/2026/05/new-mainsail-part-1.html)
 
-June 2026, me and my new sail.
+June 2026: me and my new sail.
 
 ![New mainsail hoisted at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghqfFQDT30Sl8DRVfmPDIgDY5hi59Xr4SSs3qPkATPPWz1imgcbXQWC2qmgQpqhtpArN5Q2iX9-1REK0Rl6Vd5B5VRaSVR0veSLWpayl6u6mm3ZrvyMrSRiw25uVeXt0pBF0pQsGVGzETtt0fGsRnP0Bqld2ygthv39ndsDjXobKFMgwo9bIxBilinjKKV/s1600/IMG_1503.HEIC)
 
 Diary: [5 Jun 2026](https://irwin34.blogspot.com/2026/06/received-new-mainsail.html)
 
-Isn't it nice? The shape fit very well. But the slides that came on it were 16 mm, and my mast track needs 19 mm. That was a real problem: the sail just wouldn't work on my mast. I contacted Far East Sails and, to their credit, they answered fast. They asked me to get a quote from a local loft and said they'd pay for the change.
+Isn't it nice? The shape fit very well. But the slides that came on it were 16 mm, and my mast track needs 19 mm. That was a real problem: the sail just wouldn't work on my mast. I contacted Far East Sails, and to their credit, they answered fast. They asked me to get a quote from a local loft and said they'd pay for the change.
 
 To be fair, part of it is on me. I checked every dimension and spec before ordering, but I never thought to check what slides they'd put on. I assumed they'd match the boat info. Mistakes happen. What matters is how a company handles them, and so far Far East has been professional.
 
@@ -194,9 +193,9 @@ Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhul
 
 ## An outhaul you can actually adjust
 
-The original boom end was a total disaster. The clew end of the boom had just a hook: the outhaul went from the clew to the hook, then to a block, then back to a horn cleat at the end of the boom. How am I supposed to adjust that underway? No way to put real tension on the outhaul, especially in wind. The topping lift line was strange too.
+The original boom end was a total disaster. The clew end of the boom had just a hook: the outhaul went from the clew to the hook, then to a block, then back to a horn cleat at the end of the boom. How am I supposed to adjust that underway? There was no way to put real tension on the outhaul, especially in wind. The topping lift line was strange too.
 
-With the new sail I want to adjust the foot underway, so in July 2026 I built a 4:1 purchase for the outhaul. Temporary. The plan is to rearrange the whole boom for 4 reefs (instead of the one I have), the outhaul and the topping lift: blocks inside the boom at the end, lines out the sides. Starboard gets reefs 1 and 3, a #10 winch and a horn cleat. Port gets reefs 2 and 4, a #10 winch and a horn cleat. Maybe a V-cleat on each line before the winch, so the winch can be freed.
+With the new sail I want to adjust the foot underway, so in July 2026 I built a 4:1 purchase for the outhaul. It's temporary. The plan is to rearrange the whole boom for 4 reefs (instead of the one I had), the outhaul and the topping lift: blocks inside the boom at the end, lines out the sides. Starboard gets reefs 1 and 3, a #10 winch and a horn cleat. Port gets reefs 2 and 4, a #10 winch and a horn cleat. Maybe a V-cleat on each line before the winch, so the winch can be freed.
 
 ![Original boom end and lines](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsc94otXdTnvd_DPhXi_g3Xn6I6Z_jmpbVNVw4XCaNgG2P6yj4GO6eQqvAh8DmH8WfoTuQpArsymbBS6TkMULS4EpQWC7bDhKQ6k2EcHMI9Tsml-B3nwtPvXetmyX09oSejYpjMFzk9MN2BhyW9exJb46jlns2TuQc7PaqVvoyFfpc9e7sKSZnoPR1zQam/s1600/3.png)
 ![Boom end with the outhaul hook](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuCzdDD-AmJC1SFzKuOxFgr88DmIR-sNuL6Q5VlN3JO1s9QaUNc40q6FUFPKuZybHCEqKynCZd2p_mlf_5qHPOA-RpRPA6vkgPAZCAb2kZw8hdETMMIBnu7wyIcpxZTZl0ouNKDjAiDXZCQJlfviql1JgczuQEzj6zJwjmLOFHDZW82Y5Tg3NwIb9DdBX8/s1600/2.png)
@@ -207,7 +206,7 @@ Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhul
 
 ## Reef blocks, winches and some math
 
-With four reefs I wanted to know what loads I'm really dealing with, and the numbers surprised me. At the fourth reef there's still about 4.9 m² of sail out. In a worst-case 60 knots that's about 3.7 kN. If 40% of it goes to the reef clew, that's 1.5 kN. The two legs of the reef line pull at a shallow angle, about 10°, so each leg carries about 4.3 kN. Add 50% for gusts, flogging and shock and you're at 6.4 kN. So I need blocks rated around 8 kN. And every reef works out about the same:
+With four reefs, I wanted to know what loads I'm really dealing with, and the numbers surprised me. At the fourth reef there's still about 4.9 m² of sail out. In a worst-case 60 knots, that's about 3.7 kN. If 40% of it goes to the reef clew, that's 1.5 kN. The two legs of the reef line pull at a shallow angle, about 10°, so each leg carries about 4.3 kN. Add 50% for gusts, flogging and shock, and you're at 6.4 kN. So I need blocks rated around 8 kN. And every reef works out about the same:
 
 - Full sail: luff 11.14 m, 25.6 m²
 - Reef 1: 19.2 m² (75%), up to 20 kn, peak line tension 2.8 kN
@@ -215,15 +214,15 @@ With four reefs I wanted to know what loads I'm really dealing with, and the num
 - Reef 3: 8.8 m² (34%), up to 40 kn, peak 5.13 kN
 - Reef 4: 4.9 m² (19%), up to 60 kn, peak 6.43 kN
 
-6 kN is about 350 lb. No way you pull that by hand, so I need winches on the boom. But a winch shouldn't be able to overload the lines either. A #10 winch with a strong person cranking 70 lb at 10:1 gives 700 lb. Good.
+6 kN is about 1,350 lb. No way you pull that by hand, so I need winches on the boom. But a winch shouldn't be able to overload the lines either. A #10 winch with a strong person cranking 70 lb at 10:1 gives 700 lb. Good.
 
 Next problem: the boom is curved. I made spacers from 3D-printed ASA, 100% infill, shaped to the boom. With about 2,400 mm² of support, even 12 kN of screw clamping is only about 5 MPa, easy for ASA, and the plastic gives a little and fits the boom better. Inside the boom, a full backing plate ties all four M5 screws together, so nothing dents or cracks around the screws.
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-In short: the blocks and winches go on the boom with 3D-printed spacers that follow its curve and spread the load. ASA works out good enough on paper. The catch is that I'll need to retighten the screws several times after installing.
+In short: the blocks and winches go on the boom with 3D-printed spacers that follow its curve and spread the load. On paper ASA is good enough. The catch is that I'll need to retighten the screws several times after installing.
 
-The block spacers: outside, one side is flat and the other follows the boom. They're asymmetric, so one block sits 10 mm above the boom's centerline and the other 10 mm below, so the reef lines closer to the boom end run free without touching the other block. Inside the boom another spacer keeps the backing plate parallel to the block. Those backing plates are 3 mm 304 stainless with tapered holes, plus a center hole for a screw that holds the plate on the spacer.
+The block spacers are flat on the outside face and follow the boom on the other. They're asymmetric, so one block sits 10 mm above the boom's centerline and the other 10 mm below, and the reef lines closer to the boom end run free without touching the other block. Inside the boom, another spacer keeps the backing plate parallel to the block. Those backing plates are 3 mm 304 stainless with tapered holes, plus a center hole for a screw that holds the plate on the spacer.
 
 ![Printed spacer for the reef block, top](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWaoYx4K-Kg66g87Fioc4RqUZjOWDFiyavwxNnx4xGD42NuhDh7_NQBpdC_cE2hkKc8CeJke5wN9E3QaZKdBI0bPSkwhGk-ldWaCxyhQpYfics5Y8kQdalZqLBPp8N_T0zWz5qdfn8mE_OI-33Hi87T6d7XZaU9paqadta3UQrqDmwQ4AeFLeSSBAtCYnD/s1600/IMG_2636.HEIC)
 ![Printed spacer with screw holes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JfuxWBXRt36aqA_sfGeb_I_dB6DZ6FrrTzC_Gqbob7BUGwy3tY3LOzTlKVBiJzo0OG-2XCG04fTuoxY7xr95KW3lHOA5QGtpH9Sk668y_XU2xWuBlmp2TKtUYrXSMqi_6SP8oQr_43Svjv9GaGVPSOnOUhzRoh13heNzxUmazC5t-DU4-OjhwSvslSCF/s1600/IMG_2635.HEIC)
@@ -241,7 +240,7 @@ For the winches: the outside spacers, and inside, 5 mm stainless backing plates 
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-How to install a backing plate inside a closed boom: put the outside spacer on and use it as a drill template. Hot-glue the backing plate to a wooden slat and push it in, then run a thin steel wire through to pull the plate close enough to line up the screw holes. Once they line up, drill a small hole through the aluminum only at the center, countersink it, and put in a small screw to keep the plate in place. Tef-Gel on the screws and holes, and install the block. Doesn't it look nice?
+How do you install a backing plate inside a closed boom? Put the outside spacer on and use it as a drill template. Hot-glue the backing plate to a wooden slat and push it in, then run a thin steel wire through to pull the plate close enough to line up the screw holes. Once they line up, drill a small hole through the aluminum only, at the center, countersink it, and put in a small screw to keep the plate in place. Tef-Gel on the screws and holes, and install the block. Doesn't it look nice?
 
 ![Spacer used as a drilling template on the boom](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXCDBAKr5sorkorHpMa-o3BWtE6eMrYBE-sr8BkivPJyFFlTjEY29r2SHeMU5A_yuPsvXijOFzglULYfQO2ePj46dYUhYSRczN_6gRyDfHXGO8ODssRQm5lZd47sHuT6RMf8HBYz7cYt6zSHXPB6U_m84wzrIVzhDoNA1TQJyxAVI8seEPxsSzHB8yYj3C/s1600/IMG_2583.HEIC)
 ![Backing plate glued to a wood strip for inserting into the boom](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1L53vx_1Iazsi7gYMaSEk7kLkugSRJFB9nzW2LAhWdqTXVXhS10b-3140uC4xZV9sdu3SuMzpbOynLMGLhA8kuIF3lVgly-2SLvCngcnj5KQsmD7BV2tg30jWUgNydVV3KIIsNKoXln79bVxhc0H9a9azp39nnbcpM4kDwWL3Tin5pzgKE-44JDrb1yU6/s1600/IMG_2589.HEIC)
@@ -252,7 +251,7 @@ How to install a backing plate inside a closed boom: put the outside spacer on a
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Then the two winches, with backing plates the same way. Dry fit first, then winch in place.
+Then came the two winches, with backing plates done the same way. Dry fit first, then the winch in place. Four reefs, two winches, and a boom that finally works for me, not against me.
 
 ![Reef block base and backing plates](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQTaYcyrHJmSqh6KQ1HlSXcFTQzdN-AunFdjCZlMFpuKnZCRtHqPN_dTrDvQMW0uGuSkibZuHOpfo3YR5ZyxY8o1LhBIgPJ30418gb8iFRnfa47W_0us-HrUvtfXewvIeWhmnTOFd1D70ocgcf48E6KWH0IktpFekAJAZiLAhRk7FVcz4SwZqD8QYaAGxp/s1600/IMG_2595.HEIC)
 ![Backing plates and spacer with the wood strip](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-2Bh3sta_4GjRFkFzLy4wa9vMfCSXqGhvLGhMuJpR-D55L5Q5OEhTUTt8V-kaznir9CL_ytXzIe1b2lsohLG5eUM_JPleg9P4x8eFJFQpx-_7nqP2TdIoOyZQWcYvwYxxO0LrWOQkR2eg3eIFlYYcIxRb8GQb2GShntUuTzadqWU2arPIeR7EpJbpcO1/s1600/IMG_2597.HEIC)

@@ -6,12 +6,11 @@ order: 6
 description: "Webasto unit, raw water pump trouble, ducts and teak vents."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC"
 ---
-
-Texas summer on a boat without air conditioning is not life, it's survival. So the AC came very early, in my second month. Making it really good took years.
+A Texas summer on a boat without air conditioning is not life, it's survival. So the AC came very early, in my second month. Making it really good took years: pumps, ducts, dampers, vents, and one long battle with vibration.
 
 ## A new toy
 
-January 2022. The air conditioner arrived, a Webasto. I tested it at home, works great! Then I played with a paper model to see where it could fit.
+In January 2022 the air conditioner arrived, a Webasto. I tested it at home, and it worked great! Then I played with a paper model to see where it could fit on the boat.
 
 ![New Webasto air conditioner unpacked in its box](https://blogger.googleusercontent.com/img/a/AVvXsEjDA6JbllRgV873AwxwSitbcEVNqeZScErbLktwPJh0BozxrUxiYUbY2_RixLNsuOAThNHVwum1bBSbDbN2Z3OHvpdVEecLfc8m_7gqoXVCga7yeCS6dfOTD-oRPlzDM0IYsMHQAKRwMDjcQMh13KdcLTAq45YbxgTTwGePXf7rAccB7sw5Wrgf8ZouPg=s1600)
 ![Testing the new air conditioner on the driveway](https://blogger.googleusercontent.com/img/a/AVvXsEgXqpsE9-wILmSqcrEFFn2tRmHG5-dydvIntAgDaJSzmdYAT1H7roNNWjYEYKVTGLriPu7c7nONSnNw1eIR6VLesLz-mOw-bjQBsQyDYu5bral_ITacVJQsGk3lI3VawZh4DHNKaeQet3lckTBnajmBivHdsz0J9_GQMS5FNsX5BwjZSLV89kWNKXWaHg=s1600)
@@ -27,7 +26,7 @@ In June I made a template for the AC shelf.
 
 Diary: [19 Jun 2022](https://irwin34.blogspot.com/2022/06/day-32-619-no-fiberglass-today-engine.html)
 
-July: dry fit and a water level check. It sits well. The drain pan looks a little bent, but maybe it's supposed to be.
+July brought the dry fit and a water level check. It sits well. The drain pan looks a little bent, but maybe it's supposed to be.
 
 ![3D scan of the V-berth cabinet area](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBacqw1XwVwM59t11GSsZhO6WwLLQyjrwmoAIVj2N6qguiPTBaYp4axrNAPR4kI3kwwWIcXynDpezRFTfwGcMwI6vX7py4RFAon7XvvnyXEi6JO3Y9I8yInmRDOTfpOy79pNFs_j_C5-XA0Tcdh2P2cp0tr0qtE958z0Zgk2t-4UBSlvtefpne5ynzFw/s1600/IMG_3260.PNG)
 
@@ -35,9 +34,9 @@ Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-pat
 
 ## Water in, water out
 
-Then the condensate. I put drains on all four corners of the pan so it works however much the boat tilts or rolls. The four hoses join with three T's and go to the sump box. Routing that hose under the sole was a real challenge. A few 90° elbows will go in where the hose got flattened in the bend.
+Then the condensate. I put drains in all four corners of the pan, so it works however much the boat heels or rolls. The four hoses join with three T's and go to the sump box. Routing that hose under the cabin sole was a real challenge. A few 90° elbows will go in where the hose got flattened in the bend.
 
-For cooling water: we were on the lake, where a haul-out costs over a thousand, and any work on the hard has to be done by the marina. So, temporarily, the AC shares the engine's thru-hull. I know, air can get sucked in between the two, and they'll fight each other. But I really don't plan to run the engine and the AC at the same time. Strainer in the locker with the thru-hulls, pump in the port locker under the U-shaped settee. More hoses under the galley sink. The real plan, for when she's out of the water: its own thru-hull and strainer under the V-berth and the pump right under the AC.
+For cooling water there was a catch. We were on the lake, where a haul-out costs over a thousand dollars, and any work on the hard has to be done by the marina. So, temporarily, the AC shares the engine's thru-hull. I know: air can get sucked in between the two, and they'll fight each other. But I really don't plan to run the engine and the AC at the same time. The strainer sits in the locker with the thru-hulls, and the pump in the port locker under the U-shaped settee, with more hoses under the galley sink. The real plan, for when she's out of the water: its own thru-hull and strainer under the V-berth, and the pump right under the AC.
 
 ![AC unit on its plywood shelf with the raw water pump below](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Ch6ualfHBZ5ziTBCs9qOorGYmkH886m5VszsD_BBJt67p56ehCE9d0reOlGtv7eeRmWBk0P1Dzpu2yXvqUglYkbDRmfdtOAL-MDQK-1l7NGPNq_d-7rLVjE6KMbs8-XAJjDb22PJAMv8FYwL__GP_Rnjr14DostxDuw7iAjAo2RrQj5aeXEh70PQkg/s1600/IMG_3346.HEIC)
 ![Condensate drain tubing from all four corners of the AC pan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfl4U7KltmaN75ye_qc7nETp5i6xLfdlUKBN5KM91yytLLlpLC9tDzmEmcv3i-wQtXrf21CXiLuw6bjARNIgXoKb14sM29zOwMRbDOKmF75KWeatKFRP084SE02yeylaGNATJVaaHLxsNMAsxjZM5Xp6fXCq0yirUWVyC_M1Q1RI7fNszITKpPtZGESw/s1600/IMG_3348.HEIC)
@@ -46,7 +45,7 @@ For cooling water: we were on the lake, where a haul-out costs over a thousand, 
 
 Diary: [18 Jul 2022](https://irwin34.blogspot.com/2022/07/day-37-718-port-window-installation-air.html)
 
-Later in July: a discharge thru-hull and the first test run. Everything held with single cheap clamps, hoses not trimmed, strainer and pump not even mounted, power not permanent, unit not screwed down. Test only. Water flow through the condenser about 15 liters a minute, as required. And the air was nice and cold.
+Later in July came a discharge thru-hull and the first test run. Everything was held with single cheap clamps, the hoses weren't trimmed, the strainer and pump weren't even mounted, the power wasn't permanent, and the unit wasn't screwed down. A test only. The water flow through the condenser was about 15 liters a minute, as required. And the air was nice and cold.
 
 ![Air conditioner installed under the V-berth, test run](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC)
 ![Raw water pump in the V-berth bilge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgux0eh84tR4uz_Hk8pwxTx7263D1vGkLFaUN5kk2dXWqJVbUYNVi3WDOCd72zUGG7dQItu6YDpS_sn5fc2WA-YiKUJW4sQFhNA2RG9fMl8fjjiKkpAvKXEc3mwPZODinb5VovANw3-s1VQKtiSNVqg1Lkm6zomhohgC-pQC4Nb_qVGZbtUpHr7RPKUZQ/s1600/IMG_3379.HEIC)
@@ -57,7 +56,7 @@ Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/day-38-39-723-724-mast
 
 ## The pump saga
 
-The first raw water pump, a PM500-115, leaked. Webasto sent a replacement even before they got the broken one back. Looks cool, right? I installed it, turned it on, and heard scratching instead of water, then almost nothing. Like the impeller was stuck. I opened it: the magnet was broken in three pieces. Back to Webasto again, new RMA.
+The first raw water pump, a PM500-115, leaked. Webasto sent a replacement even before they got the broken one back. Looks cool, right? I installed it, turned it on, and heard scratching instead of water, then almost nothing, as if the impeller was stuck. I opened it up: the magnet was broken in three pieces. Back to Webasto again, with a new RMA.
 
 ![Replacement Koolair PM500 raw water pump in its box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0apInmSCXa59ZASxKirX1cEui4OmpASYOgWyChAIlSIAR7wnNOwVm-Q-X9yQm680DqIcxJxNzCpmtCbDP0bRKfCq3WESOQugygqU71F7Gtj0SG-awL15Lx-L055SFr91rzh1g4ly-ZY4RAgkNiNxomjTeZ5fIjj1isN1oxgqP44uCMWUEPf8bl9BKbA/s1600/IMG_3644.HEIC)
 ![Broken pump impeller and parts](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTru3SHHUJ-696tvzkpr7SERMqxkVEST913vkr5IcgUnedSinhK1DJ45PDlQewV6FAt5o25bXvihsD1QmHWQTV4vYBWlKBVHTvf_eDo6WXimEllsY9ScHCPFtWrwhMXhyBTpnq_k7sqAfh77MBgQhPcVTWUj4xI8MWWUJ0NO7RD_LzHW2eJhcmhCauGg/s1600/IMG_3642.HEIC)
@@ -65,15 +64,15 @@ The first raw water pump, a PM500-115, leaked. Webasto sent a replacement even b
 
 Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapointment-water-pump.html)
 
-The next replacement was a SeaFlo pump. They don't have the KoolAir pumps anymore. Same size, power and flow, but cheaper packaging, cardboard origami instead of nice foam, and orange instead of blue. It works fine. But it vibrates twice as much as the first one that leaked. Probably I'll give up here. I hate the idea of another RMA round for something so subjective. I'll build some isolation around it later.
+The next replacement was a SeaFlo pump, because they don't have the KoolAir pumps anymore. Same size, power and flow, but cheaper packaging: cardboard origami instead of nice foam, and orange instead of blue. It works fine. But it vibrates twice as much as the first one, the one that leaked. I decided to give up there. I hated the idea of another RMA round for something so subjective, so I planned to build some isolation around it later.
 
 ![AC control panel on the cabinet wall](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUwGLmw3zmOfKZIDAD3Zt9nzMXUpjZz0R5whxCwli3qUU4iTXVGTIclxHlnTBGpBr2USaOcm3zCODCXSWTzMbgp-1f1QuTHLSwXjRdK5rrQvknGV5U9O3CVmXtiwlzwck0rJCr59Osr6fa4yqNNCpGSF4tjxYeCG2KuGNANSWGWBc5W0DdkYFzePWPxQ/s1600/IMG_3695.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-I ran new 12/3 marine wire for the AC, put in a new breaker and fixed a couple of messes in the AC fuse panel. The red breaker at the bottom is the AC. The wiring to the pump is temporary, because it goes through the bilge and could end up under water. When she's on the hard, the pump moves to the AC cabinet with a thru-hull next to it, and no more long wire and long hose.
+I ran new 12/3 marine wire for the AC, put in a new breaker, and fixed a couple of messes in the AC fuse panel. The red breaker at the bottom is the AC. The wiring to the pump is temporary, because it goes through the bilge and could end up under water. When she's on the hard, the pump will move to the AC cabinet, with a thru-hull next to it, and no more long wire and long hose.
 
-The ducts weren't ready, so I made a temporary one from bubble-wrap insulation and masking tape. And it works pretty well, no sweating on the outside. Maybe that's an idea for real ducts.
+The ducts weren't ready, so I made a temporary one from bubble-wrap insulation and masking tape. And it works pretty well: no sweating on the outside. Maybe that's an idea for the real ducts.
 
 ![Raw water pump in the V-berth locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWiuMRoBTA-_-BQBMoto4fUKa1B6ormXpQD8KeBM80X44cItesoaG9k2_0i2Qr9TCJI4exSyGHcNtz8z_8fnuvj2rYBa11zjRurx6xxHupczx-KWlM8F4NyDqGCRN_ubGe24cWvqbs5otRtkRMtK6YJTEEnG-HujWUleDeZC72yVPEXANaFN19mgowrA/s1600/IMG_3697.HEIC)
 ![Original Irwin 110 V panel with the AC breaker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrUwd43ZeMv2HYQPJ3M1PsHOzTtDT1JL1o94YMLNwFYRM0Dc_PI3MQ5Gayskmmv87Q_0VZ0zSitbncSZHmjhjSB2Dqb3sIcL4Bl-d6vI0XbHxTmBXKZBQxgEP7pczupQW2p0u2zo5J3VX7izzQCQXVX8ro6JnqtL0bB60E1kiVSwk3i_FUIyhw7dpKQQ/s1600/IMG_3698.HEIC)
@@ -84,19 +83,19 @@ Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-co
 
 ## Goodbye, rooftop unit
 
-The boat came with an old rooftop AC unit sitting in the hatch. I took it out and put it on sale. The backing plywood around the hatch opening was badly rotted and not bonded to the cabin top at all. What held the unit in place? Nothing. Irwin put a bit of filler in the pocket around the hatch, but in three places the trim screws weren't in anything. And a hatch instead of an AC looks so nice!
+The boat came with an old rooftop AC unit sitting in the hatch. I took it out and put it up for sale. The backing plywood around the hatch opening was badly rotted and not bonded to the cabin top at all. So what held the unit in place? Nothing. Irwin had put a bit of filler in the pocket around the hatch, but in three places the trim screws weren't screwed into anything. And a hatch instead of an AC looks so nice!
 
 ![Opening left in the cabin top after the rooftop unit came out](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNm8Sx1LCp1SFjZwv0C-gcYx_344OCNO5hYnDkcON6Rtl-4TeQLG46ygKdbzSfYxkQ_Y-RYj7GQAlkrIcJp9VOICiW5RJZWROO-li_7IFA3VEatltBUCOQZGOhnXu-3e1jct1f5_5sp0jXsjujpNehUVJgnXCKI8rUhqx2lC0zHB78Qay0odsk93yyvw/s1600/IMG_3755.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-Same weekend I found an open hose connected to a thru-hull. That one could have made my first sail on this boat my last. Simple fix: pull the hose and barb, put in a bronze plug. The gate valves still have to go, but that waits for the hard.
+The same weekend I found an open hose connected to a thru-hull. That one could have made my first sail on this boat my last. The fix was simple: pull the hose and the barb, and put in a bronze plug. The gate valves still have to go, but that waits for the hard.
 
 ![Old hose and seacocks under the V-berth](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrK8dhCmn3p1Fg0VG5mq1luoBozAVXzMa-_UNZWsG-lqGF09QiuLuSTLgvGAvfZSiNrp8B3hu9zZCHhlwTXMo1_RJN9vOxUN7rYiE30E40liq4mmddM4veZod5P201DArvAf1vY_rS5wiISR6TlrUwwWoksgeHqnFDJwd-ocSFLnEHs_Kee8M2XYzpAw/s1600/IMG_3721.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-I also put proper hose fittings on the engine room vents. No idea how Irwin held them. Looks like they drilled holes in the deck and pushed PVC hose in, with nothing holding it.
+I also put proper hose fittings on the engine room vents. I have no idea how Irwin held them. It looks like they drilled holes in the deck and pushed PVC hose in, with nothing holding it.
 
 ![Vent hose with the new tubing terminal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Bw-iaFv0ilCyI3pR0sV85dNzSIW8S36mu0oqhTSrRaV2JQDcQVahIpN9nvJBNy6ehcql4EJRW5IkWJuLt8WcDm4wdrEtlS1b8wDmOIQD4eHcrdULpdOaMCGlbHIY0oK8m67WaloX63Tl5QAZnQ8rxxLCJoJpxciC0xVSbNsvjQ6gTQaqkwNjJluw6A/s1600/IMG_3840.HEIC)
 ![Deck cowl vent on the foredeck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8-KMZrgyH8lud7wli5cE9cwEFSpJ5uVwky0cedw1jS_mCQs3iD3BNWrq9p660EdsKtZqeKkkMirsRTaULdzLWUkN50OVM_yzZkPG4DzoSHjUlI_uOKG6RdvNLIJlGJ4UFv0bJqBf0TDvSJayt_fnoHcm7civ-CJBwLJC7iPY3REgXet8hdKwJHmHPBg/s1600/IMG_3839.HEIC)
@@ -105,11 +104,11 @@ Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring
 
 ## Foam boxes and electric dampers
 
-November 2022 I built the air distribution box from 3/4-inch foil-faced polyiso foam board, with foil tape, hot glue and duct tape. Great material: light, easy to work, fire-resistant up to 800 °C, and no smell in the air thanks to the foil. The box sits on the AC outlet. Inside it's built like a muffler, with guide plates so the air turns 180° one way and 90° the other, and plates at 45° in the corners so there are no dead pockets. Two electric dampers on the outputs, so I can choose main cabin or fore cabin.
+In November 2022 I built the air distribution box from 3/4-inch foil-faced polyiso foam board, with foil tape, hot glue and duct tape. It's a great material: light, easy to work, fire-resistant up to 800 °C, and, thanks to the foil, no smell in the air. The box sits on the AC outlet. Inside it's built like a muffler, with guide plates so the air turns 180° one way and 90° the other, and plates at 45° in the corners so there are no dead pockets. Two electric dampers on the outputs let me choose the main cabin or the fore cabin.
 
-The duct goes through the bulkhead with the insulation left on, so the cold pipe doesn't wet the plywood. Two outlets in the main cabin: one has a deflector that cuts half the flow to the outlet by the bulkhead, the other is for the future galley shelves.
+The duct goes through the bulkhead with its insulation left on, so the cold pipe doesn't wet the plywood. There are two outlets in the main cabin: one has a deflector that cuts the flow to the outlet by the bulkhead in half, and the other is for the future galley shelves.
 
-The intake got a box too, from the same foam, with a 12x12 filter. The AC is in what will be a cabinet, and with all the dusty woodwork going on I need to protect the evaporator.
+The intake got a box too, from the same foam, with a 12x12 filter. The AC sits in what will become a cabinet, and with all the dusty woodwork going on, I need to protect the evaporator.
 
 ![Foil-laminated AC distribution box being installed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhile3PyYB3vR48I2QGxqYes4n64_cqRQwiKT-LqN-orepOipJ06b1D_UjtHqNSjVE1WKQMuHMkQqBGeW0mCUpF9WChzVEG1g-vO1QTvPJQUe5bHxRwq8lQ23NOTHPoy1aOvlW8H7HL6cDtpNAIkW3SoTXmATuf9FPYy4gns5GqTLuoMBy2RK_5VYYjIQ/s1600/IMG_4093.HEIC)
 ![Distribution box with flow directors inside](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkRxIALbEq65XLI_gHu-Whko0-sSmHWGpKm70bc1RB0-DlbCQO1jbrogVJAl5IrM25BRVO6yATgHh-zHznL0GlT5IUOet_mkyy4f7Y6gGAz1MYVtgjknmLjP5Y1yZQfAQgFolScZXVpcz41rZqp5Qi8V02ryKwtiMJMx9QHZQMqgptkfwJ5SowFA7ETA/s1600/IMG_4090.HEIC)
@@ -123,21 +122,21 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 ## Teak vents
 
-April 2023 I moved the raw water pump to the bottom of the galley cabinet, next to the fresh water pump. It's below the waterline, but not enough for sailing, so it needs a check valve.
+In April 2023 I moved the raw water pump to the bottom of the galley cabinet, next to the fresh water pump. It's below the waterline, but not enough for sailing, so it needs a check valve.
 
 ![Raw water pump moved under the galley next to the water pump](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdjZLkLVn4EhzJv1meUIfCdtS2kJE6F3myTmiy9E1kxscddvNCyBGkhIa0mRYRwNi55qGb8AAUJDZ7EsFvDq7vidy2lMxCTmr3OtOpRCqA-pyzGim4fBu5likXPHBBLioRfM7yxGzJp_Zqn72_Z_4bGuZrJ7PNuFjAHO9ETrsILPXZSmYN98iQ63MRA/s1600/IMG_5503.HEIC)
 ![Pumps and plumbing under the galley sink](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSrXrnKTn2m9GZ26tsaKEpubFmZ4puCoi8Nmr_dj2uPvwUY0buzVWr7v4m-vhMIPYhddzGOTRbMPyWjKLKNJX84HO3z0JD5LaHPz76CCqXibO4VXWZcDxZGHbAI79yDYet9knqx6HO6_-HzkPANqy3hO8JIuTB6nXNll0YqYVDxITfR2Zno9lKERQ-HQ/s1600/IMG_5502.HEIC)
 
 Diary: [1 Apr 2023](https://irwin34.blogspot.com/2023/04/day-83-4123-finished-mounting-shelf-for.html)
 
-A week later: the galley floor vibration made me seasick in a couple of minutes, with the boat sitting still. I had six rubber shock mounts made for a drone camera. Each is rated for 250 g, and the pump is about 3 kg, so yes, I overloaded them. But that rating is for pulling, and I'm using them in compression 99.99% of the time (the rest is when the boat is upside down). I mounted them between two aluminum plates, and the pump on top. Better than I expected: I can't feel the pump at all and can barely hear it.
+A week later, the vibration of the galley floor made me seasick in a couple of minutes, with the boat sitting still at the dock. I had six rubber shock mounts made for a drone camera. Each is rated for 250 g, and the pump is about 3 kg, so yes, I overloaded them. But that rating is for pulling, and I'm using them in compression 99.99% of the time (the rest is when the boat is upside down). I mounted them between two aluminum plates and set the pump on top. It worked better than I expected: I couldn't feel the pump at all and could barely hear it.
 
 ![Rubber shock mount for the pump](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQhn96EOzkCT7x4r7P89oFZOjYGH_oxnfHGIuxhPOKWVxrEp8vEWaoTL2tB7ubJQdo6QPWDIzBxpRpJ5O99nP6FsARAgd-22Pzm5nY1fr-_D1kae9Qf8hIyJqU_vyZmRv9C3o3p0SdvfVju4aY7-3qtOcjkcjeXcDyOUiwciIm7kE0xQCTh9qsCkXJcQ/s1600/IMG_5535.HEIC)
 ![Pump on shock mounts under the galley](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLopb49cJR3Nv5OXnsYqbAC9vtizA1-xXyo1f4ClTW_X7McQmkeX6GT2bfcJtz6CRiH_AKchIpdjDi35XujcqQ0ZTUHS4sbyduo2cCOCK4mX7m1b4YW8pwNOPBQQNLICeiMPZePQNU0n6xBs5C0QcadKUlazPQ853HY6OTcHgRe5GYCY-uxRiIypbY9g/s1600/IMG_5536.HEIC)
 
 Diary: [8 Apr 2023](https://irwin34.blogspot.com/2023/04/day-84day-83-4823-rebuilt-ducting.html)
 
-Same day: new vents for the main cabin. Marine plywood frame and solid teak slats, the plywood CNC-cut so the air goes in a fixed direction. The back box is 1/8 foamed PVC sealed with aluminum tape. Not enough room for a real box back there. All the inner plywood got TotalBoat wood finish. It takes forever to dry; after 8 hours it was still tacky.
+The same day I made new vents for the main cabin: a marine plywood frame and solid teak slats, with the plywood CNC-cut so the air goes in a fixed direction. The back box is 1/8 foamed PVC sealed with aluminum tape, because there isn't enough room for a real box back there. All the inner plywood got TotalBoat wood finish. It takes forever to dry; after 8 hours it was still tacky.
 
 ![Teak slat air vent for the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-17ORJtwpWRbMD-O5LbluBY4nydh152ah0U19oSQeVepcdi_TJP8dj8I8REp1S3DZYLWi4PF6aF4ila0kffd8xgHDFnMdOjDagk-Ppd0qicOurY7jSkR1UY_Pf_qk5s0O_UzTAoFJH96J6Zq8VvjqnFjhxs8VpUNUe7MnpAj2dKojx92w8w51Ry5uQ/s1600/IMG_5529.HEIC)
 ![Air vent with angled teak slats](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbezPK-rOQlh3REhvcp1pwABfHGdrzjuvppivTtWlw0__K8-ImLFgyAorPkWUkv8eCTU-MEsjqkMrXMICTtH-F8inH-7jasGtSPn3uabSFo6GTaEnzf6OHPk5APsb7aEeAs47f-Nmz3bGfg8EDLiMILZ_YdTkCxKt-QetH1S4mauuTO0rt6q_uUA-0UA/s1600/IMG_5530.HEIC)
@@ -152,7 +151,7 @@ Vira, side view. Just a bonus.
 
 Diary: [8 Apr 2023](https://irwin34.blogspot.com/2023/04/day-84day-83-4823-rebuilt-ducting.html)
 
-Then a big vent for the front cabin, with fixed slats to spread the air. During install I found the damper didn't line up with the vent, so I redid one wall of the distribution box to move the exit 3 inches.
+Then came a big vent for the front cabin, with fixed slats to spread the air. During the install I found that the damper didn't line up with the vent, so I rebuilt one wall of the distribution box to move the exit 3 inches.
 
 ![Large teak vent for the front cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMSwl3hjR0QLYC_UYW36xwWj_Cs6DZi6r2wif1Xg1fk-fxITYwWK8RSWie_OEyJZXgCHBWe3Ks61p1tCuyRIOwKpy7H8unj4BYEX0v3hqTrid7TDWbG_v3wx98wRoHcB1fqDjyR0cGZ3JUUwmhkLCkncA8T5Rup9GwgLIVZsU-pSwdPTdg4tUlodZ2kQ/s1600/IMG_0810.HEIC)
 ![Duct valve and distribution box behind the front cabin vent](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg14vtTekI2tJI7TlZa86Oa7BvvbeCNRzn96QfphPUTkAEC9KytL8aBMdPGxyc7r1YicvlhQKSI5_hMNBsU5DVErvE9wT32TCFPTbI0C3zlNTQtijhY-DMARFOY9pZpyUscEd76iEpTxZRvz9to66b8-YOW8UlD_qLb0RNZzTEcGR2LB1WclLfDxo4R9g/s1600/IMG_5676.HEIC)
@@ -161,7 +160,7 @@ Then a big vent for the front cabin, with fixed slats to spread the air. During 
 
 Diary: [29 Apr 2023](https://irwin34.blogspot.com/2023/04/day-87-42923-front-cabin-vent.html)
 
-May: the filter mount takes a 1-inch 12x12 filter now. June: a teak grille.
+In May the filter mount was changed to take a 1-inch 12x12 filter, and in June it got a teak grille.
 
 ![Filter mount and grille under the AC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRpe8R4EjIdg_ecvi87GCrQ-aFwaW8ZIRzaeJVHiL6NbTUsyGfsL5jtDSDGP0f12_j-arlc27UmgnLmyoABZQJP7SCJ0sb3EB6u68OQ-fZb5fm2Ax4nWwM23OS29Hr0Ql6I8rOc2gHNCMC4r6xi1CTrRKeyM1a9lsRDdGWNuVO2MDg18FqgpJcDWmCA/s1600/IMG_5827.HEIC)
 ![Front cabin cabinet top panel cut to size](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwDVk8DRRx4nPLoXYaZ-_XNKHZccheDPUMHlVp_1e2txDfFonx1guQIJtsAOZ7bgb8uBJ9_0dIrLUgLLI7qayUMnaP8g6cZXE4Nt92VLzmykFT4D11Ne-DgTlTAstqMxDwsOC-N2cyWENhJQ7FyascqzYPs0jrTjK6lmglWK9xVArSDiwDTqOzjlw17g/s1600/IMG_5828.HEIC)
@@ -172,9 +171,9 @@ Diary: [3 Jun 2023](https://irwin34.blogspot.com/2023/06/day-92-6323-galley-coun
 
 ## Fixing what bugged me
 
-Once the engine went home in 2025, the HVAC pump wouldn't start. With the boat lighter, the waterline was below the pump, the water ran out, and the pump isn't self-priming. So I added a check valve near the discharge that keeps the water in and lets air to the pump. It's a simple nylon check valve with single clamps. In my defense, it's a test, it won't stay forever, and it's well above the waterline, so even if a hose comes off nothing can siphon. A week later the pump still started fine. A water alarm for the HVAC shelf is in the plan.
+When the engine went home for its overhaul in 2025, the HVAC pump wouldn't start. With the boat lighter, the waterline dropped below the pump, the water ran out, and the pump isn't self-priming. So I added a check valve near the discharge that keeps the water in and lets air reach the pump. It's a simple nylon check valve with single clamps. In my defense: it's a test, it won't stay forever, and it's well above the waterline, so even if a hose comes off, nothing can siphon. A week later the pump still started fine. A water alarm for the HVAC shelf is in the plan.
 
-The silencer I built took a lot of room and didn't really make it quieter, so it's gone. Now it's just a Y duct.
+The silencer I had built took a lot of room and didn't really make anything quieter, so it's gone. Now it's just a Y duct.
 
 ![Check valve on the AC raw water line](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyLudK5ZQxjudSNyBuyO7w5-3809333EHUaL3wKLNcDOenvZc8siOQFLqPcBdFqtDljmtsWTLWu-sqAENkYFcIlk9L2V7MzQEJaNCQlv_KjwlvlhahX6x5-KLdtIBLhtIAufTTjyINAbzN3lh7F8mU6qDCu8xQaJqGUtxWyxDOFGjFFiC2fZYhGnmrCR1s/s1600/IMG_0229.HEIC)
 ![Insulated AC ducts and electric dampers](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxXFMYo_fMlTJ85mZbqTTDUfbt0Y1y_UecW6lYV_THqOurfOHsEx90qT0H3bPX-gtdRR-CJonOQTP7cI8IjSbOLBFQ0Hp4OZUJ2FVtZq3-NELxOnqInPjGaHnBIO41ARH3LwSkCRy97UJKU-K9BZ0dMEVnc-FjZrdAGGg66PH4Af9UbeoXC91oTpHjmYn/s1600/IMG_0228.HEIC)
@@ -183,9 +182,9 @@ The silencer I built took a lot of room and didn't really make it quieter, so it
 Diary: [9 Mar 2025](https://irwin34.blogspot.com/2025/03/day-190-hvac-air-dirtribution-redo.html)
 Diary: [16 Mar 2025](https://irwin34.blogspot.com/2025/03/day-191-engine-fresh-water-conversion.html)
 
-And the dampers. The idea is to cool or heat only part of the boat when I run the AC from batteries. Maybe a mechanical three-way valve would be simpler, but I'm an electrical engineer. I got cheap 110 mm 12 V duct valves. Three wires: middle is +12 V, and minus on the left or right wire opens or closes it.
+Then the dampers. The idea is to cool or heat only part of the boat when I run the AC from batteries. Maybe a mechanical three-way valve would be simpler, but I'm an electrical engineer. I got cheap 110 mm 12 V duct valves. They have three wires: the middle one is +12 V, and minus on the left or right wire opens or closes the valve.
 
-I wired them in parallel with open and close crossed, and one started opening and closing nonstop. When I opened it, the design was very simple: the motor turns only one way and swings the door, and two switches cut it at the end positions. One valve alone works fine. Two together back-feed each other and never stop. Four diodes to separate them, and everything works like it should. Plus a 2 A inline fuse on the control circuit, so I can sleep well.
+I wired them in parallel, with open and close crossed, and one of them started opening and closing nonstop. When I opened it up, the design was very simple: the motor turns only one way and swings the door, and two switches cut it at the end positions. One valve alone works fine. Two together back-feed each other and never stop. Four diodes to separate them, and everything works as it should. Plus a 2 A inline fuse on the control circuit, so I can sleep well.
 
 ![Insulated duct split to the V-berth and main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw-rIasqOrKLXSVpnx5f6kDL2LqIoT1Y8IBztO5BnH147_m1wqu1imSloGNlIl5VwB98YMRowvyHbz9i1Et6QilGCgW_qHl_ggmJ-jM7BW1xwAJJFPQ4plhPKCZ7srrzJIf4y7y0tnpwiEUk9_a-WR9uvgJUmvnDF4BPjXmrAvR4t6voNGSmxXtFRyKX2Y/s1600/IMG_0277.HEIC)
 
@@ -193,9 +192,9 @@ Diary: [16 Mar 2025](https://irwin34.blogspot.com/2025/03/day-191-engine-fresh-w
 
 ## A quiet pump, finally
 
-After three years of listening to that vibrating raw water pump, it was obvious it had to go. The aluminum plates and drone rubber balls helped at first, but not enough. Sleeping on the boat with the AC on felt like sleeping inside a running tractor.
+After three years of listening to that vibrating raw water pump, it was obvious it had to go. The aluminum plates and drone rubber balls had helped at first, but not enough. Sleeping on the boat with the AC on felt like sleeping inside a running tractor.
 
-So in June 2026 I replaced it with a SeaFlo 500 GPH, 115 V magnetic-drive AC pump. Not high end, but on the second try I got a silent one. I designed and 3D printed a stand so it sits on the 30° hull side in the locker. One of the old problems was a very short hose between the pump and the strainer, which carried the vibration right through. Now the pump lies horizontal, which is much quieter, and the inlet has a longer 90° reinforced silicone hose that's more flexible and isolates the vibration better.
+So in June 2026 I replaced it with a SeaFlo 500 GPH, 115 V magnetic-drive AC pump. Not high end, but on the second try I got a silent one. I designed and 3D printed a stand so it sits on the 30° hull side in the locker. One of the old problems was a very short hose between the pump and the strainer, which carried the vibration right through. Now the pump lies horizontally, which is much quieter, and the inlet has a longer 90° reinforced silicone hose that is more flexible and isolates the vibration better. Finally, the tractor has left the boat.
 
 ![Pump bracket, 3D model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitlT12K7TnvjJdOMBegYEYIoc1QXSmnrLY01PKiYxKm8Ou2f9TYVC3SH0PAdiCFuXri7RtuE5jZfQ_vJh587f6GFP3QSkBzKoS1JcVCL8JHvhdSW549e1Z-2FJET7Mwpo6Qc2e7qzg2oIbq7kzRHRfw-ucGt4yXhkP0WJEJ89r2bkTa2tIWof3tewjg3GN/s1600/stand.png)
 ![Old raw water pump on the seacock and strainer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBljI8Qgbpbi-b7Q0uOaN98_IApDgMJKuvK8n_M6rkfLeRoI8nFbhEUGNudyS1RE7SVWJrAd7nVHN2nXruN5tdz1TLF51Sv_39Hy3fFra5vbZGYWnbi9eVXnvk3aQlCLiFxaPqFcZCU6eAnARg1KWpvQQxr0IdSjSS12OsmzcHWGGkGWUiyTH5hwrGJjNx/s1600/IMG_1442.HEIC)
@@ -204,4 +203,4 @@ So in June 2026 I replaced it with a SeaFlo 500 GPH, 115 V magnetic-drive AC pum
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
 
-In August 2026 I replaced the air filter. The old one was really old and full of dust.
+In August 2026 I replaced the air filter. The old one was really old and full of dust. Fresh air, in every sense.

@@ -6,8 +6,7 @@ order: 1
 description: "Mast top survey, mast steps, step-down, Nyalic coating and tuning."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpcN0OMu-xRUIoO_nuoqDctoFmus5xFdlhfKtMey18d6gZB0HBhwsW47Lc6AdLuwM4vdMGRhiu38-Z12aVFL4OMQHFykRRcFw8MTLVNcA7zSTnZvIDI2t5lhGgJw8UkZJvL6LXhsvxS3sSFlq2ObIwBAXwDGCAFwTClnCnrIwLQI7HDdIK9GI0qtZlFQ/s1600/IMG_3396.HEIC"
 ---
-
-Vira's mast isn't even her own. She was dismasted at some point, and the mast that's on her now came from an Irwin 30. I climbed it, put steps on it, took it down, stripped it, coated it, put it back and tuned it again and again.
+Vira's mast isn't even her own. She was dismasted at some point, and the mast that's on her now came from an Irwin 30. Since then this adopted mast and I have been through a lot together: I climbed it, put steps on it, took it down, stripped it, coated it, put it back, and tuned it again and again.
 
 ## First look from the top
 
@@ -18,7 +17,7 @@ April 2022, a very hot day. I was too lazy to climb, so I sent my phone up the m
 
 Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionway-slides-deck.html)
 
-In June I identified the furler: Hood Yacht Systems 800. I still need to check the size to know the exact model. The manual is online on sailboatowners.com.
+In June I identified the furler: a Hood Yacht Systems 800. I still need to check the size to know the exact model. The manual is online on sailboatowners.com.
 
 ![Hood 800 furler drum at the bow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39aFyivnav6p8VJ8CYVsdluzkaM-Ir9sj4_NoFrb2eC0ZR-Bzvponj9JH_sM6NlYKkBNFeyA-j2dDYLFAe58jjs5iy5vLYidrl1r8YYz7UWQsZSs0LvMG8P3sHlZpiENrTAvlbyROfTQueugtRRveGXUtDX2IZ2NNaLSkcpnq8l7zNx0ouOKGbu-31g/s1600/IMG_2906.HEIC)
 ![Furler foil and drum close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4IDIGr-pEBV6Qo28aIetTUUEBqjea4_tWwIqma3fe7g1gOvXO5sVi_-uGYOnxZyoDJhFmrMMX7-HCblq-fRIOZPLq8HPIYnNfkHFAQB0m6DOFX230A_FHZuhTHs-mgpfrnrDK7GBKqxrWWYVjwhcD7mDVGLV4H8bbeiLimO5nKV83R-z6Q5XlkP2ng/s1600/IMG_2900.HEIC)
@@ -80,9 +79,9 @@ I really need to be able to service the mast myself. I'd seen a YouTube video of
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-For stock I used 6063-T52 aluminum bar, 0.1875 x 1.25 x 12 inches, from Xometry, $1.44 a piece. First I tried bending in the vise, but bending 90° over a sharp corner puts too much stress in the metal, the vise jaws leave marks, and the vise screw gets in the way of the middle bends. I needed a bender with a radius. Buying one for a single job was too much, so I built one from scraps in the garage: a 10-inch piece of 1.5-inch steel angle, two 1.5 x 0.25 x 16-inch steel bars for the lever, three 1/2-inch bolts, and four ball bearings with 1/2-inch bore. Drill, cut a little with the grinder, bolt it all together, screw it to the bench.
+For stock I used 6063-T52 aluminum bar, 0.1875 x 1.25 x 12 inches, from Xometry, at $1.44 a piece. First I tried bending in the vise, but bending 90° over a sharp corner puts too much stress in the metal, the vise jaws leave marks, and the vise screw gets in the way of the middle bends. I needed a bender with a radius. Buying one for a single job was too much, so I built one from scraps in the garage: a 10-inch piece of 1.5-inch steel angle, two 1.5 x 0.25 x 16-inch steel bars for the lever, three 1/2-inch bolts, and four ball bearings with a 1/2-inch bore. Drill, cut a little with the grinder, bolt it all together, screw it to the bench.
 
-The gap between the axle and the bearings is tiny. I filed the bearing holes so the bar just fits between. Three holes in the bench with a center punch stuck in them stop the bar at exactly the same spots every time, and a vertical post shows the right bend angle.
+The gap between the axle and the bearings is tiny. I filed the bearing holes so the bar just fits between them. Three holes in the bench, with a center punch stuck in them, stop the bar at exactly the same spots every time, and a vertical post shows the right bend angle.
 
 Thirty minutes to build the tool, twenty minutes to bend all the parts. Twenty-six identical steps.
 
@@ -95,7 +94,7 @@ Thirty minutes to build the tool, twenty minutes to bend all the parts. Twenty-s
 
 Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/mast-steps-fabrication.html)
 
-Then I installed them, permanently. Why permanent? Because 99% of the time I'll sail and look after this boat alone, and I want to get to the masthead easily and safely. And before anyone says I shouldn't: yes, I lose a bit of performance, add some weight, and maybe lose some strength. Two 4.7 mm holes at one level on a 500 mm mast perimeter is about 2%, nothing compared to the halyard exits and cable holes. 6063 is weaker than 6061 or 5052, but it handles corrosion well. It looks a little odd, but while I was putting them on, two people walking down the dock said they wanted the same.
+Then I installed them, permanently. Why permanently? Because 99% of the time I'll sail and look after this boat alone, and I want to get to the masthead easily and safely. And before anyone says I shouldn't: yes, I lose a bit of performance, add some weight, and maybe lose some strength. Two 4.7 mm holes at one level on a 500 mm mast perimeter is about 2%, nothing compared to the halyard exits and cable holes. 6063 is weaker than 6061 or 5052, but it handles corrosion well. It looks a little odd, but while I was putting them on, two people walking down the dock said they wanted the same.
 
 ![Mast with permanent steps installed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpcN0OMu-xRUIoO_nuoqDctoFmus5xFdlhfKtMey18d6gZB0HBhwsW47Lc6AdLuwM4vdMGRhiu38-Z12aVFL4OMQHFykRRcFw8MTLVNcA7zSTnZvIDI2t5lhGgJw8UkZJvL6LXhsvxS3sSFlq2ObIwBAXwDGCAFwTClnCnrIwLQI7HDdIK9GI0qtZlFQ/s1600/IMG_3396.HEIC)
 
@@ -103,11 +102,11 @@ Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/day-38-39-723-724-mast
 
 ## Forestay and furler back up
 
-The forestay had a broken strand at the top. At first I wanted to replace the whole wire, but the damage was likely from the jib halyard wrapping, and the rest of the rigging was in fair shape. Only the top 2 inches were damaged. So I shortened it at the top, put a new wedge in the Sta-Lok, and added two custom 0.137-inch plates at the bottom. Luckily the furler can take that.
+The forestay had a broken strand at the top. At first I wanted to replace the whole wire, but the damage was most likely from the jib halyard wrapping, and the rest of the rigging was in fair shape. Only the top 2 inches were damaged. So I shortened it at the top, put a new wedge in the Sta-Lok, and added two custom 0.137-inch plates at the bottom. Luckily the furler can take that.
 
-Getting the clevis pin out was a challenge. The previous owner had used mild steel split pins on both sides, and they rusted in place.
+Getting the clevis pin out was a challenge. The previous owner had used mild steel split pins on both sides, and they had rusted in place.
 
-Then we put the forestay and furler back, and the mast stood with no extra support! Funny thing: after tightening, the forestay came out exactly the right length to connect the foil to the drum. Ready for the genoa, repaired for $140.
+Then we put the forestay and the furler back, and the mast stood with no extra support! Funny thing: after tightening, the forestay came out exactly the right length to connect the foil to the drum. Ready for the genoa, and repaired for $140.
 
 ![Masthead with the new Windex](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTjPv2mFqKb-G9AeLGgzFV-iZ7w5oeBRns8LnumeyFzDZn-0GyQWyFXUctl2R2ttYi5DiobKH2kUyBg6fns2Dse-5g9n5xnO-1xhygqAuDiM2Ej1OqSqBMrB5c21m031aaTwpzAMdwdF10M3NkIbUkEGSUA_Pu_ZiE6vGyUEN2KGhg2hkcuxud5C8cA/s1600/IMG_3404.jpg)
 ![Forestay terminal and wire close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXT35pAcl3dos20tLJ7g5GU1ho5hgb61hoEGuI0MUVIQEHq3mmPUFbutqp0B73Nf9CpOrKV5txDBoGtu7a8KhW1UuwBaqcaQfVpz8kvsAtagMlS07gA9TWI8HTj3Tbqo3GXTeAHhbIuoNbBl-ixP6KOXrVO_fLbw6BlYQcismtN_WPNFO-4OsFuBmj-A/s1600/IMG_3022.HEIC)
@@ -118,14 +117,14 @@ Then we put the forestay and furler back, and the mast stood with no extra suppo
 
 Diary: [29 Jul 2022](https://irwin34.blogspot.com/2022/07/day-40-729-front-stay-furler-port.html)
 
-August, getting ready to sail the lake in two weeks. All stays tight and adjusted, furler fixed, genoa back on. The sail repair fixed a torn UV cover and some stitches where it touches the spreaders. Looks like new. And yes, a 34-foot boat's genoa is a lot of cloth. The furler works well.
+August: getting ready to sail the lake in two weeks. All the stays were tight and adjusted, the furler fixed, and the genoa back on. The sail repair fixed a torn UV cover and some stitches where it touches the spreaders. It looks like new. And yes, a 34-foot boat's genoa is a lot of cloth. The furler works well.
 
 ![Vira with the genoa on the furler at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgId6JiLHj9CKibOdzVtHPRqLimWzf_b4w6G-QJlsbArvi6jfl3zOegycjRpVuS-pphPjC3BofUILykIrBzWF4qX6g-HiIyIPnOkZUY_t2tPQK_XatOR33g_fB_bjiXidPC77vG7MgNy2pLmRF5jEulXDCbaTFO4YsKunJFZ7Qvnz7PsPt87zyP-spBPw/s1600/IMG_3545.JPG)
 ![Mast steps and masthead against the sky](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjr3203l1GCZU_wjJY_Lp2HLu5F2PNBsbJiLjS4dBlmsq1RkNTky0pvYK4Ia9Hmc5QG7JgIOKlW6mdIgECZn5OXdO4frVX9qbCnawhDFq2vagNgZm8YdCEnlAhtC1IjuhgcxP20a-hkUat2sBNs0e5O5RR_ukMYhxk94IMFbPGXAXvw9cg-yBrhi-zQ/s1600/IMG_3538.HEIC)
 
 Diary: [6 Aug 2022](https://irwin34.blogspot.com/2022/08/day-41-86-put-front-sail-back-windex.html)
 
-One more trip up the mast, very easy now with steps. I wanted a Windex, but first I had to make sure the VHF antenna didn't get in its way. So the antenna went up too, and since its cable was very old, I replaced that as well, down to the molded connector at the masthead.
+Then one more trip up the mast, very easy now with the steps. I wanted a Windex, but first I had to make sure the VHF antenna didn't get in its way. So the antenna went up too, and since its cable was very old, I replaced that as well, down to the molded connector at the masthead.
 
 ![Mast with steps and spreaders, looking up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2nO3yX7JwNZXHdLsc6V9AAk4aA0bxOMlhRhLm7MNO8w9FlqkfYWnlD7g_Se5ZXkCSNiNssTdVW7XqN9bHSLZVTNkyNTzcf3EM6l0RT4zlH_UZAQnSqwBZYzPiJ5fKWfY9eAupnvOP8Bd5yt9bPXrfS6Os7Ci-xjt-106u4BxGN29ojxwzhwX79sjZ-A/s1600/IMG_3539.HEIC)
 ![Windex template card](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDMbWXP5-cyhjw-p2fBX8fcmrxdkEqnOzecMJLblyXOfT9Q5m2xBsJw4Ct-dgq8EI-e3nGxF4i9o0LnMLlnHTTljLtNe9crrGvbc9TNYcN5EuCvTlSfn7H2ffztWo_qTlKQEuOsT4htoAuNDm8b3zj1vLwrMBu1PtM5NQ4APbAG9uouDSacEiIbNYiGg/s1600/IMG_3544.JPG)
@@ -134,7 +133,7 @@ Diary: [6 Aug 2022](https://irwin34.blogspot.com/2022/08/day-41-86-put-front-sai
 
 ## Little notes
 
-November 2024 I noted some dimensions for a boom kicker bracket.
+In November 2024 I noted some dimensions for a boom kicker bracket.
 
 ![Notebook sketch of the boom kicker bracket](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjviad0bd8lA8ZkRQaGgkKK5Frcey0vrgUwCMxqlWbD4d9A2wEy_dI_YTWE4nB-2rNp3FWoGnC804zSmuH-K-tozPBL3hCwWCfqqsnD_9-xPiMsEw57fCM5ltsOWDHGuUx-EZF-uyhv3X7bUiwacFH6T_gx2IA05-NNd3vwzaQSfZQbNrF3BR2hJOM04feH/s1600/IMG_9273.HEIC)
 ![Cardboard template at the mast](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLX5nCd0QXVdFlilPpNWApdezYR3gO5EzIv2VJhj4LP97etowH3AAWxVB_cXmD5751A15UFL3SdBgHwT4u4YbHJ1JlZrRX0y4XNBmKLVGMVfk62fubT-GQxQ0P7eAvh9WBZFIIYwtShK_ThpntlQUrP2SfuhB0uEWx9pyEQUSMQJHUDX7Y2y_N7p6INOcc/s1600/IMG_9270.HEIC)
@@ -147,13 +146,13 @@ The gooseneck is really tired. I need to think about how to rebuild it, or at le
 
 Diary: [2 Nov 2024](https://irwin34.blogspot.com/2024/11/day-173-102624-old-cabin-sole-plywood.html)
 
-January 2025 I added a halyard to the boom end as a spare topping lift. I know the topping lift should take 400 lb, but I want to be 100% sure.
+In January 2025 I added a halyard to the boom end as a spare topping lift. I know the topping lift should take 400 lb, but I want to be 100% sure.
 
 Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-haulout-added.html)
 
 ## Measuring everything
 
-September 2025 my son went to the top of the mast, and we spent the weekend measuring everything for synthetic rigging. The plan: keep the forestay in stainless and replace everything else with Colligo Dux Dyneema. I put it all in a table for the Irwin 34 '78: the mast height, every dimension, down to each clevis pin.
+In September 2025 my son went to the top of the mast, and we spent the weekend measuring everything for synthetic rigging. The plan: keep the forestay in stainless and replace everything else with Colligo Dux Dyneema. I put it all in a table for the Irwin 34 '78: the mast height and every dimension, down to each clevis pin.
 
 I'll make custom parts for the ends, at least at the mast and at the spreader tips.
 
@@ -172,7 +171,7 @@ The most fun part to design was the spreader tip. The boat has discontinuous shr
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-The hardest part was the spreader root, where the lowers attach. I spent a lot of time figuring out how to do it at all. In the end: splice in place. Push each lower through both slots, over the spreader root, and splice it below. The bend radius comes out 1:4.4, less than recommended, but I convinced myself losing 10–20% strength there is OK. I designed an insert that guides the ropes and spreads the load to the root. The slots are 10.5 mm now, so I'll file them to 12 mm. The bottom is tilted so the shrouds leave in their own direction without bending, and the holes are shaped to continue the radius. The worst case is the forward lower, which goes to its chainplate at 6° in plan view.
+The hardest part was the spreader root, where the lowers attach. I spent a lot of time figuring out how to do it at all. In the end: splice in place. Push each lower through both slots, over the spreader root, and splice it below. The bend radius comes out at 1:4.4, less than recommended, but I convinced myself that losing 10–20% strength there is OK. I designed an insert that guides the ropes and spreads the load into the root. The slots are 10.5 mm now, so I'll file them to 12 mm. The bottom is tilted so the shrouds leave in their own direction without bending, and the holes are shaped to continue the radius. The worst case is the forward lower, which goes to its chainplate at 6° in plan view.
 
 ![Original spreader root with the wire](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5_iqGkv0hxAr9D90_BZ9Wz2YleCFvkYBuDQNd27x8iKHqSesW4QqyQoEvmTTP2R5NASfEj4lNVGus__LeY_FnpBQcydkPCoUSecFRIbyuFQlpS4oTnvPvDTUJPNGpMmZ7zMCNRSSdj__7VBmSINW2JHXXfJS6RahXtZXmNegqhHGby4J1jZkQ9hnIrf3/s1600/IMG_3005.HEIC)
 ![Spreader root bracket and pin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwYtCFhcKzfnui3BDGYAkPdwwlm1_7mfA-duGMluNkjnQP7aGL_ltw5yR4lizJGvWJX899w1ihqKvuV1NqVLPynLGzytA2wuEE1flNMxbn7e6QrNXM4oO45qganiCg4xMlMPG6zXv0epl9IqOltPmTB9DMPBRRSFW6QjDazzntKPNqoncE1ZLcdeLlwqm/s1600/IMG_3008.HEIC)
@@ -187,20 +186,20 @@ Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-riggin
 In October 2025 the mast had to come down for the trip to the coast. The furler came off first. Maybe we could have done it all together, but it's extra weight, and I was worried about bending the foils. Step by step:
 
 - Ease the backstay.
-- Take the forestay load on the jib halyard so the forestay goes a bit slack.
+- Take the forestay load on the jib halyard, so the forestay goes a bit slack.
 - Climb the mast with the main halyard as a safety line. With the steps I don't need a second one.
 - Use a spinnaker halyard to lift the furler foil with a slipknot and take the load off the pin. I didn't have one, so I hung an extra block at the masthead.
 - Pull the top pin and let the furler and forestay hang on that halyard.
 - Disconnect the forestay at the bottom.
-- Lower the furler onto the dock by walking away with the bottom end and easing the halyard, so the foil never bends.
+- Lower the furler onto the dock by walking away with the bottom end while easing the halyard, so the foil never bends.
 
 Diary: [26 Oct 2025](https://irwin34.blogspot.com/2025/10/day-229-jailbreak-part-3-mast-down.html)
 
-The A-frame was up from the week before, held by two levels of rigging plus an extra top "backstay", all 5 mm Dyneema. Since the frame leaned a couple of degrees forward, the front side didn't need much tension.
+The A-frame had been up since the week before, held by two levels of rigging plus an extra top "backstay", all 5 mm Dyneema. Since the frame leaned a couple of degrees forward, the front side didn't need much tension.
 
-The lifting point: a wide flat strap under the spreaders, crossed around to make a tie point about 18 inches above, at the expected center of gravity. A 4:1 tackle ran between the eyebolt at the top of the frame and the mast, with the tail led to the jib sheet winch through two snatch blocks. I also tied the mast foot to all four sides, loosely, just in case the lift point was below the center of gravity, so the mast couldn't flip over when it left the step.
+The lifting point was a wide flat strap under the spreaders, crossed around to make a tie point about 18 inches above, at the expected center of gravity. A 4:1 tackle ran between the eyebolt at the top of the frame and the mast, with the tail led to the jib sheet winch through two snatch blocks. I also tied the mast foot to all four sides, loosely, just in case the lift point was below the center of gravity, so the mast couldn't flip over when it left the step.
 
-My friend Eugene helped me. I tightened the lifting line, then eased all the stays as much as possible. Three or four rounds of that and I was sure: the mast was going up with no wish to flip, and all the load was on the A-frame. Then we disconnected all the shrouds and stays and kept lifting until it came out of the step.
+My friend Eugene helped me. I tightened the lifting line, then eased all the stays as much as possible. After three or four rounds of that I was sure: the mast was going up with no wish to flip, and all the load was on the A-frame. Then we disconnected all the shrouds and stays and kept lifting until it came out of the step.
 
 ![2x4 A-frame standing at the mast](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglv4MR3mpZ_L8HYCAdjcq1xkeqD-lAIqrtYPov50hN2bAXwDQbu62x7SDh0dZCyCI_3AM7kNdd5iefBcvL6Oe0rx7aPKnqW9fTH_0P6ujhSYkOZ1_rt9bqk7drXTU15f6rPI2-1YGnGG1Bg7jWd9hQrevuMJqN54knGVDI0qiFUofe0IM9MEbtuaOpvkqB/s1600/IMG_1764.HEIC)
 ![Son standing on deck under the A-frame](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixCMMpjpPFfOE1gFHXytaxOfmDvxs_fnIvULjVq-5zJQMhVQs65foHnwqIvCWqQGP9sweCneX1srEqj2rd9HZntFamibscCX10qVvu9_-I55tUnDKFI4U4RxpgBCTHMHAssBMlHRniEGDXuD54RviVXwjY8xyCns7JbI-fBGU9qBMSX9xDYsitq8mns42L/s1600/IMG_1768.HEIC)
@@ -209,9 +208,9 @@ My friend Eugene helped me. I tightened the lifting line, then eased all the sta
 
 Diary: [26 Oct 2025](https://irwin34.blogspot.com/2025/10/day-229-jailbreak-part-3-mast-down.html)
 
-Lowering. The mast is tied at the middle. In the picture it looks like it hangs from the end, but that's an optical illusion. Almost down at the pulpit and pushpit, I was so busy looking where to land it that the line end slipped out of my hand. Good thing it was only about 2 inches above the landing spot. Hard landing, no damage. Cursed day.
+Then the lowering. The mast is tied at the middle; in the picture it looks like it hangs from the end, but that's an optical illusion. When it was almost down at the pulpit and the pushpit, I was so busy looking where to land it that the line end slipped out of my hand. Good thing it was only about 2 inches above the landing spot. A hard landing, but no damage. A cursed day.
 
-Then it was tied down on the boat, almost ready to move. Picture of the day.
+Then it was tied down on the boat, almost ready to move. The picture of the day.
 
 ![Mast coming down along the A-frame](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAYPeY7Xq6w7mbn19gHCs4tCt2vIw9fnRA1rq_7xwdFGqOHC-M7i7OjHYef3sZgI8d1zkSsiPMqopi7n0RqKcxnJyAlRCoX3h2EJKzOYSbiBYDpBcJVJIiYjMnYLXBs_4lODzYjkEkyjNmThYkCJ7BFWkj59QXW_zSgeVMKa6vKjJgkrK6o-3t_EC-U1q1/s1600/IMG_1770.HEIC)
 ![Mast lowered onto the A-frame](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11o8AdACW2lvMfdOMw0zxUkKDv2zjR-6_CajxJGl6g2a8PuKqIn7_aW41oe1Nuo8VjRRbtFwSzGSdgyN1fRg4YasWKsk56BNKIYKtlVQlhc9UQhRBZ43Ga0jc0rsjFlaAHfoEw_jnSfuWDA3X41Ux8q16c5tX39k1AN0fOgrSzAkhVvw8wxRp5cNO1ZKF/s1600/IMG_1772.HEIC)
@@ -227,7 +226,7 @@ At the boatyard in January 2026 I sanded the mast enough to remove all the pitti
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-Then cleaned and coated it with two layers of Nyalic. After 48 hours the hardware started going back on: the mast steps riveted back, new backing plates for the mast winches printed in ASA, and the winches reinstalled.
+Then I cleaned it and coated it with two layers of Nyalic. After 48 hours the hardware started going back on: the mast steps riveted back, new backing plates for the mast winches printed in ASA, and the winches reinstalled.
 
 ![Mast in a blue tarp tent for coating](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuiSUkDaQ5ITP2jWNI8cG0rEW_gHm80b1NwvI9UooKqXLEH6vxpZo5FGDnR356XjvOvLlMmlr1aQSeZQ9hiZDhT8gC2Xg5Jbx7Ro85FuMuLtDM4UtyzPtIWjfbPy0cVTZz-fYlY5ZGZ3iYlu4uXsgEBJJvnYYLYpv8-CbG9Re5_HM0vQEKaTQrpGiCGcyR/s1600/IMG_0685.HEIC)
 ![Mast covered by a tarp in the yard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5-2Uj5rGeI7tcG_3GEqHTYUoSlaVrnF-UQ64fjDpxmJOU64sYR2fXBkbDzthKV5r_QBi1qCYNUPall5Mh6zHWJZvBhWyLRdiMKfPwMM8INYpxqYtpqo6J6ooNHM11ps0VY15cqIkFmP5AI8pMOGPldMxVr2MXDr-32PbfrcU4RwlsX29rZLRYd-ONyQkf/s1600/IMG_0680.HEIC)
@@ -235,11 +234,11 @@ Then cleaned and coated it with two layers of Nyalic. After 48 hours the hardwar
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-All the hardware back, with Tef-Gel everywhere stainless touches aluminum, against galvanic corrosion. The custom radar mount went on. The masthead instruments stayed off, to keep the height down and keep them safe in case we touched the bridge.
+All the hardware went back, with Tef-Gel everywhere stainless touches aluminum, against galvanic corrosion. The custom radar mount went on. The masthead instruments stayed off, to keep the height down and keep them safe in case we touched the bridge.
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)
 
-Because I had a small problem: boat plus mast is 46.2 feet, and the bridge on the way out has 45 feet of clearance. The plan was to heel her 20 degrees with a 50-gallon barrel of water tied to the boom. I calculated the height at different heel angles.
+Because I had a small problem: the boat plus the mast is 46.2 feet tall, and the bridge on the way out has 45 feet of clearance. The plan was to heel her 20 degrees with a 50-gallon barrel of water tied to the boom. I calculated the height at different heel angles. (How it really went is in the Jailbreak story.)
 
 ![Mast laid out in the yard with hardware back on](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN_lEY82uUvT0zT6yUX50YNv8vdzB612jyuIz-T2ze7F_1ZajlNw9TjoTNvvCVZmcfNPtlcJvBWZJHw6kwQUFxPtiMGzXu3QsCo7zxWhvNsysOTMclvQR66ARr7lbqOJ3wEp-Va_VPADS8eYBx5RDdFiVcw2Xy4eCMEywFCY6toH2itghfbzE-sHPHCEj/s1600/IMG_0775.HEIC)
 ![Mast with spreaders on stands in the yard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB9VP_QCwsH7wTxmXstLXHRzhICucEckG6JHPF3S2XcDKZ-k-gb2UOw7wj_pATTF8paU3UZA6E4y-wA23F6ZoRwXzwadylzy1Uc-p4KACZOE0XgL5_SZL4gx1VvUwxkmleJ30n8c_f8EbT44W5YXxgioQ0ELce7g_hJdnRmJzPGroxGynKaPn2T2UFKdVZ/s1600/IMG_0774.HEIC)
@@ -262,13 +261,13 @@ The masthead camera is connected and working well.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-At the end of April I tried tuning, without success. Just learning that more prep is needed. I eased all the stays and shrouds and checked the masthead position with a halyard, as well as I could: ±5 mm over the halyard length, since rope stretch makes it hard to measure exactly. Next time I'll use Dyneema to avoid stretch, and make a jig from a caliper to measure exactly to the chainplates. I tightened the uppers and backstay a little with the mast vertical.
+At the end of April I tried tuning, without success. I was just learning that more prep is needed. I eased all the stays and shrouds and checked the masthead position with a halyard, as well as I could: ±5 mm over the halyard length, since rope stretch makes it hard to measure exactly. Next time I'll use Dyneema to avoid stretch, and make a jig from a caliper to measure exactly to the chainplates. I tightened the uppers and the backstay a little, with the mast vertical.
 
-Then a laser check: relaxed, the mast has a slight, steady belly to port, about 2 inches. (It'd be nice to make a laser holder that mounts in the sail track with fine left-right adjustment.) I tried to take out the bend with the aft lowers. AND THAT WAS WRONG. The manuals say to straighten the mast with the forward lowers. Counterintuitive, but it sounds more logical now. I did get it straight with the aft lowers, but with unequal tension, and under load the same bend came back. On starboard tack at about 15 knots the port lowers go noticeably slack, while on the other tack the starboard lowers stay tight. Next time I'll try a different way.
+Then a laser check: relaxed, the mast has a slight, steady belly to port, about 2 inches. (It would be nice to make a laser holder that mounts in the sail track, with fine left-right adjustment.) I tried to take out the bend with the aft lowers. AND THAT WAS WRONG. The manuals say to straighten the mast with the forward lowers. Counterintuitive, but it sounds more logical now. I did get it straight with the aft lowers, but with unequal tension, and under load the same bend came back. On starboard tack at about 15 knots the port lowers go noticeably slack, while on the other tack the starboard lowers stay tight. Next time I'll try a different way.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-In May I readjusted the mast again, using the forward lowers to straighten it. Not easy. At some point I realized the upper shrouds have a big effect on what I thought was a "natural" bend to port at the spreaders. Playing with the forward lowers and the uppers, I got the mast almost straight without big differences in tension. The sea trial showed it's not completely fixed, but it's progress. Now I think it's more about the upper shroud settings.
+In May I readjusted the mast again, using the forward lowers to straighten it. Not easy. At some point I realized that the upper shrouds have a big effect on what I thought was a "natural" bend to port at the spreaders. Playing with the forward lowers and the uppers, I got the mast almost straight without big differences in tension. The sea trial showed it's not completely fixed, but it's progress. Now I think it's more about the upper shroud settings.
 
 On Monday I "confirmed" it with ChatGPT. The proper name for my rig is a masthead sloop with discontinuous standing rigging and single inline spreaders. Really, my mast "virtually" has two spreader levels, but the upper spreader is missing, and the intermediates run from the spreader plates to about 3/4 of the mast height. That changes the whole tuning strategy. It's becoming a long saga. I'll try again next time.
 
@@ -278,16 +277,16 @@ Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-repl
 
 ## Stripping the boom
 
-September 2026 I stripped the boom to put backing plates inside for the new reef blocks and winches. Screws sticking in from the outside don't help.
+In September 2026 I stripped the boom to put backing plates inside for the new reef blocks and winches. Screws sticking in from the outside don't help.
 
 ![Reef block on the boom with spacer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC15ar5DW-PsBQxz0BB8oK9Wl25FAR8pEbvw-Idt74QWQhGpbzcXUkAJ_SLrcqdTDRIXYZODpGxoBB9TCqR5GBwCc0i4rCOYPd9A32PtBp-LpX65bTHMrFMJ8QtqXiL2V0wFxKe-5ECDUHHS9Cz17QxEmPP_PC7W5O3p0FUubwcvKxkP74-wdWPIvW7cO2/s1600/IMG_2591-EDIT.jpg)
 ![Stripped boom in the cockpit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkg9InDgd0Kho93M84369VxYsnGE8rYXSJDtSG9_SsSbyrlVxDyETNtpcwLStxEsEUCUZQMk8R9x1x36Bdu-97vvkxvqBKjC7zB5PXaSk3QxR4Oue1jNTfswwlBwy3noCpprPdB1GuznmikOdMVj3sKmqRU7PMraLUkuHVFmlaJvXnQc7nJkwZvHeFPdg/s1600/IMG_2579.HEIC)
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-In dreams it all looks easy, until one stubborn screw won't move. I think engineers who use slotted round-head screws where they can seize have a special place in hell. The impact driver did most of them easily, but one screw out of twenty gave me more trouble than all the others together. After the bit jumped out a few times and scratched my hands, I understood why nobody makes slotted bits for impact drivers.
+In my dreams it all looks easy, until one stubborn screw won't move. I think engineers who use slotted round-head screws where they can seize have a special place in hell. The impact driver did most of them easily, but one screw out of twenty gave me more trouble than all the others together. After the bit jumped out a few times and scratched my hands, I understood why nobody makes slotted bits for impact drivers.
 
-What I did: I took a nut with a hole the size of the screw head and duct-taped it to the boom around the screw. Then the bit couldn't jump out, and it came right off. The bastard, in my hand.
+What I did: I took a nut with a hole the size of the screw head and duct-taped it to the boom around the screw. Then the bit couldn't jump out, and the screw came right off. The bastard, in my hand.
 
 ![Boom end fitting and stuck screw](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinEZdUD8lf1Hkc0-4mM3sgxfK-jUU7Sqr8gs_WvOaPEdGxdbtc-B79YueEg9fZ62IaZjLLs-a-hTEJ_uhspoEwZgUFBnVrG5tviqQ7-awhEtTqrk-RcwOzeaKki9hHGKBn_xgltN96dbjaSXGfviwiZXjWAy9pkWxAvif5GyBZB8Dz7pd-Tcb7PNNYd5lO/s1600/IMG_2572.HEIC)
 ![Stuck screw in the boom end fitting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjixM2G7_LTsuLUrcSSPD3jk_zkCybXgkNmoIiJ7Xrpc_1z-kun_Of0ZpHy5ntTRh7ycZJt0Qm0meJHLy7Q1AmdsMcA7ds00ZP10sOKfGjXpOEh42zQFW5Wrpfjn4gPm3gzRTjAIgakHKJJqzsIvKYSVigf3wg1qDW-gB_jvB9XWuztBcGDvkEaV8WxCSq1/s1600/IMG_2574.HEIC)
@@ -297,7 +296,7 @@ What I did: I took a nut with a hole the size of the screw head and duct-taped i
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Then everything back. Starboard: reef 1 and reef 3 (I kept the original reef 1 block). Port: reef 2 and reef 4, with the outhaul line on top. A winch and a cleat for the reefs on each side.
+Then everything went back. Starboard: reef 1 and reef 3 (I kept the original reef 1 block). Port: reef 2 and reef 4, with the outhaul line on top. A winch and a cleat for the reefs on each side. Not bad for an adopted mast: it now carries better gear than it ever did on its native Irwin 30.
 
 ![Boom with reef blocks, starboard side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuOrOaf2OtLNt3G_aHXYNpP2m7Mq5BAcrGPR9ToFpP2ZFuvNPDwZAOG6TpeYdUwpM4Q6YRtt1g9FpHtZF87dNS3WgDze8Q0881MRpy4I5cJwpCohjdo8jPc5X6_h2Tw-fTRXaA8uUsgG6rRtUKc12g3FCmbpP-ErarKPoYuJn1ujcRa1DnEGLZ7N5dJM-/s1600/IMG_2606.HEIC)
 ![Boom at the dock, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrt-06lH7QQcYYEbP0LG_KmQzNsgc35OCLCiROzIYuFm9EL5f_b3G7XdPyB1ukY4kA770w2ZIp6FAw_o18QboFWQb2f6GQbQ3sceaqFIu5WoD-BhaARWlD8z70okRaf4WTrcqxaoLGIGdj2mQWWAi17QvcID5qbI5fPe1ecE5WmZZFsNI1Ke7iL-1cu5YE/s1600/IMG_2602.HEIC)

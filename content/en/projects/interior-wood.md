@@ -6,8 +6,7 @@ order: 1
 description: "Bulkheads, headliner, cabinets, trim and many coats of varnish."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi9AkLCf0eRaKfL6tkOh6yc4XEjwhTj_o_T8H4TiHVnLZpENlaY9G3jbTVBEvAbWSYHZ8xvDDEdK5j5s8mEziQh5j-XzSD7X2chEkdnT6fEnarIWT5URs4YH7MLTwEUFbYCBDF-aA4mrL2o8_AjlGptzppCUcxbYnPqYpQB9m2PwLvGUqGKI7fgU5N1y_-/s1600/IMG_0788.HEIC"
 ---
-
-When I bought Vira, the interior was soaked and rotten in different stages of decay. Over two years I stripped it to the fiberglass and built it back: bulkheads, walls, cabinets, headliner, trim, then sealer, paint and many coats of varnish. Some of the old teak trim I saved, cleaned up and put back.
+When I bought Vira, the interior was soaked and rotten, every part at its own stage of decay. Over two years I stripped it down to the fiberglass and built it back: bulkheads, walls, cabinets, headliner, trim, then sealer, paint and many coats of varnish. Some of the old teak trim I saved, cleaned up and put back, so a bit of the 1978 boat still lives in the new one.
 
 ## Taking it apart
 
@@ -18,20 +17,20 @@ Day 5, December 2021: almost all the headliner and the rotten side panels came o
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-Then wood salvage at home. Fun and not fun, pulling nails and staples out of old plywood and trim. I rescued lots of nice trim pieces and hope to reuse them. The cabinet Paul gave me is only good as a template, and to see how badly the bulkhead had rotted.
+Then came wood salvage at home. Fun and not fun: pulling nails and staples out of old plywood and trim. I rescued lots of nice trim pieces and hope to reuse them. The cabinet Paul gave me is only good as a template, and to show how badly the bulkhead had rotted.
 
 ![Salvaged trim pieces with old nails pulled](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdYf-ggBTodJKM0GPle-AQxSa-IOisZYZdEvHW7rnEGhBCAvvgnJxMVzD9jPO76CvPb_C88lhiY988bxzUZfa8VFdU8qfgl7bhi82HrDPXi6n4FzDeoYPCTWnFJZcs_trmZyVYrTlOfgeptlgaWL4d4D_7r9cYJ9fBNi1l9_Xf4vCSkrAo1fxyl54vaw/s1600/IMG_1796.HEIC)
 
 Diary: [17 Jan 2022](https://irwin34.blogspot.com/2022/01/day-9-115-wood-salvage-4-hours.html)
 
-February 2022: more rotten wood out, and the nav desk came out for rebuilding.
+In February 2022 more rotten wood came out, and the nav desk came out for rebuilding.
 
 ![Nav desk removed for rebuild](https://blogger.googleusercontent.com/img/a/AVvXsEg-UlBbGaE4Yvr7kBJqwPqrzD1YiBT5_Rt0ZxZVqmmBnVmWQ35qt1EX0T3UNlSrIpYZ5rAgHk59zRiZr9VvBpKEFyg93fox5dBbCLnfjYVtYl6C60jtPSrOTtjbUjSWXOWiIvu6BVloY7PDhtYvbBFsi05cKkJd5TgCpGeTh_kQ0CRXF7U6QIgGJITNKQ=s1600)
 ![Cable guides removed to reach the hull-to-deck joint](https://blogger.googleusercontent.com/img/a/AVvXsEiKYWCy0G9jTbyU3voY6uji_Sui8pAjsA0ee8WVs8_Ec2JCxDqgmGXEf6exhzjUae1GWWYMRVj08s-ORh5HYN8qf7-LYUhBmw8SSjrS2w6XWGJK7w6Vc-naOz9rwO4uWZhB44OJMIcxRVfLohOBKCyrY3FzqA7YrOTeiRD67RVipxZwuGpgjRp0Masjvg=s1600)
 
 Diary: [9 Feb 2022](https://irwin34.blogspot.com/2022/02/day-12-26-mostly-cleanup-couple.html)
 
-I also took out all the "cable guides" to reach the hull-to-deck joint and the stanchions, and dug in. Another surprise. I couldn't imagine people could build such crap. Here's how it should be: not a great design, but what I found is crazy. The story of one stanchion mount: it looks right, BUT... the view from below raises questions. Why an extra layer of glass? Take it off, and what's this bird's nest? Just a piece of dry glass cloth stuffed in, no resin, no trace of wood AT ALL. The stanchion just sticks out of the "box" where I hope there was wood many years ago.
+I also took out all the "cable guides" to reach the hull-to-deck joint and the stanchions, and dug in. Another surprise. I couldn't imagine people could build such crap. Here's how it should be: not a great design, but what I found is crazy. The story of one stanchion mount: it looks right, BUT... the view from below raises questions. Why an extra layer of glass? Take it off, and what's this bird's nest? Just a piece of dry glass cloth stuffed in, no resin, and no trace of wood AT ALL. The stanchion just sticks out of the "box" where, I hope, there was wood many years ago.
 
 ![Cable guides removed to reach the hull-to-deck joint](https://blogger.googleusercontent.com/img/a/AVvXsEhQEOSB4gWam_8XjSuIny07YK7b1nOfxwP2wvpKZECyIngOuPp3fItSnYsvS0Ma03fiJ32EPcVYeEm6hCxulgi3FbF73j66APw0uk3N8mmhjQDoiwDRiHejL9qYN17yqob02ubHtj-kls6IbFqqs5MOKGK2gvV5f33asjORUk0cT5b_hm18N_5WYVnDuQ=s1600)
 ![Stanchion mount that looks right at first](https://blogger.googleusercontent.com/img/a/AVvXsEgKJyRgNs2mCDHvIbM69UFvI5UUgifMdOod_Zh-2RZcNF05B_ZfhI0YBEiTRWqMGVWEa9BrMTI167KUAwNVcwJ6Cs0SL34cCawPytYcsU68tt9wbCmInmV0tjPPmT6bHVC6QOk34ZiGu0pzKCt2iC5JXNr5WvbpN7uOMbFMkwFnfaIdvN5R051nzUM8uQ=s1600)
@@ -45,20 +44,20 @@ Diary: [9 Feb 2022](https://irwin34.blogspot.com/2022/02/day-12-26-mostly-cleanu
 
 ## Bulkheads
 
-The port bulkhead: a sad story. It gets lots of water from the wet deck core. The whole port section where the chainplates go through needs rework, and the bulkhead is compromised too. Get ready for BIG polyester work.
+The port bulkhead is a sad story. It gets lots of water from the wet deck core. The whole port section where the chainplates go through needs rework, and the bulkhead is compromised too. Get ready for BIG polyester work.
 
 ![Port bulkhead wet from the deck core](https://blogger.googleusercontent.com/img/a/AVvXsEgRmnrjNl8sO_M_xlIKq1Cc7TLyHHV0AngPtCPCf4uH0z1mq7gcJIHaWx1_gS_ZculhdUeJATmVz0BVNzfXuwGWou9qycOfqz0GmVZrjFBeR7GfFymE_ER3Dq1sTHVs_Ncv6lIJl0EUY3NOLva6K2k_G7YuZATu9P-xhIjpAemVxczIhTEWEOTR-1mdCA=s1600)
 ![Port bulkhead wet from the deck core](https://blogger.googleusercontent.com/img/a/AVvXsEijKYZ57FwqZv5iFDIDbJcL5jnQVXCMOHuqYq7E3hGMO4n8Gbwjaz1TBtjL1COFfr2d1rf-Fhuyn8Qz4gL6zjcyznz9qO0ggeKUtfmfs-w9_aZ-0PgTa7GZb42owJCcRE-gxmw0bJBbmjOxmaqTXbex6PXYA0l1XceRfe34L-0WlUKABh_6CmvqmhJPjQ=s1600)
 
 Diary: [9 Feb 2022](https://irwin34.blogspot.com/2022/02/day-12-26-mostly-cleanup-couple.html)
 
-The starboard bulkhead came out to make a new one, but the deck had to be rebuilt first. It had no tabbing at all, just three bolts to the liner and a little 3M 5200.
+The starboard bulkhead came out so I could make a new one, but the deck had to be rebuilt first. It had no tabbing at all, just three bolts to the liner and a little 3M 5200.
 
 ![Starboard bulkhead removed](https://blogger.googleusercontent.com/img/a/AVvXsEi7bR8LypGTvmA8xvu4e9_YEKD8a8v4YtrQenTJFeQKYHJLvwkiQzbFurDOlSpTHFh4jkpVp500QhEgu8Ji3nZE4HHE5Gjebp2XZ1FXQUNN50SREc1NV3kSu5VgFIUHu2y8_oIiFE3E3jr6rFzJZssINAQJpxfTmQ9vBCd2reXcRgCT6QlP6tEt0UG8Ew=s1600)
 
 Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-saturated-deck.html)
 
-Then the new one: a little cut here, a little there, and it's good to go. The hull sanded for tabbing. Not sure what was done there before, but somebody did something. The cockpit drain grilles are lost. The interior, as of now. The new bulkhead's edges soaked in epoxy.
+Then the new one: a little cut here, a little there, and it's good to go. The hull sanded for tabbing. I'm not sure what was done there before, but somebody did something. The cockpit drain grilles are lost. The interior, as of that day. The new bulkhead's edges soaked in epoxy.
 
 ![New starboard bulkhead dry fit](https://blogger.googleusercontent.com/img/a/AVvXsEgP46g2g24VulH3PKvxylhm-0dGzpv5XwI0_SO1CxoCpmZlMGgrps4hIF4EAw3Bzg2qOicnFVByRsGO_Yry_lt4befWpgvK3vE9QDUTYLOh92tGQ12IsrQxo4WfXoJDS59fkGSYRYjYihVv7BSyLNcHwR5ReXvRFgWWNoSFsb3sE6OIFwY2aG2WKN_Npg=s1600)
 ![Hull sanded for tabbing](https://blogger.googleusercontent.com/img/a/AVvXsEhwd6Ifr6r0kQC3lxKvEnrcBZYzSDIVD2KG0T04wYolfE6gCoxs9LWxzqty696Yz5HSRkeNoeuZtp3ToKsCEEonvy0O565qtCqjFA3RyMxVZWVlBiJULd0zKviMK7nyOAnkTYen6EuV9olTQkB49FO5r76hEqQMjariWrQ7iaW0S4z3-Xhb8QFJ7Tq44A=s1600)
@@ -77,14 +76,14 @@ In April the starboard bulkhead was tabbed to the hull on both sides with two la
 
 Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboard-deck-fairing.html)
 
-In October I finished tabbing the port bulkhead, to the deck and the hull. Before, the head side couldn't be reached because of the holding tank pump-out hose.
+In October I finished tabbing the port bulkhead, to the deck and to the hull. Before, the head side couldn't be reached because of the holding tank pump-out hose.
 
 ![Port bulkhead tabbed to deck and hull](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK_zC5I3RNKtTy4RBEbabctZANenQDt8zFlaStXWkvD6Vgc8viYQ_pHP-fnOrvpTU_YLJQc1_wH61UfZ0v6RoJf__f95k29zuRwwSARnBd0IvkVpWferpOVFjQjSvq3tMA5aeAAHlSprSUIrOm21aHy_cnCa2amCHyASSmI4yxLdzmyTC1kKt_E6BeEA/s1600/IMG_3974.HEIC)
 ![Port bulkhead tabbed to deck and hull](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpEXX6ncfPIVDYkmztTVMzC8DqzDHstSDq5ksDLs8p5wd-k9j4b0Tm8ziSVCVk1KSWxI4_1TuZz1nUZNVQCu5jLQSQP9y2s3IgC6DPAr9oQ7QG69rDYmwKVbKaKUXG4xxF5vYwVMp29YC-dTsQfg7aqAKbW3K6umWx0ZQQ20EW5EmddSFDeVdrNHVxQA/s1600/IMG_3975.HEIC)
 
 Diary: [16 Oct 2022](https://irwin34.blogspot.com/2022/10/day-52-1016-day-water-tank-life-lines.html)
 
-And in December, three more bolts tying the port bulkhead to the liner.
+And in December, three more bolts tied the port bulkhead to the liner.
 
 ![Bolts tying the port bulkhead to the liner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmRYSsSSSdZqXhZowsoztpdVkPIU8_ucpW0H6p9yM-sffy9afB_5ylK0PyZDe51R2ioliViPZFzUZ6OqGJIlIkKAt4AVijrkGYshKwRtr8ZVFZ8BCaO-5E2gi-ycx83vc32noF8MFdalmbRoWJnBI0ul7qDhPkalCzhdVAQPv-RKiXlcGYrPo1nKX6fQ/s1600/IMG_4315.HEIC)
 ![Bolts tying the port bulkhead to the liner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9dLFB1Jdsdsn0oujp4xUDUYlFPZHBZaRRY06h1PBemmp7m8C4VfkU2UXC1y38mO6k3Y4RkPRm7CTV-mb77_quhn8Dga7JOfyqjbApDixGGvCa0LjGeZV3oUGAT8jAkGRQXntfSCZDddxzGxgk965CRTBo_QuKtqjrbUCf5Bqd95bOCz_FAdKlgkLlQ/s1600/IMG_4316.HEIC)
@@ -93,14 +92,14 @@ Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-w
 
 ## Ceiling and headliner
 
-I sanded the galley cabinet. I plan to paint it milky white, like the original gelcoat parts, as close as I can match, with the corner trim left wood. Why paint? Because the original plywood has water damage all around, about 15 inches up from the floor.
+I sanded the galley cabinet. I plan to paint it milky white, like the original gelcoat parts, as close as I can match, with the corner trim left as wood. Why paint? Because the original plywood has water damage all around, about 15 inches up from the floor.
 
 ![Galley cabinet sanded for paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTe2QwtOPxgfn38n2w_1lqN1jyzDc7YfcRS4rGsUakSyKLkEo58OeT0ply_2nUo1E2TCtGBRfDWXT3jgKKxkq4IodIbMkLzGLIOMK2Dd4LIMB_WmZ8XNNI027Ilu5N8ueMwX9KJzSmCqklIthNkNs8MPG2hodLZCvh9ZAjcx5jTUEIkiJiACSr7NFl-Q/s1600/IMG_4005.HEIC)
 ![Galley cabinet sanded for paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1rP0CCAJKFmPfeQCDeMY2fBtA46fu7kv3pTdmfkgwgzTW4bdcsUCs2CwPDHfN9bZYL0wpCZvZ_3pkthKUybDbLAk8RbDzfuOt_L2zJ-PtQPax51EadU4V_FmSLoxB5RQ9VXTVPKpnqpOf_EmrJ810laf5k82UIWGsPfaK2CG7v95MzFi8vi8FJv-zA/s1600/IMG_4006.HEIC)
 
 Diary: [16 Oct 2022](https://irwin34.blogspot.com/2022/10/day-52-1016-day-water-tank-life-lines.html)
 
-The cabin ceiling frame went back in: battens from exterior plywood, set on thickened epoxy at 4–5 points. Every piece cut, pre-fitted, named, then mounted, each held with two small screws until the epoxy set. I also reworked the corner above the pilot berth to reach a sweet spot for the inverter and the lithium charger.
+The cabin ceiling frame went back in: battens from exterior plywood, set on thickened epoxy at 4–5 points. Every piece was cut, pre-fitted, named, then mounted, each held with two small screws until the epoxy set. I also reworked the corner above the pilot berth to reach a sweet spot for the inverter and the lithium charger.
 
 ![Ceiling battens epoxied under the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXhM9icCkQ5sRtIqeDYgGVqg0vSW7DGQRm6vcFNUyieFcIEOsHdzMK7jABtWQNHnTbyWAL41lnit-GPZwM38xd-UjS41O8GQh5J-k4Gj3_tQ02ZASo1g5WGgKK3Ein3qTNrwLx-ncJB5oa3L5j7SNeRMRwprNUlnAQCJ-wSVZvKN--oG2aRi_PKCueXw/s1600/IMG_4025.HEIC)
 ![Ceiling battens epoxied under the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnKXpf2zJJsm8EaJH5UKcq8yLcMsssrTCTgll3OXUim0fENgmc1omb8uXFNbKTN55sCBj8sp_T2whfLmxGuy2OBcZzP7DRDNsSlM_vy-Ds8qshoVi3xlfG5a5SYCF_QuhrdtNlbwu7JP2ojg--aSPAztSmfOC16w09q9KYKm_B2XQxfiSOA-hlOgw_rA/s1600/IMG_4023.HEIC)
@@ -110,7 +109,7 @@ The cabin ceiling frame went back in: battens from exterior plywood, set on thic
 
 Diary: [22 Oct 2022](https://irwin34.blogspot.com/2022/10/day-53-1016-paint-day-water-tank.html)
 
-Night. The headliner went in: 1/8-inch foamed PVC sheet from TAP Plastics. A little trick: templates from plywood strips and hot glue, then cut the plastic from them. The panels screw to plywood shims glued under the deck. Later the screws come out and teak trim goes on.
+Night work. The headliner went in: 1/8-inch foamed PVC sheet from TAP Plastics. A little trick: make templates from plywood strips and hot glue, then cut the plastic from them. The panels screw to plywood shims glued under the deck. Later the screws come out, and teak trim goes on.
 
 ![Marina at night](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1kfUxJ_SN1cdWLmLbojNI_tAp-uLdMqjQtVJLh7UsMGFqoy1r-8AU4FW-Spiw5z465W_A1eftWE9wf1FNtJXV3hE-yhWOIDb0Q-KEFylnxm-PsuINRqQkagMiRglJL9u2uWKowhk58dh7-Pv0tD3qgjdSLHlcotxQLTp-RYOg4bviCDX7oADMm5MxVA/s1600/IMG_4143.HEIC)
 ![Installing the foamed PVC headliner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxEWktb-O1sjYja95NAXkbD3dqaPZwHkUFAZuL3QcgMtK-jezKThaNEp57UT4P2we4g3Ogzfoxon-gU4VCQ5Di4WUvGJgtx5PBvb-wTe0aXKnLcF_ziKEMMt32qN_KWbjS5CE3kb_VpY1PjRMK-7rjBPVQY7jWdyEzpglo8DbbnZnoB6clggLwL8e5SA/s1600/IMG_4137.HEIC)
@@ -120,14 +119,14 @@ Night. The headliner went in: 1/8-inch foamed PVC sheet from TAP Plastics. A lit
 
 Diary: [6 Nov 2022](https://irwin34.blogspot.com/2022/11/day-59-116-cabin-headliner-7-hours-work.html)
 
-Then temporary plywood strips instead of just screws, so the plastic doesn't stretch. Now the ceiling looks really good. Can't say the same about everything around it. The trim lengths are penciled on.
+Then temporary plywood strips went on instead of just screws, so the plastic doesn't stretch. Now the ceiling looks really good. I can't say the same about everything around it. The trim lengths are penciled on.
 
 ![Headliner with temporary plywood strips and trim lengths](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeEMGcBaSQyQJj4UKi6y_hMKsGt-SrQBrqWCYYub_Sgh-LtalGNtZ6NFTVB82enZ3Z9B1SdKyE0aHiAFIyiK_f4qZsN-Dtb5cRbGoEaDkMLpSbCqBH_a2Vjo19zIezJdRxRF9964O-kICG3sBglp9StnY1JUcp9z-jtHxHBgTsQnrkuJ6Ql24mVxJWQw/s1600/IMG_4176.HEIC)
 ![Headliner with temporary plywood strips and trim lengths](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORyhVLMaDunmaCz2tYZ4-OSRhAtcHYBk0NlZfwpVcc10TGReoXB8klT7-BCBj80xGtOk1O0KPIkRLEJ3s4pgxGhJDsLXsG64CLCG07b2LqYXzPRwCej2JknZaA1KGdXxWqrh83DXfFBvRxvmsIVPN_ub9E_Y4Il8IsJA2hjcrtGwRXaOfN8levRggWw/s1600/IMG_4178.HEIC)
 
 Diary: [13 Nov 2022](https://irwin34.blogspot.com/2022/11/day-60-116-front-water-tank-opened.html)
 
-I measured the cabin top ceiling to calculate materials.
+I had measured the cabin top ceiling earlier, to calculate the materials.
 
 ![Measuring the cabin top ceiling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispJInKtkZmaGR-pJN_OU4wG-yc8lVYn067Jq9q9W6JsRmr2mIyQsnd61xx-pkwNXWFKuge5Nu8E5dovHvNzH1vTVf7hTTW7BW-QvUx7mcTon0QKmwW_7tK38UsyVLaduQh5dpzKtTjKGPG4GuXncIlkaAjxKzxZ_xZLO-wezStaTcNGNsRAhO2O9Wrg/s1600/IMG_3342.HEIC)
 
@@ -142,7 +141,7 @@ Templates for the interior parts. Next, tab them to the hull.
 
 Diary: [13 Nov 2022](https://irwin34.blogspot.com/2022/11/day-60-116-front-water-tank-opened.html)
 
-The front cabin cabinet. The original was rotted by water; only the front panel with a ruined bottom and the drawers were left, both repairable. So I rebuilt this beast from scratch, with plywood-strip and hot glue templates first. I gave up some storage for the 12K AC unit, but it was almost the best place for it, to keep the ducts as simple as possible and serve both cabins.
+The front cabin cabinet. The original had been rotted by water; only the front panel, with a ruined bottom, and the drawers were left, both repairable. So I rebuilt this beast from scratch, with plywood-strip and hot glue templates first. I gave up some storage for the 12K AC unit, but it was almost the best place for it, to keep the ducts as simple as possible and serve both cabins.
 
 ![Temporary plate joining the bulkhead parts](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDfnmnEM8_Zy6FNByvVm-mUNtw92kwggX2j8AIxIjxl0vVDHYL-s1rApb3fiDIvIm1-GMFTj9iAY3k8M5u6KiiSitafsNEWLgz1FTF0HJkuBzKOiFqRIr1vWWJb8FS00rR-zXrNByNEUMwJhxomeJr2BAoe8H0AGKw-EAKpcDI--x2YWO1dI9su6OSsA/s1600/IMG_3645.HEIC)
 ![Templates for the front cabin cabinet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp-LRdmL00bu1pX0lvmLXFd68A7-HCsFhLU2OlYaHFF3RgrBdooPdE6fP9pEl6_Z4wMhirCu_BU5TekE6yp4IUUd7JlcsNA1jlacNhqVqzwRq7tR3D1sW3E8JpltHBkb_IsyDycWIO68LgJ03QV0tmV0eRA4fQekvCXqGFVOBFzPyk66Dcfh8zzbBK9w/s1600/IMG_3663.HEIC)
@@ -155,7 +154,7 @@ The front cabin cabinet. The original was rotted by water; only the front panel 
 
 Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapointment-water-pump.html)
 
-I made new plywood panels using the original parts as templates and built the cabinet around the air conditioner. It gets the original drawers, teak trim and an intake grille over the air filter. In the main cabin I cut the cabinet "bulkheads" and tabbed the vertical walls to the hull sides and deck. Later a shelf on the port side, and a nav station built around the original table.
+I made new plywood panels, using the original parts as templates, and built the cabinet around the air conditioner. It gets the original drawers, teak trim and an intake grille over the air filter. In the main cabin I cut the cabinet "bulkheads" and tabbed the vertical walls to the hull sides and the deck. Later, a shelf on the port side, and a nav station built around the original table.
 
 ![New front cabin cabinet built around the AC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnWR8qi3W95rmnjH3KfLR2M3DLK-PAFkZiMYc1AB_8NATRA35r7eNyug670LqmyjBeSYvu7BVLH1n2hSFeSOBf1NiquepqKAvMPHTJ_yHBrisOIzXR1z0N6WhVa6XFO-QKJRVTmw1dfg5ptBH2tT5TvllOZF6ajihU6QtYMCD4LSrZ_qRPg2ZqzkMFCQ/s1600/IMG_4208.HEIC)
 ![New front cabin cabinet built around the AC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHC2n4ZKxS_J1JdQkEZhtj91EQUKhu89Z5flGtW4AOcA0HNSx88RsBS7-Be9u6IHVDgMeHASwavI_9AEtHQvoEeKKEmTU6C4qVshYUhRskJg3bpAA9QPHCt0Rctp8SlFlT93x7sO0bKKoOGBQ2FM-KGtUBGP9aK9A1r3QnPFoOuSwo2FMovHbHolteOA/s1600/IMG_4207.HEIC)
@@ -166,7 +165,7 @@ I made new plywood panels using the original parts as templates and built the ca
 
 Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-cabin-cabinet-main.html)
 
-Double-sided reflective insulation, then 6 mm foamed PVC back panels, like the headliner, in the main cabin and the head. Then shelves on the port side, and templates for the nav station.
+Then double-sided reflective insulation, and 6 mm foamed PVC back panels, like the headliner, in the main cabin and the head. Then shelves on the port side, and templates for the nav station.
 
 ![Reflective insulation and foamed PVC back panels](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXfVKviSp9xHJJCFVQxvzJ2UVl8GAFg9WZdegdPG3o85Sb0kl0t3sRpsd9aACIc5hwyYk3kQ-Gxgrn2fRt7p6YoMbvhHKQaQy1j8uBAVk02uLCigRfttwgtCohExG40-74l1Nn5NapRFDzRo298yPXRg-3Y85CsULJN5d4s1r-jcdY8jW_OVamjkX7w/s1600/IMG_4240.HEIC)
 ![Templates for the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yorxnfMs30yw1w5u_lZKLlC8YbO36FvZCzLcDOVZkS1BpQ1_68Y99caVpbcsH2lCdMMjr9r8cb1alYKen_ocJHPr_psCBnQSEiTOFLfqSVaZPqTfM2PjhVdFQmy9HT6AYhKfmTxxIhRd9t-gVkVTRs7xSd_MXVT-EfBnyWDWo-NrDt2hJi68wkpQVw/s1600/IMG_4232.HEIC)
@@ -174,7 +173,7 @@ Double-sided reflective insulation, then 6 mm foamed PVC back panels, like the h
 
 Diary: [26 Nov 2022](https://irwin34.blogspot.com/2022/11/day-63-65-112422-112622-main-fresh.html)
 
-Building the nav station cabinet, panels cut and trimmed in place. The front will be hinged for access.
+Building the nav station cabinet: panels cut and trimmed in place. The front will be hinged for access.
 
 ![Nav station panels cut and trimmed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIzheTLUkjwyqlvqXZnZ67Tp0jfEhLavukHL-_zkd6tCQ2JMCf-KbMUFq_P9qYdifdio5PWb7GnwWEQblTp5mNy-yGvI2FPnaW7qypmPUaxk14xMuGKeNdYYoE9C76PVVkztFqMuLTDgVhIEJjQHgXAgZQQhlb7jm8loorfCzLX6iMsmHU9VGiFahdrw/s1600/IMG_4318.HEIC)
 ![Nav station panels cut and trimmed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-yDz19GXfiIOedIJR8Jro1xAc-tqHRPq1zIn43naPbuuSayE4MzubnpxGgOS-OgogvLnYIWh1nST0agi9YeIlRg-0vNb_QwHO28vYR5557h3Pgagdco479j0EI91Q-eB_oQ8D70ZdS33oBudNxF3n4ms27iiQMIZPsiSuKztxfgi9C2sKbTDdrprivw/s1600/IMG_4323.HEIC)
@@ -184,7 +183,7 @@ Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-w
 
 In the front cabin I routed the drawer and top openings. I made a mistake: the very end of the countertop has no wall under it to guide the router. I'll probably hide it with edge trim.
 
-Then the old wiring harness. For some reason the cables coming to the front wall on starboard were taped together, split into single wires, tied together again over the wall, then split again and joined on port. Who? Why? No idea. I'm moving the wiring into the toe rail pocket and want this wall in one piece side to side, so I'd have to cut all those wires or cut the wall. I chose to work the wood and leave the old wiring alone for now. Wires out of the trap, reflective insulation in, and the wires routed behind the front wall.
+Then the old wiring harness. For some reason the cables coming to the front wall on starboard were taped together, split into single wires, tied together again over the wall, then split again and joined on port. Who? Why? No idea. I'm moving the wiring into the toe rail pocket and want this wall in one piece from side to side, so I'd have to cut all those wires or cut the wall. I chose to work the wood and leave the old wiring alone for now. Wires out of the trap, reflective insulation in, and the wires routed behind the front wall.
 
 ![Routed drawer and top openings in the front cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjufu1Od_IwmLkvEaj-WIDN8fL6JG30yVEweQd7pK2MLpZ5j5FQHwc3TohAQXOQBmzcZzn0SQKjXnRr-oo_aiq2kybr3uYxwiQXSuG_pJPE3-H1_cx6GlLqFwf6Y8ILY1cVM86jhVsOao2uMKp2JrizyMIjtfUEHlHainyU6qMgZoaX8AIhA4oJnpq5bA/s1600/IMG_4304.HEIC)
 ![Routed drawer and top openings in the front cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiISy4YUqMBDLPGp0dw27ozV7_5MIWCI-W_qAzd9RQK68DuC9sgKdf-hQ1L75sHkA3qGwmW9ODRMVaMxI1PyE21MKz6MB8CNvjN6wnTNYQb7TQ1gg8PsMri_1d1kkoZ-Fmh9P_mLDfpJMQkL9pVwc1qxXUyGgr_FCGMvAS6YVte35cz8jtiYvUEV3DhGw/s1600/IMG_4306.HEIC)
@@ -195,7 +194,7 @@ Then the old wiring harness. For some reason the cables coming to the front wall
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
-December: the front cabin cleaned for the ceiling and side covering. All the gelcoat in the V-berth lightly sanded and polished; now it looks almost new. On the sides I tried to dewax with Interlux 202 and made more mess than before. Templates for all the front cabin parts. Dry fit of the nav station face plate, and the desk top cut for the folding table hinges. That's it. Not much visible progress.
+In December the front cabin was cleaned for the ceiling and side covering. All the gelcoat in the V-berth was lightly sanded and polished; now it looks almost new. On the sides I tried to dewax with Interlux 202 and made more mess than before. Templates for all the front cabin parts. A dry fit of the nav station face plate, and the desk top cut for the folding table hinges. That's it. Not much visible progress.
 
 ![Front cabin cleaned and gelcoat polished](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgR3tkq4MB0NY8y8ipzShGYS0X9TOTyeiDPkH0yZVsEvkmsdw8TChtndacwKOFyBdivp8pArPIutxCIjzHucgE9QMVm0orcAahJR60cLxcNjeHEBdxjRUuB_4kF8_aJv7NP8nECGVuBzXcaJxjcU4v5WTCjQ6kKeYajRWk4aq_FkY0UZXb2luGRg5_g/s1600/IMG_4362.HEIC)
 ![Templates for all front cabin parts](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMezkoBh-8IF2MX7vQddaRnXFMbC7PBruq1-dV7joROxEVxlzY5a6IyLjOpKlQhFE7WlyzotY9QjL7hLKzLV0j6f0uA-6Dq7pY5kqo-DbhLJAlBnpijcd12O6qx8zwTALWRJEUXBXkAJ97rs2bMDIJOqJd2dF7wV-E-Dcd6OQ-xdKu8G-CfWuvsiBajg/s1600/IMG_4363.HEIC)
@@ -203,14 +202,14 @@ December: the front cabin cleaned for the ceiling and side covering. All the gel
 
 Diary: [10 Dec 2022](https://irwin34.blogspot.com/2022/12/day-67-121022-front-cabin-preparation.html)
 
-Then the front cabin was almost done, only trim left. A little boat yoga: sanding the head walls before the front cabin's neoprene wall lining goes in, to avoid extra dust.
+Then the front cabin was almost done, with only trim left. A little boat yoga: sanding the head walls before the front cabin's neoprene wall lining goes in, to avoid extra dust.
 
 ![Front cabin almost done](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhukSS4dueJBb5xWI48u7o8RPlF3Ca3_izuUFqfqQ8F6tWzeww3OwDGqtjJo25TEC5TJ5t0U6H7m0RRm-Ju_yaG3h2MMjQVLRoY-3cNfzVZnoiRw7tM7wLalepmbv4_P7dJYodzuJEM5chgWw52bbtNHliky1b-hLcD4iN0MOip5Om_XLLb-ldnhA60iA/s1600/IMG_4376.HEIC)
 ![Sanding the head walls](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yYK5Vlb8LxpR0i0EkmmIyofge9QoMPEEItRktrRi0PKo7Yf2vSkfeo2YtVJ5u6Ume51h9AaHCkGIpEVAQAScFNvhXLOfwvzNIckeEHeWelOzJMznwec0NrJ1imTO96Lfh9ONTW4WvTCaRaw5TwnNCBPtzaODB7U_jJmWy2WOn1QO926qRtxcF5GdoQ/s1600/IMG_4373.HEIC)
 
 Diary: [17 Dec 2022](https://irwin34.blogspot.com/2022/12/day-69-121722-front-cabin-walls-and.html)
 
-January 2023: I sanded the glass-to-surface transitions, patched the edges, replaced the screws holding the forward wall to the liner with countersunk bolts, opened and patched all the holes, and scuffed the left wall for primer.
+In January 2023 I sanded the glass-to-surface transitions, patched the edges, replaced the screws holding the forward wall to the liner with countersunk bolts, opened and patched all the holes, and scuffed the left wall for primer.
 
 ![Sanded and patched joints, left wall scuffed for primer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl7g8XpA3cXgJhz3iRfN6DwbE2w9SQRWe5nYMmIb-O3DcHloP4i-9EapHgHcqrb3fa3fi000Oa6qFHJ9cnEnYX6GDhBLYMiqhJlK8aOpmKx55HcyvHHzkc84PewRp551NRaTEu9as5NurZKOpdqIcdqfkpzKFiIJtkj5oGaaCQWfeWiUiUhrEyucA4og/s1600/IMG_4596.HEIC)
 ![Sanded and patched joints, left wall scuffed for primer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUo5mjotiJJzYDtO6cGCMHQg20SfOEiCkfRIXRWkWs8qFTfqQQnmgTac_d79zai42MjKJAhFciJUS8YuYGYIPyxxIw8R9L1S86JiKOXU8hi5y9HViClYWNOB_iKPv6-V9Z7zKk3UKSBDpY_uGWnX9thwiq40b7KmGCGjN7VO1vOVZWYAuP_1L4XJ0CIg/s1600/IMG_4598.HEIC)
@@ -218,7 +217,7 @@ January 2023: I sanded the glass-to-surface transitions, patched the edges, repl
 
 Diary: [7 Jan 2023](https://irwin34.blogspot.com/2023/01/day-75-1723-shower-walls-gaps-glassing.html)
 
-In February Maria helped me a lot sanding and priming the head interior. After the masking tape came off... And the locker next to the battery box: I'd found a big, completely closed compartment there on the port side, so I made a storage locker. I want as much access as possible to the inside of the hull, just in case, and storage is always handy. Still to do: close the bottom so things don't fall under the battery box.
+In February Maria helped me a lot, sanding and priming the head interior. Here it is after the masking tape came off... And the locker next to the battery box: I had found a big, completely closed compartment there on the port side, so I made a storage locker. I want as much access as possible to the inside of the hull, just in case, and storage is always handy. Still to do: close the bottom, so things don't fall under the battery box.
 
 ![Head interior primed with Maria's help](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQJy375_bhITljKupS5Zt9eBz_y6P1BQExU6-5EFLeQs2eaKbEE8T3NjDYs11AlDXZNS4AmXAvhAhh4ExHAVNOXQFqpA0E0H7JVE3zia-Ha7ts5DdpMsmLYJZo3KU5VgkKvmPrldO1wDvRxGjbQnNLh0Pp6j9zw69gOzz2FM72MwCehyp1MKs4HX1HQ/s1600/IMG_5089.HEIC)
 ![Head interior primed with Maria's help](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX3vGzgDuRXj3XOkxKH5RKrJXlWbwgy8rgZKU-izRwj_E4Eq2baYrtfa3Sjp-sAXAh-IseOcrTKUiLMoiRHbQUDJ3M2xMk7-9ksxwqEJJbqwdrOcSAhPM0cpqG32-m_MpfjPrnY4rjABFY7RPPQsOdj7mt6J1CAF-8UUXTkNUZQZQY9qxk2yK_W8F0xQ/s1600/IMG_5091.HEIC)
@@ -229,7 +228,7 @@ In February Maria helped me a lot sanding and priming the head interior. After t
 
 Diary: [5 Feb 2023](https://irwin34.blogspot.com/2023/02/day-77-24-2523-swower-bulkhead-bottom.html)
 
-Structural: the tabbing on the fore-and-aft bulkhead that separates the starboard locker from the engine room was completely delaminated, probably from something heavy dropped in the locker. The aft bulkhead tabbing too, and the ice chest mounting to the hull, so I cut all of it off to tab it back. Removing it, I found the tabbing had been done over the gelcoat, and the gelcoat had let go of the hull. Pictures after cleaning.
+Something structural: the tabbing on the fore-and-aft bulkhead that separates the starboard locker from the engine room was completely delaminated, probably from something heavy dropped in the locker. The aft bulkhead tabbing too, and the ice chest mounting to the hull, so I cut all of it off to tab it back. Removing it, I found that the tabbing had been done over the gelcoat, and the gelcoat had let go of the hull. Here are the pictures after cleaning.
 
 ![Delaminated tabbing cut off in the starboard locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIV1OJlp2qKT28htVjtwPugo8Fii1MqAVbXsAd_a2krNHxF5yMORaYHVb691tHfL70qkD5fJp9XXsCKI81HcBUejqU39iHssRZTZcsVaGQm22gh_2Z8X1PDtozysLBlbDqSNnhfDDABlZbiiDxOJd0WEVaQ0lvCFolyhatWWMLNWdDH2dXiZtRwEJxpQ/s1600/IMG_5094.HEIC)
 ![Delaminated tabbing cut off in the starboard locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUcthBRVAJaO1FJmnX4n-ynBvYvlySB10GWJzUiaI_vq1ZfTTxq1MVwG9y0h1Hvppe3wAo8XDA3Qhflc0K-hWswiDrBXPKTe5qCAlp3KfwLU1JO3Nny1DUWZq1JgkBUWgCToARW7T2siGlmomy7hB9MtapTxjuxFE4nRz2Y0waELfYXduR0x2gpZxwQ/s1600/IMG_5086.HEIC)
@@ -243,7 +242,7 @@ Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabine
 
 ## The galley side
 
-March 2023, the galley countertop. The original is two parts: one with the sink and the food locker lid, the other covering the ice chest and making the first companionway step. I made a paper template of the whole countertop, with check dimensions so I can confirm it hasn't stretched when I lay it on the new material. Countertop out. The back side... the left side is badly rotted. It's getting replaced anyway.
+March 2023: the galley countertop. The original is in two parts: one with the sink and the food locker lid, the other covering the ice chest and making the first companionway step. I made a paper template of the whole countertop, with check dimensions, so I can confirm it hasn't stretched when I lay it on the new material. Countertop out. And the back side... the left side is badly rotted. It's getting replaced anyway.
 
 ![Galley countertop and cabinets before rebuild](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguZchvwQuBZpKrjs3SubvgombA8WvRjo7DHBYzdplTHJqYmFTHMfFH1wuyIqpmB7dApWKVqgnT7mRoEZBmkX_ghX9P10_OfVVL5gv7q1D53_6jojFWKFw9ywDQgzyUWoGOoeNVRYibygehJr9txyfmmYIuHu1q2sGLg69RbqLRWUgpsKNztUEUQ146tg/s1600/IMG_5328.HEIC)
 ![Original two-part galley countertop](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikdum9v_9wsFI_tHvyOYweCae5pJzfnP-Duba7BrdDE5cblDJOaDtmFrmO_vfSsLpx1uxbLJ3pQPC9k7KOxDYhza67btwhrENoVVHOHRcr-Z4TxdX-iqXa9sOjbmir68o7ZjmZKRKjjiRJUGjaFnWJ-JP1UKviscdHs9XRYc0oUD9apdE3XrD741rBew/s1600/IMG_5329.HEIC)
@@ -253,7 +252,7 @@ March 2023, the galley countertop. The original is two parts: one with the sink 
 
 Diary: [4 Mar 2023](https://irwin34.blogspot.com/2023/03/day-80-34-galley-countertop-templating.html)
 
-Then five small walls for the galley cabinets and the starboard storage over the settee, and the front panels. To tab them exactly in place I hot-glued wood blocks at the top and bottom, then tabbed the walls to the hull, liner and deck. Next, cut the door openings.
+Then I made five small walls for the galley cabinets and the starboard storage over the settee, and the front panels. To tab them exactly in place, I hot-glued wood blocks at the top and bottom, then tabbed the walls to the hull, the liner and the deck. Next, cut the door openings.
 
 ![New small walls for the galley cabinets](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHBmCRhch0rA6x4wRG-WL4BUS6y1Kwg8v04mPo-U6eEAz_WkBMQiG2HX1Mgl3n25nX9C5rvcUm7GQLrBqeb6PrPp0eP7kK6_Q9zVhmqMutd_KYXk4lIC5FswMNSVs1c0F8PwFRA9AGh2SmuifWWL2UJzRi0JOFcmx2pLPWgtbzBpimRnX9PAZ7Ec-y3Q/s1600/IMG_5402.HEIC)
 ![New small walls for the galley cabinets](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6rvVGTnnllPj-Jx3S9Edqk8tRgv-WdQ-Xoq10QQDKPV0cgevdd-4jbIOklZMfHcFdTyH8f2vf6dtDjYbpVWNcfw5ss04v8twtyb_yk3kn_5xqQVukFgfTcUz76mMXYub17LH0eaNvrxVh7UOQmxnQk84AxR3phhn8cMf9jnGy5np3DuwlLp3nQ3NwRg/s1600/IMG_5403.HEIC)
@@ -262,7 +261,7 @@ Then five small walls for the galley cabinets and the starboard storage over the
 
 Diary: [11 Mar 2023](https://irwin34.blogspot.com/2023/03/day-81-311-galley-and-main-cabin.html)
 
-I found a nice bamboo roll-up door at IKEA and prototyped roll-up cabinet doors. Type 1, for the head cabinet, has room to slide horizontally. A full-scale model from old plywood scraps works well. Other places need somewhere to hide the door, so, a rail.
+I found a nice bamboo roll-up door at IKEA and prototyped roll-up cabinet doors. Type 1, for the head cabinet, has room to slide horizontally. A full-scale model from old plywood scraps works well. Other places need somewhere to hide the door, so: a rail.
 
 ![Bamboo roll-up door from IKEA](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhce4iPiR_U8DdcEmXv_JEJwxQHU9VHJiorBWF_Sp5rkcLbNO-dl-WCjILti1nFYp0ZQTQJciNLQRHzM8GwvgCChem0JilKrocKL0kYN1Tz1OhlQfguZJG6q_zAoLJXHvDS33KNsI5CoAjfquMTLshb9FjlQN93ZUx1glHIuZJH2b3naRURt0-ack2Ddw/s1600/IMG_4380.HEIC)
 ![Roll-up door prototype for the head cabinet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwSVltni5lGO3tBMeNZlH16jA2-_ujLApz5SYQSKPjNa9lxqnkrLjH83uYhnmeaK2BdmY3y6g-DCxC-CsFBgYtU788RiX5XA4Y-ukWygG84poVVgHkYQe1IZro31XTz7y5EjJB-YS8n-KMjH4UTEAzQ0GIEuo9OgGQNUd2FcC2CEmeIXH1EHoaz_0Mew/s1600/IMG_5389.HEIC)
@@ -273,14 +272,14 @@ I found a nice bamboo roll-up door at IKEA and prototyped roll-up cabinet doors.
 
 Diary: [11 Mar 2023](https://irwin34.blogspot.com/2023/03/day-81-311-galley-and-main-cabin.html)
 
-Starboard cabinets: back walls and hull insulation.
+The starboard cabinets got back walls and hull insulation.
 
 ![Starboard cabinet back walls and insulation](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQzHsAHFQpd37JDRHicOde2ZV1ge_DdEpqInAYI04IhGvg95dgXSwBgsh6rHIBe_gmUc6RcinnXrmXhp73VdPEsxlh7sgWsffcTZLOsZIQp6Feg4oDuA-gnuBA0WIJ4Ym38dpx_b-us0EqKE3joLL7UxtAWOhjqKKDV-hhWY72-Dto6gEXKA8A7cZbHw/s1600/IMG_5470.HEIC)
 ![Starboard cabinet back walls and insulation](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjno0JyP8YhI_004Y1O2mWT6Qc6zjmHgt7V6cf5BmKxDifYk-rGQfSXQLPLBTMMg7qgL7s4s6HWkk74dypPgtRzOow_ouUbb2pdWlyoFf1i9RQFJeEImrCJubPUIqmQQukNz1TBm3m4ikvGV0s8qnT32DVucSOaOGQEgkJw7vf13QX3ygEF5mIxQh021g/s1600/IMG_5472.HEIC)
 
 Diary: [25 Mar 2023](https://irwin34.blogspot.com/2023/03/day-82-325-finishing-laminate-buildup.html)
 
-April: a scrap of plywood epoxied as an "anchor" for the bulkhead between the main cabin and the cockpit lockers. The head and starboard shelf faces ready for dry fit, the head cabinet door, and the galley cabinet and starboard shelf doors.
+In April a scrap of plywood was epoxied in as an "anchor" for the bulkhead between the main cabin and the cockpit lockers. The head and starboard shelf faces were ready for a dry fit, plus the head cabinet door, and the galley cabinet and starboard shelf doors.
 
 ![Plywood anchor for the cockpit locker bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT1HF3bFBQcoxiA8r5Bu3ckZUMpBLavKZes6I9L94HOvioZ5v-bpakvHxvdBAxNF1OtVljVukM0JraokAIMf9n3eX5EQwMGu8fDpdh5XcgjZuh28VBfDrD_-c9bffdBdKijJlTkcpOlhdOuwURVvI_W0y2BrM4Btr4TeoaiJsq8e1OjKGn_meHs6hBuQ/s1600/IMG_5513.HEIC)
 ![Interior in progress](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweT1ukCI1TDoEqJyPFYm-qFhoa8YMSREk9lNV45_fC0YIhLcuq_5dYlBf36q3jwPXA8f5qeCjaAIp18J4aapRXVDNdW2QgOTBP8_w86_ownlGZIsDoBec020clBxp9fEy1JiB4I40bd5jehNUJob57UyoTdziXl5zZFcdTpccORIQVN6FmzkItVQQvg/s1600/IMG_5501.HEIC)
@@ -292,7 +291,7 @@ April: a scrap of plywood epoxied as an "anchor" for the bulkhead between the ma
 
 Diary: [1 Apr 2023](https://irwin34.blogspot.com/2023/04/day-83-4123-finished-mounting-shelf-for.html)
 
-Then I glassed the bulkhead between the cockpit lockers and the galley, mounted the right-hand wall on the cockpit side, and made the breaker box compartment. A look at the space behind the aft wall. The space for the main fuse box is 8 x 15 inches, and I need both the low and high voltage panels there.
+Then I glassed the bulkhead between the cockpit lockers and the galley, mounted the right-hand wall on the cockpit side, and made the breaker box compartment. Here's a look at the space behind the aft wall. The space for the main fuse box is 8 x 15 inches, and I need both the low and the high voltage panels there.
 
 ![Bulkhead between cockpit lockers and galley glassed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mP9mL_UCb3CjvqHNtsbJxTRTQ-PVzNtk7Vh5XA9GxMlmB6Hco-qeeaUQaW3DYGpfRWguIa8w6jINcwUbvKCggTEo_GLl_s1gYJwEAo_oDfcyKK5Rjr8MZfw8rDsJZJFNW8z2s_yMZSSVYIzwZ0bce-lixRFgz838i-Udzdvzsml7p5CJPVtrM9t7UQ/s1600/IMG_5545.HEIC)
 ![Space behind the aft wall](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW4Ij2d4Ohvp7NsoY-TDIMtle1BWkUxHz2BYZQcc3rH4_m7_m8WOE9mI9UPr53O4a9NEqqRBaj5aLH-qkTrVkiFxIsieiZXAsNhRHvqAMYcnPTlNuW5KrxIrgM_ypqDp02enX38_nEMzcqYT4lU45wEZYqAVjsSdRSbYCEYW8w3fzQohxmNZEglYK7jA/s1600/IMG_5546.HEIC)
@@ -303,7 +302,7 @@ Then I glassed the bulkhead between the cockpit lockers and the galley, mounted 
 
 Diary: [8 Apr 2023](https://irwin34.blogspot.com/2023/04/day-84day-83-4823-rebuilt-ducting.html)
 
-The bulkhead finished, with the last piece and some glass all around. Then the structure around the refrigerator top. A pretty big hidden space formed there, and I can't figure out how to use it. An inner layer in the top right cabinet from 1/4 PVC Sintra. Done for today. And I re-checked the wiring before building the breaker panel, and mounted wood blocks to zip-tie wires at the panel entry.
+The bulkhead was finished, with the last piece and some glass all around. Then the structure around the refrigerator top. A pretty big hidden space formed there, and I can't figure out how to use it. An inner layer in the top right cabinet went in, from 1/4 PVC Sintra. Done for the day. And I re-checked the wiring before building the breaker panel, and mounted wood blocks to zip-tie the wires at the panel entry.
 
 ![Bulkhead finished and glassed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0Ojl1j7mrQZT5NEfL5tRIRf1ePXu_dZjDYfHC89N3S0XMeJSopDwDpL0TDU0z4OcgNQWFv6PSc4Rs4Om2nf8IcGqd_KtHXLRLflPdfbSYXM2n8sCdIU_LAcmEFi9z5TyeVSxRbGuKzP_QpuoIRg9bec2368O2ybBhp1fk_1ULxZ8_EB_hOaj4i3gRA/s1600/IMG_5561.HEIC)
 ![Structure around the refrigerator top](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDOseSO8zLt_vXyYKKE7KfEL7J3No30uTwX09uQsaknGUR8G84ByAwwJih33GXhXtSAkrK7rkfDrMbuJqClLmVXtjdQEZmBoF4GjabF117TFyJxl3xzQFdCdQgBKYzKF0khtL2PYotNwTJ4QakKZ4eW6uVHe1XM08vu2muojoarSri4m2MK9zKcKRzyg/s1600/IMG_5562.HEIC)
@@ -318,7 +317,7 @@ Diary: [15 Apr 2023](https://irwin34.blogspot.com/2023/04/day-85-41523-refrigera
 
 ## The wall to the cockpit
 
-July: templates for the "back" wall. And planning the windlass and anchor roller positions. Looks like the build moves to winter. Some detailed bow photos and measurements.
+July: templates for the "back" wall. And planning the windlass and anchor roller positions. It looks like that build moves to winter. Some detailed bow photos and measurements.
 
 ![Templates for the back wall](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhawfBOTysdiG6NZV24k4N47NKfTwYNz9q-DC7Ib4D9ArNsgq0xj7D8b5t_nnsmfvizCWVxBSlqjSSWOhY3ei3pbdyYw11rW5qDS387NIbmB7Genu-UDvR66-qCaezcXcbmpkYk2VExCuofHixh6HSARwDf7NhFL98s1qjm9LTjqgNiAPEr7htCIQ_-_Ltl/s1600/IMG_6070.HEIC)
 ![Planning the windlass and anchor roller](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje28I4IhuIyJ51FPjUT5SnIK7V11tdyZKnqGOS--Txt6Z6ulA6a5qvcH5DJEsrvvXYOFkdVP7rymYPynrpcJxI6kdCfxSaEi1tOSwpD7OV45zPnYh7GKhfDVxX_-ZuHJAPg2kwWv1PAuMdWJMOPTrG_8iR44qRpWiUqKRs8YmmMQygwtg49-W2HKkXlaI6/s1600/IMG_5977.HEIC)
@@ -332,7 +331,7 @@ July: templates for the "back" wall. And planning the windlass and anchor roller
 
 Diary: [1 Jul 2023](https://irwin34.blogspot.com/2023/07/day-96-7124-electric-panel-buld-galley.html)
 
-The aft cabin wall, made the same way as the original: wood strips epoxied to the fiberglass, a layer of 1/4 plywood screwed to that frame, then another 1/4 plywood layer glued onto the first to hide the screw heads and make a nice surface. The inner layer dry fit with just a few fixes, and shims on the frame strips to make the wall flat. The port side has an opening to the space where the inverter goes (where the long spare wood lives now). The area under the entrance gets trim. The two openings: the top one gets to the back of the 15-inch cockpit screen, the other is for the electric panel.
+The aft cabin wall is made the same way as the original: wood strips epoxied to the fiberglass, a layer of 1/4 plywood screwed to that frame, then another 1/4 plywood layer glued onto the first, to hide the screw heads and make a nice surface. The inner layer dry-fit with just a few fixes, and shims on the frame strips to make the wall flat. The port side has an opening to the space where the inverter goes (where the long spare wood lives now). The area under the entrance gets trim. Of the two openings, the top one gets to the back of the 15-inch cockpit screen, and the other is for the electric panel.
 
 ![Aft cabin wall inner layer, dry fit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKuWUeNH8i6AlioK7fHLpro59AzAox8MM9yvu_sFCOQomu2xVq8PkPJlNqNTczn4RKKMwl_yL9PQn-Ng3EPjSuIhAy_HqAI3MRE4y-Ajy7CVU3EltD3r4IOoBKzypHr4uva4HKU2WgY7cYjxGZsykvUQC4VrwWXYFMtn_W0Ef2b4X8wshOst3FrQDg63OX/s1600/RenderedImage.jpg)
 ![Opening to the inverter space](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMS-3S40Sptt3XqT7TtxqYixIojcBSCieZlOL1d7uVSIONfRvhYK2RfM31KnIoORXMgHefpibjhElmSRYL_Xcy-chgNp5yTKhf2IR-VoQYJL3NGNmglvyKEw-OycgEakAMwT1bc0HENNJp5B-CMeVxvnEmKQppjNYnk7VXEoIr8bkg46cnXITen5lPjdlt/s1600/IMG_6083.HEIC)
@@ -340,7 +339,7 @@ The aft cabin wall, made the same way as the original: wood strips epoxied to th
 
 Diary: [4 Jul 2023](https://irwin34.blogspot.com/2023/07/day-97-7424-new-electric-panel.html)
 
-Then it went in: solid wood strips epoxied to the fiberglass wall, one layer of 1/4 marine plywood screwed to them, and a second 1/4 layer glued on with thickened epoxy. For the electric panel I made a custom recessed frame that holds the panel vertical: the top is set deeper than the bottom. I used countertop leftovers. Not a simple job. Looks cool, isn't it?
+Then it went in: solid wood strips epoxied to the fiberglass wall, one layer of 1/4 marine plywood screwed to them, and a second 1/4 layer glued on with thickened epoxy. For the electric panel I made a custom recessed frame that holds the panel vertical: the top is set deeper than the bottom. I used countertop leftovers. Not a simple job. Looks cool, doesn't it?
 
 ![Cockpit-to-cabin wall installed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW0KBbFNZeQxoq0bnbC9-gMUXeA4A6RshDVyuLZ5powM564Cnxn1BYg3fjGVNmSTiiXBf1yOyQwcGQbC_fiL730SAryF4Tk9ipT7D2iFTw2qWwB6Vf1noDOfgQghY4T2bIdGllFOihd_RwFIf2R1-bJlzDcEe7oqUX6f77z8Z_dgceIIDgFZfwilUJFUYQ/s1600/IMG_6115.HEIC)
 ![Recessed frame for the electric panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFfm6zjPOp3HMtf0VA-66oMmwSmGUdGJubIRT__54WpxvZGF5vTE9owfBq-THNJSNvaSdEkpsRxZIsq-PBY0igBaSKL49FRhjSMPjLJHfoph3PC2h5oNUvCUo3xs410Zm2ViRuK1cQKt43S6BQ5y6QPq6VQYet-u5oXCTC9nqVpL5EZY7akqLTy2hCnLmo/s1600/IMG_6106.HEIC)
@@ -348,7 +347,7 @@ Then it went in: solid wood strips epoxied to the fiberglass wall, one layer of 
 
 Diary: [8 Jul 2023](https://irwin34.blogspot.com/2023/07/day-98-7824-cabin-to-cockpit-wall-liner.html)
 
-A drawer under the cockpit seat: designed and built, and when I tried to install it, I found I'd missed a measurement and it didn't fit. The wall cabinet's wall wasn't fully attached yet, so I could cut it for more room. Drawer in, and fully out. The challenge: it has to travel 1.8 times its length, but store-bought slides only give 90–95%. So it rides on wheels on the countertop, with a slide mounted flat to keep it straight, and two rails stacked for the extra length. The only open issue is how to disconnect them to take the drawer out.
+A drawer under the cockpit seat: designed and built, and when I tried to install it, I found I had missed a measurement, and it didn't fit. The wall cabinet's wall wasn't fully attached yet, so I could cut it for more room. Here's the drawer in, and fully out. The challenge: it has to travel 1.8 times its length, but store-bought slides only give 90–95%. So it rides on wheels on the countertop, with a slide mounted flat to keep it straight, and two rails stacked for the extra length. The only open issue is how to disconnect them to take the drawer out.
 
 ![Drawer under the cockpit seat, first fit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeszJ21s48t7auyXkP0BtNcjOtD15XTd6GV9tVlsIZcLHD-ItuGMNgTW6X0czK7UgaSbWf4ZjTx2ojLziLCN9IyNpQAYrs4dExlaMBpQe8wjoEDUj-ByfWoGI6Bv7mChl5rCF01ZE71jjzjn0NCIiJpuuu0x8p97zyfY5WgfpHQi8JwZ32JhJbIkdkvZ7G/s1600/IMG_6124.HEIC)
 ![Drawer inserted](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWylL_esllebL9XnihPURQxZsf4TUlF6kbnJ_-FM8bxPHdRZ1FBbhtwWKVQtdbF4aPej-S8HatCrTT4P_z9GbZyz_91ocMOTP1IT5KQOYbM3GGru20J9CD_vJeya_Cl2gr2aOs2gVSlzldAOe3eJiCEX6MBgHERjGnyzQIdoiV1RZszVn6ia6fz5-qm8e/s1600/IMG_6131.HEIC)
@@ -357,7 +356,7 @@ A drawer under the cockpit seat: designed and built, and when I tried to install
 
 Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigerator-thermostat.html)
 
-Galley cabinets, getting ready for paint: sanding and patching, then primer. The real paint will be lighter. And a problem: the primer doesn't cover the plywood's low lines. Patched areas are smooth, the rest shows wood grain. I need wood sealer before primer. So almost all that primer gets sanded off, then seal, then prime again. A hard lesson: half a day of negative progress.
+The galley cabinets, getting ready for paint: sanding and patching, then primer. The real paint will be lighter. And a problem: the primer doesn't cover the plywood's low lines. The patched areas are smooth; the rest shows the wood grain. I need wood sealer before primer. So almost all that primer gets sanded off, then seal, then prime again. A hard lesson: half a day of negative progress.
 
 ![Galley cabinets sanded and patched](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0QqD4aHzPtK2dlxFBhyauW49GQznQ34GHkb0xR8iJ7Ho0e0I4y7GaHCZnM0ZGPtZXzzvr86QLfnmYlU1hP0omLrZGCyVU882Y4AQf5pR8OwBdq-d-Mb8gudfPsPW8TFSS0ZUJpgNQzyHIHIuLgx8ZWHoof4a_d96zDKe29hkkPSMNVzF6eq9TrwfeM6C6/s1600/IMG_6134.HEIC)
 ![Galley cabinets sanded and patched](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoDN6FIqVs6r6Wq0klKhNzr9CuoBvtS3E-jC3NyFRQK4b3_kTgDjZq47ajUYZMU9c5VrusrGni3XesN66v7KBM1uif05OJpx_ktXzTmSBt5mvtNSIRdZRq-qYuVo8KzufBi__06fzQ-exsC-tBvHCikFM0AIvgvrrolFdJBhOPHEH09xWOa_KwexKqTrKU/s1600/IMG_6121.HEIC)
@@ -368,7 +367,7 @@ Galley cabinets, getting ready for paint: sanding and patching, then primer. The
 
 Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigerator-thermostat.html)
 
-The chart table and nav station: dry fit of the screen and building the "ceiling" over the nav desk.
+The chart table and nav station: a dry fit of the screen, and building the "ceiling" over the nav desk.
 
 ![Primer showing the plywood grain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjihCJzdNq8UdkxR4ZAv2yRvPBx3VbfMiB1ufjz64eWyghEM8pH2wE4Wv-A1UBP_BLP2E4Pfz-cmMJUord0dzgg1Y4CTMfOZS9hyO1lAVrytMXhzRUPPPXphDEsmNae4gol-_g8z3R9eZCyyfS5KyUmLWScMv-l3ewbUsWDtdwB223l9YRBnENoLO_QUoRm/s1600/IMG_6136.HEIC)
 ![Chart table with the screen and ceiling over the desk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiE-ZXCk30sxulRYzWDDip_Jp707sjcl0ezH-QLp783UnYiF3gIDXGkLXNFg1_vqpj0qlnc8hKnpapdisQqDZiSbXq0u2CTjs97cEeDacgZCCSeRqCsPNNtWFKl1npOlNJ6Jah3ggqZ4LpsazicqsUXsd8wC27PfOWPsCsAFIpkTGefjB8p1-Y6Pne6Eac/s1600/IMG_6137.HEIC)
@@ -380,7 +379,7 @@ Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigera
 
 ## Sealer, primer, sealer
 
-Work slowed way down, because everything has to dry or set. I'm painting the main bulkhead too, for looks only; the wood isn't wet or rotten. Step one, wood sealer to fill the grain for better adhesion and coverage.
+Work slowed way down, because everything has to dry or set. I'm painting the main bulkhead too, for looks only; the wood isn't wet or rotten. Step one: wood sealer, to fill the grain for better adhesion and coverage.
 
 ![Main bulkhead before painting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjja3JzqzjX9lTN6lLwZYzz-mQ42rKUY46S7Rt1JCsyk7wt5uGn3yPWIcSH-bmb5KJaRFzXWfM01VVFMDdisWMgsapFFVvTvioZKdjjBf2qBIoLM_W9J4XkyFDZOn7WEZ06Ah3SvEHJgFXlPBmnq7ax9Hwf40SlFpOVvV5oJCqNNc-SPHpHmRNG_CNmwEcT/s1600/IMG_6155.HEIC)
 
@@ -392,32 +391,32 @@ So everything I said about the galley cabinets goes for the bulkhead as well.
 
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 
-A little about the weather in Austin now. The AC works great!
+A little about the weather in Austin at that time. The AC works great!
 
 ![Austin weather: 40 °C](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-5ATKWm8g6J20qrhRBhNEvsbh7S2RC6VxaDAuvABPVOK8D56RV1TRxEUx_blDyFC1UyigvvyY0cExy8vKGbkXrhRl6I486WRwNYtbN_63ZdZxCNPv3wiFky9KTLd6EJoHVgoVDm-iS2dixS5oo9AJEOlAombmU-crOPFUNmC1wEvpjie34mhn79Hdz5t3/s1600/71304659044__AA9329FD-EFF1-4A7C-9796-24A65E1CC98D.HEIC)
 
 Diary: [6 Aug 2023](https://irwin34.blogspot.com/2023/08/day-102-8623-interior-work-10-hours.html)
 
-A lamp over the port shelves and worktable, and the headliner trimmed to size.
+A lamp over the port shelves and the worktable, and the headliner trimmed to size.
 
 ![Lamp over the port shelves](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHTlZ1TcXR_fKTExO7eaQUwlckA4le1V2vidP_axd5FY7kBtDyMLXzlMY8KSP6FIHZmPTmEVJKNbzt_ANz9wreq80OzNWNY1jLjJThdSZtAML5AXorMKjIE0jv6FBx1JRJV5u0zerXTTEi7dP95C2KenumsGLvbHakBdnk3nqJMfJlgvqTZpLD0yWYq6Sq/s1600/IMG_6192.HEIC)
 
 Diary: [6 Aug 2023](https://irwin34.blogspot.com/2023/08/day-102-8623-interior-work-10-hours.html)
 
-Then sealer on the plywood. The aft cabin wall is done. Not varnished yet. Before varnish I'll have to clean ALL the dust out of the boat, probably take out the tools and materials I don't need too.
+Then sealer on the plywood. The aft cabin wall is done. Not varnished yet. Before varnish I'll have to clean ALL the dust out of the boat, and probably take out the tools and materials I don't need, too.
 
 ![Aft cabin wall sealed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFU5DmZMxHj6AysovmLm-mZoZd1rHfEAu3u_TGVa1NQrM7SMmbtWrsvEXdSMhuFbUqaKyrEte67sz_L5GRCbBsNJN_AuPDCL3FLZV2X8ldKdouQPh8o2hqNMMXQXeHAOr0q8f3AStaywHeZllV9ky3bz5KMmUaQidi3mh3vocPlGfrKmBxKhJSlVLZRV-O/s1600/IMG_6186.HEIC)
 
 Diary: [6 Aug 2023](https://irwin34.blogspot.com/2023/08/day-102-8623-interior-work-10-hours.html)
 
-Then the main cabin headliner under the deck: templates, and two big pieces of 1/4-inch white foamed PVC. Only two spots of a couple of square feet each are left, for next weekend. The piece over the shelves (yes, a very busy workspace), and the corner of a headliner piece top-left.
+Then the main cabin headliner under the deck: templates, and two big pieces of 1/4-inch white foamed PVC. Only two spots of a couple of square feet each were left for the next weekend. Here's the piece over the shelves (yes, a very busy workspace), and the corner of a headliner piece, top left.
 
 ![Main cabin headliner pieces](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoK-q09DPLOr8-cIzydJr1oqRk_MrzSPmnUnYV2G7rr_hM-xfp_N9Y5uxjHeWtkhuOF81DoKoG7vSxW1RWOtOWdur6eDR8CpK_6jLnTQwwn26EGBRKwSUgTTBKF1GFP9-t2N2dB4Lp5YDUok0QSKqcHqLOfxd5RdCVMKftJuVzNSlq0eKmRVzx4H1ReyqI/s1600/IMG_6166.HEIC)
 ![Headliner corner, top left](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhetnbzf3x7ByVsS6H48F79qIoeo-DyfbuOXvWLFZ8rSAGVy-e2O86X3-V2Fcf-aAAxjW7UyEBf2oIsm3DAuqcrGx5IfinbQZ0OPaeUiVmltmX84TS16dHrlgPaiSQIzEJYl3f7RpuChsC4LIGh1Zfa1Go48dYqMnC4d_ndO3CbhLifMfb-xTpGfVxeboXU/s1600/IMG_6174.HEIC)
 
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 
-Two coats of wood sealer on ALL the plywood in the main cabin. The main issue was 40 °C outside. To stay OK I had to run the AC and close the doors and hatches, but painting inside a sealed box isn't easy from many points of view. Yes, I vented the cabin now and then, mainly so the fumes never got to a flammable level. Saturday I started at 6 AM to catch a little OK (not cool) time with the hatches open. I also soaked the galley countertop with tung oil; now it's water-protected and looks amazing. Pictures after the sealer. Even without varnish it looks great, isn't it?
+Two coats of wood sealer went on ALL the plywood in the main cabin. The main issue was the 40 °C outside. To stay OK I had to run the AC and close the doors and hatches, but painting inside a sealed box isn't easy from many points of view. Yes, I vented the cabin now and then, mainly so the fumes never got to a flammable level. On Saturday I started at 6 AM, to catch a little OK (not cool) time with the hatches open. I also soaked the galley countertop with tung oil; now it's water-protected and looks amazing. Here are the pictures after the sealer. Even without varnish it looks great, doesn't it?
 
 ![Main cabin plywood with two coats of wood sealer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh27XwDVrPzQ4hgAGQlbSoiaZu3PVuPrxd9rnY3Oba1jc8ObuiJ79IRasLTvlkS-wrranad3vWspMewQVSTozKK8dJPkNUtyhNZ1PEuhMx7OV6z2NaJRFRxKcu90ZnI069LfmR8F6nzNKrGe49aEfezmCxPPbEXj_OshZJ8GE29SMaKDUVxEZZf2Z0vyZqD/s1600/IMG_6247.HEIC)
 ![Main cabin plywood with two coats of wood sealer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwjTwUygEsolw6gTpViFeoydLUxbWhpoq6MlfbuUDbyo0MHdmBNE0Xx_KYS_VOOC5Igbp2nk2OjbWEnnwznXVXDe06ivAzhAWIlo5UzPupASquRwR2BoNhMbL9sfXZTFystaZTpyTzvpQR9NUZfJYctupZ6xYX_NY-uh026Hj9zEwpqmKyJvytK6gwn547/s1600/IMG_6246.HEIC)
@@ -431,7 +430,7 @@ Two coats of wood sealer on ALL the plywood in the main cabin. The main issue wa
 
 Diary: [20 Aug 2023](https://irwin34.blogspot.com/2023/08/day-103-104-81923-820-interior-work-16.html)
 
-Then two coats on all the plywood in the front cabin and head. New strategy: come early, paint everything, go home, come back near night for the second coat. Strange thing: two panels of the front cabinet came out very dark, though all the plywood was the same type from the same store. Slow progress is really disappointing, but I can't go faster.
+Then two coats on all the plywood in the front cabin and the head. A new strategy: come early, paint everything, go home, come back near night for the second coat. A strange thing: two panels of the front cabinet came out very dark, though all the plywood was the same type, from the same store. Slow progress is really disappointing, but I can't go faster.
 
 ![Front cabin and head with wood sealer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSnlZSowCMKYu2-xqcMPC7ORaurxrm5urjD7sG6IWCH09dInPFgxTA1w1v_yNliFbvwWQz_nh3kjPoG5W1r8GyWvRGiiYYc1FkrYdSlpVa3gevzPyv0YjLFAIv9-GTI23rsri0vQ_W2B85L_No1tlja5zmYive6ZRTNYficKhupeYuthOJR7OrZcPqePmH/s1600/IMG_6280.HEIC)
 ![Front cabin and head with wood sealer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGlVSftc4ITK0guowtDNSBprgt5aRJNQM3My6BBj6XDsbh4Anefd0-JURLY6Lee7n22V2B9HtLdstJACxpLdOT4hBrCXYGX1vejQW7sCyHCyfD2j3nUR2_Vs5d9VRrvuApOPHkLzP-xz_DFGKvgX-pCp4p6och55WT2V--KV9-nBUzH8WfBwsiQC98vqtT/s1600/IMG_6278.HEIC)
@@ -442,14 +441,14 @@ Then two coats on all the plywood in the front cabin and head. New strategy: com
 
 Diary: [26 Aug 2023](https://irwin34.blogspot.com/2023/08/day-105-82623-interior-work-6-hours.html)
 
-September: the refrigerator compressor area tidied, and a temporary fix for better air around the condenser.
+In September the refrigerator compressor area was tidied, and I made a temporary fix for better air around the condenser.
 
 ![Fridge compressor area tidied](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0kV7G9Qyj49Y9XuKJHKXPWhLeD6-cGtDkCVsSuIXUfPS8kAcDVlh6B7YMRUVSPoENvnLoEExleCfWdBx831hq-Qhz0yrAWtyDcbtXEa5ebDqfwLV0wGJKiwE5lXRi-DiH74MWDisS_YLiXjY1rqg7vg4khpfKl-JSWZL7NKqeKffjyp2lwh9yv6e9r7Ld/s1600/IMG_6294.HEIC)
 ![Better airflow around the condenser](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAiDITgOftzYoOKF99VDV7o56pEF3nik4gMQRGpdJ6xYtYl295VyxG12oZOS374VXCErrD00YQhYpKgcctEupJkDRTnWAqYaQVtj40Z9wT6bJUW894s_ZH6V4-_rkIOrsgC2M7Sd_flAYqLvz4zFul0gBfRd0VuE_0AMcmGZ9a7YgCUMZOsvSkVRYUBaT/s1600/IMG_6295.HEIC)
 
 Diary: [2 Sep 2023](https://irwin34.blogspot.com/2023/09/day-106-9223-interior-work-8-hours.html)
 
-The main cabin hatch: its inside trim was mounted "in the air". The screws were just in the frame, held only by silicone, with nothing to screw into. To fill the gap I temporarily mounted plywood strips wrapped in waxed paper and filled behind them with epoxy, chopped glass, 404 and silica. The waxed paper comes right off. A support frame built and the trim frame back on. Dry fit of the frame around the companionway, and the front hatch trim sanded and pre-fitted.
+The main cabin hatch: its inside trim had been mounted "in the air". The screws were just in the frame, held only by silicone, with nothing to screw into. To fill the gap I temporarily mounted plywood strips wrapped in waxed paper and filled behind them with epoxy, chopped glass, 404 and silica. The waxed paper comes right off. A support frame built, and the trim frame back on. A dry fit of the frame around the companionway, and the front hatch trim sanded and pre-fitted.
 
 ![Main hatch trim mounted in the air](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYmST_FzzvcRWinvqFWq91KekEe0R3YZmFAP6eZ5GabOGadq2PqQtPXYrvHJtgzb57b3LaM3TzDWdj785PWHgep19PXn7A7n6L0gPrj0dIamiwLxETxNpIc5i04D4E_0IX0c6GgA8BTapWiHq6tK_IKbp7sc2xBZNc-iKsTUwPliCTXVv1S4MlPyon6bM/s1600/IMG_6297.HEIC)
 ![Main hatch trim mounted in the air](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgdXxdWgQO574Wg_h891SPQZHl2H9weeln-BFco_Jo_10TYTly4PMYAciNDNBX6gzJcmui8icHWNptQqteZGKIESMDsn9K5w447M5kXprXlytSO3lv8sT2ytAJ7N0WP1xr3xveUb9a-xFpCRTsHTD6EwFxS1t3xOYpT06N0-ZQ3xLu64J1UaURJjZa-WOv/s1600/IMG_6298.HEIC)
@@ -464,7 +463,7 @@ The main cabin hatch: its inside trim was mounted "in the air". The screws were 
 
 Diary: [2 Sep 2023](https://irwin34.blogspot.com/2023/09/day-106-9223-interior-work-8-hours.html)
 
-Then sanding all the primed surfaces for paint. Primed plywood for solid color feels smooth like plastic. All sanded, everywhere the random orbit sander reaches.
+Then I sanded all the primed surfaces for paint. Primed plywood for solid color feels as smooth as plastic. Everything sanded, everywhere the random orbit sander reaches.
 
 ![Primed surfaces sanded for paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5Rh5DigA82bMkvkpCXZsi_60mqnki3fwIMDtXizDmAE0O8C06TmLMFHKdHcaXHGXbpYIVhB9ii2XDm8dKggNp5aPUfG_GXzbAt6lrLNBP5XW_ZV8rID1TnOFyWoZ7w7GH0RvTeXdVQ9PU9pnwKx_POWiRgjDuY6vTbuGBUEsl9dsmwdr10U65leMHi3Tg/s1600/IMG_6309.HEIC)
 ![Primed surfaces sanded for paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgsF6w75h9ZgGy022gcaS0i9UIn3YQcq0XphUW8cyiMdYFWVPQ51MkR-ifsoWRGl4VA8cayuoxIrugxdo85pjOVa1X4eyNJUmHRLxGjC0Fw4_ekVdBuzyNzq23pmPL7qaKWKqkQNUIz_L7cnzYMfMJqy9bPHhMoftSHSPaL8-85Z0dhBO6x0cza6bOr-9d/s1600/IMG_6310.HEIC)
@@ -475,7 +474,7 @@ Diary: [2 Sep 2023](https://irwin34.blogspot.com/2023/09/day-106-9223-interior-w
 
 ## Trim
 
-Trim work all around the interior. A problem: I had no corner trim for where the cabin top meets the deck inside, and it's pretty expensive, like $40 for 5 feet. But I have a ton of teak strips from 3/4 to 1/4 inch, so I can use two pieces. Two strips actually follow the corner shape easier than one solid corner. I glued shaped blocks to the back of the cabin top's inner skin so the trim can screw on from below. The idea is that the ceiling panels come off, for access to the underside of the deck. Here's a diagram of how it goes.
+Trim work all around the interior. A problem: I had no corner trim for where the cabin top meets the deck inside, and it's pretty expensive, like $40 for 5 feet. But I have a ton of teak strips from 3/4 to 1/4 inch, so I can use two pieces. Two strips actually follow the corner shape more easily than one solid corner. I glued shaped blocks to the back of the cabin top's inner skin, so the trim can screw on from below. The idea is that the ceiling panels come off, for access to the underside of the deck. Here's a diagram of how it goes.
 
 ![Trim work around the interior](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmWnguk3tEbmR3BULMEd8-UxHWeveZ3rWsJTzQ4erVYzr1YPQvCEx3W7mvye5obwpz_ZTU3F1EqBupNBodyxF6UiWW9vP_-rGuCGGsYn6Fz0Bw-aEtIvjnQ9vsdCy0syvPiDBgccd3XLwaghyTEAgnJul3aD4k0vfMKrDqNZ6Q4ghNdr4dIbsM1DG8PBtW/s1600/IMG_6315.HEIC)
 ![Shaped blocks for the corner trim](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2PWYTXD5HVE_AuWX0y1ui5BMmR9Y6rQMDU_ygZcB5tjuB775n3bX1EB0ndxrjDadPUB3krOCDIJlD7q8LF3UPXXlUFluiPR-0OOmkq90lf-UZy9gthpQ7trVxT8XmYnXX90U55nUPAfXCKrGWGM6dvG5zYFvYYwS5V-T4eT1RQfiC3Zwtrp4GWeuLqTfH/s1600/Untitled.png)
@@ -483,7 +482,7 @@ Trim work all around the interior. A problem: I had no corner trim for where the
 
 Diary: [9 Sep 2023](https://irwin34.blogspot.com/2023/09/day-107-9923-interior-work-8-hours.html)
 
-All the ceiling strips in, including the "arcs" holding the 3 mm Sintra panels (pretty stiff but light expanded PVC; bent one way, it holds its shape the other way). The arcs are 1-1/4 x 3/8 inch teak, and the perimeter trim is reused original wood. All the ceiling trim is on screws so it can come off for access. The front cabin, and the head ceiling in progress. I found an original piece of trim on the left wall. The ceiling over the mast wiring isn't in yet. On the port shelves, all trim glued in place.
+All the ceiling strips are in, including the "arcs" holding the 3 mm Sintra panels (pretty stiff but light expanded PVC; bent one way, it holds its shape the other way). The arcs are 1-1/4 x 3/8 inch teak, and the perimeter trim is reused original wood. All the ceiling trim is on screws, so it can come off for access. Here's the front cabin, and the head ceiling in progress. I found an original piece of trim on the left wall. The ceiling over the mast wiring isn't in yet. On the port shelves, all the trim is glued in place.
 
 ![Shaped blocks for the corner trim](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixtkNDK9FqWzUbEwq5MWPCjj-HQTOaZT8RHYzcmpyDhNftsuaKDfSMGSjDcw25f4boNNbJ91Cffi7A456TIkR5J6oXbA08L1-kOZdliecQaDsuOUXA989IOfJHof9Rq_ebCbNKxug6IO_yITrTnU8MtsihtiacNyN6SUjRpkR5lCRoVBsPnb6Cx0vESFtX/s1600/IMG_6324.HEIC)
 ![Ceiling battens and teak arcs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiWTPpd5OsPv7WywnMsIdf2w82Gmv0PItffsMNuPH-ICu7J_YFU18vOh1Pc32jlUj-v0Gts2DLBXp7nZzTp7JO5a7nHvGrpPYNNqLTBA0MS_Ytw98P7lyOGnJGODWhlMmZZHihCXCFofnaKJqCjL2ItMxiaat5A-Eh4hgqunJ0UlMrhXa67lFEi4W_Mpe4/s1600/IMG_6325.HEIC)
@@ -497,7 +496,7 @@ All the ceiling strips in, including the "arcs" holding the 3 mm Sintra panels (
 
 Diary: [9 Sep 2023](https://irwin34.blogspot.com/2023/09/day-107-9923-interior-work-8-hours.html)
 
-Lake Travis still shrinking. And a bonus, an evening marina picture.
+Lake Travis was still shrinking. And a bonus: an evening marina picture.
 
 ![Lake Travis still shrinking](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOkvKaEJykRN_1h36ogrMG4yo91oc1O_5I_0SIarScRRgxdKvjlN39L4KXYkDPn1cqAjizYPGMr91-rVWP5frUSMZPttVT_WWo_niybXkLJTUaEoMrUlAiVNh9cCCpQR6BgeglMHzS5jA60DPQnSsfZwtWsP3PhlXhQLhLz9UoOTStbCjnnRKbVpx3BJm/s1600/IMG_6332.HEIC)
 ![Lake Travis still shrinking](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWPKagITzK36wVBnzkG3251b5TOMmcHAppnLZ29t5CI8-XB-wXPE6GbYHz4OdLjmvU8w-3TPIkQkx2YijSsjzGyS1_VjW0EAc3-0TPr8aFCK6SYHbrk1P3HXtIaRcAXL50-FH12mY8FhbfujI3Jz0jCooNdwaHiTKUDvLdAf_DJWNffQJQRO8PmPOQqzTz/s1600/Untitled1.png)
@@ -511,11 +510,11 @@ Diary: [9 Sep 2023](https://irwin34.blogspot.com/2023/09/day-107-9923-interior-w
 
 ## Seattle Blue
 
-After a month of prep and two weeks out of the country, we finished painting the galley cabinets and the main bulkhead. I painted the main bulkhead on the main cabin side to make the space look bigger and match the bulkheads: the port one is original teak veneer, the starboard one is new with mahogany finish. The galley base cabinets got an accent color.
+After a month of prep and two weeks out of the country, we finished painting the galley cabinets and the main bulkhead. I painted the main bulkhead on the main cabin side to make the space look bigger and match the bulkheads: the port one is original teak veneer, the starboard one is new, with a mahogany finish. The galley base cabinets got an accent color.
 
 Maria and I spent about 3 hours cleaning as much dust as possible: vacuuming and wiping every surface in the main cabin with a wet rag. Trust me, there was a lot of dust.
 
-Then two coats of Interlux Brightside (one-part polyurethane) in Seattle Blue, roll and tip like the head walls. The only difference: I bought a Redtree 2-inch badger brush for tipping. Not the cheapest on the market, but it paid back every cent. Two coats about 18 hours apart, tape off after 24 hours. Done. And how it was when I got the boat.
+Then two coats of Interlux Brightside (one-part polyurethane) in Seattle Blue, roll and tip, like the head walls. The only difference: I bought a Redtree 2-inch badger brush for tipping. Not the cheapest on the market, but it paid back every cent. Two coats about 18 hours apart, and the tape off after 24 hours. Done. And here's how it was when I got the boat.
 
 ![Galley cabinets painted Seattle Blue](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtLEFjH0KxgbegP8EZcME_qbITlBlqt_USMs_o-G-lXL6EmykJ-qWDuqTjA9KdaPQpXdnAVj9mEYOoUw-HlScNkqejFmdhSEUBtTaZ9Yo517d4TuKH2vJy0GZempkxAz9KEE3Hv3GzxF9HGTFq7k24iVTIGqvMhYpszoK6UPh5pVtG0LA__FC9oTYrL5k1/s1600/IMG_6633.HEIC)
 ![Main bulkhead painted](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Q0b9HkljDPX5Yc8ZqSMGOLpK7T68TATfJHp3mS3k3uy46M95VwaW8xhNjz2OZk5-hW6kn1u-Nvbzsg6sO24kvqtwgU3XzYy7q7C3WMVWkoFXl7AhMDmhXmxCQx0F0MTp33tCxrmafXb7_wx6PmXmYHo5-ksse4_mZdEAfLdjVqixNgBLPjldu76byPEH/s1600/Untitled.png)
@@ -531,7 +530,7 @@ Diary: [9 Oct 2023](https://irwin34.blogspot.com/2023/10/days-108-107-and-10823-
 
 ## Lights and the last trim
 
-Trim work done over the main cabin, ready for varnish. Main cabin flood lights on both sides, 10 W (0.42 A at 24 V) LED each. That's a lot of light. Each has its own switch, and the whole cabin dims down to a real sleeping-light level with the dimmer on the panel.
+The trim work over the main cabin was done, ready for varnish. The main cabin flood lights went in on both sides, 10 W (0.42 A at 24 V) LED each. That's a lot of light. Each has its own switch, and the whole cabin dims down to a real sleeping-light level with the dimmer on the panel.
 
 ![Main cabin trim ready for varnish](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOaMM6rVRiyLXgfW5Oz7Wjb8nPDZQ6Apos9Dps06BmD2odaJTMqIMj1CZ3D_Qtq3PwhsXki5CHpgAYWDLWDiBB8mEfVmn3tM1kziQdcJ4eBZA5mEOoNk_vK5EzqqNC2N9r4XlPxbSAuDY59AYQSygcxJsI1BlK_1nhoukPZcTuMVSRJweSflKzuR-DWXkU/s1600/IMG_6659.HEIC)
 ![Main cabin trim ready for varnish](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d8VwronweYD0ziIVzj3v2BoQS-ZBBSGDnpumnxYYbvJedOLYTSPzmdeAjQ6WrV8E3Zsp2ygWcofbIHq13BV-aibdZUildXe1LHabJz7NYAbgp8-RNU7x2dPeUmP_KZj4d0dVLwc70bXmc84e8bIPaR76aDlz-dQtzhxtAEJmgni_iPc98Ndm9LBS9J7M/s1600/IMG_6651.HEIC)
@@ -555,7 +554,7 @@ Early morning at the marina.
 
 Diary: [14 Oct 2023](https://irwin34.blogspot.com/2023/10/day-109-1014-main-cabin-interior.html)
 
-The front cabin: wiring finished for the V-berth reading lights and a bright overhead light. Trim around all the corners and gaps. Closer and closer to varnishing. Some details, starboard and port.
+The front cabin: the wiring was finished for the V-berth reading lights and a bright overhead light, with trim around all the corners and gaps. Closer and closer to varnishing. Some details, starboard and port.
 
 ![V-berth reading lights](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoC3NDa_uvyWltgd2dAb4IJulk1XwjB1yeM5xIjS4PYnlELnh_R4iQeAD4sqS9oQnuWziI3u_HJ4ZDCball8jHwZYTIqt-mUugYjh6F0_rDcEcuLztp9DjqK7LifB3lwUM1UmGNNTgxLkiBvzNaN-dypaHyZ91LoBCPLr_TRbDWyanJ1sSM97eIqEQeu7C/s1600/IMG_6697.HEIC)
 ![Front cabin details](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB80QTa_EbPoTjSaBHKf_zY-BJCydDd7AGi4IiJtLbSKmcTASnEhfrWhaEcY1fwz8cce9i9IRfHTlN4tf9RE29_Qhg3go23Amb-I4bwq3TPbFz8eA1TlKP2DbhqLXted3GTadSOUyV1F6HRvosbG5soKB7Gp1Ofj75lTYedRkTi-xrupV_Yz7uiY8uKfWE/s1600/IMG_6700.HEIC)
@@ -563,7 +562,7 @@ The front cabin: wiring finished for the V-berth reading lights and a bright ove
 
 Diary: [21 Oct 2023](https://irwin34.blogspot.com/2023/10/day-110-1014-front-cabin-and-head.html)
 
-Then I primed the sloped ceiling panel in the front cabin to paint it the same color as the bulkhead, made a template for a backsplash on the front cabin cabinet, and worked on the mechanics of the folding head door.
+Then I primed the sloped ceiling panel in the front cabin, to paint it the same color as the bulkhead, made a template for a backsplash on the front cabin cabinet, and worked on the mechanics of the folding head door.
 
 ![Ceiling slope panel primed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUIMKxmoNNxrM01j_p4BWeceH7ozchnAYM_J_Su6cbNg3HyrQYk3M3MS7CxokByOM8Vo6wec9hQw5h4xYZ1THtGcJHJV1PmHNjjYnih4oZoledBN45eZxBIVcq8DxrEWPjwjFWaqr7B7S0D0-IpL-PVggv1wHgFr3md9T8LiI7Y_jSXWSmM6T8lEQZd8bw/s1600/IMG_6725.HEIC)
 ![Backsplash template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2R564DWYKtPMrGHXcg7Lj3POPlMVnxagFFo_U85RRRSZaPJHLWXE6pjSoe2mZJD5Yqm7LKGro_3dEzEtuT4_iD4d5STZgOcJD9a4twPHOrPUV4C8F_0IvneOIu5XvT0pf5XTt0BRMbyEuSvCTlnfrKrK7kePmqCoUlc3hKeAtJSm3fLyXi8qmEAiGCyh8/s1600/IMG_6723.HEIC)
@@ -571,7 +570,7 @@ Then I primed the sloped ceiling panel in the front cabin to paint it the same c
 
 Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-surprise.html)
 
-The second coat on the front cabin ceiling slope. Not much work that weekend: family commitments, and no electricity on the docks.
+The second coat went on the front cabin ceiling slope. Not much work that weekend: family commitments, and no electricity on the docks.
 
 ![Second coat on the ceiling slope](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW3NTk3vrbvSVLN2b2HE5MNWts45lX1q6cWz7kk_YLT-1Z7FKN2flSSRUFv7380jm3LA4i60sm1x_rzg2V10fQyACc_MUXHjrJ6KcGYOY2L26X0JAzw6YZ6NnBRViQsmFv_emRJNqsmNFXzUVpqlD-UVNWVI0Jnk1OUewsp0L0q4FaHOx7zBWCzL_a8TMY/s1600/IMG_6767.HEIC)
 
@@ -579,7 +578,7 @@ Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electri
 
 ## Varnish
 
-November 2023, the main cabin. All the finish nail holes patched and the trim sanded. Paint overspray cleaned off the edges where wood will be varnished. Masking tape and freezer paper everywhere else. The outlets and the electric panel come out when it's time.
+November 2023, the main cabin. All the finish nail holes were patched and the trim sanded. I cleaned the paint overspray off the edges where wood will be varnished, and put masking tape and freezer paper everywhere else. The outlets and the electric panel come out when it's time.
 
 ![Main cabin masked for varnish](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipSz7ABk79_WN6ZQciZb68b_8Oorn7XH-oTo90DJyU0rL92twPoCJgwbQALnVEAYyy_G2eNg9prguhqzhrPl6hy-HuIbMb9cZvd7pNZLgqhXJzzLwLhgs89gafErV2UXHPxm07KxWRgWFjV19OXG7Ec4hisIv0VrcQ24wnLAWUUR0y5-BcSgv2sapBus_1/s1600/IMG_6788.HEIC)
 ![Main cabin masked for varnish](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhISvxUm-NAiuOrZ86iPPY3Zd1vGtHZyvWODO2t-BT1IZSsiykE6E5ytTe0mSOHDin5Iq5YO62SPiQD3KadPdCR3P__UwXsBTPMJWR62SEwxxrjCdEUjBHtzATMojS6Izj2_J6fUbP7L_Sxl8r_c6H0DzZ4qVVqgNH4lDzWaJ4_PmRUs5ziZSEvgKdhpzQb/s1600/IMG_6789.HEIC)
@@ -591,7 +590,7 @@ November 2023, the main cabin. All the finish nail holes patched and the trim sa
 
 Diary: [11 Nov 2023](https://irwin34.blogspot.com/2023/11/day-113-1111-preparing-for-varnishing.html)
 
-Two more coats of wood sealer on the plywood and two on all the bare wood. All the trim is recovered original teak, and the new panels are meranti marine plywood. After the first sealer coats they took on different colors, which makes nice two-tone accents. Next week, final sanding and the first varnish (Gleam 2.0).
+Two more coats of wood sealer went on the plywood, and two on all the bare wood. All the trim is recovered original teak, and the new panels are meranti marine plywood. After the first sealer coats they took on different colors, which makes nice two-tone accents. Next week: final sanding and the first varnish (Gleam 2.0).
 
 ![Two-tone wood after sealer coats](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJWc2NwlVmbaDT_0cIuJfuH3lC5IAAIRpD3W_qkeCVWvxcOg-FMPK8Ern6tQvgy_bkqYW3sbSYR8Ox5mc4kqWDUr7XXXhADSzpp_Qyr3tEpfeIWdRHMryDzU7E_cEdDrsXxA04Hm1tSYbLvidfY0ZBz3EcwrGRpeYFPqOo_w_wOttk1mTpgDkh2bOgYToM/s1600/IMG_6837.HEIC)
 ![Two-tone wood after sealer coats](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnr-lav4RlURCsZHV5hcPh8xGoG8SD96wILfzWf5wd_HGHeS_YO6EKxXmzew-jkcf36JxUJwZqaAUU3ZaWyGiL9uZSu5bv4l9SEko5WTvhtkjmRJ0A7ECd8PsQ49UVKJSPlmO1KgHu57Q9i3bBrlDb7YW3r4Xg4DodOkS6SS07PPLujdT3v-H0zpEOrxK-/s1600/IMG_6834.HEIC)
@@ -600,7 +599,7 @@ Two more coats of wood sealer on the plywood and two on all the bare wood. All t
 
 Diary: [17 Nov 2023](https://irwin34.blogspot.com/2023/11/day-114-1118-head-door-dryfit-priming.html)
 
-Varnishing the main cabin. The temperature dropped a lot, so a small heater on the floor and a 20-inch fan pushing air out the front hatch. Coats one and two: 1 hour scuffing, 1 hour cleaning, 1.5 hours varnishing, 6 hours waiting, 1.5 hours varnishing. Monday, a third coat of gloss. Then satin on most surfaces, because the gloss looked too busy.
+Then varnishing the main cabin. The temperature had dropped a lot, so a small heater ran on the floor and a 20-inch fan pushed air out the front hatch. Coats one and two: 1 hour scuffing, 1 hour cleaning, 1.5 hours varnishing, 6 hours waiting, 1.5 hours varnishing. On Monday, a third coat of gloss. Then satin on most surfaces, because the gloss looked too busy.
 
 ![Varnishing the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd-_UxGvpWL8ApGnjZRn6reaWAON5SxSfuuwlo0SGMVs_ToXFz_0kMAUEU6G9lclCGqWoYCpJ-qPA6eco2uAAh6ePlrVV4YUfaJfya_AQA9cz2NydVbShn36VbKiWdBrFl2IiLTblpQBUq0Gv52Wd7OFY_WFf1LsAqqIulwPbHWyMPr5SKPsOBqBwisS0e/s1600/Untitled.png)
 ![Varnishing the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamlrf-G1yeXtWgGF2QrPIwaxgouQvZj0lq-NrjzqzgUzrufqZZSFySsthISLcwrCyISMczD1tzj7w2MngUz_FAB95tkNWWrByfh0XFtInsjP0W79gMeyRqVMOMwLtlvhC2GhYCyKCebwt17vY974XTp2rF1K4aXHaUi3Hsq0YLIpYW516IrIrKNzlX_aF/s1600/IMG_6945.HEIC)
@@ -610,7 +609,7 @@ Varnishing the main cabin. The temperature dropped a lot, so a small heater on t
 
 Diary: [26 Nov 2023](https://irwin34.blogspot.com/2023/11/day-115-1126-main-cabin-with-wood.html)
 
-Here's what happened. My Gleam 2.0 was actually satin, but all the flattening agent had settled to the bottom of the can, and I didn't realize I had satin until I read the can. I'd used the gloss top part for three coats, about a third of the gallon. If I just mixed it all back in, it would be "overdosed" with flattener. So I did a trick: I carefully took out almost all the liquid, mixed the settled flattener with the little varnish left, took out half of that goo, then added back half of the liquid gloss and stirred. Now I have half a gallon of satin Gleam, 200–300 ml of gloss, and enough flattener for another half gallon. Pictures after the fourth coat.
+Here's what happened. My Gleam 2.0 was actually satin, but all the flattening agent had settled to the bottom of the can, and I didn't realize I had satin until I read the can. I had used the gloss top part for three coats, about a third of the gallon. If I had just mixed it all back in, it would be "overdosed" with flattener. So I did a trick: I carefully took out almost all the liquid, mixed the settled flattener with the little varnish left, took out half of that goo, then added back half of the liquid gloss and stirred. Now I have half a gallon of satin Gleam, 200–300 ml of gloss, and enough flattener for another half gallon. Chemistry in a paint can. Here are the pictures after the fourth coat.
 
 ![Main cabin after the fourth coat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-1Tc34SsNUbKpjywrdsi7VWm5emSWdQwpRCIsR0uuyYj6bB6OydIApRtL6OqdWxJ5AXivruA2BUsiWg0-zh_jYpP5esbn60dbppLtO_jX4lysiiJopUCbK7Fe-_Od1PtyuMYYglG-IbBVQS2JGkU3GvRFilZvM2sQGcZ1ZXDBQH31yH2kO7r2kQB7dL3y/s1600/IMG_6952.HEIC)
 ![Main cabin after the fourth coat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP8w6FyDa70GFw7p-jUhUsHMmgZ3ilKR62yOAd0zyk9GJEusCcFAjQJDsIj9-Y1TJ6bfusrcOn4Xn-WIDpQcp53NI0DKic1igxwbI4GylRsH3_ODKRVYB-ULMxgz3PM511L03xRIPrX88PPrG7r4E3jpnP6xj3ks05j1qmf88uwD9r2eEighMvGj9UxOOu/s1600/IMG_6950.HEIC)
@@ -621,7 +620,7 @@ Here's what happened. My Gleam 2.0 was actually satin, but all the flattening ag
 
 Diary: [26 Nov 2023](https://irwin34.blogspot.com/2023/11/day-115-1126-main-cabin-with-wood.html)
 
-December 2: masking tape off and everything put back. Main cabin varnishing finished. Enjoy the pictures.
+December 2: the masking tape came off, and everything was put back. The main cabin varnishing is finished. Enjoy the pictures.
 
 ![Main cabin varnishing finished](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnz1mv66maupymYS09VSIkwV0vyzzm6oHVtd1xrAGmLRDHSiHcB5OqOMrdxijUHu_rtcxcQ-oCw5-IecviFdLQz7wWfZiHBiDUMw8RVkebCGR5qxHMIoTa7ob5ppTzTUQ1Qm0iWu-sXJ9BL2PVu2fTGe4EAHK-26XCRljhsKLh66gAAurwSXumrReIIZE-/s1600/IMG_6980.HEIC)
 ![Main cabin varnishing finished](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWixmSrh5fpUv5ys2hIRAIXUOXt_ZMecwht6jj7wmkIRQ62IsciXeDq5-m9plY-kVRbX3K1jipZwumv3ftolFMRLgljZ3wbW8hTCyd7Vl2SobQbZJKc6FsZe-4sEqWnSJR3jSVG9l58iJIXmKbvJJQ8v5N94xceXZo-KuC_KDXQHKNULRQKEOi7xW-HbOi/s1600/IMG_6975.HEIC)
@@ -635,7 +634,7 @@ December 2: masking tape off and everything put back. Main cabin varnishing fini
 
 Diary: [4 Dec 2023](https://irwin34.blogspot.com/2023/12/day-116-122-main-cabin-wood-varnishing.html)
 
-Then the front cabin and head. Dry fit of all the wood parts, cabinet tops and drawers. Most of the removable trim, the head locker doors and the door went home for primer and probably varnish there. Everything sanded, vacuumed and wiped to kill as much dust as possible, and masked. A lot of cleaning. I also fixed a leak under the galley sink: a clamp on the PVC hose by the pressure accumulator, and the accumulator's own screws weren't tight.
+Then the front cabin and the head. A dry fit of all the wood parts, cabinet tops and drawers. Most of the removable trim, the head locker doors and the door went home for primer, and probably varnish there. Everything was sanded, vacuumed and wiped to kill as much dust as possible, and masked. A lot of cleaning. I also fixed a leak under the galley sink: a clamp on the PVC hose by the pressure accumulator, and the accumulator's own screws, weren't tight.
 
 ![Front cabin and head dry fit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnkM1EpK5q1TTdw4Ow38esy0WBabnWnyvHkUa5eakp1Jf4Xedn5d8skJTHGCGgq15qH0Y8UXOGl3WIy52hd4paYwICgVRi5ez9CHsDzf0O4EjC-WFfm3l7oxYV9C4MzDVhKSRJyf-abrfVzB350XXKjPXgsHf4Ewl5bKLI9NmniRWc683ZnplNVA8jM5yE/s1600/IMG_7016.HEIC)
 ![Front cabin and head dry fit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm_RB_Ml8G7GFzUKVve6Yw0eZBpouE50IfIzUOsWHjduVRXkqvp1FgxjoPqn8I6UWd1uCodIkMDW9Kl7U2a3gFu2A6AUy0-eTdhQ2rpSk1fdy8ZJuSg9Np0WHBp3lop4tkEKbLFW-yriuYYxsdXGTRgsXGzEo04uQV016dEdJio5sc93X9UHX-egrald6C/s1600/IMG_7017.HEIC)
@@ -696,7 +695,7 @@ New year, and back to refreshing the gelcoat: sanding with 120, 320 and 600, the
 
 Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-year-8-hours.html)
 
-Companionway steps refinished, with new teak mounting blocks. The engine room access door over the steps completely rebuilt. A small 1/4-inch Lexan door to the "inverter compartment".
+The companionway steps were refinished, with new teak mounting blocks. The engine room access door over the steps was completely rebuilt. And a small 1/4-inch Lexan door went on the "inverter compartment".
 
 ![Companionway steps refinished](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdf4AEK40bBWD6Zm2gxODyItulKAFxVK8YLK54US1PYUe0xG-pPSdHS206ijhOePzMGQnd1f5_WxmQQLFdFHEj6Wg-FqxtixGO2Wg77QHM2B28yXCH98mTl4O1SLaoGeqsPn8L7x898sbouW6L_PgVbIabyDza8TzykQgBKwFcvOOHrpvd5rWywV0uGjAw/s1600/IMG_7261.HEIC)
 ![Lexan door to the inverter compartment](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTPh3Q-veLCDXnkbv-1QSshEHmyE7-xcWqtC92EoKAmMG3uCVmeq88dbjefFFPN2IwK6kZs7TTiJLYUQd5Ph3iFRN5hmfNYeKnX-vYgbmR90GZMxdxNs04tE1zC6-7T6Va3zAMvEQT39e3CYqacmjeakz4_u0cJmxk_tpIsNO-0DcR2rj924IJz386V8bL/s1600/IMG_7277.HEIC)
@@ -704,7 +703,7 @@ Companionway steps refinished, with new teak mounting blocks. The engine room ac
 
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 
-A cover for the back of the cockpit display, from tinted acrylic painted black on the back. Looks good? I can use it as a mirror. And a small plate under the countertop over the hole where the LPG switch used to be; it's on the main panel now. Handles on my locker doors: not quite the right color, but the right shape.
+A cover for the back of the cockpit display, from tinted acrylic painted black on the back. Looks good? I can also use it as a mirror. And a small plate under the countertop, over the hole where the LPG switch used to be; it's on the main panel now. Handles on my locker doors: not quite the right color, but the right shape.
 
 ![Cover on the back of the cockpit display](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2EjoZGk9LeHzPtZGhFE6d43sDRhkFxBhw9GNBYys666Sn5PU2mZxFspmeXC75f2a6RxtHcEOmrsu6BbD6GDs0OxrBxELBsWgsyWjNtuU173yfbkOZdSvQHjFe28-tS4_zldM1pHSHQiV6jpvJ0cwlixIRy4uJj4pW9sL4VdFgFEFr6fqe763_v_-UDeJ/s1600/IMG_7363.HEIC)
 ![Plate under the countertop](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOfBEqgnf4O1-vBHJ56m7xKIJ14JookmaSNpLKacjVPkty_sLtjgplScmGK4Hxn-Vnod9OomSDl-uqzsfI-jbJOgX-iapfpkQPAEftuZcv7Ek3Itz79rNZuiRl6A83wxm2xm4fBlsr6WDrwGHwl5joDyS-MF1SJkdrC2B_P3f9VZM0LjQtBsC_xT7nHBzX/s1600/IMG_7336.HEIC)
@@ -721,7 +720,7 @@ Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-
 
 Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-painting-preparation.html)
 
-January 2025: a handle on the refrigerator lid. Insulation at the end of the pilot berth, and a dry fit of the plywood panel for the inverter battery cutoff switch.
+In January 2025: a handle on the refrigerator lid, insulation at the end of the pilot berth, and a dry fit of the plywood panel for the inverter battery cutoff switch.
 
 ![Handle on the refrigerator lid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOBFYcUGfxg0D4ksJ7V1lXntliO1gXVFfzted7gyeQGZI3gOxGeIOomteQ0QkzRuhIV4dAPD8D9pJ71q3mniH4q2QCfEzoLnAXwrV_FTZ3Y9jn-AvIcBkElE64mxt6KcDklJz537rNC5kjYoA3YB0568nPMd3buoUdTKLEWRiIT-HJd7w1Us6HGP-b0SL1/s1600/IMG_9776.HEIC)
 
@@ -730,7 +729,7 @@ Diary: [19 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-sa
 
 ## Time to show the interior
 
-December 2024: welcome aboard. Almost all the plywood in the interior is replaced, except the port part of the main bulkhead, the walls around the head, three panels in the galley cabinets, and some solid wood trim. A new starboard main bulkhead. The floor is high-quality rigid vinyl. All the white gelcoat inside lightly sanded to refresh it and remove "oops" epoxy drops, paint, and 46 years of weathering, then polished and waxed.
+December 2024: welcome aboard. Almost all the plywood in the interior is replaced, except the port part of the main bulkhead, the walls around the head, three panels in the galley cabinets, and some solid wood trim. A new starboard main bulkhead. The floor is high-quality rigid vinyl. All the white gelcoat inside was lightly sanded to refresh it and remove "oops" epoxy drops, paint, and 46 years of weathering, then polished and waxed.
 
 ![Vira at the dock at night](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJxv3zOdjmjyYwCNyPcHrbMZFlJ-mMOzVi_pyPjr3mq3FG7ux-2_fjj7B9aBSStYzE9OPWYBH6Yg56ClJ7VDpm3SLWGsiQKp5kb8b3o-7YDBjOI_HueQ2snWMUbRwzPElerP40TFLONmm-KO_vYbMnPGatIGe4lHozAnWgfCwu14SC0itGQUTMHAFp3Mz/s1600/IMG_9581.HEIC)
 
@@ -743,7 +742,7 @@ The galley: a new countertop, completely rebuilt cabinets, a drawer under the st
 
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 
-Starboard: a closed storage area, the shelf split into three big lockers with roll-up doors sliding up. AC outlets by the main bulkhead and near the galley, to spread the air more evenly. The fuel tank under the settee completely rebuilt and glassed over so it can't leak from the top.
+Starboard: a closed storage area, the shelf split into three big lockers with roll-up doors sliding up. AC outlets by the main bulkhead and near the galley, to spread the air more evenly. The fuel tank under the settee completely rebuilt and glassed over, so it can't leak from the top.
 
 ![Starboard lockers with roll-up doors](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcxb0qQMbRCRH-cCJ72WAuxuM8WFasucPAlQGByJe_3w4utTRxP1FunWeDnD0okD3Asz_T1ROOv2oKHDNyznZMSZTrNkwZWM8q36CzTNnaaA1v_DkJBKJay7rKfO9CyE56mI4EW6KkH85DFyMkWT5pdNgxXnKKKkX3XPgZ6xaKX8q0URQU9yr6fX7QKtT8/s1600/IMG_9568.HEIC)
 
@@ -761,13 +760,13 @@ Looking back to the companionway.
 
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 
-The front cabin: the starboard cabinet rebuilt "inspired by" the original. Sadly I had to give up space in it for the HVAC unit and air distribution. The water tank under the V-berth rebuilt with a plastic lid too. For now the V-berth is storage for tools and materials.
+The front cabin: the starboard cabinet rebuilt, "inspired by" the original. Sadly I had to give up space in it for the HVAC unit and the air distribution. The water tank under the V-berth was rebuilt with a plastic lid too. For now the V-berth is storage for tools and materials.
 
 ![Rebuilt front cabin cabinet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkouCkuWONbkYtKcnZOI_tK-U3Lpgfped8zEwkhae5dmsYNJqM2bPIbrjBYJ8wdOdCcPQUp4fjhhSjuhvOSteprOa8xd1jScDboxjYBEga5kD3H4cE5hZm7h4ug_8T7gGyEj-UMi8g1aQsShD7KAQw0aeK08yEXTgA59io0zPpmIssEKJic70FKBMBOCg/s1600/IMG_9571.HEIC)
 
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 
-The head was rebuilt a year before. No magic: all walls glassed to the floor to make a real shower pan, and a porta-potty for real emergencies. A view from the front cabin, back.
+The head had been rebuilt a year before. No magic: all the walls are glassed to the floor to make a real shower pan, and a porta-potty waits for real emergencies. A view from the front cabin, looking back.
 
 ## Almost done
 
@@ -777,7 +776,7 @@ June 2025: the final view of the main cabin.
 
 Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
 
-July 2025: the thermostatic shower valve went in. The button opens and closes the shower, and the knob should control the temperature. So far water runs and nothing leaks. A glance under the sink: the hoses have a synthetic braid, hopefully they won't fall apart fast.
+In July 2025 the thermostatic shower valve went in. The button opens and closes the shower, and the knob should control the temperature. So far water runs, and nothing leaks. A glance under the sink: the hoses have a synthetic braid; hopefully they won't fall apart fast.
 
 ![Thermostatic shower valve](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZ1rr1j9y90iifVkwXZeVANyRnWMQ2llkYnhGYq9IJuzzbt7JyVkRLtg7ApWZ6KBSizKMrgYPi5iy3Waj051o97MUk1sKQAtdgpKs2UwqDMy3yfYSSklfOtTDKIaxEGJvT_JrkLk1LJzneT2T5EljUipkF2aQeuYD3vT3DCoTtMmRZIrJsB_ufTEHpAyI/s1600/IMG_0975.HEIC)
 ![Hoses under the sink](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEjPEfhMd_kzdKlKoJweedXTI9nnLNAFd4VcAyw9dZlBYTunXsD1vefrh47Zvr8keR1sl1OjXAi3oF-ytmXbDuQPNTamwkF3NryNjxJIaI3v5lJOvt8kdY8ib-bR3ArUnYp2QHTxEfV8vgNxZnjzfrAM6sNjyxbrh57LtMAZBO9NmBec-E0FYBe9tpWIt0/s1600/IMG_0962.HEIC)
@@ -790,14 +789,14 @@ Last touches on the fixed windows: the frames painted black inside to match the 
 
 Diary: [5 Jul 2025](https://irwin34.blogspot.com/2025/07/day-206-rainy-day-shower-thermostatic.html)
 
-The V-berth: I rebuilt the triangle insert and made a cushion for it. I put hinges on the bottom locker of the cabinet and found the opening can work as a step up to the V-berth. Even better would be a step that slides out when the door opens.
+The V-berth: I rebuilt the triangle insert and made a cushion for it. I put hinges on the bottom locker of the cabinet and found that the opening can work as a step up to the V-berth. Even better would be a step that slides out when the door opens.
 
 ![V-berth triangle insert and cushion](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiBG6x7kdmTE2IfQ9MoPZzxQM7Fxsoq5WedH_P7ZmzQ5HPaYgrnkONZjU6L0VAEnczZj4ZoYGAf9i6nhycVxifuaSRw0IXusVYIm5LCGWbJL7HZNibIN5afnKvW6e5y3bcl4miaf59XPP6BuP-pohLThRKgnmj1mh69FVmyqKM8rqI05syUEo3IXq8lefr/s1600/IMG_0970.HEIC)
 ![Cabinet locker as a step to the V-berth](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FljwouqWjVH03pfNUX3qV-7QFZ68CEV4MiQbi6a48NIeutO5MBgLPMrx52qtzCBOsn_xeM46w0RXuq-CezexAGGpJlc-nKIKdXVd_LYEkgyOJ5jPop3yO3X9g_nMNae8Xp0vue-YYmNaq3rjQ6uLh722kxh22vUqx3BPBRGvUf-R7Faqz3gAQ8DRfLFF/s1600/IMG_0971.HEIC)
 
 Diary: [5 Jul 2025](https://irwin34.blogspot.com/2025/07/day-206-rainy-day-shower-thermostatic.html)
 
-Handles on the head door, on VHB tape for now, from inside and outside. New drawer stops. And the LPG solenoid controller, ready to install.
+Handles on the head door, on VHB tape for now, inside and outside. New drawer stops. And the LPG solenoid controller, ready to install.
 
 ![Handles on the head door](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVDlwnRjkUpjB2TKtTNb9MIzNVyuqn9rKhW7zwtM-JlwUVMQEZtbOkQVnswMcR43DfGMrBVP1-tEAJsrWw_od-xUqun4Xp8YjUc6sWdpCuvvBxTHibAPdMEaARfZEH6f3wGEEPCTkIQfDn2-Gp9RVYQ_YiCQ9_B8OMrW2gPjZxzDKz-d4XWSLCf57fpUgC/s1600/IMG_0966.HEIC)
 ![Head door from inside](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuc398NtIWgsYam-0hm678EUtKxUaHYPCp4dtU6W5HlmYFUubtuo_glXyV4WUMXydW1W4zUVVHYq223r8twslozbmUQwTUNbU-57ARIQlyZcBXT_n8_bYoyTQmPsDwum2UC48zOXzi8-a_io9CZq0IYaYirkUuhcCp74SxMUw2dTL_Jypzom-e84_LM0-/s1600/IMG_0965.HEIC)
@@ -812,7 +811,7 @@ A door-cover under the AC inlet, made and installed.
 
 Diary: [29 Jun 2025](https://irwin34.blogspot.com/2025/06/day-205-fixed-windows-trim-frames.html)
 
-The interior is officially "almost done". But some imperfections are left for the future, and some I'll just leave:
+The interior is officially "almost done". Some imperfections are left for the future, and some I'll just leave:
 
 - The chainplate to headliner joints need trim plates, starboard and port.
 - On the port open shelves, about a 1/2-inch gap between the headliner and the back liner, and the stanchion block isn't covered or even painted. The headliner to nav station joint needs trim. The gelcoat on the bottom shelf is damaged and stained.
@@ -823,7 +822,9 @@ The interior is officially "almost done". But some imperfections are left for th
 - The main cabin hatch trim is broken and needs rebuilding.
 - The wall by the compression post needs detail painting, and a little white touch-up here and there.
 - The headliner joints are asking for trim.
-- The head door needs a sloped strip so any water trying to run out drips back into the shower pan.
+- The head door needs a sloped strip, so any water trying to run out drips back into the shower pan.
+
+Nobody will notice most of these. I will, every time. That's the curse of doing it yourself.
 
 ![Chainplate to headliner joint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCquvjEaUW6CPbDkBU30_C88kXjJ0PoiBvGvFdHdJ7KZXjlZSdSvy5M5o26mVdSzyDUIJjsYeEoOODfGzPm7NA2jAggpFdddM44HO0DMaRC5-JWOXJ-smYR85b7BL74XQS0aRuPSQUUPfVLYx4PeurLm_e46sYTtlM0AxasW9WQuJfNZfIt41QXvzkYqWe/s1600/IMG_0941.HEIC)
 ![Starboard chainplate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF_iTYP-BFc_Yg_dR6hMEJ3tGj1d3zULf5K13wyiRAJ-9pmRr9Rcz-uh8TMa-0zhPFJrbwpYloXtUemhziTloi3gPbxQDf9xGB2lnErweW67klXLtg7s_cNc5sNOuqlLIkFLu8Nnm-k7NtBAeNRBTdjmA-Y-sChlWwp0b1dTR1e2eC0yS4WPLcHbFftxqj/s1600/IMG_0925.HEIC)

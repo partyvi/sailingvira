@@ -6,12 +6,11 @@ order: 1
 description: "Yanmar 2QM20: haul-out, new mounts, fresh water cooling, manual starter, bilge."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC"
 ---
-
-Vira has a Yanmar 2QM20, two cylinders and about 20 hp, from the late seventies. It's a simple engine. It doesn't even need electricity to run. But I'm an engineer, and I want to know it's OK and catch any issue BEFORE it grows into a PROBLEM. Over five years I took it out of the boat, carried it up 140 steps, fixed its smoke, gave it fresh water cooling and a hand crank, and wired it to my computer.
+Vira has a Yanmar 2QM20: two cylinders, about 20 hp, from the late seventies. It's a simple engine; it doesn't even need electricity to run. But I'm an engineer, and I want to know it's OK and catch any issue BEFORE it grows into a PROBLEM. Over five years I took it out of the boat, carried it up 140 steps, fixed its smoke, gave it fresh water cooling and a hand crank, and wired it to my computer. It runs better now than it probably did in 1978.
 
 ## First meeting
 
-Day 5, December 2021. Confirmed: it's a 2QM20H, number 86264. I installed an air filter; with the current fuel pipes, the "nose" can only point up. Checked the oil. Then I tried the sensors and found a few things:
+Day 5, December 2021. Confirmed: it's a 2QM20H, number 86264. I installed an air filter; with the current fuel pipes, the "nose" can only point up. I checked the oil. Then I tried the sensors and found a few things:
 
 - The cooling water drain on the front cylinder drips into the bilge. WTF. So that's why there's water in the bilge when I run the engine.
 - The "ignition switch" doesn't switch the ON wire. Actually the switch is fine, but 12 V comes to the red-black wire from somewhere. Need to figure out what's going on.
@@ -24,11 +23,11 @@ Day 5, December 2021. Confirmed: it's a 2QM20H, number 86264. I installed an air
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-I knew the gearshift was hard, so hard the remote control mount was losing its screws. After an hour I confirmed the gearbox itself works fine; the cable is just very tight. It feels like the old grease has thickened. I hope cleaning will fix it.
+I knew the gearshift was hard, so hard that the remote control mount was losing its screws. After an hour I confirmed that the gearbox itself works fine; the cable is just very tight. It feels like the old grease has thickened. I hope cleaning will fix it.
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-On Day 6 I took the shift cable and the whole control box out for cleaning, finished pulling the rotten plywood out of the front cabin, replaced the fuel gauge, put a "winter heater" in the engine compartment (a 200 W lamp on a thermostat), and cleaned the rotten wood out of the head to open access to the chainplates. Only the cabinet door and drawer module are reusable.
+On Day 6 I took the shift cable and the whole control box out for cleaning, finished pulling the rotten plywood out of the front cabin, replaced the fuel gauge, put a "winter heater" in the engine compartment (a 200 W lamp on a thermostat), and cleaned the rotten wood out of the head to open access to the chainplates. Only the cabinet door and the drawer module are reusable.
 
 ![Old engine control box with the shift cable](https://blogger.googleusercontent.com/img/a/AVvXsEi33mKwy9wUZ9kAp8lXeYZ0N8kNKVDHrEB0vQvJj15L__9z0c6ey2b-7J-3l4QJScOKTebIIAmVPvp3qCJ5hRW86uS15MR7nmHkkWz4vc7ZivozfzYfb5hwdj3-zqV7SZxKTBMcTOl8QfPnfLd4eYrPwZbhTzQznSDsMcM2PoYHWCTfgKUIek2sC8Godw=s1600)
 ![Engine control mechanism taken out for cleaning](https://blogger.googleusercontent.com/img/a/AVvXsEi1ovMpyh-f-eRlRnLWbDtfM-mJbVVOTfUEQRl4vpkVvXhIHqNQ8k7OVCgk1zpFEa3ZsEzjncoUQkabV6wVSSV5jILFcymmUOv3YQ6vAhnXIoYyi5pA6YNgIOQzaLMIylvKL9iEsdXYSCpHC_rT15TLHhFsO7AEnoyyp8Sl2i-Nrmp4tu4Iwulg7qrQ4g=s1600)
@@ -39,7 +38,7 @@ On Day 6 I took the shift cable and the whole control box out for cleaning, fini
 
 Diary: [3 Jan 2022](https://irwin34.blogspot.com/2022/01/6-13-6-hours-generator-clutch-cable.html)
 
-Day 8: a new mount plate for the engine control. Four hours of cutting, with several restarts. I designed it and cut it from 1/4-inch aluminum, fitted it and installed it. The new shift cable works well. The throttle cable is set so it's over-pushed, making the handle stiff. That needs adjusting on the engine side.
+Day 8: a new mount plate for the engine control. Four hours of cutting, with several restarts. I designed it and cut it from 1/4-inch aluminum, fitted it and installed it. The new shift cable works well. The throttle cable is set so it's over-pushed, which makes the handle stiff. That needs adjusting on the engine side.
 
 ![3D model of the new engine control plate](https://blogger.googleusercontent.com/img/a/AVvXsEgz4qk-UWEWTCxEJXPzsyrszMfvFZ8Vqx4P_1ctuakux1RRbD85WCEZ7KRsYnxgeDpvufQC8nDgglIVeUbCIWnRXNeOPgbzg_pq5wi0dZyf8n1sytk6dIz5P8WzSbZey_hMWDov-JSluWcHn0Ac1jvajKA_3RtDA_s1C9YYzFPyRFeKFPvqBbVXyTE-jQ=s1600)
 ![Engine control plate cut from aluminum on the CNC](https://blogger.googleusercontent.com/img/a/AVvXsEjVBJSLdUHEaqHKqLWW7RGSK_OWjrQf1zfoOItHArpmf2SjFallASN15FNkxVcoznlOdmAPGlCTcAwK8OAfPxcd3tT6gxDKp5CL5qzAoiiCh8rCgNJrGlH3NpwNg02NPzW1cWDjI_ZMvstul-YDhQZpBe-JpS2aJJQQJM5-AtmIwc5G3Hisz_ZwDw1-ng=s1600)
@@ -57,17 +56,17 @@ The engine harness connector had a lot of corrosion, and one alarm lamp didn't w
 
 Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-stay-chainplate.html)
 
-April 2022 the engine check went well, except the raw water pump leaked 2–3 drops a second at idle. Besides that and moderate oil smoke at high RPM, all good: no strange sounds, the alternator charges, the alarm lamps work, and it started on the second turn with two batteries.
+In April 2022 the engine check went well, except that the raw water pump leaked 2–3 drops a second at idle. Besides that and moderate oil smoke at high RPM, all good: no strange sounds, the alternator charges, the alarm lamps work, and it started on the second turn with two batteries.
 
 Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchions-10-hours.html)
 
-June: oil change for the engine and the gearbox. The original filter is at least twice as big as the one that was on there. I pumped out 4 liters of oil, but I'd only bought one gallon, so it needs topping up.
+In June: an oil change for the engine and the gearbox. The original filter is at least twice as big as the one that was on there. I pumped out 4 liters of oil, but I had only bought one gallon, so it needed topping up.
 
 ![Shell Rotella oil and gearbox oil for the change](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6kGO52Do1peoPiyvdmmDEFVlIsInvNVnILYivxfFzj-sVDVeo5TNAwVjgzlP1OfQN97Dsn7R-7pgrqwkWfRob5Ud317JZFM-9W2ePZX6ulBzbzru1XEwpGGT0QHhwP4RMsnxUVAWjKmhiLj9Ay3-TEBHjJdpED_p-NbHKk8XbohHZW4uNhkvGPeoqCA/s1600/IMG_2870.HEIC)
 
 Diary: [19 Jun 2022](https://irwin34.blogspot.com/2022/06/day-32-619-no-fiberglass-today-engine.html)
 
-I measured the tachometer port plug: 17.7 mm OD (looks like M18, but who knows), 26.4 mm deep to the flywheel teeth. Oil levels fine. New stuffing box clamps, the stamped kind without the slot through the band. A ring on the gearbox cotter pin. The engine zincs are about 50% left. So far so good, but better to have a 22 mm wrench.
+I measured the tachometer port plug: 17.7 mm OD (looks like M18, but who knows), 26.4 mm deep to the flywheel teeth. Oil levels fine. New stuffing box clamps, the stamped kind without the slot through the band. A ring on the gearbox cotter pin. The engine zincs are about 50% left. So far so good, but it's better to have a 22 mm wrench.
 
 ![Tachometer port on the engine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwTbBoczmD9ZKx0E-F1VcK__VSSmRoo8XoVXXlYolIvh5HZwufSrvjTkC1J2MiiISTL58KjeaW5jQUR08vaYerGyNn0H_5NnTq6OEqOpk0uPKQSuJeRqQcXSUN1_XcXrKXwWnAsGca9qf_6iIn1W_c6dKeArrJbKKr5ZYZGZ5fyG3UMijEQ2VPBLjJAw/s1600/IMG_2912.HEIC)
 ![Measuring the tachometer port plug with calipers](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQGhDEKc75lHKi8_sdFMMZ11UfbjS_6hKBVN3FrTfRLTcfAFSzhnxNnbdWv0YDJbWvCMC61Iu2LUAYFvq0NTx39ZFabINDRoPH-Nwb6ICjfS2YJpZE8O16hXSUTNEzaAmSE2wGVvecHFQOdtW-SC4PUf9uHWuLt_VWr46DrLjtksEPref43O4xdvsrug/s1600/IMG_2911.HEIC)
@@ -80,11 +79,11 @@ I measured the tachometer port plug: 17.7 mm OD (looks like M18, but who knows),
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-August: some boat yoga. I replaced the engine room vent hose and found no fitting on the transom, just a 3-inch hole. A bit confusing. And I installed an hour counter, the kind triggered by vibration. Fun thing: it doesn't have to be on the engine. On the engine room wall it works fine. So be it.
+In August, some boat yoga. I replaced the engine room vent hose and found no fitting on the transom, just a 3-inch hole. A bit confusing. And I installed an hour counter, the kind triggered by vibration. Fun thing: it doesn't have to be on the engine. On the engine room wall it works fine. So be it.
 
 Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapointment-water-pump.html)
 
-February 2023: oil check and 30 minutes at mid RPM. All good, a little white smoke that smells like burned oil. The packing isn't dripping, which makes me a bit nervous, but an hour's run the next day didn't heat the packing box at all. I also cleaned the engine control connector; the oil pressure switch contact had been lost.
+February 2023: an oil check and 30 minutes at mid RPM. All good, a little white smoke that smells like burned oil. The packing isn't dripping, which makes me a bit nervous, but an hour's run the next day didn't heat the packing box at all. I also cleaned the engine control connector; the oil pressure switch contact had been lost.
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
@@ -97,14 +96,14 @@ On Day 5 I installed a sump pump and a bilge pump switch. The hose still needs r
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-In July 2022 I closed the sump box with acrylic. The pump ran well, BUT pumped no water. When I tried to take the hose off the check valve, I broke the valve, and then the pump pumped perfectly. My theory: the box was empty and the pump full of air, but the hose had water in it, and the back pressure stopped the pump from priming. So I need a small hole that lets the air out back into the sump box. The broken check valve got replaced; the air hole later.
+In July 2022 I closed the sump box with acrylic. The pump ran well, BUT pumped no water. When I tried to take the hose off the check valve, I broke the valve, and then the pump pumped perfectly. My theory: the box was empty and the pump full of air, but the hose had water in it, and the back pressure stopped the pump from priming. So I need a small hole that lets the air out, back into the sump box. The broken check valve got replaced; the air hole came later.
 
 ![Inline check valve dimensions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_SzIVWpNaChtXici7DxL4w37nrj6YCPXqTt9pA-wpDcEHUCKLjiDXUXo_EdM191VdogVsMgi3xrdciwWiG0nq0qZJE4HoDZksZP7yHJ4DK_gYKAdQBg509a1meHGGwNgZL0-G2cxH9crlX7aH_EYBEHvqGhLLowvu9aWh0I-1NJS2kEKCNn75UX63uA/s1600/CHeck%20valve.png)
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-The manual bilge pump looked like nobody had serviced it since the boat was built. The diaphragm was dried out and it wouldn't prime at all. I rebuilt it, put it back, and it self-primes well now.
+The manual bilge pump looked like nobody had serviced it since the boat was built. The diaphragm was dried out, and it wouldn't prime at all. I rebuilt it, put it back, and now it self-primes well.
 
 ![Manual bilge pump taken apart](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF6Ft_7JGqm71J7qeOdJbO0ppMAnEy0_R8g9ZdLCNB_lQhQDUsO7VXEGaTrs8tddtuWn6pF_fafetKGQz4m34FNauCT7_DyoJHpnFyr3ARmd4icpic2wNoIonfb08NxtXJv5KbWuzUDmg34KHcy__z-_z-7tAJq-Pdo0l1QimszzvVqGNjzfTAr4_fQw/s1600/IMG_3083.HEIC)
 ![Bilge pump diaphragm and housing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtyJVVc0V0RaqJ_JpcLpRIESxo2CTxfDwhIMYZ8Hluol3cn9jM1pZYMWha4h4snnp7M5pPvYkp_ib6ZGANl8mDcqpTGDYD7dh3iZWiN010QVyqLpzfw62N-AXtj2ZMVpevq8FvnqLo8yfVz5tEE1OTITVl62jvp2h_XNK3gqU83KaVI0_I2G1V0j2c0A/s1600/IMG_3082.HEIC)
@@ -123,9 +122,9 @@ Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-prepa
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-My main bilge pump is a serious one, 3,800 GPH. But there was one small problem. The discharge has an inline check valve so water doesn't run back after the pump stops, and the hose is long. The previous owner set it up that way. Sometimes, especially after my small "dry bilge" pump had taken out every last drop, and then water collected up to the switch level, the big pump got airlocked. It ran perfectly fine but moved no water, because it couldn't prime. I don't like that failure mode: right when you need the pump most, it sits there spinning without moving a drop.
+My main bilge pump is a serious one, 3,800 GPH. But there was one small problem. The discharge has an inline check valve, so water doesn't run back after the pump stops, and the hose is long. The previous owner set it up that way. Sometimes, especially after my small "dry bilge" pump had taken out every last drop and then water collected up to the switch level, the big pump got airlocked. It ran perfectly fine but moved no water, because it couldn't prime. I don't like that failure mode: right when you need the pump most, it sits there spinning without moving a drop.
 
-Two options. Remove the check valve: no airlock, but every time the pump stops about two gallons run back into the bilge, and seawater could come back through the discharge when the boat heels hard. Or give the trapped air a way out before the pump moves water, at the cost of a little pumped water going back to the bilge. I chose the second. I drilled a small air-bleed hole in the discharge hose between the pump and the check valve, and designed and printed a little cover that sends any bleed water back down into the bilge, held on with a zip tie. Simple, cheap, and hopefully one less surprise.
+There were two options. Remove the check valve: no airlock, but every time the pump stops, about two gallons run back into the bilge, and seawater could come back through the discharge when the boat heels hard. Or give the trapped air a way out before the pump moves water, at the cost of a little pumped water going back to the bilge. I chose the second. I drilled a small air-bleed hole in the discharge hose between the pump and the check valve, and designed and printed a little cover that sends any bleed water back down into the bilge, held on with a zip tie. Simple, cheap, and hopefully one less surprise.
 
 ![Bilge pump discharge hose with the air-bleed hole](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2oZ-eR819r9dL1ZOijglWEOdRgO9dQHh2dpPTQFtvwAm0vCztIo8TIVONy2X6BUCGZTQzSn-D-AMlxp-qxIkPm-0Jr-9MrIeANilsYnAhyphenhyphenskXxsIw4TX9KqWYMbd7Lot7ip1wmdVWsNpYMiuz8tOdk4kK9udwb4SgBQINtdLomhNNrCfyz32E4RjaQ_Q/s1600/IMG_1549.HEIC)
 ![3D model of the air-bleed cover](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9EEQn4GVRJEIUWFkCYIh9PjX_PZTGcw8TbPXCn29fIPxVJ8QntmhaekN6FXbHNlTcxpBjmEM77kSqeaCCxO9Nbbjbn4KKOOEjmmKLGL8Jjm7kLJFIO6ceh0b2RzlZZOL1dsx9D4TTgk3ZmKtsFXCVKgSsSUqadJ3tS85EaOWtnHZuNLKl3xRXgEwTHpJ/s1600/Untitled.png)
@@ -134,14 +133,14 @@ Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mains
 
 ## The exhaust and the hole to the cabin
 
-October 2024 I looked at the exhaust. It's made of 1-1/2 inch black steel pipe, probably water plumbing. Does it work? Sure. Will it keep working? Maybe. Is the mixing elbow great? Maybe. I don't like it. Will I redo it? Maybe, later, likely. Dimensions, just in case.
+In October 2024 I looked at the exhaust. It's made of 1-1/2 inch black steel pipe, probably water plumbing. Does it work? Sure. Will it keep working? Maybe. Is the mixing elbow great? Maybe. I don't like it. Will I redo it? Maybe, later, likely. Here are the dimensions, just in case.
 
 ![Exhaust elbow and black steel pipe](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD26Xp84pT13-re7g6l4jPXinpDyp1EQofm8yaSLgKCs5RFJJWi8Mtva7a1Aq4s972aN75I-0QK4NLj5UFA9cUdjuLNqev-bIqWn3rtpLfLwTXCWhTYAQOkiYdB7NqLo1oi4BO7K_k5gPLSUXTIfMdZ1YrnvMXxq2VW3CMafNq5JjYQPEvHt0-VxYJshiq/s1600/IMG_9205.HEIC)
 ![Notebook sketch of the exhaust dimensions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCl2ijGtn2t4Pnpl0B4PJP9iTcAYYSoroIu4CDX92Nef-aUuLwdcUbKCsSly-UOPAAQrOANG7E8OcLvUqcDn1avmHXTOHytyBNEDb13lB5JMVnGZahZdyzvQMKMxK63TfSKSOrfEEStaBMdUJNtlBIdVPK-efJnkSuVuLlIg6d-gsj1U7Jc3cdXOoAlIcq/s1600/IMG_9210.HEIC)
 
 Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-oil-change.html)
 
-Then the engine room "shelf". The builders left an opening there, just a hole from the engine room straight into the cabin. So the engine room wall hung in the air, and any splash there ended up making the pilot berth really wet. I glassed it over. I also stiffened the joint between the bulkhead and the deck. It was very weak; the bulkhead moved about an inch side to side when the steering was loaded. I'm not sure this is the right fix, but I hope it supports the bulkhead sideways. The extra glass will be cut or ground later.
+Then the engine room "shelf". The builders had left an opening there: just a hole from the engine room straight into the cabin. So the engine room wall hung in the air, and any splash there ended up making the pilot berth really wet. I glassed it over. I also stiffened the joint between the bulkhead and the deck. It was very weak; the bulkhead moved about an inch from side to side when the steering was loaded. I'm not sure this is the right fix, but I hope it supports the bulkhead sideways. The extra glass will be cut or ground later.
 
 ![Engine compartment shelf opening glassed over](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgawK20jDjFfCvy_13YxQaErGCzP4j5pnMIPFIH8AubfFfqaEaD8ONeTYdeDXCMNnq4NIPpMVP4lobleCH3V4MqkkE6FLIxe6CZTugIDPJjNWukAC2tND8DHvbKV7y-IKoLgMyTFpgE0-VrCAxkj46CyGfsI6xSCfLGR9BstXkblOsDlf7lxhFmnVU_xhCs/s1600/IMG_9261.HEIC)
 ![Bulkhead to deck joint with glass and tape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJOcok4jSre7HMBT7VXDJyS_0zToE1mlucXY4xbAIEhgLD7P13JIIGhMbNjig4Pwj9G-_Hr0Yqg7M3AesRGORWCXX20arMRHe63bXQJwz_r9_a4-ZBl4svu4tJN8KsNqolUrcTfPNyICNLbLshesnzRZ9dhvx2cj3zjrWpweRjX4L-wlSV6ePuzmkT_Ne_/s1600/IMG_9263.HEIC)
@@ -150,17 +149,17 @@ Diary: [2 Nov 2024](https://irwin34.blogspot.com/2024/11/day-173-102624-old-cabi
 
 ## Taking the engine out
 
-January 1st, 2025. Final decision: the engine comes out, to fix the engine beds' bond to the hull and check and repair the engine "on the side". Taking it out by myself was an interesting challenge. I'm very grateful to the designers for the big engine compartment hatch. It was the game changer.
+January 1st, 2025. The final decision: the engine comes out, to fix the engine beds' bond to the hull, and to check and repair the engine "on the side". Taking it out by myself was an interesting challenge. I'm very grateful to the designers for the big engine compartment hatch. It was the game changer.
 
 Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-haulout-added.html)
 
-Starter and alternator off. No surprises with the alternator, but the starter nuts are hard to reach: the starter is so "fat" there's no room for a 19 mm socket, so I used a 20 mm sitting a bit sideways.
+The starter and the alternator came off first. No surprises with the alternator, but the starter nuts are hard to reach: the starter is so "fat" that there's no room for a 19 mm socket, so I used a 20 mm, sitting a bit sideways.
 
 ![Engine in place, view through the hatch](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wh3a9KDd7b-BUEyg3jHInt8NQSKVehkS7pnX9Na9_YXJw_U6kHyFSW02ka_dkdHa8O2QALLfgjvrrGDa7nZwpvMDx767pLRJYyeM3sgvlgQffV-aaKqm01T327w8TQBXkIzVRg3m4jzLs1cPgWlPX-zTEDPRwtK4by2ySK2aUA22OnOQrNBaE6r2nPao/s1600/IMG_9777.HEIC)
 
 Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-haulout-added.html)
 
-The aft mount nuts were tight, but the impact wrench helped a lot. Then hang the engine from the aft end and separate the gearbox, which went easily. The forward mounts: starboard was a real fight, no room for a wrench, and the top nut wasn't even tight.
+The aft mount nuts were tight, but the impact wrench helped a lot. Then hang the engine from the aft end and separate the gearbox, which went easily. The forward mounts: starboard was a real fight, with no room for a wrench, and the top nut wasn't even tight.
 
 ![Engine before removal with hoists rigged](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilmGa9porgK7arzIoPTxbWU5sirScEkOVD6VkW_Csrnz1hMTJybVRBNtBS4cZp0BYp6ffvsic_BGWkTpOy8vUlrtNXnoNnYFZ3_fUq21fz8H48Qa6spkRIr3ZSNlqq5GwjDjJwCvLhGoepTSa_trLpRMomJ4foonrrh5jTw8cv4O5lMRusnt6E8DgjIOuS/s1600/IMG_9778.HEIC)
 
@@ -168,7 +167,7 @@ Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-hau
 
 Then... just pull it out. The main challenge was "stepping" the mounts up over the fiberglass. The mounts sit on wood, but the beds are glassed over, and that glass makes a step, so the engine couldn't slide aft without lifting. To keep it off the shaft I put a 2x4 next to the coupling and slowly moved the engine back until I could get a chain around it and hook up the chain hoist. Then lifting was pretty easy. Engine out.
 
-Not a good surprise: on the port side the block shows a freeze crack repair. Nicely done, but in one spot I think the crack wasn't welded all the way, or grew after welding. The rust looks like just the surface where paint burned off during the repair, but it deserves a closer look and a pressure test. I lowered it onto the cockpit floor to wait to be hauled off the boat.
+Not a good surprise: on the port side the block shows a freeze crack repair. Nicely done, but in one spot I think the crack wasn't welded all the way, or it grew after welding. The rust looks like just the surface, where the paint burned off during the repair, but it deserves a closer look and a pressure test. I lowered it onto the cockpit floor to wait to be hauled off the boat.
 
 ![Engine hanging from the chain hoist](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHQkjR3rOlaSmxqN_kaEcxY6lG0c1QBTsmra5GAPNY7wxB_niuo3870spo28LXqW5_nU9Y5OpthLASD0JxtVMqAKwlcyA4nzzb3i_KhAuEFihyphenhyphenYAejfkZKGqR7c7_ANIG9mzytXflUQ6aUMQIeJurfRYT4RzAmRKxIMgRWyLlzzQzSI9k5hQTpqk5C2Z76/s1600/IMG_9782.HEIC)
 ![Engine lifted out into the cockpit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOTa74Gt7WpMESwYfFTaGbiY_qIYjghyqNKmhbkSOlsP9VqaWLmTMTlhkudjEtFZO2DhbYCbepBYtRRF5oZJbrjF7LsHZd2gBkdk2mKlG7VN9JLWGJn5oaRWhKqPezMt_rHot-wmaUouj8ppsA8EGt-TQvJY1rktJFAh0wxYZdxYCRH4bM1-EgWKbHz1_A/s1600/IMG_9783.HEIC)
@@ -177,7 +176,7 @@ Not a good surprise: on the port side the block shows a freeze crack repair. Nic
 
 Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-haulout-added.html)
 
-Empty space. Time to: reinforce the engine beds, fix all the delaminated glass, clean and paint the bilge, maybe make the engine room watertight with its own bilge pump, maybe replace the stuffing box hose and packing, and paint and tidy the engine room.
+Empty space. Time to reinforce the engine beds, fix all the delaminated glass, clean and paint the bilge, maybe make the engine room watertight with its own bilge pump, maybe replace the stuffing box hose and packing, and paint and tidy the engine room.
 
 ![Empty engine compartment through the companionway](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx62c7eGZfhSTF_sgH77KqECtBu89gYfqxgomtn7PVzJYbVoTtl1YeAZJ9Zvy7ckvzI1K6aTmZlNduN7miuyrKL6WGG1Xpa0OW2NCU_yUCWrTKXEPvzPTC8UvY-DcmwQ6UVjCikzovXSUPpNYRhhNJsqipklu61a4MlKbwh64TQQTCmrOCW_u5_7QxGXhd/s1600/IMG_9779.HEIC)
 ![Empty engine compartment from above](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9EpWmCRLsHkWaZaFf7ufRETEVDYnT9HOXktHn0ni9CBd_mvc1RjSvBIccu88y7KnobPjDWeomFkV_iMhRNGzDKP66c8CWK9FrNVZ8CJ7AH0_fzezlIYAQneft-vZDnKmiW0dl-a0UXRb2ynh1avaoVpj32xOm3ZjqjF-LUnjQLX9mjuVMspiuuflej4zg/s1600/IMG_9780.HEIC)
@@ -187,28 +186,28 @@ Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-hau
 
 ## 140 steps
 
-Getting the engine home. Easy to say. The lake was 40 feet below normal, so the drop from the parking lot to the docks was 70–80 feet. The marina has no lift, ramp or crane for anything over 200 lb. Only a long staircase, 140 steps. The view from the parking lot, and the stairs. Yes, there's a lift, but it's 200 lb only, no use.
+Getting the engine home. Easy to say. The lake was 40 feet below normal, so the drop from the parking lot to the docks was 70–80 feet. The marina has no lift, ramp or crane for anything over 200 lb. Only a long staircase: 140 steps. Here's the view from the parking lot, and the stairs. Yes, there's a lift, but it's for 200 lb only, so no use.
 
-The spec says the engine weighs 400 lb. A lot, but bearable for 3–4 people. Challenge accepted, and it turned out heavy enough to be a problem.
+The spec says the engine weighs 400 lb. A lot, but bearable for 3–4 people. Challenge accepted, and it turned out to be heavy enough to be a problem.
 
-Boat to dock was easy: chain hoist on the boom, lift, swing the boom over the dock, onto a dolly, roll it to the stairs. After an hour of planning, my son and I decided to slide it up with blocks and ropes. We mounted it on a plywood sheet and laid 2x4s on the stairs to slide it on.
+From the boat to the dock was easy: a chain hoist on the boom, lift, swing the boom over the dock, onto a dolly, roll it to the stairs. After an hour of planning, my son and I decided to slide it up with blocks and ropes. We mounted it on a plywood sheet and laid 2x4s on the stairs to slide it on.
 
 ![Lake Travis and the marina in the fog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGBJHjfyuxNvlrfj6WM0I58TZcZkRUNPnb58HgZTQZVhp1u0DG7tVjJFQDwOQm3wvmrbaSfNtZZZJkKYuQaC-FiGlYnLWUlgEmYKzkPb_gr7EIOkAM0k7PN9AOpWIi1fqrVvgf7y7Db2e3DLxxtCCvTOET_afNbMHOY3wmmJEUZfYSqCBgPauHAUlNKilx/s1600/111.jpg)
 ![Staircase up from the docks to the parking lot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIQl6qYlXiemjBw0x6fEjIaW36Q5yNpvv4Pny4YroPcr0JdmhuiSFhZW-zW5YpI7vY6WosHoA9JFqC7GXt72m7p9DRqylg6F_fwvdGsl8WGI8GfpyvQOu21s0xrqriCvMDYVN2lQmYw32uGpaxDKPbMdiU8Z_d_Q0GzT9DYcbfcDtY5DNPo0bAZ9NVnHqx/s1600/IMG_4220.HEIC)
 
 Diary: [5 Jan 2025](https://irwin34.blogspot.com/2025/01/day-183-1525-take-engine-home.html)
 
-The tackle: 100 feet of 1/4-inch Dyneema and two double blocks with 100 feet of polyester rope. The only thing to tie to on the stairs was the handrail posts on one side, so the pull was partly sideways; the Dyneema let us anchor as far up as possible to fix that. The blocks gave 4:1 and 25 feet of travel per setup. And, of course, a safety line in case the main tackle failed. Luckily it stayed a spare.
+The tackle: 100 feet of 1/4-inch Dyneema, and two double blocks with 100 feet of polyester rope. The only thing to tie to on the stairs was the handrail posts on one side, so the pull was partly sideways; the Dyneema let us anchor as far up as possible to fix that. The blocks gave 4:1 and 25 feet of travel per setup. And, of course, a safety line in case the main tackle failed. Luckily it stayed a spare.
 
-Easy to say. Lots of walking up the stairs with the engine "in our hands". My son (he's younger than me, he's 21) walked about 1,200 steps up and as many down. The boards were 8 feet, 7 steps, so we moved them every 7 steps: 20 cycles, each 30–40 steps down and up to pull rope, reset the safety and move boards. The blocks needed resetting every 25 feet, every 3 board moves, at least 7 times. And when the top block got close to the anchor, we moved the anchor higher: about 60 steps up and down, 4 times.
+Easy to say. Lots of walking up the stairs with the engine "in our hands". My son (he's younger than me; he's 21) walked about 1,200 steps up and as many down. The boards were 8 feet, 7 steps, so we moved them every 7 steps: 20 cycles, each 30–40 steps down and up to pull rope, reset the safety and move boards. The blocks needed resetting every 25 feet, every 3 board moves, at least 7 times. And when the top block got close to the anchor, we moved the anchor higher: about 60 steps up and down, 4 times. Who needs a gym membership?
 
 ![Engine on the stairs with the sliding boards](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYKT973Sj3rHvve7azUEuVxEQrUlSFQs7ttRz8ZC-umD4IDVtTQGp3fEDUrDBZ6A7tdkvYPjFCibfGNqJkbIW8yK0JQaRXWQfXpwVC6MeU0Wu417f2x9KhaN8HKUeuSdXku876ac0cO9SoLRKVLOjLKxH8g3SEUKZMisYQKrdVERL3wD4yLoGUCj5GPrc9/s1600/IMG_4221.HEIC)
 
 Diary: [5 Jan 2025](https://irwin34.blogspot.com/2025/01/day-183-1525-take-engine-home.html)
 
-After 5 hours of hard work we got it up. In the last hour two more people helped us carry it up 10 steps where the blocks wouldn't work, one step at a time. Great thanks to Vitaliy and Oksana. Without them, the mission couldn't have been done. Loading onto the truck was hard and risky: boards, and roll the dolly up 2x6s. Hard part done.
+After 5 hours of hard work we got it up. In the last hour two more people helped us carry it up 10 steps where the blocks wouldn't work, one step at a time. Great thanks to Vitaliy and Oksana. Without them, the mission couldn't have been done. Loading it onto the truck was hard and risky: boards, and rolling the dolly up 2x6s. The hard part was done.
 
-Sunday was busy too: unload it and get it into the garage. I thought about buying an engine hoist, but they're not cheap and I need it twice. So I built a simple wooden version. My hoist bridge and the engine at home.
+Sunday was busy too: unload it and get it into the garage. I thought about buying an engine hoist, but they're not cheap, and I needed it twice. So I built a simple wooden version. Here's my hoist bridge, and the engine at home.
 
 ![Engine pulled up the 140 steps](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmosf6BJYFkGTuaPVdG-1XQut7XE3f_kLjEApUZCX0fSgKYDhh0MAsK8ZdFBi7hIkPTCzeqxkgfzncNlm3B3x4O2ZHuDBmNTzxYn_A6Ei7KsSfn2p33FbDNzOJfE38jw7prbL6B_4EmWSHHRnhzBsLkpoH7VDijJv-f0Y4ugPI3f5s3Nkr14XeJOZAm_qD/s1600/IMG_4225.HEIC)
 ![Engine strapped in the truck bed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZZw8nc68EgM8usgdalJIhkdtcPsgEy20ChE4jfsqdznvhI3xTLMCpuSSKdtIsQgCHAI4cYvYFJNJhLPrcWsJxke7y6DY7v97pe-Qenh5o0XA5hVBRhqdgUzyeQNHkoR8c8aukS5VbzEmsxauTSgHEHtqhs05vfFU9CzyVv0KmGTnL-oQz-Po0lCQeuWb/s1600/IMG_9796.HEIC)
@@ -220,7 +219,7 @@ Diary: [5 Jan 2025](https://irwin34.blogspot.com/2025/01/day-183-1525-take-engin
 
 ## The truth about the engine beds
 
-A freezing Texas morning, a little frost on the boat. Then the engine bed inspection. The mounting blocks were glassed to the hull on one side only, and now completely delaminated. Very dirty glass work. The engine was held to the wood with lag bolts; water and vibration did their job, all 8 bolts were loose, and the engine literally danced on the blocks. The glass on the cross member I pulled off by hand. One corner was rotten about 1/2 inch from the bottom. That'll be cut out and filled before re-glassing. Three hours of boat yoga cleaning up old glass. The black wood isn't rot, just oil on the surface.
+A freezing Texas morning, with a little frost on the boat. Then the engine bed inspection. The mounting blocks had been glassed to the hull on one side only, and were now completely delaminated. Very dirty glass work. The engine had been held to the wood with lag bolts; water and vibration did their job, all 8 bolts were loose, and the engine had literally danced on the blocks. The glass on the cross member I pulled off by hand. One corner was rotten about 1/2 inch up from the bottom. That will be cut out and filled before re-glassing. Three hours of boat yoga, cleaning up old glass. The black wood isn't rot, just oil on the surface.
 
 ![Frost on the dock in the morning](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjieBqNaG6K_FGV3udrgAAaYb55paGeBM5Kd_2VSvyKuUvRkh7aMlTBDz8Zh8PCezXsQztOi29eklcYe3Q4EZ56vOfswqVcqTlbeOrniUsFJ-K4Zb4VFEohTMPEq0PPPQ6NwxTc2VS7BBG0afPOyOkOTLMVibwOTdzQKNvTYHpfftOX1vPOlMNJ43eXVQp/s1600/IMG_9857.HEIC)
 ![Frost on Vira's deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSl-TbYE4VXw0AiXpBBBPLXDuvxn_xpQIQBGhOI2js7JGhN7vcuuyMugZQFIFPvj6_MEJNKEHBzgObFBRlNV62ojHb0DDFtpRW46IxDhRnTb_SzbFS_w9nVNll_h548PvUFFv4zHsvAI-4ZkX7Xzy9dUO7Y3mLl5k5icS7tsavuHDDGHuVT-UdrfEwVB0k/s1600/IMG_9860.HEIC)
@@ -233,7 +232,7 @@ A freezing Texas morning, a little frost on the boat. Then the engine bed inspec
 
 Diary: [12 Jan 2025](https://irwin34.blogspot.com/2025/01/day-184-engine-base-inspection-and.html)
 
-Then I prepared the blocks for glass: cleaned the wood, sanded the old glass off and the hull down to base laminate, replaced the rotten wood and glued in shims to fill gaps, and made fillets so the glass doesn't hang in the air in the inside corners. It was a cold day and the fillet epoxy didn't harden enough to glass over. Next weekend.
+Then I prepared the blocks for glass: cleaned the wood, sanded the old glass off and the hull down to the base laminate, replaced the rotten wood and glued in shims to fill the gaps, and made fillets so the glass doesn't hang in the air in the inside corners. It was a cold day, and the fillet epoxy didn't harden enough to glass over. Next weekend.
 
 ![Port engine bed block](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVM8w7NSiOhxrlszDAFXAp0DCOgdVZDVj-I1cq_F-e10r4hOoqlwn7dVT0JXjbRKVA88AZGR79g11cNaKn8RCwTQxK22mWQKVIZ0R3usyOLMHnEfvnoxhYVj8gLTOE5Qh-Jn2hMdHcBtoOwhR10zv8RKDXnxjUKC1D15G_-d32lj4vOJiz9X9A2KpKopr9/s1600/IMG_9893.HEIC)
 ![Starboard engine bed, sanded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcxFdDjG10TJZ5DVTuAwmZQqBym1hlgBOmnBeAzwv_a-sbuNWiTolhyphenhyphenmmvm7Kvf47g9K_hieyX7HWK1_uv83HgtvI6UTx_NIA87rerop3JPo2nXC2TG_i5lya9p8YI65hWvO10yqa1sWsW4U4hReVtVUcVX_Q0Ue1PBii8EC6RfJJTcaadWQwE4TXkQHY/s1600/IMG_9894.HEIC)
@@ -243,7 +242,7 @@ Then I prepared the blocks for glass: cleaned the wood, sanded the old glass off
 
 Diary: [19 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-sanding-and-fillets.html)
 
-A week later the fillets were sanded and ready. Three layers of biaxial to glass the blocks to the hull, and one more layer of heavy woven roving.
+A week later the fillets were sanded and ready. Three layers of biaxial glassed the blocks to the hull, plus one more layer of heavy woven roving.
 
 ![Engine bed sanded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOorvmRf6BOeCy2n31OU-5qflSnKKxwTmdtkyzoqx7jJRabEQQkHzJvmYWSjMq_ah1l0MTbgqQyKJcx30hdYfWyBLrdKbX8fah6BtT7_5LaOFlGhz7rTW9l5kqeZi_UtJ-2c6iHOH5N0hyphenhyphenT-RvsbLxqCNomOvj2LvhWWMPvVNH91K2wfYaBBDAKRE0gK_3/s1600/IMG_9966.HEIC)
 ![Engine beds glassed with biaxial](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLbmmlad8yhQVf8wErKkLockxWq260z3E3ZJHhnFR-38iZGMQG0Xqz9cmZ60Z7DYMh2Nmih2peF9PCa82eCuAsMY8y6j_PwOoti8EFlVHHCFkb8oYMxiBNotr92gfLe-Fq9n0038iYzIgNA-gbbCdnXFO4pFCtD_S4RYVdg-m678D8Ss71Ba4QXGklf-Kl/s1600/IMG_9970.HEIC)
@@ -253,11 +252,11 @@ Diary: [26 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-la
 
 ## White smoke
 
-Back in the garage I put the engine together enough to start it. I wanted to be 100% sure it still worked after the trip, and to check the smoke I'd seen on the boat. A video of it running in the garage.
+Back in the garage, I put the engine together enough to start it. I wanted to be 100% sure it still worked after the trip, and to check the smoke I'd seen on the boat. Here's a video of it running in the garage.
 
 No load. Idle: some vibration, but not bad. Quick throttle: a few puffs of black smoke, pretty normal. Below 2,000 RPM: no smoke, almost no smell. Nice and clean. Above that it seemed to misfire and shoot out puffs of white smoke that smelled of unburned fuel. Higher RPM, more white smoke.
 
-Then I pulled the injectors. #2 came right out. #1 took 20–30 minutes with wrenches and a screwdriver and prayers. Probably the penetrating oil I put in the day before helped; no puller or slide hammer needed. Some carbon on the nozzles, but normal, nothing extreme.
+Then I pulled the injectors. #2 came right out. #1 took 20–30 minutes with wrenches, a screwdriver and prayers. Probably the penetrating oil I put in the day before helped; no puller or slide hammer was needed. Some carbon on the nozzles, but normal, nothing extreme.
 
 Compression: 390–400 psi on both cylinders. The engine is 20:1. Theory says 14.7 x 20 = 294 psi; Yanmar says 300–400. Mine looks excellent.
 
@@ -266,11 +265,11 @@ Compression: 390–400 psi on both cylinders. The engine is 20:1. Theory says 14
 
 Diary: [12 Jan 2025](https://irwin34.blogspot.com/2025/01/day-184-engine-base-inspection-and.html)
 
-More troubleshooting. Connected a tachometer to know the real RPM. The original injectors tested relatively OK, but then one valve stuck open. New nozzles: open at 2,200 psi, hold at 2,000 for at least 10 seconds, good spray. Valve clearance set to 0.15 mm. Fuel filter opened and replaced. OMG, how much slime and dirt. Fresh fuel. The DIY mixing elbow came off. Then I checked the injection pump timing: it was 10 degrees late! MAYBE that's it.
+More troubleshooting. I connected a tachometer to know the real RPM. The original injectors tested relatively OK, but then one valve stuck open. The new nozzles: open at 2,200 psi, hold at 2,000 for at least 10 seconds, good spray. The valve clearance set to 0.15 mm. The fuel filter opened and replaced. OMG, how much slime and dirt. Fresh fuel. The DIY mixing elbow came off. Then I checked the injection pump timing: it was 10 degrees late! MAYBE that's it.
 
 Diary: [19 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-sanding-and-fillets.html)
 
-To change the timing on a 2QM20 you take the pump off completely and add or remove shims between the pump and the block. 0.1 mm of shim is about 10° at the crank. I found three 0.34 mm shims. Without any, it was 1–2° early. A 0.1 mm shim would be nice, but I couldn't find one, and I'd rather be a little late than a little early. So one 0.34 went back in, for about 22° (−3 to the mark). Reassembled and started: now it runs all the way to 3,200 RPM with no white smoke! 3,200 is a bit much, but THE ISSUE is fixed.
+To change the timing on a 2QM20, you take the pump off completely and add or remove shims between the pump and the block. 0.1 mm of shim is about 10° at the crank. I found three 0.34 mm shims. Without any, it was 1–2° early. A 0.1 mm shim would be nice, but I couldn't find one, and I'd rather be a little late than a little early. So one 0.34 went back in, for about 22° (−3 to the mark). Reassembled and started: now it runs all the way to 3,200 RPM with no white smoke! 3,200 is a bit much, but THE ISSUE is fixed.
 
 ![Injection pump on the engine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaPcGdzDhnNqq8Hf1n_OyJcYGnh-oi1lnhk4Q1hEMenJ7x20Uez3DgV4ssxIj6oRxoCt35JypwRJgGuIqgLumCJ6Pniea7nkNx_Ko_vuAjvJw-EWbxnBZW5KBsSxg2vB0nSojpahejNi10vWCTOw8NHpa-nv_E4QDWvR7H2Xk45Wtd0jsN3st8M5YLBA0Y/s1600/pump.png)
 ![Injection pump timing setup](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisLOHdyoidh43RbTU9DEcOfq8O4a6SvAYmAV7xXDPH4rwOF3HVzJgy7HnLOwUuW889oCm2_lnSVBXNv0cItL3m4qNa_E-e0KaPaZU8WvIFO-HfWnZoG4lE2qrNDRsfChQNGHqpKg4xG50Dk88_6btqA9wgu0ZP5dZXpkL71MWn-WQmRoQ46hwqxdnihqDF/s1600/IMG_9956.HEIC)
@@ -279,7 +278,7 @@ Diary: [26 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-la
 
 ## Steel angles under the mounts
 
-I routed the tops of the blocks down about 1/4 inch to fit 3x4x1/4 steel angles under the engine mounts, and cleared the glass on the sides of the blocks for the front mounts. Why? Lag bolts loaded along their axis by vibration will loosen; that's exactly what happened, all the originals stripped the wood. So: mounts bolted to steel angles, and the angles held by lag bolts from the side, so the screws only take side load. Four 6-inch pieces. Two long angles or a welded frame would be nicer, but then I couldn't glass over the blocks, or I'd need to rebuild the whole engine bed. Four should hold even if the boat turns over. The engine mounts were adjusted almost all the way down, so I had to cut the angles into the blocks. And a good moment to repaint under the engine.
+I routed the tops of the blocks down about 1/4 inch to fit 3x4x1/4 steel angles under the engine mounts, and cleared the glass on the sides of the blocks for the front mounts. Why? Lag bolts loaded along their axis by vibration will loosen; that's exactly what happened, and all the originals stripped the wood. So now the mounts are bolted to steel angles, and the angles are held by lag bolts from the side, so the screws only take side load. Four 6-inch pieces. Two long angles or a welded frame would be nicer, but then I couldn't glass over the blocks, or I'd need to rebuild the whole engine bed. Four should hold even if the boat turns over. The engine mounts had been adjusted almost all the way down, so I had to cut the angles into the blocks. And it was a good moment to repaint under the engine.
 
 ![Drawing of the engine mount on a steel angle](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirCNQ-rHQ0qmgV0z6PUbeKNW5vp0vsUz5gRwwki9-dnBRlK1UNm4u16Z2jkTmiAqWdaFTaUaeBUCM92PTLHoYqsIh8T1_FnI2wf_b2kHrp7vy3fgrL7B8zUzP461hpo83886aDn640YgoiiDfTCIaScBPpZMje8ITNL2HDjbcXMml4SelJMAdnVO5Y2pxm/s1600/e-mount.png)
 ![Engine beds routed for the steel angles](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq_c-IDxs1GBj_ouDXQL788JJuRrY63A7FK2j2-yeGbDHhi8KcAyGh1wAVBL5WSt9qCf7mPEjLGAb9sCY-XHJUU-wqNugEpXUwKfa_W33a5MLq2AW5xT4Opl5GKuNuE7rH3vy1Z1jpAWDswF3TtmJA2DHmsEfq0r2AtVg5K_oY7z7htJkeybSfSLYjQQm7/s1600/IMG_9995.HEIC)
@@ -297,13 +296,13 @@ To mark the holes, I screwed down a sheet of 1/8 acrylic, marked the original mo
 
 Diary: [11 Feb 2025](https://irwin34.blogspot.com/2025/02/day-187-engine-mount-angles-position.html)
 
-Angles drilled and tapped, dry fit to be sure the mounts land right, holes pre-drilled in the wood for the lag bolts. Prime and paint next.
+The angles were drilled and tapped, dry-fit to be sure the mounts land right, and the holes pre-drilled in the wood for the lag bolts. Prime and paint next.
 
 ![Steel angles on the engine beds, dry fit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJbMDn-NthI3MEdBFFu9OK8Vsq-v2NW8MDxfftcWLRcs731j4EioEs2Aleaq5JtyD60W7y1eu5vYmka80-voOU0Sv-k5InTL1i8FmskyrM4fgGAlZ-Me-Wnvv8yd2P0Hwj465nwrpfLv-Ur64gjiitUEV5NyUapXl7aRxdrxpKKLIWXvADjt5Vv8Nz-4Uw/s1600/IMG_0086.HEIC)
 
 Diary: [16 Feb 2025](https://irwin34.blogspot.com/2025/02/day-188-engine-mount-angles-dry-fit-and.html)
 
-Then the angles went on, with a little thickened epoxy between steel and wood so there are no gaps. The boat is waiting for the engine.
+Then the angles went on, with a little thickened epoxy between the steel and the wood, so there are no gaps. The boat was waiting for her engine.
 
 ![Steel angles installed on the beds](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyFpa23H6V-gq0ybmzEGBWJWoDCyjVHC_bg1cwbg2Mvxt9hnDe_pvfFaYqFOM1iZoVKyd0SfNO6iiu3UFWv8jCdEpCJL_BFVqMQsMcfGfj2GlpB9EDHL_XBlIzAno_TfP-vRi5KJTOGzT5gyZs-oe5H1zo_hxzLRudfvFH-JaRcF9ixNLEdC74iYX7lv53/s1600/IMG_0276.HEIC)
 
@@ -364,7 +363,7 @@ Custom parts:
 
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
-I'd mocked up the cooling in copper pipe first, soldered to shape. The blue arrows are the short loop (cold engine), the red the long loop (hot engine). The new fuel filter bracket, and the bracket on the exhaust manifold for the heat exchanger.
+I had mocked up the cooling in copper pipe first, soldered to shape. The blue arrows are the short loop (cold engine), the red the long loop (hot engine). Here's the new fuel filter bracket, and the bracket on the exhaust manifold for the heat exchanger.
 
 ![Measuring the engine compartment height](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9ZREoSQXe9A5Xp7XUqJu3uDSrPaTtVlRGBwWewMzMVY48jOJ5zTgrtvs_JXf_lqJ-K3r19Ny_hQZpHGa6zu0NS1nqzgrBQir5JR1H2f2l9HyL9p8mSnhhr6B0TUfiPlS_lIXLrOgjQuUpGRe-pk7OBSEy2pE1ZfkVtPrgIa0NT04mAZb1mREmOywTuyz7/s1600/IMG_0230.HEIC)
 ![Copper mock-up of the cooling with flow arrows](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB1KIILrtiwN4K9-abTFG8HzwSOzRqQYxBRqzFS_yJ6NhIJRXn-t0XyR6OH1A7FwH2JtjvYfqzpFdG8F5n_BaMegrBHBgDbHNxBn5iYglBUSAQauuEhDNpCUrEgJOV6klXH0UhmkafBXqvoQTUfsiyUlz6pReLUHup4xVxbabQBevTVXdWUqTkl6Awtls_/s1600/Untitled.png)
@@ -374,14 +373,14 @@ I'd mocked up the cooling in copper pipe first, soldered to shape. The blue arro
 
 Diary: [9 Mar 2025](https://irwin34.blogspot.com/2025/03/day-190-hvac-air-dirtribution-redo.html)
 
-The pump fit: I cut the flat 12 mm front cover and the pump plate, prototyped first with a plywood cover and a Lexan plate. Belt position and length checked, with copper wire as an extender. Parts cut, painted and waiting.
+The pump fit: I cut the flat 12 mm front cover and the pump plate, after prototyping with a plywood cover and a Lexan plate first. The belt position and length were checked, with copper wire as an extender. The parts were cut, painted and waiting.
 
 ![Engine with the water pump and alternator](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgndWJ5JM69K1e1GmTdBCXT7E9W7zvVjDz6WGn46VFpEJ7upIWCC4pKtcGCQrnspB3m2XClWUHv4_SH0KowKf7DvpXayZKtw2w5whnybWVojAbN9vk2cAzSOssL8SgoBRwXfISZI77bFrFfAaUTCbkVER1wF5LWTmmPFhA2PUCcY9PBo1h4I8G-3rpOiBHJ/s1600/IMG_0097.HEIC)
 ![Engine front with the pump plate and belt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJtcsyrZc8GIpDFlmbQxJO6X3lnuhOfmSLbqwNWYQsEUS0Te35IW5b1vnkQWK_a6Ko3WCW_PRkBCsPR7SjdJn7UCdDXzceU-_PQDWkelxdf2qiA8G4rJ9A-KjZI4f5rWgp1A_QjxLmozS7rhyphenhyphenFkIcF4xruBdoWRuM0QzuqOzFM5Fb-kSzXq5mmlAraNnOY/s1600/IMG_0096.HEIC)
 
 Diary: [23 Feb 2025](https://irwin34.blogspot.com/2025/02/day-189-engine-mount-angles-painted.html)
 
-Assembly: flat head cover, new water ports, water pump, pulley and belt. The exhaust manifold bolts became studs for the fuel filter bracket, with washers. New filter bracket and filter, shorter fuel lines. The original raw water thermostat came out of its housing and the heat exchanger bracket went in. Thermostat and manifold installed, heat exchanger connected.
+Assembly: the flat head cover, the new water ports, the water pump, the pulley and the belt. The exhaust manifold bolts became studs for the fuel filter bracket, with washers. The new filter bracket and filter, and shorter fuel lines. The original raw water thermostat came out of its housing, and the heat exchanger bracket went in. The thermostat and the manifold installed, and the heat exchanger connected.
 
 ![Flat head cover with the new water ports](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh70oivu4abhlMwYM1xOBI8iqJYIhhZ3LiC1AQHBJUVXgFQfh7LpHcNzsGlxKI6CEyu9WnePnD08vHbXGURuf3VBVt3dELuPzYGWqRoDIJViQXieeY2Yu0AfgPzSNNgzdiKa4293-OrpnJMwuA7IqPXdlpxf_f1I-1i7i0pEXAKQ_Sni_wR3QPaCtRKXpwT/s1600/IMG_0253.HEIC)
 ![Water pump mounted, front view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-DgK8iXLi4ijwEWYmLcfXEuepY_TA_wcb44cTO_PpsG20_P8bATA6WGgGyC2USxPRNsppcTGlwUiqvMtJSxf1kZKa6IS-JsCI6-xLequmAXB4C2z4egON6DXWSHqsLIO24BB2Sy8qhVxhmwSgrdVGVKgTuUQqukPDy0j9_trHuJpDROXpQFuM0PwvgZku/s1600/IMG_0254.HEIC)
@@ -397,14 +396,14 @@ Assembly: flat head cover, new water ports, water pump, pulley and belt. The exh
 
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
-A lot of learn, check, try, source, return (thanks Amazon), weld, paint, try again. The engine ran with dual-loop cooling. On the test run the digital sensor showed 68 °C max after an hour running free. Without load I can't make enough heat to open the thermostat fully. More testing on the boat. One "95 °C" overheat switch tripped during the test. In a pot on the stove it tripped at about 65 °C. The other didn't trip in oil up to 150 °C, so it's probably not an alarm switch at all.
+A lot of learn, check, try, source, return (thanks, Amazon), weld, paint, try again. The engine ran with dual-loop cooling. On the test run the digital sensor showed 68 °C max after an hour running free. Without load I can't make enough heat to open the thermostat fully. More testing on the boat. One "95 °C" overheat switch tripped during the test. In a pot on the stove it tripped at about 65 °C. The other didn't trip in oil up to 150 °C, so it's probably not an alarm switch at all. Cooking utensils make excellent test equipment.
 
 ![Engine running with dual-loop cooling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiUOwh9biXRgU8u6LNJIgv0VRi0E9dqh1Oo0TYhHoKVMOkQNW4BXR6jSCEthofY7JxC0qJsu73Ccar_mafa0HjMZgO_JXmOrUUmCa0i5IeNYvJFAR7TjNNlduQtXC7tEEzoA4rwTJQNMatw_XzWpGk0n2xqrjVVsdEAf-2H7BDRsSiwmFNK4ohpjtfrjAf/s1600/E1.png)
 ![Coolant hoses and T fitting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKDJN3E4s0aeOYapti-XZkYTgWw2AIsyzpOwAyRQqvsMEsu2og0l59NtdSnVqDhlIWl8UJs5weqfDjowwXqBNNY6A7l8ptwjE-j869t1YeWraBzkSPBPlnt5w6Aw2Mw3NiWsrSoR9jnXCcSdiKKNxR48fhiNjKwsuBZuKX8RxJ7004rO60d2_cr4S4xHj/s1600/IMG_0294.HEIC)
 
 Diary: [16 Mar 2025](https://irwin34.blogspot.com/2025/03/day-191-engine-fresh-water-conversion.html)
 
-Later the custom manifold became a simple T, which let me lower the thermostat and top hose an inch.
+Later the custom manifold became a simple T, which let me lower the thermostat and the top hose by an inch.
 
 ![Coolant hoses and T fitting, another view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKDJN3E4s0aeOYapti-XZkYTgWw2AIsyzpOwAyRQqvsMEsu2og0l59NtdSnVqDhlIWl8UJs5weqfDjowwXqBNNY6A7l8ptwjE-j869t1YeWraBzkSPBPlnt5w6Aw2Mw3NiWsrSoR9jnXCcSdiKKNxR48fhiNjKwsuBZuKX8RxJ7004rO60d2_cr4S4xHj/s1600/IMG_0294.HEIC)
 
@@ -423,7 +422,7 @@ Diary: [23 Feb 2025](https://irwin34.blogspot.com/2025/02/day-189-engine-mount-a
 
 My engine apparently never had a manual starter, or its front pulley was changed. The hand-start sprocket sits in the same plane as the alternator belt pulley, so the crank can't go where the raw water version has it. The chain should run behind the belt pulley; on mine there's no way. The fresh water version needs a bracket that exists only in theory and can't be found, and if it could, it would cost a fortune.
 
-But it's a MANUAL starter. The load comes from hands: maybe 15–20 lb on a 15-inch handle. So I mocked one up. I bought the original Yanmar chain (basically a #410 bicycle chain, 1/4 pitch), a 25-tooth bicycle sprocket, a 20 mm shaft, 20 mm pillow bearings, a 20 mm sprocket hub and a 1/2 x 2-inch steel bar. Six holes in the bar, four threaded, the bar on the engine, a pillow bearing on the bar, the chain shortened by three links.
+But it's a MANUAL starter. The load comes from hands: maybe 15–20 lb on a 15-inch handle. So I mocked one up. I bought the original Yanmar chain (basically a #410 bicycle chain, 1/4 pitch), a 25-tooth bicycle sprocket, a 20 mm shaft, 20 mm pillow bearings, a 20 mm sprocket hub and a 1/2 x 2-inch steel bar. Six holes in the bar, four of them threaded, the bar on the engine, a pillow bearing on the bar, and the chain shortened by three links.
 
 ![Original Yanmar hand-start cover](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhseXeCmby9C4PkrOBFHKhWH7JPxNhr71fVOL6EG1UMI-b8OAbtE_trXFWWVu-_Wv9v403dI4JLYF6emy87OZjWflM0cXinWdfMLwFISWnIMqNne6IaG3vkpY-beciiyTvqB0m1XW1NP7L9iyM6zy9odgun1Pl1B47rWN-fjO9133aSXAZdEbC7ioCErsTi/s1600/12.jpg)
 ![Hand-start sprocket on the timing case](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9H8fg3hEheDtikXH_Lhzxy6xDAGLvEy9kTmkHkZL3OOox-_-Uz10afUOIGk6nBDRxg0ns-D4uC0h2ONCt7RM845ReHi7EnBLu3Ssxn-8AyLbPzR1Cvd5ueWIRz7oY0uT1ArK-hqd8JsFu9DT-NszlKMZUVLHKwLbugX-2TwqBt8InrejerWfqBYdTMd87/s1600/IMG_9833.HEIC)
@@ -433,13 +432,13 @@ But it's a MANUAL starter. The load comes from hands: maybe 15–20 lb on a 15-i
 
 Diary: [13 Feb 2025](https://irwin34.blogspot.com/2025/02/in-meantime-at-home-garage-engine.html)
 
-The handle-end shaft needed a hole for a pin. It's HSS, so I had to heat it red and let it cool slowly before I could drill it. And the handle: an adapter so a regular winch handle works as the crank. A thick-wall 29x19 pipe bored to 20 mm, with a slot for the pin on one end, and a winch handle socket welded on the other. I modeled the socket and ordered it 3D printed in stainless from JLCPCB, $24.
+The handle-end shaft needed a hole for a pin. It's HSS, so I had to heat it red and let it cool slowly before I could drill it. And the handle: an adapter, so a regular winch handle works as the crank. A thick-wall 29x19 pipe bored to 20 mm, with a slot for the pin on one end, and a winch handle socket welded on the other. I modeled the socket and ordered it 3D printed in stainless from JLCPCB, for $24.
 
 ![3D model of the winch handle socket](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZZgmV3gEllWnCGLiBWJsxmEDSYEnKg2JCoZJXBD3jVVG5Z2oYTb2aHGLXtNSYh58wdJlcnk3tvfQdsCdOf1qAxpHSicNKlW8VYh5q24Cfk31wtB__6aokJ1e3IreZC-oGIuBTYu-vNlgtGfDxgR02Wd-GbmfiPqMVxNbrfG9WTj1ODiV0Q4MQJPR26d6/s1600/ada.png)
 
 Diary: [23 Feb 2025](https://irwin34.blogspot.com/2025/02/day-189-engine-mount-angles-painted.html)
 
-The final version: an 8 mm steel plate, about 200 x 60 mm, screwed to existing holes on top of the timing gear case, two pillow bearings, a shaft, a 28-tooth bicycle sprocket and a hub. Dry fit in the shop. With the engine in, the shaft with its pin hides inside the compartment. I drilled the wall and put in an HDPE block to support the handle adapter. A standard winch handle solves two problems at once: a good handle, and where to store it.
+The final version: an 8 mm steel plate, about 200 x 60 mm, screwed to existing holes on top of the timing gear case, two pillow bearings, a shaft, a 28-tooth bicycle sprocket and a hub. Here's the dry fit in the shop. With the engine in, the shaft with its pin hides inside the compartment. I drilled the wall and put in an HDPE block to support the handle adapter. A standard winch handle solves two problems at once: a good handle, and where to store it.
 
 ![Hand-start mechanism, dry fit in the shop](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1e2gNk-6Tqmu3rJyOzB-LAmTAl7nXe_HPCJkk-wU7dEbjdElSItmza0nxvSaFx1ETSVfEt5mwE6FHCbkYFU940P72_A-yTNlFWfTpM33Uk5-fLa5U0HLq1GXa8pJIeFR-wvv_k2ozAVt13joZ3_qHL2Og6WM0MPC0ogIzVYdh9X1pUrxeywL7iqHULx8/s1600/IMG_0076.HEIC)
 ![Hand crank shaft inside the engine compartment](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUhGEbimHwKdRIhOU7HUi9Rq12scDqWgW3rDyYJEEXQ36_Xr2yGzL8HnxjZKRaOPzr0skIhl5ft1xmQLHM0tdS_qzS46P9tEVmhQgVie6EtUYEB1xvxQtO5QCVQp_nTiG6hx1gclqmF2QuG8GsIGqogWDB849WsAA8YGVKao8K1BW7hooC6eEGzZIVeHW_/s1600/IMG_0811.HEIC)
@@ -459,7 +458,7 @@ Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-e
 
 ## Down the 140 steps
 
-March 2025, getting the engine ready to travel: strapped to the dolly, with a 3/4 plywood "skid board" at its foot. 7:30 AM at the marina. Assembled the crane, hoisted the engine, moved the car out. Goodbye, my crane. It was made of 2x4s and 4x4 posts and worked well the whole time. I donated it to the marina community.
+March 2025: getting the engine ready to travel back, strapped to the dolly, with a 3/4 plywood "skid board" at its foot. 7:30 AM at the marina. I assembled the crane, hoisted the engine, and moved the car out. Goodbye, my crane. It was made of 2x4s and 4x4 posts and worked well the whole time. I donated it to the marina community.
 
 ![Engine strapped to the dolly](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8UtCc45alwWeno-yd5CxcRv0IHcuvAqr0imhxCIuKzJDWifzNF5pINy0x5duiSXGvCfZIkHlCF3XarknfmRAjPiyGxICOoM4kS7vzH0AjxJ27_uXYG1vAa5dpLmHP7-3II6vsoEd6ZbeGlV3xJW1Ped7NWURM-8AoxwJFLyTCARcmceSzGncacKjlVa9K/s1600/IMG_0293.HEIC)
 ![Engine on the dolly with skid board](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh48WwJ5Ri-MICNoI2WYvlQXIuPytZtutrUOuWCe7sj0nY9yazkTk-2WP-ry8LOI2aP8d2Sbnadeqf7ib37VGdXuTLNbScLEFdgoxnrmP01BnJ7y38PgZ_S8FMAbLBy1cKc-4X_GjbWQh7t0mZp3MqvWRFXW1dP3oamAAXlIeU0D3QYu6B6RUb8CoFc_eFE/s1600/IMG_0292.HEIC)
@@ -470,7 +469,7 @@ March 2025, getting the engine ready to travel: strapped to the dolly, with a 3/
 
 Diary: [23 Mar 2025](https://irwin34.blogspot.com/2025/03/day-192-engine.html)
 
-Going down: two cars. A rope from the engine to a block on the first car's hatch at the top of the hill, then to the second car, which controlled the tension. Four boards to slide on the stairs, two at a time. Then the chain hoist on the boom, hoisting, and the engine is on the boat! Lowering it into the compartment took a lot of effort, but we did it. The engine is home.
+Going down took two cars. A rope ran from the engine to a block on the first car's hatch at the top of the hill, then to the second car, which controlled the tension. Four boards to slide on the stairs, two at a time. Then the chain hoist on the boom, hoisting, and the engine was on the boat! Lowering it into the compartment took a lot of effort, but we did it. The engine is home.
 
 ![Engine waiting at the top of the stairs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmvm9lpsX1gOgnZr5iapCw6JZ8ng1a2QjApa83b0gTUjsiJkELAY1Qk_97ovCd6nirowgSz8EFC8hTtiVSx38rYjOUyj3NhiH0pKCtU2jFvbWDenRjISBPuC8ctvOSlXV8-pFRp3fcs-BNFE9hqYht6_sFJZT4AlkD_2enQXmJ5s_BG7mSuae_NMDFDHRH/s1600/IMG_0298.HEIC)
 ![Engine going down the stairs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgahBq15yx5FvmkF9mhmi-cWaz4_Z_FgxG8VCPAKO_f6z54KOGAA5hllBGPwCtg-Bij4pVBlxcKWEL8QVEtHCWsRgz-SmR0dGIlfLQ4OhIoZuqZOaUrSUYgfkkAkkczYHJDuEkZG5BjxOsv8VcMxnsukaGRD6c7eT_wznjTAoS85sp52M1wIeNMhbh1rxqA/s1600/IMG_0299.HEIC)
@@ -485,7 +484,7 @@ Going down: two cars. A rope from the engine to a block on the first car's hatch
 
 Diary: [23 Mar 2025](https://irwin34.blogspot.com/2025/03/day-192-engine.html)
 
-Then the heat exchanger. On the engine its inlet had no access, so I mounted it separately: above the wet muffler, as close to the engine as possible, level, and high enough that air runs out naturally. Slightly longer hoses, but much better access. Two hours to get it tight, with about 2 inches between it and the wet exhaust hose. Finding a place for the coolant expansion tank was a little struggle; for now it's on the wall to the right.
+Then the heat exchanger. On the engine its inlet had no access, so I mounted it separately: above the wet muffler, as close to the engine as possible, level, and high enough that air runs out naturally. Slightly longer hoses, but much better access. It took two hours to get it tight, with about 2 inches between it and the wet exhaust hose. Finding a place for the coolant expansion tank was a little struggle; for now it's on the wall to the right.
 
 ![Heat exchanger mounted above the muffler](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhle3Y4xe8GIVCUpNxLFZESQo7XwcKodctlK-6c_7PsWPW1z6fpPnvBLE2mCScPjOlg0mTP2THUfc09df0IH00sZbe2HNZWSXIBbnimaCIWPAXZwdVLw3CmEHDK6_RNIrOHH6b-UioshG1aK-14l-stna7JpZeE81KsQrC8hYbUgM97oxc24dwZXncLnWIt/s1600/IMG_0356.HEIC)
 ![Engine from above, heat exchanger and filter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZkoWsFz5a4jETOG7WfsQMWvD9pAuVouicXxwAwzkuRp84OTWgX88CywkgCyELMrQTh6TSpqHDqOppVUb-2NJVlkQzBVLITkXXHWfjrzG5L_EfY3W865nUJO7PfClRwXlhnvPaR1W6x0_MGNFnPEc51Yvb8xvQ_TPvSDxynUzwd0WTX7ugjacg7fMw3ldL/s1600/IMG_0307.HEIC)
@@ -494,7 +493,7 @@ Then the heat exchanger. On the engine its inlet had no access, so I mounted it 
 Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishing-heat-exchanger.html)
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
-Then the gearshift and stop cables, idle speed, and the throttle cable so it doesn't fight the idle screw.
+Then the gearshift and stop cables, the idle speed, and the throttle cable, so it doesn't fight the idle screw.
 
 ![Shift and stop cables connected, temporary monitor box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjG6RO3U49PuSDFxoZM344RWb1-Ud1Sg1A0G_0Ejx5P3AWfBl1lyJ2Gsmu2XUOuH1PdQQI2Lm9bCQuP8a6MLbiBW9hI93YiHv8MBvgxELryBnhzh50Ez1NSHYECIpLjnczimW-2FWmomlESwU1zx2MPbrOhOmCctM9d3Icm_xGzHRrR0yoNCyVGtHN-mH/s1600/IMG_0355.HEIC)
 
@@ -502,7 +501,7 @@ Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishi
 
 ## An engine monitor
 
-In October 2024 I designed an engine monitor module based on the open-source SensESP project. I'd bought a cheap 4,000 RPM tachometer with an M16 sensor from AliExpress, but the sensor signal wasn't strong enough above 1,200 RPM. I'd planned a monitor anyway, so it got an amplifier and filter to feed the gauge a strong signal.
+In October 2024 I designed an engine monitor module based on the open-source SensESP project. I had bought a cheap 4,000 RPM tachometer with an M16 sensor from AliExpress, but the sensor signal wasn't strong enough above 1,200 RPM. I had planned a monitor anyway, so it got an amplifier and a filter to feed the gauge a strong signal.
 
 What the board does:
 
@@ -522,11 +521,11 @@ The board is made and tested, with a few small changes, and conformal coated. Ta
 
 Diary: [19 Oct 2024](https://irwin34.blogspot.com/2024/10/day-172-101924-engine-monitoring-module.html)
 
-When the engine went back in, I installed the monitor temporarily. It's very important to see the temperature now, to confirm the engine doesn't overheat and the thermostat works. It sends to Signal K: coolant out and in, raw water after the exchanger, wet exhaust, gearbox, packing and engine room temperatures, the oil pressure and overheat alarms, alternator and start battery voltage. Later: oil pressure, fuel level and coolant level.
+When the engine went back in, I installed the monitor temporarily. It's very important to see the temperature now, to confirm that the engine doesn't overheat and the thermostat works. It sends to Signal K: coolant out and in, raw water after the exchanger, wet exhaust, gearbox, packing and engine room temperatures, the oil pressure and overheat alarms, and the alternator and start battery voltages. Later: oil pressure, fuel level and coolant level.
 
 Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishing-heat-exchanger.html)
 
-In May 2025 I finished the install: all sensors connected, connectors re-crimped through the box, wires routed and zip-tied. Installed, just needs a label. Then the dashboard.
+In May 2025 I finished the install: all the sensors connected, the connectors re-crimped through the box, the wires routed and zip-tied. Installed; it just needs a label. Then the dashboard.
 
 ![Engine monitor board, top view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS_p4v_FJpy-89DGI-rxhmNWXsFvAP6nkINhJp2yezEQJakKI1TUwE67cUs_ujsGC2I85iqtoDOZMzwODG6Gtv1dsQTq-EtRI2dCXLl3V78LSz8y0u7tqyQb8hOZVkfqkMGgnxQ1Y5cRY83Cmm-_Md7M9mo-oNGFy2Y8cZTziHuL6d0aBgSsKOEpHXN8bH/s1600/IMG_9198.HEIC)
 ![Engine monitor box wired in the engine room](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqAsd6shYv4kyDkADwcV1ofRkaqCkfmfhiiKypAQv2iS-p0vy8L4lj3DLaPZ1Kofq_Qv8fMtRL-NNBqb8t-osG1cEbZ1dJmYL78Y4F-qM0qMb1rQk_ZIZsyi5RAvRs1OaZYwxgIor0YILyjtULvelWLuKIWeTP2p4fvQhiOVQT2NmfpeJJ37e5xn7ZBArA/s1600/IMG_0656.HEIC)
@@ -537,11 +536,11 @@ Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-199-engine-monitor
 
 ## On the water, and new mounts
 
-I spent hours cleaning up so I could take the boat out and test the engine, then two hours on the water. More vibration than I'd call OK. The alignment looks off and I'll redo it, and maybe adjust or replace the mounts. Under load it works great: no black smoke, no dense white smoke. The low RPM and the sound when I accelerate make me a little nervous, so I may measure the injection timing again.
+I spent hours cleaning up, so I could take the boat out and test the engine, then two hours on the water. More vibration than I'd call OK. The alignment looks off, and I'll redo it, and maybe adjust or replace the mounts. Under load it works great: no black smoke, no dense white smoke. The low RPM and the sound when I accelerate make me a little nervous, so I may measure the injection timing again.
 
 Diary: [13 May 2025](https://irwin34.blogspot.com/2025/05/day-197-engine-testing-under-full-load.html)
 
-June: new engine mounts, Ellebogen GT-SDD55 (#120450-06802), as their sales rep recommended. I planned to lift the engine with a hoist, but on the Irwin 34 the companionway is right above it. A car jack? Not enough room under the engine to lift it level. Someone on the forum suggested a basketball as a lift bag, and it works absolutely great. A $9 basketball, pushed in deflated between the oil pan and the bilge floor, and the 400 lb engine came up easily and evenly. Unlike jacks, it even lets you shift the engine side to side. Engine back down and tested. All works well.
+In June: new engine mounts, Ellebogen GT-SDD55 (#120450-06802), as their sales rep recommended. I planned to lift the engine with a hoist, but on the Irwin 34 the companionway is right above it. A car jack? Not enough room under the engine to lift it level. Someone on the forum suggested a basketball as a lift bag, and it works absolutely great. A $9 basketball, pushed in deflated between the oil pan and the bilge floor, then pumped up, and the 400 lb engine came up easily and evenly. Unlike jacks, it even lets you shift the engine from side to side. Then the engine went back down and was tested. All works well. Best $9 I've spent on this boat.
 
 ![Basketball used to lift the engine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLU_OlbsXJesV3Uq3uVbcqDXXrkfLBgqtG5DH-N-_MaON-EP-yMs2bG769_rYfvUSi7BxFFSBWIdFGMusgWxvUjtD-LAcuI34Vng4uKoyEW5YUUb9CXTnfMu4a1w36W5GpJYv-j33XPB6TdT_fj5MEZ8gciB_74RRko_1mapDDhqaL0KwCuDhWTY62-dMs/s1600/Untitled.png)
 ![New Ellebogen engine mount on the steel angle](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSpL2uy8ufSTNc99sBpgTMfPjikyTNqYFfH_BzZvrACpcN282EM9lmZNQS0YDeyFfEcduLOFptt8vwar7uQ6d7-LwXrgg0nFLMt4S361IE8EEc51_9hzOAOXLwRm1UfzwGDEGvzA0NlnNsQF2Z9BSdpb1Wqy7hyZKeh47Zw4fw2o5q1DOn8rCQ3YBD7_b/s1600/IMG_0784.HEIC)
@@ -549,15 +548,15 @@ June: new engine mounts, Ellebogen GT-SDD55 (#120450-06802), as their sales rep 
 
 Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
 
-Small things: after the engine went in, the oil was 30 mm above the mark, so I pumped some out (maybe). I measured the coupling, in case I find a way to fit a soft coupling; a standard one doesn't fit. Maybe my own version someday. I'm not sure 3D printed TPU would survive, but it would be interesting to try. Calculated: about 110 kg of tangential force on each screw at full 20 hp and 866 RPM at the gearbox output. The coupling is 4 inches across, 76–77 mm between screw centers. I measured the draft: about 4.2 feet, and from the water to the top of the pulpit is 10 feet, so about 14 feet total on a trailer. And I put screws in the stove gimbal, sealed the dry bilge controller board with polyurethane coating, and replaced the GFCI DIN-rail box I broke a couple of weeks before.
+Small things: after the engine went in, the oil was 30 mm above the mark, so I pumped some out (maybe). I measured the coupling, in case I find a way to fit a soft coupling; a standard one doesn't fit. Maybe my own version someday. I'm not sure 3D printed TPU would survive, but it would be interesting to try. I calculated about 110 kg of tangential force on each screw at the full 20 hp and 866 RPM at the gearbox output. The coupling is 4 inches across, with 76–77 mm between screw centers. I measured the draft: about 4.2 feet, and from the water to the top of the pulpit is 10 feet, so about 14 feet in total on a trailer. And I put screws in the stove gimbal, sealed the dry bilge controller board with polyurethane coating, and replaced the GFCI DIN-rail box I had broken a couple of weeks before.
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
 
-And a few more: I replaced the old engine overheat lamp fixture (its rubber was gone). Trying to tighten the ignition switch, I broke it; it had been cracked along that line for a while. Good that it broke at the dock. I reconnected the compass light with a connector, confirmed the steering cross member has no life-threatening cracks, looked at the dorade box for a water separator and found a wasp nest, put in a 32 A, 30 mA GFCI on the shore line (its IP67 box won't close, so I need a deeper box or spacer), and added three 12 V outlets for fans: starboard between the galley and the settee (with USB), port on the nav station by the shelves, and in the head.
+And a few more: I replaced the old engine overheat lamp fixture (its rubber was gone). Trying to tighten the ignition switch, I broke it; it had been cracked along that line for a while. Good that it broke at the dock. I reconnected the compass light with a connector, confirmed that the steering cross member has no life-threatening cracks, looked at the dorade box for a water separator and found a wasp nest, put a 32 A, 30 mA GFCI on the shore line (its IP67 box won't close, so I need a deeper box or a spacer), and added three 12 V outlets for fans: starboard between the galley and the settee (with USB), port on the nav station by the shelves, and in the head.
 
 Diary: [29 Jun 2025](https://irwin34.blogspot.com/2025/06/day-205-fixed-windows-trim-frames.html)
 
-I also replaced the raw water hose from the pump to the heat exchanger with one piece; before it was two. And a temperature sensor in the raw water between the heat exchanger and the exhaust manifold, to watch how well the exchanger works: a T fitting with an M8 nut welded on and a threaded DS18B20 inside.
+I also replaced the raw water hose from the pump to the heat exchanger with one piece; before, it was two. And I added a temperature sensor in the raw water between the heat exchanger and the exhaust manifold, to watch how well the exchanger works: a T fitting with an M8 nut welded on, and a threaded DS18B20 inside.
 
 ![Engine dashboard showing temperatures](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIHFoVqZo2BNeFJZhOTKIvzWNkZiyiEikVBk9-62rizlySFOovtDxiUuNpLdgw8Qj6y2ocku78n16sLiEoi_OJKp4OZNvqXRqsRoelkCe7aXW19KDgpg6_U1JyTuD0xqhfQCRhuuNyBUsIIxOG0oupBFUX7yHONVHbFla0_ZekckkgbaEXjddPnDFMS4cS/s1600/IMG_0827.HEIC)
 
@@ -571,14 +570,14 @@ At the boatyard in 2026: a SeaFlo raw water strainer, on a stand so I can clean 
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-Small things before the splash: new aluminum deck light brackets instead of the original mild steel. The camera and wind instrument rebuilt with a power supervisor. 3M 4200 inside the rudder mount spacer. The autopilot actuator reattached with a 3/8 to 5/16 spacer in the arm and a second nut with Loctite. The shaft coupling bolts tightened with Loctite. A vent hose on the PSS seal. The cockpit hose clamps checked. Engine room, bilge and cockpit cleaned.
+Small things before the splash: new aluminum deck light brackets instead of the original mild steel. The camera and wind instrument rebuilt with a power supervisor. 3M 4200 inside the rudder mount spacer. The autopilot actuator reattached with a 3/8 to 5/16 spacer in the arm and a second nut with Loctite. The shaft coupling bolts tightened with Loctite. A vent hose on the PSS seal. The cockpit hose clamps checked. The engine room, the bilge and the cockpit cleaned.
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-When I put the engine and shaft coupling together I couldn't find the right setscrews and made them from regular bolts, which I couldn't drill for safety wire. So I 3D printed caps with tabs, put them on, and wired over them. The setscrews are in with blue Loctite; the wire is just one more safety check. And I checked the rudder sensor calibration.
+When I put the engine and the shaft coupling together, I couldn't find the right setscrews and made them from regular bolts, which I couldn't drill for safety wire. So I 3D printed caps with tabs, put them on, and wired over them. The setscrews are in with blue Loctite; the wire is just one more safety check. And I checked the rudder sensor calibration.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-So far about 15 hours since the fresh water conversion. Some people said it's good, some said it would kill the engine instantly. Zero issues so far. I've run it several times for an hour at cruising RPM, about 2,000. On February 13, 2026 we motored 5 hours nonstop at 2,000–2,200 RPM. The engine settled at about 76 °C coolant out and 70 °C going back into the block after the exchanger. No sign of overheating.
+So far, about 15 hours since the fresh water conversion. Some people said it's good, some said it would kill the engine instantly. Zero issues so far. I've run it several times for an hour at cruising RPM, about 2,000. On February 13, 2026 we motored 5 hours nonstop at 2,000–2,200 RPM. The engine settled at about 76 °C coolant out and 70 °C going back into the block after the exchanger. No sign of overheating. The old Yanmar is doing just fine with its new life.
 
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
