@@ -6,12 +6,11 @@ order: 2
 description: "Fourteen weeks of sanding, priming and painting, new hatches and companionway."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludbXj5NF1-gb2goQQ-RS-YlD77BwZt07PFJWfLAWXUeIZrHwACXEqHpRpvtLoBdvknohqM7Btb1Dtg2rSWb8K032ExvL0V7H-3jX1AA2nx2D_fu1cYUjI7fqZ355t5Dyg3IUb1OgxnEtfkquWty1NXPXX0PR7FOclaQIgXpyTzthNi3NgDDc/s1600/IMG_8305.HEIC"
 ---
-
-The deck was 40 years old paint, "maintainable", as I wrote before buying her. In spring 2024 I finally repainted it: 130 hours, 19 work days, 14 weeks. Before that came the companionway and the new hatches.
+The deck had 40-year-old paint, "maintainable", as I wrote before buying her. That word did a lot of work. In the spring of 2024 I finally repainted it: 130 hours, 19 work days, 14 weeks. Before that came the companionway and the new hatches, and after that a deck that looks better than new.
 
 ## Companionway slides and boards
 
-April 2022 I made new companionway slides: dry fit and temporary install, front edges cut at the right angle, teak oil still to go. Looks cool. I drilled the mounting holes from inside and put threaded inserts for M6 bolts in the wood, so the rails screw on from INSIDE with no extra holes.
+In April 2022 I made new companionway slides: a dry fit and a temporary install, the front edges cut at the right angle, teak oil still to go. Looks cool. I drilled the mounting holes from inside and put threaded inserts for M6 bolts into the wood, so the rails screw on from INSIDE, with no extra holes in the deck.
 
 ![Old companionway hatch and boards](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmKD1HCeAr1wOETmQbLDJAaPbKetuSmXOFqziys0XE23M_Opnm6YLf2tiOQOcjPVM2doLfOR5Yik7i5kVl_OJORZUDHDcf1Ay-Xz72NncP7g6zif0nTpc6p3KtVihzZeMiEvnxNlgpcCT2rg0230k88P--_s8R6OtUM1_IokvFgfdaTzPQvtBYZD5V8g/s1600/IMG_2555.HEIC)
 ![Old companionway with the vent and hasp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4YaTeoIxZoEwv_fPZmyq6Z8yEjv2ZvIUV1B8Qkk20HMHj-IdSchrMM_1eVPc5zhy7YF2a3D8v0wPFg4KNzSmDMr7LAlMx0m6cOi3QCtkP413JRnnkZc0_YRx2KOasi_BuE12ubm_QPI3rA_zsdvBAmvZOcIJfl-LFKo-vu_WRjP4qX_ph220x9KrkIQ/s1600/IMG_2554.HEIC)
@@ -20,7 +19,7 @@ April 2022 I made new companionway slides: dry fit and temporary install, front 
 Diary: [23 Apr 2022](https://irwin34.blogspot.com/2022/04/day-22-23-422-42322-stanchions.html)
 Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionway-slides-deck.html)
 
-In May the new companionway boards were made and installed: the top board repaired, and two new ones from teak with 1/4-inch acrylic windows. And the deck drains I'd epoxied were still leaking. Sanding showed voids in my "caulking", so I sanded out the extra goo, worked like a dentist to open every void, and filled them with flexible epoxy so the joint is one solid piece.
+In May the new companionway boards were made and installed: the top board repaired, and two new ones made from teak, with 1/4-inch acrylic windows. And the deck drains I had epoxied were still leaking. Sanding showed voids in my "caulking", so I sanded out the extra goo, worked like a dentist to open every void, and filled them with flexible epoxy, so the joint is one solid piece.
 
 ![New companionway boards with louvers](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbi6whXQsv5hNSWE6tyGEfwd4jCWIp3kx8uUNSamyjbwZHJrZ_bGkJ5cW3E26wEoLB2AsXM0KSyNhUD01OfNfdLyDLv-1PO_VzU3Rm5xs7xkXFVNcWE2qnFgvC9w7zJ0A7m10_OzhxIyoiSVJujMvZtEo532LxaeZvD5gF9uVegDF3tYn__fLQe5ESA/s1600/IMG_2705.HEIC)
 ![Deck drain hole in the hull side, port](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzqiu3QwjYCPvd7LK18YmchcMazuoERoEKrcWhtOztxDMPhGlnjlvKSYUvC7FdfT1CWTOABI9-5t6zLSrTSHaL-6G7xI2k29axNdnabhQpcQvdqVD6sGmbPEoF2I1peGCnSxgWGJkVMWnoQbs2MPgpV3rsZ5S_uwsZ1xl7bneRmD4CYL8OeVeCK-NCRw/s1600/IMG_2703.HEIC)
@@ -34,7 +33,7 @@ In May the new companionway boards were made and installed: the top board repair
 
 Diary: [21 May 2022](https://irwin34.blogspot.com/2022/05/day-26-521-deck-water-drains-part-2.html)
 
-In June I re-bedded the companionway slides properly, since it was clear the deck painting wouldn't happen before October or November.
+In June I re-bedded the companionway slides properly, since it was clear the deck painting wouldn't happen before October or November. (Spoiler: it happened two years later.)
 
 ![Old companionway slide on the cabin top](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNvIt_lbAduWLmUnpbh5Yx-DO97MVPg5qJcRhe9beJ_FLlg6226XE2Ub1S5dWTdmHHA7to_NQC4ureayTMFaguMfXC8ht6I4sEX4cip8PWBqNz_2ldt-CtMd6z1OhncBzDiV-OCOGuP-yBZOouD2YwIJUFrY5b3GywRZDtjAJLLh5zFxhhbwa27ACWIw/s1600/IMG_2907.HEIC)
 ![Companionway slide removed, holes in the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgrBVsM34GWZFlxPWXXyJCDEVSzKpXUz51OZ9hvMkscgLAyCWv-P8effpsiQ5TMI3YYvg8uns6SwGF4GWT_k6-5ScyvYSZ-NZjsQ-xhkAtU_T6GiSG5RPIo9bMDPemop-5iNE3sGDp677PRU4_7KZ_3CErBjghNg9dbHC5xx1tqc_idIuNfo_Coe7zg/s1600/IMG_2908.HEIC)
@@ -43,7 +42,7 @@ In June I re-bedded the companionway slides properly, since it was clear the dec
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-November 2022: one morning I felt water dripping on my head. The main cabin hatch frame had been sealed with silicone, and of course it failed. I took all the planks off, cleaned and resurfaced them, and set everything back on 3M 4000 UV. The corners were a bit of a challenge. Three hours, and one less thing to fix later.
+November 2022: one morning I felt water dripping on my head. The main cabin hatch frame had been sealed with silicone, and of course it had failed. I took all the planks off, cleaned and resurfaced them, and set everything back on 3M 4000 UV. The corners were a bit of a challenge. Three hours, and one less thing to fix later.
 
 ![Rotted corner of the companionway frame](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjM_Ky1zcyfCqGYzaxH_WJwtjhdNpJpEKF22AnZmpfCrPORVUZYpmKPkSgnHCsVQb-P-rs8AAgiMx4VfepnySJYNQEL1kkF_EsprbJy4B3w95LCU7lVT_kPiZrdqhhTKAb4YiK5qNVCHtII4vrZUi7pBKpBqWfsQ2HpibIBvffZN7bg6t6VwtrB5XNzA/s1600/IMG_4101.HEIC)
 ![Old hatch frame on the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEE0gsR9gy7DORYSFBOUaf_hTCkRMhhyOAk27AUEAd3byqlTN7oTvEBKpKMJN6IVWLbWB_LiJQe3FL-TJazqm8Wy7k_5Y21EcTw5B666nDC5CbqFMJPZWr6c7lFgu_DpzGYe0XYjGlCKzwY8fXI98ve7sQgl0KmQtF97WdBa3lS6gIda7YwXx8GMifA/s1600/IMG_4104.HEIC)
@@ -54,13 +53,13 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 ## Hatches that didn't fit
 
-January 2024: hatches, or how a small two-hour project quickly grows into a medium one. I decided to replace the original hatches, ugly, leaking, badly built and catching the jib sheets, with low-profile aluminum ones. The original one.
+January 2024: hatches, or how a small two-hour project quickly grows into a medium one. I decided to replace the original hatches, ugly, leaking, badly built and catching the jib sheets, with low-profile aluminum ones. Here's the original one.
 
 ![Hatch opening masked on the cabin top](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji7u7u7zqwBWvJxpIXzGx5ROz85tpKy9CBeQmO6QpQCTD3iCisq-NFY6HCjsxaVvQxC8i9VHNYRfgWSidPV1_Nq05SJ3KesvbykkMKrhc1NO8bcm475SZeyb6KTXDmVXx5m9iS9fBHDNWMeZm19xkuurArIRF17zgwtxYhHA72UU_tRMJk5sQtDLwVxb5m/s1600/Untitled.png)
 
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 
-It took almost three months to get them: go2marine shipped one and back-ordered the second. Then I bought 4000 UV and butyl, and... found that round doesn't fit in square. The deck opening is square and the hatch frame has round corners, and the frame is about 8 mm smaller than the opening on each side. That's good, the other way would be bad, but together it means the corners turn into holes. Views from inside and outside. So, a fiberglass frame, patching, sanding, painting, and a couple days' wait. Step one: sand off the gelcoat where the glass goes. Then plan the frame. I couldn't leave the opening open, so the old hatch went back on, sealed as well as I could.
+It took almost three months to get the new ones: go2marine shipped one and back-ordered the second. Then I bought 4000 UV and butyl, and... found that round doesn't fit in square. The deck opening is square and the hatch frame has round corners, and the frame is about 8 mm smaller than the opening on each side. That's good (the other way would be bad), but together it means the corners turn into holes. Here are the views from inside and outside. So: a fiberglass frame, patching, sanding, painting, and a couple of days of waiting. Step one: sand off the gelcoat where the glass goes. Then plan the frame. I couldn't leave the opening open, so the old hatch went back on, sealed as well as I could.
 
 ![Old hatch frame corner and new hatch](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLpsUP6PSmWQSJ2WsHAhabV2llwGLrQ2Yvf8HmZSrwb-BaeHsyciM8rVrRDLZwlVbVxV4EZDvWHoaWY-7KwHYE9E9rZp1OOf8fdQGlpjCinerN30HEWtMcT78Y9rhoSAN-ZHZMv1uCe-Kxz9NhyphenhypheneaV_3DKUCrL__kiDhS1VbQM0WC7u13ujBg_Cq92pMS/s1600/IMG_7263.HEIC)
 ![New hatch lid open over the old opening](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgplznj3wdVvAgdsPbEnWu9Zz9h-x0alydeuzTNs-21-bXOPlJkhlBgo05UgtUJsYJeGz410bv1wrGjuTd1KAdYceMsFI7BRZNnvxwNKhFaQa9tlEsUz1yWkZeWhcIgUJc5PjIoDdP6l9vZpcVfnqH_a5-lONBlIVxAmQn0aH6LNczTNPyqwW0xUIjPx7UE/s1600/IMG_7266.HEIC)
@@ -72,19 +71,19 @@ It took almost three months to get them: go2marine shipped one and back-ordered 
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
-The trap was this: a guy in a Facebook group recommended this model as a direct fit. Maybe his IC34 was built differently, but I got trapped. On MY boat the deck openings were just square cuts. When I dry fit the brand new, shiny hatches, their rounded corners didn't cover the square corners of the openings. And the hatch was about 3/4 inch smaller than the opening, so the mounting holes landed EXACTLY on the edge of the deck.
+The trap was this: a guy in a Facebook group had recommended this model as a direct fit. Maybe his IC34 was built differently, but I got trapped. On MY boat the deck openings were just square cuts. When I dry-fit the brand new, shiny hatches, their rounded corners didn't cover the square corners of the openings. And the hatch was about 3/4 inch smaller than the opening, so the mounting holes landed EXACTLY on the edge of the deck.
 
 ![CNC cutting the G10 frame parts](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvZNIfeQpRY68xzet_RFBMobrMSpX3ftKpDV6MzBTdr1KCXOaa2DF6x5_xA0m18SiR5B2yhbJYMVzlpsOimx93vsBc9yGdN-q0R0RCIxqWfW6VDbuMCe35utlsvpLrAaJKzaH_sOl-tdbZc4axeN-VckEpEr6bR5Ht7jep5-jjLBhmgyHsQQuQbC2Dv0i/s1600/IMG_7266.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-So, adapter frames: covering the corners and giving the screws something to bite. After a week of thinking I chose G10 fiberglass plate, 16 mm thick, with a lip that lies on top of the deck. The outside matches the old deck opening, the inside matches the hatch.
+So I needed adapter frames, to cover the corners and give the screws something to bite. After a week of thinking I chose G10 fiberglass plate, 16 mm thick, with a lip that lies on top of the deck. The outside matches the old deck opening, and the inside matches the hatch.
 
-But cutting each frame from one solid 16 mm sheet would cost about $300 per hatch, and 80% would be thrown away. Way too much. Instead I bought two 500 x 300 x 4 mm sheets, under $80 total, and laminated each frame from four layers. $80 instead of $600. Easy to say, harder to do.
+But cutting each frame from one solid 16 mm sheet would cost about $300 per hatch, and 80% of the sheet would be thrown away. Way too much. Instead I bought two 500 x 300 x 4 mm sheets, for under $80 in total, and laminated each frame from four layers. $80 instead of $600. Easy to say, harder to do.
 
-The first layer is 5 mm wider than the opening and sits in a little groove I routed on the deck. The second is exactly the opening width and goes inside. The third and fourth are just side plates, not over the corners, for strength and so I can put screws from inside if I need to.
+The first layer is 5 mm wider than the opening and sits in a little groove I routed on the deck. The second is exactly the width of the opening and goes inside. The third and fourth are just side plates, not over the corners, for strength and so I can put screws in from inside if I need to.
 
-Several hours of planning, design and playing with my CNC. To save material, the top two layers are made of four pieces each, two with sides and rounded corners and two just sides, joined with jigsaw-puzzle ends. The left is the frame parts, the right is the leftovers. Maybe nice mixing sticks.
+It took several hours of planning, design and playing with my CNC. To save material, the top two layers are made of four pieces each, two with sides and rounded corners and two just sides, joined with jigsaw-puzzle ends. On the left are the frame parts, on the right the leftovers. Maybe nice mixing sticks.
 
 ![G10 frame parts cut out](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9oDoGOan5TO3ss-Sdc6r2fjbbshu-XbjQLZOT4KIjS6pyRA-Wovm9UPi5mkJqGZYhgyCPyNDWnkC5so2aD37uyOuIZZTpmcX-yg8E5gLbcrTizEzvQhlEaeM8ChrcvxVsjLxQVPWlg2qDBn5RVcckkPKrTMCUYYTsuSmtBDQdZ42ms18U4PGG42JU0Fwb/s1600/IMG_7437.HEIC)
 ![Frame parts laid out on the stone counter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4J5YhKzw6alLWA_Zxtjd_MJJuoF3Lr1PXZfNulGwQgWj5Y_IRfO9OPMwllzX4Cp1zuxT1xwwgqLCj0Oz49t2dY94sOrgYye1x-dgrjQ4VBh884VpQGsR8JbTPDnV9fu7wFsSemxZhw17ALCNJxwoQbmcrZDYpTfauj2U1Ab9RP3prtHYm1UCdKCmc9I62/s1600/IMG_1723.HEIC)
@@ -93,7 +92,7 @@ Several hours of planning, design and playing with my CNC. To save material, the
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-The second layer goes on turned 90°, so the joints don't overlap. 4 mm holes keep the layers aligned and hold small parts during machining, and M4 screws pressed the layers together for the dry fit and lamination. It fits exactly. Then laminated, nuts off, screw ends cut. ADAPTER FRAMES READY.
+The second layer goes on turned 90°, so the joints don't overlap. 4 mm holes keep the layers aligned and hold the small parts during machining, and M4 screws pressed the layers together for the dry fit and the lamination. It fits exactly. Then it was laminated, the nuts came off, and the screw ends were cut. ADAPTER FRAMES READY.
 
 ![Joint in the G10 frame](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisboJlBJnA_ThrelQlgzEaMBIrnw4NjmcXu1aDzAXH3l3FnJjnHD2O7QzI25hZ-r5JcXkeknjF3hbM43_s5r_wOWtkAgyHiaYTkldWurfFjE4vvj5ZWAM2iNVbAodPB0M1dOCoMG47JC3P67OUKawKJitdSXX7cIOy27TESMlXMLZAXbWb68kBfb2eczkZ/s1600/IMG_7424.HEIC)
 ![G10 frame corner with alignment pins](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXFGKMgQ9-0C1D8dayzBwYE5ocyRRgcYk69es8N4EhceFHa_uCm4NhJumjMwdhI0T-8n-yoW-JOI1_ufz6Z9YM7h_m3Ina6gNkEb2uY76XU15WgdX9_0whyphenhyphenFVC3pu5o4l8CTZtR0GAj6x1z0I-0AZIA4Q63rsfMxY0xz2Bxcvp6bATcoYmjc-klYClx8PU/s1600/IMG_7444.HEIC)
@@ -106,7 +105,7 @@ The second layer goes on turned 90°, so the joints don't overlap. 4 mm holes ke
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Then the deck. I had to take a little off the edge of the opening so the adapter sits flush, and fix the uneven surface: the deck corners were about 3 mm high. I cut a template from 3/4-inch MDF, 1 mm bigger than the top layer of the frame. It didn't fit my CNC in one piece, so two pieces glued. Then a hand router with a template bit. REALLY DUSTY. Full body protection. The template was just screwed to the deck in two corners, to keep it flat as a reference. I found some voids in the original laminate and filled them with thickened epoxy.
+Then the deck. I had to take a little off the edge of the opening so the adapter sits flush, and fix the uneven surface: the deck corners were about 3 mm high. I cut a template from 3/4-inch MDF, 1 mm bigger than the top layer of the frame. It didn't fit my CNC in one piece, so it's two pieces glued together. Then a hand router with a template bit. REALLY DUSTY. Full body protection. The template was just screwed to the deck in two corners, to keep it flat as a reference. I found some voids in the original laminate and filled them with thickened epoxy.
 
 ![Router template on the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYaNJF_XOzBhAl22UAVF9JY6XXFXPH4x3oJfODarh2nCDk102yZFPcoy3TgTrkbNwRqOtrQ47wuaOYdLNmYiQwhxyxM-vCcd6AnciRPARR9rT5ChsQ2ka8I4NkMHD5Ydyzu2ay-FmTH6VInTvpJpcdjpOpmpjndOyCO9f8rMHTDRwXDEbPsEreokI1luw1/s1600/IMG_7478.HEIC)
 ![Hatch opening with the routed edge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhKy249N56FiP2n23HNB1Bo4UfBCO3EzsIxJTBNYNYdCkRvXl3U0jYPsIyWI8-pODJZWy0p4REHe9Cxhb8COjUd8BEnrd-gGNDzwHLmYgL8j_KMKkoI3Mn5GYASKdyyvxlnhCAOBATlbxu9RBnXFuS5d2xoWt9EyF-1V2dnRQkR8Dsei6ilKt_5IRfZT0p/s1600/IMG_7469.HEIC)
@@ -114,7 +113,7 @@ Then the deck. I had to take a little off the edge of the opening so the adapter
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-By the way, I took all the gelcoat off around the hatch. In places it was 3–4 mm thick and sanding took forever. I don't know how the pros peel gelcoat, but a small hand router with a 3/4-inch carbide bit, set to stick out about 0.5 mm, works great. Much easier than sanding: the whole area in under a minute. You have to be VERY careful and stop as soon as you see fiberglass, then finish with an orbital sander. And the bit won't be good for woodworking after that. One more dry fit with the real hatch, before gluing everything.
+By the way, I took all the gelcoat off around the hatch. In places it was 3–4 mm thick, and sanding took forever. I don't know how the pros peel gelcoat, but a small hand router with a 3/4-inch carbide bit, set to stick out about 0.5 mm, works great. Much easier than sanding: the whole area in under a minute. You have to be VERY careful and stop as soon as you see fiberglass, then finish with an orbital sander. And the bit won't be good for woodworking after that. Then one more dry fit with the real hatch, before gluing everything.
 
 ![Straight router bit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh10SZVluh7InIVQChs6qWQZbyyeoO5XozzsUluCi4Gl0rNE8WzHkBbS762_et8NxvyMk2PSPOTVKVE09HhB3nrF9cR1G73P9PB9NLiwESHroBXHfnBOJxvHRn236Pow4v8Kh2tqf426G2wq2zeJ_zA_uFaZOklsAOWgk4dyt39IG3Q4W1qGuU3ucJL9s1v/s1600/Untitled.png)
 ![New hatch dry fit with the frame](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-lsFCJaiJm-wgdmDNSm3Nd4HlbSzy35MEwyEUFIFe3_QSbks9GIdwpr9otpFXyryMsIPXhfzqA7WAmBhYyTqcPKxQjAQImmq6GXaKQxCfl9XBboylKtvcS0yv4X7MeCzx43MY0XctBmLT55GN2czjJ1hzTSo73dBK_TMopVCOvb5Zlc-SrGB7hBye7pQI/s1600/IMG_7473.HEIC)
@@ -123,7 +122,7 @@ Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024
 
 ## Eleven steps to a hatch
 
-Step 3: frames set on thickened epoxy.
+Step 3: the frames set on thickened epoxy.
 
 ![Hatch frame set on thickened epoxy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvjMHITHVVmlIBUjRebPduYkVzIC6ll4ghhIL23UG_qU-FyB8DwXHGRVCMP7531Pvz7MdBtH0u7KIPe1vQdolymA6V_epvJvTKhHFeyac6nV4rergzZxsr-x24R69AW5QCbJorhTyVRSRo25cKRPuGr57HT0qli0ckpHliYv4S0ZStcOFhMC32usoUErd/s1600/IMG_7477.HEIC)
 
@@ -135,13 +134,13 @@ Step 4: the whole surface glassed over with a layer of 1708.
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Step 5: a flat base. I covered the surface with epoxy thickened with 410 microlight and pressed a 2x2-foot MDF board covered in freezer paper on top, with sand bags. When the "mold" came off it wasn't pretty: air bubbles, paper wrinkles. But it's a good flat reference plane.
+Step 5: a flat base. I covered the surface with epoxy thickened with 410 microlight and pressed a 2x2-foot MDF board covered in freezer paper on top, with sand bags. When the "mold" came off, it wasn't pretty: air bubbles, paper wrinkles. But it's a good flat reference plane.
 
 ![Hatch frame sanded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6E_PRb5A23E0jYTUcZL5WpusKG8yMyjxfv6gWHtPMwPkjPzDmIdIPLU6Dr8tohmgKfnxppblPf6q142i80VHv50qNd8sVcngCA7ecEn06FnZYFqHZCxTg7xLmz7TpoJitWnnjokYr1JO521VVrX1aIt2W9Ie5TWZK312ZJAujZegdn0tyv8C3Cemaq8E_/s1600/IMG_7490.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Step 6: sanded the voids a bit and filled them with the same mix. Ready for primer.
+Step 6: I sanded the voids a bit and filled them with the same mix. Ready for primer.
 
 ![Hatch frame faired](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyGXhAKE79s8W-mgvIXGxQoWZ8KekZZId7cA1fL_CuxDcw1fEc0kCmlg1bt8XxdOD4rxG9XGTnLs0Bg2ZdyIl3zIwf37bqDOtM_BZG3AGff8JkRlzTL3KiJjaknewvK2Lz2BRlt4tP3WIUQ6zUhUJTjZef50CZP1M7HiPBUHGetKVcOndI819iJj_qEG-B/s1600/IMG_7489.HEIC)
 
@@ -160,7 +159,7 @@ Steps 9 and 10: paint. No picture before installing, sorry. It looks the same, j
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Step 11, the hatches, in sub-steps: dry fit the frames, mark the holes, take the hatch out and drill for 10-24 machine screw threads, tap the threads, clean with 50% isopropyl alcohol, butyl tape on the hatches, set them in and screw them down, vacuum the dust and pull out the brown paper plugs, and peel the protective film.
+Step 11, the hatches, in sub-steps: dry-fit the frames, mark the holes, take the hatch out and drill for 10-24 machine screw threads, tap the threads, clean with 50% isopropyl alcohol, put butyl tape on the hatches, set them in and screw them down, vacuum the dust and pull out the brown paper plugs, and peel the protective film. The best sub-step is the last one.
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
@@ -170,7 +169,7 @@ After I slipped and almost fell on the companionway steps, I put non-skid sticke
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-A year later, in June 2025, another compromise. I meant to make trim frames to cover the gap between the ceiling trim and the hatches. Too many other things, and they're still not done. To trim it properly I'd need new frames around the hatch wells. So for now I just painted the rough fiberglass so it's not so sore for the eyes. One coat in the picture; the second went on the next day.
+A year later, in June 2025, came another compromise. I meant to make trim frames to cover the gap between the ceiling trim and the hatches. Too many other things got in the way, and they're still not done. To trim it properly I'd need new frames around the hatch wells. So for now I just painted the rough fiberglass, so it's not so sore for the eyes. One coat in the picture; the second went on the next day.
 
 ![Hatch from inside with the trim](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA45EQ9UAc7OXeP7qDkG_tzQ0UKrRfvmDclAhCfd98Bs7ED7P7e5p0TDGiogmLC0Fn1IoSx9oM30kaGDV-EEtpTmClaEjySBZTKg7K76YiUjn0nmXnEwy3tuTqlF6T_kRfcmW1KvuI7-ztACX0J0BxPegeA6iWg_W5D4jauN-e58ySYq3SmZ0HJlAMnJ_8/s1600/IMG_0892.HEIC)
 
@@ -178,7 +177,7 @@ Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers
 
 ## Getting itchy
 
-February 2024, I got itchy again and started the first step of the deck repaint: sand off all the flaking paint, gelcoat voids and damaged gelcoat. Two cockpit locker hatches were so damaged around the hinges that those areas need redoing. All the gray dots are gelcoat voids, some to patch, some to re-glass. And two places with minor structural damage. One looks like somebody hit the deck with an axe. A sealant-filled drilled hole in the corner of the outside companionway step. Why, I'll probably never know, same mystery as the hole in the water tank. The two "axe hits", big and small, ground out. And at the aft corner of the port cockpit wall some delamination, or maybe just a very "voidy" layup. I'll dig deeper before rebuilding it.
+In February 2024 I got itchy again and started the first step of the deck repaint: sand off all the flaking paint, gelcoat voids and damaged gelcoat. Two cockpit locker hatches were so damaged around the hinges that those areas need redoing. All the gray dots are gelcoat voids, some to patch, some to re-glass. And there were two places with minor structural damage. One looks like somebody hit the deck with an axe. There was also a sealant-filled drilled hole in the corner of the outside companionway step. Why it's there, I'll probably never know: the same mystery as the hole in the water tank. Here are the two "axe hits", big and small, ground out. And at the aft corner of the port cockpit wall there was some delamination, or maybe just a very "voidy" layup. I'll dig deeper before rebuilding it.
 
 ![Cockpit at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggikZgYidQ4IJeeKniKf4OT1BqhqZq54S7VLBdVjaPfSm5LYa-7-2bCDSfiqds3Ydb-s4PsObk-LASBkYUPi_0bL_mhEBdaa4Q_DohNzNEPUpPxbP9i7P-ngGOfKdTUN5hkTFWe5Wn-IDJoHmnXLI_XaEEF18BsalBj9FIGNhF7zvVVdxmOzHspKy__9fz/s1600/IMG_7624.HEIC)
 ![Cockpit seats and pedestal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTWV7YY4B_9ikKsfxt99EsGGGRaJhUOoVGFuUC7ChI_9kTuoVn3vwovSLbWUtE2uqidBp3sQXZKeSCcRbyG8iNQEVHIUtELI88QaiPGHejMFl94haVM8Mz4G_7WlOS0bTqYZCfSb2z3SPdN9UQIV50HWlRGaGR_mMpMV7UK1JFnHajcfhr86_VBDmj02ii/s1600/IMG_7625.HEIC)
@@ -205,7 +204,7 @@ March 2024. Paint prep sounds simple. The amount of work is enormous. My plan fo
 
 Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-painting-preparation.html)
 
-I split the work into areas and started with the cockpit. At first I thought 5–10 small spots. In the end, just in the cockpit: about 20 small spots, 10–15 deep areas 3–10 mm deep, 3 places to rebuild the laminate because of deep cracks, and about 10 holes the previous owner drilled in the top glass and never glassed. Here they are after the first glassing, three layers of 1708 each.
+I split the work into areas and started with the cockpit. At first I thought there'd be 5–10 small spots. In the end, just in the cockpit: about 20 small spots, 10–15 deep areas 3–10 mm deep, 3 places to rebuild the laminate because of deep cracks, and about 10 holes the previous owner had drilled in the top glass and never glassed. Here they are after the first glassing, three layers of 1708 each.
 
 ![Axe hit area by the cleat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWLbfubK_i5O1Ig7yks5r28KV-IN4h5c3nUWL5ppoqk0U64fhn4adTbGTr3AlEiZhkaWlHKJuyVxUOrtQRWN1DZMjJ1LQ5g6F1Kus34zLulDaxPbFyY4N9o7xELaL77cXO3265VpeF8K_6QigHVrqjR1Dg_qv6rRX71tw7hSpWg-vtkAOvebmhRGZ6g28x/s1600/IMG_7654.HEIC)
 ![Patches on the side deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9FSy8N9AG0pXJv3KDyeQL5tKQ6raN9o2N8igLgwRnMnriDpmKZltoChwrNcrU43F9pBaptqClum-EYHprSEeFGOQQvN5mWck1tQxtjnHBpvzyxpmgJx2gOPTCWD6wNGbPUtsB3jSBab48-2E5e7ESN9iHYj0z0rzHBZRYgiPYgxziZzI3E6524xHl9mZV/s1600/IMG_7655.HEIC)
@@ -214,7 +213,7 @@ I split the work into areas and started with the cockpit. At first I thought 5�
 
 Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-painting-preparation.html)
 
-Then grinding off the fibers and the first draft fairing with TotalFair. Sanding smooth: the blue marks show what needs more. And fairing again.
+Then I ground off the fibers and did the first draft fairing with TotalFair. Sanding smooth: the blue marks show what needs more. And fairing again.
 
 ![Cockpit with patches](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikiECVhk_D5DB3IOxJTnP2-vXYy_L3y9tppiPUYmAVm7sQvXdZMWokphgL5FbZ8jZY9fclD0jA_3uetdisyAgRSY5tx9T_CRT6Bl17CBvD2OBfs-_KN9F24GlLuSS3k_N5ur50jsMx5MhJjqXIkrKeb9NCYQfEt674xFUl0tEqBD7SK0V7W0AdyduAYBlm/s1600/IMG_7658.HEIC)
 ![Cockpit with green patches and the companionway](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilk08pkWPzpcwBTN_9dbeDfXPWraMKlcOeK4ffpM-a8Nev3Y7VHTgv2d5LhNfCsrFgKVvINdc9BWyRRmNucC0p94a3lNWoJwrQ5zqF6U9UdJcbnR5ArFryvZKKuFnMolR5fED3XbCrfdcRn6xBXvZO80tIQ4g_2AoL7Vk8z5IaiaPrQk1gPO3cSDV3PnLy/s1600/IMG_7659.HEIC)
@@ -234,7 +233,7 @@ Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-pain
 
 ## Every little void
 
-The cockpit got its final sanding. Still a few spots, but 90% done. Next, the main deck, except the bow around the chain locker.
+The cockpit got its final sanding. A few spots were still left, but it was 90% done. Next came the main deck, except the bow around the chain locker.
 
 ![Companionway area with patches](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB7nY28bUb_Z91ZBSJ7sjID1lKQxHTu_t3FelGsLXamxRzwbiDFfxJvzr_SAkTjOlK5d73wUF320SfnY3peYrWGAmYVr0wEJn3adUyiBbHp79LY8ezIttfDwb-A3CiYC-RjHAK6BRlj1xCyrUMMcKezLxM4rYB-59LJ3MTuMch6XlyPaJLbhuBJC25BtXI/s1600/IMG_7726.HEIC)
 ![Companionway and cockpit side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5QRoGVuu3tFVlIqc9hMA6k0PjhzqTV7PJVe2Xem-UGyNQVQf8UoILp-6pjakSWcRpcR6jxdm3QGR6oGWz7f0OGpHM2L3TwIYYW70zDg1C2x2MopWLzic8DfJEeYm4LLJmW9QTC83F7okz8b-a1D7xFyFmMmvJKHqmN2UsjGUdZNR8wIGbfSvocj11LUIY/s1600/IMG_7727.HEIC)
@@ -244,14 +243,14 @@ Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-paintin
 
 On the port side some spots had been sanded years ago and covered with a very aggressive tape. Getting that adhesive and the plastic leftovers off was really hard.
 
-The companionway hatch cover came off. Almost all its screw holes were stripped. I tapered around them, injected West System with 404 and patched them. Later I'll drill new pilot holes and put the screws back. Lots of small voids in the gelcoat.
+The companionway hatch cover came off. Almost all its screw holes were stripped. I tapered around them, injected West System with 404 and patched them. Later I'll drill new pilot holes and put the screws back. There were lots of small voids in the gelcoat.
 
 ![Side deck strip with old sealant](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6yHHSxM-f0ovEH4oImfcEJyyPzdag3TL2IMJJvkLB_AtJP61rQMGNOkjOU4tfCjIBq8hXHk_m6DUpXpWa4sp1gHlZ78CbyQTiWz8_rINweD8sYGfba8YB1c8MW_SWTcFQ2tdUvfTMMrg3JTehAT18Nh-KZnbAT_ZhPZBml_Fy0i1qxRPFh_x3linwHcTY/s1600/IMG_7738.HEIC)
 ![Forward hatch and deck patches](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2pAIisdHf18G0iYVKiwuR22Njn2u2cGg3h4oeNAlUxf14XsqzRbSC1kgdbrHsELIA2bL5MhVlU2peWTW6Tm4R4N8g6ehsaERr91lU5WRVvdBgpVzdNiOPcZbfaP8Xo9qEQGFdrUyCEVDG_QLQ4338HFuUcBqLWt0JcEjt0gODCQd2eacXiOm85gX2hOnF/s1600/IMG_7740.HEIC)
 
 Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-painting-preparation.html)
 
-On starboard, at the corner of the companionway hatch box, a stress crack: sanded to live glass and built back with three layers of 1708, from small to big. Around the mast base, an opened stress crack. Probably a full rebuild there when the boat goes to the coast, but for now I opened the gelcoat crack and filleted around the plate. Small voids everywhere.
+On starboard, at the corner of the companionway hatch box, there was a stress crack: sanded to live glass and built back up with three layers of 1708, from small to big. Around the mast base, another stress crack opened up. There will probably be a full rebuild there when the boat goes to the coast, but for now I opened the gelcoat crack and filleted around the plate. Small voids everywhere.
 
 ![Companionway hatch corner with a void](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijD2cXVFI_prZCdI-z0s2e_NrG2sFzqOM6Yj2fYhdWCgpBTDER8dqEzW25WGWoUqur9FxPCdYIXU-8vhZyUxvZi3eQY5WBL3uUmNGU5VhbGf6r1Sc5H96EGOSxUHYH-SldiQhGKjnogi1qQv4fAvefXfyrVjGnbLVPJz6VAnBKktOKEB-J887uu6CKjI-m/s1600/IMG_7719.HEIC)
 ![Companionway corner masked for patching](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ36PXeUA7butegRSYddZ2vvcEtnhb_CIzGlCvan-b8qvi47S3ntM9TV0ZgkoWh1VWtorr0BioKSamP6ZblwPvMZT_150aPD7svQq9BIYbnb4F_Y8cRZlje4aLH-C0sinydWZgpqb7zppMM_tSD4iWpxZx0TER9dAfa3sKVHtJJR3KDiEOLF35zNahHSoV/s1600/IMG_7736.HEIC)
@@ -260,7 +259,7 @@ On starboard, at the corner of the companionway hatch box, a stress crack: sande
 
 Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-painting-preparation.html)
 
-Two spots on the toe rail with drilled holes just filled with sealant, sanded and re-glassed. I wonder what people mounted there. Another place with drilled holes on the starboard cabin top. Several deep voids re-glassed with 1708. And many more places needing attention, but no glass.
+Two spots on the toe rail had drilled holes just filled with sealant; they got sanded and re-glassed. I wonder what people mounted there. Another place with drilled holes was on the starboard cabin top. Several deep voids were re-glassed with 1708. And many more places needed attention, but no glass.
 
 ![Toe rail with patched holes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfrpLQ8pwEa1_Ry_em7mLPs_zjLIKSKe9SKUpXnsfjm7BPlPT9blzIoHhECxW4pPXu1WJpSxi0wsYK86E__jli9yNvAe7OgN7ndympYrEIIfMMmI_VZ_GwC5TgHaMfe3qiGSXDandtA9MX_7xB5Ybk2qA1rLigGhPUpFDBxv27hLXQ0WEyjo7J7XP2ejz/s1600/IMG_7734.HEIC)
 ![Toe rail with drilled holes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-aTFUx7nN2_udXi-7LsBJSFKoT5oIu8Nc9f9QFKNqY6bLXKTuLRJ2DYq4krXvqyEVrI0dfsBen_6V7RtCqJk22Ypj7S24F3R9J0bGig5DPhpS8Fpc1uYy6X7LlloMFWsOHnwakrs18SfS68lU8QQjRDkOn77zBQ1Gzg_EcAKLiDLJkT2_cZ3eRf8Juza/s1600/IMG_7733.HEIC)
@@ -281,7 +280,7 @@ Two spots on the toe rail with drilled holes just filled with sealant, sanded an
 
 Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-painting-preparation.html)
 
-Then I sanded the deck after the patches and put epoxy putty on every imperfection, all the green dots. I also cleaned off some gelcoat over the old deck core repair that had never fully cured.
+Then I sanded the deck after the patches and put epoxy putty on every imperfection: all the green dots. I also cleaned off some gelcoat over the old deck core repair that had never fully cured.
 
 ![Deck with green patches, view from the bow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-C0IAn_LyzrICkaU85DH5XtrRA94MsX3zWNGchy6Q3hVYxrH77TyUWz6qI_74WYqgSlo52ln0bRjEtECm_pRYW-8x-n6U_fHGDygMhVCWjJ9w_2wM8hAFFlezPh5cD-TgFImevz95PKn38-XPCldSklEHFm7-Ca5VWgTTyh64BW6KwAkPsgykNoqgSlU/s1600/IMG_7755.HEIC)
 ![Side deck with patches, starboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmupbHX9l55BYaisVyFLwkK0eX9Ak1yzoKJz7pa7BlqKq1G_16Dbd1ubabu8m-2wb6KVDvmb6ufW9WVCGFLRagtLsqrSHvPWAlxZYIXsqtPJvCbKHxvyut8G_7MeaHu6s4q_SrHqfFWco7tUzwjVUz2zmmTekBN8dlOI2r5TthNYEhOiNYHp-AqnlClGP/s1600/IMG_7756.HEIC)
@@ -294,7 +293,7 @@ Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-p
 
 ## A new companionway hatch
 
-The original companionway hatch was badly UV damaged: 27 x 29 inches of 1/2-inch acrylic. Finding someone to cut that size and charge only for what you get was a problem. 99.9% of suppliers sell only 48x96, 48x48, 48x24 or 24x24, and my hatch is just a bit over 24x24 both ways, so they push you to buy 48x48 and pay almost 4 times more: $450 instead of the $150 I paid. TAP Plastics cut exactly what I needed. Chemcast bronze acrylic, 47%. Dry fit, and my drawing of the handle to rebuild the original.
+The original companionway hatch was badly UV damaged: 27 x 29 inches of 1/2-inch acrylic. Finding someone to cut that size and charge only for what you get was a problem. 99.9% of suppliers sell only 48x96, 48x48, 48x24 or 24x24, and my hatch is just a bit over 24x24 both ways, so they push you to buy 48x48 and pay almost 4 times more: $450 instead of the $150 I paid. TAP Plastics cut exactly what I needed: Chemcast bronze acrylic, 47%. Here's the dry fit, and my drawing of the handle, to rebuild the original.
 
 ![Companionway hatch covered with cardboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNhsZd9pTvWAv11pq17liOjInwzsc0DoczjIBu0s00Iqso5YGfxyiNTqkkJD-2wGroe8GpNMBBGF6K5hBmDed9OEUP6GMHEVUqExMkt04UHJK7G5P7lk7CnrZPFF2NNZ4PXs4J5O5II0VzLXMMWgj9-Im9mctdrlK7CRldUJ3CIe7MwXpISNIQKbsZgph/s1600/IMG_7784.HEIC)
 ![Companionway hatch cardboard cover, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWODNKEjaoxto5IU792SwDjVxCairSqLDBgmbtj4s6eyg1zv-qfomwm2-UQK3gYX0Jh-6ZDtc9vOfhkUzhbDLzptk1atTgrGeQBgM3rRkCq140OTNVInvz7bUOmecC3h0r6LKTaLcA_g1JXPpDZVaVDmov1zAFLWeS1CUHa52o1_CH9fnbytmKXoARjLnC/s1600/IMG_7783.HEIC)
@@ -315,7 +314,7 @@ On the port side there's a small step in the deck, and rebuilding it was almost 
 
 Diary: [24 Mar 2024](https://irwin34.blogspot.com/2024/03/day-136-324-325-new-companionway-hatch.html)
 
-Final sanding: six hours with three different sanders and hand sanding in the tight spots. I'd say painting a deck isn't easy; lots of tricky surfaces. I planned to prime at the end of the day, but by 5 PM I was completely exhausted, packed up and went home. No slides on the companionway hatch, so a bag of sand holds it.
+Then the final sanding: six hours with three different sanders, and hand sanding in the tight spots. I'd say painting a deck isn't easy; there are lots of tricky surfaces. I planned to prime at the end of the day, but by 5 PM I was completely exhausted, so I packed up and went home. The companionway hatch had no slides, so a bag of sand held it.
 
 ![Foredeck and cabin top sanded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx-H0Ov413Oq6Fpa9bVD1BQh1BO4yDfCRWtII7kIo_k-efEJQzOruQxbAyfGwt7ASzcwlxdSDAHqaeDfe8LwMa-zocNpQyftU7C0AA767BkR-k9JIUGFpEP1MVxCMPW87GHPwHD-f2xbUxoVjMZBfoHGB5KvgqOWMmEvy-wfdBmyPHHxsB6sUK1kVDmvFO/s1600/IMG_7820.HEIC)
 ![Side deck with fairing patches](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNa1o_mbhKcZpemhHE5FNeoB_3SAp5yZiepS3x9CqDob1nKYqD5CBHn8HP7q3AHDllhLzzRMPOB7wiWO41VOx-xvupudCw__pNhf7ZLiF9jmfoVjbL8TdIx3YZ7Gl1UsaS6uk2wsgq6iIOKtymKtUDWhpk32_xa0Vby03T9NfomOde71bsy_qJO3HEzaec/s1600/IMG_7819.HEIC)
@@ -329,9 +328,9 @@ Diary: [6 Apr 2024](https://irwin34.blogspot.com/2024/04/day-137-330-46-deck-pai
 
 ## Primer problems
 
-April: a day wiping everything clean, then degreaser, then solvent, then primer. Only about 400 square feet, but I did the wiping and the cabin top one day and the cockpit and the area by the toe rails the next. Only the glossy areas get primer; the non-skid just needs washing with detergent, later.
+In April I spent a day wiping everything clean: first degreaser, then solvent, then primer. It's only about 400 square feet, but I did the wiping and the cabin top one day, and the cockpit and the area by the toe rails the next. Only the glossy areas get primer; the non-skid just needs washing with detergent, later.
 
-Two problems. Roll-and-tip left brush marks even with 25% solvent. And one coat of Pre-Kote doesn't cover well, so I need a second. One more gallon of primer, one more day of sanding, one more day of priming.
+There were two problems. Roll-and-tip left brush marks even with 25% solvent. And one coat of Pre-Kote doesn't cover well, so I needed a second. One more gallon of primer, one more day of sanding, one more day of priming.
 
 ![Cockpit from the stern](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2m1irk71NolPgeQYA531kVsbfsnuG0_kakKKP5cbFGBFoa6yGEBpZrm0mep-ltj9VOPZwhrRth9FSd6fG0y5Jbjcum263smGR7ZTWc9UsEoF93SDLShffJDaze8hvJY-mfaJbaObN2C30-y0w33JH6jU0APd7ylyEHKnzZAR_h6Lm53mtOPDQnB5sHAko/s1600/IMG_7826.HEIC)
 ![Vira at the dock, deck sanded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9uS0w0iKiMsQ3AMWf3RHIVr6sOZtgmW8sCzz4DuHl_RJXXqJWJAjwxlPRkW4XyeN4_TT2QYZmXKEoNpnqLnxJzbjmrDcyGyIKrPjzCpzgc7f2um17uepuXBAsoJtzdReuW5qM2L4Hf6xniaci1yJW23qm4tf51Ot2Ii_vxFKEeEA5lbsQ08LTw3g9ZKag/s1600/IMG_7828.HEIC)
@@ -344,7 +343,7 @@ Two problems. Roll-and-tip left brush marks even with 25% solvent. And one coat 
 
 Diary: [6 Apr 2024](https://irwin34.blogspot.com/2024/04/day-138-46-deck-priming-2-days-8-hours.html)
 
-Two weeks later, sanding between coats, wet this time. I don't know what went wrong, but the Pre-Kote didn't level, so there were deep brush marks everywhere and lots to sand. Second mistake: waiting two weeks, so it got very hard. A couple of spots where I forgot to tip and just rolled were much easier to sand, so probably no more tipping on primer. After 10 hours of sanding I was close to ready. After washing off the dust I found about 10 spots for small putty touch-ups, after work or at lunch during the week.
+Two weeks later came sanding between coats, wet this time. I don't know what went wrong, but the Pre-Kote didn't level, so there were deep brush marks everywhere, and lots to sand. The second mistake: waiting two weeks, so it got very hard. A couple of spots where I forgot to tip and just rolled were much easier to sand, so probably no more tipping on primer. After 10 hours of sanding I was close to ready. After washing off the dust I found about 10 spots for small putty touch-ups, done after work or at lunch during the week.
 
 ![Vira at the dock with the deck primed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb7ifkfST0Yxh_ra8UfweV-2CNe5_9tS7fqw-lALwid4eMXpPqZBNd6KUtHuYJmYMKNLJDuwEAOMJL6NvMWfWBvE4kxuT66mIbStD0fWayX7WFyfUnsTsVSV8lwIoMlipcBN6BmI5aKT5GFBDgKNqH4EMiDmF_ce5oeQxYf7xqVRsgnhsjNwqURGe8iu3r/s1600/IMG_8080.HEIC)
 ![Side deck and handrail, primed, at sunset](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyeukva2Mhwn1T47BM7n-BYnUDKLjCigpw7iGKEtRlgO2L8H6Tf5bp02fRKK2pQE2ff9eU5rbtXEA6vcaQOa_zr_ZDxmZDug-Uhr1rUdH_6Oltlv6uJCcJ54wzozPowzCqJZLq9h2NLtbwmBGcxxE61pxrXfG7Ol44c5BEYso9SpcjDJ5DddU-xrF6HGoQ/s1600/IMG_8086.HEIC)
@@ -356,7 +355,7 @@ Two weeks later, sanding between coats, wet this time. I don't know what went wr
 
 Diary: [21 Apr 2024](https://irwin34.blogspot.com/2024/04/day-139-421-autopilot-drive-connection.html)
 
-Then sanding the second coat of primer. It looks better and better, but there's nothing to photograph. One more half day of wet sanding.
+Then I sanded the second coat of primer. It looks better and better, but there's nothing to photograph. One more half day of wet sanding.
 
 ![3M 220-grit sanding sheets](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdeVOh9uyFD728kXYBiJXBYjNGIPQ-kwDf5ub4kk90AeNR9RlZxLe1PRZ0stR2lQATGQIbv3M4upRg5y7lO0IQOl-qz4QbYRLiWSNz7GJ7DrQzjszRc3A0xhbXtwYfpwBOIdmwYEfk6lb-KzOtXztLCIbhWgXUjgyA9WyXiI0LjDB880dFu9WEB_yKDtiQ/s1600/sanding.png)
 
@@ -364,13 +363,13 @@ Diary: [6 May 2024](https://irwin34.blogspot.com/2024/05/day-141-54-final-sandin
 
 ## Painting under a tent
 
-Special thanks to my wife Maria for joining me for this last push on the cabin top and deck.
+Special thanks to my wife Maria for joining me for this last push on the cabin top and the deck.
 
-Day one: sand the second coat of primer, and build a frame for a "painting tent" in case dusty wind or rain shows up.
+Day one: sand the second coat of primer, and build a frame for a "painting tent", in case dusty wind or rain shows up.
 
 Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-11224last-prep-and.html)
 
-Day two was almost perfect: about 25 °C, partly cloudy, light wind. We finished the tent and put on one coat of off-white Interlux Perfection, about 1.5 liters. The first full quart was mixed in one batch for the cabin top, toe rails and the step outside the cockpit, then about 200 ml for the cockpit, then 200 ml again. We found a thick foam roller works well: press firm to lay the paint, then light to pop the bubbles and smooth it, IF the paint isn't thinned too much. At 24 °C I added only 15 ml of 2333N thinner per quart (1.5%), and it worked great. Me and the cockpit, first coat. The big-big tent.
+Day two was almost perfect: about 25 °C, partly cloudy, light wind. We finished the tent and put on one coat of off-white Interlux Perfection, about 1.5 liters. The first full quart was mixed in one batch for the cabin top, the toe rails and the step outside the cockpit, then about 200 ml for the cockpit, then 200 ml again. We found that a thick foam roller works well: press firmly to lay the paint, then lightly to pop the bubbles and smooth it, IF the paint isn't thinned too much. At 24 °C I added only 15 ml of 2333N thinner per quart (1.5%), and it worked great. Here's me and the cockpit, first coat. And the big-big tent.
 
 ![Viktor in the companionway, ready to paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYJCHJEGwiwxnwHRUOiEZ3rVTblztmCKIf1gUedwBvUZjFba00IpwLSPBLsBdKSx3MY6e3lUGNb6CpxjjzIVRsIRX9ya3DL6XNOtRiUPm9FvL92qhMbi_6tOnkzdw9v-NcPK-1qZROqXCCR2nkp-qZAilr_L-IiChkHRJZn7LavQoQR8KjxcBIGhOOlwjI/s1600/IMG_4190.HEIC)
 ![Painting the cockpit under the tent](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePXWocutRzWXb3o518WIMerso1Gkj9Vkv6atY8JOxdEVF2uHAi4Piv0soT39pSOzl8ka6n0SIxwIvizp-Y5BlAcmvD78UUjxW2Qo9Zx7_LaYh1rBYkg-1UlkZ5z7peD8cV_-Gf1_Y3d4w5tTlOrrG6onbVpRafxkG4-qkVCvCT2cQ3YK6ZQWl6Xv7btvB/s1600/IMG_4191.HEIC)
@@ -379,7 +378,7 @@ Day two was almost perfect: about 25 °C, partly cloudy, light wind. We finished
 
 Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-11224last-prep-and.html)
 
-Day three the weather wasn't what I wished: drizzle on and off, so the tent was very useful. The overcoat window is 8–48 hours, so it was Sunday or Monday, and Monday was work. So I painted on a not-great day, knowing the gloss might not be the best. For a deck, maybe not bad. In the morning we found drips on the transom top that left matte marks, probably light rain just after we left. I put another tarp over the back and duct-taped between the tarps. Light sanding on the obvious runs, then the second coat. Four short words, a lot of work over a 34-foot cabin, cockpit and deck. Hidden "Perfection". Light at the end of the tunnel. Cockpit painted; the hatches came off to be done separately.
+On day three the weather wasn't what I wished for: drizzle on and off, so the tent was very useful. The overcoat window is 8–48 hours, so it had to be Sunday or Monday, and Monday was a workday. So I painted on a not-great day, knowing the gloss might not be the best. For a deck, maybe not bad. In the morning we found drips on the transom top that had left matte marks, probably from light rain just after we left. I put another tarp over the back and duct-taped the gap between the tarps. Light sanding on the obvious runs, then the second coat. Four short words, but a lot of work over a 34-foot cabin, cockpit and deck. Hidden "Perfection". Light at the end of the tunnel. The cockpit is painted; the hatches came off to be done separately.
 
 ![Inside the tent over the cockpit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGGDx9NXG0YMiB2PfrIHQHjJqm01kJs5qqqXdpf6MikddYdUfemMpsLACKOLEpek2Bh1KMJdwgkHXmzFD7FEZoWJncwxrJ401JobK4cVz9UyYaAMQ-OdStxKT66mtU7r3QypVoBNveDs3amM8wVgtRv2Tsg4zUfZxXw6KrH5YWhtGnA1vgARU2yXdclkD/s1600/IMG_8150.HEIC)
 ![Under the tent, looking forward](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqBeBVIPKkGSbjk1h-N6OoVP3b5Kw8mP2j0U6878XOLneRqWwuPSgtJrU1LyjDKAgoVNIE0rtQwQjY7ltb7K1T2026SQzAEjnZ4fWHgDzFGCq7P4luj3iGqtN-E_B22Clct6n8t7l2CQ59-fAtvKblf7tQFCGmCaQ3qLVkA7G63krOqLQAmm-4YCVKwdV/s1600/IMG_8149.HEIC)
@@ -387,7 +386,7 @@ Day three the weather wasn't what I wished: drizzle on and off, so the tent was 
 
 Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-11224last-prep-and.html)
 
-Day four there was a thunderstorm and showers at the lake, and I'd left the companionway hatch open, with no cover on the tent roof. When I got there about 6 PM there wasn't much water in the cabin, just enough for a T-shirt-sized rag. The paint had set before the rain, so the drips left no marks. I took the tarp off the transom for air and pulled most of the masking tape while the paint was set but not fully hard. The transom top still showed the drips from the first coat. It's a very visible spot and I want it excellent, so it'll get sanded and repainted. Port side, starboard side, shiny cockpit, the view from the bow.
+On day four there was a thunderstorm with showers at the lake, and I had left the companionway hatch open, with no cover on the tent roof. When I got there at about 6 PM there wasn't much water in the cabin, just enough for a T-shirt-sized rag. The paint had set before the rain, so the drips left no marks. I took the tarp off the transom for air and pulled most of the masking tape while the paint was set but not fully hard. The transom top still showed the drips from the first coat. It's a very visible spot, and I want it excellent, so it'll get sanded and repainted. Here are the port side, the starboard side, the shiny cockpit, and the view from the bow.
 
 ![Wet glossy side deck under the tent](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO9RQMvgeL7ZXKNsMdT4aikSgaK5ybRaXQzWYPRnulTNfUzvJOOLampsCU5mbsmQfPNgAGd-uxKQ072IkGn8uPDb3-4ErmECkukl1opw8feyfGO4ycCAMWOll-3b-lvthGUbq9TJnoRfO61JsmpP1lLdHM_Uv8hJ-rGem6YlHkFS6PNwXJXQF2TRdwHS8J/s1600/IMG_8152.HEIC)
 ![Cabin side and deck under the tent](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV0Axv_lQ-nRx0hJQT2KqZE_EhdROZY0xT5HYUByiyELV-v0U_KpO2XQTlRKFK2BsLuUiM6XO7apvzYdmeYb16V3E5tU-x4Ww1Ej0lupfEyWdZkXdpQEjqhRqq8HRSHPnVXwbafSitzWM_KvYx5tfy5Ur3dCrncxcS-56CinWpLmKC0_0Cd39WRUz6Oq84/s1600/IMG_8153.HEIC)
@@ -401,7 +400,7 @@ Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-1122
 
 ## KiwiGrip
 
-Just a nice picture: cover open, the glossy parts look great, on to the non-skid. During the week a couple of thunderstorms tore the cover in places. Maybe it was too hot for the boat under the tent and she threw off the blanket.
+Just a nice picture: the cover is open, the glossy parts look great, and it's on to the non-skid. During the week a couple of thunderstorms tore the cover in places. Maybe it was too hot for the boat under the tent, and she threw off the blanket.
 
 ![Vira under the tent, view from the bow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwRldDTDCHMKUsFkhEseBNRr17e4ZxgYfA6yaOjMDeCgbkirHyvENYbu2564c1UdTgoEAFj-cI5wvu_szmitXrMy6xWscndziqItiVp4yR_kyUa8jIO6-kXZ_VVUoaaMcMsl-oNLghmFG8l3MQiQH_I8xAg6gbCl8YcVJQpyNvVlzmtDh41PNEG3z03ceV/s1600/IMG_8187.HEIC)
 
@@ -411,7 +410,7 @@ I put the companionway wood parts back on butyl tape, and at the garage I patche
 
 Diary: [19 May 2024](https://irwin34.blogspot.com/2024/05/day-146-51924-prep-for-no-skid-surface.html)
 
-Then non-skid prep. Tent sides rolled up for some air. I sanded the cabin top non-skid to cut the diamond peaks down to about half, cleaned everything, masked, cut radius corners where needed, and scuffed the surface right next to the tape.
+Then came the non-skid prep, with the tent sides rolled up for some air. I sanded the cabin top non-skid to cut the diamond peaks down to about half, cleaned everything, masked, cut radius corners where needed, and scuffed the surface right next to the tape.
 
 ![Vira under the tarp at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdIJtgHEYNk5kI91oTm7UBZ9v8ExqIZ3t6jAMf8cbz-TGV8_LfXC-di4BbJExAeSU2Z7aJ4s3ONWd6aJZ81UCh9SIqW7_6wRQhh9rE-_HP5ftY9rrYhDJB67SV52G79YrCSMQMaqNxx-J_flG82W3gfySc3LbqzwjXrmHAs_MiJoceoHKA09F2tQVH9Rq/s1600/IMG_8186.HEIC)
 ![Vira under the tent, side view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAS4Dgf9E7l4s3Mjq9B1gdZ9gFMKTCX6hb7YT8Df9dhVp7VdFbs3XypK6W5UQXlAdegtuCD3PGjDpDtmQMcpjHDMis3eavKo1G4NK1b1SYpat24romwLamfUeUARHPN0LjWHLKTkujeeRQUVqOB6UifOqbtKOpSRlbnPN1jBlCdjZpA-2gw1ZM1Cr-XeIx/s1600/IMG_8192.HEIC)
@@ -421,7 +420,7 @@ Then non-skid prep. Tent sides rolled up for some air. I sanded the cabin top no
 
 Diary: [19 May 2024](https://irwin34.blogspot.com/2024/05/day-146-51924-prep-for-no-skid-surface.html)
 
-Day 147: KiwiGrip on the cabin top. Looks good. Cockpit ready to paint.
+Day 147: KiwiGrip on the cabin top. It looks good. The cockpit is ready to paint.
 
 ![Foredeck masked for no-skid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsW6rAphLPvu4tBk_oLldWLufj3y64kHXeoLqw0o1uZR_S5_kYW1WOrOZXr1TGazNxGWAuE5iv4F2tF3kQ0eyrtAgT18sQL3LCBrLFixbqizKJRdvB8Z49cSpmxN0N4VQM8UNGZNJhvTLRMeS5v1hGLtyc3BTO5rceIb53A3rqRS8p7lBZFLgxf9JqK6R/s1600/IMG_8197.HEIC)
 ![Cabin top with fresh KiwiGrip no-skid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjceeWlqo92h8H4_MUNjD5H8IMWSWxgxoAj7Utw8z8DN1OpxzGArdBlD18D4IRNcJYD33veLAIQQTG8fglFVMc0JO1ReeHZTaXzy72bXNcqCSAImFeBmTUBFkhlbm1zM8HqVyV-4moXcBnfRD3EqNV2fL8147b1G4C9O8aBFtoAXpLYazI6tnIkQzOLd2we/s1600/IMG_8200.HEIC)
@@ -430,7 +429,7 @@ Day 147: KiwiGrip on the cabin top. Looks good. Cockpit ready to paint.
 
 Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-prep-for-no-skid.html)
 
-Day 148: tape off, hatches and covers back. The cabin top looks great. Cockpit painting done (masking tape keeps the hatches closed). I added one thing to the original non-skid pattern: a pad on the top of the transom. It was slippery climbing back aboard.
+Day 148: tape off, hatches and covers back. The cabin top looks great. The cockpit painting is done (masking tape keeps the hatches closed). I added one thing to the original non-skid pattern: a pad on the top of the transom. It was slippery climbing back aboard.
 
 ![Cabin top with hatches back in place](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUHBgzIyypGXfxtNc3lluyrTA0mq0rf63ndIDKyUKxtRBQ7P_AvYyQ2fI9lvSDkPFIrMsVQ_fLQ4FiNeohvEvj1uEqbzU3WAJt8Emyn6ux5Cnl1my3ccQeML3sJY5LUTq3DKyXbOI9BmNlIrSKidgqaGkbwy4JYnbpJ17YK49Zit5KntTUroYxmPaxNdaH/s1600/IMG_8207.HEIC)
 ![Cockpit with no-skid, masking tape on](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLuux8UhxbuXM4z2a5SL64WO5H4guUYipwhMIe-WIyzQgT8xLr71m-09C-4lLQogtBTSzAhSw-EhZdBhKgMyDHmeg5HmW0wCg59cXn0-krn-Dp9WkD6ac1jYZ1kuYU89m1jMfNMOQsW2Qz1895iapgkCna4o1GI5slEOk4KoNRP0fn___Cc40rG4I55SAq/s1600/IMG_8226.HEIC)
@@ -442,7 +441,7 @@ Day 148: tape off, hatches and covers back. The cabin top looks great. Cockpit p
 
 Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-prep-for-no-skid.html)
 
-Day 149: the deck sides. Sanding, surfacing, masking. Lots of sweating: 28 °C and 98% humidity early morning, 34 °C and 80% toward noon. Too humid to paint, but the deck is ready for non-skid.
+Day 149: the deck sides. Sanding, surfacing, masking. Lots of sweating: 28 °C and 98% humidity in the early morning, 34 °C and 80% toward noon. Too humid to paint, but the deck is ready for non-skid.
 
 ![Side deck masked for no-skid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSt1hgrwgFOAdXSin6CPGeEQtVAGZMQuFC4z0xKHkv8w-7FjnSO1v4usEoOQjnpOBQW6BJxlSK_vS74St-0-uXJH6EtIvHA_nSOF3VATGnxJnbo9793-QQWF4dvHY7sXCtQ3K5UlmjLl6axdn8jGQdRn4ShSfOVitMpgl0Aw30_Ohw7zCG3KfE_lzGHcB/s1600/IMG_8232.HEIC)
 ![Side deck masked, starboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE56P4RESvagSBMGMnMBDGHC8vBmQJIa0ohvqXOlTC1Mhx81NeiHcFOaiK_rAdU0j2gyCby1iROnYlqNWsF6yxFVR9hXZ_nk0pYUHHuF-vDFUdiPNvFxLL7znT5TRyPzRVhUqqA9VpyiXB8mDRNqo1LVGTTbozHEMt_Fzv6-6f8-Yk6uSv-pQmsEc_ir_H/s1600/IMG_8231.HEIC)
@@ -452,7 +451,7 @@ Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-p
 
 ## Done
 
-June 2024: after 130 hours of work, 19 work days, over 14 weeks, the deck painting is officially done. Picture of the day. The bow is left unfinished because the windlass goes in later this year. Besides that, the deck is sparkling new.
+June 2024: after 130 hours of work, 19 work days, over 14 weeks, the deck painting is officially done. The picture of the day. The bow is left unfinished, because the windlass goes in later this year. Besides that, the deck is sparkling new.
 
 ![Vira with the deck finished](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0XhIc3pGj2saPldtrWcdujrrlQ8EuKtUZkgoYkfPk15nWYr1_7yRjt4FQz-VDJdk6ZL6Yb5Pe_VXV_yyZHsys_N1QiYxLxJ06XTO7Ae4VS5wTULQhe97znIyOYOvfZqEdy0gizcxhpl8oSLSoR3_dNlY_z0JOJJYlTI86_exdzUj1xohlVbrTrt3VQTWJ/s1600/IMG_8273.HEIC)
 ![Side deck with fresh no-skid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nsfAHZ5Yz2p8Tx-peK3kgUi9kV4O1SS8jaroWSIoYPkumslJZ817VVtDavqeFgL_AtnjxigRrECE7d-Q6G_MHBYJ94NgQcMdXdbtF9k-cXAB_aVFHyXXkRA07yWzOCDzQ4YESS34oORKMGqkGtmtPnQkMH5g6WmotTRvW5aeQuRTk9Wf_Ck_v1il5RBi/s1600/IMG_8275.HEIC)
@@ -468,7 +467,7 @@ The pushpit rails and cleats went back on.
 
 Diary: [2 Jun 2024](https://irwin34.blogspot.com/2024/06/day-150-151-61-and-6224-final-painting.html)
 
-All the cockpit hardware back. Ready to sail, just need to sort the lines. I refitted the bimini canvas and put the bimini back. The cockpit waits for crew. I sealed the gap between the companionway trim and the fiberglass.
+All the cockpit hardware is back. Ready to sail; I just need to sort the lines. I refitted the bimini canvas and put the bimini back. The cockpit waits for crew. I also sealed the gap between the companionway trim and the fiberglass.
 
 ![Vira at the dock with the new deck paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludbXj5NF1-gb2goQQ-RS-YlD77BwZt07PFJWfLAWXUeIZrHwACXEqHpRpvtLoBdvknohqM7Btb1Dtg2rSWb8K032ExvL0V7H-3jX1AA2nx2D_fu1cYUjI7fqZ355t5Dyg3IUb1OgxnEtfkquWty1NXPXX0PR7FOclaQIgXpyTzthNi3NgDDc/s1600/IMG_8305.HEIC)
 ![Cockpit under the bimini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz7_9_zhNdiSnau7D1nF3pPSmjIBmHMAd3PG0B54mKLp8QvJacBsKAbV7yZDnUolLKVu1evAlWYm6vOj6ug7pDPmlktzQCX_AfY3WMhBH1tKNl6qpo9l8yJo1kUchPcHDBmeb_d-urvN3XXrrIMMMFcq90U5BGSw9d5wLz9WjF4M_q70lH_5U9zTBDkWRJ/s1600/IMG_8299.HEIC)
@@ -477,13 +476,15 @@ All the cockpit hardware back. Ready to sail, just need to sort the lines. I ref
 
 Diary: [9 Jun 2024](https://irwin34.blogspot.com/2024/06/day-152-6724-deck-painting-officially.html)
 
-Then the new companionway hatch went in: a new teak handle, 12 mm acrylic, and stoppers. The freshly refinished cover is sealed and screwed down. Different from the original: new acrylic instead of the one ruined by 40 years of UV, and HDPE blocks top and bottom instead of the wooden stops inside the cover. Now the cover can't be pulled all the way out and go overboard, and the stops won't rot in the damp space under the cover.
+Then the new companionway hatch went in: a new teak handle, 12 mm acrylic, and stoppers. The freshly refinished cover is sealed and screwed down. What's different from the original: new acrylic instead of the one ruined by 40 years of UV, and HDPE blocks top and bottom instead of the wooden stops inside the cover. Now the cover can't be pulled all the way out and go overboard, and the stops won't rot in the damp space under the cover.
 
 ![New companionway hatch with teak handle](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2fd8_NaNRVUKARgnmI8l60ekKHZ3IkTEJjtxQFwJKXs1yI3WtjvSY7DiIX6ifEfMg9L6v-rdmlsRsG6qoxR-kgRbOrb2zhxQgErQHX9vWxElVBhWLxCybPzSivHq0_Djvv3_P_aWwKdjS7UfNDv05Mc-K4PHbGSKmNKlLe7JgbYVBm_cKpkVvSc8-hNT/s1600/IMG_8379.HEIC)
 
 Diary: [23 Jun 2024](https://irwin34.blogspot.com/2024/06/day-154-62224-new-companionway-hatch.html)
 
-And in July I made an inside handle for it, which does three jobs: a handle to slide the hatch from inside, a hasp for a padlock on the washboards, and a stop that leaves room for fingers. It's a small piece of teak with two holes for the padlock shackle, held by two #8 wood screws from outside, a machine screw from inside, and a 1/4-inch machine screw into a tapped hole in the lid from below, for some security. The screw end is flush with the top, so you can't grab it from outside, and there's super glue in the thread. The lock idea: a padlock with a detachable shackle. Put the shackle in from inside with the free ends out, push it through two holes in the upper washboard, and put the lock body on. View from the cabin, and from outside.
+And in July I made an inside handle for it, which does three jobs: a handle to slide the hatch from inside, a hasp for a padlock on the washboards, and a stop that leaves room for fingers. It's a small piece of teak with two holes for the padlock shackle, held by two #8 wood screws from outside, a machine screw from inside, and a 1/4-inch machine screw into a tapped hole in the lid from below, for some security. The screw end is flush with the top, so you can't grab it from outside, and there's super glue in the thread. The lock idea: a padlock with a detachable shackle. Put the shackle in from inside, with the free ends out, push it through two holes in the upper washboard, and put the lock body on. Here's the view from the cabin, and from outside.
+
+Fourteen weeks of sanding, patching and painting, and Vira's deck finally looks like the boat I see in my head. And the last step of my plan, calling friends to drink beer on the fresh deck, is the easiest of all twenty.
 
 ![Hatch internal handle seen through the acrylic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMru8FvJa0DLXQgTU3nCyA-vUoTYunZEemBnLi21VeYUZoT2OGXvi_n3iUSzhpe2BZYgfYFstHbqNNK3MqOalaOWn9PpWIW0SaovRzZVZc3dlskLH5_7p0laB7VTyGlNz4b2VHIvwcPdvIou_wVs1oh0wOvQPb14mTlJNMKjDpOWSDX0Dvv2SuVkma4Bx4/s1600/IMG_8449.HEIC)
 ![Hatch handle from outside](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlxLrCDtZQuvJaJWs_Ah5eqDdtRO6zGjmPPR7jNhl7lFA2MQ0wT-sygNq0cnKfnwE5dWvvC9phQ0CSl_GBxjcZglLYy9HDcI1JuzKmQxUqcPZavRNPdUcNuUGUak3Ng47fudFynpj9dpxHC4L2c0vNQw8baIn6GHT8YFB2oQAjVmCu_UzM9oNo5aoi8sl1/s1600/IMG_8448.HEIC)
