@@ -37,7 +37,7 @@ The numbers come from published spec sheets and boat reviews, and they differ a 
 | Built | 1978 |
 | Bought | November 2021, on Facebook Marketplace, for $5,000 |
 | Keel | shoal keel with a centerboard, lead pellet ballast in epoxy |
-| Draft | 4 ft 2 in, measured on the hard in 2026 |
+| Draft | 4 ft 2 in with the centerboard up, measured on the hard in 2026 |
 | Mast | a replacement mast from an Irwin 30 |
 | Height | 46.2 ft, boat and mast together |
 | Engine | Yanmar 2QM20, two cylinders, about 20 hp, converted to fresh water cooling, with a hand crank |
