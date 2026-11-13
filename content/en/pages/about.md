@@ -15,7 +15,7 @@ I'm Viktor. An engineer, a sailor, and the guy who rebuilt Vira.
 
 I've always been an engineer at heart. Electronics, embedded controllers, computers, programming, mechanical design of almost any kind: I'm curious about all of it. For as long as I can remember, friends and neighbors have known me as the one who can fix just about anything.
 
-At university I found another passion: windsurfing. The wind and the water never let me go. In 2017 I took the next step and bought my first sailboat, a 1993 Hunter 19-2 pocket cruiser. She was the perfect boat to learn on: simple, forgiving and fun. For five years my son and I spent our weekends on Lake Murray in South Carolina. We learned the ropes, laughed a lot, and learned to sail together.
+At university I found another passion: windsurfing. The wind and the water never let me go. In 2017 I took the next step and bought my first sailboat, a 1993 Hunter 19-2 pocket cruiser. She was the perfect boat to learn on: simple, forgiving and fun. For five years my son and I spent our weekends on Lake Murray in South Carolina. We learned the ropes, laughed a lot, and learned to sail together. Her name was Sea Sun, and when we moved from South Carolina to Austin, Texas, she came with us on her trailer, to Lake Travis.
 
 I loved that boat, but she was small. My dream was always to go past the lake and sail the sea. A 19-foot water-ballasted cruiser is a great teacher, but she's not the boat for that kind of trip.
 
