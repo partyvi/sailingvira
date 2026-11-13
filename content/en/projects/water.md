@@ -178,7 +178,7 @@ Diary: [29 Dec 2022](https://irwin34.blogspot.com/2022/12/day-70-73-261722-29172
 
 ## Pump and water heater
 
-In June 2025 it was clear: if I want a working shower and a fresh water toilet, it's time to upgrade the 40-year-old pressure pump. The new one does 70 psi and 7 GPM. Yes, it's a bit dirty down there. It's a 47-year-old boat, and some places just aren't shiny.
+In June 2025 it was clear: if I want a working shower and a fresh water toilet, it's time to upgrade the 40-year-old pressure pump. The new one is a variable-speed pump: 70 psi and 5 GPM. Yes, it's a bit dirty down there. It's a 47-year-old boat, and some places just aren't shiny.
 
 ![Accumulator and water pump under the galley](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQeD7XrtUqRqnL_rCNOkJZvh_jPK4t0TQdHB6bz7er6O3wKBnKOao2PpF-JS8sREdA74oU8zAWZ7MgG1peNHWF3mc_BkY4SV7TDPHpMrHyg1sJvgGO8WdxS24Ezs1JDIOI2s9tdv08zZXQWl672VAxT9GuruGAiHwUmdH6in6eLvWSvzrefw-UWPEvnz4/s1600/IMG_0829.HEIC)
 
