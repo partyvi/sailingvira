@@ -353,7 +353,7 @@ Also in April, I added a dimmer for the indicator LEDs on the main panel.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-I have a NOCO GEN5X3 three-bank charger for the start, house and windlass batteries. It worked well for about five years with lead-acid. Then the house battery became LiFePO4, and I switched that bank to lithium mode. Everything looked fine at first. I also had a 40 A, 14.2 V power supply running the 12 V system from shore power, joined to the battery through a 100 A ideal-diode module.
+I have a NOCO GEN5X3 three-bank charger for the start, house and windlass batteries. It worked well for about four years with lead-acid. Then the house battery became LiFePO4, and I switched that bank to lithium mode. Everything looked fine at first. I also had a 40 A, 14.2 V power supply running the 12 V system from shore power, joined to the battery through a 100 A ideal-diode module.
 
 One night, sleeping aboard, I saw the lights blinking now and then and the nav computer rebooting every 10–15 seconds. A mystery. I checked for heavy loads, loose connections, bad wiring. Then I saw the NOCO showing "Overvoltage" on the lithium battery. Surprising. The BMS showed nothing suspicious: the battery was simply at 100%.
 
