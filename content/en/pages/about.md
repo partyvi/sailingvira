@@ -19,7 +19,7 @@ At university I found another passion: windsurfing. The wind and the water never
 
 I loved that boat, but she was small. My dream was always to go past the lake and sail the sea. A 19-foot water-ballasted cruiser is a great teacher, but she's not the boat for that kind of trip.
 
-In November 2021 I found an Irwin Citation 34 on Facebook Marketplace for $5,000, half an hour from home. I wasn't looking for a project boat. But to be honest, every boat under $50K I looked at was a project boat, more or less. You can guess how that went.
+In November 2021 I found an Irwin Citation 34 on Facebook Marketplace for $5,000, half an hour from home. I wasn't looking for a project boat. But to be honest, every boat under $40K I looked at was a project boat, more or less. You can guess how that went.
 
 Since then I've rebuilt Vira almost piece by piece: the deck, the interior, the wiring, the engine, the rig. I kept a diary of every work day, and this site turns that diary into stories, one per project.
 
