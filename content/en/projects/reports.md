@@ -6,11 +6,11 @@ order: 2
 description: Half-year reports and lists of what was done.
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png"
 ---
-Every few months I stopped and wrote down what was done. When you work weekend after weekend, it's easy to feel like nothing moves. Then you write the list, and you see how far you came. Here are all of them, in order.
+Every few months I stopped and wrote down what was done. When you work weekend after weekend, it's easy to feel that nothing moves: you sand, you glass, you sand again, and the boat still looks like a construction site. Then you write the list, and suddenly you see how far you've come. Here are all my reports, in order. The lists are copied as I wrote them, item by item.
 
 ## Half a year: 211 hours
 
-July 2022. 211 work hours so far. I went back to the list I made when I inspected the boat before buying, and wrote next to each line where it stood:
+July 2022: 211 work hours so far. I went back to the list I made when I inspected the boat before buying her, and wrote next to each line where it stood:
 
 - The liveaboard mess: cleaned out. Closed.
 - Water damage: all the rotten wood is out of the interior. The plan is to rebuild it almost from scratch.
@@ -36,11 +36,11 @@ July 2022. 211 work hours so far. I went back to the list I made when I inspecte
 
 Diary: [21 Jul 2022](https://irwin34.blogspot.com/2022/07/half-year-report-my-citation-34.html)
 
-And what I found along the way: a burned-out alternator (replaced with a 60 A one I had in the garage), the leaking hull-to-deck joint, leaking deck drains, the damaged forestay, a ripped-out welded pin on the front chainplate, a broken sump pump with a clogged hose, a quarter-full holding tank with rotten straps, a mast step sagged about 1/4 inch with a strange "piece of poop" under it, engine mounts on lag bolts with the glass let go of the wood, a broken toilet with sweating hoses, dead masthead lights, engine alarms not working because of a corroded connector, no air filter element, a leaking raw water pump, exposed wood around the shaft log, flaking transom paint, and a broken compass. Most of them were already fixed or had parts on the way.
+And here's what I found along the way, which was not on any list: a burned-out alternator (replaced with a 60 A one I had in the garage), the leaking hull-to-deck joint, leaking deck drains, the damaged forestay, a ripped-out welded pin on the front chainplate, a broken sump pump with a clogged hose, a quarter-full holding tank with rotten straps, a mast step sagged about 1/4 inch with a strange "piece of poop" under it, engine mounts on lag bolts with the glass let go of the wood, a broken toilet with sweating hoses, dead masthead lights, engine alarms not working because of a corroded connector, no air filter element, a leaking raw water pump, exposed wood around the shaft log, flaking transom paint, and a broken compass. Most of them were already fixed, or had parts on the way. Half a year in, and the boat had told me all her secrets. Or so I thought.
 
 Diary: [21 Jul 2022](https://irwin34.blogspot.com/2022/07/half-year-report-my-citation-34.html)
 
-In August I opened my Trello board to everyone, so anyone can see the task list.
+In August I opened my Trello board to everyone, so anyone can see the task list. Public accountability: now I can't pretend some jobs don't exist.
 
 ![Trello board with the Irwin 34 refit task list](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4U2hgtAH4o0B2VNEwQv9W11oDun_b9uGqABgRF9d_1qldS9iJRS9Is8ypOI75lAAzMrSyDv1tLwpqLTokWC45m1tB-xbWspb4m6dmXrEwbODiD58VCtvBx6hjbfPNKCqyuxKL7PDb8qO1smblxXnIuYVoQmibS63J8XKx3UJy6bNBiOPfN5BMczvhfA/s1600/trelo.png)
 
@@ -60,7 +60,7 @@ September 2022:
 - Cockpit drains replaced, engine room ventilation redone.
 - Holding tank, sticky gray water hoses and the broken toilet out, porta-potty in.
 
-And YES, I had a day of sailing on the lake. She is great!
+And YES, I had a day of sailing on the lake. She is great! Ten months of work, and finally the reason for all of it.
 
 ![Men at work sign](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png)
 
@@ -116,7 +116,7 @@ December 2023:
 - The ice chest rebuilt, insulated, with a 110 V refrigeration system on a dedicated inverter.
 - A LOT of interior work: all new headliner and teak headliner battens, the starboard shelf with roll-up doors, a new "bookshelf", a rebuilt nav desk, a drawer between the companionway wall and the LPG locker, and the port cabin liner reshaped to reach under the port cockpit seat.
 
-The interior rebuild is complete, and all the wood is varnished.
+The interior rebuild is complete, and all the wood is varnished. Two years after I first stepped aboard, the inside of Vira looks like a boat again, not like a crime scene.
 
 ![Men at work sign](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsntzqy54ZTOHcbaot6aj9tzwxufW5vivHoIHE71oJPCyIW63cGVIR5gO8oIMG2CuHuR1cnP5X2eiEwqn-71NyI-8GumL7-zN90Fi8L6MyYkvMgo6PTY7RUWooyis8YThNA2l9bGNbKUFkjGm6ozqbABe_uKaDDu77YdFp_omuNBOIkUOrgWBZl9u_Q/s1600/man%20at%20work.png)
 
@@ -168,7 +168,7 @@ February 2026, the big one:
 - Raw water strainer, new cutless bearing, PSS dripless seal, prop and shaft cleaned and polished with Lanocote. Rudder skin repaired, lower rudder bearing rebuilt, strut tightened and re-glassed, rudder stuffing box repacked.
 - Boat moved to Kemah Boardwalk Marina.
 
-Still on the list for later: a safety strap so the engine and LPG lids stay with the boat. The centerboard crack (not critical, the ballast is lead pellets in epoxy), the sloppy pivot that knocks when the boat rolls, and the lift line pipe. The front chainplate with the ripped pin. A loud buzzer on the engine alarm lamps. Epoxying the wood joints between the bulkhead pieces.
+Of course, the list never ends. Still waiting for later: a safety strap so the engine and LPG lids stay with the boat. The centerboard crack (not critical, the ballast is lead pellets in epoxy), the sloppy pivot that knocks when the boat rolls, and the lift line pipe. The front chainplate with the ripped pin. A loud buzzer on the engine alarm lamps. Epoxying the wood joints between the bulkhead pieces.
 
 ![Men at work sign](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghCyppnW624BBfiRMzQ7MsoLdwkdaW9p7_VwX5Ez9FVIMBH276fEefmmgObDYC_V6OneuQtiWdWQBK-RVeYBB26Q0IN8SR0iiVk5R3k28-VxBO80QynDFsn4F5kJGZ0LdT7Y4XnU7tqSawOYFuD_lwLzsgR7bYx4Jk9VOujc175TnDFcMtvq54_noO1LOf/s1600/man%20at%20work.png)
 
@@ -203,4 +203,4 @@ Diary: [12 Nov 2026](https://irwin34.blogspot.com/2026/11/progress-report-sinse-
 
 ## Everything that's better than the original
 
-This list now lives on its own page: [Upgrades log](../boat/upgrades/). I keep adding to it.
+The full list of what's better than when Vira left the factory now lives on its own page: [Upgrades log](../boat/upgrades/). I keep adding to it.

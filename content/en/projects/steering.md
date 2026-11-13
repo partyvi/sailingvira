@@ -6,12 +6,11 @@ order: 3
 description: "Quadrant, rudder sensor, pedestal guard, rudder drop and dripless seal."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSYmVCuFYOn9WMcJPfKyff_DGeXv_zTTeSr2hFG3SprBIM0nSPX3GjAHF6KS_L7X7NCCJqhvizg1-AD5X4acVAlM1ldtrJ8F_2HB22L1_F6VIaa7-HdVRY5u7VJqxJmmt2LcSszlOlqYWCjvBkPzZ3tUUdd0-i8DiXSHSIoclOR7zzOIvludrVqSQ6lDaD/s1600/IMG_9465.HEIC"
 ---
-
-Steering, rudder, shaft: the stuff you never think about until something goes wrong. On Vira I fixed it in bits. Tightening things at the dock first, and then the big jobs when she was on the hard in late 2025.
+Steering, rudder, shaft: the parts of a boat you never think about until one of them gets your attention, usually at the worst moment. On Vira I sorted them out in pieces. First the small things I could tighten at the dock, and then the big jobs, once she was finally on the hard in late 2025.
 
 ## Day 2, and the first bad news
 
-On my second work day, December 2021, I changed the stuffing box clamps. Right next to them I found cracked glass and wet, rotten core where the shaft tube is glassed in. Nothing to do about it in the water, so I wrote it down for later.
+It started on my second work day, in December 2021. I was only changing the stuffing box clamps, a ten-minute job. Right next to them I found cracked fiberglass and wet, rotten core where the shaft tube is glassed into the hull. With the boat in the water there was nothing I could do about it, so it went on the list for "later". That list got long.
 
 ![Stuffing box with new clamps behind the Yanmar gearbox](https://blogger.googleusercontent.com/img/a/AVvXsEhzdKGjjn-eGGLrcoibGt4B32BUKPizuSJKSe0jrxauupxwsInU6FH_ZB6556y8NaIx1lEaabQDnCFvIexLBpTp2bqvKqGebjIn2xmMZUGeOoTaOofu6R6dzrKixP_I4CEzNdTzwUPw39GEYOBJvShPxXK-UqmbyAMOrRvcFbXQKnWNDBAmvMVMFfPBzg=s1600)
 ![Engine compartment with the shaft coupling and stuffing box](https://blogger.googleusercontent.com/img/a/AVvXsEhLMKxl6BRAnzJiMnDCb4Z3G_MsP4e7ahaOTXxAG8VCEal9XGLf2JCCAOTu8JuPmIDUAH2GvozOayyNmM8llnkDAdw1fCK7AhAzX3uG293Z17sRJL5JpdGvQ6RQbxEtKpf2abjiUgcJPj7I4m76WDj8fguYjPrH5T7KJn2s5lSB_BfzbvrdUERdrv1dPg=s1600)
@@ -22,7 +21,7 @@ On my second work day, December 2021, I changed the stuffing box clamps. Right n
 
 Diary: [5 Dec 2021](https://irwin34.blogspot.com/2021/12/day-2-replace-driveshaft-clamps-remove.html)
 
-The stuffing box hose should be 1-1/2 inch inside and 2 inch outside. Mine was 1-1/2 by 2-1/4. So probably somebody just used whatever hose he had. A proper one is maybe $20, but again, only when she's out of the water.
+The stuffing box hose was wrong too. It should be 1-1/2 inch inside and 2 inch outside. Mine was 1-1/2 by 2-1/4, so somebody had probably used whatever hose was lying around. A proper one costs maybe $20, but again, it can only be swapped when she's out of the water.
 
 ![Buck Algonquin stuffing box hose](https://blogger.googleusercontent.com/img/a/AVvXsEj4Q9AXdC_QOILNnVjrr3KXdO5BaTaRfbvc5QlMiRWgzqn-D8Hsbp6oNE69PWSEcADSbjFjPuUp3W6rhHCenxuGUqnEC0vjcM_MzI3csV2uTocY0TRqFoAjdctAcbUNFdx6TkiQcaUnV_ySx3nLhSqxiBXDGtk7ZHz4XYdKSzE14Z28vP2auSktQplkcw=s1600)
 ![Stuffing box hose and clamps on the shaft log](https://blogger.googleusercontent.com/img/a/AVvXsEg6DPM5rWhI2a1P4cOEaIqBbUFanv_P-f-pRidSdTluGpex_DQ1xgRFMzpPh-jkQnJR99ln0FWZaK9prcAcB65iwV0FHqKUozGzO-VH9wKOnkJ4JAj-32KkCi-ee7pgZb_XzR-Rnl9ARH5Tdenx12GSxKAeLj3YrQnrfSjSiCTcXt5pghhDIaqyWgMYdw=s1600)
@@ -31,7 +30,7 @@ Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-st
 
 ## Loose screws everywhere
 
-June 2022 I checked the steering. Almost every screw was loose. I tightened all of them and the cable too. It was OK, but I still didn't like the port side block. It sits on a plate held in only by one corner.
+In June 2022 I crawled in to check the steering. Almost every screw was loose. I tightened all of them, and the cable too. After that it worked fine, but I still didn't like the port side block: it sits on a plate that is held in by only one corner.
 
 ![Steering quadrant, cables and sheaves under the cockpit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWR6UA53satqaQ00iVRvUHhSVmy36nd8f7-O2eXdc6zUPn3qUFQ8_VqfmICajUPOw_UOLjquXlwcanjcGdvrJU-1CoETpQwMcFyA0BGUkYiycTLsnXB8YErQnoNS8iemV4SvUX5epR-jGXTN9cNpNH9YL6u9Z8A5Hi_zTr0nPI1BV8E5QNv7oI5An-TQ/s1600/IMG_2926.HEIC)
 ![Steering cable sheave on the hull side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHCGFXZNic9ZoQUle-fvZ6rwP5FU6Nyy2LCiQnhn1aetbgWdQcs2OWGEhVMR98CbW9RCLje_6hIvx0fp45HYsB69RT2008u99yLyXiIjLycnF_VBYyJh70-mbBxy2vTxu64Kv6HDU2VVJAS21EcA7RFbtWooxYC-pFPod8mS1h7GCP4p_19mSiuSQlQ/s1600/IMG_2932.HEIC)
@@ -39,7 +38,7 @@ June 2022 I checked the steering. Almost every screw was loose. I tightened all 
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-Three years later, July 2025, I fixed something I'd been ignoring. The quadrant sat a bit low, so the wire rope was rubbing on the side rib. I raised it half an inch and now it runs clean.
+Three years later, in July 2025, I finally fixed something I'd been ignoring all that time. The quadrant sat a little too low, so the wire rope rubbed on the side rib. I raised it half an inch, and now the cable runs clean.
 
 ![Steering quadrant on the rudder stock with cables](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RbJagStMiyI_emlHpE0E3XNd-SC_vJJQ5sUcoRcajYfLYFigTWsO9Ly2hnn-nfopLn9VgilA9WEgwBKUXK2Wc9GSMvih0pzqPJVmBgXO9aLsopRhnyvwRirPNBpKUp0aTyQUC7b6p8DmJ8g48SHBm7S6yrFG3_2Z_iXiI2u_NvLY_YFYNXeDLr4t6JCu/s1600/IMG_1048.HEIC)
 
@@ -47,11 +46,11 @@ Diary: [19 Jul 2025](https://irwin34.blogspot.com/2025/07/day-208-autopilot-arm-
 
 ## An $11 rudder sensor
 
-In April 2024 I added a rudder position sensor, mostly so the autopilot can't slam the rudder into the stops. It mounts on the steel C-channel at the top of the rudder stock.
+In April 2024 I added a rudder position sensor. Mostly it's there so the autopilot can't slam the rudder into the stops. It mounts on the steel C-channel at the top of the rudder stock.
 
-I got it from AliExpress, $11, and honestly it's nicely made. The contact slides on silver stripes, not on carbon like a cheap pot, so it should last a lot longer. It only has 60–80 steps, so under 2 degrees each. Good enough for me if it's reliable. I added a third wire so it gives a voltage out.
+It came from AliExpress for $11, and honestly, it's nicely made. The contact slides on silver stripes, not on carbon like a cheap potentiometer, so it should last much longer. It only has 60–80 steps, which is a little under 2 degrees per step. If it's reliable, that's good enough for me. I added a third wire so it gives a voltage out.
 
-I 3D-printed a bracket that clips on the channel, with ribs for zip ties, made an arm with a 32 mm hole for the rudder stock, and connected them with a 3 mm stainless rod.
+For mounting, I 3D-printed a bracket that clips onto the channel, with ribs for zip ties, and an arm with a 32 mm hole for the rudder stock. A 3 mm stainless rod connects the two.
 
 ![Rudder position sensor with its arm](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD6u__0_VEa7KtYKqe2B0xOTCGpbiVh3qdmo8f2LqsXrZjOgY9rMJqShY5kEV8GGntotsk4h3Q-YEFKLOqtYW1lIiSJxMiiazlNsJY4JhZL3dQOlif415e5-FkeaE9TdQDNMDRdPe-X3Mt6Z3yNsRuZwtyBC3zR6STlE-esR5uQURu3qE2H4Xh0VYI4eNu/s1600/a1.j.png)
 ![Clip-on bracket for the rudder sensor, 3D model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBPI8eQoDfYFFEZLEIAaf8CVBk9N5T990pxOfHmwQ8CK27n36AkpMCeukk1VOYoAlLCDVvJCgu4lYEKH17V_L508F7F3aeSzL-ere6rQuB-fVDQAYyDNuQiy3oSVPeeyUkspcT45aovOE-dhcnifuMLgzJEJvRkUFFEz510gkc1aM2-nBLWdellQ5rdKf/s1600/a2.png)
@@ -61,18 +60,18 @@ Diary: [27 Apr 2024](https://irwin34.blogspot.com/2024/04/day-140-427-rudder-pos
 
 ## The autopilot arm that kept slipping
 
-The autopilot arm went in a year earlier, but only held by friction, and bronze on stainless doesn't grip much. Sometimes when I fought the wheel it slipped and all the settings were gone. And if it slipped one way, the arm and the actuator ended up in a straight line and the actuator couldn't push at all.
+The autopilot arm had gone in a year earlier, but it was held on the rudder stock only by friction, and bronze on stainless doesn't grip much. Sometimes, when I fought the wheel, it slipped, and all the autopilot settings were gone. Worse, if it slipped one way, the arm and the actuator ended up in a straight line, and then the actuator couldn't push at all.
 
-I had a key. The rudder stock had no keyway. So I cut one with a Dremel, lying in some crazy boat-yoga position. Not my favorite afternoon.
+I had a key. The rudder stock had no keyway. So I cut one with a Dremel, lying in some crazy boat-yoga position. It was not my favorite afternoon.
 
-Now with the rudder centered there's 90 degrees between arm and actuator. The actuator goes diagonally from the port side of the engine room to the arm on starboard. Looks a little weird, but it saves a lot of space and I can reach the motor easily.
+Now, with the rudder centered, there are 90 degrees between the arm and the actuator. The actuator runs diagonally, from the port side of the engine room to the arm on starboard. It looks a little weird, but it saves a lot of space, and I can reach the motor easily.
 
 ![Autopilot linear drive connected to the arm on the rudder stock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX9r_lsUqRmgQkpoNJpkWUHn1IyrLStZE8SRCE3r9VSuT08Ah6uzDk2NlBD1dBYbTqT_0qDI4nN24DabROQaAVZ1_xF789cqpePZLJZnLV4kcHsSap-8TQq2SIwYKgCFMcLjJ3v_aPaNb7BEnrIjX1M0o6IJBOheW5RNj73-SoEC0dMlNdQtLL6-gw65VT/s1600/IMG_1051.HEIC)
 ![Autopilot arm and quadrant on the rudder stock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZfJk20eBAfbLZbnG7Rjos4Ukw4nt4gQe__PaJbwW0lfLQ4QOedpBNWgfyNvyt-6gkG7iVzQ_NemNlGORykQL7IZBvnm3Wg8x-kx84sgQM28lwywzZyMWB4eQRLsXl1fpVBhFgbbJ0aDvjvsC67aETcOefetGBhFF3qHIf8iXaAvoqGiij3vPWL_rjKOv/s1600/IMG_1054.HEIC)
 
 Diary: [19 Jul 2025](https://irwin34.blogspot.com/2025/07/day-208-autopilot-arm-reinstallation.html)
 
-After the water heater went in, there was nowhere to put my feet in the engine room, so I made a little floor board over the shaft.
+After the water heater went in, there was nowhere left to put my feet in the engine room, so I made a little floor board over the shaft.
 
 ![Bolt sizes written on the engine compartment edge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguwvFnf7MuEH5cncrLisBy8nMgSpSCMJXOwPOwS5Or59_fRP3NsYrhFtV5PdBiyripew0yM2njWG5imXTVbY1AYTu7Fas9S8EBJtJzf2aOIVq4LlPnEANqhy2yyUo47p8EqHJwirovLm45q0P4N5HLYw_lFsP2pdO7hzmkMTDUqDwSfXcqPEVXCGyA1R58/s1600/IMG_1061.HEIC)
 ![Engine compartment after the water heater installation](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBWu63FVZ77lx1jtYifby0QeuCxPF6v1irXcBM2GakReHmwLVCPuyCD6c6wF0MOCA8llgC0TLpshoIWeiSMPLwWfWgR-ZYPOsYBMh7oOSIx8q5W2TjAhJ-ADn_3_220LA4wnKU7ZrG_h8bP2LG8KNVCIVr9SZXDs_z1ablAA7wf9niM1F4gTnYA30FMlR/s1600/IMG_1060.HEIC)
@@ -81,14 +80,14 @@ Diary: [19 Jul 2025](https://irwin34.blogspot.com/2025/07/day-208-autopilot-arm-
 
 ## A pedestal guard, with my own plate
 
-Vira never had a pedestal guard. I bought one for $100 and it fit nicely, except the engine control handle hit the tube.
+Vira never had a pedestal guard. I bought one for $100, and it fit nicely, except that the engine control handle hit the tube. Of course it did.
 
 ![Pedestal guard dry fit in the cockpit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8rczSHrS7CAt5DMXYiZpbvVfyG4UuDVNUr5by0kwlFIgGalVqxgfZ_1HIuiQ5w_kgftK6JFiLS4mDZeNwvySuhlikwpjVMuF0-U2kQ7q_jPpuHNchiYz2Gchk_l9YPtfY_KgRos0qF96Z6hRL5MnONO__DDROKkdBoxBQdJSe-0aWFgZQ86yMJG0Xqe-J/s1600/IMG_9265.HEIC)
 ![Pedestal guard feet on the cockpit floor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPyLkYuI3Mn0DnF_I69peS0le7wSy8LpfEn2dPUYa0SIUAgiRpnOLA9BXiNfDtoxifJd0wsKhdoV1gL8daEbjNfiH5FIVoXZTbjtyVoJOhdywX4M0euX_Mfi27fwPKBpqJdqUKQ03ophrpeGPj4tncQuwx9MGfzHVSVZOabDVOUdal_XKtPjg4BoXaUjpa/s1600/IMG_9262.HEIC)
 
 Diary: [2 Nov 2024](https://irwin34.blogspot.com/2024/11/day-173-102624-old-cabin-sole-plywood.html)
 
-The pedestal looks like an Irwin original and I couldn't find a mounting plate for it anywhere, so I drew my own. SendCutSend laser-cut it from 4.7 mm 316 stainless. They don't polish, and I don't know anyone around here who does electropolishing, so I spent two hours sanding, polishing and passivating it myself. Only the part you can see, of course. Two 1-inch straight connectors work as collars so the tube isn't stressed where it goes through.
+The pedestal looks like an Irwin original, and I couldn't find a mounting plate for it anywhere, so I drew my own. SendCutSend laser-cut it from 4.7 mm 316 stainless. They don't polish, and I don't know anyone around here who does electropolishing, so I spent two hours sanding, polishing and passivating it myself. Only the part you can see, of course. Two 1-inch straight connectors work as collars, so the tube isn't stressed where it goes through the plate.
 
 ![Drawing of the pedestal guard plate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1q1Yo15aFdbJ3yyxRpLMZURgxhSyy8PoXWMw8NT70cbEs7Je7oNvxrVgLiIvzF8Q0HzNAeNu75MIo6A9Laymxs0QQO1QkEMqzksMvTdJ89s3fDVXt4cRQv0JTdadPhOlUjvoDqqsVB0pvPHkwSaa68zMxs3XyKCaf_3nc3Nz6ike_BUM63ZyEoWx6GfbY/s1600/binnacle.jpg)
 ![Laser-cut 316 stainless plate for the pedestal guard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWA0LQ_n9mddsFYDqAkzMSdHl0OeUs9i5DRWROBS2JdxnRHB1B_FboillGKzrqkHpOo_e3u_wQhkM1tEuEkeeUfBp3Ipp9RAM7ypZCrFj5P2FCqA5lppioSAlxs9eht6uBhnsrQ11mLDll6SxhJgcGPnHyO7kPEdzFIBnG_YnaMhdggX9gc85DdpNhEV7/s1600/IMG_9435.HEIC)
@@ -97,14 +96,14 @@ The pedestal looks like an Irwin original and I couldn't find a mounting plate f
 
 Diary: [24 Nov 2024](https://irwin34.blogspot.com/2024/11/day-176-111624-floor-cleanning-binacle.html)
 
-December 2024, finally installed.
+In December 2024 it was finally installed.
 
 ![Wheel, compass and pedestal guard with teak cup holder](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0_YQY3ZZA7eYYbJ3c1yWosqMI8xbqBKpwyKUgRP63FsP1QQRiQTnS5u8WjOmmeh-pQU8XtixuPcvx9MUyHUSF11BYmx4EvwG0zw-cBFeEQIdMTNWAei2YOGCIB8Vv-QVjB3OkVUxdDejokyatHQQyN0kJWGexfx-mrANoz4CAQB2bf4lZhKlm15OIqHsT/s1600/IMG_9466.HEIC)
 ![Pedestal guard installed, cockpit at sunset](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSYmVCuFYOn9WMcJPfKyff_DGeXv_zTTeSr2hFG3SprBIM0nSPX3GjAHF6KS_L7X7NCCJqhvizg1-AD5X4acVAlM1ldtrJ8F_2HB22L1_F6VIaa7-HdVRY5u7VJqxJmmt2LcSszlOlqYWCjvBkPzZ3tUUdd0-i8DiXSHSIoclOR7zzOIvludrVqSQ6lDaD/s1600/IMG_9465.HEIC)
 
 Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-120124-cabin-sole.html)
 
-In March 2025 I pulled all the wires out of the pedestal and redid every connection with glue-lined heat shrink. The tachometer and hour meter moved to the side of the pedestal.
+In March 2025 I pulled all the wires out of the pedestal and redid every connection with glue-lined heat shrink. While I was at it, the tachometer and hour meter moved to the side of the pedestal.
 
 ![Engine telegraph handle and gauge on the pedestal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwtalEnmqh78ymSuL-ZVdc4m7yirJr5sYU4f5sjAHnQq7gP_uXetSCx0oSFZkgwLdEkOvy0bqadcJEQ6ysom3xacDiErohwJvcn8w18TZRvsZ-7YHTXZH2oJXFBqkCgb39768UedK99YPa7nnnAIRsFMDp5XABTS08L62N4HxzUHXeLLqfFyOeeQZK2VgW/s1600/IMG_0353.HEIC)
 
@@ -112,20 +111,20 @@ Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishi
 
 ## Dropping the rudder
 
-At the boatyard in November 2025 the rudder had a lot of small blisters and a couple of deep ones, one right on the back edge. When I opened it, the foam inside was dry. Good surprise.
+At the boatyard in November 2025 the rudder showed lots of small blisters and a couple of deep ones, one right on the trailing edge. When I opened them up, the foam inside was dry. A good surprise, for once.
 
 ![Rudder skin with blisters, boat on the hard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5X40sDwRTnuoWK0YWdwmDIBiaiETHmOEjVmKXeKP17XdyC8o1ImTMlxlaNirbbHc8PFLEEtdlJDpZ8SNKrLV2hY3rOFBVzMksvttY5mR9hC5gs_N24oI_328pVGJV5kbzXbDYXuBYlmcQWeDAoNd7BzCDOmPVd5ks8_x3gBcpHTZ1J52-JgKDJWEhnQAK/s1600/IMG_0218.HEIC)
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 
-To get to the rudder stock I had to take off the autopilot arm, the rudder sensor and the quadrant, and before all that, the water heater. Lots of boat yoga, but the rudder was finally free.
+To get to the rudder stock I had to take off the autopilot arm, the rudder sensor and the quadrant, and before all that, the water heater. Lots of boat yoga again, but in the end the rudder was free.
 
 ![Rudder quadrant area with the water heater removed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiQlHt_hiD6Pyz9SfpaQOHYNP7k18RRR7_-9yqmh2CAwT4IcvEUvIsXafAZm-AOhodrTa-CPdsuJZcCdJouu4lL1dDuVSKRFZUMpiLHyExD6iCeRHjO0xmWlKEqf1jx5yUm3fcFI3ZQDCkUXpzNgF1BYaeN3qVp3AuYfjeZ1lbzRhl1wx4BL5NqDlkbF8a/s1600/IMG_0313.HEIC)
 ![Cockpit with the quadrant and autopilot parts taken out](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOsYlBMyaIVOHr8746KZ83SNf7dx76TDO_VQepfBbvmQPjbyHsy1nZigiHJmNyK9ZJrjaaUKYolMUEQM7frr3WwSHe9PX_OQrXp1-8B8DGKe_-LdZUgvb5LUPijbPgpI99Uf4Ntpa8cYLUhFb1BMjt_6NlavaAVkjvQ2S_iKXA-A4STZqMTlJDCHoCrJLQ/s1600/IMG_0311.HEIC)
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-It's heavy, but I expected worse, maybe 60–70 lb. The plastic bushing was cracked and falling apart. I'm going to print a new one from ASA and add a Teflon washer. Inside the hinge, surprise, there were bronze bushings, and they look good. The skeg was perfect. No cracks, solid like new. Vic had fun that day.
+It's heavy, but I expected worse: maybe 60–70 lb. The plastic bushing was cracked and falling apart. I'm going to print a new one from ASA and add a Teflon washer. Inside the hinge, surprise, there were bronze bushings, and they look good. The skeg was perfect: no cracks, solid like new. Vic had fun that day.
 
 ![The dropped rudder lying on the ground at the boatyard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHLHG4rQWp-S0zrIIs1xJ4iCkwpscKGwpQ4_B30pz3-F8yxL0SeFA0WRZy45YUAaolZQ27DOnAE-i6UiYpUdBDxh-esquVfStWXsQeEeV-_iv2V1Sqy2-tEXObrDzCb3GLa2Tyueu1GBcJ2kq9f_7uZP80Qr-sv8vWYb-UKYDbeLoDImHcz6F49Ba0PNQ9/s1600/IMG_0316.HEIC)
 ![Skeg and lower rudder bearing, boat on the hard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvNmGkdZwMB_Yt3_5vtjLa2FrTY3QtXZsz2DlEe7dbPCKnCo7AxqvzdCqqLy9x9MJsbLMYpmqar4jq0-q__fr-zDpAP_U8hw7cFk1r4GJEn6KhP1e7QK6vvI-TcAmhBK47GTAiMmwhyjNqY-UfhkCGFV70Bc6jy9waIGlQzfl1yG0o8B_XEumKPLC09Mky/s1600/IMG_0317.HEIC)
@@ -136,7 +135,7 @@ It's heavy, but I expected worse, maybe 60–70 lb. The plastic bushing was crac
 
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
 
-That evening I sat down and drew a new bushing housing, and dry-fit it on the bracket.
+That evening I sat down, drew a new bushing housing, and dry-fit it on the bracket.
 
 ![New lower rudder bushing, 3D model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga2_dni11hmS2rMvBD18_W_d42q5UwZmcnvoizfMeM4JnY-nc5-6MxRz88rMBiV5L6lHPz78SFwt2nSVhWn2ZmevLECLp3mOUVBiHSyzS6IT2OXEO8aRMdgmG6ylPe4gAvfvTkdE04mp4do16NoKtkz6LYEq7Mr6JM50aUmubndDTdtuITOGn_xH10YCRh/s1600/Untitled.png)
 ![Old cracked rudder bushing next to the new printed one](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLfT-ttm6ENChPwuIWoQlKReoWFWNsTqqtHQ64AZAeKp2xyZLWogSn5TQ6urxcGjwORTYeLIMvblnb_qmEt6wzFrioROCcDx4p_yHt5sC7dFTyh3hods6w1huV0AFPcdTZBnyNdwaY_aagJHlKA6AMv1rIaPi5131GZ7F05NSHf7BWs9CPAzUVt0p3hyphenhyphenFS/s1600/IMG_0324.HEIC)
@@ -150,18 +149,18 @@ I had a whole list of reasons to pull the shaft:
 - re-bed the strut
 - swap the old packing for a dripless seal
 - get the prop off somewhere comfortable
-- free a coupling that's been stuck 40 years, and grease it so the next time is easy
+- free a coupling that had been stuck for 40 years, and grease it so the next time is easy
 - clean and balance the prop
 
-Before anything, I had run the engine in gear and cleaned up the coupling faces so I'd have a good surface to align to later. One of the coupling bolts had no lock washer and none of them were really tight.
+Earlier, while the boat was still in the water, I had run the engine in gear and cleaned up the coupling faces, so I'd have a good surface to align to later. One of the coupling bolts had no lock washer, and none of them were really tight.
 
 Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-haulout-added.html)
 
-I soaked the coupling in Blaster. With the engine in the boat there's only about an inch between the coupling and the stuffing box, so no puller or slide hammer fits in there.
+At the yard I soaked the coupling in Blaster. With the engine in the boat there's only about an inch between the coupling and the stuffing box, so no puller or slide hammer fits in there.
 
-One setscrew head snapped off. So I brought my welder and welded a nut onto the stub, and the impact driver took it right out. Stick welding in a fiberglass boat is scary, so I laid a piece of 1708 down to catch the sparks. Worth it: no drilling, no re-tapping.
+Then one setscrew head snapped off. So I brought my welder and welded a nut onto the stub, and the impact driver took it right out. Stick welding inside a fiberglass boat is scary, so I laid a piece of 1708 cloth down to catch the sparks. It was worth it: no drilling, no re-tapping.
 
-Then pulling. I opened the coupling, stuck the longest bolt I could fit between the gearbox shaft and the drive shaft, and started tightening long bolts between the two halves. First try I just bent the spacer bolt. Four 5/8 bolts and brute force, and the shaft didn't care. Second try I used a spare high-strength engine bolt and heated the coupling with a torch to maybe 150–200 °C, then cooled it with water, twice. Then turn the shaft, tighten a sixth of a turn, turn, tighten... and at some point it just gave up and the shaft started sliding out. Done.
+Then came the pulling. I opened the coupling, stuck the longest bolt I could fit between the gearbox shaft and the drive shaft, and started tightening long bolts between the two coupling halves. On the first try I only bent the spacer bolt. Four 5/8 bolts and brute force, and the shaft didn't care. On the second try I used a spare high-strength engine bolt, heated the coupling with a torch to maybe 150–200 °C, and cooled it with water, twice. Then: turn the shaft, tighten a sixth of a turn, turn, tighten... and at some point the coupling just gave up, and the shaft started sliding out. Done.
 
 Good night, Vira.
 
@@ -175,12 +174,12 @@ Diary: [8 Dec 2025](https://irwin34.blogspot.com/2025/12/day-233-234-boatyard-to
 
 ## The dripless seal fits. Barely.
 
-The PSS seal is supposed to go on with 3/4 inch of compression. I can only get it on by squeezing it 1/4 inch. That'll make putting the shaft back fun, and taking it out someday even more fun. But it fits, so we go with it.
+The PSS seal is supposed to go on with 3/4 inch of compression. I can only get it on by squeezing it 1/4 inch. That will make putting the shaft back fun, and taking it out someday even more fun. But it fits, so we go with it.
 
 ![PSS dripless seal dry fit on the propeller shaft](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSTwjD7j4qJem6KmQTupX9LT_NOlJqHY9V1bHllNtsIr5NjWhLrUrSwx4hegQwixDj39WU7DSpj3-dxr6zcTHDlqtcH7Bh8cdNr3pE4UQDvd91LzDMjff0aS2tqp2vILodQgve9852ZhESxZ2CU3hFOhyzp5wCbpgtdDd5y3VXDGAJUulCPjq7HEvbwNK5/s1600/IMG_0407.HEIC)
 
 Diary: [15 Dec 2025](https://irwin34.blogspot.com/2025/12/day-235-236-thru-hulls-topsides-one.html)
 
-In March 2026 I glued a temperature sensor onto the seal's graphite block. Sounds simple. The J-B Weld wasn't thick enough to hold it, or maybe the cable was too stiff, so I was fighting wet epoxy right next to that polished seal face, trying not to get any on it.
+In March 2026 I glued a temperature sensor onto the seal's graphite block. It sounds simple. But the J-B Weld wasn't thick enough to hold it, or maybe the cable was too stiff, so I ended up fighting wet epoxy right next to that polished seal face, trying not to get a drop on it.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)

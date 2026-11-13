@@ -6,12 +6,11 @@ order: 2
 description: "Opening the leaking integral tank and rebuilding it with fuel-resistant epoxy."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMeQY7Yy-wDHYHhNJbo5CfeKGpEho1FnsWHa_u5Aozcp_XzV50fJYsbBsF-UUUVkx9ShF1Ixlghyzpuh4PHSNeAwv3ieInyo1nDwSkBe4ZJPUg0RKxq1L46IllarUr9pbFPqwyEmFlBLd6aUDiOjbwBJ_rzMyOcJjoXCKKixar48q9TQoOlizfqAmatSoq/s1600/IMG_8799.HEIC"
 ---
-
-Here's a funny thing about the Irwin Citation 34: the fuel tank isn't really a tank. It's a fiberglass tub built right into the hull under the settee, with a lid on top. Mine leaked. I put it off for two and a half years, and then in the summer of 2024 I finally opened it up.
+Here's a fun fact about the Irwin Citation 34: its fuel tank isn't really a tank. It's a fiberglass tub built right into the hull under the settee, with a lid on top. Mine leaked. I managed to put it off for two and a half years, and then, in the summer of 2024, I finally opened it up. This is the story of what I found inside, and how the tub became a real tank.
 
 ## It started with the fuel port
 
-Back in May 2022 I was chasing deck leaks and noticed the fuel fill port wasn't sealed to the deck at all. When it rained, water just ran over it and down into the deck. One more thing for the list.
+Back in May 2022 I was chasing deck leaks, and I noticed that the fuel fill port wasn't sealed to the deck at all. Every time it rained, water ran over it and straight down into the deck core. One more line on the list.
 
 ![Fuel fill hose under the deck, with no seal to the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfEPd6W7orGdIg_xXgNvhTBZRbYM23qyaNAzAJ9xWj9B13bL4nPUu0jFS3OUsOG0t59b-dT9ju1YQQbOnJ4I3sTZJ4JTr-a_DZ8YDzxl9go8g41gZQ2Yezrv8g6k1w55RuuQpeh_2jr9kbYnW3EF9P5DhxJYoG3FzcXnVBgbBQe0li3p42mOXf8-TNyQ/s1600/IMG_2754.HEIC)
 
@@ -19,13 +18,13 @@ Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-wat
 
 ## A temporary tank, and a thousand pumps
 
-Before I could open the real tank I needed fuel from somewhere else. So in June 2024 I put a temporary tank next to the engine. Not a great spot, but fine for a couple of months.
+Before I could open the real tank, I needed fuel from somewhere else. So in June 2024 I put a temporary tank next to the engine. Not a great spot, but fine for a couple of months.
 
 ![Temporary fuel tank dry fit in the engine compartment](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfSuKEAnWxpdFM8qIhfGUpjQWYS9MbKcK9P9egL18zgejIbfzC6Un5D8WeiSmpsLsxepOs1q2YkbrHjPJCwXcwBkRYMKrDbOfsDXAXgsAjKY5uJBEwoE-qUq2HOYJ9iOFhEltTJvH4ft8fGwfAhfsxtu6Ju-M9eQC29rj42P0Iq86O0U5p8ZQUy4N9G2mU/s1600/IMG_8447.HEIC)
 
 Diary: [1 Jul 2024](https://irwin34.blogspot.com/2024/07/day-155-63024-new-companionway-hatch.html)
 
-Then we had to bleed the line. My son and I took turns on the little manual pump, probably a thousand pushes, and the air just would not go away. We lost an hour before we found it: I had broken an old piece of pipe at the T where the injector return joins the line to the lift pump. Fixed that, the engine started and ran half an hour, no problem.
+Then we had to bleed the line. My son and I took turns on the little manual pump, probably a thousand pushes, and the air just would not go away. We lost an hour before we found the reason: I had broken an old piece of pipe at the T where the injector return joins the line to the lift pump. Once that was fixed, the engine started and ran for half an hour with no problem.
 
 Diary: [14 Jul 2024](https://irwin34.blogspot.com/2024/07/day-158-71324-windlass-mount-build-part.html)
 
@@ -33,20 +32,20 @@ Diary: [14 Jul 2024](https://irwin34.blogspot.com/2024/07/day-158-71324-windlass
 
 In July I pumped the tank out. About 11 gallons came out, and it looked clean.
 
-When I bought the boat, the previous owner told me, very proud, that he had sealed the lid with "aviation" sealant. "100% guaranteed, it will never leak." Well. In a lot of places that sealant wasn't stuck to anything. I cut it out with the oscillating tool and a knife blade, and that part went quick.
+When I bought the boat, the previous owner told me, very proudly, that he had sealed the lid with "aviation" sealant. "100% guaranteed, it will never leak." Well. In a lot of places that sealant wasn't stuck to anything at all. I cut it out with the oscillating tool and a knife blade, and that part went quickly.
 
 ![Integrated fuel tank lid under the settee, caulked around the edge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi85Qse854poQmRju1_QvEpAKPq__6tvIB7baUVyRa99b-bvhBKX4Ciiv6MeK5pGzTe3r0adpuLewKZfjT1Ih9bfCktZn1u7km34GfBI054auhDY7ZxCNrYrAwW9Q5amCRy01Mv7hKqecqSX3XEc-9y29QDXf33P9w-hb53OijhO3HhyphenhyphenFwfFUl9myyGty06/s1600/Untitled.png)
 ![Old caulk around the fuel tank lid coming off](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIbwhwG0Fdu2ggqxaQy-C4hsaTGnawhgrNiHJfR1GUVvBJGJ1NZUTkw24wzJskYS51b0EJLJJc3cfOxz-os4MADeD3Sd7wZTMhJFqTQnszEX9OhaRVgeuMWcmj8wgIprx6J6f8scqSu6C3tuCmwJINhlfEKPpIGcQf0Gqdc5oqmr7wXU9Tkyq49hg2bABM/s1600/IMG_8574.HEIC)
 
 Diary: [24 Jul 2024](https://irwin34.blogspot.com/2024/07/day-159-71324-chain-locker-rebuild-part.html)
 
-Then the screws. Every one was a #10 self-tapper, and only about one in three actually held something. The rest just spun.
+Then came the screws. Every one was a #10 self-tapper, and only about one in three actually held anything. The rest just spun.
 
-And inside? Everything was covered in black sticky stuff, like tar. It never cured: not hard, not rubbery, nothing. It had been sitting there at least three years, probably much longer. It didn't seal anything; fuel just ran out at the joint, and that's why somebody poured polyurethane all over the top.
+And inside? Everything was covered in black, sticky stuff, like tar. It had never cured: not hard, not rubbery, nothing. It had been sitting there for at least three years, probably much longer. It didn't seal anything; fuel simply ran out at the joint, and that's why somebody had later poured polyurethane all over the top.
 
-Cleaning it was three hours in a gas mask, about 100 °F outside, with half a gallon of acetone, because nothing else would touch it. I hate acetone, it's a fire waiting to happen. I couldn't even run the air conditioner because I needed a fan blowing the fumes out. But it came out really clean.
+Cleaning it took three hours in a gas mask, about 100 °F outside, and half a gallon of acetone, because nothing else would touch that goo. I hate acetone. It's a fire waiting to happen. I couldn't even run the air conditioner, because I needed a fan blowing the fumes out. But the tank came out really clean.
 
-One more surprise: the pickup tube had no strainer. I think it had one once. Now it's just a copper pipe with a washer soldered on the end.
+One more surprise: the pickup tube had no strainer. I think it had one once. Now it was just a copper pipe with a washer soldered on the end.
 
 ![Fuel tank lid with all the sealant removed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNYuhCoxqKmRTvR2piLHLb74c56QDDvVcJfbwfvfTeEj9q7f1WBZE6yvUkAUy0NJD37NSKRzOyzn0IhoZ3qaaN5qTJ-MnJCLuVRYZfLKo_Beps-WeAChMYUfq4uX0T2RljeMQ_0a2UhI3uh39xY6pATQ5d0EMJ8xyeI3bKmXRt7iRqgluZwGnPRVHPntgG/s1600/IMG_8575.HEIC)
 ![Fuel tank lid lifted: tar-like sealant and dirty tank inside](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj-8z0o9EF83NR9KtHOF_pRxPtGARgiu3mnk8ityEYHFY_RLxxVEVGFgYrC3oBDDDVmwl5TD3U8635NwBQzL__UM15O6EndK2e6lC64Ca-9JpNG_qya9fKv1-oJiaKJc0aBeiPfBxnN7OrLnLCg_VnDjj9faGVMGs6vEn48fwW1bV3x4IYsszVLjd3YrPB/s1600/IMG_8576.HEIC)
@@ -57,9 +56,9 @@ Diary: [24 Jul 2024](https://irwin34.blogspot.com/2024/07/day-159-71324-chain-lo
 
 ## Making a plan
 
-I thought about it a long time and read a lot. I didn't want to fight a 10-foot seal around the lid ever again. So the plan was: fix the crack, coat the whole inside with fuel-proof epoxy, and glass a new top on permanently, with just a small inspection hatch.
+I thought about it for a long time and read a lot. I didn't want to fight a 10-foot seal around that lid ever again. So the plan was: fix the crack, coat the whole inside with fuel-proof epoxy, and glass a new top on permanently, with just a small inspection hatch.
 
-I ordered a gallon and a half of MAX GRE epoxy, the gasoline-resistant one, from Polymer Composites. When I sanded half the inside down to bare glass, I found little voids full of fuel. I opened all of them up so I could fill them.
+I ordered a gallon and a half of MAX GRE epoxy, the gasoline-resistant one, from Polymer Composites. When I had sanded half of the inside down to bare glass, I found little voids full of fuel. I opened all of them up so I could fill them properly.
 
 ![MAX GRE gasoline-resistant epoxy, resin and hardener](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNYVQO5M3YkwP7oINqKqRTTqtk8n1C9WbhMuiWztQed6ptE9YXAPziqVr3-05sFk_FNUH5oIRGlpE4yhufeUufyu6YEa0iTQcAVRNq3-EGfjx3Y1rbPa5dtD-8rRFeK4S4n7o6OW7kbwrVGV58fGCOXkt3bOVqtVUZanwddET0x4wBA30Jt-KuoLjvkqZu/s1600/Untitled.png)
 
@@ -67,9 +66,9 @@ Diary: [27 Jul 2024](https://irwin34.blogspot.com/2024/07/day-160-72724-fuel-tan
 
 ## Fixing the bottom
 
-"Sand off the gelcoat inside the tank" sounds easy. It was three hours in fiberglass dust.
+"Sand off the gelcoat inside the tank" sounds easy. In real life it was three hours in fiberglass dust.
 
-Then I filled the voids, opened up the crack in the bottom, and laid three layers of 1708 over the bottom corner with West System. The first layer came out red. My old hardener had been sitting in a metal can. Three layers is about 4 mm, going out about 4 inches each way, small piece first and bigger on top so there's no hard edge.
+Then I filled the voids, opened up the crack in the bottom, and laid three layers of 1708 over the bottom corner with West System epoxy. The first layer came out red: my old hardener had been sitting in a metal can. Three layers make about 4 mm and go out about 4 inches each way, small piece first and bigger ones on top, so there's no hard edge.
 
 ![Working in a full gas mask and Tyvek suit, sanding the tank](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBFfjJLvNQERn2QxBWeP7XhwJGWvntn33SmuIFRX29X2mm8jvffdhihvJCpOQDuZOh3ME9Zi0Qy5Flp-nZ_ZdBJRXHtD2vO4NoFfYJyip9xGHm5WlWUOjgX3R1EfRsBuqgv6nFl71aMQHzskhMpQuFF9NbUbCY-CtURoucXOrXecIp0mbxtib8ve0XJDIu/s1600/IMG_8659.HEIC)
 ![Fuel tank with the gelcoat sanded off](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_pQFVAZJNXTv_HQa1UHyJ12p-Y4Yj1y6PbjLyo6hlNODe2NnMniKNUGim04YHsTRbsHf3c-Y2mJO4AFbDLwMYjDBdgbhkRlXmxNxHv8CzlzyVgeYOlm8GVRQIuuil3flqjzfluETYR1BXt6Ft4mPEy1hFQhL9w88phiDafukrSyTFK2ggyBohR80z9Mu/s1600/IMG_8662.HEIC)
@@ -79,7 +78,7 @@ Then I filled the voids, opened up the crack in the bottom, and laid three layer
 
 Diary: [2 Aug 2024](https://irwin34.blogspot.com/2024/08/day-161-8324-fuel-tank-part-3-glassing.html)
 
-After that the whole inside got glass cloth and two more coats of the fuel-proof epoxy. I chased the bubbles out with a heat gun, which works great. Some resin ran down and made a hard puddle on the bottom. Good or bad? I don't know, I couldn't stop it.
+After that, the whole inside got glass cloth and two more coats of the fuel-proof epoxy. I chased the bubbles out with a heat gun, which works great. Some resin ran down and made a hard puddle on the bottom. Good or bad? I don't know. I couldn't stop it anyway.
 
 ![Mixing fuel-resistant epoxy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvwZMbmldAKUIUcTpmqq1W_oOCmwqnnyilPSIbPdpR6cv0DN1fdKOypPEfkQsvr3m9WJnE3owq-S7mrzjQBeiRS-Bp7BpnKkZhD1yr3sh81MZGg2F2HchE_grx68ClaVG_UCB22a1zAT9HvvyNaFfC_xUfk556oWqHImuVMB8H2_1N8msVIfiBU5eNSbv6/s1600/IMG_8693.HEIC)
 ![Tank inside glassed and coated with fuel-resistant epoxy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-_2O_p-EvqTelDz_cxtXSma_KwTNSvUptFO7jqqaHXS_AQXljawbdnmgH14YPHMqtqS6fEKUfCuh3I9eCz2lHUYbQDovVt7VyJVVomod8LK1d3Zka9PXXL3-JmbHELcTXQGKMHZNoxuO4vsqiNeBgVey2FhVd_j5KOz9rviGs8MkjIPw5uVWVAfQ1gCvQ/s1600/IMG_8691.HEIC)
@@ -88,15 +87,15 @@ Diary: [11 Aug 2024](https://irwin34.blogspot.com/2024/08/day-162-81024-fuel-tan
 
 ## A new lid
 
-I wanted a lid 5–6 mm thick so it holds itself up, glued to the tub so it can never leak again, and not resting on the plywood seat anymore.
+I wanted a lid 5–6 mm thick, so it holds itself up; glued to the tub, so it can never leak again; and no longer resting on the plywood seat.
 
-I used the old lid as a mold. Mold release, then two layers of 1708 and two of chopped mat in polyester resin, because it's cheaper, for about 3 mm. On the side that touches fuel I added a layer of 9 oz cloth in the fuel-proof epoxy plus two glaze coats, so fuel never reaches the polyester.
+I used the old lid as a mold. Mold release first, then two layers of 1708 and two of chopped mat in polyester resin, because it's cheaper, for about 3 mm. On the side that touches fuel I added a layer of 9 oz cloth in the fuel-proof epoxy plus two glaze coats, so fuel never reaches the polyester.
 
-I put three extra layers where the level sensors and the hatch would go. To get a flat spot for the gasket I pressed plywood plates on it. I used too much resin and it ran over the masking tape, so it's not pretty. My fuel cans sat on top as weights.
+I put three extra layers where the level sensors and the hatch would go, and pressed plywood plates on top to get a flat spot for the gasket. I used too much resin, and it ran over the masking tape, so it's not pretty. My fuel cans sat on top as weights, finally doing something useful.
 
-Inside, in the middle, I put a baffle, three-quarters high with a hole about 2×1 inch at the bottom, so the fuel doesn't slosh. The inspection hatch sits right over it, so I can reach both sides.
+Inside, in the middle, I put a baffle, three-quarters high, with a hole about 2×1 inch at the bottom, so the fuel doesn't slosh. The inspection hatch sits right over it, so I can reach both sides.
 
-For the hatch I drew a backing plate with press-in nuts so I can use real machine screws, and ordered it from SendCutSend.
+For the hatch I drew a backing plate with press-in nuts, so I can use real machine screws, and ordered it from SendCutSend.
 
 Then the lid went on, on a bead of MAX GRE thickened with 404 filler, plus a strip of 9 oz tape over the seam all around. It looks ugly, but every inch is bonded.
 
@@ -114,7 +113,7 @@ Diary: [17 Aug 2024](https://irwin34.blogspot.com/2024/08/day-163-81724-fuel-tan
 
 ## Does it leak?
 
-With the hatch on, I hooked the vacuum cleaner's exhaust to the fill and sprayed soapy water everywhere. No bubbles. From that hatch I can reach almost every corner of the tank with my hand to clean it.
+With the hatch on, I hooked the vacuum cleaner's exhaust to the fill and sprayed soapy water everywhere. No bubbles. And through that hatch I can reach almost every corner of the tank with my hand, so cleaning it in the future will be easy.
 
 ![New fuel tank lid with inspection port and fittings, soap test](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGCfhUSyD0wbis_JCqGo3rXflSNfZn5W_M7OVy7H55jdO0odyI-9M9vCSr9UinuIytB2Eb3pckPbIfw3tV2S4uTVT0g4aXLMRgXtek3BtmhcIujfZmydfzr0ltmlHtMgheVjmDAS83B5Oyo2TYkcbDKCRKRV_5M3wsvlurLBzvL5mch2ZLQq_-ewyo4DKX/s1600/IMG_8756.HEIC)
 ![Fuel line fittings wet with soapy water during the leak test](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZFndxdhf5T3qDv5k4DyH2AN41nrsNAghoKSToe9mSKrn2-7Kq8whpCINcbtCoMhrsV9zKEFXQIPSbEabfQg6B8bCETuKU4MmyX_pEnutNfEGOQEKuznFcAd2Q_Ot_mK8QcJenOhFZDIDj-hSzDElfGvMjzPnVkOXjY1aUS6GgXsAuQBnOdJlJWCJ7il4/s1600/IMG_8745.JPG)
@@ -130,13 +129,13 @@ Diary: [3 Sep 2024](https://irwin34.blogspot.com/2024/09/day-166-9124-fuel-tank-
 
 ## A return line, finally
 
-Here's something strange I found. The boat had no fuel return to the tank. The injector return was connected straight back into the supply line. So if air ever gets into the injectors, it slowly goes back around and shows up in the injection pump hours later, and the engine just dies. You'd never figure out why. Oh, and there was no primary filter or water separator either. None.
+Here's something strange I found along the way. The boat had no fuel return to the tank. The injector return was connected straight back into the supply line. So if air ever got into the injectors, it would slowly travel around and show up in the injection pump hours later, and the engine would just die. You'd never figure out why. Oh, and there was no primary filter or water separator either. None.
 
 Diary: [14 Sep 2024](https://irwin34.blogspot.com/2024/09/day-168-91424-fuel-tank-fuel-return.html)
 
 So I put a small electric fuel pump right next to the tank. It helps bleed the system, and I can polish the fuel without hooking up anything temporary. It's loud when it runs dry, but I won't run it long, and maybe it's good to hear it.
 
-I also added a return port on the far side from the pickup, with a line back from the filters. With the baffle in the middle it's almost like two tanks, perfect for polishing fuel. I made the fitting myself from a 5/16 stainless hollow bolt with a drill and a bench grinder. Inside, it has an oil-proof rubber gasket and a nylon washer so the rubber doesn't squeeze out.
+I also added a return port on the far side from the pickup, with a line back from the filters. With the baffle in the middle, it's almost like two tanks: perfect for polishing fuel. I made the fitting myself from a 5/16 stainless hollow bolt, with a drill and a bench grinder. Inside it has an oil-proof rubber gasket and a nylon washer, so the rubber doesn't squeeze out.
 
 ![Small electric fuel pump next to the fuel tank](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtntFGPxHM0L1AZ9OgGDl38Il2Psp-1nHEZ0phDgDKS9LXs9uTdFAQMeLYwxhto4fukvbxNzMHNa_44sAwX1hEQNVMSa-OMuIXicVFqhe0xaZ53dsEoYg9cPg7Veahl5caDahsuVXJDuHmelinP44ScCmjx3wv7a-DSa6QYc-iWyxRwIjVyd3Tr9X8H0_/s1600/IMG_8871.HEIC)
 ![New return port in the side of the fuel tank](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Jj4mn_g5j-l4C20l8lxAUpAJ3WZdSsCOeCyMXB7rG0Ff5to9okykw_fH-6PEXoFFeJRMSTJHkjqdO87goNPuDGkRyePsQz26LL3xpMn1UHEs-YvRSOSfZM6YgnrgjLHUNtS56wCuuBtF8G7Rj0m5bpMXHD-dRyz6i9CwW5t48GmbdbSzEONR_Y7Ac8zO/s1600/IMG_8867.HEIC)
@@ -149,12 +148,14 @@ Diary: [14 Sep 2024](https://irwin34.blogspot.com/2024/09/day-168-91424-fuel-tan
 In September 2024 I replaced all the old fuel hoses and put proper filters before the lift pump. Here's the new diagram and the real thing. What changed:
 
 - All hoses are now A1-15 SAE J1527, 5/8.
-- An electric pump right next to the tank.
+- An electric pump sits right next to the tank.
 - A 30-micron FG500 filter/water separator, then a 10-micron filter/separator.
 - A return port on the far side of the tank, and a return line from the 10-micron filter so I can polish fuel, with a check valve on it.
 - The injector return goes back to the tank.
 
-Why? With three stages of filtering, the filter on the engine should last pretty much forever, and there are two water separators in case one fails. The electric pump has several jobs: it makes bleeding the low-pressure side easy, it polishes the fuel through the filters without running the engine, it can feed the engine if the lift pump dies, and in an emergency it can at least try to push fuel through a clogged filter. The check valve stops air coming back up the return line if the polishing valve is left open with the pump off.
+Why all this? With three stages of filtering, the filter on the engine should last pretty much forever, and there are two water separators in case one fails. The electric pump has several jobs: it makes bleeding the low-pressure side easy, it polishes the fuel through the filters without running the engine, it can feed the engine if the lift pump dies, and in an emergency it can at least try to push fuel through a clogged filter. The check valve stops air from coming back up the return line if the polishing valve is left open with the pump off.
+
+The tub that leaked for years is now a proper tank, with filters worthy of a ship. Not bad for a "temporary" fix that waited two and a half years.
 
 ![Diagram of the new fuel system with filters and return line](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_6sWG1HvT8STXP4tdo_v1vjO8EkDDPultkZ2kU6veANOOafKVF6qf5AUtv6tzzqpeSr1sN5nbMR7Hr1ar8-YivohW5eU5dsIJwiisJI9OPpdHmiUBJFRDnXUiidLsRB4m_-VBOUyW_QqrfSMd2j8E3SyOASzHwHDSpaOX0f6BdorBq87KvZcBtQYEyRZs/s1600/Untitled.png)
 ![Primary fuel filters, 30 and 10 micron, with polishing valve](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAYefHT7roDZtocTW7lK595OVdbm15E9SHiA-pESAko97dVJLwkc9BmxFyMbWsiSOXpAiDSppCprrh6W3_5zjyPwxjs_HNZeYV1r9I_YQWiVGMDAsctGw87TnOrQ25l0xMkOilH3AnLFX2dgo5dLFBzusEGOeAw3WmhveS6gdOsQC4KNbIJJCZiBvJtF3/s1600/IMG_8906.jpg)

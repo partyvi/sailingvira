@@ -6,22 +6,21 @@ order: 4
 description: "Shower walls, head cabinet, toilet and the shower that was never built."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC"
 ---
-
-The head on an old boat is the place nobody wants to talk about. Mine greeted me on day one by spitting half a liter of old pee-poo into my face. So yes, it needed some work.
+The head on an old boat is the room nobody wants to talk about. Mine greeted me on day one by spitting half a liter of old pee-poo into my face. So yes, it needed some work. Here's how it went from that to white walls, a real shower pan, a water-saving shower, and finally a toilet my wife approves of.
 
 ## Emptying the holding tank
 
-I wanted to pump out the holding tank from the start. It had about 5 gallons of something, and I expected really smelly gray water with poop in it, so I kept putting it off. But curiosity won. Not about what was in the tank. I wanted to see what's under the compression post and how the mast is grounded for lightning. From the Irwin owners group I knew the tank gives access to the area under the mast and to the shower drain.
+I wanted to pump out the holding tank from the start. It held about 5 gallons of something, and I expected really smelly gray water with poop in it, so I kept putting it off. But curiosity won. Not about what was in the tank, of course. I wanted to see what's under the compression post and how the mast is grounded for lightning. From the Irwin owners group I knew that the tank gives access to the area under the mast and to the shower drain.
 
 The plan anyway was new gray water hoses, an electric toilet, and a Y-valve to go overboard offshore.
 
-But you can't get a tank dry with a normal pump-out. The hose is 1-1/4 inch and an inch of stuff always stays. And the marina had no pump-out then. I'd have to motor somewhere, pay, and still deal with gallons left inside.
+But you can't get a tank dry with a normal pump-out. The hose is 1-1/4 inch, and an inch of stuff always stays at the bottom. And the marina had no pump-out back then. I'd have to motor somewhere, pay, and still deal with the gallons left inside.
 
-So I did it myself, with a 5-gallon Home Depot bucket with a lid, a piece of vacuum hose and the shop vac. Two holes in the lid: vacuum on one, hose on the other, and suck the stuff into the bucket. The vacuum stays clean, the bucket I can carry and dump into the sewer properly, and the tank is completely dry. Good surprise: it didn't smell too bad, thanks to the deodorant the previous owner had put in.
+So I did it myself, with a 5-gallon Home Depot bucket with a lid, a piece of vacuum hose and the shop vac. Two holes in the lid: the vacuum on one, the hose on the other, and suck the stuff into the bucket. The vacuum stays clean, the bucket I can carry and dump into the sewer properly, and the tank ends up completely dry. A good surprise: it didn't smell too bad, thanks to the deodorant the previous owner had put in.
 
-I took out the broken manual toilet and the gray water hoses (4'6" and 5'10", noted in case I ever put it back and forget). For the next couple of years, a porta-potty. The only problem was the toilet bolts sticking up from the floor, which I didn't want to remove. So I made a temporary mount that uses those bolts. The problem came with its own solution.
+I took out the broken manual toilet and the gray water hoses (4'6" and 5'10", noted here in case I ever put them back and forget). For the next couple of years: a porta-potty. The only problem was the toilet bolts sticking up from the floor, which I didn't want to remove. So I made a temporary mount that uses those bolts. The problem came with its own solution.
 
-Then I cleaned and repainted under the head cabinet and the toilet base. Pretty, isn't it?
+Then I cleaned and repainted the area under the head cabinet and the toilet base. Pretty, isn't it?
 
 ![Head stripped, with the old toilet and cabinet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlWml_b5kveL4-WX2dsQY4HbtR4FtgDokxmlKkWgPnrK61UC6yAS2Lznm5_bROMMCLT7XSE7UjxiLEv_ccgC1o-ufLV10oJgr-eloQttXMi0GHdRoGcDC-9lVaJvs_KdvoUaWoY3AIbz0z9ohZiF_9s_kkB8sKdUppw5ylbuS-SMX3cqo6aOHAoo90fA/s1600/IMG_1955.HEIC)
 ![Porta-potti in the head after the holding tank came out](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWaQpxbPBSZlrpBed4CApBvq1RQ-Bzka_dX5Itj-YoU8QQ-1iPdv5gnEc8ivMzmJUEFYgK7FbzzGEMuHIvTGox8aRv9La4YhCnQFjPHQmXgZ21QRBTsDXY0t54Nx5TAfqlU5MdWOsSLKOGoZGHWY9pq2uMvOgvqjK1fABWz7AjWji0luXe3BMXn4kB-Q/s1600/IMG_3723.HEIC)
@@ -29,15 +28,15 @@ Then I cleaned and repainted under the head cabinet and the toilet base. Pretty,
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-February 2023 I made a proper plywood plate for the porta-potty, with holders so it can't run around, and cut off extra sanitary hose.
+In February 2023 I made a proper plywood plate for the porta-potty, with holders so it can't run around the head in a seaway, and cut off the extra sanitary hose.
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
 ## Making a real shower pan
 
-One more thing built to fail. By design, the head walls stand with their plywood edges sitting in the shower pan. That means the main bulkhead and the head walls will rot if you use the shower a lot. To avoid it, you'd have to shower without a single drop on the walls and never leave any water on the floor. Possible? Of course not. So you get a nice smell and rotten plywood.
+Here's one more thing built to fail. By design, the head walls stand with their plywood edges sitting in the shower pan. That means the main bulkhead and the head walls will rot if you use the shower a lot. To avoid it, you'd have to shower without a single drop on the walls and never leave any water on the floor. Possible? Of course not. So you get a nice smell and rotten plywood.
 
-So I decided to glass all the walls to the shower pan and paint them with Interlux two-part topside paint. Good practice before I paint the topsides and deck, too.
+So I decided to glass all the walls to the shower pan and paint them with Interlux two-part topside paint. Good practice before I paint the topsides and the deck, too.
 
 Step 0: dig out the rotten wood. The whole bottom of the port main bulkhead was rotten to trash. My plan was four 5/16 bolts to hold the bulkhead to the liner, cut out the trash, then teak blocks and a couple of plates to carry the bulkhead load to the floor. But the floor isn't structural, so maybe it's better to let the bulkhead hang from the liner.
 
@@ -47,7 +46,7 @@ Step 0: dig out the rotten wood. The whole bottom of the port main bulkhead was 
 
 Diary: [1 Jan 2023](https://irwin34.blogspot.com/2023/01/day-74-1123-shower-walls-to-walls.html)
 
-Step 1: sand the joint area on the walls through the melamine down to plywood, and through the gelcoat on the liner, so the glass bonds well.
+Step 1: sand the joint area on the walls through the melamine down to the plywood, and through the gelcoat on the liner, so the glass bonds well.
 
 Step 2: fill the big gaps with polyethylene foam, just to hold the fillets. Not structural.
 
@@ -66,7 +65,7 @@ Then filler, sanding, primer and paint over the next days.
 
 Diary: [1 Jan 2023](https://irwin34.blogspot.com/2023/01/day-74-1123-shower-walls-to-walls.html)
 
-Remember the crack in the floor next to the compression post? With the rotten bulkhead out I could finally reach both sides. I ground it out about 4 inches to rebuild the floor rib. Interesting: right at the crack the fiberglass changes color. Looks like the part under the post has no glass, or a different resin. Then I built it back up.
+Remember the crack in the floor next to the compression post? With the rotten bulkhead out, I could finally reach both sides. I ground it out about 4 inches back to rebuild the floor rib. Interesting: right at the crack the fiberglass changes color. It looks like the part under the post has no glass, or a different resin. Then I built it back up.
 
 ![Rotted wood removed at the compression post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxj-odSgg7LLJ2Qt55A4VbeToqAI69_MepYX7n1PK6C1uFvQKI7Q3mJpZUhJXWKSnzNQnXlu7hZXACEeteyMCqHcKjxJWzp5LJo1J7aSUo1mk3RENRLoCaKotlmJnfGzKl6RWaPEOQ6D5HjzgBEdiXJADB_ArasCo8nmHxwKUM2NRj3PhbrqSToxFTOw/s1600/IMG_4540.HEIC)
 ![Glassing the corner by the compression post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXI7L5XKYIVV0fQPdm-x3za1rTjciUJx4Y8i7aoW4Ygyf-Hmfpoh_TYgByNIrpIOqut1Ja_m6bXEUjsqK1F9ZcBO0-JV3EbrpXFR1Um9VrsTeWB3k6PgqTAmxC7M7jFBwU70piyzbmdootriAcgbc41AQ8bGwxRtpaSVjsZHwTXPz5Gf3Xd-rYGS_Urg/s1600/IMG_4541.HEIC)
@@ -75,14 +74,14 @@ Remember the crack in the floor next to the compression post? With the rotten bu
 
 Diary: [1 Jan 2023](https://irwin34.blogspot.com/2023/01/day-74-1123-shower-walls-to-walls.html)
 
-Mid-January the left wall got its first coat of primer, along with all the joints between walls and floor. I patched the hole I made for plumbing, and made a teak insert to close the "hole in the wall" and support the bulkhead. Primer doesn't level itself well, but in the picture it looks OK. The right side wasn't in the plan, but I had primer left over, so I used it with almost no prep. We'll see how it sticks. Interlux Pre-Kote literally smoked me out of the boat. Short day.
+In mid-January the left wall got its first coat of primer, along with all the joints between the walls and the floor. I patched the hole I had made for plumbing, and made a teak insert to close the "hole in the wall" and support the bulkhead. Primer doesn't level itself well, but in the picture it looks OK. The right side wasn't in the plan, but I had primer left over, so I used it with almost no prep. We'll see how it sticks. Interlux Pre-Kote literally smoked me out of the boat. Short day.
 
 ![Head walls primed white](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeCvw8aKI5uLUOa-1CD8VWsXfdp7nKaJ-llnAU1o3CBD2hmA4Wnfdp4-8ld4fI-_DDmEm1dTg6P9AORj7_RJh0G_ZMNkb5X-q8WAG1xBdqSfCivtSTCSzo1-XIAdLj96gaUK5g7BSQfvt2FWZQgxZbq6LoAYxg6iQHy6wXhQxK0QpoccGcLUSys8v6uw/s1600/IMG_4600.HEIC)
 ![Primed head wall with the rest still to paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi4IV_Amw0NAFAS2Pf0gbc4VS2SVWfABMwwVVm4LKqhJ3mV5kTrEgE4WccXY8CZN6LkLnOErwxGEXTA6CC6tE2Rjm017syKTQwFiny1Y2vpR_nNXpUkfDonUPCAua0cvDQlEukeEpN3eu3Nmg-NbOpdPDSE9E-Mgevx_tzJpROAbmelzbb2xRyDZf2hA/s1600/IMG_4602.HEIC)
 
 Diary: [14 Jan 2023](https://irwin34.blogspot.com/2023/01/day-76-11423-shower-walls-patching-and.html)
 
-February: a piece of teak glued and glassed in to support the bulkhead and close the gap between the main cabin and the head. Glassing and filling in one go. Not perfect, the filler will be sanded later. From the main cabin side, just glass. Not superb, but it works.
+In February a piece of teak was glued and glassed in to support the bulkhead and close the gap between the main cabin and the head, glassing and filling in one go. Not perfect: the filler will be sanded later. From the main cabin side it's just glass. Not superb, but it works.
 
 ![Teak support added at the bulkhead, glassed in](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTxGjfYMzMEMX_OxjsuWk3SWp3yJC3CK7507pX5MOPC80cV8cAtgERB1ZyvbGvxvqfFtvNwENYCJuallR4xCUqfpfXMm67g0R3priI7-vTqOJKWd5-iwSVPdORCNKZ5WThOP0JadHbLTZ9opLxk09ZAgWOviS7IpYsrVFl1eczpxo61R5j0QzEKn93Nw/s1600/IMG_5063.HEIC)
 ![Bulkhead joint glassed, view from the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi93srfEXxUDCzpLduPrK9ukoRh6gzfv8CszHyYL6hReXX-5l_YSZCOgj3RG-NVlF-XHqxhuMddcFUDp9DyZqZbnzeRruMN5gMHgg0ft1A9unKL7LfxxcA6BcWvNLJqWxdBtUpQLYI-sMEUsDDp_v9faD5EiVzQrBgvWh4TZXAiHKN_O_7ly1jiQWQ0_w/s1600/IMG_5062.HEIC)
@@ -91,9 +90,9 @@ Diary: [5 Feb 2023](https://irwin34.blogspot.com/2023/02/day-77-24-2523-swower-b
 
 ## White walls
 
-Painting the head walls. Side by side, new and old. Prep done, ready to go. A lot of work, nothing to show.
+Then we painted the head walls. Here they are side by side, new and old. Prep done, ready to go. A lot of work, and nothing to show for it yet.
 
-It was mostly practice in roll-and-tip, and I'd give us 4 out of 5. Looking back, we needed more brushing thinner. But it's white! My wife Maria did most of the prep and painting. I only did the tipping, and all the imperfections are mine. Masking tape stayed for a couple of days to let the paint form a good film.
+It was mostly practice in roll-and-tip, and I'd give us 4 out of 5. Looking back, we needed more brushing thinner. But it's white! My wife Maria did most of the prep and painting. I only did the tipping, so all the imperfections are mine. The masking tape stayed on for a couple of days to let the paint form a good film.
 
 ![Head with new white walls next to the old ones](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjI0BOFXjhOG36PAuiyjoaOO5nZikZ8N8GM_lGJ_KAszxh6dA5ho8fkkqQPwJktZpzEnnDmzGNTKSz2A8Eylxzksh9FXsOU2DgGY1pCwm8I3LlTCgqtF13k0ovrrxMGYcNrBlL28AHjjZFwkBpGBm22DPREFdpAGISxip4Wh8EpYeqRrZlXSWyC7ghsg/s1600/IMG_5133.HEIC)
 ![Head before painting, old walls and toilet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIXyr7-mCeVWljgMOHOtBoB5Rxqk2C9yunrrx1eHW1118RzAbwbP_ZVp0DqQEwC58ULYR7y8ucbVT7mzRGnaF9y8CIqrnTjsJN3zy62kYco-bb2qYx0vM__3ipZV2e_C190AAuUMiS-NYyIYryDtsX3rotH5Rrc5_SHy7B9FBJ0Ha7GkkTJnX7SEUGrw/s1600/IMG_0325.HEIC)
@@ -104,7 +103,7 @@ It was mostly practice in roll-and-tip, and I'd give us 4 out of 5. Looking back
 
 Diary: [11 Feb 2023](https://irwin34.blogspot.com/2023/02/day-78-211-shower-walls-prep-and.html)
 
-And one more view of the boat from behind. It's hard to see how beamy she is. I like beamy girls.
+And one more view of the boat from behind. It's hard to see in photos how beamy she is. I like beamy girls.
 
 ![Viktor in a respirator after painting the head](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCzTJUshu8o9AjGdj2rcI4kNtIQh_rg1e1QRGPH25RE0jBTnzGuFL_MMHyypMwMBGtEAR3wAn0DshfFNiKVj36lGDtDPdfxCH7PFPzRXN9RQmc1eQRuBm74k-QNjUXPECfP-c24pjnnSNoL3Kud1KWHnVl53OOwck9i_ydycFVxWoGYGfZjkk4EVt0Og/s1600/IMG_5511.HEIC)
 ![Sailboats at the marina on Lake Travis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGlGciJ9yeMQtiMWcF4f67Qie7IdIWHLswuVkGiuv-RCmrqpZphlNt-npSzjAgzFF4uvUEcFTOBAo6HVmDyoh6UVqJ8O5IY9Zpjk9GxaeG7iWvV1R11oxV02keEibi8GJIpYbNlaQPN5uNM4zH51-kdgIGXMIvnjzK2nockIja7CI1vSBUU_a05mEHeg/s1600/IMG_5107.HEIC)
@@ -119,7 +118,7 @@ Then I rebuilt the head cabinet. The countertop panels stick up half an inch, so
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-In August the overhead liner and light went in, plus a channel for the mast wiring. I'll cover it with the same white PVC as the headliner, or plywood. Still thinking. And a temporary exhaust fan blowing head air out through the dorade box.
+In August the overhead liner and the light went in, plus a channel for the mast wiring. I'll cover it with the same white PVC as the headliner, or with plywood. Still thinking. And a temporary exhaust fan blows the head air out through the dorade box.
 
 ![Head with the new headliner and LED light](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2vuZqpqZwMfMyp_ORyNiAP-8nNsM5eCejVTN2VjKQKVgzygeWhDWmnJwMoWcooqAZ97eusS_iOZYaRon5LPEfYx924FMJGgS_P7dm_jCwyQwkNCK0tO7fAnNHANiZlc-qgZWP9lKnt3BtwOhPey1CeX3clIGFjyIRbQaYI1VpTP-3do-yhGn04M-_F6xL/s1600/IMG_6189.HEIC)
 ![Mast wiring channel in the head](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRA7xtxmhxpYGgXxYGuRsNDv0lzNKcszms6H_O_XbPIxUbjDb0Z-TZ5PjHQSUa9meYYsy1hZxXB18Sk1E8BZuAlR4UdJPbfT13ZAlEQJD6qWDpr8Km6dR1aXHzB-_V82wap6BwU6AzLlcZYMUpOKQB-BLPLlN7uqskDEv0HQpz-69R8uUBulpOzufy8K0X/s1600/IMG_6190.HEIC)
@@ -127,7 +126,7 @@ In August the overhead liner and light went in, plus a channel for the mast wiri
 
 Diary: [6 Aug 2023](https://irwin34.blogspot.com/2023/08/day-102-8623-interior-work-10-hours.html)
 
-October: the trim is done. Only the mast cable area on the side is left to close. What it was, and what it is now. The cables go up to a box in the ceiling corner.
+In October the trim was done. Only the mast cable area on the side was left to close. Here's what it was, and what it is now. The cables go up to a box in the corner of the ceiling.
 
 ![Head almost done, mast wiring area still open](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-U5p5dt_h7SKPphHBnIyDCYLiMLPOmjsspYB6PH6kGzAhK0Jbwp4P3sC4VBgqjghICLT5ClBjEJkod9UvMzEpmpy45UcGceFeT7BZZ7qYJAChMVDJxrO5IB7UJrkODXsWNFnGSxPxUmKoe000IXELqfAX1Y_TOMXnFSfyBS_wGUCkmDyqfTO3ZbP_SITq/s1600/IMG_6695.HEIC)
 ![Head almost done, mast wiring area still open](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-U5p5dt_h7SKPphHBnIyDCYLiMLPOmjsspYB6PH6kGzAhK0Jbwp4P3sC4VBgqjghICLT5ClBjEJkod9UvMzEpmpy45UcGceFeT7BZZ7qYJAChMVDJxrO5IB7UJrkODXsWNFnGSxPxUmKoe000IXELqfAX1Y_TOMXnFSfyBS_wGUCkmDyqfTO3ZbP_SITq/s1600/IMG_6695.HEIC)
@@ -138,13 +137,13 @@ October: the trim is done. Only the mast cable area on the side is left to close
 
 Diary: [21 Oct 2023](https://irwin34.blogspot.com/2023/10/day-110-1014-front-cabin-and-head.html)
 
-And a bonus. This photo is taken from the height where the water was in the boat when we bought her, in November 2021.
+And a bonus. This photo is taken from the height of the water that was inside the boat when we bought her, in November 2021. Think about that for a second.
 
 ![Lake Travis, low water, seen from the marina hill](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghF50OUWO0UABVwebaYMYMPEuc8XFnxHfsfLYnjQYy5GqjTJco-JeMrZaOfNjqxu432wZzrhmQigvv1Cqc2Ashria8BQ5XHEjr-Aeabg5AXf_l7VixGCDVmZD-xWaRZOyMP8eZtg4dY_iSWvG_RC3UQJ-TlT0gu1NrbI4xYNxG-Zf7SyudOCNKlTDOAA9c/s1600/IMG_6693.HEIC)
 
 Diary: [21 Oct 2023](https://irwin34.blogspot.com/2023/10/day-110-1014-front-cabin-and-head.html)
 
-When I bought the boat, the head door was gone. Time to make one. I wanted something like an airplane toilet door, folding inward into the head. I made the panels and the side posts with the hinges, put it together, dry fit it, adjusted, and it went in. Open, and closed from inside.
+When I bought the boat, the head door was gone. Time to make one. I wanted something like an airplane toilet door, folding inward into the head. I made the panels and the side posts with the hinges, put it together, dry-fit it, adjusted, and it went in. Here it is open, and closed from inside.
 
 ![Making a new head door, dry fit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiyJBtK6IoirlhBtubautiQJ6yr4qeirW8aVvCOr6BiRFR4_ct1yhZKonVNqc2k0L4OHBCInjR_FEly5_OZF8oXcVZDwLRkH3uoAXFJVTidYOcemWsn4SEKhgFqlXu5WZqCFYB-E734SG2RCOhxww7rCisQoESSoLQGPIws4Rdeee96ensgKGKoF-j9Jy7/s1600/IMG_6819.HEIC)
 ![Head door open](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirIXezosdvXPrS-Pz-4gGDs3e97RqC9I7NcHf7Vcng90dIdvQmna0JJ4mDlwb2eNllRxABMsVEXwgXR7RCrXwCirXmBbwOeyaXX2qThmgslwB7MKTPlCR8TVYVdZieZLkxEZPCQJRwg96jYmstye_n4FPHIPibqCqF4eCroqzzwpyfUzmUNGKOt-skjCOS/s1600/IMG_6821.HEIC)
@@ -158,7 +157,7 @@ In March 2024 the last piece of the headliner closed up the corner where the mas
 
 Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-painting-preparation.html)
 
-By December 2024 the head had been done for a year. No magic: all the walls are glassed to the floor to make a real shower pan. The porta-potty stays for real emergencies.
+By December 2024 the head had been finished for a year. No magic: all the walls are glassed to the floor to make a real shower pan. The porta-potty stayed, for real emergencies.
 
 ![Rebuilt head with porta-potti and roll-up cabinet door](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC)
 ![View from the front cabin back to the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5HUSnskeyYbPjOBCILDHjQxeumPFZhhoF0zkmOA4w-LXFL8qOdIc7e1Bg1SNz6wJCyUH-cvuuioK_hfNIOFZEf4hgaoExEz7juij8Z3kNW5moSWxGYIsn8_S7nDxFrK4cN3cM5raDPEE4aA376HI-dQ0NE29MAA6oUXFfib2HQRdKiOuNZqQWvg4g7tUT/s1600/IMG_9573.HEIC)
@@ -167,9 +166,9 @@ Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-
 
 ## A shower that doesn't waste water
 
-Who likes the first 5–10 seconds of cold water, while the hot water travels from the heater to the shower head? And where does that water go? Usually down the drain. On a boat every drop of fresh water counts.
+Who likes the first 5–10 seconds of cold water, while the hot water travels from the heater to the shower head? And where does that water go? Usually down the drain. On a boat, every drop of fresh water counts.
 
-So in June 2025 I made a controller that sends the cold water in the hot pipe back to the tank before you start. It sits in standby with a red light. Press the button and it runs the water from the hot pipe back to the tank until hot water reaches the shower, then shows green: ready. Then the same button opens and closes the shower. Maybe a foot switch later. If you don't use it for 5 minutes, it goes back to standby. The box isn't closed yet in the pictures. It works!
+So in June 2025 I made a controller that sends the cold water in the hot pipe back to the tank before you start. It sits in standby with a red light. Press the button, and it runs the water from the hot pipe back to the tank until hot water reaches the shower, then shows green: ready. Then the same button opens and closes the shower. Maybe a foot switch later. If you don't use it for 5 minutes, it goes back to standby. In the pictures the box isn't closed yet. But it works!
 
 ![Shower controller and valves under the sink](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9AcaizUVhUm4Nd4OLn0ZGYoxk0YUQAk31VVLu7qQZaXt9iweYqRb16EOMGoZP1GopuxGZuO04EHR0hmG0G-IOH9VnC8rIvymOWZDutKSHOKmtJq4FPVv8f_LdvbtvhjbgvOu-F9pHcEeogkQ_d9UDzIo3BBN6uIzH4XIbLmd0R0mRCrUrDxdMPnd4YuC4/s1600/IMG_0880.HEIC)
 ![Shower hose and controller at the head sink](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBigxSf6lnUPlLtIcGQdPgHJmbhLEtSTMwye4IN8wMSOx5MnUJFRHzxi8uy0oT22V9Yd9w5YUV2QDCzeYCW9LOM-FxzZtp-nw0e2_sRsWejR5xd-IAmVjlH8_y_ml6f2Eyle55xAy46RF7TWtQItvZ96zOsOAnKPkyQWio-FYqiD7ZSaMSd_3uaNmyrT9I/s1600/IMG_0886.HEIC)
@@ -177,11 +176,11 @@ So in June 2025 I made a controller that sends the cold water in the hot pipe ba
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
 
-I had an even bigger idea before that: a recycling shower. It would use the boat's pressure water and water heater, have a clean mode and a recycling mode, automatic temperature control, cost under $350, plus a hair filter, a service rinse cycle and a winterizing cycle.
+Before that I had an even bigger idea: a recycling shower. It would use the boat's pressure water and water heater, have a clean mode and a recycling mode, automatic temperature control, and cost under $350, plus a hair filter, a service rinse cycle and a winterizing cycle.
 
-The design had two pumps ($130), a small 8-liter tank so the shower runs at least 30 seconds while water recycles, with a level sensor ($15) and three zones: 3 liters at the bottom to mix and control temperature, 3 liters where the level is held while recycling, and 2 liters of safe overfill. Seven electric valves at $5 each, about $20 of pipes and fittings, a cheap IP67 windlass foot switch ($15), and my own control board (about $95 with buttons, an IP68 box and two temperature sensors). For the second revision I designed an air/water separator from a 1-foot piece of 4-inch PVC pipe, with two water sensors at 1/4 and 1/2 height.
+The design had two pumps ($130) and a small 8-liter tank, so the shower runs at least 30 seconds while the water recycles. The tank had a level sensor ($15) and three zones: 3 liters at the bottom to mix and control the temperature, 3 liters where the level is held while recycling, and 2 liters of safe overfill. Then seven electric valves at $5 each, about $20 of pipes and fittings, a cheap IP67 windlass foot switch ($15), and my own control board (about $95 with buttons, an IP68 box and two temperature sensors). For the second revision I designed an air/water separator from a 1-foot piece of 4-inch PVC pipe, with two water sensors at 1/4 and 1/2 height.
 
-I wrote down every step: prepare, clean shower, recycling shower, finish, off, hot water purge, a service wash, and even winterizing with a gallon of antifreeze (or cheap vodka). In the end I cancelled the project. The simple controller does the job.
+I wrote down every step: prepare, clean shower, recycling shower, finish, off, hot water purge, a service wash, and even winterizing with a gallon of antifreeze (or cheap vodka). In the end I cancelled the project. The simple controller does the job, and nobody on board was asking for recycled shower water anyway.
 
 ![Diagram of the shower system](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDLdEnYkNvRT7rUzY44UVKEHT4AyWiC0BkQYFfvNclFOMmN9SFABEgsOSjJpu1hOS2nJrzfiwLLlcVl6NlW2cB_mNmOXGgUGeeWKpDWYlmmU0d3QmM5aeQK0-5qsiGac8mEDs3dl69NbsbQ0E9Su3o19bJgEyg9S_PJEyOT3g8xyjLeLU2D0EcLUQ2077Z/s1600/Recycle%20Shower%20-%20Jan%2031%202025%20-%201-19%20PM.jpg)
 ![Whiteboard sketch of the shower plumbing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2R8e4f7wVL5i8LKPpnQ5vvhrutSg-Dc__eD-Xgqk8XnyhC0q995nfvEj3TaImgW6DVcEQleQDsT1YJYw4ve_p0_YM6vegeSjpbA4Oqalepjz_uCxXwmv-pi7EKo7hx3uK_h_wXnhsbdaGjHtowkFTgNdw7D66V7wl5nYA9zPExbndddh1H2JweDMHbSP/s1600/5684.png)
@@ -190,17 +189,19 @@ Story page: [Recycling shower (CANCELLED)](https://irwin34.blogspot.com/p/recycl
 
 ## A real toilet, finally
 
-I'd been thinking about a "right", wife-proof toilet for a long time. The porta-potty was fine for the occasional day sail. But once we moved to Kemah and started sleeping on the boat some weekends, there was a problem: carrying poop 200 miles in the car and dealing with it at home is not a solution. Especially when the marina has free pump-out.
+I'd been thinking about a "right", wife-proof toilet for a long time. The porta-potty was fine for the occasional day sail. But once we moved to Kemah and started sleeping on the boat some weekends, there was a problem: carrying poop 200 miles in the car and dealing with it at home is not a solution. Especially when the marina has a free pump-out.
 
-After a long time thinking, I picked the Dometic MasterFlush MF 7120, 12 V electric macerating. Comfortable, easy, reliable. The fresh water flush helps a lot with smell, and the macerator means smaller hoses and an easier install. Much closer to a home toilet.
+After a long time thinking, I picked the Dometic MasterFlush MF 7120, a 12 V electric macerating toilet. Comfortable, easy and reliable. The fresh water flush helps a lot with smell, and the macerator means smaller hoses and an easier install. Much closer to a home toilet.
 
 ![New electric toilet installed in the head](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5mUZmbyae0v64lcrU3aMCkq7Atfaqfn-MYxJfbW4uu2BybZTv4by6K2eTwzkAQEgMJEECkFUVg5-4PDzL2KSaL-csIgh1Txh00LBSaUpZp6-a5oukV5z8yQzq5kiSlCf9Q9-bpq69a2lMPa82YKojwtvBzReYiyvfmRgNmFKi5LEmWap8IrvpDh5Nm_c6/s1600/IMG_1472.HEIC)
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
 
-The install went mostly fine, but not without surprises. First test, and water on the floor. I pulled the bowl off and still couldn't see where it came from. In the end I took the whole unit out again and found it: water dripping right out of the electric motor.
+The install went mostly fine, but not without surprises. First test: water on the floor. I pulled the bowl off and still couldn't see where it came from. In the end I took the whole unit out again and found it: water was dripping right out of the electric motor.
 
-Return it, or fix it myself? I didn't want to send it back, wait two weeks, and take everything apart again. The bolts that hold the motor to the pump plate go through a wet compartment and are sealed with O-rings. The holes in the aluminum plate are big, and the motor wasn't centered, so the screws were off and one O-ring had slid sideways and wasn't sealing. I realigned everything, the leak stopped, and I finished the install. Here's the top view, to see how much space it takes.
+Return it, or fix it myself? I didn't want to send it back, wait two weeks, and take everything apart again. The bolts that hold the motor to the pump plate go through a wet compartment and are sealed with O-rings. The holes in the aluminum plate are big, and the motor wasn't centered, so the screws sat off-center, and one O-ring had slid sideways and wasn't sealing. I realigned everything, the leak stopped, and I finished the install. Here's the top view, to show how much space it takes.
+
+From pee-poo in the face on day one to a wife-proof toilet: the head has come a long way.
 
 ![Toilet macerator part close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9T-pqWxtpai7ka4pmdkaSHjGngtzmtWAJkvJoumqfWONhPHJeJ-zUNgIoGkfgVOuwjktLosIT7CMARleAyFfxE44XwsQ92we2DA-kZy23M360cpQyjj3_CAQ3Oxq59aTkErFrTCzIvxIy1lGMjuhhT_j_Y5_Nvs-4F5tOy3GBe-QAVAq_XzP-6CV0sswF/s1600/6.png)
 ![Toilet macerator and water valve taken apart](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM47upR3kBtCjc8zN-I_-Qx1yRZn2mlFwg7pTY_CPpRbZMZfsudoT5iPt9xMaYj5xqIlRYrLUPPkeuhSBoMpuDcV2M0QVt5sIuojkXQ71ZPa4V4NAhhbaZRA94fPqy0Zx8aGMugjyJGHpUWKTJajDp51z7kTiF-727ZZoe47emN-yRgHDM6npZ0SVjeTL2/s1600/IMG_1471.HEIC)
