@@ -129,7 +129,7 @@ I wanted a 300 mm wheel on the rudder stock, driven by a timing belt. The force 
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% power it'll last forever. Maybe not efficient; we'll see. 4,300 RPM, 4 lb-in, 0.45 N·m. With a 100:1 gearbox and the 8.1:1 belt, that's 0.45 x 810 = 364 N·m, and 4,300 / 810 = 5 RPM at full power: 11 seconds per turn, or 2.5 seconds lock to lock. I'll need to limit the speed. (As you'll see below, this plan later lost to a used Autohelm.)
+The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% power it'll last forever. Maybe not efficient; we'll see. 4,300 RPM, 4 lb-in, 0.45 N·m. With a 100:1 gearbox and the 8.1:1 belt, that's 0.45 x 810 = 364 N·m, and 4,300 / 810 = 5 RPM at full power: 11 seconds per turn, or 2.5 seconds lock to lock. I'll need to limit the speed. (Spoiler: this plan never got built. A year later I found a used Autohelm for a very reasonable price.)
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
