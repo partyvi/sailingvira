@@ -25,7 +25,7 @@ Since then I've rebuilt Vira almost piece by piece: the deck, the interior, the 
 
 ## Who sails with me
 
-My co-captain is my younger son Viktor, So we have Viktor and Viktor team :-). He's always happy to join me on the water. We learned to sail keelboats together, and by now we easy understand each other without words.
+My co-captain is my younger son, Viktor. Yes, we're team Viktor & Viktor :-) He's always happy to join me on the water. We learned to sail keelboats together, and by now we easily understand each other without words.
 
 My wife Maria survives my "gentle sail" forecasts. Not always happily.
 
