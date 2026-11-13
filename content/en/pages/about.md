@@ -1,11 +1,13 @@
 ---
 id: about
-title: "About me"
+title: About me
 slug: about/
 tab: about
+eyebrow: Viktor
+description: "Who is behind Vira: an engineer who can fix just about anything,
+  and a sailor who wanted the sea."
 portrait: assets/viktor.webp
-eyebrow: "Viktor"
-description: "Who is behind Vira: an engineer who can fix just about anything, and a sailor who wanted the sea."
+updated: 2026-11-13
 ---
 I'm Viktor. An engineer, a sailor, and the guy who rebuilt Vira.
 
@@ -23,7 +25,7 @@ Since then I've rebuilt Vira almost piece by piece: the deck, the interior, the 
 
 ## Who sails with me
 
-My co-captain is my younger son. He's always happy to join me on the water. We learned to sail keelboats together, and by now we understand each other without words.
+My co-captain is my younger son Viktor, So we have Viktor and Viktor team :-). He's always happy to join me on the water. We learned to sail keelboats together, and by now we easy understand each other without words.
 
 My wife Maria survives my "gentle sail" forecasts. Not always happily.
 
