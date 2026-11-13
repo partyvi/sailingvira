@@ -258,7 +258,7 @@ Vira, stay here, make friends, and wait for me a few weeks. I need two weeks to 
 
 Diary: [17 Feb 2026](https://irwin34.blogspot.com/2026/02/day-254-255-final-things-on-hard-mast.html)
 
-Those three months were probably the biggest and toughest sprint of the whole rebuild. Almost every weekend, plus a lot of Mondays and Fridays at the boatyard. Even at home I was getting parts, tools and plans ready for the next trip. The boat is now about 150 miles from home: 11 round trips between Austin and Houston, about 3,300 miles, and 24 full days on the boat. So now I'll slow down a bit. Probably every other weekend, but full weekends. Let's see how that works for me and my family.
+Those three months were probably the biggest and toughest sprint of the whole rebuild. Almost every weekend, plus a lot of Mondays and Fridays at the boatyard. Even at home I was getting parts, tools and plans ready for the next trip. The boat is now about 200 miles from home: 11 round trips between Austin and Houston, about 4,400 miles, and 24 full days on the boat. So now I'll slow down a bit. Probably every other weekend, but full weekends. Let's see how that works for me and my family.
 
 ![Calendar of work days, November 2025 to February 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSFibed9chcvjXh8me2SsqhuEtZ9mNjLWN_-HOuEYiG9x611DgYqjMViRloZ3RvsDHOaSzYzpFRmmeLomtXE6HM65xZq78movkbjFXxmnPFEpnv971Vm7z3jSNif5A1h1p4etzVlVsCa9lelz0a3UyGoVdYquJquz-ASXTrS1HNW6Q4_9HcEwbeGIyacyY/s1600/OG.png)
 
