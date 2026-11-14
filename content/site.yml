@@ -3,8 +3,8 @@ name: Sailing Vira
 base_url: https://sailingvira.com
 # Where the site is served now. The diary theme and the videos fallback link to it.
 live_url: https://sailingvira.com
-# true = hidden from search engines (until launch)
-noindex: true
+# true = hidden from search engines. Opened to search engines on 14 Nov 2026.
+noindex: false
 blog_url: https://irwin34.blogspot.com
 # Boat diary tab, footer link and home page feed (Blogger custom domain since Nov 2026)
 diary_url: https://diary.sailingvira.com

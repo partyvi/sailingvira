@@ -32,7 +32,7 @@ The site is live at **sailingvira.com** (GitHub Pages custom domain since 14 Nov
   The story format must stay easy to edit by hand.
 - **Updates:** for now Viktor asks ("update the site"); later a scheduled check. For now every update goes
   as a pull request that Viktor reviews; later Claude may publish directly.
-- **Launch:** the site stays hidden from search engines (noindex) until Phase 5.
+- **Launch:** done 14 Nov 2026: noindex off, open to search engines (Google Search Console by Viktor).
 
 ## People in the stories (Viktor, Nov 2026)
 
@@ -49,7 +49,7 @@ The site is live at **sailingvira.com** (GitHub Pages custom domain since 14 Nov
 5. Ukrainian translation of all stories (done).
 6. Pages CMS set-up (`.pages.yml`, full access for Viktor) and test.
 7. First real diary update as a PR.
-8. Go public: sailingvira.com DNS to GitHub Pages, HTTPS, Search Console, link from Blogger.
+8. Go public: sailingvira.com DNS to GitHub Pages, HTTPS, diary.sailingvira.com, noindex off (done 14 Nov 2026); Search Console, link from Blogger.
 Later: scheduled updates, auto-publish, diary moves into the site.
 
 ## How to work with Viktor
