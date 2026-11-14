@@ -272,21 +272,42 @@ def src_html(links, lang):
 
 
 def youtube_videos():
-    """Latest videos of the channel in site.yml, read from YouTube at build time. Empty when offline."""
-    import urllib.request, xml.etree.ElementTree as ET
+    """Latest videos of the channel in site.yml, read from YouTube at build time.
+    YouTube's feed sometimes answers 404 for a while, so: try the channel feed and the uploads
+    playlist feed a few times; if both fail, reuse the list from the live site (videos.json),
+    so one bad answer never empties the Videos page."""
+    import time, urllib.request, xml.etree.ElementTree as ET
     url = site.get("youtube_url", "")
     if not url:
         return []
-    try:
-        get = lambda u: urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=15).read().decode("utf-8", "replace")
-        cid = re.search(r'"(?:channelId|externalId)":"(UC[\w-]{22})"', get(url)).group(1)
-        ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
-        root = ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"))
-        return [{"id": e.find("yt:videoId", ns).text, "title": e.find("a:title", ns).text,
-                 "date": e.find("a:published", ns).text[:10]} for e in root.findall("a:entry", ns)]
-    except Exception as err:  # offline or YouTube changed: the page shows the channel link only
-        print(f"YouTube videos not loaded: {err}")
-        return []
+    get = lambda u: urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=15).read().decode("utf-8", "replace")
+    ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+    err = None
+    for attempt in range(3):
+        try:
+            cid = site.get("youtube_channel_id") or re.search(r'"(?:channelId|externalId)":"(UC[\w-]{22})"', get(url)).group(1)
+            for feed in (f"channel_id={cid}", f"playlist_id=UU{cid[2:]}"):
+                try:
+                    root = ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?{feed}"))
+                    vids = [{"id": e.find("yt:videoId", ns).text, "title": e.find("a:title", ns).text,
+                             "date": e.find("a:published", ns).text[:10]} for e in root.findall("a:entry", ns)]
+                    if vids:
+                        return vids
+                except Exception as e:
+                    err = e
+        except Exception as e:
+            err = e
+        time.sleep(3 * (attempt + 1))
+    print(f"YouTube videos not loaded: {err}")
+    live = site.get("live_url", "")
+    if live:
+        try:
+            vids = json.loads(get(live.rstrip("/") + "/videos.json"))
+            print(f"Videos: reused {len(vids)} from the live site")
+            return vids
+        except Exception as e:
+            print(f"Videos: no saved list on the live site either ({e})")
+    return []
 
 
 VIDEOS = youtube_videos()
@@ -686,6 +707,8 @@ open(f"{OUT}/sitemap.xml", "w").write(
 open(f"{OUT}/robots.txt", "w").write(
     "User-agent: *\nDisallow: /\n" if site.get("noindex") else f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
 open(f"{OUT}/.nojekyll", "w").write("")
+if VIDEOS:  # saved with the site, so a later build can reuse it when YouTube is down
+    open(f"{OUT}/videos.json", "w").write(json.dumps(VIDEOS, ensure_ascii=False))
 os.system(f'{sys.executable} "{B}/tools/blogger_theme.py" "{B}" "{OUT}/blogger-theme.xml"')
 print(f"site/: {len(order)} projects x {len(LANGS)} languages, {stats['photos']} photos, "
       f"Ukrainian translated: {sum(1 for p in order if p in P['ua'])}, noindex: {bool(site.get('noindex'))}")
