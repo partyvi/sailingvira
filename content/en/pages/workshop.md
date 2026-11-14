@@ -10,6 +10,8 @@ Everything I designed for Vira, in one place. Each card links to the story where
 
 Free for personal use, with credit to Viktor / Sailing Vira. No commercial use. License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
+**[All design files on Google Drive ↗](https://drive.google.com/drive/folders/1jtfntzq7fE0ncKjXItYoTD2zqF0s4XuP)**: one folder per design, each with a short README.
+
 ## Electronics
 
 Boards I designed for Vira. Schematics, board files and firmware.
