@@ -283,7 +283,25 @@ def youtube_videos():
     get = lambda u: urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=15).read().decode("utf-8", "replace")
     ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
     err = None
-    for attempt in range(3):
+
+    def from_page():
+        """The channel's Videos tab (ytInitialData). Dates there are relative ("3 weeks ago")."""
+        import datetime
+        page = get(url.rstrip("/") + "/videos?hl=en&gl=US")
+        today, out, seen = datetime.date.today(), [], set()
+        days = {"second": 0, "minute": 0, "hour": 0, "day": 1, "week": 7, "month": 30, "year": 365}
+        for m in re.finditer(r'"videoRenderer":\{"videoId":"([\w-]{11})"', page):
+            vid, chunk = m.group(1), page[m.end():m.end() + 6000]
+            t = re.search(r'"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"', chunk)
+            if vid in seen or not t:
+                continue
+            seen.add(vid)
+            ago = re.search(r'"publishedTimeText":\{"simpleText":"(?:Streamed )?(\d+) (second|minute|hour|day|week|month|year)', chunk)
+            d = today - datetime.timedelta(days=int(ago.group(1)) * days[ago.group(2)]) if ago else today
+            out.append({"id": vid, "title": json.loads(f'"{t.group(1)}"'), "date": d.isoformat()})
+        return out
+
+    for attempt in range(2):
         try:
             cid = site.get("youtube_channel_id") or re.search(r'"(?:channelId|externalId)":"(UC[\w-]{22})"', get(url)).group(1)
             for feed in (f"channel_id={cid}", f"playlist_id=UU{cid[2:]}"):
@@ -297,7 +315,14 @@ def youtube_videos():
                     err = e
         except Exception as e:
             err = e
-        time.sleep(3 * (attempt + 1))
+        try:
+            vids = from_page()
+            if vids:
+                print(f"Videos: {len(vids)} read from the channel page (the feed failed: {err})")
+                return vids
+        except Exception as e:
+            err = e
+        time.sleep(3)
     print(f"YouTube videos not loaded: {err}")
     live = site.get("live_url", "")
     if live:
