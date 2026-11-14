@@ -6,12 +6,11 @@ order: 2
 description: "Чотирнадцять тижнів шліфування, ґрунтування і фарбування, нові люки і вхідний люк."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludbXj5NF1-gb2goQQ-RS-YlD77BwZt07PFJWfLAWXUeIZrHwACXEqHpRpvtLoBdvknohqM7Btb1Dtg2rSWb8K032ExvL0V7H-3jX1AA2nx2D_fu1cYUjI7fqZ355t5Dyg3IUb1OgxnEtfkquWty1NXPXX0PR7FOclaQIgXpyTzthNi3NgDDc/s1600/IMG_8305.HEIC"
 ---
+Палуба мала 40-річну фарбу, «у доглянутому стані», як я писав ще до покупки. Це слівце багато на себе взяло. Навесні 2024-го я нарешті її перефарбував: 130 годин, 19 робочих днів, 14 тижнів. До цього були трап у каюту й нові люки, а після — палуба, що виглядає краще за нову.
 
-Палуба мала 40-річну фарбу, «в робочому стані», як я написав перед купівлею. Навесні 2024-го я нарешті її перефарбував: 130 годин, 19 робочих днів, 14 тижнів. А перед цим були вхідний люк і нові люки.
+## Напрямні й дошки трапа
 
-## Напрямні і дошки вхідного люка
-
-У квітні 2022-го я зробив нові напрямні для вхідного люка: примірка і тимчасовий монтаж, передні торці зрізані під правильним кутом, тикове масло ще попереду. Виглядає круто. Отвори під кріплення я свердлив зсередини і вставив у дерево різьбові втулки під болти M6, тож рейки прикручуються ЗСЕРЕДИНИ, без зайвих дірок.
+У квітні 2022-го я зробив нові напрямні люка трапа: примірка і тимчасова установка, передні краї зрізані під правильним кутом, ще лишилося тикове масло. Виглядає круто. Монтажні отвори я свердлив зсередини й вставив у дерево різьбові вставки під болти M6, тож рейки прикручуються ЗСЕРЕДИНИ, без зайвих отворів у палубі.
 
 ![Старий люк вхідного трапа і дошки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmKD1HCeAr1wOETmQbLDJAaPbKetuSmXOFqziys0XE23M_Opnm6YLf2tiOQOcjPVM2doLfOR5Yik7i5kVl_OJORZUDHDcf1Ay-Xz72NncP7g6zif0nTpc6p3KtVihzZeMiEvnxNlgpcCT2rg0230k88P--_s8R6OtUM1_IokvFgfdaTzPQvtBYZD5V8g/s1600/IMG_2555.HEIC)
 ![Старий вхідний люк із вентиляцією і засувкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4YaTeoIxZoEwv_fPZmyq6Z8yEjv2ZvIUV1B8Qkk20HMHj-IdSchrMM_1eVPc5zhy7YF2a3D8v0wPFg4KNzSmDMr7LAlMx0m6cOi3QCtkP413JRnnkZc0_YRx2KOasi_BuE12ubm_QPI3rA_zsdvBAmvZOcIJfl-LFKo-vu_WRjP4qX_ph220x9KrkIQ/s1600/IMG_2554.HEIC)
@@ -20,7 +19,7 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludb
 Diary: [23 Apr 2022](https://irwin34.blogspot.com/2022/04/day-22-23-422-42322-stanchions.html)
 Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionway-slides-deck.html)
 
-У травні нові дошки вхідного люка були готові і встановлені: верхню відремонтував, а дві нові зробив із тику з віконцями з акрилу 1/4 дюйма. А шпігати палуби, які я проклеїв епоксидкою, усе ще текли. Шліфування показало порожнини в моєму «герметику», тож я вишліфував зайву гидоту, попрацював як стоматолог, розкриваючи кожну порожнину, і заповнив їх гнучкою епоксидкою, щоб з'єднання стало суцільним.
+У травні нові вхідні дошки були зроблені й встановлені: верхню дошку відремонтовано, а дві нові зроблено з тику, з віконцями з 1/4-дюймового акрилу. А палубні шпігати, які я заливав епоксидкою, досі протікали. Шліфування показало порожнини в моєму «герметику», тож я зішліфував зайву мазню, як стоматолог, розкрив кожну порожнину й заповнив її гнучкою епоксидкою, щоб шов був одним суцільним шматком.
 
 ![Нові дошки вхідного люка з жалюзі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbi6whXQsv5hNSWE6tyGEfwd4jCWIp3kx8uUNSamyjbwZHJrZ_bGkJ5cW3E26wEoLB2AsXM0KSyNhUD01OfNfdLyDLv-1PO_VzU3Rm5xs7xkXFVNcWE2qnFgvC9w7zJ0A7m10_OzhxIyoiSVJujMvZtEo532LxaeZvD5gF9uVegDF3tYn__fLQe5ESA/s1600/IMG_2705.HEIC)
 ![Отвір шпігата в борту, лівий бік](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzqiu3QwjYCPvd7LK18YmchcMazuoERoEKrcWhtOztxDMPhGlnjlvKSYUvC7FdfT1CWTOABI9-5t6zLSrTSHaL-6G7xI2k29axNdnabhQpcQvdqVD6sGmbPEoF2I1peGCnSxgWGJkVMWnoQbs2MPgpV3rsZ5S_uwsZ1xl7bneRmD4CYL8OeVeCK-NCRw/s1600/IMG_2703.HEIC)
@@ -34,7 +33,7 @@ Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionwa
 
 Diary: [21 May 2022](https://irwin34.blogspot.com/2022/05/day-26-521-deck-water-drains-part-2.html)
 
-У червні я як слід переклеїв напрямні вхідного люка, бо стало ясно, що фарбування палуби раніше жовтня-листопада не буде.
+У червні я як слід переклав на герметик напрямні люка, бо стало ясно, що фарбування палуби не буде раніше жовтня чи листопада. (Спойлер: воно сталося через два роки.)
 
 ![Стара напрямна вхідного люка на даху каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNvIt_lbAduWLmUnpbh5Yx-DO97MVPg5qJcRhe9beJ_FLlg6226XE2Ub1S5dWTdmHHA7to_NQC4ureayTMFaguMfXC8ht6I4sEX4cip8PWBqNz_2ldt-CtMd6z1OhncBzDiV-OCOGuP-yBZOouD2YwIJUFrY5b3GywRZDtjAJLLh5zFxhhbwa27ACWIw/s1600/IMG_2907.HEIC)
 ![Напрямна знята, отвори в палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgrBVsM34GWZFlxPWXXyJCDEVSzKpXUz51OZ9hvMkscgLAyCWv-P8effpsiQ5TMI3YYvg8uns6SwGF4GWT_k6-5ScyvYSZ-NZjsQ-xhkAtU_T6GiSG5RPIo9bMDPemop-5iNE3sGDp677PRU4_7KZ_3CErBjghNg9dbHC5xx1tqc_idIuNfo_Coe7zg/s1600/IMG_2908.HEIC)
@@ -43,7 +42,7 @@ Diary: [21 May 2022](https://irwin34.blogspot.com/2022/05/day-26-521-deck-water-
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-Листопад 2022-го: одного ранку я відчув, як мені на голову капає вода. Раму люка над салоном загерметизували силіконом, і він, звісно, здався. Я зняв усі планки, почистив і обробив їх, і поставив усе назад на 3M 4000 UV. З кутами довелося повозитися. Три години, і на одну справу на потім менше.
+Листопад 2022-го: одного ранку я відчув, як мені на голову капає вода. Рамку люка головної каюти посадили на силікон, і він, звісно, здався. Я зняв усі планки, почистив і відновив їхню поверхню й посадив усе назад на 3M 4000 UV. Кути були трохи викликом. Три години — і одна справа на потім менше.
 
 ![Гнилий кут рами вхідного люка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjM_Ky1zcyfCqGYzaxH_WJwtjhdNpJpEKF22AnZmpfCrPORVUZYpmKPkSgnHCsVQb-P-rs8AAgiMx4VfepnySJYNQEL1kkF_EsprbJy4B3w95LCU7lVT_kPiZrdqhhTKAb4YiK5qNVCHtII4vrZUi7pBKpBqWfsQ2HpibIBvffZN7bg6t6VwtrB5XNzA/s1600/IMG_4101.HEIC)
 ![Стара рама люка на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEE0gsR9gy7DORYSFBOUaf_hTCkRMhhyOAk27AUEAd3byqlTN7oTvEBKpKMJN6IVWLbWB_LiJQe3FL-TJazqm8Wy7k_5Y21EcTw5B666nDC5CbqFMJPZWr6c7lFgu_DpzGYe0XYjGlCKzwY8fXI98ve7sQgl0KmQtF97WdBa3lS6gIda7YwXx8GMifA/s1600/IMG_4104.HEIC)
@@ -54,13 +53,13 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 ## Люки, що не підійшли
 
-Січень 2024-го: люки, або як маленький двогодинний проєкт швидко виростає в середній. Я вирішив замінити оригінальні люки — потворні, протікаючі, погано зроблені і такі, що чіпляють шкоти стакселя, — на низькопрофільні алюмінієві. Ось оригінальний.
+Січень 2024-го: люки, або як маленький двогодинний проєкт швидко перетворюється на середній. Я вирішив замінити оригінальні люки — потворні, протічні, погано зроблені й такі, що чіпляють шкоти стакселя, — на низькопрофільні алюмінієві. Ось оригінальний.
 
 ![Отвір люка заклеєний скотчем на даху каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji7u7u7zqwBWvJxpIXzGx5ROz85tpKy9CBeQmO6QpQCTD3iCisq-NFY6HCjsxaVvQxC8i9VHNYRfgWSidPV1_Nq05SJ3KesvbykkMKrhc1NO8bcm475SZeyb6KTXDmVXx5m9iS9fBHDNWMeZm19xkuurArIRF17zgwtxYhHA72UU_tRMJk5sQtDLwVxb5m/s1600/Untitled.png)
 
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 
-Чекати їх довелося майже три місяці: go2marine відправили один, а другий поставили в очікування. Потім я купив 4000 UV і бутил, і... виявилося, що кругле в квадратне не лізе. Отвір у палубі квадратний, а рама люка з заокругленими кутами, і рама приблизно на 8 мм менша за отвір з кожного боку. Це добре, навпаки було б гірше, але разом це означає, що в кутах утворюються дірки. Вигляд зсередини і ззовні. Тож: склопластикова рамка, латання, шліфування, фарбування і кілька днів очікування. Крок перший: зішліфувати гелькоут там, де ляже скло. Потім спланувати рамку. Залишити отвір відкритим я не міг, тож старий люк повернувся на місце, загерметизований як вийшло.
+Нові я чекав майже три місяці: go2marine відправили один, а другий поставили в очікування. Потім я купив 4000 UV і бутил і... виявив, що кругле в квадратне не влазить. Отвір у палубі квадратний, а рамка люка з заокругленими кутами, і рамка приблизно на 8 мм менша за отвір з кожного боку. Це добре (навпаки було б погано), але разом виходить, що кути перетворюються на дірки. Ось вигляд зсередини й ззовні. Отже: склопластикова рамка, латання, шліфування, фарбування і кілька днів очікування. Крок перший: зішліфувати гелькоут там, де ляже склопластик. Потім спланувати рамку. Залишити отвір відкритим я не міг, тож старий люк повернувся на місце, загерметизований як тільки міг.
 
 ![Кут старої рами і новий люк](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLpsUP6PSmWQSJ2WsHAhabV2llwGLrQ2Yvf8HmZSrwb-BaeHsyciM8rVrRDLZwlVbVxV4EZDvWHoaWY-7KwHYE9E9rZp1OOf8fdQGlpjCinerN30HEWtMcT78Y9rhoSAN-ZHZMv1uCe-Kxz9NhyphenhypheneaV_3DKUCrL__kiDhS1VbQM0WC7u13ujBg_Cq92pMS/s1600/IMG_7263.HEIC)
 ![Кришка нового люка над старим отвором](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgplznj3wdVvAgdsPbEnWu9Zz9h-x0alydeuzTNs-21-bXOPlJkhlBgo05UgtUJsYJeGz410bv1wrGjuTd1KAdYceMsFI7BRZNnvxwNKhFaQa9tlEsUz1yWkZeWhcIgUJc5PjIoDdP6l9vZpcVfnqH_a5-lONBlIVxAmQn0aH6LNczTNPyqwW0xUIjPx7UE/s1600/IMG_7266.HEIC)
@@ -72,19 +71,19 @@ Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-co
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
-Пастка була така: хлопець у групі у Facebook порадив цю модель як таку, що стає без переробок. Може, його IC34 був зібраний інакше, але я влетів. На МОЄМУ човні отвори в палубі були просто квадратними вирізами. Коли я примірив новенькі блискучі люки, їхні заокруглені кути не перекривали квадратних кутів отворів. А люк був приблизно на 3/4 дюйма меншим за отвір, тож кріпильні отвори потрапляли ТОЧНО на край палуби.
+Пастка була така: хлопець у групі у Facebook рекомендував цю модель як таку, що стає без переробок. Може, його IC34 збудували інакше, але я потрапив у пастку. На МОЄМУ човні отвори в палубі були просто квадратними вирізами. Коли я приміряв новенькі блискучі люки, їхні заокруглені кути не закривали квадратних кутів отворів. А люк був приблизно на 3/4 дюйма менший за отвір, тож кріпильні отвори потрапляли ТОЧНІСІНЬКО на край палуби.
 
 ![ЧПУ ріже деталі рамки з G10](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvZNIfeQpRY68xzet_RFBMobrMSpX3ftKpDV6MzBTdr1KCXOaa2DF6x5_xA0m18SiR5B2yhbJYMVzlpsOimx93vsBc9yGdN-q0R0RCIxqWfW6VDbuMCe35utlsvpLrAaJKzaH_sOl-tdbZc4axeN-VckEpEr6bR5Ht7jep5-jjLBhmgyHsQQuQbC2Dv0i/s1600/IMG_7266.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Отже, перехідні рамки: щоб закривали кути і давали гвинтам у що вкручуватися. Після тижня роздумів я обрав склотекстолітову плиту G10 товщиною 16 мм, із бортиком, що лягає на палубу. Зовні вона повторює старий отвір у палубі, всередині — люк.
+Тож мені потрібні були перехідні рамки, щоб закрити кути й дати гвинтам у що вкрутитися. Після тижня роздумів я вибрав склотекстолітову пластину G10 завтовшки 16 мм, з бортиком, що лягає зверху на палубу. Зовнішній контур повторює старий отвір у палубі, а внутрішній — люк.
 
-Але вирізати кожну рамку з цільного листа 16 мм коштувало б близько $300 за люк, і 80% пішло б у відходи. Це вже занадто. Натомість я купив два листи 500 x 300 x 4 мм, менше ніж за $80 разом, і склеїв кожну рамку з чотирьох шарів. $80 замість $600. Сказати легко, зробити важче.
+Але вирізати кожну рамку з одного суцільного 16-міліметрового листа коштувало б близько $300 за люк, і 80% листа пішло б на викид. Забагато. Натомість я купив два листи 500 x 300 x 4 мм, загалом менш ніж за $80, і склеїв кожну рамку з чотирьох шарів. $80 замість $600. Легко сказати, важче зробити.
 
-Перший шар на 5 мм ширший за отвір і сидить у маленькому пазу, який я вифрезерував у палубі. Другий — точно по ширині отвору і йде всередину. Третій і четвертий — просто бокові пластини, не на кутах, для міцності і щоб за потреби можна було вкрутити гвинти зсередини.
+Перший шар на 5 мм ширший за отвір і лежить у маленькому пазу, який я профрезерував на палубі. Другий точно завширшки з отвір і заходить усередину. Третій і четвертий — лише бічні пластини, не на кутах, для міцності й щоб за потреби можна було вкрутити гвинти зсередини.
 
-Кілька годин планування, проєктування і гри з ЧПУ. Щоб зекономити матеріал, верхні два шари зібрані з чотирьох деталей кожен: дві з боками і заокругленими кутами і дві просто бокові, з'єднані замками, як пазли. Ліворуч деталі рамки, праворуч обрізки. Може, з них вийдуть гарні палички для розмішування.
+Кілька годин пішло на планування, проєктування й гру з моїм ЧПК. Щоб зекономити матеріал, верхні два шари складаються з чотирьох частин кожен: дві з боками й заокругленими кутами і дві — лише боки, з'єднані кінцями-пазлами. Ліворуч — деталі рамки, праворуч — обрізки. Може, з них вийдуть гарні мішалки.
 
 ![Вирізані деталі рамки з G10](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9oDoGOan5TO3ss-Sdc6r2fjbbshu-XbjQLZOT4KIjS6pyRA-Wovm9UPi5mkJqGZYhgyCPyNDWnkC5so2aD37uyOuIZZTpmcX-yg8E5gLbcrTizEzvQhlEaeM8ChrcvxVsjLxQVPWlg2qDBn5RVcckkPKrTMCUYYTsuSmtBDQdZ42ms18U4PGG42JU0Fwb/s1600/IMG_7437.HEIC)
 ![Деталі рамки на кам'яній стільниці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4J5YhKzw6alLWA_Zxtjd_MJJuoF3Lr1PXZfNulGwQgWj5Y_IRfO9OPMwllzX4Cp1zuxT1xwwgqLCj0Oz49t2dY94sOrgYye1x-dgrjQ4VBh884VpQGsR8JbTPDnV9fu7wFsSemxZhw17ALCNJxwoQbmcrZDYpTfauj2U1Ab9RP3prtHYm1UCdKCmc9I62/s1600/IMG_1723.HEIC)
@@ -93,7 +92,7 @@ Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Другий шар лягає з поворотом на 90°, щоб стики не збігалися. Отвори 4 мм тримають шари вирівняними і утримують дрібні деталі під час обробки, а гвинти M4 стискали шари на примірці і склеюванні. Сідає точно. Потім склеєно, гайки зняті, кінці гвинтів обрізані. ПЕРЕХІДНІ РАМКИ ГОТОВІ.
+Другий шар лягає повернутим на 90°, щоб шви не збігалися. Отвори 4 мм тримають шари в одній лінії й утримують дрібні деталі під час обробки, а гвинти M4 стискали шари під час примірки й ламінування. Підходить точно. Потім рамку склеїли, гайки зняли, кінці гвинтів обрізали. ПЕРЕХІДНІ РАМКИ ГОТОВІ.
 
 ![Стик у рамці з G10](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisboJlBJnA_ThrelQlgzEaMBIrnw4NjmcXu1aDzAXH3l3FnJjnHD2O7QzI25hZ-r5JcXkeknjF3hbM43_s5r_wOWtkAgyHiaYTkldWurfFjE4vvj5ZWAM2iNVbAodPB0M1dOCoMG47JC3P67OUKawKJitdSXX7cIOy27TESMlXMLZAXbWb68kBfb2eczkZ/s1600/IMG_7424.HEIC)
 ![Кут рамки з G10 зі штифтами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXFGKMgQ9-0C1D8dayzBwYE5ocyRRgcYk69es8N4EhceFHa_uCm4NhJumjMwdhI0T-8n-yoW-JOI1_ufz6Z9YM7h_m3Ina6gNkEb2uY76XU15WgdX9_0whyphenhyphenFVC3pu5o4l8CTZtR0GAj6x1z0I-0AZIA4Q63rsfMxY0xz2Bxcvp6bATcoYmjc-klYClx8PU/s1600/IMG_7444.HEIC)
@@ -106,7 +105,7 @@ Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Потім палуба. Треба було трохи зняти з краю отвору, щоб рамка лягла врівень, і виправити нерівну поверхню: кути палуби були вищі десь на 3 мм. Я вирізав шаблон із МДФ 3/4 дюйма, на 1 мм більший за верхній шар рамки. Цілим він на мій ЧПУ не влазив, тож склеїв із двох частин. Потім ручний фрезер із копіювальною фрезою. ДУЖЕ ПИЛЬНО. Повний захисний костюм. Шаблон просто прикручений до палуби в двох кутах, щоб лежав рівно як база. Знайшов кілька порожнин в оригінальному ламінаті і заповнив загущеною епоксидкою.
+Потім палуба. Довелося трохи зняти з краю отвору, щоб перехідна рамка сіла врівень, і виправити нерівну поверхню: кути палуби були приблизно на 3 мм вищі. Я вирізав шаблон з 3/4-дюймового МДФ, на 1 мм більший за верхній шар рамки. Цілим він на мій ЧПК не влазив, тож склеєний з двох частин. Потім ручний фрезер з копіювальною фрезою. ДУЖЕ ПИЛЬНО. Повний захист тіла. Шаблон просто прикрутили до палуби у двох кутах, щоб він лежав рівно як база. Я знайшов кілька порожнин в оригінальному ламінаті й заповнив їх загущеною епоксидкою.
 
 ![Шаблон для фрезера на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYaNJF_XOzBhAl22UAVF9JY6XXFXPH4x3oJfODarh2nCDk102yZFPcoy3TgTrkbNwRqOtrQ47wuaOYdLNmYiQwhxyxM-vCcd6AnciRPARR9rT5ChsQ2ka8I4NkMHD5Ydyzu2ay-FmTH6VInTvpJpcdjpOpmpjndOyCO9f8rMHTDRwXDEbPsEreokI1luw1/s1600/IMG_7478.HEIC)
 ![Отвір люка з профрезерованим краєм](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhKy249N56FiP2n23HNB1Bo4UfBCO3EzsIxJTBNYNYdCkRvXl3U0jYPsIyWI8-pODJZWy0p4REHe9Cxhb8COjUd8BEnrd-gGNDzwHLmYgL8j_KMKkoI3Mn5GYASKdyyvxlnhCAOBATlbxu9RBnXFuS5d2xoWt9EyF-1V2dnRQkR8Dsei6ilKt_5IRfZT0p/s1600/IMG_7469.HEIC)
@@ -114,7 +113,7 @@ Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-До речі, я зняв увесь гелькоут навколо люка. Подекуди він був 3–4 мм завтовшки, і шліфування тривало вічність. Не знаю, як профі знімають гелькоут, але маленький ручний фрезер із твердосплавною фрезою 3/4 дюйма, виставленою десь на 0,5 мм, працює чудово. Набагато легше, ніж шліфувати: уся ділянка менш ніж за хвилину. Треба бути ДУЖЕ обережним і зупинитися, щойно показалося скло, а потім доробити ексцентриковою шліфмашинкою. І для деревини ця фреза після такого вже не годиться. Ще одна примірка зі справжнім люком, перш ніж усе клеїти.
+До речі, довкола люка я зняв увесь гелькоут. Подекуди він був завтовшки 3–4 мм, і шліфування тривало вічність. Не знаю, як професіонали знімають гелькоут, але маленький ручний фрезер з твердосплавною фрезою 3/4 дюйма, виставленою так, щоб виступала приблизно на 0,5 мм, працює чудово. Значно легше за шліфування: уся ділянка менш ніж за хвилину. Треба бути ДУЖЕ обережним і зупинитися, щойно побачиш склопластик, а потім доробити ексцентриковою шліфмашинкою. І для деревообробки фреза після цього вже не годиться. Потім ще одна примірка зі справжнім люком, перед тим як усе вклеювати.
 
 ![Пряма фреза](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh10SZVluh7InIVQChs6qWQZbyyeoO5XozzsUluCi4Gl0rNE8WzHkBbS762_et8NxvyMk2PSPOTVKVE09HhB3nrF9cR1G73P9PB9NLiwESHroBXHfnBOJxvHRn236Pow4v8Kh2tqf426G2wq2zeJ_zA_uFaZOklsAOWgk4dyt39IG3Q4W1qGuU3ucJL9s1v/s1600/Untitled.png)
 ![Примірка нового люка з рамкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-lsFCJaiJm-wgdmDNSm3Nd4HlbSzy35MEwyEUFIFe3_QSbks9GIdwpr9otpFXyryMsIPXhfzqA7WAmBhYyTqcPKxQjAQImmq6GXaKQxCfl9XBboylKtvcS0yv4X7MeCzx43MY0XctBmLT55GN2czjJ1hzTSo73dBK_TMopVCOvb5Zlc-SrGB7hBye7pQI/s1600/IMG_7473.HEIC)
@@ -123,62 +122,62 @@ Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024
 
 ## Одинадцять кроків до люка
 
-Крок 3: рамки на загущеній епоксидці.
+Крок 3: рамки посаджені на загущену епоксидку.
 
 ![Рамка люка на загущеній епоксидці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvjMHITHVVmlIBUjRebPduYkVzIC6ll4ghhIL23UG_qU-FyB8DwXHGRVCMP7531Pvz7MdBtH0u7KIPe1vQdolymA6V_epvJvTKhHFeyac6nV4rergzZxsr-x24R69AW5QCbJorhTyVRSRo25cKRPuGr57HT0qli0ckpHliYv4S0ZStcOFhMC32usoUErd/s1600/IMG_7477.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Крок 4: уся поверхня заклеєна шаром 1708.
+Крок 4: уся поверхня заформована шаром 1708.
 
 ![Рамка люка заклеєна склом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-s6QgAZOo6NC7Ng3E44O7W-liDXYD5yTp-__HBQh8z7w26wj03IMPajAmZ6Zo8p0fA5UkNRImIaC5sUT0skPNdDaO7k_BWUljJh5CqvTjFbzqf88b-DU35quesNwb9uWoqLM-bR-wskewRbcnhhoeRh3dppOaJvEJSkZyAhyVcYqe94zcn-ucbKvNIyEI/s1600/IMG_7476.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Крок 5: рівна основа. Я покрив поверхню епоксидкою, загущеною 410 microlight, і притиснув зверху плиту МДФ 2x2 фути, обгорнуту папером для заморожування, з мішками піску. Коли «форму» зняли, вигляд був не дуже: бульбашки повітря, зморшки від паперу. Але як рівна базова площина — чудово.
+Крок 5: рівна основа. Я покрив поверхню епоксидкою, загущеною 410 microlight, і притиснув зверху лист МДФ 2x2 фути, обгорнутий пергаментним папером для морозильника, з мішками піску. Коли «форму» зняли, краси не було: бульбашки повітря, зморшки паперу. Але це добра рівна базова площина.
 
 ![Рамка люка зашліфована](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6E_PRb5A23E0jYTUcZL5WpusKG8yMyjxfv6gWHtPMwPkjPzDmIdIPLU6Dr8tohmgKfnxppblPf6q142i80VHv50qNd8sVcngCA7ecEn06FnZYFqHZCxTg7xLmz7TpoJitWnnjokYr1JO521VVrX1aIt2W9Ie5TWZK312ZJAujZegdn0tyv8C3Cemaq8E_/s1600/IMG_7490.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Крок 6: трохи зашліфував порожнини і заповнив тією ж сумішшю. Готово до ґрунту.
+Крок 6: я трохи прошліфував порожнини й заповнив їх тією самою сумішшю. Готово до ґрунту.
 
 ![Рамка люка вирівняна шпаклівкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyGXhAKE79s8W-mgvIXGxQoWZ8KekZZId7cA1fL_CuxDcw1fEc0kCmlg1bt8XxdOD4rxG9XGTnLs0Bg2ZdyIl3zIwf37bqDOtM_BZG3AGff8JkRlzTL3KiJjaknewvK2Lz2BRlt4tP3WIUQ6zUhUJTjZef50CZP1M7HiPBUHGetKVcOndI819iJj_qEG-B/s1600/IMG_7489.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Кроки 7 і 8: два шари Interlux Pre-Kote. На першому була «апельсинова кірка», тож багато шліфування і обов'язковий другий шар.
+Кроки 7 і 8: два шари Interlux Pre-Kote. Перший ліг «апельсиновою кіркою», тож багато шліфування й обов'язковий другий шар.
 
 ![Отвір люка заґрунтований](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjJguzK_stgh-7xv3Jc9DJanhnPiu8GJSFqcE8BrXO1IvmtK3vyi5RHatdBjCtwnz-HdamwwtHBoj4Adk4THmiJxD1XJ2Ozabbt8Dv2ib4F0D9Wxl1ABsdrJIFm7qbYtNcFjxUzVrFpOcj4Ws6Y-929RHgb_acOV_d9bOHqZNZ26Ny6QHxHzQk0gl1YBb/s1600/IMG_7506.HEIC)
 ![Отвір люка заклеєний скотчем під ґрунт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqsf5radQFAnMTvGFO0uGlGSSIBHdyzQoKJ500OD-wJhrycDSh7s6f69c8vozAbebrSbPR6lybchG4H-OagDScQQslozAyBG8sKrh4U3tbXUbvC2dZENObgL8jHfB3pxHTloBSDRDiIh5KbuOdmQYQP3mKJYopKQ5Vcj4r-hMeKEBRYmTwy5ibfbBV3FSU/s1600/IMG_7519.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Кроки 9 і 10: фарба. Фото до встановлення немає, вибачте. Виглядає так само, тільки все біле.
+Кроки 9 і 10: фарба. Фото до встановлення немає, вибачте. Виглядає так само, лише все біле.
 
 ![Отвір люка з ґрунтом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZIwUhyphenhyphenWPFjaeoloPokXlY8GHJU0AuIlN7ws0rGXYsl-EndaDVPoIbsitM0P6sU_zgLX30yqrvmUet-g1PopyHdXDSWzKYXKi0PNHz0iBFpzmPXSWCEUqM57G4zF0CSmLAXDpcPT6WtLPojXT4PC6Cn4RkaQQTnOIsb_dxzZCL3Mpv_BcRJ_bCsocFNaU2/s1600/IMG_7527.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Крок 11, люки, по підкроках: примірити рамки, розмітити отвори, вийняти люк і просвердлити під різьбу 10-24, нарізати різьбу, знежирити 50% ізопропіловим спиртом, бутилова стрічка на люки, вставити і прикрутити, пропилососити пил і вийняти пробки з коричневого паперу, зняти захисну плівку.
+Крок 11, люки, по підкроках: примірити рамки, позначити отвори, вийняти люк і просвердлити під різьбу машинних гвинтів 10-24, нарізати різьбу, почистити 50% ізопропіловим спиртом, наклеїти на люки бутилову стрічку, поставити їх і прикрутити, пропилососити пил і витягти пробки з коричневого паперу, і зняти захисну плівку. Найкращий підкрок — останній.
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Після того як я послизнувся і мало не впав на сходах вхідного люка, я наклеїв на свіжооновлені сходинки протиковзкі наліпки. Так краще.
+Після того як я посковзнувся й мало не впав на сходинках трапа, я наклеїв протиковзні наліпки на щойно оновлені сходинки. Так краще.
 
 ![Сходинки вхідного трапа і навігаційна панель усередині](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh09k5_arHJJ1HDXOdBhSIRBxkEqzzmkXNbo23XxU4H5MZK5jQ2iaRtHxBoXfB41GZJ6rSQxhVi9ckcUeYtY_M-hnReYN-8tADrPUYzdxCxSXyFehswpICOQB-M3otrIjfCvPvcbuH3PvJXjwj7cvV12viCFnu8Eon0mc_zjwm42kEVWa6_YOqSmZAoXdQ/s1600/IMG_7505.HEIC)
 
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
-Через рік, у червні 2025-го, ще один компроміс. Я збирався зробити рамки-накладки, щоб закрити щілину між обшивкою стелі і люками. Забагато інших справ, і досі не зроблено. Щоб обробити як слід, потрібні нові рамки навколо шахт люків. Тож поки я просто пофарбував грубий склопластик, щоб не так муляв око. На фото один шар; другий ліг наступного дня.
+Через рік, у червні 2025-го, настав ще один компроміс. Я збирався зробити декоративні рамки, щоб закрити щілину між оздобленням стелі й люками. Завадило забагато інших справ, і вони досі не зроблені. Щоб оформити це як слід, потрібні нові рамки довкола шахт люків. Тож поки що я просто пофарбував грубий склопластик, щоб він не так муляв око. На фото один шар; другий ліг наступного дня.
 
 ![Люк зсередини з накладкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA45EQ9UAc7OXeP7qDkG_tzQ0UKrRfvmDclAhCfd98Bs7ED7P7e5p0TDGiogmLC0Fn1IoSx9oM30kaGDV-EEtpTmClaEjySBZTKg7K76YiUjn0nmXnEwy3tuTqlF6T_kRfcmW1KvuI7-ztACX0J0BxPegeA6iWg_W5D4jauN-e58ySYq3SmZ0HJlAMnJ_8/s1600/IMG_0892.HEIC)
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
 
-## Знову свербить
+## Руки засвербіли
 
-Лютий 2024-го: у мене знову засвербіло, і я почав перший крок перефарбування палуби: зішліфувати всю фарбу, що лущиться, порожнини і пошкоджений гелькоут. Дві кришки рундуків кокпіту біля петель були так пошкоджені, що ці місця треба переробляти. Усі сірі цятки — порожнини в гелькоуті, якісь латати, якісь заклеювати склом. І два місця з дрібними пошкодженнями набору. Одне виглядає так, ніби хтось рубонув палубу сокирою. Просвердлений і замазаний герметиком отвір у куті зовнішньої сходинки вхідного люка. Навіщо — мабуть, ніколи не дізнаюся, та сама загадка, що й дірка в баку для води. Два «удари сокирою», великий і малий, розшліфовані. А в кормовому куті лівої стінки кокпіту якесь розшарування, або просто дуже «пориста» викладка. Покопаю глибше, перш ніж перебудовувати.
+У лютому 2024-го руки знову засвербіли, і я почав перший етап перефарбування палуби: зішліфувати всю фарбу, що лущиться, порожнини в гелькоуті й пошкоджений гелькоут. Дві кришки шафок кокпіту були так пошкоджені довкола петель, що ці місця треба переробляти. Усі сірі цятки — порожнини в гелькоуті: одні латати, інші заново формувати. І були два місця з невеликими пошкодженнями конструкції. Одне виглядає так, наче хтось рубонув палубу сокирою. Ще в куті зовнішньої сходинки трапа знайшовся просвердлений отвір, заповнений герметиком. Навіщо він там, я, мабуть, ніколи не дізнаюся: та сама загадка, що й дірка у водяному баку. Ось два «удари сокирою», великий і малий, вишліфувані. А в кормовому куті лівої стінки кокпіту було трохи розшарування, а може, просто дуже «порожниста» формовка. Перед відновленням копну глибше.
 
 ![Кокпіт біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggikZgYidQ4IJeeKniKf4OT1BqhqZq54S7VLBdVjaPfSm5LYa-7-2bCDSfiqds3Ydb-s4PsObk-LASBkYUPi_0bL_mhEBdaa4Q_DohNzNEPUpPxbP9i7P-ngGOfKdTUN5hkTFWe5Wn-IDJoHmnXLI_XaEEF18BsalBj9FIGNhF7zvVVdxmOzHspKy__9fz/s1600/IMG_7624.HEIC)
 ![Лави кокпіту і тумба](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTWV7YY4B_9ikKsfxt99EsGGGRaJhUOoVGFuUC7ChI_9kTuoVn3vwovSLbWUtE2uqidBp3sQXZKeSCcRbyG8iNQEVHIUtELI88QaiPGHejMFl94haVM8Mz4G_7WlOS0bTqYZCfSb2z3SPdN9UQIV50HWlRGaGR_mMpMV7UK1JFnHajcfhr86_VBDmj02ii/s1600/IMG_7625.HEIC)
@@ -190,22 +189,22 @@ Diary: [25 Feb 2024](https://irwin34.blogspot.com/2024/02/day-132-225-getting-it
 
 ## План на 20 кроків
 
-Березень 2024-го. Підготовка під фарбування звучить просто. А обсяг роботи величезний. Мій план для кожної частини палуби, всього 20 дрібних кроків на кожен квадратний дюйм:
+Березень 2024-го. Підготовка до фарбування звучить просто. Обсяг роботи величезний. Мій план для кожної частини палуби, всього 20 маленьких кроків на кожен квадратний дюйм:
 
-- Пройтися по кожному квадратному дюйму даху рубки, палуби і люків і позначити кожну тріщину, порожнину в гелькоуті, зірвану різьбу і просвердлений отвір, заліплений герметиком (знайшов кілька).
-- Розшліфувати кожне погане місце до живого скла: порожнини, відколи, тріщини від напруги, розшарування навколо тріщин, скоси навколо непотрібних і зірваних отворів, і шпаклівку над гвинтами стику палуби з корпусом на транці, де гелькоут тріскається над «пробками».
-- Заклеїти склом кожну порожнину глибше 3 мм (1708, мій улюблений), заклеїти гвинти на транці, щоб більше не тріскалося, заповнити зірвані отвори менше 5 мм епоксидкою з 404, усе більше — заклеїти склом, і наростити ламінат над тріщинами.
-- Зішліфувати стирчачі волокна і зайвий ламінат.
-- Чорнове латання TotalBoat TotalFair. Зашліфувати, знайти, що потребує ще шпаклівки, шпаклювати знову. Повторювати до задоволення.
-- Зашліфувати все, щоб нова фарба трималася, знежирити, заклеїти все, що не фарбується.
-- Ґрунт, шліфування, другий ґрунт, шліфування і чистка до повної відсутності пилу.
-- Два шари на глянцеві ділянки.
-- Зашліфувати і заклеїти протиковзкі ділянки, перший шар із протиковзкою крихтою, другий шар.
+- Пройти кожен квадратний дюйм даху рубки, палуби й люків і позначити кожну тріщину, порожнину в гелькоуті, зірваний гвинтовий отвір і просвердлений отвір, заповнений герметиком (я знайшов кілька).
+- Вишліфувати кожну погану ділянку до живого склопластику: порожнини, відколи, тріщини від напруги, розшарування довкола тріщин, скоси довкола непотрібних і зірваних отворів, і шпаклівку над гвинтами корпус–палуба на транці, де гелькоут тріскається над «пробками».
+- Заформувати кожну порожнину глибше 3 мм (1708, мій улюблений), заформувати гвинти на транці, щоб знову не тріскалися, заповнити зірвані отвори до 5 мм епоксидкою з 404, усе більше заформувати, і наростити ламінат над тріщинами.
+- Зішліфувати волокна, що стирчать, і зайвий ламінат.
+- Чорнове шпаклювання TotalBoat TotalFair. Шліфувати до гладкості, знайти, що треба ще вирівняти, вирівняти знову. Повторювати, поки не буду задоволений.
+- Прошліфувати все, щоб нова фарба трималася, знежирити, заклеїти все, що не фарбується.
+- Ґрунт, шліфування, другий ґрунт, шліфування й чистка, поки не зникне пил.
+- Два шари на глянцевих ділянках.
+- Прошліфувати й заклеїти протиковзні ділянки, перший шар з протиковзною крихтою, другий шар.
 - Покликати друзів і пити пиво на свіжій палубі.
 
 Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-painting-preparation.html)
 
-Я поділив роботу на зони і почав із кокпіту. Спочатку думав: 5–10 дрібних місць. У підсумку тільки в кокпіті: близько 20 дрібних місць, 10–15 глибоких ділянок по 3–10 мм, 3 місця, де через глибокі тріщини треба відновлювати ламінат, і близько 10 дірок, які попередній власник просвердлив у верхньому склі і ніколи не заклеїв. Ось вони після першого склеювання, по три шари 1708.
+Я поділив роботу на ділянки й почав з кокпіту. Спершу думав, що буде 5–10 маленьких плям. Зрештою лише в кокпіті: близько 20 маленьких плям, 10–15 глибоких ділянок завглибшки 3–10 мм, 3 місця, де через глибокі тріщини треба відновлювати ламінат, і близько 10 отворів, які попередній власник просвердлив у верхньому склопластику й так і не заформував. Ось вони після першої формовки, по три шари 1708 кожен.
 
 ![Місце удару сокирою біля планки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWLbfubK_i5O1Ig7yks5r28KV-IN4h5c3nUWL5ppoqk0U64fhn4adTbGTr3AlEiZhkaWlHKJuyVxUOrtQRWN1DZMjJ1LQ5g6F1Kus34zLulDaxPbFyY4N9o7xELaL77cXO3265VpeF8K_6QigHVrqjR1Dg_qv6rRX71tw7hSpWg-vtkAOvebmhRGZ6g28x/s1600/IMG_7654.HEIC)
 ![Латки на боковій палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9FSy8N9AG0pXJv3KDyeQL5tKQ6raN9o2N8igLgwRnMnriDpmKZltoChwrNcrU43F9pBaptqClum-EYHprSEeFGOQQvN5mWck1tQxtjnHBpvzyxpmgJx2gOPTCWD6wNGbPUtsB3jSBab48-2E5e7ESN9iHYj0z0rzHBZRYgiPYgxziZzI3E6524xHl9mZV/s1600/IMG_7655.HEIC)
@@ -214,7 +213,7 @@ Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-pain
 
 Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-painting-preparation.html)
 
-Потім зішліфувати волокна і перше чорнове шпаклювання TotalFair. Шліфування до гладкості: сині позначки показують, де треба ще. І знову шпаклівка.
+Потім я зішліфував волокна й зробив перше чорнове шпаклювання TotalFair. Шліфування до гладкості: сині позначки показують, де треба ще. І знову шпаклювання.
 
 ![Кокпіт із латками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikiECVhk_D5DB3IOxJTnP2-vXYy_L3y9tppiPUYmAVm7sQvXdZMWokphgL5FbZ8jZY9fclD0jA_3uetdisyAgRSY5tx9T_CRT6Bl17CBvD2OBfs-_KN9F24GlLuSS3k_N5ur50jsMx5MhJjqXIkrKeb9NCYQfEt674xFUl0tEqBD7SK0V7W0AdyduAYBlm/s1600/IMG_7658.HEIC)
 ![Кокпіт із зеленими латками і вхідним люком](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilk08pkWPzpcwBTN_9dbeDfXPWraMKlcOeK4ffpM-a8Nev3Y7VHTgv2d5LhNfCsrFgKVvINdc9BWyRRmNucC0p94a3lNWoJwrQ5zqF6U9UdJcbnR5ArFryvZKKuFnMolR5fED3XbCrfdcRn6xBXvZO80tIQ4g_2AoL7Vk8z5IaiaPrQk1gPO3cSDV3PnLy/s1600/IMG_7659.HEIC)
@@ -234,7 +233,7 @@ Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-pain
 
 ## Кожна дрібна порожнина
 
-Кокпіт отримав фінальне шліфування. Ще кілька місць, але на 90% готово. Далі основна палуба, окрім носа навколо ланцюгового ящика.
+Кокпіт отримав фінальне шліфування. Кілька плям ще лишилося, але на 90% було готово. Далі — основна палуба, крім носа довкола ланцюгового ящика.
 
 ![Зона вхідного люка з латками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB7nY28bUb_Z91ZBSJ7sjID1lKQxHTu_t3FelGsLXamxRzwbiDFfxJvzr_SAkTjOlK5d73wUF320SfnY3peYrWGAmYVr0wEJn3adUyiBbHp79LY8ezIttfDwb-A3CiYC-RjHAK6BRlj1xCyrUMMcKezLxM4rYB-59LJ3MTuMch6XlyPaJLbhuBJC25BtXI/s1600/IMG_7726.HEIC)
 ![Вхідний люк і борт кокпіту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5QRoGVuu3tFVlIqc9hMA6k0PjhzqTV7PJVe2Xem-UGyNQVQf8UoILp-6pjakSWcRpcR6jxdm3QGR6oGWz7f0OGpHM2L3TwIYYW70zDg1C2x2MopWLzic8DfJEeYm4LLJmW9QTC83F7okz8b-a1D7xFyFmMmvJKHqmN2UsjGUdZNR8wIGbfSvocj11LUIY/s1600/IMG_7727.HEIC)
@@ -242,16 +241,16 @@ Diary: [2 Mar 2024](https://irwin34.blogspot.com/2024/03/day-133-31-32-deck-pain
 
 Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-painting-preparation.html)
 
-На лівому боці деякі місця колись давно зашліфували і заклеїли дуже агресивною стрічкою. Відчистити той клей і залишки пластику було дуже важко.
+З лівого боку деякі плями колись давно зашліфували й заклеїли дуже агресивною стрічкою. Зняти той клей і залишки пластику було справді важко.
 
-Кришку вхідного люка зняли. Майже всі отвори під гвинти були з зірваною різьбою. Я зробив навколо них скоси, залив West System з 404 і залатав. Потім просвердлю нові пілотні отвори і поверну гвинти. Купа дрібних порожнин у гелькоуті.
+Кришку люка трапа зняли. Майже всі її гвинтові отвори були зірвані. Я зробив довкола них скоси, залив West System з 404 і залатав. Згодом просвердлю нові напрямні отвори й поверну гвинти. У гелькоуті було безліч дрібних порожнин.
 
 ![Смуга бокової палуби зі старим герметиком](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6yHHSxM-f0ovEH4oImfcEJyyPzdag3TL2IMJJvkLB_AtJP61rQMGNOkjOU4tfCjIBq8hXHk_m6DUpXpWa4sp1gHlZ78CbyQTiWz8_rINweD8sYGfba8YB1c8MW_SWTcFQ2tdUvfTMMrg3JTehAT18Nh-KZnbAT_ZhPZBml_Fy0i1qxRPFh_x3linwHcTY/s1600/IMG_7738.HEIC)
 ![Носовий люк і латки на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2pAIisdHf18G0iYVKiwuR22Njn2u2cGg3h4oeNAlUxf14XsqzRbSC1kgdbrHsELIA2bL5MhVlU2peWTW6Tm4R4N8g6ehsaERr91lU5WRVvdBgpVzdNiOPcZbfaP8Xo9qEQGFdrUyCEVDG_QLQ4338HFuUcBqLWt0JcEjt0gODCQd2eacXiOm85gX2hOnF/s1600/IMG_7740.HEIC)
 
 Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-painting-preparation.html)
 
-З правого боку, на куті короба вхідного люка, тріщина від напруги: розшліфована до живого скла і відновлена трьома шарами 1708, від меншого до більшого. Навколо п'ятки щогли — розкрита тріщина від напруги. Мабуть, повна перебудова там буде, коли човен поїде на узбережжя, а поки я розкрив тріщину в гелькоуті і зробив галтель навколо пластини. Дрібні порожнини всюди.
+З правого боку, в куті короба люка трапа, була тріщина від напруги: вишліфувана до живого склопластику й відновлена трьома шарами 1708, від малого до великого. Довкола основи щогли розкрилася ще одна тріщина від напруги. Там, мабуть, буде повне відновлення, коли човен поїде на узбережжя, а поки що я розкрив тріщину в гелькоуті й зробив галтель довкола пластини. Дрібні порожнини скрізь.
 
 ![Кут люка вхідного трапа з порожниною](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijD2cXVFI_prZCdI-z0s2e_NrG2sFzqOM6Yj2fYhdWCgpBTDER8dqEzW25WGWoUqur9FxPCdYIXU-8vhZyUxvZi3eQY5WBL3uUmNGU5VhbGf6r1Sc5H96EGOSxUHYH-SldiQhGKjnogi1qQv4fAvefXfyrVjGnbLVPJz6VAnBKktOKEB-J887uu6CKjI-m/s1600/IMG_7719.HEIC)
 ![Кут вхідного люка заклеєний під латку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ36PXeUA7butegRSYddZ2vvcEtnhb_CIzGlCvan-b8qvi47S3ntM9TV0ZgkoWh1VWtorr0BioKSamP6ZblwPvMZT_150aPD7svQq9BIYbnb4F_Y8cRZlje4aLH-C0sinydWZgpqb7zppMM_tSD4iWpxZx0TER9dAfa3sKVHtJJR3KDiEOLF35zNahHSoV/s1600/IMG_7736.HEIC)
@@ -260,7 +259,7 @@ Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-paintin
 
 Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-painting-preparation.html)
 
-Два місця на планширі з просвердленими дірками, просто заліпленими герметиком, — зашліфовані і заклеєні склом. Цікаво, що там люди кріпили. Ще одне місце з дірками на правому боці даху рубки. Кілька глибоких порожнин переклеєні 1708. І ще багато місць, що потребують уваги, але без скла.
+У двох місцях на фальшборті були просвердлені отвори, просто заповнені герметиком; їх зішліфували й заново заформували. Цікаво, що люди там кріпили. Ще одне місце з просвердленими отворами було на правому боці даху рубки. Кілька глибоких порожнин заново заформовані 1708. І ще багато місць потребували уваги, але без склотканини.
 
 ![Планшир із залатаними отворами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfrpLQ8pwEa1_Ry_em7mLPs_zjLIKSKe9SKUpXnsfjm7BPlPT9blzIoHhECxW4pPXu1WJpSxi0wsYK86E__jli9yNvAe7OgN7ndympYrEIIfMMmI_VZ_GwC5TgHaMfe3qiGSXDandtA9MX_7xB5Ybk2qA1rLigGhPUpFDBxv27hLXQ0WEyjo7J7XP2ejz/s1600/IMG_7734.HEIC)
 ![Планшир із просвердленими отворами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-aTFUx7nN2_udXi-7LsBJSFKoT5oIu8Nc9f9QFKNqY6bLXKTuLRJ2DYq4krXvqyEVrI0dfsBen_6V7RtCqJk22Ypj7S24F3R9J0bGig5DPhpS8Fpc1uYy6X7LlloMFWsOHnwakrs18SfS68lU8QQjRDkOn77zBQ1Gzg_EcAKLiDLJkT2_cZ3eRf8Juza/s1600/IMG_7733.HEIC)
@@ -281,7 +280,7 @@ Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-paintin
 
 Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-painting-preparation.html)
 
-Потім я зашліфував палубу після латок і поклав епоксидну шпаклівку на кожну нерівність — усі зелені цятки. Ще відчистив трохи гелькоуту над старим ремонтом заповнювача палуби, який так і не затвердів до кінця.
+Потім я прошліфував палубу після латок і наклав епоксидну шпаклівку на кожну ваду: усі зелені цятки. Ще я зчистив трохи гелькоуту над старим ремонтом заповнювача палуби, який так і не затвердів до кінця.
 
 ![Палуба з зеленими латками, вигляд із носа](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-C0IAn_LyzrICkaU85DH5XtrRA94MsX3zWNGchy6Q3hVYxrH77TyUWz6qI_74WYqgSlo52ln0bRjEtECm_pRYW-8x-n6U_fHGDygMhVCWjJ9w_2wM8hAFFlezPh5cD-TgFImevz95PKn38-XPCldSklEHFm7-Ca5VWgTTyh64BW6KwAkPsgykNoqgSlU/s1600/IMG_7755.HEIC)
 ![Бокова палуба з латками, правий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmupbHX9l55BYaisVyFLwkK0eX9Ak1yzoKJz7pa7BlqKq1G_16Dbd1ubabu8m-2wb6KVDvmb6ufW9WVCGFLRagtLsqrSHvPWAlxZYIXsqtPJvCbKHxvyut8G_7MeaHu6s4q_SrHqfFWco7tUzwjVUz2zmmTekBN8dlOI2r5TthNYEhOiNYHp-AqnlClGP/s1600/IMG_7756.HEIC)
@@ -292,9 +291,9 @@ Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-paintin
 
 Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
 
-## Нова кришка вхідного люка
+## Нова кришка люка трапа
 
-Оригінальна кришка вхідного люка була сильно побита ультрафіолетом: 27 на 29 дюймів акрилу 1/2 дюйма. Знайти когось, хто виріже такий розмір і візьме гроші лише за те, що ти отримуєш, було проблемою. 99,9% постачальників продають лише 48x96, 48x48, 48x24 або 24x24, а мій люк трохи більший за 24x24 в обидва боки, тож тебе штовхають купити 48x48 і переплатити майже вчетверо: $450 замість $150, які я заплатив. TAP Plastics вирізали рівно те, що треба. Акрил Chemcast бронзовий, 47%. Примірка, і моє креслення ручки, щоб відтворити оригінальну.
+Оригінальна кришка люка трапа була сильно пошкоджена ультрафіолетом: 27 x 29 дюймів акрилу завтовшки 1/2 дюйма. Знайти когось, хто виріже такий розмір і візьме гроші лише за те, що ти отримуєш, було проблемою. 99,9% постачальників продають лише 48x96, 48x48, 48x24 або 24x24, а мій люк трохи більший за 24x24 в обидва боки, тож тебе підштовхують купити 48x48 і заплатити майже вчетверо більше: $450 замість $150, які заплатив я. TAP Plastics вирізали саме те, що мені було треба: бронзовий акрил Chemcast, 47%. Ось примірка і моє креслення ручки, щоб відтворити оригінальну.
 
 ![Вхідний люк закритий картоном](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNhsZd9pTvWAv11pq17liOjInwzsc0DoczjIBu0s00Iqso5YGfxyiNTqkkJD-2wGroe8GpNMBBGF6K5hBmDed9OEUP6GMHEVUqExMkt04UHJK7G5P7lk7CnrZPFF2NNZ4PXs4J5O5II0VzLXMMWgj9-Im9mctdrlK7CRldUJ3CIe7MwXpISNIQKbsZgph/s1600/IMG_7784.HEIC)
 ![Картонна кришка люка зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWODNKEjaoxto5IU792SwDjVxCairSqLDBgmbtj4s6eyg1zv-qfomwm2-UQK3gYX0Jh-6ZDtc9vOfhkUzhbDLzptk1atTgrGeQBgM3rRkCq140OTNVInvz7bUOmecC3h0r6LKTaLcA_g1JXPpDZVaVDmov1zAFLWeS1CUHa52o1_CH9fnbytmKXoARjLnC/s1600/IMG_7783.HEIC)
@@ -302,9 +301,9 @@ Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-p
 
 Diary: [24 Mar 2024](https://irwin34.blogspot.com/2024/03/day-136-324-325-new-companionway-hatch.html)
 
-Того дня дружина приїхала допомагати: вона шліфувала шпаклівку ексцентриковою машинкою, я шліфував руками в тісних місцях, а потім деякі місця залатав удруге. Наступного дня — ще дві години шліфування.
+Того дня прийшла допомогти дружина: вона шліфувала шпаклівку ексцентриковою шліфмашинкою, я вручну шліфував тісні місця, а потім деякі місця залатав удруге. Наступного дня — ще дві години шліфування.
 
-З лівого боку на палубі є маленька сходинка, і відновлювати її було майже скульптурою. Не знаю, навіщо вона там, але для склопластикової бригади Irwin зробити її без порожнин було великим викликом, і вони його з тріском провалили. Більшість порожнин отримали West System з 404, потім шпаклівку, потім шліфування, поки форма не стала прийнятною для моїх очей. Після другого кола лише три місця потребували третьої латки.
+З лівого боку на палубі є маленька сходинка, і її відновлення було майже скульптурою. Не знаю, навіщо вона там, але для формувальників Irwin зробити її без порожнин було великим викликом, і вони з тріском провалилися. Більшість порожнин отримали West System з 404, потім шпаклівку, потім шліфування, поки форма не стала прийнятною для мого ока. Після другого кола лише три місця потребували третьої латки.
 
 ![Марія шліфує біля вхідного люка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5FplEDaC-MJQNpFXtXmzWX4qjmYn1-pr9tsR6c_zfKHyolNNQ404_mP1AJ9S4rrAWrnnALRhIFfphjKy6RMZPn7J0m8Ysjgm83AkeKlil3rQEKt20Egu1RKWyZsey2z5dMbQfKmB2fR_u9D7VAZq99MW_BODS6WvgIGfpmCPDz1-PPXPWcVlB5OFHCov3/s1600/IMG_7782.HEIC)
 ![Бокова палуба із зашліфованими латками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWbTJQQQvLL3avDVYEisGQzV_4_0xAagJHbi-omCbh2MyNmypUh87C2ytT3gFPhDciIGXG7PiveaA_yN3pwauKGh7DFZJD3Qvly0wFGR565jsIOxDSpjQWRK-w36hgOVumbCAEuBECXyl71MZC5qUokbePZ-mziJrWwVmAYtL11ymKu21srLgKWv3PgRg/s1600/IMG_7780.HEIC)
@@ -315,7 +314,7 @@ Diary: [24 Mar 2024](https://irwin34.blogspot.com/2024/03/day-136-324-325-new-co
 
 Diary: [24 Mar 2024](https://irwin34.blogspot.com/2024/03/day-136-324-325-new-companionway-hatch.html)
 
-Фінальне шліфування: шість годин трьома різними шліфмашинками і руками в тісних місцях. Скажу так: фарбувати палубу нелегко, купа хитрих поверхонь. Я планував заґрунтувати наприкінці дня, але о 5 вечора був повністю вичавлений, зібрався і поїхав додому. Напрямних на вхідному люку немає, тож кришку тримає мішок із піском.
+Потім фінальне шліфування: шість годин трьома різними шліфмашинками і вручну в тісних місцях. Скажу так: пофарбувати палубу нелегко, там купа хитрих поверхонь. Я планував заґрунтувати наприкінці дня, але о 5-й вечора був геть виснажений, тож зібрався й поїхав додому. Кришка люка трапа була без напрямних, тож її тримав мішок піску.
 
 ![Носова палуба і дах каюти зашліфовані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx-H0Ov413Oq6Fpa9bVD1BQh1BO4yDfCRWtII7kIo_k-efEJQzOruQxbAyfGwt7ASzcwlxdSDAHqaeDfe8LwMa-zocNpQyftU7C0AA767BkR-k9JIUGFpEP1MVxCMPW87GHPwHD-f2xbUxoVjMZBfoHGB5KvgqOWMmEvy-wfdBmyPHHxsB6sUK1kVDmvFO/s1600/IMG_7820.HEIC)
 ![Бокова палуба з латками шпаклівки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNa1o_mbhKcZpemhHE5FNeoB_3SAp5yZiepS3x9CqDob1nKYqD5CBHn8HP7q3AHDllhLzzRMPOB7wiWO41VOx-xvupudCw__pNhf7ZLiF9jmfoVjbL8TdIx3YZ7Gl1UsaS6uk2wsgq6iIOKtymKtUDWhpk32_xa0Vby03T9NfomOde71bsy_qJO3HEzaec/s1600/IMG_7819.HEIC)
@@ -329,9 +328,9 @@ Diary: [6 Apr 2024](https://irwin34.blogspot.com/2024/04/day-137-330-46-deck-pai
 
 ## Проблеми з ґрунтом
 
-Квітень: день протирання всього начисто, потім знежирювач, потім розчинник, потім ґрунт. Лише близько 400 квадратних футів, але протирання і дах рубки я робив в один день, а кокпіт і зону біля планширя — в інший. Ґрунт лише на глянцеві ділянки; протиковзкі потім просто миються з миючим засобом.
+У квітні я цілий день усе витирав: спершу знежирювач, потім розчинник, потім ґрунт. Це лише близько 400 квадратних футів, але витирання й дах рубки я зробив одного дня, а кокпіт і ділянку біля фальшбортів — наступного. Ґрунт іде лише на глянцеві ділянки; протиковзні треба просто помити миючим засобом, згодом.
 
-Дві проблеми. «Валик плюс пензель» лишав сліди пензля навіть із 25% розчинника. І один шар Pre-Kote погано криє, тож потрібен другий. Ще галон ґрунту, ще день шліфування, ще день ґрунтування.
+Проблем було дві. Валик із розгладжуванням пензлем лишав сліди пензля навіть з 25% розчинника. А один шар Pre-Kote погано вкриває, тож знадобився другий. Ще один галон ґрунту, ще один день шліфування, ще один день ґрунтування.
 
 ![Кокпіт із корми](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2m1irk71NolPgeQYA531kVsbfsnuG0_kakKKP5cbFGBFoa6yGEBpZrm0mep-ltj9VOPZwhrRth9FSd6fG0y5Jbjcum263smGR7ZTWc9UsEoF93SDLShffJDaze8hvJY-mfaJbaObN2C30-y0w33JH6jU0APd7ylyEHKnzZAR_h6Lm53mtOPDQnB5sHAko/s1600/IMG_7826.HEIC)
 ![«Віра» біля причалу, палуба зашліфована](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9uS0w0iKiMsQ3AMWf3RHIVr6sOZtgmW8sCzz4DuHl_RJXXqJWJAjwxlPRkW4XyeN4_TT2QYZmXKEoNpnqLnxJzbjmrDcyGyIKrPjzCpzgc7f2um17uepuXBAsoJtzdReuW5qM2L4Hf6xniaci1yJW23qm4tf51Ot2Ii_vxFKEeEA5lbsQ08LTw3g9ZKag/s1600/IMG_7828.HEIC)
@@ -344,7 +343,7 @@ Diary: [6 Apr 2024](https://irwin34.blogspot.com/2024/04/day-137-330-46-deck-pai
 
 Diary: [6 Apr 2024](https://irwin34.blogspot.com/2024/04/day-138-46-deck-priming-2-days-8-hours.html)
 
-Через два тижні — шліфування між шарами, цього разу мокре. Не знаю, що пішло не так, але Pre-Kote не розтікся, тож усюди глибокі сліди пензля і купа шліфування. Друга помилка: чекав два тижні, і він став дуже твердим. Кілька місць, де я забув пройтися пензлем і лишив тільки валик, шліфувалися набагато легше, тож, мабуть, пензлем по ґрунту більше не проходитиму. Після 10 годин шліфування я був майже готовий. Змивши пил, знайшов близько 10 місць під дрібну підшпаклівку — після роботи чи в обідню перерву протягом тижня.
+Через два тижні настало шліфування між шарами, цього разу мокре. Не знаю, що пішло не так, але Pre-Kote не розтікся рівно, тож скрізь лишилися глибокі сліди пензля, і шліфувати було багато. Друга помилка: я чекав два тижні, і ґрунт став дуже твердим. Кілька місць, де я забув розгладити пензлем і лише прокатав валиком, шліфувалися значно легше, тож, мабуть, більше ніякого пензля по ґрунту. Після 10 годин шліфування я був майже готовий. Змивши пил, знайшов близько 10 місць для дрібних підправлянь шпаклівкою, які зробив протягом тижня після роботи або в обід.
 
 ![«Віра» біля причалу із заґрунтованою палубою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb7ifkfST0Yxh_ra8UfweV-2CNe5_9tS7fqw-lALwid4eMXpPqZBNd6KUtHuYJmYMKNLJDuwEAOMJL6NvMWfWBvE4kxuT66mIbStD0fWayX7WFyfUnsTsVSV8lwIoMlipcBN6BmI5aKT5GFBDgKNqH4EMiDmF_ce5oeQxYf7xqVRsgnhsjNwqURGe8iu3r/s1600/IMG_8080.HEIC)
 ![Бокова палуба і поручень, заґрунтовані, на заході сонця](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyeukva2Mhwn1T47BM7n-BYnUDKLjCigpw7iGKEtRlgO2L8H6Tf5bp02fRKK2pQE2ff9eU5rbtXEA6vcaQOa_zr_ZDxmZDug-Uhr1rUdH_6Oltlv6uJCcJ54wzozPowzCqJZLq9h2NLtbwmBGcxxE61pxrXfG7Ol44c5BEYso9SpcjDJ5DddU-xrF6HGoQ/s1600/IMG_8086.HEIC)
@@ -356,21 +355,21 @@ Diary: [6 Apr 2024](https://irwin34.blogspot.com/2024/04/day-138-46-deck-priming
 
 Diary: [21 Apr 2024](https://irwin34.blogspot.com/2024/04/day-139-421-autopilot-drive-connection.html)
 
-Потім шліфування другого шару ґрунту. Виглядає все краще і краще, але фотографувати нічого. Ще пів дня мокрого шліфування.
+Потім я прошліфував другий шар ґрунту. Виглядає дедалі краще, але фотографувати нічого. Ще пів дня мокрого шліфування.
 
 ![Шліфувальні листи 3M, зерно 220](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdeVOh9uyFD728kXYBiJXBYjNGIPQ-kwDf5ub4kk90AeNR9RlZxLe1PRZ0stR2lQATGQIbv3M4upRg5y7lO0IQOl-qz4QbYRLiWSNz7GJ7DrQzjszRc3A0xhbXtwYfpwBOIdmwYEfk6lb-KzOtXztLCIbhWgXUjgyA9WyXiI0LjDB880dFu9WEB_yKDtiQ/s1600/sanding.png)
 
 Diary: [6 May 2024](https://irwin34.blogspot.com/2024/05/day-141-54-final-sanding-before-start.html)
 
-## Фарбую під наметом
+## Фарбування під наметом
 
-Окреме спасибі моїй дружині Марії, що приєдналася до цього останнього ривку на даху рубки і палубі.
+Окрема подяка моїй дружині Марії за те, що приєдналася до мене в цьому останньому ривку на даху рубки й палубі.
 
-День перший: зашліфувати другий шар ґрунту і збудувати каркас «малярного намету» на випадок пильного вітру чи дощу.
+День перший: прошліфувати другий шар ґрунту й збудувати каркас для «малярного намету», на випадок, якщо з'явиться пильний вітер чи дощ.
 
 Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-11224last-prep-and.html)
 
-День другий був майже ідеальний: близько 25 °C, мінлива хмарність, легкий вітер. Ми добудували намет і поклали один шар Interlux Perfection кольору «майже білий», близько 1,5 літра. Першу повну кварту змішали за раз на дах рубки, планширі і сходинку біля кокпіту, потім близько 200 мл на кокпіт, потім ще 200 мл. Виявилося, що добре працює товстий поролоновий валик: тиснеш сильно, щоб лягла фарба, потім легко, щоб полопали бульбашки і вирівнялося, ЯКЩО фарба не надто розбавлена. При 24 °C я додав лише 15 мл розчинника 2333N на кварту (1,5%), і вийшло чудово. Я і кокпіт, перший шар. Великий-превеликий намет.
+День другий був майже ідеальний: близько 25 °C, мінлива хмарність, слабкий вітер. Ми закінчили намет і поклали один шар молочно-білої Interlux Perfection, близько 1,5 літра. Першу повну кварту змішали однією порцією на дах рубки, фальшборти й сходинку за кокпітом, потім близько 200 мл на кокпіт, потім знову 200 мл. Ми з'ясували, що товстий поролоновий валик працює добре: натискаєш сильно, щоб покласти фарбу, потім легко, щоб полопали бульбашки й вона розгладилася, ЯКЩО фарба не надто розбавлена. При 24 °C я додав лише 15 мл розчинника 2333N на кварту (1,5%), і вийшло чудово. Ось я й кокпіт, перший шар. І великий-превеликий намет.
 
 ![Віктор у вхідному люку, готовий фарбувати](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYJCHJEGwiwxnwHRUOiEZ3rVTblztmCKIf1gUedwBvUZjFba00IpwLSPBLsBdKSx3MY6e3lUGNb6CpxjjzIVRsIRX9ya3DL6XNOtRiUPm9FvL92qhMbi_6tOnkzdw9v-NcPK-1qZROqXCCR2nkp-qZAilr_L-IiChkHRJZn7LavQoQR8KjxcBIGhOOlwjI/s1600/IMG_4190.HEIC)
 ![Фарбую кокпіт під наметом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePXWocutRzWXb3o518WIMerso1Gkj9Vkv6atY8JOxdEVF2uHAi4Piv0soT39pSOzl8ka6n0SIxwIvizp-Y5BlAcmvD78UUjxW2Qo9Zx7_LaYh1rBYkg-1UlkZ5z7peD8cV_-Gf1_Y3d4w5tTlOrrG6onbVpRafxkG4-qkVCvCT2cQ3YK6ZQWl6Xv7btvB/s1600/IMG_4191.HEIC)
@@ -379,7 +378,7 @@ Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-1122
 
 Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-11224last-prep-and.html)
 
-День третій погода була не така, як хотілося: раз у раз мряка, тож намет дуже знадобився. Вікно для наступного шару — 8–48 годин, тож неділя або понеділок, а в понеділок робота. Тож фарбував у не найкращий день, знаючи, що глянець може вийти не ідеальний. Для палуби, може, й не страшно. Зранку ми знайшли на верху транця потьоки, що лишили матові сліди, — мабуть, легенький дощ пройшов одразу, як ми поїхали. Я накинув ще один тент на корму і заклеїв стики тентів армованою стрічкою. Легке шліфування очевидних потьоків, потім другий шар. Чотири коротких слова, а роботи на 34-футовий човен — рубка, кокпіт і палуба. Прихована «Perfection». Світло в кінці тунелю. Кокпіт пофарбований; кришки люків зняті, щоб фарбувати окремо.
+На третій день погода була не така, як хотілося: раз у раз мрячило, тож намет дуже знадобився. Вікно для наступного шару — 8–48 годин, тож це мала бути неділя або понеділок, а понеділок був робочим днем. Тож я фарбував у не найкращий день, знаючи, що глянець може вийти не найкращим. Для палуби, може, і непогано. Вранці ми знайшли на верху транця патьоки, що лишили матові сліди, мабуть, від легкого дощу одразу після того, як ми поїхали. Я накрив корму ще одним брезентом і заклеїв щілину між брезентами армованим скотчем. Легке шліфування очевидних патьоків, потім другий шар. Кілька коротких слів, але скільки роботи на 34-футовій рубці, кокпіті й палубі. Прихована «Досконалість». Світло в кінці тунелю. Кокпіт пофарбований; кришки люків зняли, щоб пофарбувати окремо.
 
 ![Усередині намету над кокпітом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGGDx9NXG0YMiB2PfrIHQHjJqm01kJs5qqqXdpf6MikddYdUfemMpsLACKOLEpek2Bh1KMJdwgkHXmzFD7FEZoWJncwxrJ401JobK4cVz9UyYaAMQ-OdStxKT66mtU7r3QypVoBNveDs3amM8wVgtRv2Tsg4zUfZxXw6KrH5YWhtGnA1vgARU2yXdclkD/s1600/IMG_8150.HEIC)
 ![Під наметом, погляд уперед](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqBeBVIPKkGSbjk1h-N6OoVP3b5Kw8mP2j0U6878XOLneRqWwuPSgtJrU1LyjDKAgoVNIE0rtQwQjY7ltb7K1T2026SQzAEjnZ4fWHgDzFGCq7P4luj3iGqtN-E_B22Clct6n8t7l2CQ59-fAtvKblf7tQFCGmCaQ3qLVkA7G63krOqLQAmm-4YCVKwdV/s1600/IMG_8149.HEIC)
@@ -387,7 +386,7 @@ Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-1122
 
 Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-11224last-prep-and.html)
 
-День четвертий: на озері гроза і злива, а я лишив вхідний люк відкритим, а дах намету без накриття. Коли я приїхав близько 6 вечора, води в каюті було небагато, вистачило ганчірки розміром із футболку. Фарба встигла схопитися до дощу, тож краплі слідів не лишили. Я зняв тент із транця для провітрювання і зняв більшість малярного скотчу, поки фарба вже схопилася, але ще не затверділа повністю. На верху транця досі видно потьоки від першого шару. Це дуже помітне місце, і я хочу, щоб воно було ідеальним, тож його зашліфую і перефарбую. Лівий бік, правий бік, блискучий кокпіт, вигляд із носа.
+На четвертий день над озером пройшла гроза зі зливами, а я залишив люк трапа відкритим, без накриття на даху намету. Коли я приїхав десь о 6-й вечора, води в каюті було небагато, якраз на ганчірку розміром з футболку. Фарба схопилася до дощу, тож краплі не лишили слідів. Я зняв брезент з транця, щоб провітрити, і відклеїв більшу частину малярного скотчу, поки фарба схопилася, але ще не затверділа повністю. На верху транця досі було видно патьоки з першого шару. Це дуже помітне місце, і я хочу, щоб воно було бездоганним, тож його прошліфують і перефарбують. Ось лівий борт, правий борт, блискучий кокпіт і вигляд з носа.
 
 ![Мокра глянцева бокова палуба під наметом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO9RQMvgeL7ZXKNsMdT4aikSgaK5ybRaXQzWYPRnulTNfUzvJOOLampsCU5mbsmQfPNgAGd-uxKQ072IkGn8uPDb3-4ErmECkukl1opw8feyfGO4ycCAMWOll-3b-lvthGUbq9TJnoRfO61JsmpP1lLdHM_Uv8hJ-rGem6YlHkFS6PNwXJXQF2TRdwHS8J/s1600/IMG_8152.HEIC)
 ![Борт каюти і палуба під наметом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV0Axv_lQ-nRx0hJQT2KqZE_EhdROZY0xT5HYUByiyELV-v0U_KpO2XQTlRKFK2BsLuUiM6XO7apvzYdmeYb16V3E5tU-x4Ww1Ej0lupfEyWdZkXdpQEjqhRqq8HRSHPnVXwbafSitzWM_KvYx5tfy5Ur3dCrncxcS-56CinWpLmKC0_0Cd39WRUz6Oq84/s1600/IMG_8153.HEIC)
@@ -401,17 +400,17 @@ Diary: [13 May 2024](https://irwin34.blogspot.com/2024/05/day-142-144-51024-1122
 
 ## KiwiGrip
 
-Просто гарне фото: тент відкритий, глянцеві частини виглядають чудово, переходимо до протиковзкого покриття. За тиждень кілька гроз подерли тент у кількох місцях. Може, човну під наметом стало надто спекотно, і вона скинула ковдру.
+Просто гарне фото: накриття відкрите, глянцеві частини виглядають чудово, і на черзі протиковзне покриття. За тиждень кілька гроз подекуди порвали накриття. Може, човну було надто спекотно під наметом, і вона скинула ковдру.
 
 ![«Віра» під наметом, вигляд із носа](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwRldDTDCHMKUsFkhEseBNRr17e4ZxgYfA6yaOjMDeCgbkirHyvENYbu2564c1UdTgoEAFj-cI5wvu_szmitXrMy6xWscndziqItiVp4yR_kyUa8jIO6-kXZ_VVUoaaMcMsl-oNLghmFG8l3MQiQH_I8xAg6gbCl8YcVJQpyNvVlzmtDh41PNEG3z03ceV/s1600/IMG_8187.HEIC)
 
 Diary: [19 May 2024](https://irwin34.blogspot.com/2024/05/day-146-51924-prep-for-no-skid-surface.html)
 
-Я повернув дерев'яні частини вхідного люка на бутилову стрічку, а в гаражі залатав, двічі заґрунтував, зашліфував і поклав перший шар Perfection на кришки люків.
+Я повернув дерев'яні деталі трапа на бутилову стрічку, а в гаражі залатав, двічі заґрунтував, прошліфував і пофарбував кришки люків першим шаром Perfection.
 
 Diary: [19 May 2024](https://irwin34.blogspot.com/2024/05/day-146-51924-prep-for-no-skid-surface.html)
 
-Потім підготовка під протиковзке. Боки намету підняті для провітрювання. Я зашліфував протиковзку на даху рубки, зрізавши ромбики десь наполовину, все почистив, обклеїв, вирізав радіуси на кутах, де треба, і зашкурив поверхню біля самого скотчу.
+Потім підготовка під протиковзне покриття, з підкоченими стінками намету, щоб трохи провітрювалося. Я прошліфував протиковзну поверхню даху рубки, зрізавши ромбовидні горбики приблизно наполовину, усе почистив, заклеїв, вирізав, де треба, заокруглені кути і зашкурив поверхню просто біля скотчу.
 
 ![«Віра» під тентом біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdIJtgHEYNk5kI91oTm7UBZ9v8ExqIZ3t6jAMf8cbz-TGV8_LfXC-di4BbJExAeSU2Z7aJ4s3ONWd6aJZ81UCh9SIqW7_6wRQhh9rE-_HP5ftY9rrYhDJB67SV52G79YrCSMQMaqNxx-J_flG82W3gfySc3LbqzwjXrmHAs_MiJoceoHKA09F2tQVH9Rq/s1600/IMG_8186.HEIC)
 ![«Віра» під наметом, вигляд збоку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAS4Dgf9E7l4s3Mjq9B1gdZ9gFMKTCX6hb7YT8Df9dhVp7VdFbs3XypK6W5UQXlAdegtuCD3PGjDpDtmQMcpjHDMis3eavKo1G4NK1b1SYpat24romwLamfUeUARHPN0LjWHLKTkujeeRQUVqOB6UifOqbtKOpSRlbnPN1jBlCdjZpA-2gw1ZM1Cr-XeIx/s1600/IMG_8192.HEIC)
@@ -430,7 +429,7 @@ Diary: [19 May 2024](https://irwin34.blogspot.com/2024/05/day-146-51924-prep-for
 
 Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-prep-for-no-skid.html)
 
-День 148: скотч знятий, кришки люків і чохли на місці. Дах рубки виглядає чудово. Кокпіт пофарбований (малярний скотч тримає люки закритими). До оригінального малюнка протиковзкого покриття я додав одне: площадку на верху транця. Залазити назад на борт там було слизько.
+День 148: скотч знято, люки й кришки на місці. Дах рубки виглядає чудово. Кокпіт пофарбований (малярний скотч тримає люки закритими). До оригінального протиковзного малюнка я додав одне: майданчик на верху транця. Було слизько видиратися назад на борт.
 
 ![Дах каюти з люками на місці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUHBgzIyypGXfxtNc3lluyrTA0mq0rf63ndIDKyUKxtRBQ7P_AvYyQ2fI9lvSDkPFIrMsVQ_fLQ4FiNeohvEvj1uEqbzU3WAJt8Emyn6ux5Cnl1my3ccQeML3sJY5LUTq3DKyXbOI9BmNlIrSKidgqaGkbwy4JYnbpJ17YK49Zit5KntTUroYxmPaxNdaH/s1600/IMG_8207.HEIC)
 ![Кокпіт із протиковзким покриттям, скотч ще на місці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLuux8UhxbuXM4z2a5SL64WO5H4guUYipwhMIe-WIyzQgT8xLr71m-09C-4lLQogtBTSzAhSw-EhZdBhKgMyDHmeg5HmW0wCg59cXn0-krn-Dp9WkD6ac1jYZ1kuYU89m1jMfNMOQsW2Qz1895iapgkCna4o1GI5slEOk4KoNRP0fn___Cc40rG4I55SAq/s1600/IMG_8226.HEIC)
@@ -442,7 +441,7 @@ Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-p
 
 Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-prep-for-no-skid.html)
 
-День 149: боки палуби. Шліфування, підготовка, обклеювання. Багато поту: 28 °C і 98% вологості рано вранці, 34 °C і 80% ближче до обіду. Для фарбування надто волого, але палуба готова до протиковзкого.
+День 149: бічні частини палуби. Шліфування, вирівнювання, заклеювання. Сила-силенна поту: 28 °C і 98% вологості рано-вранці, 34 °C і 80% ближче до полудня. Надто волого, щоб фарбувати, але палуба готова до протиковзного покриття.
 
 ![Бокова палуба заклеєна під протиковзке покриття](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSt1hgrwgFOAdXSin6CPGeEQtVAGZMQuFC4z0xKHkv8w-7FjnSO1v4usEoOQjnpOBQW6BJxlSK_vS74St-0-uXJH6EtIvHA_nSOF3VATGnxJnbo9793-QQWF4dvHY7sXCtQ3K5UlmjLl6axdn8jGQdRn4ShSfOVitMpgl0Aw30_Ohw7zCG3KfE_lzGHcB/s1600/IMG_8232.HEIC)
 ![Бокова палуба заклеєна, правий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE56P4RESvagSBMGMnMBDGHC8vBmQJIa0ohvqXOlTC1Mhx81NeiHcFOaiK_rAdU0j2gyCby1iROnYlqNWsF6yxFVR9hXZ_nk0pYUHHuF-vDFUdiPNvFxLL7znT5TRyPzRVhUqqA9VpyiXB8mDRNqo1LVGTTbozHEMt_Fzv6-6f8-Yk6uSv-pQmsEc_ir_H/s1600/IMG_8231.HEIC)
@@ -452,7 +451,7 @@ Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-p
 
 ## Готово
 
-Червень 2024-го: після 130 годин роботи, 19 робочих днів, за 14 тижнів фарбування палуби офіційно завершене. Фото дня. Ніс лишився недофарбованим, бо пізніше цього року там ставитиметься брашпиль. А так палуба виблискує як нова.
+Червень 2024-го: після 130 годин роботи, 19 робочих днів, понад 14 тижнів, фарбування палуби офіційно завершено. Фото дня. Ніс лишився недоробленим, бо брашпиль ставитиму пізніше цього року. А в іншому палуба сяє новизною.
 
 ![«Віра» з готовою палубою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0XhIc3pGj2saPldtrWcdujrrlQ8EuKtUZkgoYkfPk15nWYr1_7yRjt4FQz-VDJdk6ZL6Yb5Pe_VXV_yyZHsys_N1QiYxLxJ06XTO7Ae4VS5wTULQhe97znIyOYOvfZqEdy0gizcxhpl8oSLSoR3_dNlY_z0JOJJYlTI86_exdzUj1xohlVbrTrt3VQTWJ/s1600/IMG_8273.HEIC)
 ![Бокова палуба зі свіжим протиковзким покриттям](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nsfAHZ5Yz2p8Tx-peK3kgUi9kV4O1SS8jaroWSIoYPkumslJZ817VVtDavqeFgL_AtnjxigRrECE7d-Q6G_MHBYJ94NgQcMdXdbtF9k-cXAB_aVFHyXXkRA07yWzOCDzQ4YESS34oORKMGqkGtmtPnQkMH5g6WmotTRvW5aeQuRTk9Wf_Ck_v1il5RBi/s1600/IMG_8275.HEIC)
@@ -462,13 +461,13 @@ Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-p
 
 Diary: [2 Jun 2024](https://irwin34.blogspot.com/2024/06/day-150-151-61-and-6224-final-painting.html)
 
-Кормовий релінг і утки повернулися на місце.
+Кормовий релінг і кнехти повернулися на місце.
 
 ![Кормова палуба з поверненим кормовим релінгом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRrJFrNAcHyR73fU4_PsrUsVib0T9QQYfQmMkC98dzKmGlkHARH9FDI6nUfsmUmo7ix3Tpmz_ZknO1Ty-LHmJXmlfM0R_EXoJSAhShfEqbzeNvSUlLK_nP-tmdfbmeqUv-aYd4WWOS0wvn89xvev4YAWNuI9MGsJE6SoWTIxs2o68A14aKM5fSO8k_BQ6-/s1600/IMG_8270.HEIC)
 
 Diary: [2 Jun 2024](https://irwin34.blogspot.com/2024/06/day-150-151-61-and-6224-final-painting.html)
 
-Уся фурнітура кокпіту на місці. Готові до виходу, лише розібратися з кінцями. Я підігнав тент біміні і поставив біміні назад. Кокпіт чекає на екіпаж. Загерметизував щілину між обробкою вхідного люка і склопластиком.
+Уся фурнітура кокпіту на місці. Готовий до походу; лишилося розібратися з кінцями. Я переробив тент біміні й поставив біміні назад. Кокпіт чекає на екіпаж. Ще я загерметизував щілину між оздобленням трапа і склопластиком.
 
 ![«Віра» біля причалу з новою фарбою на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludbXj5NF1-gb2goQQ-RS-YlD77BwZt07PFJWfLAWXUeIZrHwACXEqHpRpvtLoBdvknohqM7Btb1Dtg2rSWb8K032ExvL0V7H-3jX1AA2nx2D_fu1cYUjI7fqZ355t5Dyg3IUb1OgxnEtfkquWty1NXPXX0PR7FOclaQIgXpyTzthNi3NgDDc/s1600/IMG_8305.HEIC)
 ![Кокпіт під біміні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz7_9_zhNdiSnau7D1nF3pPSmjIBmHMAd3PG0B54mKLp8QvJacBsKAbV7yZDnUolLKVu1evAlWYm6vOj6ug7pDPmlktzQCX_AfY3WMhBH1tKNl6qpo9l8yJo1kUchPcHDBmeb_d-urvN3XXrrIMMMFcq90U5BGSw9d5wLz9WjF4M_q70lH_5U9zTBDkWRJ/s1600/IMG_8299.HEIC)
@@ -477,13 +476,15 @@ Diary: [2 Jun 2024](https://irwin34.blogspot.com/2024/06/day-150-151-61-and-6224
 
 Diary: [9 Jun 2024](https://irwin34.blogspot.com/2024/06/day-152-6724-deck-painting-officially.html)
 
-Потім стала нова кришка вхідного люка: нова тикова ручка, акрил 12 мм і стопори. Свіжовідновлений кожух загерметизований і прикручений. Відмінності від оригіналу: новий акрил замість того, що вбили 40 років ультрафіолету, і блоки з HDPE зверху і знизу замість дерев'яних стопорів усередині кожуха. Тепер кришку не можна витягнути повністю і загубити за бортом, а стопори не згниють у вологому просторі під кожухом.
+Потім стала нова кришка люка трапа: нова тикова ручка, 12-міліметровий акрил і стопори. Щойно оновлений кожух загерметизований і прикручений. Що відрізняється від оригіналу: новий акрил замість зіпсованого 40 роками ультрафіолету і блоки з HDPE зверху й знизу замість дерев'яних упорів усередині кожуха. Тепер кришку не можна витягти до кінця й упустити за борт, а упори не згниють у вологому просторі під кожухом.
 
 ![Новий люк вхідного трапа з тиковою ручкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2fd8_NaNRVUKARgnmI8l60ekKHZ3IkTEJjtxQFwJKXs1yI3WtjvSY7DiIX6ifEfMg9L6v-rdmlsRsG6qoxR-kgRbOrb2zhxQgErQHX9vWxElVBhWLxCybPzSivHq0_Djvv3_P_aWwKdjS7UfNDv05Mc-K4PHbGSKmNKlLe7JgbYVBm_cKpkVvSc8-hNT/s1600/IMG_8379.HEIC)
 
 Diary: [23 Jun 2024](https://irwin34.blogspot.com/2024/06/day-154-62224-new-companionway-hatch.html)
 
-А в липні я зробив для неї внутрішню ручку, яка виконує три роботи: ручка, щоб зсувати кришку зсередини, вушко для навісного замка на дошках і стопор, що лишає місце для пальців. Це маленький шматок тику з двома отворами під дужку замка, на двох шурупах #8 ззовні, машинному гвинті зсередини і машинному гвинті 1/4 дюйма в нарізаний отвір у кришці знизу — для певної безпеки. Кінець гвинта врівень із верхом, тож ззовні його не вхопиш, а в різьбі суперклей. Ідея замка: навісний замок зі знімною дужкою. Вставляєш дужку зсередини вільними кінцями назовні, проводиш її крізь два отвори у верхній дошці і надягаєш корпус замка. Вигляд із каюти і ззовні.
+А в липні я зробив для неї внутрішню ручку, яка має три функції: ручка, щоб зсувати люк зсередини, вушко для навісного замка на вхідних дошках і стопор, що лишає місце для пальців. Це невеликий шматок тику з двома отворами під дужку замка, тримається на двох шурупах #8 ззовні, машинному гвинті зсередини і машинному гвинті 1/4 дюйма в нарізаний отвір у кришці знизу, для певної безпеки. Кінець гвинта врівень з верхом, тож ззовні за нього не вхопишся, а в різьбі суперклей. Ідея замка: навісний замок зі знімною дужкою. Вставляєш дужку зсередини, вільними кінцями назовні, просовуєш її крізь два отвори у верхній вхідній дошці й надягаєш корпус замка. Ось вигляд з каюти і ззовні.
+
+Чотирнадцять тижнів шліфування, латання й фарбування, і палуба «Віри» нарешті виглядає як той човен, що я бачу в голові. А останній крок мого плану, покликати друзів і пити пиво на свіжій палубі, — найлегший з усіх двадцяти.
 
 ![Внутрішня ручка люка крізь акрил](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMru8FvJa0DLXQgTU3nCyA-vUoTYunZEemBnLi21VeYUZoT2OGXvi_n3iUSzhpe2BZYgfYFstHbqNNK3MqOalaOWn9PpWIW0SaovRzZVZc3dlskLH5_7p0laB7VTyGlNz4b2VHIvwcPdvIou_wVs1oh0wOvQPb14mTlJNMKjDpOWSDX0Dvv2SuVkma4Bx4/s1600/IMG_8449.HEIC)
 ![Ручка люка ззовні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlxLrCDtZQuvJaJWs_Ah5eqDdtRO6zGjmPPR7jNhl7lFA2MQ0wT-sygNq0cnKfnwE5dWvvC9phQ0CSl_GBxjcZglLYy9HDcI1JuzKmQxUqcPZavRNPdUcNuUGUak3Ng47fudFynpj9dpxHC4L2c0vNQw8baIn6GHT8YFB2oQAjVmCu_UzM9oNo5aoi8sl1/s1600/IMG_8448.HEIC)
