@@ -6,21 +6,20 @@ order: 1
 description: "Новий заповнювач правого борту палуби, стик палуби з корпусом, стійки лєєрів і шпігати."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbVwnyqjSoDo6RspiLrPmRG9CsqGc1B-FKd0gQOKLrhS6dv5aBvH1q22ZD9hEyo_IqZdAmgPcmMjN5Zpp5nemCoaYzWGbDbxFcVCIihBCRPoRAhkLsa2WwxewwlLQbTvpb9-z7NSUu4QhMNydKNG3SxKywP12E-g99EXJ1tz5qicGOvORBE9Rk3g8d3w/s1600/IMG_4127.HEIC"
 ---
+На цьому човні є одне головне правило: усе на палубі, чого я ще не торкався, протікає. Я засвоїв його важким шляхом, одну деталь за іншою. Це історія самої палуби: мокрий заповнювач, порожні коробки стійок, стик корпусу з палубою, що тримався на надії, і купа епоксидки.
 
-На цьому човні є одне головне правило: усе на палубі, чого я ще не торкався, протікає. Я вивчив це на власному досвіді, деталь за деталлю.
+## Грудка 5200 і мокра палуба
 
-## Клякса 5200 і мокра палуба
-
-На п'ятий день я нарешті поставив на причал качки для швартовів. Тепер можна просто накинути кінець. Решта ще прив'язана мотузочками до рами причалу.
+Почалося з дрібниць. На п'ятий день я нарешті поставив на причал кнехти для основних швартовів, тож тепер просто накидаю кінець. Решта досі була прив'язана до каркаса причалу мотузочками.
 
 ![Кінці, скинуті з носових планок біля причалу](https://blogger.googleusercontent.com/img/a/AVvXsEjCjy6Qm3-0jtSuPuXpYy2HPknCwDwji2twuN0pt7EM9Uqt8lYqyBvgy7Q9kjd_lJThD-GF4eDN_AMIqY_4lwmAs6mN6iW71Ysc8EK-yuEnh6d1s4_Bn4ZBZ4zWJFYpj6WggKSRPNY6P5i42cvIm7ESvbE2Q6gA4N2_ZXY1Lw_bmzhz0yCLc2fOBGrV8A=s1600)
 ![«Віра» біля причалу на озері Тревіс](https://blogger.googleusercontent.com/img/a/AVvXsEhpq5vd59szV-IeifBJMw-RULPW_N8St-Uty5nfP31UdRosb6V5gj_w3siJZgZCmPE1YEbGFCUmqtHT--w0niXeEWtmkAfGANYmpK0yLqUZiA-Enk4a5NgJoOuN8maLOoLeyd1w77EcKEiutjdHYRdfqvi7DuJPq1010BDiKu2aOjj03HRb7TS0g0eogA=s1600)
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-У лютому 2022-го я розкрив палубу навколо правих путенсів. Отвір не був полагоджений ВЗАГАЛІ. Попередній власник просто вилив туди кляксу 3M 5200 завбільшки з кулак і сподівався, що вона втримає воду. Ні, не втримала.
+У лютому 2022-го я розкрив палубу довкола правих путенсів. Отвір НІХТО не ремонтував. Попередній власник просто вилив на нього грудку 3M 5200 завбільшки з кулак і сподівався, що вона не пустить воду. Ні, не спрацювало.
 
-Я зняв верхню обшивку. Заповнювач частково згнив і добряче намок. Спочатку виглядало не так уже й погано, але майже вся ділянка була губчаста і мокра. Чотири години шліфування потому, разом із самою верхньою обшивкою. У парі місць я вирізав трохи не по формі, виправлю під час нового заповнювача. Останнє фото — вигляд знизу.
+Я зняв верхню обшивку. Заповнювач частково згнив і геть намок. Спершу виглядало не так погано, але майже вся ділянка була губчастою й мокрою. Далі були чотири години шліфування й зачищення, разом із самою верхньою обшивкою. У кількох місцях я вирізав трохи не по формі, це виправлю під час заміни заповнювача. На останньому фото — вигляд знизу.
 
 ![Права палуба розкрита біля путенсів, мокрий заповнювач](https://blogger.googleusercontent.com/img/a/AVvXsEhtJUH_X0frncQgvR6r3zbf0sRw6AZvgGKIOjwcqQzkynX4PZSZTUmI0hLs6oU8ykYFFvroRaXLq3V_ChBUZOp-qTDSYWMnKsxYbZ_ig2kwNcd9j-sfJ9ecBAYXsHN19LmPAQ5QlgsJpKYjTZKQIEfioiYpYTk5gARuGK7BGOSCFEDh3-NpoQ5-pUu5AQ=s1600)
 ![Верхня обшивка правої палуби знята](https://blogger.googleusercontent.com/img/a/AVvXsEicW3F1rgD2UmGV8oHCVzMAnZK0XWDHLqOXU_EFEIMoPMr4JMO8tm3vjGJEOABO4TvgByZ88Gnnyvb_ONybN7fny7_pJazazHuv0I73LITM1I4zfb_6B5U6HnCJuFHuFthotF4ZLpi9RvP7qdQV-kCgXQcP3Z0cbUfCUzhA-zrBkDeEMhXQctKsyyU12w=s1600)
@@ -32,7 +31,7 @@ Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-satu
 
 ## Новий заповнювач
 
-Я вирізав новий заповнювач із морської фанери, такий самий, як оригінал. Зашліфував і знежирив з обох боків, поклав на нижню обшивку поліефірну смолу з трохи рубленого скла, вклав фанеру і навантажив чотирма мішками піску. Треба було більше, але більше в мене не було.
+Новий заповнювач я вирізав з морської фанери, як і оригінальний. Зашліфував і знежирив обидва боки, поклав на нижню обшивку поліефірну смолу з трохи рубленого скловолокна, уклав фанеру і привантажив чотирма мішками піску. Треба було більше, але більше в мене не було.
 
 Через дві години, коли смола схопилася, ліг шар загущеної смоли, а зверху повернулася стара верхня обшивка, під чотирнадцятьма мішками піску. Закінчив о пів на дев'яту вечора.
 
@@ -41,9 +40,9 @@ Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-satu
 
 Diary: [16 Feb 2022](https://irwin34.blogspot.com/2022/02/day-14-215-starboard-deck-recoring-7.html)
 
-Потім заклеювання щілин склом. Легко сказати, а насправді чотири години досить гидкої роботи.
+Далі — заформувати щілини. Легко сказати, а це чотири години доволі гидкої роботи.
 
-Проблемою був малюнок протиковзкої поверхні. Малюнок гарний, але відтворити його на відремонтованій ділянці непросто. Тож я зняв форму з існуючої палуби: розділювач, гелькоут, один шар 1708. Із собою в мене був лише фінішний гелькоут, тож я не чекав, поки він повністю затвердне, і ламінував, щойно він загуснув. Загуснув він не скрізь, почав лущитися і змішався зі смолою, тож вийшла каша. Мабуть, переробю, але навіть так виглядає непогано. Оригінальна поверхня палуби і мій саморобний «негатив».
+Проблемою був протиковзкий візерунок. Він гарний, але відтворити його на відремонтованій ділянці непросто. Тож я зняв форму з існуючої палуби: роздільний засіб, гелькоут, один шар 1708. Із собою в мене був лише фінішний гелькоут, тож я не чекав повного висихання й почав ламінувати, щойно він схопився. Схопився він не скрізь, лущився і змішувався зі смолою, тож вийшло брудно. Мабуть, я її ще перероблю, але й зараз виглядає непогано. Ось оригінальна поверхня палуби і мій саморобний «негатив».
 
 ![Права палуба заклеєна скотчем під скло](https://blogger.googleusercontent.com/img/a/AVvXsEglIQTIsOio5r3mPQaZ0dQoPA4srATCXiIJZvkveO0MnSn2fA2Tk7gadjfMa7fziRr5JlOvzzUm7SWweC3P1x5hUna0_VlcpiIS0LiH3-AWpLmMdEjD_hh-WrFT3AnDooDqtMpB3O6BALQ0PDmS26tEwCQE-Idse0fQGKX7TqfKALg6hq2NAKXgr7uhYw=s1600)
 ![Права палуба заклеєна склом по краях](https://blogger.googleusercontent.com/img/a/AVvXsEhSbJEeyovkre7dVbuqoqEzOKV2Pb7WQi3zG85uQI_iPwa2xz3ftmi4_pWZCt_hllScYwT1itlSDvgb4fylzZcsKFABqLv9IJAopFRrmj9fZvuKZVwxMBysnh1b3RMs7KSyz2ajaT_IpifgNd4yPX7O55NNE-Mv_BTD1srZiNqzyYdkDptXrBqv1oW1cQ=s1600)
@@ -54,7 +53,7 @@ Diary: [16 Feb 2022](https://irwin34.blogspot.com/2022/02/day-14-215-starboard-d
 
 Diary: [19 Feb 2022](https://irwin34.blogspot.com/2022/02/day-15-21922-deck-re-coreing-step-3.html)
 
-Потім шпаклювання. Шпаклівка TotalBoat і шліфування, коло перше. Коло друге. А в квітні готово, з гелькоутом поверх суто для захисту. Фінальне шпаклювання буде, коли фарбуватиму палубу.
+Потім шпаклювання: шпаклівка TotalBoat і шліфування, раунд перший. Раунд другий. У квітні все готово, поверх нанесений гелькоут просто для захисту. Остаточне вирівнювання буде, коли фарбуватиму палубу.
 
 ![Права палуба вирівняна зеленою шпаклівкою](https://blogger.googleusercontent.com/img/a/AVvXsEgdfdNpzn0_ga4VzEVgV49Q2oseV45EbZU3Wts5OqVEPZFpYDaZgY5sGU5im4Ry9iU2MjQrAoDhTJIBenjQDm-Un22fAUMJfW8z6KUKeYTi0tJTaYfCuY_J6X76_Y0fTIbdd-_zY1PImHNheHqNNiBuGxDzc5nfR7wQT9uHD__ecA4wJjOezVT3G8su6Q=s1600)
 ![Шпаклівка на правій палубі, путенс закритий](https://blogger.googleusercontent.com/img/a/AVvXsEhv-b30YZGMdDHc5heHMsYP8QYb0kC3XGpqPFshZoYPfnA2pQc-4Pta28kyFoyEHSE-RFme-QrtYdgpAi98Hu8HWN52Ab2VovD9C-fw5tS911JbYv1bFAGd5F4Okf2xHEFtthaVs-1OUiX_ucQK7njshEuQjnxagvEnXUuFt_PhrQpHOF6_nGq8oUvNTA=s1600)
@@ -65,11 +64,11 @@ Diary: [5 Mar 2022](https://irwin34.blogspot.com/2022/03/day-16-3522-starboard-d
 Diary: [24 Mar 2022](https://irwin34.blogspot.com/2022/03/day-17-31822-starboard-deck-fairing.html)
 Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboard-deck-fairing.html)
 
-## Стійки лєєрів: порожні коробки
+## Стійки леєрів: порожні коробки
 
-Далі стійки лєєрів. На правій кормовій я вирізав старе кріплення. Дерева там не лишилося зовсім. На фланці був дивний виступ 3 мм з одного боку. Схоже, він мав заходити на планширь, але отвори просвердлили не там.
+Далі — стійки леєрів. На правій кормовій я вирізав старе кріплення. Дерева там не лишилося зовсім. На фланці був дивний уступ 3 мм з одного боку. Схоже, його мали заводити на планшир, але отвори просвердлили не там.
 
-Я зробив новий дубовий брусок, просвердлив отвір під трубу з запасом, заповнив конструкційною шпаклівкою і просвердлив знову, щоб метал торкався лише пластику. Потім посадив брусок на ту саму шпаклівку до корпусу і заклеїв склом: два шари ровінгу 24 oz і 1708 зверху. Звис унизу потім обріжу.
+Я зробив новий дубовий брусок, просвердлив у ньому завеликий отвір під трубу, заповнив конструкційною шпаклівкою і просвердлив знову, щоб метал торкався лише пластику. Потім посадив брусок на ту саму шпаклівку до корпусу й заформував: два шари ровінгу 24 унції і 1708 зверху. Звис унизу потім обріжу.
 
 ![Основа стійки лєєра на планширі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBSAC-GojSK2RgMYHzzQcQ7LLB0fi3PZ71VWCggS4g4sU7Rt4nNeA4_74nnjKXeUUIDNWpqP05GzlapPPXEQJuISQMAHIr5RKj42rsl9kQ6WEGeazbO_wm5alehrlray5YL6xhet5ZwWoKekdXZdMafNtYfITvBtjWpImX1o118Ur3GPj1UzLl_8KSZA/s1600/IMG_2508.HEIC)
 ![Кріплення стійки вирізане всередині корпусу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQCRIDu8xQxeGeRrTgo41clQN6BZQ-bz-qAl7rrqXVMdSiwX3XifO-7W-k5fuDhOCVvLOo0IKIdQ4_cEzPmzNyF4hqGrVtZTHeKAtU1KA_hAHv1w-15h1k-ecHF7Bxbxw3RtsrYhip271JSPyKpsaKsvlFc_pFu6FKT3fp_7vH-bRU83E8ZBe8YD4-Q/s1600/IMG_2469.HEIC)
@@ -78,7 +77,7 @@ Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboa
 
 Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboard-deck-fairing.html)
 
-Потім пішли всі старі опорні коробки стійок. Усі п'ять, що ми розкрили, були порожні, дерево згнило повністю. Хтось поклав тонкий шар епоксидки на тріснутий гелькоут і розбите скло навколо гвинтів, а зверху 3M 5200. До палуби 5200 прилип добре, а до нержавійки — зовсім ні. А всі стійки порожнисті, тож будь-яка вода, що потрапляє в трубу, йде прямо в дерево. Гарна інвестиція в майбутнє обслуговування. Тут мені допомагав тато.
+Потім вийшли всі старі коробки під стійки. Усі п'ять, які ми розкрили, були порожні, дерево згнило дощенту. Хтось поклав тонкий шар епоксидки на тріснутий гелькоут і поламане скло довкола гвинтів, а зверху 3M 5200. До палуби 5200 приклеївся доволі добре, а до нержавійки — зовсім ні. А всі стійки порожнисті, тож будь-яка вода, що потрапить у трубу, йде просто до дерева. Чудова пропозиція для майбутнього обслуговування. Тут мені допомагав тато.
 
 ![Короб стійки знятий, вигляд зсередини](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT9TcCErxTnSQAzsMIkdjkBUHWEYqINpcEF1Ap-saT4FcguAFLmmlaTPlBhNmTdGv4utcDR5HVn5vivWwKd0s63xWXQ9PHXnTbWnbsImnCc6trvh01dQ-Yd0jEteYnD6xkfuvIH9ktWF5dJd4pBKcGUbD5s0oB97pKUB1x-L6fP9XzVvZTc5P0RPFQ9g/s1600/IMG_2514.HEIC)
 ![Скло і шпаклівка довкола старого короба стійки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3IV4r4xcHaBnIQomvf0a0IXdzClhWqo4MYe4rxPd8a2JoIIEv8vQo_GMp-rUM6g-3gEWcrUcyAhPep5kqdYSDXdepI2zjQ2V5L_o62c8i0rgKfSBDbWUoUQwxdhp_m4fQQgOSqk3Ck3WfFNCjM5kwr1M1AS5-yhFi0_ll9GYEe086GaOvnTT8ajF5cg/s1600/IMG_2513.HEIC)
@@ -87,7 +86,7 @@ Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboa
 
 Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchions-10-hours.html)
 
-Нові бруски, готові до конструкційної шпаклівки. В одному місці хтось «відремонтував» розбиті отвори незагущеною епоксидкою, і вона, звісно, випала. Я вичистив усі тріщини і заповнив порожнину шпаклівкою.
+Ось нові бруски, готові до конструкційної шпаклівки. В одному місці хтось «ремонтував» розбиті отвори незагущеною епоксидкою, і вона, звісно, випала. Я вичистив усі тріщини й заповнив порожнину шпаклівкою.
 
 ![Мій батько в каюті під час роботи](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfVa6SM-JnW8LD3QLS5wBuUcoc5i0a3E1_H0SmFZn7VPrgMCMfYqc_ZRR2Eii0VrQigc1ovS52vd1TeyMowg6sGoURJ58Aj_1y-lFIWzMwdOSDiB_XshjyzFwMKjKDJ0159SlqFP_vUOmCJ3uh7tgDfrdQeHeV-PSDJubSpcfXT9K3VNVXQDt4VMEVIQ/s1600/IMG_2516.HEIC)
 ![Нові дубові бруски під кріплення стійок](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge00V8L5u-XHx-VWSxNq_qKeTrybTclljgsBnbYyfpeoShEh06yKCK0H74sjzL8OdcXNx9vuxYqXikLqEsAcGwdQPO6Bu6OJ82PdAX4f6b_yy0HY0L90AQB5ptJNzBZpL4i9_jnYmZID8GaXKEMlSKMO_45vShwgF42RYB9DE-JemWK0gmrSs9Cgy6jA/s1600/IMG_2512.HEIC)
@@ -97,7 +96,7 @@ Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchion
 
 Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchions-10-hours.html)
 
-Через тиждень: дубові бруски на місці зсередини, отвори по дюйму під труби стійок, щоб ті торкалися лише пластику. Я розмітив місця гвинтів, розсвердлив їх до 10 мм і заповнив загущеною епоксидкою, під майбутню різьбу 1/4-20 і гвинти по 2 дюйми. Поки що один шар скла 3 oz поверх отворів, до фарбування палуби. Потім ми приклеїли бруски до корпусу двома шарами ровінгу 24 oz.
+Через тиждень дубові бруски стали на місце зсередини, з отворами на 1 дюйм під труби стійок, щоб ті торкалися тільки пластику. Я розмітив місця гвинтів, розсвердлив їх до 10 мм і заповнив загущеною епоксидкою, щоб потім нарізати різьбу 1/4-20 під 2-дюймові гвинти. Поки що над отворами стійок один шар тканини 3 унції, до фарбування палуби. Потім ми заформували бруски до корпусу двома шарами ровінгу 24 унції.
 
 ![Старий отвір стійки на планширі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsSuHZoH6nFVRNky3-O4kUBfVFwcw7P4My4AZ88on6Xam8euKNVEGJimpLrlcZTKPiaX7k_e9_84CJ4_LsPzjg7aUGazxgCwRF-MCkWbUvCNqLqp3O1zmfhS3z3rHFjr7MsoGsVG5nTFK5HhJ5zs_Jr1KXkD0_kNmAHs1QzBDaGug3Bu05dRtygj9L4A/s1600/IMG_2539.HEIC)
 ![Отвір основи стійки заповнений на планширі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwSyLpEiMX1wIf1P6bRUWit-zUKxKHuGV_ECGmUbUBIWe0Fs_NavoubwMc5yfgb8eDuATz6oaCVCbgMaadWKB_V23q5uzLeO45SCJbQmo2pEFr58EeANI74PRqHlvcH6tZQ_ETdFaBTZeO9Aj1vanFF3zK9RyqsZfuzldJYmKTh3ujAKsOb3HXumpNxQ/s1600/IMG_2551.HEIC)
@@ -109,26 +108,26 @@ Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchion
 
 Diary: [23 Apr 2022](https://irwin34.blogspot.com/2022/04/day-22-23-422-42322-stanchions.html)
 
-## Шпігати, поручні і хворий лікоть
+## Шпігати, поручні й лікоть
 
-Шпігати палуби. Я розбив ущільнення, і трубки просто вийшли, тобто з боку палуби справжнього ущільнення ніколи й не було. Я все почистив і заповнив гнучкою епоксидкою TotalBoat. Брудно, але непогано.
+Потім палубні шпігати. Я зламав герметик, і трубки просто вийшли, тож з боку палуби справжнього ущільнення не було ніколи. Я все почистив і заново заповнив отвори еластичною епоксидкою TotalBoat. Брудно, але непогано.
 
 ![Отвір шпігата на боковій палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKmp5NvlKmrzyRJmVZ9_YSqcbH6vuTDDDPtPNkNyQfBquRiq3agxB2OMnojPpfjcDhRoKTcc5rEVGu4nq1y5380kV0LeIk1_ShByQppBGT3Q7u8LOHBUgdX75HY4O1eMJ175FQK6843BvYWvIpf7aNO2M3YJ0uEJE133E-NYpMEcVEbHr8AykVG6CHUQ/s1600/IMG_2578.HEIC)
 ![Борт зі старими подряпинами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjslTc7mBgg4t8ZdjYdbae-AEcX1UF-VdH2J1fSq38-5--OeKoBV327jjzCPvFEyaeTbWvBPlB-hN2zyiYD3jhefznLQKu1TSYD3NbbGg-qqk4YQLbwrmlVJnIQukhN2zqZcmMAZm5oTrDTJ2-y1vK8AU5OBbTH3c-of-MRUkTZFKdKPwLQ8zPhUsNrXw/s1600/IMG_2577.HEIC)
 
 Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionway-slides-deck.html)
 
-Зняв поручні з даху рубки, висвердлив 5200 з отворів, зенкував їх і заповнив загущеною епоксидкою.
+Я зняв поручні з даху рубки, висвердлив з отворів 5200, зенкував їх і заповнив загущеною епоксидкою.
 
 ![Дах каюти зі знятими поручнями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDzphsUz-wmXqsC4MV2mGFuot_yElPva45vr7rN7SFjeXYrN_Ln85axqfyIbbgfdO4xRPBEIa4u2NPbwj0nRFgqPOZmpOU-rUX6EhTu-se_cVZqHQ4niPV5Sg7M-iGMOkheeTA-_r7qN7LUUvDAGts5Oe81chWNs1Wone_dqHmnNuNKu4D-_KE6EgWOQ/s1600/IMG_2580.HEIC)
 
 Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionway-slides-deck.html)
 
-Травень 2022-го, миття палуби. І все. Але години з мийкою високого тиску подарували мені проблему з ліктем на два тижні. Поправка: сім місяців і далі. Поправка: десять місяців.
+Травень 2022-го: миття палуби. І все. Але кілька годин з мийкою високого тиску подарували мені проблему з ліктем на два тижні. Поправка: сім місяців і далі. Поправка: десять місяців. Ніколи не недооцінюйте мийку високого тиску.
 
 Diary: [14 May 2022](https://irwin34.blogspot.com/2022/05/day-25-514-deck-cleaning-2-hours.html)
 
-Потім я перевірив шпігати: малярний скотч на корпус ззовні і залити палубу. Два були в порядку, два ще протікали в одному місці кожен. Знову зашліфував і поклав два шари 6 oz на погані місця.
+Потім я перевірив шпігати: малярний скотч на корпус ззовні і залити палубу водою. Два були в порядку, а два ще протікали, кожен в одному місці. Я знову їх прошліфував і поклав на погані місця два шари тканини 6 унцій.
 
 ![Отвір шпігата на боковій палубі зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl2LBiZ9BEmy-ki0FRcKXrV4Pj7dEPVUguQpcIiyOu84MqsJokjMeKrmL2tKxRByABf6uOFpCDSt2QH0Yerjv14zkmsBGM47OB5GwF4n2VKSy2FziopX0qUAQC-I9AE7XhkzKdFsgwFEHoG8JRWL6fEs2YoLPC3_oA4WT6NCsSeJvjXC-Gw-8D6fyXIQ/s1600/IMG_2799.HEIC)
 ![Отвір шпігата з пошкодженим гелькоутом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXVeLadVWPKANJYGTb9NuTXAZL4TsU4w1L3x054K8q_FiZpmlD1c_XDfV67JyKGpJkNmbmvrnN1gzPbs9e6YSNeVn92RjwIxa7mMHwj6OeKHukArkCBAgZFjCZMyyANL4KG6Kuc0PwAaNz7sbQj4LkXEujhpmOWPAIfiMrAJkBEmi6S_sro7fZUR3TQ/s1600/IMG_2805.HEIC)
@@ -136,19 +135,19 @@ Diary: [14 May 2022](https://irwin34.blogspot.com/2022/05/day-25-514-deck-cleani
 
 Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-water-drains-part-3.html)
 
-## Жах стику палуби з корпусом
+## Кошмар стику палуби з корпусом
 
-На правому борту стик корпусу з палубою не мав жодного ущільнення і протікав у кількох місцях. Старий герметик висох і виходив шматками. Тож я вирішив зняти алюмінієвий планширь і подивитися.
+З правого боку стик корпусу з палубою не мав жодного ущільнення і протікав у кількох місцях. Старий герметик висох і виходив шматками. Тож я вирішив зняти алюмінієвий планшир і подивитися.
 
-Уф... важка робота. Гумовий молоток і мультитул, щоб розбити 5200. А зблизька виявилося, що планширь ніколи по-справжньому не був загерметизований: герметик здебільшого не прилип до алюмінію і покривав, може, 10% того, що мав.
+Ух... важка робота: гумова киянка й мультитул, щоб розбити 5200. А зблизька з'ясувалося, що планшир ніколи як слід не герметизували. Герметик здебільшого не тримався алюмінію і вкривав хіба 10% тієї площі, де мав бути.
 
 ![Стик палуби з корпусом розкритий зсередини](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhwllZ5HzEhGtueMROBsrezn6qtt1MDpq4cRN7bmX57BTMCXM77r83zDS8-kYluDzWFmVfrbYOMUVzZR5X2h3gr13fUrsiyNCFX32jzjFUA6scmMEBhvJzEAIm82P-a2BP5t-owX5gYh8TBMES_2RWZrwuhA51_DCwYgf8cumbCh07nMnSCNWXhMDCig/s1600/IMG_2742.HEIC)
 
 Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-water-drains-part-3.html)
 
-Що під планширем? Попередній власник уже «загерметизував» стик: прорізав канавку 5x5 мм і поклав туди якоїсь шпаклівки. І все. Корпус гнеться, площа склеювання майже нульова, тож вона тріснула і пустила воду.
+Що під планширом? Попередній власник уже «загерметизував» стик: прорізав канавку 5x5 мм і поклав туди трохи шпаклівки. І все. Корпус гнеться, площі склеювання майже немає, тож шпаклівка потріскалася й пустила воду.
 
-Тож роботи — купа. Я прорізав фрезером паз 1/4 дюйма завширшки і дюйм завглибшки, 36 футів завдовжки. Різати таке в склопластику — не свято. Потім заповнив його епоксидкою West System з наповнювачем 404, мікроволокном і колоїдним аеросилом.
+Тож роботи багато. Я відфрезерував паз шириною 1/4 дюйма і глибиною 1 дюйм, 36 футів завдовжки. Різати таке в склопластику — не задоволення. Потім заповнив його епоксидкою West System з наповнювачем 404, мікроволокнами й аеросилом.
 
 ![Бокова палуба з інструментами під час ремонту стику](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifu_Hid_OCmGvTkIDBOOcKK_LpIU7_H2TgREmaGFgrUwJXHJ9ZUeKBWVvMvu0M8iW_gEwVMV5v5WZ3voZqwEIM8ghldm5_9Hrn6jpJIPhJ8rrpopSZv80WcTtnb8sSXtSEHWb9JhuVrRj9xPG4UymxDeJv01jZhNMyqDULf0X1Yl13F4unwYXIMUF7-A/s1600/IMG_2745.HEIC)
 ![Під планширом: стик палуби з корпусом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggUuU3OaI8ytFTD_yZoPby-g3ulVJrUVbLwEB-BahvLgOZ4PQhIZkpYCedhOWqCvNyZvoH4SIPdJyNWbohGhfaSj_DnMBL8m54l41b4SkJC5YNendjMzdmGi2MH0gh3yS0MO5KneL1cOzmkH54s7qzCZDUovmRhFNb2WhKwAyolfVb1YFgC_hWbu0qHg/s1600/IMG_2746.HEIC)
@@ -157,7 +156,7 @@ Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-wat
 
 Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-water-drains-part-3.html)
 
-Потім три шари склострічки 4 дюйми 8,7 oz на загущеній епоксидці, щоб заповнити западини, і тонкий шар епоксидки з 410 microlight зверху.
+Потім три шари склострічки шириною 4 дюйми, 8,7 унції, на загущеній епоксидці, щоб заповнити низини, і тонкий шар епоксидки з мікросферами 410 зверху.
 
 ![Стик планширу вздовж бокової палуби](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjewwf4fbj7kaOg01na01C3QWAmQMc33byCIqGWgHFF90Y2hda_dCtd4AYmpcZ_OSqTu4dZfMOlAau-kCyWI9DFW9SLxsy4ZHGVXjmS5_lT6xRRJ076fmuCYWoGU73FlKjWswhic9U0UqqgoQ-Q-mhvhdQIdfokh3MpFPRFdEmzwHHcSbVfCuClUix4sg/s1600/IMG_2806.HEIC)
 ![Ніс із кінцями і кранцями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYTHlqMI1d1C5hgtvSZnV1Kk7xWUoTT7xCxJTTa-Y-Kd57pIH1hZ5ewsAr4VusKhnsBudvHF9leQk77hqzT5Ox1IWvPXB-zYkaTnY3oF0BwQ4sCDqZ5bXqrbSV1SFajgJiv5lEJ1MZsrRadF1Qv4I1ipBVi5ibPxUfPFQ331yRALFGdOmN1AwFCO0QWg/s1600/IMG_2811.HEIC)
@@ -165,19 +164,19 @@ Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-wat
 
 Diary: [4 Jun 2022](https://irwin34.blogspot.com/2022/06/day-29-64-deck-to-hull-nightmare-part-2.html)
 
-Новий графік: з 6:30 до 15:00. Занадто спекотно: 25 °C зранку і до 40 °C удень.
+Новий розклад: з 6:30 ранку до 3 дня. Просто занадто спекотно: 25 °C рано-вранці й до 40 °C удень.
 
 ![Марина на заході сонця, озеро Тревіс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx1QhuO8ROFeBpHl8EtC6Fb57XGvS03VOSi36wLAGuspymZ03hSEMMismUsGNkG3h6rI86GG3r7lgrt6zAPrThFxG1c2U6iFBk991cK98fjELEPjP3A6y13dk_G8zGZagpAhX7bsCWi-pIOLGWWBqTkMba7UItL095haMx_g8NGLvFqJXc9dkxGxfkig/s1600/IMG_2827.HEIC)
 
 Diary: [12 Jun 2022](https://irwin34.blogspot.com/2022/06/day-30-31-611-612-deck-to-hull.html)
 
-Я зробив дурну помилку: залишив малярний скотч під ламінатом. Потім цілу вічність вишліфовував край і прошліфував гелькоут там, де був скотч. НІКОЛИ більше.
+Я зробив дурну помилку: залишив під ламінатом малярний скотч. Потім довго вишліфовував край і прошліфував гелькоут наскрізь там, де був скотч. НІКОЛИ більше.
 
-Примірка планширя і свердління отворів під гвинти. Я ледь не плакав, свердлячи дірки в тому, що щойно зробив водонепроникним. Потім «пофарбував» усе гелькоутом. Гелькоут у таку спеку — це щось.
+Потім примірка планширу й свердління отворів під гвинти. Я ледь не плакав, свердлячи дірки в тому, що щойно зробив водонепроникним. Потім «пофарбував» усе гелькоутом. Гелькоут у таку спеку — це дуже важко.
 
-Наступного дня я гелькоут зашліфував. Щоб вийшло гладко, довелося зняти майже весь. Отже: ніякого задоволення, час і гроші на вітер. Урок: щонайменше три шари гелькоуту, а краще 3–4, або взагалі не морочитися.
+Наступного дня я його зашліфував. Щоб вийшло гладко, довелося зняти майже все. Тож: ніякого задоволення, час і гроші на вітер. Урок: щонайменше три шари гелькоуту, а краще 3–4, або взагалі не братися.
 
-Потім планширь повернувся на 3M 4200, з надією на краще. У спеку 4200 починає схоплюватися за 15–20 хвилин, тож це була справжня гонка — вкрутити всі гвинти до того, як він стане. Через дві години майже затвердів. Ще треба 6–10 гвинтів.
+Потім планшир повернувся на місце на 3M 4200, і я сподівався на краще. У спеку 4200 починає схоплюватися за 15–20 хвилин, тож треба було справжньої боротьби, щоб закрутити всі гвинти до того, як він схопиться. Через дві години він майже затвердів. Мені ще бракувало 6–10 гвинтів.
 
 ![Стик уздовж бокової палуби заклеєний скотчем](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5EVGptpU6-y5SDv5GNNeeB4Qt_A-nXInCDYvuN-Ja2hNVllQMf3G6BwWA7aCI00AlRrSefdm4AO10K8Xei8x-HS4YJgV_NFNk1mr1Rcm5FZJKs3xuO5As5Q83ujqy-6mXhwawJDWowq088iMSxVv-_oub38yQ7W00HZmZQc_bU1NeCDKfyovNLOSxdA/s1600/IMG_2835.HEIC)
 ![Отвір у стику під гвинт планширу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMHKFFj9DOCFtZweVS_d6YHPvdQz3j6el7w79_tUJWsR1m3I_vs-WM0hiA9ibAMY_Aisi7fCy5MBxL-wSlRmnhzIeLVXmGb-PE9VGc4VMH0h7vYNmCTvCbNBU_X0_MhZTojOdW-oxBR86ZFahex0QxKsaY0hnGKO2nGMPwmvJmwI2sEA830A6Ln3WElg/s1600/IMG_2837.HEIC)
@@ -196,11 +195,11 @@ Diary: [12 Jun 2022](https://irwin34.blogspot.com/2022/06/day-30-31-611-612-deck
 
 Diary: [12 Jun 2022](https://irwin34.blogspot.com/2022/06/day-30-31-611-612-deck-to-hull.html)
 
-Наступного тижня я відчистив видавлений 4200 з планширя і переклеїв горловину пального.
+Наступного тижня я відчистив видавлений 4200 з планширу і заново посадив на герметик паливну горловину.
 
 Diary: [19 Jun 2022](https://irwin34.blogspot.com/2022/06/day-32-619-no-fiberglass-today-engine.html)
 
-Ще дірки: я зашліфував залатані отвори від поручнів, зняв дерев'яну «брову» над рубкою, зенкував і заповнив її отвори, і заповнив отвори від гвинтів біля зливу кокпіту. І перевірив: схоже, шпігати можна вивести прямо в дно без підйому човна.
+Ще отвори: я прошліфував залатані отвори від поручнів, зняв дерев'яну «брову» над рубкою, зенкував і заповнив її отвори, і заповнив отвори від гвинтів довкола зливу кокпіту. А ще перевірив: схоже, що зливи кокпіту можна вивести прямо в дно без підйому човна.
 
 ![Дах каюти з заповненими отворами від поручнів](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlv5UR5E7GW0h-DbfdMbAe6nWpgN7iqWDc139ofDGOFGmBcRiWGSYowhf947cIMU7UtLAF78qQfBJDY_yFoVpp1-goWF6eTCxX0UpOY_CkFwj6_JVo9xzpRKOH6fl7Ysp4BOmjacoGSMD_E9pZ3pkj8xL04em_ftKzcQzb3PiXfXfOaEUxSCMAZTUYcQ/s1600/IMG_2943.HEIC)
 ![Бокова палуба зі старими основами поручнів](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZe7M6VAAZ5LE7QfuNU4neUrreGei8eXXVRhGqS5SGS85JO2WqP1j0WHsN_ETIdh4hvIdUYclsr5xo4tF4ABG5nOY008UEwYv7DwwY_RYW70CxfwT5aTxTMfCmNFT7BrKXYMnmBUftuMUbsSEg6Cs1zuePzMuBzqUhbKMr1gVqAlu0QaSJ8ZS-HN22gg/s1600/IMG_2978.HEIC)
@@ -214,16 +213,16 @@ Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fre
 
 ## Зливи кокпіту від барної мийки
 
-Вересень 2022-го, ще одна фабрична економія. Irwin поставили як зливи кокпіту зливи від барної мийки. Чудова ідея, правда? Ні. Вони з латуні тонкої, як фольга, і не розраховані на шланг із хомутом. Мої були наполовину з'їдені, і це після життя в прісній воді, а через тріщину вода лилася на пілотську койку. Я замінив їх на врізні зливи з Marelon.
+У вересні 2022-го я знайшов ще одну заводську халтуру. Irwin поставив як зливи кокпіту зливи від барної мийки. Чудова ідея, правда? Ні. Вони з латуні завтовшки з фольгу, не призначені для шланга й хомута. Мої були наполовину з'їдені, і це після життя в прісній воді, а через тріщину вода лилася в пілотську койку. Я замінив їх на врізні зливи з Marelon.
 
-Заодно пошукав заземлення щогли. На форумі Irwin казали, що дріт 0 калібру йде від п'ятки щогли до пластини заземлення під фекальним баком. Маячня. Там нічого, крім мокрої фанери. Уся ця зона повністю заклеєна склом, але крізь неї йшов шланг зливу мийки — ідеальна пастка для води.
+Заодно я пошукав заземлення щогли. На форумі Irwin казали, що від п'ятки щогли до пластини заземлення під фекальним баком іде дріт перерізом 0 AWG. Дурниці. Там не було нічого, крім мокрої фанери. Ця ділянка повністю заформована, але крізь неї йшов шланг від зливу мийки: ідеальна пастка для води.
 
 ![Усередині рундука кокпіту, під кокпітом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_dKnS9HN03ls5cxEb5uOUOmu7pazDoJst4zOlGXThhkP4AeQLsMrGM9bZo8FzLKsiEel6AmZmDJ9N3DSUMkta5Tiq_DSVCnNnj-raXBh_tx7ywPWPE5-mFM7FPB0jao67oCfSs4O9oPfr1wAd9m-K5S7VBeBVB7dJhdQhO-PEAMMGzovMlZSDYRh9Q/s1600/IMG_3782.HEIC)
 ![Під кокпітом: старі шланги зливу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDBAlfPbf0DfBnSekD4YaczSUyriDnhmgkM0Dr1XLcg5U8Yrp1MWdiW70jJ3tAoVhrMkWPleFV6DsiASNStoR2Ssq704pwdZ1tmOVCik6AgnO4upSUHDRUrK21k4y6jIijUX29tMjzcxqHL2iII_mIeeB8fDbQI0I9KE2Lz22wkhmJswYD1EkBuYjPZw/s1600/IMG_3783.HEIC)
 
 Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring-part-1-cockpit.html)
 
-Для зенкування я зробив власний інструмент: дерев'яний конус під потрібним кутом, вирізаний на ЧПУ, з наклеєним наждачним папером. Пробував суперклей, епоксидку і термоклей. Термоклей найкращий, і папір легко міняти. Я боявся, що від нагріву папір відклеїться, але нагрів лише в маленькій точці, і тримає добре.
+Для зенкування я зробив свій інструмент: дерев'яний конус під потрібним кутом, вирізаний на ЧПК, з наклеєною шкуркою. Пробував суперклей, епоксидку й термоклей. Термоклей найкращий, і шкурку легко міняти. Я боявся, що від нагрівання шкурка відклеїться, але тепло зосереджене в маленькій точці, і вона тримається добре.
 
 ![Новий врівень посаджений злив у руці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjie2Peoku-UCsdMK1TSKXr_rMLEQ18cBY0teyRTcnD8EPTTCXIDek9f1obTp-j-apnPEHd5oTCuXy_6_QHMEQzh49vQyDw0znM14UxQU4ZXN8sB3YZHRxt6mGzQ2cwDN1zJ8mm-M45-EYkzGx_BZfjzQmcxvyaIBVyTtoUS9HyFpLJC9jb9OfzlHUskA/s1600/IMG_3808.HEIC)
 ![Роблю зенківку конусною насадкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiyvogZ7pME_FF1oMCZxEUwCcbkZnfn1-l9CkehMMqlGbGPqD9JytSn1y-ygXs9Vqz13x2Ut9yNrIwrZNtAP-m6webe-Qw56m9O4xpzYX41bfmaq787NkiXwB6slw-QLeioh_31XDqtPbOV0py7Kuycgw2IyDzH2wcPuv65ABEw823mfpCVJJTBAJ9HA/s1600/IMG_3807.HEIC)
@@ -232,7 +231,7 @@ Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring
 
 Diary: [17 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-917-new-wiring-part-2-cockpit.html)
 
-Потім другий злив. Тільки гляньте на оригінальний. Кухонний злив із латуні тонкої, як фольга. Замінено на врізні палубні зливи Forespar CF254 з Marelon.
+Потім другий злив. Тільки гляньте на оригінальний: злив від кухонної мийки з латуні завтовшки з фольгу. Його замінили на врізний палубний злив Forespar CF254 з Marelon.
 
 ![Старий латунний злив у руці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_IU9ETkDUCmICw-moE41fVt8SOpy7cgZ0cmYiZoQA6eQgBB2G9C7rNym1hA9KJi8J5Lx-6yiMotOuomgrKY3tsEelvujsqMztDZJKyMzRBcMdwogfjoFPU9s_C6Agw4HkoTPSuMba038Dei_FQxpLCXZD0KycdBZfPxl1ECYuUaEu-FGb8k7W00V4tQ/s1600/IMG_3834.HEIC)
 ![Старий злив, вигляд збоку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwLn_NXbRTRmamV-Suczg32gnPzJyJfRAx8G_mIspe4eChs0u8m2yIyHq-6QHriYh1zDyWx29vaajmZ5aCfDhGb33T5CYk6_UMkiZyn43cZ6Y9gHKtTEkPe_AHVw75ItSfGN_advMoC4zvUDjhrMQ88BPOCgbqSztReKpF_KUZkgKL4j2OAYjV9RuaxA/s1600/IMG_3835.HEIC)
@@ -244,16 +243,16 @@ Diary: [17 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-917-new-wiring
 
 Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
 
-Тест показав, що мій старший син, який допомагав минулого тижня, не затягнув хомути. Виправлено.
+Перевірка показала, що старший син, який допомагав мені тижнем раніше, не затягнув хомути. Виправлено. Сімейна праця йде в комплекті з сімейним контролем якості.
 
 Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-test-day-water.html)
 
-## Стійки лєєрів як слід
+## Стійки як слід
 
-Жовтень 2022-го. Ось як мають бути зроблені стійки, з власного креслення Irwin. Проблеми конструкції:
+Жовтень 2022-го. Ось якими мають бути стійки, за власним кресленням Irwin. Проблеми конструкції:
 
-- Стійки — порожнисті труби, тож вода легко потрапляє всередину і стікає до дерев'яного бруска.
-- Брусок не має зливу, тож вода там збирається, і ти цього не бачиш, поки він повністю не згниє.
+- Стійки — порожнисті труби, тож вода легко потрапляє всередину й стікає до дерев'яного бруска.
+- Брусок не має дренажу, тож вода там збирається, і ти не бачиш її, поки все геть не згниє.
 - Труба приварена до фланця, але не по всьому колу, тож є щілини.
 - Фланець тримається на палубі короткими шурупами по дереву.
 
@@ -261,7 +260,7 @@ Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-te
 
 Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-re-install-wind.html)
 
-А що знайшов я: на заводі просвердлили отвори приблизно на дюйм далі від краю корпусу, тож труби промахнулися повз бруски і стояли «в повітрі». Щоб це сховати, зверху поклали гарний ламінат, але щілину не заповнили, просто запхали шматок тканини, навіть не просоченої смолою. Через ту ж помилку між фланцем і палубою лишився зазор у 1/4 дюйма, який мав заповнювати герметик, — ще одна точка відмови. Попередній власник пробував кронштейни до планширя, які лише навантажили шурупи, поки ті не вирвалися, і купу 5200, що не допоможе, коли стійка не стоїть твердо. Бруски гнилі, нічого їх не тримає.
+А ось що я знайшов: на заводі отвори просвердлили приблизно на дюйм далі від краю корпусу, тож труби проминули дерев'яні бруски й стояли «в повітрі». Щоб це сховати, поверх щілини поклали гарний ламінат, але не заповнили її, а просто напхали тканини, навіть не просоченої смолою. Через цю помилку між фланцем і палубою ще й лишилася щілина в 1/4 дюйма, яку мав заповнювати герметик: ще одне слабке місце. Попередній власник пробував кронштейни до планширу, що тільки навантажували шурупи, поки ті не вирвалися, і багато 5200, який не допоможе, коли стійка не стоїть міцно. Бруски згнили, і ніщо їх не тримало.
 
 ![Схема оригінального кріплення стійки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAitATyKQQxNjOWfpBEYHIGBXhoJx2svDyFFzFgyEEPv2ohehnw-ZNzxZYJlnCyvkr0o5B7Jm32Xp02FiYrklPL_-_kZ53qORk2zkNIxgvP2sCxaIbxfGbh1Y3PCCGZ4SUoNHxvuSBAdpCRVpkp0kQZ6VNcqboeKgdmmo1FY20XE5MOGyxnup2OTQq8A/s1600/Stanchion-actual.png)
 ![Старий брусок стійки, розшарований](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbSEto7f06ovmI7q-hNF_0Vt63DywToplmdIrmPtkl0KJIFu45IRRwNXro8oQkZ85DrUY50HEK8rO2CT0skCnrVrMDUxsOI3tQAYd1p-OVF8EE9NvBe6PpGM1a_HCKLIVT3bag6HqzdmRKj1X-psVqoJwtYKeaCP6xPCnveTPT2HPknDoi9hEH5WwSfg/s1600/IMG_1936.HEIC)
@@ -270,7 +269,7 @@ Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-r
 
 Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-re-install-wind.html)
 
-Раніше я вже зняв усе старе скло і гниле дерево, зробив нові дубові бруски 3x3x4 дюйми, пересвердлив під 1-3/4 дюйма, посадив на конструкційну шпаклівку TotalBoat і приклеїв до корпусу на епоксидці. Заповнив отвір поліефірною шпаклівкою і просвердлив на місці на 1 дюйм. Отвори фланця просвердлив на 1/2 дюйма і заповнив загущеною епоксидкою. Коли того літа стало надто спекотно, я заклеїв отвори склом і залишив.
+Раніше я прибрав увесь старий склопластик і гниле дерево, зробив нові дубові бруски 3x3x4 дюйми, пересвердлив їх під 1-3/4 дюйма, посадив на конструкційну шпаклівку TotalBoat і заформував до корпусу на епоксидці. Отвір заповнив поліефірною шпаклівкою і на місці просвердлив на 1 дюйм. Отвори фланця просвердлив на 1/2 дюйма й заповнив загущеною епоксидкою. Коли того літа стало надто спекотно, я заформував отвори й лишив як є.
 
 ![Новий брусок стійки під палубою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDFTOpJr-JzzlP9xH8c1Y_GhMKPEiIFGn58UwC4PsSXkTuU_d7U--lXELuBIeSJk6C4BqKm9WJngDTVLj8QaEL9dDp3RnL2K7Ktz4PNShlPvNGWfg9k4zKTg1Tc2lrjkpb2TSX6Ppo81y-RL4BpAgIcrcLsv_GwVg1nmJv1J2NYVAj1YJivrQpk9HBUw/s1600/IMG_2469.HEIC)
 ![Брусок стійки вклеєний склом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_zcFIe9wkFDKucHgvQ9Uh-n6x0LtMwDMVjlCw_fi0Jc1e-Wy2O5Vv6jH2wqrrxTSZG44hKvg7FoKFKSYYcDqF23L_POMHk1FpLBTsfhUBw8sLo9feWqYKk28i43nvaD42qc-0WH_10Beamyoi5bHvjQcSnk2ZQezXCMKP5B-tZoPoHioC43HsizeAQ/s1600/IMG_2507.HEIC)
@@ -279,11 +278,11 @@ Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-r
 
 Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-re-install-wind.html)
 
-Тепер: зашліфувати, розкрити отвори і чисто просвердлити до 1 дюйма на глибину труби стійки. Потім маленький дренажний отвір наскрізь, щоб, якщо герметик колись здасться, вода капала в каюту, де я її побачу. Вставити стійки, розмітити гвинти фланця, вийняти, просвердлити і нарізати різьбу на глибину 2 дюйми.
+Тепер — фініш: прошліфувати, розкрити отвори й чисто просвердлити до 1 дюйма на глибину труби стійки. Потім маленький дренажний отвір наскрізь, щоб, якщо герметик колись відмовить, вода капала в каюту, де я її побачу. Вставити стійки, розмітити гвинти фланця, вийняти, просвердлити й нарізати різьбу на глибину 2 дюйми.
 
-До цього я заповнив стійки поліефірною смолою, як радив один власник Irwin. Ідея мені подобається, але смола дає усадку і не ущільнює трубу на 100%. Я перевірив, втягуючи повітря крізь них ротом: дві з шести трохи пропускали. Тож ще поставив гумові пробки 1-1/8 у низ труб. Це був виклик. Найкращий спосіб: запхати пробку наскільки йде, обтиснути хомутом частину, що стирчить, щоб зменшити її, а потім забити молотком, використовуючи болт як вибивку.
+До того я заповнив стійки поліефірною смолою, як порадив один власник Irwin. Ідея мені подобається, але смола дає усадку і не прилягає до труби на 100%. Я перевірив, просмоктуючи крізь них повітря ротом: дві з шести трохи пропускали. Тож я ще й вставив у низ труб гумові заглушки 1-1/8. Це було непросто. Найкращий спосіб: заштовхнути заглушку наскільки входить, надіти хомут на частину, що стирчить, щоб її стиснути, а потім забити молотком, використовуючи болт як штовхач.
 
-Наостанок усе протерти спиртом, висушити і посадити стійки на 3M 4200 (знімний і гнучкіший за 5200) з машинними гвинтами 1/4-20 по 2 дюйми.
+Нарешті все протерли спиртом і висушили, а стійки посадили на 3M 4200 (знімний і еластичніший за 5200) з 2-дюймовими гвинтами 1/4-20.
 
 ![Отвір стійки просвердлений у палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizWEo2bmyDiFE8MY-fuOLwhdM1aGR79pCQY26ogt1ulsekrDXekZsT2fiLYrEkQnjz_B77Pxg0hDUxuKii6WFbLbfb-Pb2-9uBmAgQv6HgZDZNFRbmxqbGUPaUpsXRmY4uEc6t2b-9rskHUIrd_S1n73x9J8ND1SkDu_1BlSDAYQ-6oEwEPsapcJ8G1Q/s1600/IMG_3956.HEIC)
 ![Свердлю отвір під стійку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMcpPnZdd00fBIXVhAVRhHkNnEjmrDJZehUlThbcVvp7pA4twSqemPRJ79U-gYuBpzFIXrykCeRtuhB72hqdlyYTfe0hzNlHD_XRfiF9CEf19DWO904sAMckBVINoQ6ERwlXXT-ip3jRSo4AfHtzIYIsHUYEyxFtrTTld5pzoEZNmBTNvbrkCpDyfhyg/s1600/IMG_3955.HEIC)
@@ -294,13 +293,13 @@ Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-r
 
 Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-re-install-wind.html)
 
-## Лєєри з дайніми
+## Леєри з дайніми
 
-Поки озеро міліло, з лєєрами я не поспішав. Але того тижня в гості збиралися друзі з двома дітьми років семи, тож лєєри раптом стали обов'язковими, хоча до берега будь-хто просто доплив би. Найширше місце озера — менше 3000 футів.
+Озеро міліло, тож з леєрами я не поспішав. Але того тижня мали приїхати друзі з двома дітьми років семи, тож леєри раптом стали необхідністю, хоча будь-хто міг би просто доплисти до берега. Озеро в найширшому місці менше 3 000 футів.
 
-Я взяв дайніму Samson AmSteel 1/4 дюйма, поки що лише верхній ряд. Заміряв по 27 футів на борт, плюс 3 фути на сплесені, помножити на два... шість запасних футів має вистачити, правда? НЕПРАВДА. На кожному борту чотири сплесені, а не два. Чому? Хвіртка. Я це зрозумів якраз, коли взявся за останній сплесінь. Гаразд, докуплю разом із мотузкою на нижній ряд.
+Я взяв дайніму Samson AmSteel 1/4 дюйма, поки що лише на верхній леєр. Поміряв: 27 футів на бік, плюс 3 фути на сплесні, помножити на два... шести зайвих футів має вистачити, правда? НІ. На кожному боці чотири сплесні, а не два. Чому? Хвіртка. Зрозумів я це саме тоді, коли взявся за останній сплесень. Гаразд, докуплю разом з тросом на нижній леєр.
 
-Мій перший сплесінь Brummel — непогано. Для хвіртки: коуш з одного боку і оригінальний гак-пелікан. Я зашліфував і відполірував вушко гака, щоб беріг мотузку. Радіус замалий (AmSteel хоче щонайменше 3/4 дюйма), але мотузка розрахована на 7400 фунтів, куди міцніше за стійки, тож поки так лишу.
+Мій перший сплесень Брумеля з вушком: непогано. Для хвіртки: коуш з одного боку й оригінальний відкидний гак. Вушко гака я зашліфував і відполірував, щоб воно не шкодило тросу. Радіус замалий (AmSteel хоче щонайменше 3/4 дюйма), але трос розрахований на 7 400 фунтів, значно міцніший за стійки, тож поки так і залишу.
 
 ![«Віра» з новими лєєрами з Dyneema біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEvUmIwS8hlZfMekR6BMSZyp1aIwuqR8yF8RJ6feQJevVzXIE-edUdBJKCOFY3SbsgWW9hlxoVZeu6o2iDUbVXB1dyHW-E71bnd1hFAw29-Zz4Qn_MnngqI1RX7vhhp-z0cLZyj1zaic_JVhtSS5Tob2n6lQ_N0AAK55Y4LPmlw2tEVUqWHTi3CG2jYA/s1600/IMG_3999.HEIC)
 ![Кінець лєєра на кормі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijB8oa16GtV9hvwMaYF4_NiPVXFraxQuCHqMR4YX7OINcyqE6XTyW5dJQxU7K5pzSZyuAbAU2LFb5eNXEdO1_9EFK8wyp9ySxcCK9amGIYR9DE2udiVhE8LEKm2n0ISQzS4ORC_1wx2w477RfR3d5jjtkId0R84_bUlPdXdIQ4YlH9fQrt3oSPKwK1CQ/s1600/IMG_4003.HEIC)
@@ -311,14 +310,14 @@ Diary: [16 Oct 2022](https://irwin34.blogspot.com/2022/10/day-52-1016-day-water-
 
 ## Протікання, одне за одним
 
-У відпустці в листопаді 2022-го: усе на палубі, чого я не торкався, протікає. Нові поручні, на болтах знизу і на бутилі. Двогодинний тест водою — без проблем. Усі місця, крім одного, отримали болти 3/8. На довгому лівому поручні одна вставка розхиталася в дереві, тож другий болт став великим саморізом, десь на 1-1/2 дюйма в дерево, між двома болтовими точками. Компроміс, але має прожити роки.
+Моя відпустка в листопаді 2022-го підтвердила головне правило: усе на палубі, чого я не торкався, протікає. Стали нові поручні, прикручені знизу болтами на бутилі. Двогодинний тест водою проблем не показав. Усюди, крім одного місця, пішли болти 3/8. На довгому лівому поручні одна закладна вставка в дереві розхиталася, тож другий болт став великим саморізом, десь на 1-1/2 дюйма в дерево, між двома місцями на болтах. Компроміс, але має прослужити роками.
 
 ![«Віра» з носа з новими лєєрами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbVwnyqjSoDo6RspiLrPmRG9CsqGc1B-FKd0gQOKLrhS6dv5aBvH1q22ZD9hEyo_IqZdAmgPcmMjN5Zpp5nemCoaYzWGbDbxFcVCIihBCRPoRAhkLsa2WwxewwlLQbTvpb9-z7NSUu4QhMNydKNG3SxKywP12E-g99EXJ1tz5qicGOvORBE9Rk3g8d3w/s1600/IMG_4127.HEIC)
 ![Ізоляція і дерев'яна рейка в каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuuuDV9e6TVaVS9ksa9edwuAS98bimfqq55_t7vkd8sbMOfSNx-6EHMlba-unnoX3keiJJD-6O0FmeiDPJTIb7mbLP2wK_-8CCWPkjDwnhA31EA8JXdlp5a87nNE5XV_81PNeWqdd8xYU1TmmZCAPKh1MW5e7K1uTJ5gdpb_rOiB6fMtEUcV8lJCm3IA/s1600/IMG_4121.HEIC)
 
 Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-1028-112-36-hours.html)
 
-Я поняття не маю, ЧОМУ рейку гіка-шкота кріпили на шурупи по дереву, але це КОЛОСАЛЬНА можливість для протікання. Переклеєно і на місці.
+Не маю жодного уявлення, ЧОМУ раму погона гіка-шкота кріпили шурупами по дереву, але це ВЕЛИЧЕЗНА можливість для протікань. Переклеєна на герметик і повернута на місце.
 
 ![Погон гіка-шкота на даху каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjngtyIb8skV-ZtYrA3_z_RHi1HJRD365WnDKFadU2WKG7ssj8TWocmlmpKlGxjFpUX3VW-sanxEcD6kSEBfLgtJFKsf7sggd5776IVl6Z8Ir-54aK5NbZKbPw6np6Xzql0hw4IWdVhKkZ87HKtQ39GSaBdAHfqSwy5zdO0zTQGxME1Az-g6Sir9BoWg/s1600/IMG_4050.HEIC)
 ![Погон і старі отвори від шурупів](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT6c1TCnFqoixgGOWwlg7LfkeprLp3FiDa1Xtcpl5gLoCrvqxYf8dlOZbHm8X6gaE9_P_NXnUafF-f6C_40h__eTUsGWBsRIfY4WyxBTdmjDiGU276jU8wxLPZfdUlSjsSwE7G7DWsfkTZnttV1tMEB6D1LyMtfTUBdhqQgTrjbIBPEEpU09MH8rACzA/s1600/IMG_4051.HEIC)
@@ -327,7 +326,7 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-1028-112-36-hours.html)
 
-«Гусак» шверта: шурупи замінено на наскрізні болти, на бутилі. І переклеєна утка шверта.
+«Гусак» шверта: шурупи по дереву замінені на наскрізні болти, на бутилі. І стопор шверта переклеєний на герметик.
 
 ![Основа поручня на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1zmWeVwOiLynT72yugc6GKRMtRdZa25ZwSGGtzpdE_leyk1nV2TH7EFTstiiVPe7y6VrF_EckMu_44VISJuP2EPMVZpHjxR8NAtIvlkayF1llidwrt4NYWQ4I2iw1XJlbb9XjMoquc8rN2o-wxrg9AiY4HwxV_ujx0HCVtOP1auwFL4tukGCuIQW7IQ/s1600/IMG_4125.HEIC)
 ![Болти погону зсередини](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEmT6wlGSbE-v60qt5JgzCEv-sAe2r5H1r8S915TcNTVjtWma_hbrw1yA0mk5oSchxiwiq9w_oXDMUSG8SjIe-7ZvbkVUT4eoQclJwxQzeGM7bXzAHZf0LaTpVRpPH1k1l6854JIEO04PspoO05LxGzEKP3Z1CRqYAuItN7gQJ8qn6Y4ZyNC4-W0ULig/s1600/IMG_4124.HEIC)
@@ -337,14 +336,14 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-1028-112-36-hours.html)
 
-У грудні носовий люк перешліфовано, переклеєно і зібрано назад. У червні 2023-го став дефлектор і дренажний отвір у дораді.
+У грудні передній люк заново прошліфували, посадили на герметик і зібрали. У червні 2023-го він отримав вентиляцію, а дорадна коробка — дренажний отвір.
 
 ![Дах каюти з дефлектором дорадної коробки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-f4wBipjXm79UiNIFfiN1SDaHuORD3Sab6YiQDBjb2L6-Ct0u9nN3AObP6wD2kDTFwUdI4aIKHagCy_pwUYm51Gcu2-ICM8KnCHP0lCXNqpvX0yIJ4Gz3jz4OrfTfbO98CzC2dhczNXcC9IjWfOqA0BqY-IMExrNtgbUCqyIFI-p6eVtXxlQXMzXRe_y/s1600/IMG_5939.HEIC)
 
 Diary: [17 Dec 2022](https://irwin34.blogspot.com/2022/12/day-69-121722-front-cabin-walls-and.html)
 Diary: [24 Jun 2023](https://irwin34.blogspot.com/2023/06/day-95-61724-galley-countertop-final.html)
 
-Червень 2025-го: кнопки для чохлів на люки. Так, я наважився і просвердлив палубу. Через кілька років це може дати дрібні протікання, але чохли продовжують життя склу люків і дають трохи тіні під техаським сонцем.
+Червень 2025-го: кнопки для чохлів на люки. Так, я наважився й знову просвердлив палубу. Через кілька років це може дати дрібні протікання, але чохли продовжують життя склу люків і дають трохи тіні під техаським сонцем. А якщо протече — ну, правило я знаю.
 
 ![Чохол люка на даху каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqG4nsQ5W38Cdgbgjna6xD4qF_9glxZfZaz9zonpwnkcl4MDeUbwI5oUEiwPJ9A1_8alIIfwR9e_LoIDLX9jMJn_soXXUp8pUTCFAMiZ_OsCRp3-Uugg10Ag2cn_P7DHUrsAl5uKDwHr6NC4Om-w6D3yX1EjWhDvef4OVp7bUDa9-HUi0dE7LH4KW3znm/s1600/IMG_0870.HEIC)
 
