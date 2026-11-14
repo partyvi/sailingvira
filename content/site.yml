@@ -9,6 +9,7 @@ blog_url: https://irwin34.blogspot.com
 # Boat diary tab (later diary.sailingvira.com)
 diary_url: https://irwin34.blogspot.com
 youtube_url: https://www.youtube.com/@sailingvira
+youtube_channel_id: UC5nlckZF-OqIv8O35Z_qRgg   # used for the video player when YouTube blocks the build
 # Contact form address. FormSubmit sends each message to this email. After the first message is
 # activated, FormSubmit gives a random alias: put https://formsubmit.co/<alias> here to hide the email.
 # Empty = the form is not shown.
