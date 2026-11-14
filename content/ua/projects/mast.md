@@ -6,19 +6,18 @@ order: 1
 description: "Огляд топу, сходинки на щоглі, спуск, покриття Nyalic і налаштування."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpcN0OMu-xRUIoO_nuoqDctoFmus5xFdlhfKtMey18d6gZB0HBhwsW47Lc6AdLuwM4vdMGRhiu38-Z12aVFL4OMQHFykRRcFw8MTLVNcA7zSTnZvIDI2t5lhGgJw8UkZJvL6LXhsvxS3sSFlq2ObIwBAXwDGCAFwTClnCnrIwLQI7HDdIK9GI0qtZlFQ/s1600/IMG_3396.HEIC"
 ---
+Щогла на «Вірі» навіть не її власна. Колись човен утратив щоглу, і та, що стоїть тепер, — з Irwin 30. Відтоді ми з цією прийомною щоглою багато чого пережили: я на неї лазив, ставив на неї сходинки, знімав, зачищав, покривав, ставив назад і налаштовував знову і знову.
 
-Щогла на «Вірі» навіть не рідна. Колись її зламало, і та, що стоїть тепер, — з Irwin 30. Я на неї лазив, поставив на неї сходинки, знімав її, обдирав, покривав, ставив назад і налаштовував знову і знову. Відносини складні, але стабільні.
+## Перший погляд згори
 
-## Перший погляд з топу
-
-Квітень 2022-го, дуже спекотний день. Лізти мені було ліньки, тож я відправив на щоглу телефон, щоб хоч якось оглянути.
+Квітень 2022-го, дуже спекотний день. Лізти мені було лінь, тож я відправив на щоглу телефон, щоб хоч якось її оглянути.
 
 ![«Віра» біля причалу з тентом над гіком](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiplB2giGNIw1L2b1XNG-u1bk8iKhABPbZNJlqU5uFjeS9wIvATx0uHT4ddIqA-K5htBKXRm3k62NlqNWZadsX5rbUsLibNOuPH0HEdAefbCgrAKRypNPPJXU68oj9M5ESn115Q-8fgq59HM7j-zLvKxZkiuOUCytiopkYNz5PvdlEhUR_0DnnAz00_2w/s1600/IMG_2576.HEIC)
 ![Топ щогли з телефона, піднятого на щоглу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisXR3blB4E8A11n7_B6SYlUyUHRtqI_--dLA2QCjA4N85_6SlRZ3b1u8ELswB2iLlCAPDkZEBPstIQ6NVBy1nlWRKuc5gEU8klMy9CqFlBMEb3ZjwwxDJV_MibpQ0SqgpGoRND8W2Sai1Y-5CDKHdgr0DG9gfwsZElwQUuc-yQa6wECRveOwTvazW5NQ/s1600/IMG_2574.PNG)
 
 Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionway-slides-deck.html)
 
-У червні я визначив закрутку: Hood Yacht Systems 800. Ще треба перевірити розмір, щоб знати точну модель. Інструкція є онлайн на sailboatowners.com.
+У червні я з'ясував, яка в мене закрутка: Hood Yacht Systems 800. Ще треба перевірити розмір, щоб знати точну модель. Інструкція є в інтернеті, на sailboatowners.com.
 
 ![Барабан закрутки Hood 800 на носі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39aFyivnav6p8VJ8CYVsdluzkaM-Ir9sj4_NoFrb2eC0ZR-Bzvponj9JH_sM6NlYKkBNFeyA-j2dDYLFAe58jjs5iy5vLYidrl1r8YYz7UWQsZSs0LvMG8P3sHlZpiENrTAvlbyROfTQueugtRRveGXUtDX2IZ2NNaLSkcpnq8l7zNx0ouOKGbu-31g/s1600/IMG_2906.HEIC)
 ![Профіль і барабан закрутки зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4IDIGr-pEBV6Qo28aIetTUUEBqjea4_tWwIqma3fe7g1gOvXO5sVi_-uGYOnxZyoDJhFmrMMX7-HCblq-fRIOZPLq8HPIYnNfkHFAQB0m6DOFX230A_FHZuhTHs-mgpfrnrDK7GBKqxrWWYVjwhcD7mDVGLV4H8bbeiLimO5nKV83R-z6Q5XlkP2ng/s1600/IMG_2900.HEIC)
@@ -27,7 +26,7 @@ Diary: [30 Apr 2022](https://irwin34.blogspot.com/2022/04/day-24-430-companionwa
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-У липні мій друг Євген Коноваленко виліз нагору подивитися на ванти, з'єднання, топ і блоки. Ось права краспиця, а потім ліва.
+У липні мій друг Євген Коноваленко піднявся нагору оглянути штаги, з'єднання, топ щогли і блоки. Ось права краспиця, а потім ліва.
 
 ![Погляд униз зі щогли на причал](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1P-M0i1SqPOkQNhuQUyW0Aw3thyFymIFyuFhNtg57MGSgydXuScXesT_fBsQR5sjVEPX3dUqzoHAUGOFoO-ExVVBIHCA9HjEkyPAToKcR1ZbTGuZ5T9xaev18ihAaRH8iZbVOq5p7N6-LhaXdk6ZxejENvQ0u3dxpCykVB4m3MPunaiyM3E8xgD5Czw/s1600/IMG_3036.HEIC)
 ![Євген лізе на щоглу оглянути такелаж](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5PpLxb8ZlOkUl8fkg5QVufBW96hmHeZz-mrAbMri3QY4xyZDojlBe6x9twKMDZj6wF0MsRk4hYsZEc-0v8SAI94IQ7897cQDKQwLYc5apCpvn-GV8iQitDf9GscU3TXZIQPyQ8kD-N9ql_ln8niFm3yRYvR40cJyDKADFekrxlOFEfhNi7WToKF4csg/s1600/IMG_3096.JPG)
@@ -56,7 +55,7 @@ Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fre
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-Чохли на кінцях краспиць майже розсипалися. Треба міняти.
+Чохли на кінцях краспиць майже зникли. Їх треба міняти.
 
 ![Старий наконечник краспиці, заміряний на верстаті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAwckGoWC1RTKci_Zj3WpmdAVZ2FgcyTLPpnSXbsj2mWpQ36QIc6Yk_gu2bgVpQN0w_9JYKPK80G-WmivR-a3MM2jFzlix0T4u0eEoYCC5L6mP7eK4L_Y5bKbtqjswRgMkd19H8YUNtRzaqDxwYi1d3Pta0g83QW5DhObYQCswiqVUU98AvHBIMPAdUA/s1600/IMG_3081.HEIC)
 ![Наконечник краспиці, заміряний рулеткою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsHOBN4282DVhmb3dsmNUjuIrzt9qhWXdHdC6DtSy5mjHAlzjbP7TSz71lf6g09TTia_kUSJm5u1Pj70_R_WH9SlNkeJVMAEOA4-79u_42EY4zqvx-wv7_TzuWVWbDHl_tZSN6QtZI7CU7RovghgA4y20Z5oU2iQn5_ZuS_PkFUmEF4B4IrDHAhm6aNA/s1600/IMG_3080.HEIC)
@@ -64,27 +63,27 @@ Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-cl
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-Тих самих вихідних я поклав гумовий ущільнювач на кришку моторного відсіку (віконний, на зараз згодиться) і підрізав верх переборки там, де вона впиралася в товщий заповнювач кришки.
+Тих самих вихідних я поставив гумовий ущільнювач на кришку моторного відсіку (віконний ущільнювач, поки що згодиться) і підрізав верх переборки там, де вона впиралася в товщий заповнювач кришки.
 
 ![Старий заповнювач люка кокпіту на верстаті в гаражі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuXpMrbCoyxKV_f0XGxjrwXjdfRdYrMhJldcmC8eLHZ-h8s-PDvuiJYFxHFF9u3uY_7NRJnalqEKLD4Neircze7wJpVsKx8NGl1cCUIisq7zK1bT5qw0nWaLmaKYJDuIvaAGV_Ib7JMyg0Na0xGu5z5SxgvutmPu0uUdcdJacVGsuzJxqGxo7udibKCA/s1600/IMG_2992.HEIC)
 ![Гнилі шматки заповнювача з люка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRIKMXFzURZtaiupOVx_W3NjR18TPkVIRuFfqGcocdW_dWSzOIZjRFHuE5APyaDImR5fPRRnkYH7a0bATZpMeVVR6Sml-MnhwdqOEuvlWjrZASPouV7y9-YKU_Daw7kvI4cGPF1RH3qr51EKrXdGTuUIqwlLu_ykERVSpwXRalFBqztKppeqs7CMpulg/s1600/IMG_2993.HEIC)
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-## Роблю власні сходинки на щоглу
+## Саморобні сходинки на щоглу
 
-Мені дуже треба самому обслуговувати щоглу. Я бачив на YouTube відео про саморобні сходинки і захотів такі самі.
+Мені справді треба вміти обслуговувати щоглу самому. Я бачив на YouTube відео про саморобні сходинки й захотів такі самі.
 
 ![Креслення сходинки на щоглу з розмірами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp4xXXs6amj1J4XMF449CmC-ciOgmDIEBFJrCAOG2-NchXKFxD0GbASmdL-UaCblVDL0ZU9lFRThV6dXKRfTqq08yu6YYfxxZwsw0TPvkGYTtEW3S5y9LZxYPDF5o1l8xPF_225fsD9i97fRblPSaC2rNBTvSTcF-BtYYY0W-J7BO31i7rcprF6f9Cfw/s1600/Mast%20step%20drawing.png)
 ![3D-модель алюмінієвої сходинки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TyoS0-4d1kf9EFgt6V1uR_Sa2eiZpLf_goHiKIPzS9uB5exnVQDBuWrrtRLtSse665HpkkKPCLrJPlGj2VhtgQvMddXPzYJWGE-Acj1xM84CbryPu17eBfLMgea-HHa999U0c-GSeMb6y368O4WWBBW8v-r1i9VZUnuhSGIfCKM2plNL1BAvmPQXFA/s1600/Mast%20step%20model.png)
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-Як заготовку я взяв алюмінієву смугу 6063-T52, 0,1875 x 1,25 x 12 дюймів, з Xometry, по $1,44 за штуку. Спершу пробував гнути в лещатах, але згин на 90° через гострий кут дає забагато напруги в металі, губки лещат лишають сліди, а гвинт лещат заважає середнім згинам. Потрібен був згинач із радіусом. Купувати такий на одну роботу — забагато, тож я зібрав його з обрізків у гаражі: 10-дюймовий шматок сталевого кутника 1,5 дюйма, дві сталеві смуги 1,5 x 0,25 x 16 дюймів на важіль, три болти 1/2 дюйма і чотири кулькові підшипники з отвором 1/2 дюйма. Посвердлити, трохи підрізати болгаркою, скрутити все болтами і прикрутити до верстата.
+Заготовкою була алюмінієва смуга 6063-T52, 0,1875 x 1,25 x 12 дюймів, з Xometry, по $1,44 за штуку. Спершу я пробував гнути в лещатах, але згин на 90° через гострий кут дає забагато напруги в металі, губки лещат лишають сліди, а гвинт лещат заважає середнім згинам. Потрібен був згинач з радіусом. Купувати його для однієї роботи — забагато, тож я зібрав свій з обрізків у гаражі: 10-дюймовий шматок сталевого кутника 1,5 дюйма, дві сталеві смуги 1,5 x 0,25 x 16 дюймів на важіль, три болти 1/2 дюйма і чотири кулькові підшипники з отвором 1/2 дюйма. Просвердлити, трохи підрізати болгаркою, скрутити все болтами, прикрутити до верстата.
 
-Зазор між віссю і підшипниками мізерний. Я підпиляв отвори під підшипники, щоб смуга якраз пролазила. Три отвори у верстаті з вставленим кернером зупиняють смугу щоразу в тих самих місцях, а вертикальна стійка показує правильний кут згину.
+Зазор між віссю і підшипниками мізерний. Я розпиляв отвори підшипників так, щоб смуга якраз проходила між ними. Три отвори у верстаті з устромленим кернером зупиняють смугу щоразу точно в тих самих місцях, а вертикальний стрижень показує правильний кут згину.
 
-Тридцять хвилин на інструмент, двадцять хвилин на всі згини. Двадцять шість однакових сходинок.
+Тридцять хвилин на інструмент, двадцять хвилин, щоб зігнути всі деталі. Двадцять шість однакових сходинок.
 
 ![Сходинки, встановлені на щоглі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ36Fc4UCjKAXbgEEXZDH6S8gDpizzV0aGp9zj0ga1MpklqeYPAcByumJVTD7zBkH-8BpD8qXXLOvJ5J0u1-v5GyjjS8I3hFiArR77-AhFqXBBldpDdhqTF06D7x36vkmcSFHsfhiAKMiatiKL3EIQ5z90HxEJ34QM2jhhpWRU0CUCQeGgjtKC3WburA/s1600/Steps.png)
 ![Саморобний гнучий верстат для сходинок](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiM7tVWqJ3IqQIl6PlNnLNygSKCIgPolvh0DHOWeV9lV1jWN7Vv43PBlp4up-gDNU0I1zYviz-Ocxfh5hRGz1jEh9LWfayyUt9CJclDrZuIXm5BlPBCJHROz-juPLGYjkdRa2aH3pyL2haLGpoIBd3fSvkc5-dtlDZfJY6ZBjGzajPVKR90GdyFMGa7w/s1600/IMG_3367.HEIC)
@@ -95,19 +94,19 @@ Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-cl
 
 Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/mast-steps-fabrication.html)
 
-Потім я їх поставив, назавжди. Чому назавжди? Бо 99% часу я ходитиму і доглядатиму цей човен сам, і хочу діставатися до топу легко і безпечно. І поки хтось не сказав, що так не можна: так, я трохи втрачаю в швидкості, додаю ваги і, може, трохи міцності. Два отвори по 4,7 мм на одному рівні на периметрі щогли 500 мм — це близько 2%, ніщо порівняно з виходами фалів і отворами під кабелі. 6063 слабший за 6061 чи 5052, але добре тримається проти корозії. Виглядає трохи дивно, але поки я їх ставив, двоє людей, що йшли причалом, сказали, що хочуть такі самі. Мода пішла.
+Потім я їх встановив, назавжди. Чому назавжди? Бо 99% часу я ходитиму на цьому човні й доглядатиму його сам, і хочу діставатися до топа щогли легко й безпечно. І перш ніж хтось скаже, що так не можна: так, я трохи втрачаю в ходових якостях, додаю трохи ваги і, може, трохи міцності. Два отвори по 4,7 мм на одному рівні при периметрі щогли 500 мм — це близько 2%, дрібниця порівняно з виходами фалів і отворами для кабелів. 6063 слабший за 6061 чи 5052, зате добре тримає корозію. Виглядає трохи дивно, але поки я їх ставив, двоє людей, що проходили причалом, сказали, що хочуть такі самі.
 
 ![Щогла з постійними сходинками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpcN0OMu-xRUIoO_nuoqDctoFmus5xFdlhfKtMey18d6gZB0HBhwsW47Lc6AdLuwM4vdMGRhiu38-Z12aVFL4OMQHFykRRcFw8MTLVNcA7zSTnZvIDI2t5lhGgJw8UkZJvL6LXhsvxS3sSFlq2ObIwBAXwDGCAFwTClnCnrIwLQI7HDdIK9GI0qtZlFQ/s1600/IMG_3396.HEIC)
 
 Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/day-38-39-723-724-mast-steps-installed.html)
 
-## Штаг і закрутка знову нагорі
+## Штаг і закрутка знову на місці
 
-На штазі вгорі була порвана жила. Спочатку я хотів міняти весь трос, але пошкодження, найімовірніше, від того, що на нього намотувався фал стакселя, а решта такелажу була в пристойному стані. Пошкоджені лише верхні 2 дюйми. Тож я вкоротив його згори, поставив новий клин у Sta-Lok і додав унизу дві саморобні пластини по 0,137 дюйма. На щастя, закрутка це дозволяє.
+На штагу вгорі була порвана жилка. Спершу я хотів замінити весь трос, але пошкодження, найімовірніше, було від того, що на штаг намотувався фал стакселя, а решта такелажу була в пристойному стані. Пошкоджені були лише верхні 2 дюйми. Тож я вкоротив його згори, поставив новий клин у Sta-Lok і додав унизу дві саморобні пластини 0,137 дюйма. На щастя, закрутка це дозволяє.
 
-Вийняти палець було тим іще викликом. Попередній власник поставив з обох боків шплінти з чорної сталі, і вони там прикипіли.
+Витягти палець виявилося непросто. Попередній власник поставив з обох боків шплінти з м'якої сталі, і вони прикипіли від іржі.
 
-Потім ми повернули штаг і закрутку, і щогла стояла без жодних додаткових підпор! Кумедно: після натягування штаг вийшов якраз потрібної довжини, щоб з'єднати профіль із барабаном. Готові до генуї, відремонтованої за $140.
+Потім ми повернули штаг і закрутку на місце, і щогла стояла без жодних додаткових підпор! Кумедно: після натягування штаг вийшов рівно такої довжини, щоб з'єднати профіль з барабаном. Готово до генуї, і ремонт обійшовся в $140.
 
 ![Топ щогли з новим Windex](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTjPv2mFqKb-G9AeLGgzFV-iZ7w5oeBRns8LnumeyFzDZn-0GyQWyFXUctl2R2ttYi5DiobKH2kUyBg6fns2Dse-5g9n5xnO-1xhygqAuDiM2Ej1OqSqBMrB5c21m031aaTwpzAMdwdF10M3NkIbUkEGSUA_Pu_ZiE6vGyUEN2KGhg2hkcuxud5C8cA/s1600/IMG_3404.jpg)
 ![Наконечник штага і трос зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXT35pAcl3dos20tLJ7g5GU1ho5hgb61hoEGuI0MUVIQEHq3mmPUFbutqp0B73Nf9CpOrKV5txDBoGtu7a8KhW1UuwBaqcaQfVpz8kvsAtagMlS07gA9TWI8HTj3Tbqo3GXTeAHhbIuoNbBl-ixP6KOXrVO_fLbw6BlYQcismtN_WPNFO-4OsFuBmj-A/s1600/IMG_3022.HEIC)
@@ -118,14 +117,14 @@ Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/day-38-39-723-724-mast
 
 Diary: [29 Jul 2022](https://irwin34.blogspot.com/2022/07/day-40-729-front-stay-furler-port.html)
 
-Серпень, готуємося через два тижні вийти на озеро. Усі ванти натягнуті і відрегульовані, закрутка полагоджена, генуя на місці. Ремонт вітрила — це порваний УФ-захист і кілька стібків там, де воно торкається краспиць. Як нове. І так, генуя 34-футового човна — це дуже багато тканини. Закрутка працює добре.
+Серпень: готуємося за два тижні вийти на озеро. Усі штаги й ванти натягнуті й відрегульовані, закрутка полагоджена, генуя на місці. Вітрильна майстерня полагодила порваний захист від сонця і кілька стібків там, де вітрило торкається краспиць. Виглядає як нове. І так, генуя 34-футового човна — це багато тканини. Закрутка працює добре.
 
 ![«Віра» з генуєю на закрутці біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgId6JiLHj9CKibOdzVtHPRqLimWzf_b4w6G-QJlsbArvi6jfl3zOegycjRpVuS-pphPjC3BofUILykIrBzWF4qX6g-HiIyIPnOkZUY_t2tPQK_XatOR33g_fB_bjiXidPC77vG7MgNy2pLmRF5jEulXDCbaTFO4YsKunJFZ7Qvnz7PsPt87zyP-spBPw/s1600/IMG_3545.JPG)
 ![Сходинки і топ щогли на тлі неба](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjr3203l1GCZU_wjJY_Lp2HLu5F2PNBsbJiLjS4dBlmsq1RkNTky0pvYK4Ia9Hmc5QG7JgIOKlW6mdIgECZn5OXdO4frVX9qbCnawhDFq2vagNgZm8YdCEnlAhtC1IjuhgcxP20a-hkUat2sBNs0e5O5RR_ukMYhxk94IMFbPGXAXvw9cg-yBrhi-zQ/s1600/IMG_3538.HEIC)
 
 Diary: [6 Aug 2022](https://irwin34.blogspot.com/2022/08/day-41-86-put-front-sail-back-windex.html)
 
-Ще одна вилазка на щоглу, тепер зі сходинками — дуже легко. Я хотів флюгарку Windex, але спершу треба було переконатися, що антена УКХ їй не заважатиме. Тож антена теж поїхала нагору, а оскільки її кабель був дуже старий, я замінив і його, аж до литого роз'єму на топі.
+Потім ще один підйом на щоглу, тепер зі сходинками дуже легкий. Я хотів поставити Windex, але спершу треба було переконатися, що йому не заважатиме антена УКХ. Тож нагору пішла й антена, а оскільки її кабель був дуже старий, я замінив і його, аж до литого роз'єму на топі.
 
 ![Щогла зі сходинками і краспицями, погляд угору](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2nO3yX7JwNZXHdLsc6V9AAk4aA0bxOMlhRhLm7MNO8w9FlqkfYWnlD7g_Se5ZXkCSNiNssTdVW7XqN9bHSLZVTNkyNTzcf3EM6l0RT4zlH_UZAQnSqwBZYzPiJ5fKWfY9eAupnvOP8Bd5yt9bPXrfS6Os7Ci-xjt-106u4BxGN29ojxwzhwX79sjZ-A/s1600/IMG_3539.HEIC)
 ![Картка-шаблон Windex](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDMbWXP5-cyhjw-p2fBX8fcmrxdkEqnOzecMJLblyXOfT9Q5m2xBsJw4Ct-dgq8EI-e3nGxF4i9o0LnMLlnHTTljLtNe9crrGvbc9TNYcN5EuCvTlSfn7H2ffztWo_qTlKQEuOsT4htoAuNDm8b3zj1vLwrMBu1PtM5NQ4APbAG9uouDSacEiIbNYiGg/s1600/IMG_3544.JPG)
@@ -134,28 +133,28 @@ Diary: [6 Aug 2022](https://irwin34.blogspot.com/2022/08/day-41-86-put-front-sai
 
 ## Дрібні нотатки
 
-У листопаді 2024-го записав кілька розмірів для кронштейна гіка-оттяжки.
+У листопаді 2024-го я записав кілька розмірів для кронштейна жорсткого відтяжника гіка.
 
 ![Ескіз кронштейна відтяжки гіка в блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjviad0bd8lA8ZkRQaGgkKK5Frcey0vrgUwCMxqlWbD4d9A2wEy_dI_YTWE4nB-2rNp3FWoGnC804zSmuH-K-tozPBL3hCwWCfqqsnD_9-xPiMsEw57fCM5ltsOWDHGuUx-EZF-uyhv3X7bUiwacFH6T_gx2IA05-NNd3vwzaQSfZQbNrF3BR2hJOM04feH/s1600/IMG_9273.HEIC)
 ![Картонний шаблон біля щогли](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLX5nCd0QXVdFlilPpNWApdezYR3gO5EzIv2VJhj4LP97etowH3AAWxVB_cXmD5751A15UFL3SdBgHwT4u4YbHJ1JlZrRX0y4XNBmKLVGMVfk62fubT-GQxQ0P7eAvh9WBZFIIYwtShK_ThpntlQUrP2SfuhB0uEWx9pyEQUSMQJHUDX7Y2y_N7p6INOcc/s1600/IMG_9270.HEIC)
 
 Diary: [2 Nov 2024](https://irwin34.blogspot.com/2024/11/day-173-102624-old-cabin-sole-plywood.html)
 
-Гусак гіка дуже втомлений. Треба подумати, як його перебудувати чи хоча б полагодити.
+Гусак дуже втомлений. Треба подумати, як його перебудувати чи хоча б відремонтувати.
 
 ![Втомлений вертлюг гіка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhTvYGvLlWG-oVKcpkjcCfwiGepEKAA_BSM-VLXgoJjXKuCLojilF0hXdIx7J4dTE2GOhk9YDcdVLDTnFBiyO9oTjivh567jzWHnsUaChX4Gi7jt76dSvSVfVWHt_fdFaJ7gYrcRNNfpzBLtKD5Ac2JwitmR_zu0B3tXondrFkiciV17K7IgA4qq9b_gJ/s1600/IMG_9268.HEIC)
 
 Diary: [2 Nov 2024](https://irwin34.blogspot.com/2024/11/day-173-102624-old-cabin-sole-plywood.html)
 
-У січні 2025-го я додав фал на кінець гіка як запасний топенант. Знаю, топенант має тримати 400 фунтів, але я хочу бути впевненим на 100%.
+У січні 2025-го я додав фал до кінця гіка як запасний топенант. Знаю, що топенант має тримати 400 фунтів, але хочу бути впевненим на 100%.
 
 Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-haulout-added.html)
 
-## Міряю все
+## Міряємо все
 
-У вересні 2025-го мій син виліз на топ, і ми провели вихідні, міряючи все для синтетичного такелажу. План: штаг лишити в нержавійці, а все інше замінити на Colligo Dux Dyneema. Я звів усе в таблицю для Irwin 34 '78: висота щогли, кожен розмір, аж до кожного пальця.
+У вересні 2025-го син піднявся на топ щогли, і ми на вихідних поміряли все для синтетичного такелажу. План: залишити штаг з нержавійки, а все інше замінити на дайніму Colligo Dux. Я звів усе в таблицю для Irwin 34 '78: висота щогли і кожен розмір, аж до кожного пальця.
 
-Кінцевики зроблю сам, принаймні на щоглі і на кінцях краспиць.
+Для кінців я зроблю свої деталі, принаймні на щоглі й на кінцях краспиць.
 
 ![Щогла і такелаж під важким небом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQJV806c0ZyCQI1jhGjMqKPWNShWoJwXMhFRioqalTyUA-KtWstkUIHIZAXf5mJnCi4NNKaGjVr7qMaRNW9t42NKmgXI84KZLwyzShyphenhyphenos9Gkikr3nuc42H-uv7h3FYzb3fHfaB3fh7MYgIeCYT1SmIovKM2FQcEysOjpsmfG7ad1WYnXaiTbchbnb9ATp/s1600/IMG_1221.HEIC)
 ![Таблиця замірів такелажу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4K1WW7DdbU5_ZWX0gMytCvSTGkFrr2yhaZ1lIADxhZumCbn0-mqNrr3gOfqH8_zUoEIcY3GaXHv5Z9NviP4_0RnKiCKJUmmdgBI-aZ-_h3pS-_Kcb74eu9_e5ApiXged9KkE1StqShyphenhyphen-FcW3ZVT8zPTYzRgPzLs23YdC4rSZVKD2ay0jINPQYa92nPTd/s1600/p12.png)
@@ -163,7 +162,7 @@ Diary: [1 Jan 2025](https://irwin34.blogspot.com/2025/01/day-182-1125-engine-hau
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-Найцікавіше було проєктувати кінець краспиці. На човні розрізні ванти, з'єднані на кінцях краспиць, спочатку чимось на зразок маленького путенса. Для троса годиться, для мотузки — не дуже. Я хотів з'єднати дві частини топ-ванти якомога надійніше: без різких згинів, щоб мотузка не терлася об мотузку, без згинального навантаження на кінець краспиці, і щоб усі сили сходилися в центрі, якраз там, де болт тримає наконечник. У підсумку — два кінці сплесенів, зачеплені один за одного і скручені навхрест, і наконечник із вбудованими коушами, що повторюють цю форму.
+Найцікавіше було проєктувати кінець краспиці. На човні розрізні ванти, з'єднані на кінцях краспиць, спочатку чимось на зразок маленького путенса. Для троса зі сталі годиться, для синтетики — не дуже. Я хотів з'єднати дві частини топової ванти якомога надійніше: без різких згинів, без тертя троса об трос, без згинального навантаження на кінець краспиці, і щоб усі сили сходилися в центрі, просто там, де болт тримає наконечник. У результаті — два кінці зі сплеснями, зачеплені один за одного й перекручені назустріч, і наконечник з вбудованими коушами, що повторює цю форму.
 
 ![Оригінальне з'єднання на кінці краспиці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihU0oQjFdDe2oKFNua-HlFLsZNSSxZViDnqkhp9h-BEFE6VvZjYS1WoBB-7YY_Ej-AU_k2nc7it5FTSgqGiFngRlH9lJyKZYIbQeB6ytpbCt4FdVKRRzG0gJHG0E79HqjNmQ8BTt-HvxW25CeyBmpDEfJiJ5eKCYfK7CWTj3Ch8WU9LNlI2BAWJO1MCaOD/s1600/IMG_3044.HEIC)
 ![3D-модель коуша ванти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdV2vgyDHzbgVj3l6jjGwCOX7P9yZD1xOoH_c1EDCgzPzia5sQRpijFVlXHOn2So1d0aoy4ufVyfyhNWR6C1ds4Exri9Wep3RNpenIvVT5Er6qeWYNHv2AbYG8Phn5yxOHovM8JH2-6EfPZrWh3S8vIcrmqvKp_4v78pRhKnIJtUGxQs4CmeyMuFjcFisg/s1600/p1.png)
@@ -172,7 +171,7 @@ Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-riggin
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-Найважче було з коренем краспиці, де кріпляться нижні ванти. Я довго думав, як це взагалі зробити. Зрештою: сплеснювати на місці. Протягнути кожну нижню ванту крізь обидва пази, через корінь краспиці, і сплеснити внизу. Радіус згину виходить 1:4,4, менше рекомендованого, але я переконав себе, що втратити там 10–20% міцності — нормально. Я спроєктував вставку, яка веде мотузки і розподіляє навантаження на корінь. Пази зараз 10,5 мм, тож підпиляю до 12 мм. Низ нахилений, щоб ванти виходили у свій бік без згину, а отвори профільовані, щоб продовжувати радіус. Найгірший випадок — передня нижня ванта, що йде до свого путенса під 6° у плані.
+Найважче було з коренем краспиць, де кріпляться нижні ванти. Я довго думав, як це взагалі зробити. Зрештою: сплеснювати на місці. Протягнути кожну нижню ванту крізь обидва пази, через корінь краспиці, і сплеснути знизу. Радіус згину виходить 1:4,4, менше рекомендованого, але я переконав себе, що втратити там 10–20% міцності — нормально. Я спроєктував вставку, що веде троси й розподіляє навантаження на корінь. Пази зараз 10,5 мм, тож я розпиляю їх до 12 мм. Низ нахилений, щоб ванти виходили кожна у своєму напрямку без перегину, а отвори мають таку форму, щоб продовжувати радіус. Найгірший випадок — передня нижня ванта, що йде до свого путенса під кутом 6° у плані.
 
 ![Оригінальний корінь краспиці з тросом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5_iqGkv0hxAr9D90_BZ9Wz2YleCFvkYBuDQNd27x8iKHqSesW4QqyQoEvmTTP2R5NASfEj4lNVGus__LeY_FnpBQcydkPCoUSecFRIbyuFQlpS4oTnvPvDTUJPNGpMmZ7zMCNRSSdj__7VBmSINW2JHXXfJS6RahXtZXmNegqhHGby4J1jZkQ9hnIrf3/s1600/IMG_3005.HEIC)
 ![Кронштейн кореня краспиці і палець](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwYtCFhcKzfnui3BDGYAkPdwwlm1_7mfA-duGMluNkjnQP7aGL_ltw5yR4lizJGvWJX899w1ihqKvuV1NqVLPynLGzytA2wuEE1flNMxbn7e6QrNXM4oO45qganiCg4xMlMPG6zXv0epl9IqOltPmTB9DMPBRRSFW6QjDazzntKPNqoncE1ZLcdeLlwqm/s1600/IMG_3008.HEIC)
@@ -182,25 +181,25 @@ Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-riggin
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-## Знімаю щоглу
+## Знімаємо щоглу
 
-У жовтні 2025-го щоглу треба було зняти для переїзду на узбережжя. Першою пішла закрутка. Може, можна було й разом, але це зайва вага, і я боявся погнути профілі. Крок за кроком:
+У жовтні 2025-го щоглу треба було зняти для переїзду на узбережжя. Спершу зняли закрутку. Може, можна було зняти все разом, але це зайва вага, і я боявся погнути профілі. Крок за кроком:
 
 - Попустити ахтерштаг.
-- Взяти навантаження штага на фал стакселя, щоб штаг трохи провис.
-- Вилізти на щоглу з грота-фалом як страховкою. Зі сходинками другий не потрібен.
-- Фалом спінакера підняти профіль закрутки на вузлі-удавці і зняти навантаження з пальця. Фала спінакера в мене не було, тож я повісив на топі додатковий блок.
-- Витягти верхній палець і дати закрутці зі штагом повиснути на цьому фалі.
+- Перекинути навантаження штага на фал стакселя, щоб штаг трохи ослаб.
+- Піднятися на щоглу з гротовим фалом як страховкою. Зі сходинками другої страховки не треба.
+- Спінакер-фалом підняти профіль закрутки за допомогою вузла, що легко розв'язується, і зняти навантаження з пальця. Спінакер-фала в мене не було, тож я повісив на топі додатковий блок.
+- Вийняти верхній палець, і хай закрутка зі штагом висять на цьому фалі.
 - Від'єднати штаг унизу.
-- Опустити закрутку на причал: відходиш із нижнім кінцем і потроху травиш фал, щоб профіль ніде не згинався.
+- Опустити закрутку на причал, відходячи з нижнім кінцем і травлячи фал, щоб профіль ніде не зігнувся.
 
 Diary: [26 Oct 2025](https://irwin34.blogspot.com/2025/10/day-229-jailbreak-part-3-mast-down.html)
 
-А-рама стояла ще з минулого тижня, на двох ярусах розтяжок плюс додатковий верхній «ахтерштаг», усе з дайніми 5 мм. Оскільки рама була нахилена на пару градусів уперед, переднім розтяжкам не треба було великого натягу.
+А-рама стояла ще з минулого тижня, утримувана двома ярусами розтяжок плюс додатковим верхнім «ахтерштагом», усе з дайніми 5 мм. Оскільки рама нахилялася на пару градусів уперед, передній бік не потребував великого натягу.
 
-Точка підйому: широка пласка стропа під краспицями, перехрещена навколо, щоб вийшла точка кріплення приблизно на 18 дюймів вище, в очікуваному центрі ваги. Поліспаст 4:1 між рим-болтом угорі рами і щоглою, а ходовий кінець через два відкидні блоки на лебідку шкота стакселя. Ще я прив'язав п'ятку щогли на чотири боки, вільно, на випадок, якщо точка підйому виявиться нижче центру ваги, щоб щогла не перекинулася, вийшовши з гнізда.
+Точкою підйому була широка плоска стропа під краспицями, перехрещена довкола щогли так, щоб утворити точку кріплення приблизно на 18 дюймів вище, у передбачуваному центрі ваги. Між рим-болтом на верху рами і щоглою йшов поліспаст 4:1, а його хвіст через два відкидні блоки вів на лебідку шкота стакселя. Ще я вільно прив'язав п'ятку щогли на всі чотири боки, на випадок, якщо точка підйому виявиться нижче центру ваги, щоб щогла не перекинулася, коли вийде зі степса.
 
-Допомагав мені друг Євген. Я вибирав підйомний кінець, потім попускав усі ванти, наскільки можна. Три-чотири такі кола, і я був певен: щогла йде вгору без бажання перекинутися, і все навантаження на А-рамі. Тоді ми від'єднали всі ванти і штаги і піднімали далі, поки вона не вийшла з гнізда.
+Мені допомагав друг Євген. Я натягнув підйомний трос, потім попустив усі штаги й ванти наскільки можна. Після трьох-чотирьох таких кіл я був певен: щогла йде вгору без жодного бажання перекинутися, і все навантаження на А-рамі. Тоді ми від'єднали всі ванти й штаги й піднімали далі, поки вона не вийшла зі степса.
 
 ![А-подібна рама з брусів біля щогли](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglv4MR3mpZ_L8HYCAdjcq1xkeqD-lAIqrtYPov50hN2bAXwDQbu62x7SDh0dZCyCI_3AM7kNdd5iefBcvL6Oe0rx7aPKnqW9fTH_0P6ujhSYkOZ1_rt9bqk7drXTU15f6rPI2-1YGnGG1Bg7jWd9hQrevuMJqN54knGVDI0qiFUofe0IM9MEbtuaOpvkqB/s1600/IMG_1764.HEIC)
 ![Син стоїть на палубі під рамою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixCMMpjpPFfOE1gFHXytaxOfmDvxs_fnIvULjVq-5zJQMhVQs65foHnwqIvCWqQGP9sweCneX1srEqj2rd9HZntFamibscCX10qVvu9_-I55tUnDKFI4U4RxpgBCTHMHAssBMlHRniEGDXuD54RviVXwjY8xyCns7JbI-fBGU9qBMSX9xDYsitq8mns42L/s1600/IMG_1768.HEIC)
@@ -209,9 +208,9 @@ Diary: [26 Oct 2025](https://irwin34.blogspot.com/2025/10/day-229-jailbreak-part
 
 Diary: [26 Oct 2025](https://irwin34.blogspot.com/2025/10/day-229-jailbreak-part-3-mast-down.html)
 
-Спуск. Щогла прив'язана посередині. На фото здається, що висить за кінець, але це оптична ілюзія. Майже внизу, біля носового і кормового релінгів, я так зосередився на тому, куди її покласти, що кінець мотузки вислизнув з руки. Добре, що лишалося всього дюйми два до місця посадки. Жорстка посадка, без пошкоджень. Проклятий день.
+Потім опускання. Щогла прив'язана посередині; на фото здається, що вона висить за кінець, але це оптична ілюзія. Коли вона вже майже лягла на носовий і кормовий релінги, я так задивився, куди її покласти, що кінець троса вислизнув у мене з руки. Добре, що до місця посадки лишалося дюймів два. Жорстка посадка, але без пошкоджень. Проклятий день.
 
-Потім вона лежала прив'язана на човні, майже готова до переїзду. Фото дня.
+Потім її закріпили на човні, майже готову до переїзду. Фото дня.
 
 ![Щогла опускається вздовж рами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAYPeY7Xq6w7mbn19gHCs4tCt2vIw9fnRA1rq_7xwdFGqOHC-M7i7OjHYef3sZgI8d1zkSsiPMqopi7n0RqKcxnJyAlRCoX3h2EJKzOYSbiBYDpBcJVJIiYjMnYLXBs_4lODzYjkEkyjNmThYkCJ7BFWkj59QXW_zSgeVMKa6vKjJgkrK6o-3t_EC-U1q1/s1600/IMG_1770.HEIC)
 ![Щогла опущена на раму](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11o8AdACW2lvMfdOMw0zxUkKDv2zjR-6_CajxJGl6g2a8PuKqIn7_aW41oe1Nuo8VjRRbtFwSzGSdgyN1fRg4YasWKsk56BNKIYKtlVQlhc9UQhRBZ43Ga0jc0rsjFlaAHfoEw_jnSfuWDA3X41Ux8q16c5tX39k1AN0fOgrSzAkhVvw8wxRp5cNO1ZKF/s1600/IMG_1772.HEIC)
@@ -221,13 +220,13 @@ Diary: [26 Oct 2025](https://irwin34.blogspot.com/2025/10/day-229-jailbreak-part
 
 ## Шліфування, Nyalic і фурнітура
 
-На верфі в січні 2026-го я зашліфував щоглу так, щоб прибрати всі раковини.
+На верфі в січні 2026-го я прошліфував щоглу настільки, щоб зняти всю точкову корозію.
 
 ![Щогла на опорах на верфі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWg0pYmg1bEbFLNJMYKim8lppvuYvo1Ky9XfGOG1P0G889TLXT-aPTju6QRBkNUWarpEcUsSYFgp6YIi5Y8b8f1_5ibhHizi9PYDYpe87RcFAsZwLdjvZ7MPWnr5No3TuS4FAka9lN3qAJzcxL5NolgfQ7wZLNAh4P5AQikUm3ZZ3Eh6A056Cz6TXfW-ca/s1600/IMG_0653.HEIC)
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-Потім почистив і покрив двома шарами Nyalic. Через 48 годин почала повертатися фурнітура: сходинки знову на заклепках, нові підкладні пластини для щоглових лебідок надруковані з ASA, і лебідки на місці.
+Потім почистив її й покрив двома шарами Nyalic. Через 48 годин почала повертатися фурнітура: сходинки знову на заклепках, нові опорні пластини для щоглових лебідок, надруковані з ASA, і самі лебідки на місці.
 
 ![Щогла в наметі з синього тенту для покриття](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuiSUkDaQ5ITP2jWNI8cG0rEW_gHm80b1NwvI9UooKqXLEH6vxpZo5FGDnR356XjvOvLlMmlr1aQSeZQ9hiZDhT8gC2Xg5Jbx7Ro85FuMuLtDM4UtyzPtIWjfbPy0cVTZz-fYlY5ZGZ3iYlu4uXsgEBJJvnYYLYpv8-CbG9Re5_HM0vQEKaTQrpGiCGcyR/s1600/IMG_0685.HEIC)
 ![Щогла під тентом на майданчику](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5-2Uj5rGeI7tcG_3GEqHTYUoSlaVrnF-UQ64fjDpxmJOU64sYR2fXBkbDzthKV5r_QBi1qCYNUPall5Mh6zHWJZvBhWyLRdiMKfPwMM8INYpxqYtpqo6J6ooNHM11ps0VY15cqIkFmP5AI8pMOGPldMxVr2MXDr-32PbfrcU4RwlsX29rZLRYd-ONyQkf/s1600/IMG_0680.HEIC)
@@ -235,11 +234,11 @@ Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-prepa
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-Уся фурнітура повернулася, з Tef-Gel усюди, де нержавійка торкається алюмінію, проти гальванічної корозії. Став саморобний кронштейн радара. Прилади на топі я поки не ставив, щоб зменшити висоту і вберегти їх, якщо ми чиркнемо об міст.
+Уся фурнітура повернулася на місце, з Tef-Gel скрізь, де нержавійка торкається алюмінію, проти гальванічної корозії. Став власного виробництва кронштейн радара. Прилади на топі я поки не ставив, щоб зменшити висоту і вберегти їх на випадок, якщо зачепимо міст.
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)
 
-Бо в мене була маленька проблема: човен разом зі щоглою — 46,2 фута, а міст на виході має 45 футів проходу. План був накренити її на 20 градусів 50-галонною бочкою з водою, прив'язаною до гіка. Я порахував висоту при різних кутах крену.
+Бо в мене була невеличка проблема: човен разом зі щоглою заввишки 46,2 фута, а міст на виході має 45 футів габариту. План був накренити її на 20 градусів 50-галонною бочкою з водою, прив'язаною до гіка. Я порахував висоту при різних кутах крену. (Як усе вийшло насправді — в історії про втечу з в'язниці.)
 
 ![Щогла на майданчику з повернутою фурнітурою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN_lEY82uUvT0zT6yUX50YNv8vdzB612jyuIz-T2ze7F_1ZajlNw9TjoTNvvCVZmcfNPtlcJvBWZJHw6kwQUFxPtiMGzXu3QsCo7zxWhvNsysOTMclvQR66ARr7lbqOJ3wEp-Va_VPADS8eYBx5RDdFiVcw2Xy4eCMEywFCY6toH2itghfbzE-sHPHCEj/s1600/IMG_0775.HEIC)
 ![Щогла з краспицями на опорах на верфі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB9VP_QCwsH7wTxmXstLXHRzhICucEckG6JHPF3S2XcDKZ-k-gb2UOw7wj_pATTF8paU3UZA6E4y-wA23F6ZoRwXzwadylzy1Uc-p4KACZOE0XgL5_SZL4gx1VvUwxkmleJ30n8c_f8EbT44W5YXxgioQ0ELce7g_hJdnRmJzPGroxGynKaPn2T2UFKdVZ/s1600/IMG_0774.HEIC)
@@ -250,44 +249,44 @@ Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registr
 
 ## Налаштування і ще раз налаштування
 
-Березень 2026-го, Кема. Перевірив нахил щогли вперед-назад.
+Березень 2026-го, Кема. Я перевірив нахил щогли вперед-назад.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-Із чохлом на гіку на гік уже не станеш, тож я поставив на щоглу відкидну сходинку трохи вище гіка.
+Лазиджек робить гік непридатним як сходинку, тож я поставив на щоглу трохи вище гіка відкидну сходинку.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-Камера на топі підключена і працює добре.
+Камера на топі під'єднана і працює добре.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-Наприкінці квітня я пробував налаштувати — без успіху. Просто зрозумів, що потрібна ретельніша підготовка. Попустив усі штаги і ванти і перевірив положення топу фалом, наскільки міг: ±5 мм на довжині фала, бо через розтяг мотузки точно виміряти важко. Наступного разу візьму дайніму, щоб не тягнулася, і зроблю пристосування з штангенциркуля, щоб точно міряти до путенсів. Трохи підтягнув верхні ванти й ахтерштаг при вертикальній щоглі.
+Наприкінці квітня я спробував налаштувати щоглу, без успіху. Просто навчився, що треба краще підготуватися. Я попустив усі штаги й ванти й перевірив положення топа фалом, як міг: ±5 мм на довжині фала, бо через розтягування троса точно поміряти важко. Наступного разу візьму дайніму, щоб не тягнулася, і зроблю з штангенциркуля пристосування, щоб міряти точно до путенсів. Верхні ванти й ахтерштаг я трохи підтягнув, з щоглою у вертикалі.
 
-Потім перевірка лазером: у вільному стані щогла має легкий, рівномірний вигин уліво, дюйми на 2. (Добре було б зробити тримач для лазера, що ставиться в доріжку вітрила, з точним регулюванням уліво-вправо.) Я пробував прибрати вигин задніми нижніми вантами. І ЦЕ БУЛО НЕПРАВИЛЬНО. В інструкціях пишуть вирівнювати щоглу передніми нижніми. Неінтуїтивно, але тепер звучить логічніше. Вирівняти задніми я таки вирівняв, але з нерівним натягом, і під навантаженням той самий вигин повернувся. На правому галсі при 15 вузлах ліві нижні ванти помітно провисають, а на іншому галсі праві тримаються тугими. Наступного разу спробую інакше.
+Потім перевірка лазером: у вільному стані щогла має невеликий рівномірний прогин уліво, приблизно 2 дюйми. (Було б добре зробити тримач для лазера, що ставиться в доріжку щогли, з точним регулюванням уліво-вправо.) Я спробував прибрати прогин задніми нижніми вантами. І ЦЕ БУЛО НЕПРАВИЛЬНО. Посібники кажуть вирівнювати щоглу передніми нижніми. Неочевидно, але тепер це звучить логічніше. Задніми нижніми я її таки вирівняв, але з нерівним натягом, і під навантаженням той самий прогин повернувся. На правому галсі приблизно при 15 вузлах ліві нижні ванти помітно провисають, а на іншому галсі праві нижні лишаються тугими. Наступного разу спробую інакше.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-У травні я знову перенастроїв щоглу, вирівнюючи передніми нижніми. Нелегко. В якийсь момент я зрозумів, що верхні ванти дуже впливають на те, що я вважав «природним» вигином уліво на рівні краспиць. Граючись передніми нижніми і верхніми, я вивів щоглу майже рівно без великої різниці в натягу. Ходові випробування показали, що до кінця не виправлено, але прогрес є. Тепер думаю, що справа більше в налаштуванні верхніх вант.
+У травні я знову налаштовував щоглу, вирівнюючи її передніми нижніми. Непросто. У якийсь момент я зрозумів, що верхні ванти дуже впливають на те, що я вважав «природним» прогином уліво на рівні краспиць. Граючись передніми нижніми й верхніми, я вирівняв щоглу майже повністю без великої різниці в натягу. Ходові випробування показали, що до кінця не виправлено, але прогрес є. Тепер думаю, що справа більше в налаштуванні верхніх вант.
 
-У понеділок я це «підтвердив» із ChatGPT. Правильна назва мого рангоуту — топовий шлюп із розрізним стоячим такелажем і одинарними прямими краспицями. Насправді моя щогла «віртуально» має два яруси краспиць, але верхніх немає, а проміжні ванти йдуть від пластин краспиць приблизно на 3/4 висоти щогли. Це змінює всю стратегію налаштування. Сага стає довгою. Наступного разу спробую ще.
+У понеділок я «підтвердив» це з ChatGPT. Правильна назва мого такелажу — топовий шлюп з розрізним стоячим такелажем і одним ярусом краспиць у площині щогли. Насправді моя щогла «віртуально» має два яруси краспиць, але верхніх краспиць немає, а проміжні ванти йдуть від пластин краспиць приблизно до 3/4 висоти щогли. Це змінює всю стратегію налаштування. Перетворюється на довгу сагу. Спробую ще раз наступного разу.
 
 ![«Віра» в Кемі з налаштованою щоглою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxEREPjSdR7WkTgK8OLNrTRvkyW40jFkw0aYJCZeU21mspNAcBkkgqCWrMP6buNplHH9xEOas8nyHEa9fU67hfQ_9vQz_NEPilnX9WOuhyz4j4N-3GxMxlQOylKrojStbs33z5AhBMvoHmqFD0ylcGk0ou38CnqLBJV75_-0KsoCi-RqOVB-f8NV8PsaWz/s1600/IMG_1284.HEIC)
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
 
-## Обдираю гік
+## Розбираємо гік
 
-У вересні 2026-го я обдер гік, щоб поставити всередину підкладні пластини для нових рифових блоків і лебідок. Гвинти, що стирчать усередину ззовні, тут не помічники.
+У вересні 2026-го я розібрав гік, щоб поставити всередину опорні пластини під нові рифові блоки й лебідки. Гвинти, що просто стирчать ззовні, не допомагають.
 
 ![Рифовий блок на гіку з проставкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC15ar5DW-PsBQxz0BB8oK9Wl25FAR8pEbvw-Idt74QWQhGpbzcXUkAJ_SLrcqdTDRIXYZODpGxoBB9TCqR5GBwCc0i4rCOYPd9A32PtBp-LpX65bTHMrFMJ8QtqXiL2V0wFxKe-5ECDUHHS9Cz17QxEmPP_PC7W5O3p0FUubwcvKxkP74-wdWPIvW7cO2/s1600/IMG_2591-EDIT.jpg)
 ![Розібраний гік у кокпіті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkg9InDgd0Kho93M84369VxYsnGE8rYXSJDtSG9_SsSbyrlVxDyETNtpcwLStxEsEUCUZQMk8R9x1x36Bdu-97vvkxvqBKjC7zB5PXaSk3QxR4Oue1jNTfswwlBwy3noCpprPdB1GuznmikOdMVj3sKmqRU7PMraLUkuHVFmlaJvXnQc7nJkwZvHeFPdg/s1600/IMG_2579.HEIC)
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-У мріях усе просто, аж поки один упертий гвинт не захоче рухатися. Я думаю, для інженерів, які ставлять гвинти з напівкруглою головкою під пряму шліцу туди, де вони можуть прикипіти, у пеклі є окреме місце. Ударний шуруповерт легко взяв більшість, але один гвинт із двадцяти дав мені більше клопоту, ніж усі інші разом. Після того як біта кілька разів зіскочила і подряпала мені руки, я зрозумів, чому ніхто не робить прямих біт для ударних шуруповертів.
+У мріях усе виглядає легко, поки один упертий гвинт не відмовиться рухатися. Думаю, для інженерів, що ставлять гвинти з напівкруглою головкою і прямим шліцом туди, де вони можуть прикипіти, у пеклі є окреме місце. Ударний шуруповерт легко впорався з більшістю, але один гвинт з двадцяти завдав більше клопоту, ніж усі інші разом. Після того, як біта кілька разів зіскочила і подряпала мені руки, я зрозумів, чому ніхто не робить прямих біт для ударних шуруповертів.
 
-Що я зробив: узяв гайку з отвором якраз під головку гвинта і примотав її армованим скотчем до гіка навколо гвинта. Тоді біта не могла зіскочити, і він вийшов як миленький. Ось він, гад, у мене в руці.
+Що я зробив: узяв гайку з отвором якраз під головку гвинта й приклеїв її армованою стрічкою до гіка довкола гвинта. Тоді біта вже не могла зіскочити, і гвинт одразу вийшов. Ось він, гад, у мене в руці.
 
 ![Наконечник гіка і гвинт, що застряг](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinEZdUD8lf1Hkc0-4mM3sgxfK-jUU7Sqr8gs_WvOaPEdGxdbtc-B79YueEg9fZ62IaZjLLs-a-hTEJ_uhspoEwZgUFBnVrG5tviqQ7-awhEtTqrk-RcwOzeaKki9hHGKBn_xgltN96dbjaSXGfviwiZXjWAy9pkWxAvif5GyBZB8Dz7pd-Tcb7PNNYd5lO/s1600/IMG_2572.HEIC)
 ![Гвинт, що застряг у наконечнику гіка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjixM2G7_LTsuLUrcSSPD3jk_zkCybXgkNmoIiJ7Xrpc_1z-kun_Of0ZpHy5ntTRh7ycZJt0Qm0meJHLy7Q1AmdsMcA7ds00ZP10sOKfGjXpOEh42zQFW5Wrpfjn4gPm3gzRTjAIgakHKJJqzsIvKYSVigf3wg1qDW-gB_jvB9XWuztBcGDvkEaV8WxCSq1/s1600/IMG_2574.HEIC)
@@ -297,7 +296,7 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Потім усе назад. Правий бік: риф 1 і риф 3 (блок першого рифу я лишив оригінальний). Лівий: риф 2 і риф 4, і кінець оттяжки зверху. На кожному боці лебідка і утка для рифів.
+Потім усе повернулося на місце. Правий бік: риф 1 і риф 3 (оригінальний блок рифа 1 я залишив). Лівий бік: риф 2 і риф 4, з аутголом зверху. Лебідка й стопор для рифів з кожного боку. Непогано як для прийомної щогли: тепер у неї краще спорядження, ніж будь-коли було на рідному Irwin 30.
 
 ![Гік із рифовими блоками, правий бік](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuOrOaf2OtLNt3G_aHXYNpP2m7Mq5BAcrGPR9ToFpP2ZFuvNPDwZAOG6TpeYdUwpM4Q6YRtt1g9FpHtZF87dNS3WgDze8Q0881MRpy4I5cJwpCohjdo8jPc5X6_h2Tw-fTRXaA8uUsgG6rRtUKc12g3FCmbpP-ErarKPoYuJn1ujcRa1DnEGLZ7N5dJM-/s1600/IMG_2606.HEIC)
 ![Гік біля причалу, лівий бік](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrt-06lH7QQcYYEbP0LG_KmQzNsgc35OCLCiROzIYuFm9EL5f_b3G7XdPyB1ukY4kA770w2ZIp6FAw_o18QboFWQb2f6GQbQ3sceaqFIu5WoD-BhaARWlD8z70okRaf4WTrcqxaoLGIGdj2mQWWAi17QvcID5qbI5fPe1ecE5WmZZFsNI1Ke7iL-1cu5YE/s1600/IMG_2602.HEIC)
