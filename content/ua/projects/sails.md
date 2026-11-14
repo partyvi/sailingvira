@@ -6,14 +6,13 @@ order: 3
 description: "Чохол на гік, новий грот, гік, рифи, лебідки, біміні і спрейхуд."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxHK5TXVBlcdEd82WmhRokCuDQYKj0JY5ifcl3et545x4xTti-7CeKGZMxYSq18EcVYJbR35Y_huMn_5Pq3MjbTySs7eBtKTEaJ1uIesaRmTAr2neS43IzCIKowHYZhg9prccdKK-tumxf83m1_Wa9oQomwE4TTFvvL3Zw8nsunWk6BiEyDVHRJiFteQi/s1600/IMG_1563.HEIC"
 ---
-
-Вітрила прийшли разом із човном, і кілька років вони були «нормальні». А потім потроху все навколо них змінилося: чохол на гік, новий грот із чотирма рифами і гік, обвішаний блоками й лебідками, як ялинка.
+Вітрила прийшли разом з човном, і кілька років вони були «досить добрими». Потім потроху змінилося все довкола них: лебідки, біміні, лазиджек, новий грот з чотирма рифами і гік, повний блоків і лебідок. Плюс одна жорстка рубка-додджер, що так і не доїхала додому.
 
 ## День прання
 
-У травні 2022-го я дістав усі вітрила і нарешті роздивився їх як слід. Генуя жила на закрутці. Чиста, у доброму стані, лише кілька стібків на УФ-захисті переробити і нові колдунчики. Грот брудний, але робочий. Багато розривів на згинах, десь 20 латок із ремонтної стрічки і лише одна рифова лінія. А ще знайшлася запасна генуя: брудна там, де її було видно, ліктрос загублений, кишеню під нього переробляти, а так нічого. Може, колись вітрильна майстерня її реанімує.
+У травні 2022-го я дістав усі вітрила й нарешті як слід їх оглянув. Генуя жила на закрутці. Вона була чиста й у доброму стані; треба було лише переробити кілька стібків на захисті від сонця і поставити нові колдунчики. Грот брудний, але робочий. Багато розривів по згинах, десь 20 місць залатані латками для вітрил, і лише одна лінія рифів. А ще знайшлася запасна генуя: брудна там, де була відкрита, без ліктроса, і кишеню на передній шкаторині треба переробити, але загалом непогана. Може, колись вітрильна майстерня її оживить.
 
-Потім прання. Дві чашки OxiClean на десь 300 літрів води, замочити на 24 години і сушити. Генуя велика. Я маю на увазі, дуже велика. Сушилась на півпричалу.
+Потім настав день прання. Дві чашки OxiClean приблизно на 300 літрів води, замочити на добу і висушити. Генуя велика. Тобто справді велика. Скласти її самому — це вже тренування.
 
 ![Генуя, розкладена на газоні для огляду і прання](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGemsDsE5mz7a0V48groAO7nnoFcKHpuYMuKHlhCAejbHfzgw1GRXexj2fpI7p1rJuvFOPYSPRTqylhWnO2rrpHuasPNcrA7ir2Qj7IhzD6vYaAxGXR4YD1_0hBrG9j2RviIkmP9TEwKUnMDJ8_t3aYzZznScT24cM-ATfeF_jnWqE-z884lr9DjKpQ/s1600/IMG_2785.HEIC)
 
@@ -21,7 +20,7 @@ Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-wat
 
 ## Лебідки
 
-Просто для історії: оригінальні основні лебідки. Lewmar 25, здається.
+Просто для історії: ось оригінальні основні лебідки. Lewmar 25, здається.
 
 ![Головна лебідка Lewmar на комінгсі кокпіту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil1cgUO15zw2LeQVFMnfKEt-L_7hKUP8BkEF4q-mHSCxnD6o3Edu3XyHWZz6-R4N1SjnZF8wsEpX3TTQN-2dSAoC8WBlx4sbyPirlDQB7W8A7vR8ANRyxTFsvPeZbOCmxulDpNL1jamAE70fmraZCsKr1V_5nISczv7ZThknemj2ZqeOOeEVqEXReN0w/s1600/IMG_2920.HEIC)
 ![Головна лебідка з намотаним шкотом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgnG9M7Hpz9k5PcK1tQ6E5Rz9-EfAnRkmDthKhWg3K9sCyAxhV3Kt0o5WR49gevKWGLTZCrIOUCIs3bubypjpoYrvYwpSfRJ-Uis-1sUbZPEGrD84ZF11cgI3aWILEK-eRuje7MQCu8KSIcpRL0CZL973cKc3IfmvkLEkKU9bHl5x-IwGrqUfJ8XIbgw/s1600/IMG_2921.HEIC)
@@ -32,7 +31,7 @@ Diary: [28 May 2022](https://irwin34.blogspot.com/2022/05/day-27-28-521-deck-wat
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-У червні 2024-го я поставив на основні лебідки самостопорні насадки Barton. Того ж дня повернув на місце повітровід моторного відсіку, надів на радіостанцію Horizon надруковану кришку, прив'язав ящики на носовій койці і примірив роульс і основу брашпиля. А потім пішов під вітрилами на чотири години. Заслужив.
+У червні 2024-го я поставив на основні лебідки самостопорні Barton. Того ж дня повернув на місце повітровід вентиляції моторного відсіку, надів надрукований на 3D-принтері кожух на УКХ-рацію Horizon, закріпив ящики в носовій каюті й приміряв носовий ролик та основу брашпиля. А тоді пішов під вітрилами на чотири години. Ідеальний день.
 
 ![Лебідка з новою ручкою Barton](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXuURL49D87zZoVcyJzDkR05TM6PGzl_VP60gi8IJQuypMEp5Uj5lSKd8jG4zgWb19AAyr8DHTKyqN8FmQbDyY8A_eMQ6dPfcfcMZ_TJbSdrxWYbmXWKMs9PovSIJGINzltWayICmsv4bgslfrY2N7TBHAqM7prYMESOq2tzOzctCGzQ5YjvimNrrnbPc1/s1600/IMG_8358.HEIC)
 ![Ящики для зберігання в носовій каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uCcuu1cGMUR9C_lCLaXkphvOyyPU32wwhFWe8sHkYfKSpeaYzyuW6iSOP5o792Wjie4kuL458vdApzyx5VZrwn3WfiWn9wtk6jXRU5hdxIpSHMxo_ZUAzPblB9QE8VRepjtwmbh3v33SyaF5we5lrjDOxU_9-TU-k9ieQ7eYKZy_pkNRnk0mfG45SRls/s1600/IMG_8359.HEIC)
@@ -41,7 +40,7 @@ Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fre
 
 Diary: [16 Jun 2024](https://irwin34.blogspot.com/2024/06/day-153-61524-work-on-small-things-4.html)
 
-Ще одна лебідка мала проблеми. Маленька, для лінії шверта, у листопаді 2022-го. Коли я зняв її разом із підкладною пластиною, побачив, що хтось зробив там швейцарський сир. Зверху я розсвердлив і вичистив усі отвори, заповнив загущеною епоксидкою і заклеїв трьома шарами 8 oz. Знизу розрізав обшивку. Мокрими виявилися лише три квадрати фанерного заповнювача, що мене здивувало. Я його висушив і вклеїв нові бруски з тикової фанери між обшивками, заповнив усе загущеною епоксидкою, повернув оригінальну обшивку і заклеїв трьома шарами. Хтось скаже, що цього мало, але ця лебідка лише піднімає шверт, навантаження майже ніякого. Спочатку вона трималася на шурупах по дереву, а підкладна пластина нічого не робила. Тепер наскрізні болти з гайками.
+Ще одна лебідка мала проблеми: маленька, для шкерта шверта. У листопаді 2022-го, коли я зняв її разом з опорною пластиною, то побачив, що хтось наробив там швейцарського сиру. Зверху я розсвердлив і почистив усі отвори, заповнив їх загущеною епоксидкою і заформував трьома шарами тканини 8 унцій. Знизу розрізав обшивку. Мокрими виявилися лише три квадрати фанерного заповнювача, що мене здивувало. Я його висушив, вставив між обшивками нові бруски з тикової фанери, усе заповнив загущеною епоксидкою, повернув на місце оригінальну обшивку і заформував трьома шарами. Хтось скаже, що цього мало, але ця лебідка лише піднімає шверт, навантаження майже нема. Спочатку вона трималася на шурупах по дереву, і опорна пластина нічого не робила. Тепер там наскрізні болти з гайками.
 
 ![Стара основа лебідки з купою свердлінь на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSczRhmKWU5CcreJ4Q7vOoO8Cx2zYUAat9BvMqb8GaIleDM5Kyw9yEMKnol16Wq56SmdvaIwXVw_qyJ78alvS6DeyMNYdD2vShhkDmWHetWjjQov2O965OdCvAqfS7_chZ-3lAgPWB12X0M65Ek9BKMDHrAgcsaRmAOb1XnXHTEazA5Uv_YW_FhlwlNQ/s1600/IMG_4045.HEIC)
 ![Старі отвори в палубі знизу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipcw6L2VO8Bb6SUU0tlg-c5QmxBaS6qmHVykppafCAlbPkHecQAXj5omYnArTKbGazPyW7VBn01x601HjCkK4LhsbTfUPr9mnm65p1hWj_14l3bmVBiGj6Xtr3hdTB0EiuzkTUuhyFJYLcZtwikA5AjPZH9woo8DSsspo8Jt41GOvMkf6Iy2-kJrK13A/s1600/IMG_4042.HEIC)
@@ -56,7 +55,7 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 ## Біміні
 
-Травень 2023-го: гарний новий тент на біміні. Пошив, приміряв, поставив. Але коли все зібрав, виявилася цікава річ: кріплення, які поставив попередній власник, стоять якраз там, де біміні заважає лебідкам і утками шкотів стакселя. Тож довелося знову все розбирати і зсувати назад на 10–15 дюймів. Тоді він трохи зачіпає утку закрутки, але це легко виправити.
+У травні 2023-го мій біміні отримав гарну нову шкіру. Я її пошив, приміряв і встановив. Але коли все зібрав, виявив цікаву річ: кріплення, які поставив попередній власник, стоять саме там, де біміні заважає лебідкам і стопорам шкотів стакселя. Тож довелося знову все розібрати й пересунути на 10–15 дюймів назад. Тоді він трохи зачіпає стопор закрутки, але це легко виправити.
 
 ![«Віра» біля причалу з синім біміні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqo4pzR_B5pdxpn_0ePUv1BJiywiouT2x_rIM4l7x49-VU3EO56_ZP_ER5q8l7xSIfI9zMVoUUs8rnVtrvKPfyoWRmY9LNwyVrTmq7RGPnW7wJNFnw7l-aU7BNbIYi360g8g-rFDDzsvx44YOv_cmbjIBy5KOGqTh1wgpF-4rO-NUt2LSvUExxQ4hNTg/s1600/IMG_5759.HEIC)
 ![Новий синій тент біміні над кокпітом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcOeO8evZKPS88Zj104SlZAJhxjjeQ8Plq-NA9gSwteiHJ_yKCiGzLwGek4nXgSnDcXEeRfKi6RCW9WWDZEfYHYdu9gmCq8e5j3-zUI-TiI1GmtPMIqqblEdYVJJc-IGFFoim5CYyWWuifPNgGU9y9bQSFDu2HN-tn2YVNjCpshiQtrX5z14LigOOqgA/s1600/IMG_5760.HEIC)
@@ -66,42 +65,42 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 Diary: [13 May 2023](https://irwin34.blogspot.com/2023/05/day-90-51323-bimini-galley-base-rebuild.html)
 
-Через тиждень я перемістив біміні десь на 15 дюймів у корму і заклеїв старі дірки. Тепер він не заважає ні лебідкам, ні шкотам. Фото немає, вибачте.
+Через тиждень я переніс біміні приблизно на 15 дюймів у корму і заформував старі отвори. Тепер він не заважає лебідкам і снастям. Без фото, вибачте.
 
 Diary: [20 May 2023](https://irwin34.blogspot.com/2023/05/90.html)
 
-## Чохол на гік
+## Лазиджек
 
-Влітку 2025-го я пошив чохол на гік із ленивими джеками. У липні була примірка. Того дня я хворів, тож роботи було десь на годину. Сидить дуже добре. Трохи завеликий спереду, але я все одно планував новий грот, тож краще більший, ніж менший. Лишилося: щічні блоки й утка на щоглі, вушко для переднього верхнього кута і шкертик блискавки.
+Влітку 2025-го я пошив лазиджек з лінями. У липні була примірка. Того дня я хворів, тож попрацював лише годину. Сидить дуже добре. Спереду трохи завеликий, але я однаково планував новий грот, тож краще більший, ніж менший. Лишилося: блоки й стопор на щоглі, вушко для переднього верхнього кута і шнур на блискавці.
 
 ![«Віра» з новим синім лазиджеком на гіку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVZI5LV3NKdO2IoxG73zF5mxaoIswPuOFNu94fLQyiMXVHLGXT1eufk6_bCO-L865xh2605iUOjAHUOYXCNFLGDybGMCnvTRMLp-CXecs6mj-C9FZ1pNwAXra_BBjfXYjH1K82PcD5Kw9EqubuDqAhs9fGze-jt5b4Ga74cHrkmDuiqiRta-IiAv_-k2j/s1600/IMG_1076.HEIC)
 ![Синій лазиджек на гіку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSpEI__Tc1osdC701E3lXdwlD2toZsWUoNB0PHMIuYSS0_uVhuI_OUsrUswZFh4SAUPGoOPpaGbsO3W0KJ4fGy98-3gA-0pAdhwu4ZqLMyv2oxdFCabYS6GC63pVh0Z033lf09bc7Rq-vnvg_l5QjxmN3SmB-BRqLSh7CkEfcxgxKxE-zbMuCM7DDbVCS2/s1600/IMG_1077.HEIC)
 
 Diary: [26 Jul 2025](https://irwin34.blogspot.com/2025/07/day-209-dryfit-of-new-sail-pack.html)
 
-Через тиждень усе було готово: щічний блок на щоглі, усі кінці відрегульовані.
+Через тиждень усе було готово: блок на щоглі, і всі ліні відрегульовані.
 
 Diary: [3 Aug 2025](https://irwin34.blogspot.com/2025/08/day-210-finalized-sailpack-radar.html)
 
-Після чохла в мене лишилося футів 17 Sunbrella. Шкода викидати таке добро, тож я пошив із нього нові подушки в кокпіт. Від ідеї до готового пройшло зовсім небагато.
+Після лазиджека в мене лишилося близько 17 футів Sunbrella. Шкода викидати, тож я пошив з неї нові подушки для кокпіту. Від ідеї до готового пройшло небагато часу.
 
 ![Кокпіт із новими синіми подушками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimR8WeFHKD2jhWJTpyaSUoC2euCURepP3geWFpD7t_6XZkm23fTNSg0ZYQhy7UrzXdZ8OKNwMM6wjUWUqnMuPIuQtWzXWTS8bMSOudVG4Jnkq_jnQItWjLAct_FrFv36mi7UupZ60yWSgeqqhFKtmPCRPmG1PmnqMfkT8LDd4Y36pCZsaL8oso5lAoIX6N/s1600/IMG_1120.HEIC)
 
 Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-testing-little.html)
 
-Після переходу в Кема і верфі, у березні 2026-го, грот і чохол повернулися на місце, а ленивий джек — угору на щоглу.
+Після переїзду в Кема і верфі, у березні 2026-го, грот і лазиджек повернулися на місце, а ліні лазиджека — знову на щоглу.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-У квітні 2026-го вплів кінці шкертів лазиджека замість вузлів, бо хвости постійно застрягали в блискавці.
+У квітні 2026-го я вплів кінці ліней лазиджека замість вузлів, бо хвости постійно застрягали в блискавці.
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
-## Жорсткий спрейхуд, що полетів
+## Жорсткий додджер, що полетів
 
-Вересень 2025-го. Я хотів жорсткий спрейхуд: склопластик, справжнє скло спереду, полікарбонат по боках. Цей човен несиметричний, і нічого на ньому не стоїть під прямим кутом — я в цьому переконувався не раз. Тож щоб будувати вдома, мені потрібен був повнорозмірний об'ємний шаблон.
+Вересень 2025-го. Я хотів жорсткий додджер: склопластик, справжнє скло спереду, полікарбонатні боки. Цей човен несиметричний, і на ньому нічого немає під прямим кутом; я в цьому переконувався багато разів. Тож щоб зробити додджер удома, мені був потрібен повнорозмірний об'ємний шаблон.
 
-Шаблонів за цей ремонт я наробив багато. Мій спосіб — смуги по дюйму з фанери 5 мм і термоклей. Почав із центральної лінії: мотузка, туго натягнута від щогли до ахтерштага під самим гіком, вона ж і максимальна висота спрейхуда. Палубу заклеїв малярним скотчем, щоб клеїти термоклеєм прямо на неї, і виклав смуги по контуру.
+За час цієї перебудови я зробив купу шаблонів. Мій спосіб — смужки 5-міліметрової фанери шириною в дюйм і термоклей. Почав я з осьової лінії: мотузка, туго натягнута від щогли до ахтерштага просто під гіком, що заразом і найвища точка, до якої може сягати додджер. Я обклеїв палубу малярним скотчем, щоб клеїти просто до нього термоклеєм, і виклав смужки по контуру основи.
 
 ![Рейки шаблону дуджера в кузові пікапа](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinHkUxfLUpfKE_mNNG09TiODiuzCxovToMKZ1Tg4qhii4aCMCbpxijL1gSq-fzF05mCbRJTjs0weOy-9xsK2wP1Kuovf9m0RTUJORfrlO9n_PnED1nAWwdJppIbWQxL8f9ZjAcRgatwk3Qk4xuHPLhJxLQwd-r-uWm6-hrbXKn6eboueJ-S96gPE6MVzc-/s1600/IMG_1333.HEIC)
 ![Рейки і скотч для шаблону дуджера на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwK9PjI_84rXAJJTUyIs__ofb9-mYtAYPWQPWcEAUeQmHU9686zeBViJwD1z1NnRyvy4T1RgdaY9Dx0zdkU6G7vWFKWYPK-eoGh1yFjiluqsoDN8hP4r8HUi0axR-dJJWxMIQI5CZ8hdlq6S06zMGx5Yid5WsjDF6YCLljSQpYOF322nRVIcrJGQU_OZe/s1600/IMG_1310.HEIC)
@@ -109,14 +108,14 @@ Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-d
 
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
-Кут лобового скла я задав по лінії гіка-шкота. На Irwin 34 вхід у каюту зміщений вліво, тож рівний перед спрейхуда вийшов не по центру. Довга горизонтальна планка — висота даху, а та, що ближче до камери, — довжина даху.
+Кут лобового скла я задав по лінії гіка-шкота. На Irwin 34 вхід у каюту зміщений вліво, тож пласка передня стінка додджера вийшла не по центру. Довга горизонтальна планка — висота даху, а ближча до камери — його довжина.
 
 ![Починаю шаблон дуджера над вхідним люком](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8NLQbd3RSYE8guxW9NV4hBgK-qFQgLL2SWGiT7z4Bi-tzDM4xdbv8bpRmhBsgrJM12WAnQMf9HKSSd5wQphzZW4pZMlRplEq2f1-pqmcW22BT3Be_JaV2e7sNPHy-4TLWLeGwUqHn_bFhuBSjpXPiScjq6dkSEcut02sETGVuKGKaWI0kCP1ZYMvjBqDH/s1600/IMG_1313.HEIC)
 ![Каркас шаблону дуджера під гіком](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhieoSGmQ4uq2yeHwOnPbMk-cmDwyYM6GqZzA3J4uM8xOSL5dw9ZzSK362r1dmofNM9C6nlfhHS-Ppl3JyM2wOccWPl8bya0SPBYLHBlN4_eRWE3WvVNO6udRNnOBloNutMp7-k9FvxPIwz9Asl_Z1Kzvexj_yfqtXByscQR2EqxOCiWC8Ze8I-6GvkWsQA/s1600/IMG_1318.HEIC)
 
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
-Чотири довгі години під техаським сонцем, і вся конструкція була готова, з запасом десь 4 дюйми під гіком.
+Чотири довгі години під техаським сонцем, і вся конструкція готова, із запасом близько 4 дюймів під гіком.
 
 ![Каркас шаблону дуджера спереду](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgalWaVracsqDv7QfZcRD-tafTyav5lCfecmZsLeYimXL6YOLNuNHgjA84HXi0WnDjxLFUEsYp9mDhDUG2huCtmIKuoI9-0CEXDtseeUDBlXaBGwTZEO77a1-rOguJTeKjEdt6OUoYg2D3LgrhFYz3CbqpvkRR55dk360hhyphenhyphenNdT2RdGLrBvaZsLaKeai0w9/s1600/IMG_1320.HEIC)
 ![Шаблон жорсткого дуджера збоку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6dnkEtaK9GMQ9Gf5Z6hgPJTFNyISPMbgzV_DAsx_titBIt8wGui_4abcYuM22T3QZ3YCIYS4PWrcMr2sxKEyBrsY78zhtUFhdkbDG5hhvwPk8c662x4UoTtR6BdFhuvqZ1Mc-xDa8WQwGplXj0ZfDr8ZA1cj-PkxFfit0x7FFk9jBOPHGEUCCgTaXWll/s1600/IMG_1321.HEIC)
@@ -126,35 +125,35 @@ Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-te
 
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
-Я її зняв, обережно відніс до пікапа і прив'язав. Вона була дуже крихка, тож я планував їхати другорядними дорогами не швидше 40 миль на годину.
+Я її зняв, обережно відніс до пікапа й прив'язав. Вона була дуже крихка, тож я планував їхати другорядними дорогами не швидше 40 миль на годину.
 
-А потім, милях у п'яти від дому, я забув. Побачив знак 60, подумав «а чого це я так повзу?» і трохи натиснув на газ. Десь на 55 я зрозумів, що мій шаблон вирвався, крутнувся на стяжці і полетів. Через секунду його переїхала машина і зробила з моїх чотирьох годин роботи акуратну купку фанерних паличок.
+А потім, миль за п'ять від дому, я забувся. Побачив знак «60», подумав «а чого це я так повзу?» і трохи додав газу. Десь на 55 я помітив, що мій шаблон вирвався, обкрутився довкола стяжки й полетів. Секундою пізніше по ньому проїхала машина й зробила з моїх чотирьох годин роботи гарну купку фанерних паличок.
 
-Усе, що мені лишалося, — позбирати сміття з дороги. Аеродинаміку я перевірив, загалом.
+Усе, що мені лишалося, — позбирати сміття з дороги. Додджер досі в списку бажань. Шаблон — на смітнику.
 
 ![Уламки шаблону в пікапі після того, як його здуло вітром](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxYmaKLVTPYZus4zOC29AlmmM94srn-9faiZu7q9rQE_0HUdFH6MpBkwtyxP-V3s8MoFU3kcRHP37eFc-APB25trv2_VwsH1DHVBGIgJNBU7cGQVYmoPacc-Q8KJlHIYBS2p0CsKby7yryHWTx1Y3OR0p82kj_dBs8J4Cb96iiamY6bAi2pu3rT0iMO7WQ/s1600/IMG_1330.HEIC)
 ![Новий грот у вітрильній майстерні з написом VIRA](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinHkUxfLUpfKE_mNNG09TiODiuzCxovToMKZ1Tg4qhii4aCMCbpxijL1gSq-fzF05mCbRJTjs0weOy-9xsK2wP1Kuovf9m0RTUJORfrlO9n_PnED1nAWwdJppIbWQxL8f9ZjAcRgatwk3Qk4xuHPLhJxLQwd-r-uWm6-hrbXKn6eboueJ-S96gPE6MVzc-/s1600/IMG_1333.HEIC)
 
 Diary: [21 Sep 2025](https://irwin34.blogspot.com/2025/09/day-225-hard-dodger-template-epic.html)
 
-## Новий грот із чотирма рифами
+## Новий грот з чотирма рифами
 
-У квітні 2026-го я зняв основні розміри, щоб замовити новий грот. На старому сотні дірочок, і він дуже розтягнутий.
+У квітні 2026-го я зняв основні розміри, щоб замовити нове вітрило. На старому були сотні дірочок, і воно дуже розтягнулося.
 
 ![Форма замірів грота, перша сторінка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmNaCVaJbgXNiBJAtrupP7QCvb21wcfLUKh2Dljz9xRKsKJOZfZD-kPJQc5MSIVhWmOVn5bYebxP7yDiP3Z5U9spmM5vAkjlg00-vviU3pCryr_0nNeY8NSVKr99xIFf6J9JoF_vJeiBoH8xA2LMK4p8Wx1k6OqW6lVFroWERq1PV5ie8IzkB5oZMTFBY/s1600/me1.png)
 ![Форма замірів грота з висотами рифів, без закрутки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MIpOshwd3Yq_8hs27UXpE5j4evlzpsqy6pkIHQ5PUL_6Ujzrw9dnd5mZK5kA-uGFAskVyJGQAi30xvaGZ-PAjfi02p_RYoCRvljwLZNlANWOGrK1Kmx6pdGwsFB2M35Obkrwk1ROGLX_UPo97Y9Ww8XiNyj39CIVXosCIdqhd-WK2Q1gFzqjz94U9OAo/s1600/me2.png)
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
-Після довгих роздумів я обрав Far East Sails, щоб спроєктувати і пошити новий грот. Заміри робив сам на човні і сподівався, що не наробив великої помилки, про яку шкодуватиму. Що я змінив:
+Після довгих роздумів я обрав Far East Sails, щоб вони спроєктували й пошили новий грот. Заміри я робив сам на човні й сподівався, що не припустився великої помилки, про яку потім пошкодую. Що я змінив:
 
-- 4 рифи. Так, чотири. Може, четвертий мені за все життя не знадобиться, але краще мати.
+- 4 рифи. Так, чотири. Може, четвертим я не скористаюся ніколи в житті, але краще, щоб був.
 - Передня шкаторина на 1,2 дюйма коротша за специфікацію.
-- Задня шкаторина така, щоб гік у вільному стані був на 5 дюймів вище горизонталі, щоб лишити місце для спрейхуда.
-- Нижня шкаторина на 3 дюйми коротша, під пару блоків оттяжки. Хочу краще керувати формою. Може, я й помиляюся, але рішення моє.
-- Тканина: Challenge Fastnet 7.88, сучасна і стійка до ультрафіолету.
+- Задня шкаторина така, щоб гік у вільному положенні був на 5 дюймів вищий за горизонталь, щоб лишити місце для додджера.
+- Нижня шкаторина на 3 дюйми коротша, під пару блоків аутгола. Хочу краще контролювати форму. Може, я й помиляюся, але це моє рішення.
+- Тканина: Challenge Fastnet 7.88, сучасна й стійка до ультрафіолету.
 
-Через чотири тижні після передоплати і кількох листів мені сказали, що вітрило майже готове до відправки.
+Через чотири тижні після передоплати й кількох листів вони сказали, що вітрило майже готове до відправки.
 
 ![Форма замірів грота, перша сторінка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzA3A2jULnRjFzYj1I4vp3aqkpMGzr0RaXHTCUyytckgFJObHd4i38C4nN8gNmbsn7G6O1vUJw6VMmRVLNBVd_AE_mNbzYwy_bl6inEgQQimftdSIJF3jiz6tTMxwlEtOOx7cE-b3y0sX5q6b1t-O4mDGpCUka_X12Hc0BrvByadvLT1-cXYpUkADn5Y7n/s1600/709f54a40c47e43e6fe3915a3ad37638.jpg)
 ![Форма замірів грота з деталями рифів](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTTbY1WdNYqPSanH8f8RpB1EnWrSuvW99Sq_XUTs3JRu7lhDl_3ZEBVsO8r7ryPB6CCBd_YS7PhcxNI-7xidlMb0VpnyZKIcs7Zp0Ry5HTg03_Y1ffQ-6LzvGVCHFj15400dviq9mTqZcl2EsrbNY6USgskYwITY7FeywT_hyphenhyphenj1-tmBicgYi1WsIQzbv7J/s1600/Mainsail%20order%20page%201.jpg)
@@ -171,17 +170,17 @@ Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-d
 
 Diary: [21 May 2026](https://irwin34.blogspot.com/2026/05/new-mainsail-part-1.html)
 
-Червень 2026-го, я і моє нове вітрило.
+Червень 2026-го: я і моє нове вітрило.
 
 ![Новий грот піднятий біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghqfFQDT30Sl8DRVfmPDIgDY5hi59Xr4SSs3qPkATPPWz1imgcbXQWC2qmgQpqhtpArN5Q2iX9-1REK0Rl6Vd5B5VRaSVR0veSLWpayl6u6mm3ZrvyMrSRiw25uVeXt0pBF0pQsGVGzETtt0fGsRnP0Bqld2ygthv39ndsDjXobKFMgwo9bIxBilinjKKV/s1600/IMG_1503.HEIC)
 
 Diary: [5 Jun 2026](https://irwin34.blogspot.com/2026/06/received-new-mainsail.html)
 
-Гарне, правда? Форма сіла дуже добре. Але повзуни на ньому стояли 16 мм, а моя щоглова доріжка хоче 19 мм. Це була справжня проблема: на мою щоглу вітрило просто не ставало. Я написав Far East Sails, і, віддаю їм належне, відповіли швидко. Попросили взяти розцінку в місцевій майстерні і сказали, що оплатять переробку.
+Гарне, правда? Форма сіла дуже добре. Але повзуни на ньому були 16 мм, а для моєї щоглової доріжки треба 19 мм. Це була справжня проблема: на моїй щоглі вітрило просто не працювало. Я зв'язався з Far East Sails, і, віддаймо їм належне, відповіли вони швидко. Попросили взяти розрахунок у місцевій вітрильній майстерні й сказали, що оплатять переробку.
 
-Чесно кажучи, частина провини моя. Я перевірив кожен розмір і параметр перед замовленням, але навіть не подумав перевірити, які повзуни вони поставлять. Припустив, що підберуть під дані човна. Помилки трапляються. Важливо, як компанія з ними розбирається, і поки що Far East поводяться професійно.
+Чесно кажучи, частина провини на мені. Перед замовленням я перевірив кожен розмір і кожну характеристику, але мені й на думку не спало перевірити, які повзуни вони поставлять. Я вважав, що вони відповідатимуть даним човна. Помилки трапляються. Важливо, як компанія їх виправляє, і поки що Far East поводяться професійно.
 
-Ще одне: вітрило треться об виріз доріжки оттяжки в гіку. Це мій гік, а не вітрило, тож треба виправити, поки не протерлося.
+І ще одне: вітрило треться об виріз доріжки аутгола в гіку. Це вже мій гік, а не вітрило, тож треба виправити, поки не протерлося.
 
 ![Новий грот на щоглі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxHK5TXVBlcdEd82WmhRokCuDQYKj0JY5ifcl3et545x4xTti-7CeKGZMxYSq18EcVYJbR35Y_huMn_5Pq3MjbTySs7eBtKTEaJ1uIesaRmTAr2neS43IzCIKowHYZhg9prccdKK-tumxf83m1_Wa9oQomwE4TTFvvL3Zw8nsunWk6BiEyDVHRJiFteQi/s1600/IMG_1563.HEIC)
 ![Заміряю повзун вітрила штангенциркулем](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Tz7k9evR4EBw_M3qph4OI9JbHo3sot4AoPUAxIPWDsaKhSL4NMJ5bgIITXxxZOVAP3YZRcPmbGV_Eb8mXz4nMtNjsXqCTTDmV4t6_DUryc0vlfjkiwYnckwmNWqNabJspH915Eggdvw1qd92a2VfcSgksdoAD7_FRH7RhSydA5ePs9YhRlO4W13lJnmO/s1600/IMG_1567.HEIC)
@@ -192,11 +191,11 @@ Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mains
 
 Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhull-line-setup.html)
 
-## Оттяжка, яку справді можна регулювати
+## Аутгол, який справді можна регулювати
 
-Оригінальний кінець гіка був повною катастрофою. На шкотовому кінці гіка просто гачок: оттяжка йшла від шкотового кута на гачок, потім на блок, потім назад на рогату утку на кінці гіка. І як мені це регулювати на ходу? Ніяк не дати оттяжці нормального натягу, особливо на вітрі. Топенант теж був якийсь дивний.
+Оригінальний кінець гіка був повною катастрофою. На кінці гіка з боку шкотового кута був лише гак: аутгол ішов від шкотового кута до гака, потім до блока, а потім назад до рогового стопора на кінці гіка. І як я маю регулювати це на ходу? Нормально натягнути аутгол було неможливо, особливо на вітрі. Топенант теж був дивний.
 
-З новим вітрилом я хочу регулювати нижню шкаторину на ходу, тож у липні 2026-го зробив для оттяжки поліспаст 4:1. Тимчасово. План — переробити весь гік під 4 рифи (замість одного, що є), оттяжку і топенант: блоки всередині гіка на кінці, кінці виходять по боках. Правий бік отримує рифи 1 і 3, лебідку #10 і рогату утку. Лівий — рифи 2 і 4, лебідку #10 і рогату утку. Може, ще стопор на кожен кінець перед лебідкою, щоб її можна було звільнити.
+З новим вітрилом я хочу регулювати нижню шкаторину на ходу, тож у липні 2026-го зробив для аутгола поліспаст 4:1. Тимчасово. План — переробити весь гік під 4 рифи (замість одного, що був), аутгол і топенант: блоки всередині гіка на кінці, снасті виходять з боків. Правий бік отримує рифи 1 і 3, лебідку №10 і роговий стопор. Лівий — рифи 2 і 4, лебідку №10 і роговий стопор. Може, ще стопор-«ластівку» на кожну снасть перед лебідкою, щоб лебідку можна було звільнити.
 
 ![Оригінальний кінець гіка і снасті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsc94otXdTnvd_DPhXi_g3Xn6I6Z_jmpbVNVw4XCaNgG2P6yj4GO6eQqvAh8DmH8WfoTuQpArsymbBS6TkMULS4EpQWC7bDhKQ6k2EcHMI9Tsml-B3nwtPvXetmyX09oSejYpjMFzk9MN2BhyW9exJb46jlns2TuQc7PaqVvoyFfpc9e7sKSZnoPR1zQam/s1600/3.png)
 ![Кінець гіка з гаком аутгола](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuCzdDD-AmJC1SFzKuOxFgr88DmIR-sNuL6Q5VlN3JO1s9QaUNc40q6FUFPKuZybHCEqKynCZd2p_mlf_5qHPOA-RpRPA6vkgPAZCAb2kZw8hdETMMIBnu7wyIcpxZTZl0ouNKDjAiDXZCQJlfviql1JgczuQEzj6zJwjmLOFHDZW82Y5Tg3NwIb9DdBX8/s1600/2.png)
@@ -207,23 +206,23 @@ Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhul
 
 ## Рифові блоки, лебідки і трохи математики
 
-З чотирма рифами я хотів знати, з якими навантаженнями насправді маю справу, і цифри мене здивували. На четвертому рифі залишається ще близько 4,9 м² вітрила. При найгіршому варіанті, 60 вузлах, це приблизно 3,7 кН. Якщо 40% із цього йде на рифовий кут, це 1,5 кН. Дві гілки рифового кінця тягнуть під малим кутом, близько 10°, тож кожна несе близько 4,3 кН. Додай 50% на пориви, полоскання і ривки — і маєш 6,4 кН. Тож потрібні блоки десь на 8 кН. І для кожного рифу виходить приблизно те саме:
+З чотирма рифами я хотів знати, з якими навантаженнями насправді маю справу, і цифри мене здивували. На четвертому рифі лишається ще близько 4,9 м² вітрила. У найгіршому випадку, при 60 вузлах, це приблизно 3,7 кН. Якщо 40% з цього йде на рифовий шкотовий кут, то це 1,5 кН. Дві гілки рифового шкерта тягнуть під пологим кутом, близько 10°, тож кожна гілка несе приблизно 4,3 кН. Додайте 50% на пориви, ляскання і ривки — і маєте 6,4 кН. Тож мені потрібні блоки десь на 8 кН. І кожен риф виходить приблизно так само:
 
 - Повне вітрило: передня шкаторина 11,14 м, 25,6 м²
-- Риф 1: 19,2 м² (75%), до 20 вузлів, пікове навантаження на кінець 2,8 кН
+- Риф 1: 19,2 м² (75%), до 20 вузлів, пікове зусилля в шкерті 2,8 кН
 - Риф 2: 13,6 м² (53%), до 30 вузлів, пік 4,45 кН
 - Риф 3: 8,8 м² (34%), до 40 вузлів, пік 5,13 кН
 - Риф 4: 4,9 м² (19%), до 60 вузлів, пік 6,43 кН
 
-6 кН — це близько 350 фунтів. Руками таке не витягнеш, тож на гіку потрібні лебідки. Але й лебідка не повинна вміти перевантажити кінці. Лебідка #10, яку міцна людина крутить із силою 70 фунтів при передачі 10:1, дає 700 фунтів. Годиться.
+6 кН — це близько 1 350 фунтів. Руками таке не витягнеш, тож на гіку потрібні лебідки. Але й лебідка не повинна мати змогу перевантажити снасті. Лебідка №10, яку крутить сильна людина з зусиллям 70 фунтів при 10:1, дає 700 фунтів. Годиться.
 
-Наступна проблема: гік вигнутий. Я зробив проставки з ASA, надруковані зі 100% заповненням, по формі гіка. З опорною площею близько 2400 мм² навіть 12 кН стягування гвинтами дають лише близько 5 МПа, для ASA це дрібниці, а пластик трохи піддається і краще сідає на гік. Усередині гіка суцільна підкладна пластина об'єднує всі чотири гвинти M5, тож навколо гвинтів нічого не мнеться і не тріскає.
+Наступна проблема: гік вигнутий. Я зробив проставки, надруковані з ASA зі 100% заповненням, за формою гіка. При площі опори близько 2 400 мм² навіть 12 кН затягування гвинтів дають лише близько 5 МПа, для ASA це легко, а пластик трохи піддається і краще прилягає до гіка. Усередині гіка суцільна опорна пластина зв'язує всі чотири гвинти M5, тож довкола гвинтів нічого не вминається і не тріскається.
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Коротко: блоки й лебідки стають на гік на надрукованих проставках, що повторюють його вигин і розподіляють навантаження. На папері ASA проходить. Підступ у тому, що гвинти доведеться кілька разів підтягувати після монтажу.
+Коротко: блоки й лебідки стають на гік на надрукованих проставках, що повторюють його вигин і розподіляють навантаження. На папері ASA достатньо. Підступ у тому, що після монтажу гвинти доведеться кілька разів підтягувати.
 
-Проставки під блоки: зовнішні з одного боку пласкі, а з другого — по формі гіка. Вони несиметричні, тож один блок сидить на 10 мм вище осі гіка, а другий на 10 мм нижче, щоб рифові кінці, ближчі до кінця гіка, ходили вільно і не чіпляли сусідній блок. Усередині гіка ще одна проставка тримає підкладну пластину паралельно блоку. Ці пластини з нержавійки 304 товщиною 3 мм, із зенкованими отворами і центральним отвором під гвинт, що тримає пластину на проставці.
+Проставки під блоки зовні пласкі, а з другого боку повторюють гік. Вони несиметричні: один блок сидить на 10 мм вище осі гіка, другий на 10 мм нижче, тож рифові шкерти, ближчі до кінця гіка, ідуть вільно й не зачіпають сусідній блок. Усередині гіка ще одна проставка тримає опорну пластину паралельно блоку. Ці опорні пластини — з нержавійки 304 товщиною 3 мм, з конічними отворами, плюс центральний отвір під гвинт, що тримає пластину на проставці.
 
 ![Надрукована проставка під рифовий блок, згори](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWaoYx4K-Kg66g87Fioc4RqUZjOWDFiyavwxNnx4xGD42NuhDh7_NQBpdC_cE2hkKc8CeJke5wN9E3QaZKdBI0bPSkwhGk-ldWaCxyhQpYfics5Y8kQdalZqLBPp8N_T0zWz5qdfn8mE_OI-33Hi87T6d7XZaU9paqadta3UQrqDmwQ4AeFLeSSBAtCYnD/s1600/IMG_2636.HEIC)
 ![Надрукована проставка з отворами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JfuxWBXRt36aqA_sfGeb_I_dB6DZ6FrrTzC_Gqbob7BUGwy3tY3LOzTlKVBiJzo0OG-2XCG04fTuoxY7xr95KW3lHOA5QGtpH9Sk668y_XU2xWuBlmp2TKtUYrXSMqi_6SP8oQr_43Svjv9GaGVPSOnOUhzRoh13heNzxUmazC5t-DU4-OjhwSvslSCF/s1600/IMG_2635.HEIC)
@@ -232,7 +231,7 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Для лебідок: зовнішні проставки, а всередині підкладні пластини з нержавійки 5 мм, які тримаються дрібними гвинтами.
+Для лебідок: зовнішні проставки, а всередині опорні пластини з нержавійки 5 мм, що тримаються маленькими гвинтиками.
 
 ![Кругла надрукована проставка під лебідку на гіку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_tOgnFCQ_wSW_OieJpnnrLJfofFx6jXl-vs_zq-NU01y4E19Z_DNzw7D8FebRv3Af5_p_ZGjZVbJO0z6x0kykolw0WwckX13k-BJ8L-DRuQ0XHBCLrMY1ro1oOn3cWz_87fcUqAs6Fqk1vdbYQCxz2dgtz0yshwTYn0zKt461yrPMxr3NJei4RqjFM36v/s1600/IMG_2637.HEIC)
 ![Тонка проставка по вигину гіка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPDbG8jBbctrYPUOePEL8K60iPWavnUFTZiKT7a0I70kaGZoyxlFB8AIG2CxPF0u1B7W5EiahV3ddRR6nxIGqAV4Zx4ahJdBH9HK83SCL-8u5ggIddEc1hTRW1YTt1hyW_ImPijPBW-U2sP9YAca4HWRdAFDJHrK2dcGMZhY4wf8oVcUlQVIqeblHFzBcm/s1600/IMG_2638.HEIC)
@@ -241,7 +240,7 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Як поставити підкладну пластину всередину закритого гіка: надягаєш зовнішню проставку і використовуєш її як кондуктор для свердління. Приклеюєш пластину термоклеєм до дерев'яної рейки і заштовхуєш усередину, потім протягуєш тонкий сталевий тросик, щоб підтягнути пластину і суміщати отвори. Коли збіглися — свердлиш маленький отвір лише в алюмінії по центру, зенкуєш і ставиш маленький гвинт, щоб тримав пластину на місці. Tef-Gel на гвинти й отвори, і ставиш блок. Гарно ж, правда?
+Як поставити опорну пластину всередину закритого гіка? Ставиш зовнішню проставку і використовуєш її як кондуктор для свердління. Приклеюєш опорну пластину термоклеєм до дерев'яної рейки й заштовхуєш усередину, потім протягуєш тонкий сталевий дріт, щоб підтягнути пластину так, щоб отвори під гвинти збіглися. Коли збіглися, свердлиш маленький отвір лише в алюмінії, по центру, зенкуєш його і вкручуєш маленький гвинтик, щоб тримав пластину на місці. Tef-Gel на гвинти й отвори, і ставиш блок. Гарно ж виглядає?
 
 ![Проставка як шаблон для свердління гіка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXCDBAKr5sorkorHpMa-o3BWtE6eMrYBE-sr8BkivPJyFFlTjEY29r2SHeMU5A_yuPsvXijOFzglULYfQO2ePj46dYUhYSRczN_6gRyDfHXGO8ODssRQm5lZd47sHuT6RMf8HBYz7cYt6zSHXPB6U_m84wzrIVzhDoNA1TQJyxAVI8seEPxsSzHB8yYj3C/s1600/IMG_2583.HEIC)
 ![Підкладна пластина, приклеєна до рейки, щоб завести в гік](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1L53vx_1Iazsi7gYMaSEk7kLkugSRJFB9nzW2LAhWdqTXVXhS10b-3140uC4xZV9sdu3SuMzpbOynLMGLhA8kuIF3lVgly-2SLvCngcnj5KQsmD7BV2tg30jWUgNydVV3KIIsNKoXln79bVxhc0H9a9azp39nnbcpM4kDwWL3Tin5pzgKE-44JDrb1yU6/s1600/IMG_2589.HEIC)
@@ -252,7 +251,7 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Потім дві лебідки, з підкладними пластинами так само. Спершу примірка, потім лебідка на місці.
+Потім настала черга двох лебідок, з опорними пластинами за тим самим методом. Спершу примірка, потім лебідка на місці. Чотири рифи, дві лебідки і гік, який нарешті працює на мене, а не проти мене.
 
 ![Основа рифового блока і підкладні пластини](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQTaYcyrHJmSqh6KQ1HlSXcFTQzdN-AunFdjCZlMFpuKnZCRtHqPN_dTrDvQMW0uGuSkibZuHOpfo3YR5ZyxY8o1LhBIgPJ30418gb8iFRnfa47W_0us-HrUvtfXewvIeWhmnTOFd1D70ocgcf48E6KWH0IktpFekAJAZiLAhRk7FVcz4SwZqD8QYaAGxp/s1600/IMG_2595.HEIC)
 ![Підкладні пластини і проставка з рейкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-2Bh3sta_4GjRFkFzLy4wa9vMfCSXqGhvLGhMuJpR-D55L5Q5OEhTUTt8V-kaznir9CL_ytXzIe1b2lsohLG5eUM_JPleg9P4x8eFJFQpx-_7nqP2TdIoOyZQWcYvwYxxO0LrWOQkR2eg3eIFlYYcIxRb8GQb2GShntUuTzadqWU2arPIeR7EpJbpcO1/s1600/IMG_2597.HEIC)
