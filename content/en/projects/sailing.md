@@ -200,9 +200,9 @@ July 4th, 2024: six hours of sailing. A good way to celebrate.
 
 Diary: [4 Jul 2024](https://irwin34.blogspot.com/2024/07/day-156-7424-sailing-6-hours.html)
 
-Viktor Jr. at the helm, the standard picture. 11.6 NM in 3 hours, 10–18 knots, reefed. Pretty good sailing: heel under 15°, holding 3–5 knots.
+VicVic, my younger son, at the helm. The standard picture. 11.6 NM in 3 hours, 10–18 knots, reefed. Pretty good sailing: heel under 15°, holding 3–5 knots.
 
-![Viktor Jr. at the helm](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaz1Gmcwp4Ohnj9_HawtI5pHtNdv7-tyd5VtVxCo5sLGydg8FSk2sFImeJXczflmJwnBYEePWIsN0A4MvVrDtBLqDhc3JQIPvbkw2ukLMA2ehWGdTPeQtGEMy3hbVUj-v6ITbEICyZc736wt7DPLBmwN9eV6WwKNZO-U94_19DwnD6HkgOmwo4IwcLYB8D/s1600/IMG_8647.HEIC)
+![VicVic, my younger son, at the helm](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaz1Gmcwp4Ohnj9_HawtI5pHtNdv7-tyd5VtVxCo5sLGydg8FSk2sFImeJXczflmJwnBYEePWIsN0A4MvVrDtBLqDhc3JQIPvbkw2ukLMA2ehWGdTPeQtGEMy3hbVUj-v6ITbEICyZc736wt7DPLBmwN9eV6WwKNZO-U94_19DwnD6HkgOmwo4IwcLYB8D/s1600/IMG_8647.HEIC)
 ![Vira under reefed sails](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDNVRX5cnGcFJsIj4ylRBLH7mw_7_PtoM9xJwBMGyOSJ0WL2sZzJDHdTROW4Jyfflb8TkI1aLihyphenhyphen0Q5MxuH58raArGZ4j5Si_WZ7TkxVTv2oMu1dZaeRpaW3m3Cwv2cjo2rQrwGm6sjTXd1dczrScrpvzAAzpTvfBJvJP-wfyUHYgvkmrfwQiRlVupS7y/s1600/IMG_8646.HEIC)
 
 Diary: [27 Jul 2024](https://irwin34.blogspot.com/2024/07/day-160-72724-fuel-tank-part-2-desision.html)
@@ -453,7 +453,7 @@ Sometimes the best piece of cruising gear is just a helpful person on the dock i
 
 The next morning we didn't want to overuse the hospitality, or get "caught trespassing", so we left as early as we could. The plan was 6 AM, but after a good night with the AC I barely scraped myself out of bed at 7. A quick coffee, some breakfast, and off the dock ASAP. Symphony of the Seas had been docked about 1,000 feet from us that night; I took her picture as we passed. Goodbye, Galveston, city of big ships.
 
-On the way back we followed the east side of the ship channel. Nice wind, sailing at 15° of heel. We met a boat from our marina on the way. And these bastards found us in the middle of Galveston Bay, hundreds of them! They don't bite, they don't sting, but they're too annoying. At 3 PM the wind died below 2 knots, so we started the engine and motored the last hour home.
+On the way back we followed the east side of the ship channel. Nice wind, sailing at 15° of heel. We met a boat from our marina on the way. And these bastards, lovebugs, found us in the middle of Galveston Bay, hundreds of them! They don't bite, they don't sting, but they're too annoying. And they fly in pairs, so it's always twice as many as you think. At 3 PM the wind died below 2 knots, so we started the engine and motored the last hour home.
 
 ![Sunset on the hook](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfRotveqpPsC60-VbQrITuQlCM8ueH6p2-Gw37n1tSS3cPIjM0Xal-79dOCLIHIyavyuyFh4mEUmu8mKDY9AlnX_3-ZogUCz6bhBQ9-EMTo-STkYvNR6R1jBhLbWGmA5V_rTsu6bV0d05o-3MuCFAcSw90UNVrsMf5YKwWxOUGzovuHleYjacBk_h2PPr/s1600/IMG_2391.HEIC)
 ![Symphony of the Seas docked in Galveston](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw2a60_fRq342cjdY152UwRObbXdTVLZVI8e-sJGiSUswT3dprKHmeKup34Ije4aShUGSrPzhOSbJucvtgaSEXwNbNb5OgFUm22UvTOlBBt76LdL5wDCqWznTD1kBFTCUtNQlP-hTQ7JWYegHnsMRUC3vvNBvMAbQ_FNN3yW3Qobom50kiRil8QSP5qEo/s1600/att.w_oh9VTjOySmPvWqZ_vdhDgnHFwws3jfRRRgiDxGuz0.jpg)

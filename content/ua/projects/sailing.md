@@ -202,9 +202,9 @@ Diary: [28 May 2024](https://irwin34.blogspot.com/2024/05/small-wind-puff-on-mat
 
 Diary: [4 Jul 2024](https://irwin34.blogspot.com/2024/07/day-156-7424-sailing-6-hours.html)
 
-Віктор-молодший за штурвалом. Стандартне фото. 11,6 милі за 3 години, 10–18 вузлів, з рифами. Дуже гарне плавання, крен менше 15°, тримали 3–5 вузлів.
+ВікВік, мій молодший син, за штурвалом. Стандартне фото. 11,6 милі за 3 години, 10–18 вузлів, з рифами. Дуже гарне плавання, крен менше 15°, тримали 3–5 вузлів.
 
-![Віктор-молодший за штурвалом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaz1Gmcwp4Ohnj9_HawtI5pHtNdv7-tyd5VtVxCo5sLGydg8FSk2sFImeJXczflmJwnBYEePWIsN0A4MvVrDtBLqDhc3JQIPvbkw2ukLMA2ehWGdTPeQtGEMy3hbVUj-v6ITbEICyZc736wt7DPLBmwN9eV6WwKNZO-U94_19DwnD6HkgOmwo4IwcLYB8D/s1600/IMG_8647.HEIC)
+![ВікВік, мій молодший син, за штурвалом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaz1Gmcwp4Ohnj9_HawtI5pHtNdv7-tyd5VtVxCo5sLGydg8FSk2sFImeJXczflmJwnBYEePWIsN0A4MvVrDtBLqDhc3JQIPvbkw2ukLMA2ehWGdTPeQtGEMy3hbVUj-v6ITbEICyZc736wt7DPLBmwN9eV6WwKNZO-U94_19DwnD6HkgOmwo4IwcLYB8D/s1600/IMG_8647.HEIC)
 ![«Віра» під зарифленими вітрилами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDNVRX5cnGcFJsIj4ylRBLH7mw_7_PtoM9xJwBMGyOSJ0WL2sZzJDHdTROW4Jyfflb8TkI1aLihyphenhyphen0Q5MxuH58raArGZ4j5Si_WZ7TkxVTv2oMu1dZaeRpaW3m3Cwv2cjo2rQrwGm6sjTXd1dczrScrpvzAAzpTvfBJvJP-wfyUHYgvkmrfwQiRlVupS7y/s1600/IMG_8646.HEIC)
 
 Diary: [27 Jul 2024](https://irwin34.blogspot.com/2024/07/day-160-72724-fuel-tank-part-2-desision.html)

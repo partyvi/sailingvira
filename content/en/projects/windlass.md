@@ -315,7 +315,7 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 ## Cracked shackles
 
-November 2026. After four years I decided to replace the windlass motor with a brand new one. Mine sometimes lost power on long, hard pulls. I know why: when I repaired it, I couldn't find the right brush springs and used what I had, and probably one spring loses strength when the brush gets hot. I'll replace the springs and keep the old motor as a spare.
+November 2026. After two years I decided to replace the windlass motor with a brand new one. Mine sometimes lost power on long, hard pulls. I know why: when I repaired it, I couldn't find the right brush springs and used what I had, and probably one spring loses strength when the brush gets hot. I'll replace the springs and keep the old motor as a spare.
 
 During that work Vic found that both shackles on the anchor chain were cracked. When I took the pins out, I could break them in half by hand. I can't imagine how I didn't lose my anchor!!!! I replaced them with galvanized ones. There's really no point in stainless shackles between a galvanized anchor and galvanized chain.
 

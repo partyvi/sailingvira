@@ -249,7 +249,7 @@ I cleaned the rotten plywood out of the galley wall cabinet and kept the frame t
 
 Diary: [12 Dec 2021](https://irwin34.blogspot.com/2021/12/day-3-lot-of-measurements-and-removing.html)
 
-I checked how much water was around the chainplates: five test holes from inside, and about 10 inches was empty. Then I measured everything that needed replacing: the opening and fixed ports, the companionway frames and hatch, the chainplates. It's all in my work notebook.
+I checked how much water was around the chainplates: five test holes from inside, and about 10 inches was a void, with no core at all inside the deck. Then I measured everything that needed replacing: the opening and fixed ports, the companionway frames and hatch, the chainplates. It's all in my work notebook.
 
 ![Notebook sketch: port dimensions](https://blogger.googleusercontent.com/img/a/AVvXsEjyvO71I4Uaz12oiS-HlOYDLk5zOb5vMPH674jXMZO2dUhRYXLKv7c5bGaxoWm2osOrNHHfEVnVLtkZIBpHscBu9bvpbV-ODPwt7Yqiz9WoNDOEcYAFmdAkNZwyJquW6gS366DhqIdalLqWmlAiOq112i4t4ny4nkzFSIOKkOGYwtYnZ66rjDjI7GTKUg=s1600)
 ![Notebook sketch: companionway frame measurements](https://blogger.googleusercontent.com/img/a/AVvXsEicOtR1sIhvxoFfOMPFNsUTRAD1azuDBTyK-GIZ1SfwwAaG9YbHNqAn9c1W563U822o7Krzcwk5VPGi1BxxRwHORXc9hrfUsbQvtVkkPf3uWaNUHv4PlR8wfYFj5Ev7G0FZmQbLI_QxZs19So-4iugLJ99o1iMZchPwrZlnRutcgCwk7Rz8G34vK-Fjsw=s1600)

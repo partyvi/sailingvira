@@ -537,10 +537,10 @@ Small things that last weekend:
 - Documentation number on the hull inside, glassed over, and on the main bulkhead in epoxy.
 - Sealant on the inside of the ground plate bolts. Cable gland by the mast ready for wires.
 - Cotter pin on the prop nut, anode on the shaft, Lanocote on the shaft and prop.
-- Measured underwater. Draft is 4 ft 2 in. From the keel bottom to the deck is 9 feet, so from the waterline to the mast base is 5 feet.
+- Measured underwater. Draft is 4 ft 2 in, with the centerboard up. From the keel bottom to the deck is 9 feet, so from the waterline to the mast base is 5 feet.
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)
 
-In March, in the water at Kemah, I filled the front water tank to check the waterline. Simple, if you have a second person on the valve. Mine ended up flooding the V-berth, and I had to rescue the cushions.
+In March, in the water at Kemah, I filled the front water tank to check the waterline. Simple, if you have a second person on the valve. Mine ended up flooding the V-berth, and I had to rescue the cushions. But I checked it: the painted waterline came out exactly where it should be.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)

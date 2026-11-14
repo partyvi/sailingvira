@@ -250,7 +250,7 @@ The goal: comfortable, safe, to standard, reliable, easy to fix if something fai
 - A dual battery isolator, so the alternator charges both batteries.
 - An "ideal diode" module, so the house runs from a 14 V shore power supply when available. A battery charger gets confused when loads are on the battery while it tries to charge. No more confused charger. (Spoiler: it found new ways to get confused. See "Lithium lessons" below.)
 - A smart monitor on each battery: two 400 A shunts and their electronics.
-- Wiring for my 350 Ah 12 V lithium battery to the 3 kW inverter, with a fuse and a switch. The lithium doesn't feed the 12 V system directly, only the inverter. A DC-DC charger to the house battery will come later.
+- Wiring for my 2,480 Wh lithium-ion battery to the 3 kW inverter, with a fuse and a switch. The lithium doesn't feed the 12 V system directly, only the inverter. A DC-DC charger to the house battery will come later.
 - 4 AWG from the batteries to the DC panel, good for up to 130 A.
 
 ![Notebook sketch of the new battery wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOsSKB6ksSSybnmScBXpTcPr1elhe2tyKIg9sqp9nFUzUKc6DC9GDJBwjN1KHP9mx30EuTFVgR9JV8figuf3cA8YPqnNkwRNNb2IRKbSTmpI8l8qsYyRH3bGTVZ1OzmV7_HCut-bpfTDiHw-maN07wrCfrjRWh51sHCDI7O0SElyJiDBiC4zQVYs7Xb_By/s1600/IMG_7329.HEIC)
@@ -281,7 +281,7 @@ I also found something pressing on the back of the big cockpit screen, stressing
 
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
-All the antenna cables are now joined with N-type connectors, ready to close the headliner. Testing with a handheld VHF, the signal is much better from the masthead antenna. Unfortunately there's no radio check service in Austin; at least I didn't find one. And a "booster" battery, another 67 Ah, went in next to my 268 Ah inverter battery. The small wire powers the smart monitor. I still need to figure out how to secure the batteries in the locker.
+All the antenna cables are now joined with N-type connectors, ready to close the headliner. Testing with a handheld VHF, the signal is much better from the masthead antenna. Unfortunately there's no radio check service in Austin; at least I didn't find one. And a "booster" battery, another 1,200 Wh, went in next to my 2,480 Wh lithium-ion inverter battery. The small wire powers the smart monitor. I still need to figure out how to secure the batteries in the locker.
 
 ![Antenna cables along the ceiling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdWs-6bccy6mMYpbo-g3PX77jQZ_C4417l5t2Cd5fdcweAlg1p2alUV2meTObiIcd5pIzd5v3nSIOdgcIcWxaJ6mhLx9dKtBZSMTIBUUU4cE57uZTgT9n5v-C3Jipl47fyDh44C7RuPa7t7oqdkapdIZBo211iOXOltjStbdEP1Ix59Zkrlg_9VYCyHApW/s1600/IMG_7631.HEIC)
 ![Handheld VHF testing the masthead antenna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcQZqNKFP4TUkHUEvNM1Z8VSZKk53uWCus2CtLXUOuYqEvc-qGDn2p0kPreMVfVUBIbX0c8MnGtBfQOjKqOlvPowCEtzIT5fevJDI61UHKupUJZAt176EZs6Ww0kgmDa6BjJ03M2Y3rZ6gqsyNeCYlLUYHS8r4fyAD62IdJkahSXOIds2bLE3shBxS4mbz/s1600/IMG_7632.HEIC)
@@ -336,6 +336,8 @@ Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind
 
 ## Lithium lessons
 
+In 2025 the lithium-ion inverter battery (2,480 Wh plus the 1,200 Wh booster) was replaced with one 315 Ah LiFePO4 battery.
+
 March 2026: the new 100 Ah LiFePO4 house battery had been in for a few weeks without a proper fuse. A class-T fuse went on the battery cable. Breaker guards went on the main panel. And a Victron 25 A charger for the inverter battery was wired in behind the panel. Still to do: its 110 V feed, and a relay to block charging when the 110 V system runs from the inverter.
 
 ![Victron 25 A charger behind the panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqwQ5ZT3V_QSB8Cp8l6lADtiCRCWkUcZZTquOkeKAHhRGvfNHLlOgoCdSzypw-HJh_1Gk7EZnKlNs7URWZ55WH3jenqcm2PI5_UXtVJcXBsIDUw8PTGNXsSDXat-jtfUP9Xgmo6hyphenhyphentwwHCI8ZPKYc7Xw1wys-9HmEkPa0P1OiG5BkM9wv3EacyiKpi0Amc/s1600/IMG_0983.HEIC)
@@ -351,7 +353,7 @@ Also in April, I added a dimmer for the indicator LEDs on the main panel.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-I have a NOCO GEN5X3 three-bank charger for the start, house and windlass batteries. It worked well for about five years with lead-acid. Then the house battery became LiFePO4, and I switched that bank to lithium mode. Everything looked fine at first. I also had a 40 A, 14.2 V power supply running the 12 V system from shore power, joined to the battery through a 100 A ideal-diode module.
+I have a NOCO GEN5X3 three-bank charger for the start, house and windlass batteries. It worked well for about four years with lead-acid. Then the house battery became LiFePO4, and I switched that bank to lithium mode. Everything looked fine at first. I also had a 40 A, 14.2 V power supply running the 12 V system from shore power, joined to the battery through a 100 A ideal-diode module.
 
 One night, sleeping aboard, I saw the lights blinking now and then and the nav computer rebooting every 10–15 seconds. A mystery. I checked for heavy loads, loose connections, bad wiring. Then I saw the NOCO showing "Overvoltage" on the lithium battery. Surprising. The BMS showed nothing suspicious: the battery was simply at 100%.
 

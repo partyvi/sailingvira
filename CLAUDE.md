@@ -34,6 +34,12 @@ The site will be published at **sailingvira.com**. The domain currently redirect
   as a pull request that Viktor reviews; later Claude may publish directly.
 - **Launch:** the site stays hidden from search engines (noindex) until Phase 5.
 
+## People in the stories (Viktor, Nov 2026)
+
+- Maria: Viktor's wife. Andriy: older son. Viktor: younger son, the same name as his father, so sometimes
+  "VicVic" or "Vic" (never "Jr."); he is Viktor's co-captain. Eugene: a friend (named in the Mast story; Viktor
+  asked not to name him in Standing rigging).
+
 ## Roadmap
 
 1. Source on GitHub (done: first commit).

@@ -308,7 +308,7 @@ Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-d
 
 ## The household compressor dies at sea
 
-Years before, I had put the guts of a household refrigerator into my icebox. It worked surprisingly well through years of lake sailing. A few days in Galveston Bay finished it off.
+Three years before, I had put the guts of a household refrigerator into my icebox. It worked surprisingly well through three years of lake sailing. A few days in Galveston Bay finished it off.
 
 A household compressor has the motor and pump hanging inside the case on springs. At sea, especially in "washing machine" conditions (2-foot waves at a 3-second period), it got thrown around so much that one hot wire rubbed through its insulation and shorted to the case. The next time it got wet, the compressor died.
 
@@ -330,7 +330,7 @@ Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-wit
 
 ## So I built my own thermostat
 
-I went through three of those cheap Chinese thermostats in four years. I think the problem is the sensor and its circuit: moisture and vibration make them unreliable. The last one, after a few days, showed +26 °C when the box was cold and +2 °C when it was warm. Maybe it was interference from the AC wiring, but I got tired of this battle.
+I went through three of those cheap Chinese thermostats in three years. I think the problem is the sensor and its circuit: moisture and vibration make them unreliable. The last one, after a few days, showed +26 °C when the box was cold and +2 °C when it was warm. Maybe it was interference from the AC wiring, but I got tired of this battle.
 
 Welcome to my life. I designed my own: a 1-Wire digital temperature sensor, remote control, a link to the boat computer, a food safety alarm if the box stays above 7 °C for too long, and extra compressor protection. It's built around an ESP-12F module, a great fit for this, on a board made for a small IP68 box. Full user manuals are on the blog, and schematics, BOM and Gerbers are available on request.
 
@@ -368,7 +368,7 @@ Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-th
 
 ## A real lid
 
-The refrigerator lid had zero insulation. It was just a plug for the hole in the countertop, and for years after the conversion it was a piece of foam. I wanted better insulation, and a lid that closes airtight, so humid air doesn't build up ice on the evaporator.
+The refrigerator lid had zero insulation. It was just a plug for the hole in the countertop, and for three years after the conversion it was a piece of foam. I wanted better insulation, and a lid that closes airtight, so humid air doesn't build up ice on the evaporator.
 
 I modeled two parts in 3D. An outer frame, glued into the opening, sealed around the insulation and epoxied to the walls, so the top insulation can't get wet. And an inner shell, nested inside the frame, that becomes the lid: filled with foam and glassed over, so the foam can't soak up water. A gasket goes between them.
 
