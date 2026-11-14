@@ -280,7 +280,11 @@ def youtube_videos():
     url = site.get("youtube_url", "")
     if not url:
         return []
-    get = lambda u: urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=15).read().decode("utf-8", "replace")
+    def get(u):
+        try:
+            return urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "en"}), timeout=15).read().decode("utf-8", "replace")
+        except Exception as e:
+            raise RuntimeError(f"{u}: {e}") from None
     ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
     err = None
 
