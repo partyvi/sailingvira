@@ -10,6 +10,8 @@ description: "3D-моделі, креслення й електроніка з �
 
 Безкоштовно для особистого використання, з посиланням на Viktor / Sailing Vira. Без комерційного використання. Ліцензія: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.uk).
 
+**[Усі файли проєктів на Google Drive ↗](https://drive.google.com/drive/folders/1jtfntzq7fE0ncKjXItYoTD2zqF0s4XuP)**: окрема папка для кожного проєкту, у кожній — короткий README.
+
 ## Електроніка
 
 Плати, які я спроєктував для «Віри». Схеми, файли плат і прошивки.
