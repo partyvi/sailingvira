@@ -290,9 +290,9 @@ def youtube_videos():
 
 
 VIDEOS = youtube_videos()
-FORM_UI = {"en": {"name": "Your name", "email": "Your email (so I can answer)", "msg": "Message", "send": "Send",
+FORM_UI = {"en": {"name": "Your name", "email": "Your email (so I can answer)", "msg": "Message", "send": "Send", "subject": "new message from the site",
                   "off": "The contact form opens soon. Until then, leave a comment on any diary post."},
-           "ua": {"name": "Ваше ім'я", "email": "Ваш email (щоб я міг відповісти)", "msg": "Повідомлення", "send": "Надіслати",
+           "ua": {"name": "Ваше ім'я", "email": "Ваш email (щоб я міг відповісти)", "msg": "Повідомлення", "send": "Надіслати", "subject": "нове повідомлення з сайту (UA)",
                   "off": "Форма зв'язку скоро запрацює. А поки залиште коментар під будь-яким записом щоденника."}}
 
 
@@ -314,7 +314,9 @@ def special_html(kind, lang):
                 f'<label for="cf-name">{f["name"]}</label><input id="cf-name" name="name" required autocomplete="name">'
                 f'<label for="cf-email">{f["email"]}</label><input id="cf-email" name="email" type="email" required autocomplete="email">'
                 f'<label for="cf-msg">{f["msg"]}</label><textarea id="cf-msg" name="message" rows="7" required></textarea>'
+                f'<input type="hidden" name="_subject" value="Sailing Vira: {f["subject"]}">'
                 f'<input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">'
+                f'<input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">'
                 f'<button type="submit">{f["send"]}</button></form>')
     return ""
 
