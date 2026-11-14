@@ -9,8 +9,10 @@ blog_url: https://irwin34.blogspot.com
 # Boat diary tab (later diary.sailingvira.com)
 diary_url: https://irwin34.blogspot.com
 youtube_url: https://www.youtube.com/@sailingvira
-# Contact form address (e.g. https://formspree.io/f/xxxx). Empty = the form is not shown yet.
-contact_form: ""
+# Contact form address. FormSubmit sends each message to this email. After the first message is
+# activated, FormSubmit gives a random alias: put https://formsubmit.co/<alias> here to hide the email.
+# Empty = the form is not shown.
+contact_form: "https://formsubmit.co/partyvi@gmail.com"
 # Banner photos: Home (16:7) and all other pages (5:1). A path in the site or a full photo URL.
 banner_home: assets/banner-home.webp
 banner_strip: assets/banner-strip.webp
