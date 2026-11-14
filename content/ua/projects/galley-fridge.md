@@ -46,7 +46,7 @@ Diary: [25 Mar 2023](https://irwin34.blogspot.com/2023/03/day-82-325-finishing-l
 
 Diary: [1 Apr 2023](https://irwin34.blogspot.com/2023/04/day-83-4123-finished-mounting-shelf-for.html)
 
-У квітні конденсатор став на задню стінку газового рундука, а систему зібрали й спаяли, сподіваюся, добре. Паяти мідь на склопластиковому човні пальником на газі MAPP без кисню було справжнім божевіллям. Мокрі ганчірки скрізь, кілька нержавіючих пластин від вогню і вогнегасник просто поруч.
+У квітні конденсатор став на задню стінку газового рундука, а систему зібрали й спаяли, сподіваюся, добре. Паяти мідь на склопластиковому човні пальником на газі MAPP без кисню було справжнім божевіллям. Мокрі ганчірки скрізь, кілька нержавких пластин від вогню і вогнегасник просто поруч.
 
 ![Конденсатор на задній стінці газового рундука](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdopF_9Dn1ak9RDHN1fUBofFgwvBwJRS6AcOpt006jTSB4nGZt48sN4dbZBL9KfCqNiI3QZ1pIIz5wzXuvhEHjXuDEuxuHtS8s6mqGI_E3cc5o4F7yfF5_kpJmH7wOrI9Nmu3I4B69_raZ6B60gspHoAxwZ6A5uSfbGZ9244HqRCFL5c0i6HWskPC5FA/s1600/IMG_5556.HEIC)
 ![Холодильна система спаяна](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkgvlwgKCtdka9c9FrD2zkrKh_BSVMPYr5mCHihAtfDcsG1CZiPiFBFGy33--yPSZ3dD7qdGdCU_E77AjO6GDchrEHN1-DRZmzUHjhy9j3H1oHENrraZ8IQiYvjXWnLg9BNhzv3yks2s0f7S3mmarGASMkNHxjGtqGUBIX2Yk-ThDcV-zA3LXDUwxrkg/s1600/IMG_5557.HEIC)
@@ -182,7 +182,7 @@ Diary: [3 Jun 2023](https://irwin34.blogspot.com/2023/06/day-92-6323-galley-coun
 
 Diary: [10 Jun 2023](https://irwin34.blogspot.com/2023/06/day-93-61023-galley-countertop-fit-to.html)
 
-Потім стик газового дренажу проклеїли епоксидкою й заформували 4–5 шарами, а трубку прив'язали до переборки рундука, щоб вона не могла рухатися й знову зламатися. І став новий газовий клапан на нержавіючому кронштейні.
+Потім стик газового дренажу проклеїли епоксидкою й заформували 4–5 шарами, а трубку прив'язали до переборки рундука, щоб вона не могла рухатися й знову зламатися. І став новий газовий клапан на нержавкому кронштейні.
 
 ![Підключення дренажу газового рундука](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVWwjYqdeiUYrA6ZCzIexQ-WtzYQFWgO4WkvQ9pvpz8-2BkBTG7Puvz2-tZUzoJLp8FPw82CH6LOvlj9cnFUk1aca3xZ5k9TpKX-XIXhsZdS123LcrNUVNu-OF-Bt-h-wvz9SEuVNxEqSkFRlpU9XlFmWh1mUnwrvY__FVxBPp_ue7VX0JtOsZUqWB9iNy/s1600/IMG_5938.HEIC)
 ![Газовий соленоїдний клапан у рундуку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaLAwB4dp2ZDpX2d2rN6I7JYWr3MM_dFiUrk0hVqTruS1Y63zd3WPTEER4qWfU9vafROMKxTXmiR-Nd2jxrDYf0I486POP1u79XMoeGpZQHITyeHMy1ppz7J7CLBFMZjPCGjABTwOQ2_t0UU9pCUUGRH3QlwcB_5uCpYPrIWABMs4xWjkB-2fxZYHo-rlG/s1600/IMG_5948.HEIC)

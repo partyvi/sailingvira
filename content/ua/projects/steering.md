@@ -50,7 +50,7 @@ Diary: [19 Jul 2025](https://irwin34.blogspot.com/2025/07/day-208-autopilot-arm-
 
 Узяв його на AliExpress за $11, і, чесно кажучи, зроблений він добре. Контакт ковзає по срібних доріжках, а не по графіту, як у дешевих потенціометрах, тож має прослужити набагато довше. У нього лише 60–80 кроків, тобто трохи менше 2 градусів на крок. Якщо він надійний, мені цього досить. Я додав третій провід, щоб на виході була напруга.
 
-Для кріплення надрукував на 3D-принтері кронштейн, що застібається на швелер, з ребрами під стяжки, і важіль з отвором 32 мм під баллер. З'єднує їх нержавіючий пруток 3 мм.
+Для кріплення надрукував на 3D-принтері кронштейн, що застібається на швелер, з ребрами під стяжки, і важіль з отвором 32 мм під баллер. З'єднує їх нержавкий пруток 3 мм.
 
 ![Датчик положення пера з важелем](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD6u__0_VEa7KtYKqe2B0xOTCGpbiVh3qdmo8f2LqsXrZjOgY9rMJqShY5kEV8GGntotsk4h3Q-YEFKLOqtYW1lIiSJxMiiazlNsJY4JhZL3dQOlif415e5-FkeaE9TdQDNMDRdPe-X3Mt6Z3yNsRuZwtyBC3zR6STlE-esR5uQURu3qE2H4Xh0VYI4eNu/s1600/a1.j.png)
 ![Кронштейн датчика пера на поперечину, 3D-модель](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBPI8eQoDfYFFEZLEIAaf8CVBk9N5T990pxOfHmwQ8CK27n36AkpMCeukk1VOYoAlLCDVvJCgu4lYEKH17V_L508F7F3aeSzL-ere6rQuB-fVDQAYyDNuQiy3oSVPeeyUkspcT45aovOE-dhcnifuMLgzJEJvRkUFFEz510gkc1aM2-nBLWdellQ5rdKf/s1600/a2.png)

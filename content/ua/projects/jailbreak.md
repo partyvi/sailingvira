@@ -201,7 +201,7 @@ Diary: [8 Dec 2025](https://irwin34.blogspot.com/2025/12/day-233-234-boatyard-to
 
 Лютий 2026-го. Вихідні скінчилися, зроблено багато, і ми були готові до щогли, фарби на дно поворотного кіля і до води. На добраніч, солодких снів, «Віро».
 
-![«Віра» з синьою протиобростаючою фарбою на опорах на заході сонця](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSh_FCuj9zcPR32a-Y2PSSPcMC7T96EdiUZGHXplJJpMfF5Px8Gy69H8y3KkZqhmcspnzysPEQiR_xsSgIFmLDM3sVf-iOYxEbrxRnOSyaX6q2x3aoCjACTBdKVjbmqW8CDPfX3e9dIDiUcw6AvMZiRjC9Vg7JbQCtzsAQLRTSnwH_uHE1dLMW4IDvr0Yo/s1600/IMG_0776.HEIC)
+![«Віра» з синьою протиобростальною фарбою на опорах на заході сонця](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSh_FCuj9zcPR32a-Y2PSSPcMC7T96EdiUZGHXplJJpMfF5Px8Gy69H8y3KkZqhmcspnzysPEQiR_xsSgIFmLDM3sVf-iOYxEbrxRnOSyaX6q2x3aoCjACTBdKVjbmqW8CDPfX3e9dIDiUcw6AvMZiRjC9Vg7JbQCtzsAQLRTSnwH_uHE1dLMW4IDvr0Yo/s1600/IMG_0776.HEIC)
 ![«Віра» в тревел-ліфті, знову на воду](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi73TSntnzbepdl6rlCDsA8pCpF-kxt55GJKD4LU0awGiMag9a34O-AVTWP9otV7F3ooSSDmrx2gOFUuB6EG0qbvlPtKrZxhoWxubvWhEixDRDv2ZIOIE2Y-vXeQBz1loKZoIhMs615r57M8kmyX1riXx-AU23cVsMBBz0iqnmj15ebKqcGnav-m8j6z8eZ/s1600/uu.png)
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)

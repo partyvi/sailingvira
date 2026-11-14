@@ -112,7 +112,7 @@ Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-op
 Ось правий борт, перш ніж ми за нього взялися.
 
 ![Днище після мийки під тиском, правий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-cpDHnxQZPvHK1ph-xB1bO0DxghLTgJIuQAgbaQRT3rzPznVay43TSuCwAZoKU5hsebhAXcpL0y3t7Nhl-W99Y5HjaSCSks3o2mG0C56kD2JV6cT73404LhfkMYF8ZtHES8ITnq7MvWHHEIEhGc5eOdK0KTEqdcTi9tSui3QIQ98_FTK2FG4tVPN1pyE0/s1600/IMG_0173.HEIC)
-![Стара синя протиобростаюча фарба і пухирі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjTCuBzLmLr-HYM8v4fPGKY-lkhYtfeSy7GfR8T6hqa5pGd5joMWJj4giPieXp59hf7AkOHQzr9WLe6461KoxiPqYGvgicb_OJkW6PXNDcgvfu9LQynqnQmomV8hJxbcR0fOn4GhVXCkIoMFVBa2oVnSWa1ARyFxQ_Jf9SGg00eslTWKm2-3egyysGzH9/s1600/IMG_0174.HEIC)
+![Стара синя протиобростальна фарба і пухирі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjTCuBzLmLr-HYM8v4fPGKY-lkhYtfeSy7GfR8T6hqa5pGd5joMWJj4giPieXp59hf7AkOHQzr9WLe6461KoxiPqYGvgicb_OJkW6PXNDcgvfu9LQynqnQmomV8hJxbcR0fOn4GhVXCkIoMFVBa2oVnSWa1ARyFxQ_Jf9SGg00eslTWKm2-3egyysGzH9/s1600/IMG_0174.HEIC)
 ![Днище і перо після мийки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWbrLavKnns9SLmmLGaGXBpI0w2muoAfZSO1YYFLPFWhzZ94aYK74xKd_dJAoi-AejDlGVhhBqyHDYdGfLO_yI09Z3dhgaGYHHikveIk-gmYpWTrJ4h-D8nA2Qwrs5W_zoqYI7HSm4FEvtiyMfYrZdI1vrzNnmkC3Vo7yDanYmZDKmItt9FIy5Fm7GeYlA/s1600/IMG_0177.HEIC)
 ![Ватерлінія і днище, правий бік носа](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg56GvnA9y3hhtwLwPzmzbNO_9cuE2c2s6p4h8PeQ9dGwRWwLlc5kncALWKPwR3UPAd-A_AOXWATFiPjsBEEmgZqJ9DnejyxbYiW4hQsf24VRrelkWhKeHbWUgBjDNXo5gdEhhMGs4kOYbhkFK6nyZwVN1IRFfIMAmWvZZCnGQyNGP-yC-U2cIIr-8yqHuz/s1600/IMG_0178.HEIC)
 ![Кіль і днище, лівий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDFg_9XPuY2H43NuOKpOmRR7B7vcdfQ3woe_vuxdihkkMb_pq6_IDDwwFvP1Ofb32LaWJDRfDknUAyskZxc9BdRcQ0DPmywSDkEWLiWwVd1tqExQcVThOusie5tnvhf_m25T8-8PB1zxndlO1B87OhVaaJAZ67Wq4Zm42Nd0Uj613hpugdnbIvYTuGRqTK/s1600/IMG_0181.HEIC)
@@ -120,7 +120,7 @@ Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-op
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 
-До кінця першого дня я розкрив шліфмашинкою кожен справжній і можливий пухир, і рахунок наближався до 50–60. Вік працював над старою протиобростаючою фарбою і зробив приблизно третину одного борту.
+До кінця першого дня я розкрив шліфмашинкою кожен справжній і можливий пухир, і рахунок наближався до 50–60. Вік працював над старою протиобростальною фарбою і зробив приблизно третину одного борту.
 
 ![«Віра» на опорах, лівий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqGsj4xzW4SAB-HQLkSrx6B2RzNXvuYYxsoR77YiVJmCkr5PVs5gIm7jFkJ3mdNgzydYYFXIM4z_10UQvoC7z3J4fFT2kAzKVXrelPI_tYSu8atW62CmccErbPNGpRpBIKEPphqaC7wK5OoGhekqUevK178f9vvJRyR76RdRdu3nXX1rPAUjow_7V-y3_/s1600/IMG_0189.HEIC)
 ![«Віра» на опорах, правий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9VHrrVxTcFuPKtTATEKTipyBmApmNYaibYqsCth0WA1kdA44BcOvQo76VdWQ5mwNMUDfEeucYbQ8GIGPV9DsnMZNENiBtmKMzKAkgqcrKhio99W7hszAPg9bTSpelAiiH6RxqVxQBflPC1XURZoyQXxDEsfTa62jgxxxI7nxCz3Ikx4qWcIukoGUJpKVD/s1600/IMG_0190.HEIC)
@@ -166,7 +166,7 @@ Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-op
 
 ## Дев'ять днів шліфування і склотканини
 
-Потім настав дев'ятиденний марафон. Цілий день шліфування протиобростаючої фарби до чистого гелькоуту. Вік робив великі поверхні, а я розкривав і позначав дрібні пухирі. А їх було багато. До вечора правий борт був готовий, і почався лівий.
+Потім настав дев'ятиденний марафон. Цілий день шліфування протиобростальної фарби до чистого гелькоуту. Вік робив великі поверхні, а я розкривав і позначав дрібні пухирі. А їх було багато. До вечора правий борт був готовий, і почався лівий.
 
 ![Борт із розчищеними пухирями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuLJoUbJcM61fA4SLIhZ8e1GXii4RulL50ya8tE7bpMwEem5IOm-uHYYxZfLOh7yrKZA9vDCO5gq7LDbHlwNjT89usBo6QoeIPBJlGwqh9WhWiItcnUEqhDB_XrzZ52ml_kammmNCcjUeqfnyetXK3STg5ShqL1Y3kiX1Fi5BnnScFvGDRd8kbaPMGXhPl/s1600/IMG_0249.HEIC)
 ![«Віра» з носа, пухирі розчищені](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVSmwkkeO0s4T61kVCCSs0zZEzZLYLh3-JOZ91TftAN6zvUroYL208HW7zrK2j26wx6-g5Xjm-dfwYlEjZsKG2r-xHDNCEQFr25_m8qu1xpHmi0ggnOoM1D_p_FEp9eGPGJ-lYbNauRxWJmNwx8O_VighhV_PfY4_wtHWKmTJhi6LD0nHlcFWJ6i6zC3j/s1600/IMG_0250.HEIC)
@@ -359,16 +359,16 @@ Diary: [28 Dec 2025](https://irwin34.blogspot.com/2025/12/days.html)
 
 ## Фарба, що потьмяніла
 
-28 грудня: другий шар на надводний борт і перший шар протиобростаючої фарби. За ніч уся верф укрилася павутинням.
+28 грудня: другий шар на надводний борт і перший шар протиобростальної фарби. За ніч уся верф укрилася павутинням.
 
-Вранці сюрприз: транець був зовсім матовий, без глянцю, і повний патьоків, а на правому борту були дві великі матові плями від конденсату. І в першому шарі купа бульбашок повітря. Але загалом усе одно краще, ніж напередодні ввечері. Ми вирішили покласти хоча б один шар протиобростаючої, тож прошліфували й днище. Легке шліфування поганих місць угорі й знову весь цикл миття: мило, вода, спирт, липка серветка.
+Вранці сюрприз: транець був зовсім матовий, без глянцю, і повний патьоків, а на правому борту були дві великі матові плями від конденсату. І в першому шарі купа бульбашок повітря. Але загалом усе одно краще, ніж напередодні ввечері. Ми вирішили покласти хоча б один шар протиобростальної, тож прошліфували й днище. Легке шліфування поганих місць угорі й знову весь цикл миття: мило, вода, спирт, липка серветка.
 
 Перший шар TotalBoat Spartan ліг на днище. Лише один, бо скінчилися валики.
 
 Оновлення: фарбування НЕ вдалося. Вологість підскочила десь о 8-й вечора, через шість годин після фарбування, і глянець пішов плямами. Наступного вікенду — третій шар, але цього разу з наметом і великим обігрівачем, щоб не було конденсату.
 
 ![Павутиння на опорах уранці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKFbMezSQp-A_rhDRXwDyaz0Ftq9cUe0ZTZ9VbzLV5Iukfq6juyVoZOS2OKfPGIMfFk-fZEdU6gm3d9g8uQjoMDbNXEx2pwTmQQs83i0JNpNX5Ok1lMOZGHOoHOdkFptGAfBdoXcUCwQhoXzTsdg5yWtLNOZ42H6Y4zIh1Le0clWpBEFOwqCX1jIPT2Eh1/s1600/IMG_0421.HEIC)
-![Другий шар на бортах і перший шар протиобростаючої фарби](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBY9PqyQHAbWkq6nQSkj5jzpn6qqABHeYNfspvirQ0voDoYFW-u7XeBZCrC_rifc4oHJdZcIbPEkzCj1tL2x2W9Kz35S6n_se9x91Fwn307in3tF_am41vvt4m7AT2U0RjW-m6ixAFsqbBMMgX29h_3erJXo61z6M7sX6ICjO915V95nbXKoJqsPIg3xnT/s1600/IMG_0425.HEIC)
+![Другий шар на бортах і перший шар протиобростальної фарби](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBY9PqyQHAbWkq6nQSkj5jzpn6qqABHeYNfspvirQ0voDoYFW-u7XeBZCrC_rifc4oHJdZcIbPEkzCj1tL2x2W9Kz35S6n_se9x91Fwn307in3tF_am41vvt4m7AT2U0RjW-m6ixAFsqbBMMgX29h_3erJXo61z6M7sX6ICjO915V95nbXKoJqsPIg3xnT/s1600/IMG_0425.HEIC)
 ![Синє днище, вигляд із носа](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwkhLBCIDzDypcyCbJpnsyrsdetGpEYDjRlgJUnBR8AGy3cgsNb9F0YXyOwxqredMERnPBFg_KMM_sLO9QhEpCtvaim_LB850zZQvJ-0Gv3vnuXL0d7u52_UTw0H4VY86G-_7EBcP8VXchyphenhyphenp3S3e-9IzY3D7Px8TDm4pNMTZ1i7KuGgNKqieMl8KzGsjvh/s1600/IMG_0428.HEIC)
 ![Днище пофарбоване, Віктор поруч](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHvxzjemEO55Eqm_HW5a0v9REH4O2YEoUuqTjz4nknUFGrrdcA5Y142q_et754zQXdHC9JWWrwOEubK0SxDFnzH5rjaJn-5fJYd2En40Cw2_O_ccRoP13hliJqvrx-5iTNun56DHKNBesgOi5-zZqHc4IEskxHTykQ_J2z66z6pCPUDb9WiYA0BnSGWplf/s1600/IMG_0431.HEIC)
 ![Глянцеві борти, вигляд із корми](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28DH7HK_SYYvAWOzZMYQ6MnzoutatzqINt5uOhtsgey6ui6id-sqFcGyOMZ_NtWYiewV8OwqC0L1fUxWnl0fj3XEVISXaH_tEeQCTCehnfEd0OEDpRHuWfkK76-TypYkgothqNgC7RlfWHafxC5eIkMwdGivQrTKv1E3xSmz9DAECuU3fBUrrREb6f6gb/s1600/IMG_5521.HEIC)
@@ -450,7 +450,7 @@ Diary: [4 Jan 2026](https://irwin34.blogspot.com/2026/01/days-243-245-top-side-p
 
 ## Протиобростаюча фарба, стерно і останні деталі
 
-Тим часом ми поклали другий і третій шари протиобростаючої фарби. Фотографувати нічого. Лише один урок: Irwin 34 забирає близько галона TotalBoat Spartan на шар з валиком 3/16.
+Тим часом ми поклали другий і третій шари протиобростальної фарби. Фотографувати нічого. Лише один урок: Irwin 34 забирає близько галона TotalBoat Spartan на шар з валиком 3/16.
 
 Стерно: баллер почищений і відполірований. Я розкрив обшивку й перевірив піну: ні води, ні вологи, і метал усередині в порядку. У склопластику довкола баллера були дрібні тріщини, тож я пройшовся Dremel'ем десь на 1/4 дюйма довкола й на 1/4 дюйма вглиб і заповнив West System з наповнювачами 403 і 404, щоб загерметизувати баллер і щоб він тримався.
 
@@ -506,9 +506,9 @@ Diary: [25 Jan 2026](https://irwin34.blogspot.com/2026/01/day-boat-name-image-sp
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-Остання протиобростаюча фарба лягла на лівий бік кіля. Порожнину кронштейна валу закрито, заформовано й покрито першим шаром протиобростаючої фарби. Стерно й місця під подушками опор пофарбовано.
+Остання протиобростальна фарба лягла на лівий бік кіля. Порожнину кронштейна валу закрито, заформовано й покрито першим шаром протиобростальної фарби. Стерно й місця під подушками опор пофарбовано.
 
-![Перо і кронштейн з останньою протиобростаючою фарбою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl7Em20Lq5xFNAL46iZKp0NxWImr62U78avdxe1SIYj6Vp-SaA-_JgIQjbSPsDkS02WEQwIsi2P1NN5_zmRXWdtS8BY_RmSu7fBUmnOQZrDg5tMZr-KCMjToNqvvdkomkMSkawGanpRl20oj4NuJxVwv238f-R9K23LfMKau0oqrKkSYElbBRryZ3KSvfC/s1600/IMG_0702.HEIC)
+![Перо і кронштейн з останньою протиобростальною фарбою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl7Em20Lq5xFNAL46iZKp0NxWImr62U78avdxe1SIYj6Vp-SaA-_JgIQjbSPsDkS02WEQwIsi2P1NN5_zmRXWdtS8BY_RmSu7fBUmnOQZrDg5tMZr-KCMjToNqvvdkomkMSkawGanpRl20oj4NuJxVwv238f-R9K23LfMKau0oqrKkSYElbBRryZ3KSvfC/s1600/IMG_0702.HEIC)
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
@@ -531,7 +531,7 @@ Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registr
 Дрібниці того останнього вікенду:
 
 - МИ ПОМІРЯЛИ МІСТ. МИ ПРОЙДЕМО ПІД НИМ!
-- Почистив, заґрунтував і пофарбував протиобростаючою фарбою кронштейн нержавіючого підшипника стерна.
+- Почистив, заґрунтував і пофарбував протиобростальною фарбою кронштейн нержавкого підшипника стерна.
 - Перевірив масло в двигуні й редукторі, завів двигун.
 - Повернув петлю кришки шафки кокпіту й вентиляцію паливного бака.
 - Документаційний номер — на корпусі всередині, під склотканиною, і на головній переборці, в епоксидці.

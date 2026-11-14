@@ -3,7 +3,7 @@ id: fuel
 title: "Паливний бак"
 section: engine
 order: 2
-description: "Як я відкрив протікаючий вбудований бак і відновив його паливостійкою епоксидкою."
+description: "Як я відкрив вбудований бак, що протікав, і відновив його паливостійкою епоксидкою."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMeQY7Yy-wDHYHhNJbo5CfeKGpEho1FnsWHa_u5Aozcp_XzV50fJYsbBsF-UUUVkx9ShF1Ixlghyzpuh4PHSNeAwv3ieInyo1nDwSkBe4ZJPUg0RKxq1L46IllarUr9pbFPqwyEmFlBLd6aUDiOjbwBJ_rzMyOcJjoXCKKixar48q9TQoOlizfqAmatSoq/s1600/IMG_8799.HEIC"
 ---
 Ось цікавий факт про Irwin Citation 34: паливний бак у нього насправді не бак. Це склопластикова ванна, вбудована просто в корпус під диваном, з кришкою зверху. Мій протікав. Мені вдавалося відкладати це два з половиною роки, а влітку 2024-го я нарешті його відкрив. Ось історія про те, що я знайшов усередині, і як ванна стала справжнім баком.
@@ -135,7 +135,7 @@ Diary: [14 Sep 2024](https://irwin34.blogspot.com/2024/09/day-168-91424-fuel-tan
 
 Тож я поставив невелику електричну паливну помпу просто біля бака. Вона допомагає прокачувати систему, і я можу фільтрувати пальне, нічого не підключаючи тимчасово. Насухо вона гучна, але довго я її ганяти не буду, і, може, це навіть добре, що її чути.
 
-Ще я додав штуцер зворотки з протилежного від забору боку, з лінією назад від фільтрів. З перегородкою посередині це майже два баки: ідеально для очищення пального. Штуцер я зробив сам з нержавіючого порожнистого болта 5/16 за допомогою дриля і точила. Усередині в нього маслостійка гумова прокладка і нейлонова шайба, щоб гуму не видавлювало.
+Ще я додав штуцер зворотки з протилежного від забору боку, з лінією назад від фільтрів. З перегородкою посередині це майже два баки: ідеально для очищення пального. Штуцер я зробив сам з нержавкого порожнистого болта 5/16 за допомогою дриля і точила. Усередині в нього маслостійка гумова прокладка і нейлонова шайба, щоб гуму не видавлювало.
 
 ![Маленька електрична паливна помпа біля бака](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtntFGPxHM0L1AZ9OgGDl38Il2Psp-1nHEZ0phDgDKS9LXs9uTdFAQMeLYwxhto4fukvbxNzMHNa_44sAwX1hEQNVMSa-OMuIXicVFqhe0xaZ53dsEoYg9cPg7Veahl5caDahsuVXJDuHmelinP44ScCmjx3wv7a-DSa6QYc-iWyxRwIjVyd3Tr9X8H0_/s1600/IMG_8871.HEIC)
 ![Новий штуцер зворотки в боці паливного бака](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Jj4mn_g5j-l4C20l8lxAUpAJ3WZdSsCOeCyMXB7rG0Ff5to9okykw_fH-6PEXoFFeJRMSTJHkjqdO87goNPuDGkRyePsQz26LL3xpMn1UHEs-YvRSOSfZM6YgnrgjLHUNtS56wCuuBtF8G7Rj0m5bpMXHD-dRyz6i9CwW5t48GmbdbSzEONR_Y7Ac8zO/s1600/IMG_8867.HEIC)

@@ -3,7 +3,7 @@ id: deck-structure
 title: "Палуба і силовий набір"
 section: hull
 order: 1
-description: "Новий заповнювач правого борту палуби, стик палуби з корпусом, стійки лєєрів і шпігати."
+description: "Новий заповнювач правого борту палуби, стик палуби з корпусом, стійки леєрів і шпігати."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbVwnyqjSoDo6RspiLrPmRG9CsqGc1B-FKd0gQOKLrhS6dv5aBvH1q22ZD9hEyo_IqZdAmgPcmMjN5Zpp5nemCoaYzWGbDbxFcVCIihBCRPoRAhkLsa2WwxewwlLQbTvpb9-z7NSUu4QhMNydKNG3SxKywP12E-g99EXJ1tz5qicGOvORBE9Rk3g8d3w/s1600/IMG_4127.HEIC"
 ---
 На цьому човні є одне головне правило: усе на палубі, чого я ще не торкався, протікає. Я засвоїв його важким шляхом, одну деталь за іншою. Це історія самої палуби: мокрий заповнювач, порожні коробки стійок, стик корпусу з палубою, що тримався на надії, і купа епоксидки.
@@ -42,7 +42,7 @@ Diary: [16 Feb 2022](https://irwin34.blogspot.com/2022/02/day-14-215-starboard-d
 
 Далі — заформувати щілини. Легко сказати, а це чотири години доволі гидкої роботи.
 
-Проблемою був протиковзкий візерунок. Він гарний, але відтворити його на відремонтованій ділянці непросто. Тож я зняв форму з існуючої палуби: роздільний засіб, гелькоут, один шар 1708. Із собою в мене був лише фінішний гелькоут, тож я не чекав повного висихання й почав ламінувати, щойно він схопився. Схопився він не скрізь, лущився і змішувався зі смолою, тож вийшло брудно. Мабуть, я її ще перероблю, але й зараз виглядає непогано. Ось оригінальна поверхня палуби і мій саморобний «негатив».
+Проблемою був протиковзкий візерунок. Він гарний, але відтворити його на відремонтованій ділянці непросто. Тож я зняв форму з наявної палуби: роздільний засіб, гелькоут, один шар 1708. Із собою в мене був лише фінішний гелькоут, тож я не чекав повного висихання й почав ламінувати, щойно він схопився. Схопився він не скрізь, лущився і змішувався зі смолою, тож вийшло брудно. Мабуть, я її ще перероблю, але й зараз виглядає непогано. Ось оригінальна поверхня палуби і мій саморобний «негатив».
 
 ![Права палуба заклеєна скотчем під скло](https://blogger.googleusercontent.com/img/a/AVvXsEglIQTIsOio5r3mPQaZ0dQoPA4srATCXiIJZvkveO0MnSn2fA2Tk7gadjfMa7fziRr5JlOvzzUm7SWweC3P1x5hUna0_VlcpiIS0LiH3-AWpLmMdEjD_hh-WrFT3AnDooDqtMpB3O6BALQ0PDmS26tEwCQE-Idse0fQGKX7TqfKALg6hq2NAKXgr7uhYw=s1600)
 ![Права палуба заклеєна склом по краях](https://blogger.googleusercontent.com/img/a/AVvXsEhSbJEeyovkre7dVbuqoqEzOKV2Pb7WQi3zG85uQI_iPwa2xz3ftmi4_pWZCt_hllScYwT1itlSDvgb4fylzZcsKFABqLv9IJAopFRrmj9fZvuKZVwxMBysnh1b3RMs7KSyz2ajaT_IpifgNd4yPX7O55NNE-Mv_BTD1srZiNqzyYdkDptXrBqv1oW1cQ=s1600)
@@ -70,7 +70,7 @@ Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboa
 
 Я зробив новий дубовий брусок, просвердлив у ньому завеликий отвір під трубу, заповнив конструкційною шпаклівкою і просвердлив знову, щоб метал торкався лише пластику. Потім посадив брусок на ту саму шпаклівку до корпусу й заформував: два шари ровінгу 24 унції і 1708 зверху. Звис унизу потім обріжу.
 
-![Основа стійки лєєра на планширі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBSAC-GojSK2RgMYHzzQcQ7LLB0fi3PZ71VWCggS4g4sU7Rt4nNeA4_74nnjKXeUUIDNWpqP05GzlapPPXEQJuISQMAHIr5RKj42rsl9kQ6WEGeazbO_wm5alehrlray5YL6xhet5ZwWoKekdXZdMafNtYfITvBtjWpImX1o118Ur3GPj1UzLl_8KSZA/s1600/IMG_2508.HEIC)
+![Основа стійки леєра на планширі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBSAC-GojSK2RgMYHzzQcQ7LLB0fi3PZ71VWCggS4g4sU7Rt4nNeA4_74nnjKXeUUIDNWpqP05GzlapPPXEQJuISQMAHIr5RKj42rsl9kQ6WEGeazbO_wm5alehrlray5YL6xhet5ZwWoKekdXZdMafNtYfITvBtjWpImX1o118Ur3GPj1UzLl_8KSZA/s1600/IMG_2508.HEIC)
 ![Кріплення стійки вирізане всередині корпусу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQCRIDu8xQxeGeRrTgo41clQN6BZQ-bz-qAl7rrqXVMdSiwX3XifO-7W-k5fuDhOCVvLOo0IKIdQ4_cEzPmzNyF4hqGrVtZTHeKAtU1KA_hAHv1w-15h1k-ecHF7Bxbxw3RtsrYhip271JSPyKpsaKsvlFc_pFu6FKT3fp_7vH-bRU83E8ZBe8YD4-Q/s1600/IMG_2469.HEIC)
 ![Отвір основи стійки на планширі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPROuHFOv6JHvIN9Pq_d9aHkBV6UfyRxFcLY-UwoQcycGDmPfEALEamgo6_wK_hC7_7Ua3AZOxlk5LySffsM5ASrNZg-TslB5IazSXcxdnJrd_hA5TEMXFD2oxk_2z-zpdF_5gqqvBYOC3WCZz0nOy4NZbLkOa226ZvtN6ieQxNkCxXKKJJaxgG5rfKg/s1600/IMG_2472.HEIC)
 ![Скляна латка над основою стійки зсередини](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ7980FWEh2hgCfJVVCEDGWDg2JdUmdI7pjIjSgI3JQIuelB6AiyMhggd89np-JnuxrO0If4VluKBSFk8wc7oNniQ-1vgbzftRhgLgGj2roourBqnQZaIG2jALCYQTpsyNceZhbFRuRvSkrklUrC8uw2AvJTDm-GiyhUXreI5aOKuAu7HCIi8CHuO2KQ/s1600/IMG_2475.HEIC)
@@ -256,7 +256,7 @@ Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-te
 - Труба приварена до фланця, але не по всьому колу, тож є щілини.
 - Фланець тримається на палубі короткими шурупами по дереву.
 
-![Креслення Irwin: встановлення стійки лєєра](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1fK7uXd-81dWyPDJITEFR5H85QWxtwpMsuX_TYA-U44Ml9xvv2AayLp_-k1O56dZiNRi1JrCJSCe-NtwESMlnG5iOgTZtwi5TANSRJcfP9UD7bRzCFa44nwSrlWcnWI4vNp1Qw3Hkvu1B40V8tzIHP6ETW96kvw-_xY1k4f5aYCN7vzN9HRro-L9FA/s1600/stns_img_0.jpg)
+![Креслення Irwin: встановлення стійки леєра](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1fK7uXd-81dWyPDJITEFR5H85QWxtwpMsuX_TYA-U44Ml9xvv2AayLp_-k1O56dZiNRi1JrCJSCe-NtwESMlnG5iOgTZtwi5TANSRJcfP9UD7bRzCFa44nwSrlWcnWI4vNp1Qw3Hkvu1B40V8tzIHP6ETW96kvw-_xY1k4f5aYCN7vzN9HRro-L9FA/s1600/stns_img_0.jpg)
 
 Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-re-install-wind.html)
 
@@ -301,10 +301,10 @@ Diary: [7 Oct 2022](https://irwin34.blogspot.com/2022/10/day-51-108-stanchions-r
 
 Мій перший сплесень Брумеля з вушком: непогано. Для хвіртки: коуш з одного боку й оригінальний відкидний гак. Вушко гака я зашліфував і відполірував, щоб воно не шкодило тросу. Радіус замалий (AmSteel хоче щонайменше 3/4 дюйма), але трос розрахований на 7 400 фунтів, значно міцніший за стійки, тож поки так і залишу.
 
-![«Віра» з новими лєєрами з Dyneema біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEvUmIwS8hlZfMekR6BMSZyp1aIwuqR8yF8RJ6feQJevVzXIE-edUdBJKCOFY3SbsgWW9hlxoVZeu6o2iDUbVXB1dyHW-E71bnd1hFAw29-Zz4Qn_MnngqI1RX7vhhp-z0cLZyj1zaic_JVhtSS5Tob2n6lQ_N0AAK55Y4LPmlw2tEVUqWHTi3CG2jYA/s1600/IMG_3999.HEIC)
-![Кінець лєєра на кормі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijB8oa16GtV9hvwMaYF4_NiPVXFraxQuCHqMR4YX7OINcyqE6XTyW5dJQxU7K5pzSZyuAbAU2LFb5eNXEdO1_9EFK8wyp9ySxcCK9amGIYR9DE2udiVhE8LEKm2n0ISQzS4ORC_1wx2w477RfR3d5jjtkId0R84_bUlPdXdIQ4YlH9fQrt3oSPKwK1CQ/s1600/IMG_4003.HEIC)
-![Сплесень лєєра з Dyneema](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAF0C1VrJhk-vOF4GoaVZoaT6UIDT07BUVIDI1yo3ArUBlLrLmmb7ii5Q6AZU20p3HdZ9TAdZWStmrgpscFv0dEmTUef85gj7-TEkrrsfYz6kIBpCVpD6NXW80x2k-9NPbdbXyO-cgVZl3OzDa6jQ1jx6DFrDHUkUOsKxgcB4yTrmQju0lrkGN44tvlQ/s1600/IMG_4008.HEIC)
-![Ніс із новими лєєрами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh0NrrRkrWyA9t1iKYK5Qh4eIqt8XG4t9S6uEgbpmgv0qHZ53ZqiCL65SQcto57XSwxueQTODwzEt18vqkp_CaR4XtJd_FyTQ2O3wuhPEszOFJjoWwYx3hCRjWcGWvh40vl7NCeAlCQ0Wm8mmhOjFdroON7rZDM2HstDVxnThHNyD6ISCcfq5HSlDBSw/s1600/IMG_3998.HEIC)
+![«Віра» з новими леєрами з Dyneema біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEvUmIwS8hlZfMekR6BMSZyp1aIwuqR8yF8RJ6feQJevVzXIE-edUdBJKCOFY3SbsgWW9hlxoVZeu6o2iDUbVXB1dyHW-E71bnd1hFAw29-Zz4Qn_MnngqI1RX7vhhp-z0cLZyj1zaic_JVhtSS5Tob2n6lQ_N0AAK55Y4LPmlw2tEVUqWHTi3CG2jYA/s1600/IMG_3999.HEIC)
+![Кінець леєра на кормі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijB8oa16GtV9hvwMaYF4_NiPVXFraxQuCHqMR4YX7OINcyqE6XTyW5dJQxU7K5pzSZyuAbAU2LFb5eNXEdO1_9EFK8wyp9ySxcCK9amGIYR9DE2udiVhE8LEKm2n0ISQzS4ORC_1wx2w477RfR3d5jjtkId0R84_bUlPdXdIQ4YlH9fQrt3oSPKwK1CQ/s1600/IMG_4003.HEIC)
+![Сплесень леєра з Dyneema](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAF0C1VrJhk-vOF4GoaVZoaT6UIDT07BUVIDI1yo3ArUBlLrLmmb7ii5Q6AZU20p3HdZ9TAdZWStmrgpscFv0dEmTUef85gj7-TEkrrsfYz6kIBpCVpD6NXW80x2k-9NPbdbXyO-cgVZl3OzDa6jQ1jx6DFrDHUkUOsKxgcB4yTrmQju0lrkGN44tvlQ/s1600/IMG_4008.HEIC)
+![Ніс із новими леєрами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh0NrrRkrWyA9t1iKYK5Qh4eIqt8XG4t9S6uEgbpmgv0qHZ53ZqiCL65SQcto57XSwxueQTODwzEt18vqkp_CaR4XtJd_FyTQ2O3wuhPEszOFJjoWwYx3hCRjWcGWvh40vl7NCeAlCQ0Wm8mmhOjFdroON7rZDM2HstDVxnThHNyD6ISCcfq5HSlDBSw/s1600/IMG_3998.HEIC)
 
 Diary: [16 Oct 2022](https://irwin34.blogspot.com/2022/10/day-52-1016-day-water-tank-life-lines.html)
 
@@ -312,7 +312,7 @@ Diary: [16 Oct 2022](https://irwin34.blogspot.com/2022/10/day-52-1016-day-water-
 
 Моя відпустка в листопаді 2022-го підтвердила головне правило: усе на палубі, чого я не торкався, протікає. Стали нові поручні, прикручені знизу болтами на бутилі. Двогодинний тест водою проблем не показав. Усюди, крім одного місця, пішли болти 3/8. На довгому лівому поручні одна закладна вставка в дереві розхиталася, тож другий болт став великим саморізом, десь на 1-1/2 дюйма в дерево, між двома місцями на болтах. Компроміс, але має прослужити роками.
 
-![«Віра» з носа з новими лєєрами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbVwnyqjSoDo6RspiLrPmRG9CsqGc1B-FKd0gQOKLrhS6dv5aBvH1q22ZD9hEyo_IqZdAmgPcmMjN5Zpp5nemCoaYzWGbDbxFcVCIihBCRPoRAhkLsa2WwxewwlLQbTvpb9-z7NSUu4QhMNydKNG3SxKywP12E-g99EXJ1tz5qicGOvORBE9Rk3g8d3w/s1600/IMG_4127.HEIC)
+![«Віра» з носа з новими леєрами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbVwnyqjSoDo6RspiLrPmRG9CsqGc1B-FKd0gQOKLrhS6dv5aBvH1q22ZD9hEyo_IqZdAmgPcmMjN5Zpp5nemCoaYzWGbDbxFcVCIihBCRPoRAhkLsa2WwxewwlLQbTvpb9-z7NSUu4QhMNydKNG3SxKywP12E-g99EXJ1tz5qicGOvORBE9Rk3g8d3w/s1600/IMG_4127.HEIC)
 ![Ізоляція і дерев'яна рейка в каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuuuDV9e6TVaVS9ksa9edwuAS98bimfqq55_t7vkd8sbMOfSNx-6EHMlba-unnoX3keiJJD-6O0FmeiDPJTIb7mbLP2wK_-8CCWPkjDwnhA31EA8JXdlp5a87nNE5XV_81PNeWqdd8xYU1TmmZCAPKh1MW5e7K1uTJ5gdpb_rOiB6fMtEUcV8lJCm3IA/s1600/IMG_4121.HEIC)
 
 Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-1028-112-36-hours.html)

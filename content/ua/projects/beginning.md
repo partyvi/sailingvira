@@ -142,8 +142,8 @@ Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
 
 Кріплення стійок леєрів довелося перебудовувати. Збудовані вони були не так, як на власних кресленнях Irwin. Дерев'яні бруски замалі, а будівельник просто накрив погану роботу декоративною накладкою: один шар скла поверх сухої тканини.
 
-![Болти кріплення стійки лєєра всередині корпусу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qHNL64wnvlMZrdgiDcXceEeDy3TAS4we1f4CK_iDjHUbx4Vb0YMijnhj9tJWTCxey1x-H12TUD5PMe4EMbMjxD5PfcYvfciBnIZSIZeg3SABF_VgW98dMeKbINJHcywVYx7Al03K0er6HZoS-GD2hgkdrBI0ME9ffJhWBNI0yJts-__4LP0yAkRAFtZ8/s1600/IMG_1202.HEIC)
-![Основа стійки лєєра під одним шаром скла](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1_GcA1cYH-EwVABig4elqRL4SNiJH5VyJOL9zUR5Et7X9N10aexWDsVBX3zWmwGroVgKqN0Pgz6CYuMOg_ubj_SJGJnZtH33xYUDSUDp6J0yhmY9RHZrRn6Te5OUTUbvky6qV4TEIOzsWrHG-hui2u9njsFReVTvx1wlRtJlAaJkQ6gbz76QedzI9yaC/s1600/IMG_1936.HEIC)
+![Болти кріплення стійки леєра всередині корпусу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qHNL64wnvlMZrdgiDcXceEeDy3TAS4we1f4CK_iDjHUbx4Vb0YMijnhj9tJWTCxey1x-H12TUD5PMe4EMbMjxD5PfcYvfciBnIZSIZeg3SABF_VgW98dMeKbINJHcywVYx7Al03K0er6HZoS-GD2hgkdrBI0ME9ffJhWBNI0yJts-__4LP0yAkRAFtZ8/s1600/IMG_1202.HEIC)
+![Основа стійки леєра під одним шаром скла](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1_GcA1cYH-EwVABig4elqRL4SNiJH5VyJOL9zUR5Et7X9N10aexWDsVBX3zWmwGroVgKqN0Pgz6CYuMOg_ubj_SJGJnZtH33xYUDSUDp6J0yhmY9RHZrRn6Te5OUTUbvky6qV4TEIOzsWrHG-hui2u9njsFReVTvx1wlRtJlAaJkQ6gbz76QedzI9yaC/s1600/IMG_1936.HEIC)
 ![Суха склотканина, напхана довкола основи стійки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsIH3i8T8o4drINqmlcVqzbIrrbbh7yvOvXq-sq0Vow61exaCYcfLmKH-0GyDNP5mDmLPUYY_cDxzxRh15dDGr3ihL8yjjPGMd35f7kqS6SL47FTj7YjHT3QsGwsGVhLfpl2knK_j0SjYGRPsn8hLr60n7-tY9VutSNLUvampecQwKVlUZbhFem4RoV4vY/s1600/IMG_1940.HEIC)
 
 Story page: [Beginning...](https://irwin34.blogspot.com/p/vira-beginning.html)
