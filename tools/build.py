@@ -288,6 +288,23 @@ def youtube_videos():
     ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
     err = None
 
+    key, cid0 = os.environ.get("YOUTUBE_API_KEY", ""), site.get("youtube_channel_id", "")
+    if key and cid0:  # official YouTube Data API (key in the GitHub secret YOUTUBE_API_KEY)
+        try:
+            import urllib.parse
+            q = urllib.parse.urlencode({"part": "snippet", "playlistId": "UU" + cid0[2:], "maxResults": 50, "key": key})
+            data = json.loads(urllib.request.urlopen(f"https://www.googleapis.com/youtube/v3/playlistItems?{q}", timeout=20).read())
+            vids = [{"id": i["snippet"]["resourceId"]["videoId"], "title": i["snippet"]["title"],
+                     "date": i["snippet"]["publishedAt"][:10]} for i in data.get("items", [])
+                    if i["snippet"].get("resourceId", {}).get("kind") == "youtube#video"]
+            vids.sort(key=lambda v: v["date"], reverse=True)
+            if vids:
+                print(f"Videos: {len(vids)} from the YouTube API")
+                return vids
+        except Exception as e:  # never print the request URL: it contains the key
+            err = f"YouTube API: {type(e).__name__} {getattr(e, 'code', '')}"
+            print(f"Videos: {err}")
+
     def from_page():
         """The channel's Videos tab (ytInitialData). Dates there are relative ("3 weeks ago")."""
         import datetime
