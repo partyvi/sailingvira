@@ -6,12 +6,11 @@ order: 6
 description: "Агрегат Webasto, муки з помпою забортної води, повітроводи і тикові решітки."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC"
 ---
-
-Техаське літо на човні без кондиціонера — це не життя, це виживання. Тож кондиціонер з'явився дуже рано, на другий місяць. А от щоб він працював по-справжньому добре, знадобилися роки.
+Техаське літо на човні без кондиціонера — це не життя, а виживання. Тож кондиціонер з'явився дуже рано, на другий місяць. А щоб зробити все справді добре, пішли роки: помпи, повітроводи, заслінки, решітки і одна довга війна з вібрацією.
 
 ## Нова іграшка
 
-Січень 2022-го. Приїхав кондиціонер, Webasto. Перевірив удома — працює чудово! Потім погрався з паперовим макетом, щоб зрозуміти, куди його втиснути.
+У січні 2022-го приїхав кондиціонер, Webasto. Я перевірив його вдома, і він чудово працював! Потім погрався з паперовим макетом, щоб зрозуміти, де він може стати на човні.
 
 ![Новий кондиціонер Webasto в коробці](https://blogger.googleusercontent.com/img/a/AVvXsEjDA6JbllRgV873AwxwSitbcEVNqeZScErbLktwPJh0BozxrUxiYUbY2_RixLNsuOAThNHVwum1bBSbDbN2Z3OHvpdVEecLfc8m_7gqoXVCga7yeCS6dfOTD-oRPlzDM0IYsMHQAKRwMDjcQMh13KdcLTAq45YbxgTTwGePXf7rAccB7sw5Wrgf8ZouPg=s1600)
 ![Тест нового кондиціонера на під'їзній доріжці](https://blogger.googleusercontent.com/img/a/AVvXsEgXqpsE9-wILmSqcrEFFn2tRmHG5-dydvIntAgDaJSzmdYAT1H7roNNWjYEYKVTGLriPu7c7nONSnNw1eIR6VLesLz-mOw-bjQBsQyDYu5bral_ITacVJQsGk3lI3VawZh4DHNKaeQet3lckTBnajmBivHdsz0J9_GQMS5FNsX5BwjZSLV89kWNKXWaHg=s1600)
@@ -21,23 +20,23 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX
 
 Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/air-conditioner-has-arrived.html)
 
-У червні зробив шаблон для полиці під кондиціонер.
+У червні я зробив шаблон для полиці під кондиціонер.
 
 ![Шаблон полиці під кондиціонер](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9MQ971BggCYuky9OVwY5zrnNO9fWrXo0p4u0M5--oZISZ6OeA5iv88nNGWLMtH4p46m_XCWytJp03dlWSreJwGg05333qFgbanJtWVJR_4d01rP52BYkFSyC3RYVq9-ziF6lJIQlvprHFU64ZgZbbVjpxX0QdYo6UwmQU3scrFtCCkUyrT6J_03hpwA/s1600/IMG_2871.HEIC)
 
 Diary: [19 Jun 2022](https://irwin34.blogspot.com/2022/06/day-32-619-no-fiberglass-today-engine.html)
 
-Липень: примірка і перевірка за рівнем. Сидить добре. Піддон наче трохи вигнутий, але, може, так і задумано.
+Липень приніс примірку і перевірку рівнем. Стоїть добре. Піддон для конденсату виглядає трохи погнутим, але, може, так і задумано.
 
 ![3D-скан зони шафки в носовій каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBacqw1XwVwM59t11GSsZhO6WwLLQyjrwmoAIVj2N6qguiPTBaYp4axrNAPR4kI3kwwWIcXynDpezRFTfwGcMwI6vX7py4RFAon7XvvnyXEi6JO3Y9I8yInmRDOTfpOy79pNFs_j_C5-XA0Tcdh2P2cp0tr0qtE958z0Zgk2t-4UBSlvtefpne5ynzFw/s1600/IMG_3260.PNG)
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-## Вода туди, вода сюди
+## Вода всередину, вода назовні
 
-Далі конденсат. Я зробив зливи в усіх чотирьох кутах піддона, щоб він працював, хоч як човен кренить чи гойдає. Чотири шланги сходяться через три трійники і йдуть у зливний бокс. Протягти цей шланг під підлогою було тим іще квестом. Кілька кутників на 90° ще поставлю там, де шланг сплющився на згині.
+Далі — конденсат. Я поставив зливи в усіх чотирьох кутах піддона, щоб він працював, хоч як човен кренитиметься чи хитатиметься. Чотири шланги сходяться через три трійники й ідуть до коробки відстійника. Прокласти цей шланг під підлогою каюти було справжнім викликом. Там, де шланг сплющився на згині, стануть кілька кутників по 90°.
 
-Охолоджувальна вода: ми стояли на озері, де підйом човна коштує понад тисячу, а будь-яку роботу на березі має робити марина. Тож тимчасово кондиціонер ділить забортний отвір із двигуном. Знаю, між ними може засмоктуватися повітря, і вони будуть сваритися. Але двигун і кондиціонер одночасно я ганяти не збираюся. Фільтр у рундуку з кінгстонами, помпа в лівому рундуку під П-подібним диваном. Ще більше шлангів під мийкою на камбузі. Справжній план, на час, коли вона буде на березі: власний кінгстон і фільтр під носовою койкою, а помпа прямо під кондиціонером.
+З охолоджувальною водою була заковика. Ми стояли на озері, де підйом човна коштує понад тисячу доларів, а будь-які роботи на березі має виконувати марина. Тож тимчасово кондиціонер ділить кінгстон з двигуном. Знаю: між ними може підсмоктуватися повітря, і вони будуть заважати один одному. Але вмикати двигун і кондиціонер одночасно я справді не планую. Фільтр забортної води стоїть у рундуку з кінгстонами, а помпа — в лівому рундуку під П-подібним диваном, і ще шланги під мийкою камбуза. Справжній план, на час, коли човен буде на березі: окремий кінгстон і фільтр під носовою койкою, а помпа просто під кондиціонером.
 
 ![Кондиціонер на фанерній полиці, під ним помпа забортної води](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Ch6ualfHBZ5ziTBCs9qOorGYmkH886m5VszsD_BBJt67p56ehCE9d0reOlGtv7eeRmWBk0P1Dzpu2yXvqUglYkbDRmfdtOAL-MDQK-1l7NGPNq_d-7rLVjE6KMbs8-XAJjDb22PJAMv8FYwL__GP_Rnjr14DostxDuw7iAjAo2RrQj5aeXEh70PQkg/s1600/IMG_3346.HEIC)
 ![Дренажні трубки конденсату з усіх чотирьох кутів піддону](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfl4U7KltmaN75ye_qc7nETp5i6xLfdlUKBN5KM91yytLLlpLC9tDzmEmcv3i-wQtXrf21CXiLuw6bjARNIgXoKb14sM29zOwMRbDOKmF75KWeatKFRP084SE02yeylaGNATJVaaHLxsNMAsxjZM5Xp6fXCq0yirUWVyC_M1Q1RI7fNszITKpPtZGESw/s1600/IMG_3348.HEIC)
@@ -46,7 +45,7 @@ Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-pat
 
 Diary: [18 Jul 2022](https://irwin34.blogspot.com/2022/07/day-37-718-port-window-installation-air.html)
 
-Наприкінці липня: забортний отвір для скиду і перший пробний запуск. Усе на одинарних дешевих хомутах, шланги не обрізані, фільтр і помпа навіть не закріплені, живлення не постійне, агрегат не прикручений. Чисто тест. Потік води через конденсатор близько 15 літрів на хвилину, як і треба. А повітря — гарне й холодне.
+Пізніше в липні з'явився кінгстон на злив і перший тестовий запуск. Усе трималося на одинарних дешевих хомутах, шланги не обрізані, фільтр і помпа навіть не закріплені, живлення не постійне, а сам блок не прикручений. Лише тест. Потік води крізь конденсатор був близько 15 літрів на хвилину, як і треба. А повітря — гарне й холодне.
 
 ![Кондиціонер під носовою койкою, тестовий запуск](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC)
 ![Помпа забортної води в трюмі носової каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgux0eh84tR4uz_Hk8pwxTx7263D1vGkLFaUN5kk2dXWqJVbUYNVi3WDOCd72zUGG7dQItu6YDpS_sn5fc2WA-YiKUJW4sQFhNA2RG9fMl8fjjiKkpAvKXEc3mwPZODinb5VovANw3-s1VQKtiSNVqg1Lkm6zomhohgC-pQC4Nb_qVGZbtUpHr7RPKUZQ/s1600/IMG_3379.HEIC)
@@ -57,7 +56,7 @@ Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/day-38-39-723-724-mast
 
 ## Сага про помпу
 
-Перша помпа забортної води, PM500-115, протікала. Webasto надіслали заміну ще до того, як отримали зламану назад. Гарна, правда? Я її поставив, увімкнув — і почув шкрябання замість води, а потім майже тишу. Ніби крильчатка застрягла. Відкрив: магніт розколотий на три шматки. Знову до Webasto, новий номер повернення.
+Перша помпа забортної води, PM500-115, протікала. Webasto вислали заміну ще до того, як отримали зламану назад. Гарна, правда? Я встановив її, увімкнув і почув замість води шкрябання, а потім майже нічого, ніби крильчатка заклинила. Розкрив: магніт розколовся на три частини. Знову до Webasto, з новим номером повернення.
 
 ![Нова помпа забортної води Koolair PM500 у коробці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0apInmSCXa59ZASxKirX1cEui4OmpASYOgWyChAIlSIAR7wnNOwVm-Q-X9yQm680DqIcxJxNzCpmtCbDP0bRKfCq3WESOQugygqU71F7Gtj0SG-awL15Lx-L055SFr91rzh1g4ly-ZY4RAgkNiNxomjTeZ5fIjj1isN1oxgqP44uCMWUEPf8bl9BKbA/s1600/IMG_3644.HEIC)
 ![Зламана крильчатка і деталі помпи](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTru3SHHUJ-696tvzkpr7SERMqxkVEST913vkr5IcgUnedSinhK1DJ45PDlQewV6FAt5o25bXvihsD1QmHWQTV4vYBWlKBVHTvf_eDo6WXimEllsY9ScHCPFtWrwhMXhyBTpnq_k7sqAfh77MBgQhPcVTWUj4xI8MWWUJ0NO7RD_LzHW2eJhcmhCauGg/s1600/IMG_3642.HEIC)
@@ -65,15 +64,15 @@ Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/day-38-39-723-724-mast
 
 Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapointment-water-pump.html)
 
-Наступною заміною стала помпа SeaFlo. Помп KoolAir у них більше немає. Той самий розмір, потужність і потік, але пакування дешевше, картонне орігамі замість гарного пінопласту, і помаранчева замість синьої. Працює нормально. Але вібрує вдвічі сильніше за першу, ту, що текла. Мабуть, тут я здамся. Ненавиджу ідею ще одного кола повернень через таку суб'єктивну річ. Пізніше зроблю їй якусь віброізоляцію.
+Наступною заміною була помпа SeaFlo, бо помп KoolAir у них більше немає. Той самий розмір, потужність і подача, але дешевша упаковка: картонне орігамі замість гарного поролону, і помаранчева замість синьої. Працює добре. Але вібрує вдвічі сильніше за першу, ту, що протікала. Я вирішив на цьому зупинитися. Ще одне коло повернень через щось таке суб'єктивне мені було гидко уявити, тож я запланував пізніше зробити довкола неї віброізоляцію.
 
 ![Панель керування кондиціонером на стінці шафки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUwGLmw3zmOfKZIDAD3Zt9nzMXUpjZz0R5whxCwli3qUU4iTXVGTIclxHlnTBGpBr2USaOcm3zCODCXSWTzMbgp-1f1QuTHLSwXjRdK5rrQvknGV5U9O3CVmXtiwlzwck0rJCr59Osr6fa4yqNNCpGSF4tjxYeCG2KuGNANSWGWBc5W0DdkYFzePWPxQ/s1600/IMG_3695.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-Я проклав новий морський кабель 12/3 для кондиціонера, поставив новий автомат і розібрав пару безладів у його запобіжниковій панелі. Червоний автомат унизу — кондиціонер. Проводка до помпи тимчасова, бо йде через трюм і може опинитися під водою. Коли човен буде на березі, помпа переїде в шафу кондиціонера з кінгстоном поруч, і ніяких більше довгих дротів і довгих шлангів.
+Я проклав для кондиціонера новий морський кабель 12/3, поставив новий автомат і виправив пару безладів у щитку запобіжників кондиціонера. Червоний автомат унизу — кондиціонер. Проводка до помпи тимчасова, бо йде через трюм і може опинитися під водою. Коли човен буде на березі, помпа переїде в шафку кондиціонера, з кінгстоном поруч, і більше не буде довгого дроту й довгого шланга.
 
-Повітроводи ще не були готові, тож я зробив тимчасовий із бульбашкової ізоляції і малярного скотчу. І він працює досить непогано, ззовні не потіє. Може, це ідея і для справжніх повітроводів.
+Повітроводи ще не були готові, тож я зробив тимчасовий з утеплювача з бульбашковою плівкою і малярного скотчу. І працює він непогано: зовні не пітніє. Може, це ідея й для справжніх повітроводів.
 
 ![Помпа забортної води в рундуку носової каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWiuMRoBTA-_-BQBMoto4fUKa1B6ormXpQD8KeBM80X44cItesoaG9k2_0i2Qr9TCJI4exSyGHcNtz8z_8fnuvj2rYBa11zjRurx6xxHupczx-KWlM8F4NyDqGCRN_ubGe24cWvqbs5otRtkRMtK6YJTEEnG-HujWUleDeZC72yVPEXANaFN19mgowrA/s1600/IMG_3697.HEIC)
 ![Оригінальна панель 110 В Irwin з автоматом кондиціонера](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrUwd43ZeMv2HYQPJ3M1PsHOzTtDT1JL1o94YMLNwFYRM0Dc_PI3MQ5Gayskmmv87Q_0VZ0zSitbncSZHmjhjSB2Dqb3sIcL4Bl-d6vI0XbHxTmBXKZBQxgEP7pczupQW2p0u2zo5J3VX7izzQCQXVX8ro6JnqtL0bB60E1kiVSwk3i_FUIyhw7dpKQQ/s1600/IMG_3698.HEIC)
@@ -82,34 +81,34 @@ Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-co
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-## Прощавай, агрегат на даху
+## Прощавай, даховий блок
 
-Човен прийшов зі старим даховим кондиціонером, що стояв у люку. Я його зняв і виставив на продаж. Фанера навколо отвору люка добряче згнила і взагалі не була приклеєна до даху рубки. Що тримало агрегат на місці? Нічого. Irwin поклали трохи наповнювача в кишеню навколо люка, але в трьох місцях гвинти обшивки ні в що не були вкручені. А люк замість кондиціонера виглядає так гарно!
+Човен прийшов зі старим даховим кондиціонером, що сидів у люку. Я його зняв і виставив на продаж. Опорна фанера довкола отвору люка дуже згнила й узагалі не була приклеєна до даху рубки. То що ж тримало блок на місці? Нічого. Irwin поклав трохи шпаклівки в кишеню довкола люка, але в трьох місцях гвинти обрамлення ні в що не були вкручені. А люк замість кондиціонера — це ж так гарно!
 
 ![Отвір у даху каюти після зняття верхнього кондиціонера](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNm8Sx1LCp1SFjZwv0C-gcYx_344OCNO5hYnDkcON6Rtl-4TeQLG46ygKdbzSfYxkQ_Y-RYj7GQAlkrIcJp9VOICiW5RJZWROO-li_7IFA3VEatltBUCOQZGOhnXu-3e1jct1f5_5sp0jXsjujpNehUVJgnXCKI8rUhqx2lC0zHB78Qay0odsk93yyvw/s1600/IMG_3755.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-Тих самих вихідних я знайшов відкритий шланг, підключений до кінгстона. Він міг зробити моє перше плавання на цьому човні останнім. Просте рішення: зняти шланг і штуцер, вкрутити бронзову заглушку. Засувки все одно мають піти, але це почекає берега.
+Тих самих вихідних я знайшов відкритий шланг, під'єднаний до кінгстона. Через нього мій перший вихід під вітрилами на цьому човні міг стати останнім. Виправити було просто: зняти шланг і штуцер і закрутити бронзову заглушку. Засувки ще мають піти, але це чекає берега.
 
 ![Старий шланг і кінгстони під носовою койкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrK8dhCmn3p1Fg0VG5mq1luoBozAVXzMa-_UNZWsG-lqGF09QiuLuSTLgvGAvfZSiNrp8B3hu9zZCHhlwTXMo1_RJN9vOxUN7rYiE30E40liq4mmddM4veZod5P201DArvAf1vY_rS5wiISR6TlrUwwWoksgeHqnFDJwd-ocSFLnEHs_Kee8M2XYzpAw/s1600/IMG_3721.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-Ще я поставив нормальні штуцери на вентиляцію моторного відсіку. Як їх тримали Irwin — уявлення не маю. Схоже, просверлили дірки в палубі і встромили туди ПВХ-шланг, і більше нічого його не тримало.
+Ще я поставив нормальні штуцери для шлангів на вентиляцію моторного відсіку. Не маю уявлення, як Irwin їх тримав. Схоже, вони просвердлили отвори в палубі й устромили туди ПВХ-шланг, і більше його ніщо не тримало.
 
 ![Шланг вентиляції з новим наконечником](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Bw-iaFv0ilCyI3pR0sV85dNzSIW8S36mu0oqhTSrRaV2JQDcQVahIpN9nvJBNy6ehcql4EJRW5IkWJuLt8WcDm4wdrEtlS1b8wDmOIQD4eHcrdULpdOaMCGlbHIY0oK8m67WaloX63Tl5QAZnQ8rxxLCJoJpxciC0xVSbNsvjQ6gTQaqkwNjJluw6A/s1600/IMG_3840.HEIC)
 ![Дефлектор вентиляції на носовій палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8-KMZrgyH8lud7wli5cE9cwEFSpJ5uVwky0cedw1jS_mCQs3iD3BNWrq9p660EdsKtZqeKkkMirsRTaULdzLWUkN50OVM_yzZkPG4DzoSHjUlI_uOKG6RdvNLIJlGJ4UFv0bJqBf0TDvSJayt_fnoHcm7civ-CJBwLJC7iPY3REgXet8hdKwJHmHPBg/s1600/IMG_3839.HEIC)
 
 Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
 
-## Пінні короби і електричні заслінки
+## Пінопластові коробки й електричні заслінки
 
-У листопаді 2022-го я зібрав розподільчий короб із фольгованих плит поліізоціанурату 3/4 дюйма, на фольгованому скотчі, термоклеї і армованій стрічці. Чудовий матеріал: легкий, легко обробляється, вогнестійкий до 800 °C, і завдяки фользі в повітрі ніякого запаху. Короб сидить на виході кондиціонера. Усередині він зроблений як глушник, із напрямними пластинами, щоб повітря поверталося на 180° в одній площині і на 90° в іншій, а в кутах пластини під 45°, щоб не було мертвих зон. На виходах дві електричні заслінки, щоб вибирати: головний салон чи носова каюта.
+У листопаді 2022-го я зібрав коробку розподілу повітря з поліізоціануратних плит 3/4 дюйма з фольгою, на фольгованому скотчі, термоклеї та армованій стрічці. Чудовий матеріал: легкий, легко обробляється, вогнестійкий до 800 °C, і завдяки фользі в повітрі жодного запаху. Коробка сидить на виході кондиціонера. Усередині вона влаштована як глушник: напрямні пластини, щоб повітря поверталося на 180° в один бік і на 90° в інший, і пластини під 45° у кутах, щоб не було мертвих кишень. Дві електричні заслінки на виходах дають змогу обирати головний салон чи носову каюту.
 
-Повітровід іде крізь переборку з ізоляцією, щоб холодна труба не мочила фанеру. У головному салоні два виходи: на одному відбивач, що зрізає половину потоку до виходу біля переборки, другий — для майбутніх полиць на камбузі.
+Повітровід проходить крізь переборку разом з ізоляцією, щоб холодна труба не мочила фанеру. У головному салоні два виходи: на одному стоїть дефлектор, що вдвічі зменшує потік до виходу біля переборки, а другий — для майбутніх полиць камбуза.
 
-Забір теж отримав короб, із тієї ж піни, з фільтром 12x12. Кондиціонер стоїть там, де буде шафа, а з усією цією запиленою столяркою випарник треба берегти.
+Забір повітря теж отримав коробку з того самого пінопласту, з фільтром 12x12. Кондиціонер стоїть у тому, що стане шафкою, а з усією пиловою столяркою довкола випарник треба берегти.
 
 ![Короб розподілу повітря з фольгованого пінопласту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhile3PyYB3vR48I2QGxqYes4n64_cqRQwiKT-LqN-orepOipJ06b1D_UjtHqNSjVE1WKQMuHMkQqBGeW0mCUpF9WChzVEG1g-vO1QTvPJQUe5bHxRwq8lQ23NOTHPoy1aOvlW8H7HL6cDtpNAIkW3SoTXmATuf9FPYy4gns5GqTLuoMBy2RK_5VYYjIQ/s1600/IMG_4093.HEIC)
 ![Короб розподілу з напрямними потоку всередині](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkRxIALbEq65XLI_gHu-Whko0-sSmHWGpKm70bc1RB0-DlbCQO1jbrogVJAl5IrM25BRVO6yATgHh-zHznL0GlT5IUOet_mkyy4f7Y6gGAz1MYVtgjknmLjP5Y1yZQfAQgFolScZXVpcz41rZqp5Qi8V02ryKwtiMJMx9QHZQMqgptkfwJ5SowFA7ETA/s1600/IMG_4090.HEIC)
@@ -123,21 +122,21 @@ Diary: [2 Nov 2022](https://irwin34.blogspot.com/2022/11/vacation-days-54-58-102
 
 ## Тикові решітки
 
-У квітні 2023-го я переніс помпу забортної води на дно шафи камбуза, поруч із помпою прісної води. Вона нижче ватерлінії, але не настільки, щоб на ходу, тож потрібен зворотний клапан.
+У квітні 2023-го я переніс помпу забортної води на дно шафки камбуза, поруч з помпою прісної води. Там нижче ватерлінії, але для ходу під вітрилами замало, тож потрібен зворотний клапан.
 
 ![Помпа забортної води переїхала під камбуз до водяної помпи](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdjZLkLVn4EhzJv1meUIfCdtS2kJE6F3myTmiy9E1kxscddvNCyBGkhIa0mRYRwNi55qGb8AAUJDZ7EsFvDq7vidy2lMxCTmr3OtOpRCqA-pyzGim4fBu5likXPHBBLioRfM7yxGzJp_Zqn72_Z_4bGuZrJ7PNuFjAHO9ETrsILPXZSmYN98iQ63MRA/s1600/IMG_5503.HEIC)
 ![Помпи і сантехніка під мийкою камбуза](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSrXrnKTn2m9GZ26tsaKEpubFmZ4puCoi8Nmr_dj2uPvwUY0buzVWr7v4m-vhMIPYhddzGOTRbMPyWjKLKNJX84HO3z0JD5LaHPz76CCqXibO4VXWZcDxZGHbAI79yDYet9knqx6HO6_-HzkPANqy3hO8JIuTB6nXNll0YqYVDxITfR2Zno9lKERQ-HQ/s1600/IMG_5502.HEIC)
 
 Diary: [1 Apr 2023](https://irwin34.blogspot.com/2023/04/day-83-4123-finished-mounting-shelf-for.html)
 
-Через тиждень: вібрація підлоги камбуза закачувала мене за пару хвилин, і це човен стояв на місці. У мене було шість гумових амортизаторів для камери дрона. Кожен розрахований на 250 г, а помпа важить близько 3 кг, тож так, я їх перевантажив. Але цей рейтинг на розтяг, а я використовую їх на стиск 99,99% часу (решта — коли човен догори дном). Поставив їх між двома алюмінієвими пластинами, а помпу зверху. Краще, ніж я чекав: помпу зовсім не відчуваю і ледве чую.
+Через тиждень вібрація підлоги камбуза за кілька хвилин наганяла на мене морську хворобу, хоча човен спокійно стояв біля причалу. У мене було шість гумових амортизаторів для камери дрона. Кожен розрахований на 250 г, а помпа важить близько 3 кг, тож так, я їх перевантажив. Але цей рейтинг для розтягування, а я використовую їх на стискання 99,99% часу (решта — коли човен догори дриґом). Я поставив їх між двома алюмінієвими пластинами, а помпу зверху. Вийшло краще, ніж я чекав: помпу я взагалі не відчував і ледве чув.
 
 ![Гумовий амортизатор для помпи](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQhn96EOzkCT7x4r7P89oFZOjYGH_oxnfHGIuxhPOKWVxrEp8vEWaoTL2tB7ubJQdo6QPWDIzBxpRpJ5O99nP6FsARAgd-22Pzm5nY1fr-_D1kae9Qf8hIyJqU_vyZmRv9C3o3p0SdvfVju4aY7-3qtOcjkcjeXcDyOUiwciIm7kE0xQCTh9qsCkXJcQ/s1600/IMG_5535.HEIC)
 ![Помпа на амортизаторах під камбузом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLopb49cJR3Nv5OXnsYqbAC9vtizA1-xXyo1f4ClTW_X7McQmkeX6GT2bfcJtz6CRiH_AKchIpdjDi35XujcqQ0ZTUHS4sbyduo2cCOCK4mX7m1b4YW8pwNOPBQQNLICeiMPZePQNU0n6xBs5C0QcadKUlazPQ853HY6OTcHgRe5GYCY-uxRiIypbY9g/s1600/IMG_5536.HEIC)
 
 Diary: [8 Apr 2023](https://irwin34.blogspot.com/2023/04/day-84day-83-4823-rebuilt-ducting.html)
 
-Того ж дня: нові решітки для головного салону. Рамка з морської фанери і ламелі з цільного тику, фанера вирізана на ЧПУ, щоб повітря йшло у заданому напрямку. Задній короб — зі спіненого ПВХ 1/8, загерметизований алюмінієвим скотчем. На справжній короб там місця не вистачило. Уся внутрішня фанера отримала покриття для дерева TotalBoat. Сохне воно вічність: через 8 годин ще липке.
+Того ж дня я зробив нові решітки для головного салону: рамка з морської фанери й ламелі з масиву тику, причому фанеру вирізав на ЧПК так, щоб повітря йшло в заданому напрямку. Задня коробка — зі спіненого ПВХ 1/8, загерметизована алюмінієвим скотчем, бо для справжньої коробки там бракує місця. Уся внутрішня фанера покрита деревним покриттям TotalBoat. Сохне воно вічність; через 8 годин усе ще липло.
 
 ![Тикова решітка вентиляції для головного салону](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-17ORJtwpWRbMD-O5LbluBY4nydh152ah0U19oSQeVepcdi_TJP8dj8I8REp1S3DZYLWi4PF6aF4ila0kffd8xgHDFnMdOjDagk-Ppd0qicOurY7jSkR1UY_Pf_qk5s0O_UzTAoFJH96J6Zq8VvjqnFjhxs8VpUNUe7MnpAj2dKojx92w8w51Ry5uQ/s1600/IMG_5529.HEIC)
 ![Решітка з похилими тиковими ламелями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbezPK-rOQlh3REhvcp1pwABfHGdrzjuvppivTtWlw0__K8-ImLFgyAorPkWUkv8eCTU-MEsjqkMrXMICTtH-F8inH-7jasGtSPn3uabSFo6GTaEnzf6OHPk5APsb7aEeAs47f-Nmz3bGfg8EDLiMILZ_YdTkCxKt-QetH1S4mauuTO0rt6q_uUA-0UA/s1600/IMG_5530.HEIC)
@@ -152,7 +151,7 @@ Diary: [8 Apr 2023](https://irwin34.blogspot.com/2023/04/day-84day-83-4823-rebui
 
 Diary: [8 Apr 2023](https://irwin34.blogspot.com/2023/04/day-84day-83-4823-rebuilt-ducting.html)
 
-Потім велика решітка для носової каюти, з нерухомими ламелями, щоб розсіювати повітря. Під час монтажу виявилося, що заслінка не збігається з решіткою, тож я переробив одну стінку розподільчого короба, щоб зсунути вихід на 3 дюйми.
+Далі — велика решітка для носової каюти, з нерухомими ламелями, щоб розподіляти повітря. Під час монтажу я виявив, що заслінка не збігається з решіткою, тож переробив одну стінку коробки розподілу, щоб зсунути вихід на 3 дюйми.
 
 ![Велика тикова решітка для носової каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMSwl3hjR0QLYC_UYW36xwWj_Cs6DZi6r2wif1Xg1fk-fxITYwWK8RSWie_OEyJZXgCHBWe3Ks61p1tCuyRIOwKpy7H8unj4BYEX0v3hqTrid7TDWbG_v3wx98wRoHcB1fqDjyR0cGZ3JUUwmhkLCkncA8T5Rup9GwgLIVZsU-pSwdPTdg4tUlodZ2kQ/s1600/IMG_0810.HEIC)
 ![Заслінка повітроводу і короб за решіткою носової каюти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg14vtTekI2tJI7TlZa86Oa7BvvbeCNRzn96QfphPUTkAEC9KytL8aBMdPGxyc7r1YicvlhQKSI5_hMNBsU5DVErvE9wT32TCFPTbI0C3zlNTQtijhY-DMARFOY9pZpyUscEd76iEpTxZRvz9to66b8-YOW8UlD_qLb0RNZzTEcGR2LB1WclLfDxo4R9g/s1600/IMG_5676.HEIC)
@@ -161,7 +160,7 @@ Diary: [8 Apr 2023](https://irwin34.blogspot.com/2023/04/day-84day-83-4823-rebui
 
 Diary: [29 Apr 2023](https://irwin34.blogspot.com/2023/04/day-87-42923-front-cabin-vent.html)
 
-Травень: тримач тепер бере фільтр 12x12 товщиною 1 дюйм. Червень: тикова решітка.
+У травні кріплення фільтра переробили під фільтр 12x12 завтовшки 1 дюйм, а в червні воно отримало тикову решітку.
 
 ![Кріплення фільтра і решітка під кондиціонером](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRpe8R4EjIdg_ecvi87GCrQ-aFwaW8ZIRzaeJVHiL6NbTUsyGfsL5jtDSDGP0f12_j-arlc27UmgnLmyoABZQJP7SCJ0sb3EB6u68OQ-fZb5fm2Ax4nWwM23OS29Hr0Ql6I8rOc2gHNCMC4r6xi1CTrRKeyM1a9lsRDdGWNuVO2MDg18FqgpJcDWmCA/s1600/IMG_5827.HEIC)
 ![Верхня панель шафки носової каюти, вирізана по розміру](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwDVk8DRRx4nPLoXYaZ-_XNKHZccheDPUMHlVp_1e2txDfFonx1guQIJtsAOZ7bgb8uBJ9_0dIrLUgLLI7qayUMnaP8g6cZXE4Nt92VLzmykFT4D11Ne-DgTlTAstqMxDwsOC-N2cyWENhJQ7FyascqzYPs0jrTjK6lmglWK9xVArSDiwDTqOzjlw17g/s1600/IMG_5828.HEIC)
@@ -170,11 +169,11 @@ Diary: [29 Apr 2023](https://irwin34.blogspot.com/2023/04/day-87-42923-front-cab
 Diary: [27 May 2023](https://irwin34.blogspot.com/2023/05/day-91-52723-fixed-window-ports.html)
 Diary: [3 Jun 2023](https://irwin34.blogspot.com/2023/06/day-92-6323-galley-countertop-dry-fit.html)
 
-## Лагоджу те, що муляло
+## Виправляю те, що муляло
 
-Коли у 2025-му двигун поїхав додому, помпа кондиціонера перестала запускатися. Човен став легшим, ватерлінія опинилася нижче помпи, вода витекла, а помпа не самовсмоктувальна. Тож я поставив зворотний клапан біля скиду: він тримає воду і випускає повітря до помпи. Простий нейлоновий клапан на одинарних хомутах. На свій захист скажу: це тест, назавжди він тут не лишиться, і стоїть він добре вище ватерлінії, тож навіть якщо шланг злетить, нічого не засмокче. Через тиждень помпа все ще запускалася без проблем. Датчик води на полиці кондиціонера — у планах.
+Коли у 2025-му двигун поїхав додому на капремонт, помпа кондиціонера не хотіла запускатися. Човен став легшим, ватерлінія опустилася нижче помпи, вода витекла, а помпа не самовсмоктувальна. Тож я поставив біля виходу зворотний клапан, що тримає воду всередині й пускає повітря до помпи. Це простий нейлоновий клапан на одинарних хомутах. На свій захист скажу: це тест, назавжди він не залишиться, і стоїть значно вище ватерлінії, тож навіть якщо шланг злетить, сифон не утвориться. Через тиждень помпа все ще запускалася нормально. Датчик води на полиці кондиціонера — у планах.
 
-Глушник, який я колись зробив, займав купу місця і насправді тихіше не робив, тож його більше немає. Тепер там просто Y-подібний повітровід.
+Глушник, який я збудував, займав багато місця і насправді нічого не робив тихішим, тож його більше нема. Тепер там просто Y-подібний повітровід.
 
 ![Зворотний клапан на лінії забортної води кондиціонера](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyLudK5ZQxjudSNyBuyO7w5-3809333EHUaL3wKLNcDOenvZc8siOQFLqPcBdFqtDljmtsWTLWu-sqAENkYFcIlk9L2V7MzQEJaNCQlv_KjwlvlhahX6x5-KLdtIBLhtIAufTTjyINAbzN3lh7F8mU6qDCu8xQaJqGUtxWyxDOFGjFFiC2fZYhGnmrCR1s/s1600/IMG_0229.HEIC)
 ![Утеплені повітроводи й електричні заслінки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxXFMYo_fMlTJ85mZbqTTDUfbt0Y1y_UecW6lYV_THqOurfOHsEx90qT0H3bPX-gtdRR-CJonOQTP7cI8IjSbOLBFQ0Hp4OZUJ2FVtZq3-NELxOnqInPjGaHnBIO41ARH3LwSkCRy97UJKU-K9BZ0dMEVnc-FjZrdAGGg66PH4Af9UbeoXC91oTpHjmYn/s1600/IMG_0228.HEIC)
@@ -183,9 +182,9 @@ Diary: [3 Jun 2023](https://irwin34.blogspot.com/2023/06/day-92-6323-galley-coun
 Diary: [9 Mar 2025](https://irwin34.blogspot.com/2025/03/day-190-hvac-air-dirtribution-redo.html)
 Diary: [16 Mar 2025](https://irwin34.blogspot.com/2025/03/day-191-engine-fresh-water-conversion.html)
 
-І заслінки. Ідея — охолоджувати чи гріти лише частину човна, коли кондиціонер працює від батарей. Може, механічний трихідний клапан був би простішим, але я ж інженер-електрик. Узяв дешеві заслінки на 110 мм, 12 В. Три дроти: середній +12 В, а мінус на лівий чи правий відкриває чи закриває.
+Тепер заслінки. Ідея в тому, щоб охолоджувати чи гріти лише частину човна, коли кондиціонер працює від батарей. Може, механічний трихідний клапан був би простішим, але я ж інженер-електрик. Узяв дешеві 12-вольтові заслінки на 110 мм. У них три дроти: середній +12 В, а мінус на лівий чи правий дріт відкриває чи закриває заслінку.
 
-Я з'єднав їх паралельно, перехрестивши «відкрити» і «закрити», і одна почала відкриватися й закриватися без зупинки. Коли розкрив, конструкція виявилася дуже простою: мотор крутиться лише в один бік і гойдає заслінку, а два вимикачі зупиняють його в крайніх положеннях. Одна заслінка сама по собі працює чудово. Дві разом живлять одна одну через задні двері і ніколи не зупиняються. Чотири діоди, щоб їх розв'язати, і все працює як слід. Плюс запобіжник 2 А в колі керування, щоб спати спокійно.
+Я з'єднав їх паралельно, з перехрещеними «відкрити» і «закрити», і одна почала безупинно відкриватися й закриватися. Коли я її розібрав, конструкція виявилася дуже простою: мотор крутиться лише в один бік і махає дверцятами, а два кінцеві вимикачі зупиняють його в крайніх положеннях. Одна заслінка сама працює добре. Дві разом живлять одна одну через зворотний шлях і ніколи не зупиняються. Чотири діоди, щоб їх розділити, і все працює як слід. Плюс вбудований запобіжник на 2 А в колі керування, щоб спати спокійно.
 
 ![Утеплений повітровід, розділений на носову каюту і салон](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw-rIasqOrKLXSVpnx5f6kDL2LqIoT1Y8IBztO5BnH147_m1wqu1imSloGNlIl5VwB98YMRowvyHbz9i1Et6QilGCgW_qHl_ggmJ-jM7BW1xwAJJFPQ4plhPKCZ7srrzJIf4y7y0tnpwiEUk9_a-WR9uvgJUmvnDF4BPjXmrAvR4t6voNGSmxXtFRyKX2Y/s1600/IMG_0277.HEIC)
 
@@ -193,9 +192,9 @@ Diary: [16 Mar 2025](https://irwin34.blogspot.com/2025/03/day-191-engine-fresh-w
 
 ## Нарешті тиха помпа
 
-Після трьох років слухання тієї вібруючої помпи стало ясно: вона має піти. Алюмінієві пластини і гумові кульки від дрона спочатку допомогли, але не досить. Спати на човні з увімкненим кондиціонером було як спати всередині заведеного трактора.
+Після трьох років слухання того, як вібрує помпа забортної води, стало очевидно, що її треба міняти. Алюмінієві пластини й гумові кульки від дрона спершу допомогли, але недостатньо. Спати на човні з увімкненим кондиціонером було як спати всередині заведеного трактора.
 
-Тож у червні 2026-го я замінив її на SeaFlo 500 GPH, 115 В, з магнітною муфтою, спеціально для кондиціонерів. Не преміум, але з другої спроби попалася тиха. Я спроєктував і надрукував підставку, щоб вона стояла на 30-градусному борті в рундуку. Одна зі старих проблем — дуже короткий шланг між помпою і фільтром, який передавав вібрацію наскрізь. Тепер помпа лежить горизонтально, що набагато тихіше, а на вході довший армований силіконовий шланг-кутник на 90°, гнучкіший, і вібрацію він гасить краще.
+Тож у червні 2026-го я замінив її на SeaFlo 500 GPH з магнітним приводом на 115 В. Не топовий клас, але з другої спроби мені трапилася тиха. Я спроєктував і надрукував на 3D-принтері підставку, щоб вона стояла на 30-градусному борті в рундуку. Одна зі старих проблем — дуже короткий шланг між помпою і фільтром, що передавав вібрацію наскрізь. Тепер помпа лежить горизонтально, а так значно тихіше, а на вході стоїть довший армований силіконовий шланг з поворотом на 90°, гнучкіший і краще гасить вібрацію. Нарешті трактор зійшов з човна.
 
 ![Кронштейн помпи, 3D-модель](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitlT12K7TnvjJdOMBegYEYIoc1QXSmnrLY01PKiYxKm8Ou2f9TYVC3SH0PAdiCFuXri7RtuE5jZfQ_vJh587f6GFP3QSkBzKoS1JcVCL8JHvhdSW549e1Z-2FJET7Mwpo6Qc2e7qzg2oIbq7kzRHRfw-ucGt4yXhkP0WJEJ89r2bkTa2tIWof3tewjg3GN/s1600/stand.png)
 ![Стара помпа забортної води на кінгстоні й фільтрі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBljI8Qgbpbi-b7Q0uOaN98_IApDgMJKuvK8n_M6rkfLeRoI8nFbhEUGNudyS1RE7SVWJrAd7nVHN2nXruN5tdz1TLF51Sv_39Hy3fFra5vbZGYWnbi9eVXnvk3aQlCLiFxaPqFcZCU6eAnARg1KWpvQQxr0IdSjSS12OsmzcHWGGkGWUiyTH5hwrGJjNx/s1600/IMG_1442.HEIC)
@@ -204,4 +203,4 @@ Diary: [16 Mar 2025](https://irwin34.blogspot.com/2025/03/day-191-engine-fresh-w
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
 
-У серпні 2026-го я замінив повітряний фільтр. Старий був дуже старий і повний пилу.
+У серпні 2026-го я поміняв повітряний фільтр. Старий був дуже старий і повний пилу. Свіже повітря, в усіх сенсах.

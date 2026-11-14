@@ -6,12 +6,11 @@ order: 1
 description: "Нова проводка, електрощит, батареї, інвертор, берегове живлення і ELCI."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZjDGXloN-Viv-gVOY_tz9cUl9jrVHuEn60GyXW-k7J53xhBOGh15P7aXt1Ciwwso9t54f1QoxAA5NC0PS2JG7JDe6fijFzJsr02kXPvdK_RIVYaijw403U7rquGzUCg3Oyt2fqQfikFIBRXhHW2nz-xUfGd_dd5sACiYIrwJE0YsjXYEjF/s1600/IMG_6092.HEIC"
 ---
-
-40-річний човен із 40-річною проводкою. Голий мідний дріт, скрутки під ізострічкою, згорілий генератор і дві мертві батареї. Зрештою я замінив на «Вірі» кожен дріт, потім зібрав щит, а потім заліз у літій, інвертори і купу уроків про розумні батареї.
+40-річний човен з 40-річною проводкою: гола мідь, скрутки під ізоляційною стрічкою, згорілий генератор і два мертві акумулятори. Зрештою я замінив на «Вірі» кожен дріт, потім зібрав нову панель, а потім поліз у літій, інвертори й довгий список уроків про розумні батареї, які трохи розумніші, ніж треба.
 
 ## Генератор
 
-У січні 2022-го я забрав генератор додому на перевірку. Сподівався, що це лише регулятор. Розкрив корпус — обмотки статора згоріли, тож годиться він хіба що як вантаж. У гаражі в мене був автомобільний генератор на 63 А з іншим кріпленням, і ножівкою та власними руками я пристосував його до Yanmar 2QM20. Пізніше візьму з нього змінний сигнал для тахометра і додам контроль напруги, щоб довга робота двигуна не перезаряджала батареї. ПІЗНІШЕ.
+У січні 2022-го я забрав генератор додому перевірити. Сподівався, що це лише регулятор. Коли розкрив корпус, побачив згорілі обмотки статора, тож тепер він годиться хіба що як якір. У гаражі лежав автомобільний генератор на 63 А з іншим кріпленням, і ножівкою та власними руками я пристосував його до Yanmar 2QM20. Згодом візьму з нього змінний сигнал для тахометра й додам контроль напруги, щоб довга робота двигуна не перезаряджала акумулятори. ЗГОДОМ.
 
 ![Згорілий оригінальний генератор, розкритий](https://blogger.googleusercontent.com/img/a/AVvXsEivKWHnkP6lt-K7iVMMjzknNQ3gV4iDCdHIVRgZVLklYdQFhFRlJym4rB9UC8d35RlvxVUxQJhEICZD1iWUCkIjJP07YZpu_382VONb3QofVQikXZuO5EzPWPqXWPgIZMOFEcrIdeuk1lrWznbFMN4eqIjn_mfK6EO3n2h-sSzOtBVEW_KgZYhc52rQlQ=s1600)
 ![Автомобільний генератор на 63 А на верстаті](https://blogger.googleusercontent.com/img/a/AVvXsEjJ7OI6vBKjgJwKBJl3mtUnZNcDcFCDGEsMQxGx43sSkUr-jKdhdSXInBgc1E37gIMZ64_IXbC2VkyNrqGloNrg4WVc1Xjx_bHxrd4KHMchmPhmD04FlhtLrvgproQitVA_Kp0w2DuyrfzZVrUaRqbfxsXT0cwm7f2a5MS0xzrzt_cofn4K_oWrrCQPbQ=s1600)
@@ -25,37 +24,37 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZ
 Diary: [17 Jan 2022](https://irwin34.blogspot.com/2022/01/day-7-checking-alternator-2-hours-at.html)
 Diary: [10 Jan 2022](https://irwin34.blogspot.com/2022/01/day-10-116-install-63a-alternator-take.html)
 
-Того ж місяця став новий береговий кабель, а старий пішов на пенсію.
+Того місяця став новий кабель берегового живлення, а старий пішов на пенсію.
 
 ![Новий береговий кабель на причалі](https://blogger.googleusercontent.com/img/a/AVvXsEjCgirQhRiQGYm9ATSIOPe3MB6EbUdSOQLbjWCZAkWnLSmTYHcgZI6m2F3cfavYOt1b1o-9MrheMRHqXVwvLurJG-gqDhcGxoC1wLO5LiqNnnWvBDcYFzTQQYSp2lNkN-2hYj1V3GvqU-jzjNAkbUeqo2OTevOMCl29GxQnjqHy9aoDANXo23cQvDR2Sw=s1600)
 ![Береговий кабель під'єднаний до човна](https://blogger.googleusercontent.com/img/a/AVvXsEjqoribUGXX_dMz1TjJUP7O_w_JW5e-FPH8wko02dJRLB1qRh5o1PXTi14j6wdYxZPwVQGI6SikQuU9PnUyu1i7kB21AkSb2FzlNf0w-fabpfIpmwzvf3Y_rZOL9z9zadPLUeyDGidbPTgFTGqKxDnLZodoPvoZcFETgDHeSGImONi4uBfHFdItqE6k_w=s1600)
 
 Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-stay-chainplate.html)
 
-І кріплення топового ходового вогню. Серйозно?
+І кріплення ходового вогню. Серйозно?
 
 ![Старий топовий ходовий вогонь на щоглі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi74UupV9wMS4AFDf_FtyXT5-ZCmTVOswBa9lIZu0F6FC3cPheBXKB7SRDS57kahVvIWDNY85lsfxum3RsVkOrskbC-LX40LIDM0beBf-N8HtWAyhj_EZquSPRKf1L30FyTro91cg-h0BjlsJaFUWBWZplkrI2KqpIWkXiicVD5_QBH1Kx_gcn5VB85vw/s1600/IMG_3010.HEIC)
 ![Кріплення топового вогню на щоглі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihZY9FRSqq3g175osLYFiXAamxVe4qJGwaOW0o8cCp-3R1WLAOSUja8J1QGVa1U6Z9xPXVT5z_5hlfo5WT_Z-tmc2XTIRHX9JtzEcwkky4O0La2jOy9GMaYX4P5IyjEGpwPt5hqNwk_IK5yz5zWtjw3N4uWhIswQy12TGCtIwKYKZSvuz0GVj61-tj0A/s1600/IMG_3012.HEIC)
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-## Чому проводка йде довкола човна?
+## Чому проводка йде довкола всього човна?
 
-Червень 2022-го, ще один сюрприз: оригінальна проводка йде вздовж правого борту, розвертається і повертається вздовж лівого. НАВІЩО?
+Червень 2022-го приніс ще один сюрприз: оригінальна проводка йде по правому борту, розвертається і повертається по лівому. НАВІЩО?
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-Вересень 2022-го: я знаю, що оригінальній проводці 40 років, що вона не лужена, не «морська», а розетки 110 В окислені. Але те, що я знайшов під ОРИГІНАЛЬНОЮ ізострічкою, переконало мене, що міняти треба все. Розвага №1: схоже, під час збирання дроти в шафці гальюна обрізали закоротко, нарощували шматком на двох слабеньких скрутках і замотували стрічкою. Я майже певен, що це оригінал: та сама стрічка, що й на всіх джгутах. Розвага №2: розетка 110 В біля штурманського столу взагалі без коробки, просто встромлена в дірку в обшивці.
+Вересень 2022-го. Я знав, що оригінальній проводці 40 років, вона не лужена, не «морська», а розетки на 110 В поїдені корозією. Але те, що я знайшов під ОРИГІНАЛЬНОЮ ізострічкою, переконало мене, що міняти треба все. Розвага №1: під час будівництва, схоже, дроти в шафці гальюна обрізали закоротко, додали шматок двома слабкими скрутками й обмотали стрічкою. Я майже певен, що це оригінал: та сама стрічка, що й на всіх джгутах. Розвага №2: розетка на 110 В біля штурманського столу взагалі не мала коробки; її просто запхали в отвір в обшивці.
 
 ![Оригінальне з'єднання дротів під стрічкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOM0idtfs_pY3S6Due17XarooxvOP-g6vwsc40OeiodtPZ5RLeTzT45k9y7kIpOUavTq4lJ9CvzwUmBSfCpJ6FJT1OVcEoLFaMtdgkCNifMW0m4BhJl95Oe8u_JwKtOuG5pOUVYcA6WqZ_4S5me6oEJWP0O_Et5H6Wqpk8Zu6XV6WlKL6tHLKGmU0LPA/s1600/IMG_3758.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-У вересні — швидкий тест побутової і стартерної батарей: в одній лишилося 5–6 А·год, у другій 10–15. Обидві на межі смерті, тож я їх замінив.
+У вересні я ще швидко перевірив побутовий і стартовий акумулятори: в одному лишилося 5–6 А·год, в іншому 10–15. Обидва були на межі смерті, тож я їх замінив.
 
-Потім з'ясувалося, що ВСЯ оригінальна проводка — товста багатожильна мідь, не лужена, і окислена. Навіть усередині оригінального джгута траплялися скрутки. А на моєму човні кожен дріт лівого борту йде від головного щита до носа і назад. Не розумію навіщо. Під сходинкою вхідного люка є ідеальний шлях, і на власній схемі Irwin дроти йдуть саме там, а не довкола всього човна. Справа не лише в довжині дроту; так система ще й вразливіша до блискавки. Ось гарний приклад ОРИГІНАЛЬНОГО силового джгута: схоже, дроти вийшли трохи закороткі, і їх наростили.
+Потім виявилося, що ВСЯ оригінальна проводка — товста багатожильна мідь, не лужена й окиснена. Навіть усередині оригінального джгута були скрутки. І на моєму човні кожен дріт лівого борту йде від головної панелі до носа й назад. Не розумію навіщо. Під трапом у каюту є ідеальний шлях, і на власній схемі Irwin дроти намальовані саме там, а не довкола всього човна. Справа не лише в довжині: так система ще й вразливіша до блискавки. Ось гарний приклад ОРИГІНАЛЬНОГО силового джгута: схоже, дроти вийшли трохи закороткі, і їх подовжили.
 
-Усій проводці 40 років, і я їй більше не довіряю, тож вирішив замінити все. Пару годин розчищав місце під прокладку дротів. Збираю джгут, кожен дріт підписаний з обох кінців. Монтажні бруски вклеєні в корпус кожні 18 дюймів, щоб його тримати.
+Уся проводка мала 40 років, і я їй більше не довіряв, тож вирішив замінити все. Кілька годин пішло на те, щоб вигребти місце для прокладання. Потім я зібрав джгут, кожен дріт позначений з обох кінців, і кожні 18 дюймів приклеїв до корпусу монтажні бруски, щоб його тримати.
 
 ![Оригінальне з'єднання під стрічкою зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4w_Iw27cTytQovsZrjUjc5RaJzxDvp5pTetg1gi6sSwOJwGPz_F3u3ZLdNb-49AJcHqZnWQnWCvsnVX3NNIFD-lYU3FwUc0trEKIuO31QurCqvt1B7OVbdKR2L8vNBg-hjGXY4EjyroKDlJmy67uVKIoxk-UXcWA15nHkIqUCBtP6qDHmzNbWcn5pZw/s1600/IMG_3758.HEIC)
 ![Бокові панелі салону зняті, лівий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPNqRHoZtSYFoYQaSiOgsZnZd0kNbZCAsFmYpWM4BqoOeVhaHKM6pGiAVaAXMyL_rq3qwGv6YY3aq4JqsQVawwQzv-3DN4akj_XeLbJ6-Eg8FYCzBpaPuQQpt5zdesOfkBoQ78n14Mn2q3qSBF2c_216xQQIIxJHdZnZHnQKr3v41kZBbplHKrccQRQQ/s1600/IMG_3772.HEIC)
@@ -66,7 +65,7 @@ Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-co
 
 Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring-part-1-cockpit.html)
 
-Два спостереження не про проводку. У куті ліворуч від штурманського столу купа невикористаного місця. Перша думка: ВАУ, гарне місце, щоб сховати електроніку. Але діставатися туди для обслуговування буде кошмаром. А шматок ламінованої фанери в куті пілотської койки водночас і внутрішній, і зовнішній: ззовні не заклеєний склом, тож вода легко в нього потрапляє. Коли я його зняв, отримав «гарний» отвір з-під люка моторного відсіку прямо в каюту. Його треба заклеїти склом, а не просто закрити фанерою.
+Два спостереження не про проводку. У кутку ліворуч від штурманського столу купа невикористаного місця. Перша думка: ОГО, гарне місце, щоб сховати електроніку. Але дістатися туди для обслуговування буде кошмаром. А шматок клеєної фанери в кутку пілотської койки — водночас і всередині, і назовні: ззовні він не заформований, тож вода легко в нього потрапляє. Коли я його зняв, отримав «гарний» отвір з-під люка моторного відсіку просто в каюту. Там має бути склопластик, а не лише фанера.
 
 ![Дроти в зоні стику палуби з корпусом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqdSYjwYrox_j_yn1ShleqwIqSJWP9wYoQde1xJ5jOmznY9v9SF8cW_NoiX2LjT4AqsVuJ1oMj041eVO_RL7N7sCYGYNIjj0Q5iw8b2M-GCAeihOZb5EGSN2Mky6eSpk8laI4wTdlla2xDB0-YhNtW0keJG4tMh6CTdLPChKgKbdNaB2ihJ54zYx76A/s1600/IMG_3774.HEIC)
 ![Невикористане місце біля штурманського столу, позначене стрілками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJ7W-mQxVtaqY-MAMZrjj5k7_250PiqQ9hKeEN6-caCIeWXOT157Pt68Bxv6xFp0Ka8j7mxGf_2DZvUNSJAQnlvy8RBuEy36mpYxYhSs4SkPG8kHFXtC4viV0dzUALgw9R4JTkYOkHOHhR1ivaqyfIRkroNzqN1vNeDRnuBD4nZH1XuGyWIB3E6aDMQ/s1600/pic122.png)
@@ -75,7 +74,7 @@ Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring
 
 Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring-part-1-cockpit.html)
 
-Потім нова система проводки, за моєю схемою.
+Потім з'явилася нова система проводки, за моєю схемою.
 
 ![Нова схема проводки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7wtQ9oG1IJcwJWnS1jx6GXa7CrU1TB9h96pXWGUoHFN25hGWgaWSiPQOuHbJjQ0BgSN815L_kv_FtA3poFOMye2007T983DMzZtsgT4lzK6kpqggZVVfIfJ24TlKPlfFfOyxfDA8D57aePz0xE_cnzx2aFXpZyw_hw9OxBhnVRetyVJzVNwCutM5CBQ/s1600/Electric.png)
 ![Монтажні бруски, вклеєні в корпус під джгут](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAiwYf02cx4H0qNKRscBSsn95LOtEMQuRfnOZE2cyHzxXZP6jjoZR7OEIvh9vfzjQswNCq9SXcskr-GkmuC4LmUan6IDEKFXJamUFJF2ncDgGkDRdhKlyIUPpk2_Qs221yeqRplsAvrZBoqTZCWSZ_TMqxMff9klCypdOg0hSjoty-FiH3W3M-QqLROg/s1600/IMG_3809.HEIC)
@@ -85,7 +84,7 @@ Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring
 
 Diary: [17 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-917-new-wiring-part-2-cockpit.html)
 
-Дроти для електричного унітаза, холодильника, авторульового і помп, усе впорядковано вздовж бортів. Я перевірив оригінальний зарядний пристрій — і сюрприз, він зламаний: справжнього струму заряду немає, лише слабке пульсування. Став новий зарядний 3x5 А, на тимчасове місце.
+Дроти для електричного туалету, холодильника, авторульового й помп, усі акуратно вздовж бортів. Я перевірив оригінальний зарядний пристрій, і, сюрприз, він був зламаний: справжнього струму заряду ніякого, лише трохи пульсації. Новий зарядний 3x5 А став на тимчасове місце.
 
 ![Новий джгут уздовж корпусу, правий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitejI5vQazwjf0_4_j1Eymzfc_0MCwoNfSnVsED6zLUKSzkRvGnu6Epyl2XU0EtkIP15CvUtYwYsOews3Y1tgovQ2yHV547BmZDsFdMx4x8Qrp-hwqgW1wO0dhBbh7Ve_ZYFTUZ8M20OkrEPrpDvOIjyy_6xNKt1cauMFpbbEvC6W4m4tRBakWKABDYg/s1600/IMG_3827.HEIC)
 ![Новий джгут на кліпсах над диваном](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZMoE5Hzw5WHTcCwtgQX5lRxBmpoTrXVgbPGQPhg-LYJ3n70sm4XCzTa2PPHO3_jZA4m_fFmpU1FlhL4QFFZk8s9x4dH2ZOiVBiHmmpakJig-DGCuuF5iyopnvueQC1VXWirm8U-bOsvTI_3kqAjs7hyTsIhRFvdqsoivB0s7gjwi6Z6Hrk17obsJNw/s1600/IMG_3828.HEIC)
@@ -97,36 +96,36 @@ Diary: [17 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-917-new-wiring
 
 Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
 
-А в березні 2023-го, вдома, маленький побічний проєкт: в одній із моїх 18-вольтових батарей Bosch зламався кулачок фіксатора. Я зламав його роки тому і тримав малярним скотчем, і врешті це набридло. Тож я змоделював і надрукував новий кулачок.
+А в березні 2023-го, вдома, маленький побічний проєкт: в одному з моїх 18-вольтових акумуляторів Bosch для інструмента зламався кулачок засувки. Я зламав його ще роки тому й тримав на малярному скотчі, і зрештою це остогидло. Тож я змоделював і надрукував на 3D-принтері новий кулачок. Коли маєш 3D-принтер, ніщо не буває зламаним надовго.
 
 ![Кулачок для батареї Bosch 18 В, 3D-модель](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8V8dZgTTGONQufGsuTRZrvpncozTkH4mzWlgeK2b_QhaKjvVmvaN0kcDl-HC_0NBzEnNWaPCCqg3A1BrQEcwSXjED_GP7T9MBNaIzN_wi2lE7lqMFooQBa5ir_8I2PukZ9MTrlXgQl2AHT77mvIQ_qOfnFh9F8aAAcGSC8qcfvcXCUNuNpz3OhBjkg/s1600/111.png)
 
 Diary: [11 Apr 2023](https://irwin34.blogspot.com/2023/04/bosch-10v-li-ion-battery-cam-repair.html)
 
-## Інвертори і літій
+## Інвертори й літій
 
-У жовтні 2022-го я на «сухо» перевірив інвертор на 3000 Вт, що живив кондиціонер від однієї універсальної батареї. Мої літієві батареї ще збиралися. Кондиціонер працював добре, максимальне навантаження 1200 Вт. І маленький інвертор на 400 Вт із холодильником. Працює; на етикетці холодильника 0,8 А, з величезним запасом.
+У жовтні 2022-го я на сухо перевірив інвертор на 3 000 Вт, що живив кондиціонер від одного універсального акумулятора; мої літієві батареї тоді ще будувалися. Кондиціонер працював добре, з максимальним навантаженням 1 200 Вт. Ще я спробував маленький інвертор на 400 Вт з холодильником. Працює добре; на етикетці холодильника 0,8 А, значно нижче межі.
 
 ![Інвертор на 3000 Вт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRVYsVQarMh5uljse2ARl8uabZeKlwS8tRvoGzWKYAG-3PqNuPDeyrYktfXmdI93TSd_x0ODhJjEt0BRpe8vbhJATHul-J4vseZe1mOLjvdSxraUiFVD8Nk1lP95ezetgSZmGfyYHZS4bTFcG5axV7a-uFUcH-hBNj0kU1mw-m0Oyj_eLVZUMn1rXgQ/s1600/inverter.png)
 
 Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-test-day-water.html)
 
-Щоб 3-кіловатний інвертор працював із літієвою батареєю на 10,8 В, довелося змінити його поріг відключення за низькою напругою, підкрутивши резистор 20 кОм на маленькій платі керування. Батарейний короб став точно в рундук поруч з оригінальними батареями.
+Щоб інвертор на 3 кВт працював з літієвою батареєю на 10,8 В, довелося змінити його поріг відсічки за низької напруги, підкрутивши резистор на 20 кОм на маленькій платі керування. Батарейний ящик точно ліг у шафку поруч з оригінальними акумуляторами.
 
 ![Підкручую поріг відключення інвертора на платі керування](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLt6lCqSkoDtLq8qLp9_QAa02iEJMWfJ4BmbJBYluFWJcu6JeLyJwyPLWaTHk8pJzMuAFty6YoK0VFC-6QUapTeGmr-_Ym8dy-9HAk2RRLiFI4VqjZSteDB3fanKd21yywiFW3EBEzMKgVAxcBnHYKt6VKZz71uy8nWRZUA4gDT5Dj3c5selEcaxeZEw/s1600/IMG_4029.HEIC)
 ![Батарейний короб у рундуку біля батарей](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhekLPTGFKhLbnbg6vZdHnWXr6mgRPuw8LbTUTiRWWGwr1vikZ8nLJzISAesPahB2cwKOLebBLkzAy1uXEiixZIoqzQV6BXerg13IK5jK_uHPi8McUTwPjQweYbKwaldCN14CwhbHeD67aXoT4K3PMie_iR5zWN-7GfBdf7yrC1CX_oDBQTjm64mCQ2Ng/s1600/IMG_4013.HEIC)
 
 Diary: [22 Oct 2022](https://irwin34.blogspot.com/2022/10/day-53-1016-paint-day-water-tank.html)
 
-Потім рівна підлога під літієву батарею в тому відсіку. Може, і п'ятий блок туди влізе.
+Потім я зробив у тому відсіку рівну підлогу під літієву батарею. Може, туди влізе й п'ятий блок.
 
 ![Рівна підлога під літієву батарею в рундуку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0GMQtRomKc-d1POATxKfWauddmFF01tGys06C5RwGuJXBBQz4z_KhZKWN5z1bJEEJ3i9LEBlKGfaYlTOjqvlDICM-t0UEnOayKbJKVQLk-GI49onPf7zd-ptu4gM0AjgCSx6vboxRVxeqsVNUPssWUGD7QTkF01kyE56sprtiZ9ckmKrc5PVYtqPhw/s1600/IMG_4215.HEIC)
 
 Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-cabin-cabinet-main.html)
 
-## Прощавай, старий щит
+## Геть від старої панелі
 
-Квітень 2023-го: клемники на задній стінці запобіжникової коробки, і вся силова проводка та 110 В розведена.
+У квітні 2023-го на задню стінку запобіжникової коробки стали клемні колодки, і вся сильнострумова та 110-вольтова проводка отримала кінцівки.
 
 ![Клемники на задній стінці запобіжникової коробки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibqqo_6XFyd8sR_UkVBpU8hOpqZh-iobyCuWFYp9x8VuTNBQ_IvfA6tEcw1DUhq7TcdtVWjwUUmXykVXz7ScrqJrjeGaNLpIcqFGChrYv41jywNGa2LmFFSo_f0IYJ0T29-axqfQiH2stHW7edYlaADl5ItVUd3mPq6TF_CvbxSj5J0Q1eWgIR8ZzIww/s1600/IMG_5630.HEIC)
 ![Клеми запобіжникової коробки і нова проводка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEuX8dBZrsEJ-HMuX5l7TdB90kQCQf3OIRkI38MayE-GPIuA45gpAlkwP4bGefy6wsIzoX1521Uh0iHdKbenx4Nwon9On0LPcubqajvLq61BZfBCuoH2J7CSniPWDgZXPBO-uFF8Fe4nXCTXLBNFtJRVGjNg_bT0WQBdjZtd71Y4Mt6muzqAjbBaM1Jg/s1600/IMG_5681.HEIC)
@@ -136,7 +135,7 @@ Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-ca
 Diary: [22 Apr 2023](https://irwin34.blogspot.com/2023/04/day-86-42423-refrigerator-electrical-8.html)
 Diary: [29 Apr 2023](https://irwin34.blogspot.com/2023/04/day-87-42923-front-cabin-vent.html)
 
-Травень: зарядний пристрій переїхав на постійне місце, оригінальні панелі пішли, а тимчасові з'єднання лишилися, щоб живлення все ж було: запобіжник 15 А на постійному, 25 А на змінному. І полиця під інвертор.
+У травні зарядний пристрій переїхав на постійне місце, оригінальні панелі вийшли, а тимчасові з'єднання лишили мені живлення: запобіжник 15 А на постійному струмі, 25 А на змінному. І полиця під інвертор.
 
 ![Зарядний пристрій на постійному місці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsRl-UYew-tdjFVrgRM7clOyLlThhhl9eFBFkZQSQTx9pCs2s69wriB716zXHdP4K9W0tdDr89xRGZKpy-8gLsDBnWo8TpW3bikp_Uw3XrXgNtXPCzEmw4vWYzae8ee26IIltICPnqzEelG2fdweCf7sLsYsDUVYQOHnTjz2LHZ6MebXI_HQTC7j5CdA/s1600/IMG_5768.HEIC)
 ![Тимчасові з'єднання за знятими панелями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwasK1rJ2zmNy7B2mf9rdvGVGfHaj6O8-9ckkhkfP4aGUdRhn5q0Y7008gKRZovuV_huH0n7tVaBNq4-EO0ZOKOwznB3HgsLR3XAzZDDpQCkOrBvbtGhRDZWmPUVxMlE4PiAow_o5ELvyRAFluFsKguvFF5CyzX2hYSWqh1d8jSxc7RbVtWIB7Fl_9Kg/s1600/IMG_5767.HEIC)
@@ -144,7 +143,7 @@ Diary: [29 Apr 2023](https://irwin34.blogspot.com/2023/04/day-87-42923-front-cab
 
 Diary: [13 May 2023](https://irwin34.blogspot.com/2023/05/day-90-51323-bimini-galley-base-rebuild.html)
 
-Розетка 110 В у носовій каюті, потім там же розетка 12 В і USB-зарядка. Тимчасовий вимикач ходових вогнів. Час збирати панель вимикачів.
+Потім розетка на 110 В у носовій каюті, а також розетка на 12 В і USB-зарядка там само. Тимчасовий вимикач для ходових вогнів. Час збирати панель вимикачів.
 
 ![Розетка 110 В у носовій каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIKjkieIjF80LuvwsSI1dIdivZkBruDbKkQ1BZA-eyhYa3H8U9b2PRoR4VhjouAFnBE6gZZvGyhDKi1XoCfyAfZhId4QdO1zOxRLXiFK7RjfFvH8OjcmcGMdx9BAjE7RZqOjLjA54nIh-VsNPIm7GMFuzFReJCuRFDFwZsVwClJxpYCNR9IhzpvYfu6A/s1600/IMG_5823.HEIC)
 ![Розетка 12 В і USB-зарядка в носовій каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRIRISAfKfiuMSJEo3L-D08lqAa9zaxNpGhejdou5DShvmtIQvSqI2fkIsrGYW5ao7uSTcZ4dfkZxC6avROs2kqxJUmucskuf3WMzUWu82KgJJX6RhxklCG9HdeIZGIqDyrwLE8QRD2wW8bulFbn5tQNr-TYeiyqe8KuWaKQvYIwq98Rx8BWt9hpxXFA/s1600/IMG_5905.HEIC)
@@ -153,15 +152,15 @@ Diary: [27 May 2023](https://irwin34.blogspot.com/2023/05/day-91-52723-fixed-win
 Diary: [10 Jun 2023](https://irwin34.blogspot.com/2023/06/day-93-61023-galley-countertop-fit-to.html)
 Diary: [17 Jun 2023](https://irwin34.blogspot.com/2023/06/day-94-61723-galley-countertop-final.html)
 
-Чотири розетки на камбузі. Нижня пластина, що відділяє відсік розподільчого щита від моторного відсіку. І проєкт нового електрощита.
+Далі: чотири розетки на камбузі, нижня пластина, що відділяє відсік розподільчої панелі від моторного відсіку, і проєкт нової електричної панелі.
 
 ![CAD-модель нового електрощита](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi72diMtbURqGgUkIAr0z0dJ3wBIx_xlE8bWBa4lswmFmDy3KG5jIJylAmxQHEcpdpOlf152eb8615o0Zqe2_uqfDTgPua6TWnUPzlxEzMnE4_QoDGcD05mn6aNnShwkSmE2Mh3oMrGfrJKFyATs7x2pgm8IsnVXqAelbc60bqe7X9jMAcqoxQ1ShHiRqKw/s1600/Panel.png)
 
 Diary: [24 Jun 2023](https://irwin34.blogspot.com/2023/06/day-95-61724-galley-countertop-final.html)
 
-## Новий щит
+## Нова панель
 
-Липень 2023-го: проєкт нового щита, виготовлення в гаражі, збирання, перша примірка. Дуже тісно, але влазить.
+Липень 2023-го: проєкт нової панелі, виготовлення в гаражі, збирання і перша примірка. Дуже тісно, але влазить.
 
 ![Розкладка щита на екрані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5et1T32xHSRj_W_5qDZK3DICTY4CNqBGFuFex8v2_KSjuiVcL6jO2m7ht8S_HCzLz9sXEbKXUL0YxXODEIMYeWHiggQJNsysup2URWYLDe2mKiQO5TsCFUQ0egzKrkLmRa4udDJBzMsaIsqI7te-lm7Qw7Q7lTy8IHL-BneopUcZkW07JKDaWgODOrm8/s1600/IMG_5969.HEIC)
 ![Лицьова панель щита, вирізана на ЧПУ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDOi4OblmUa9mMZfosBntaRPcDTY-HEZwwJQ7mGk4JP5Jdd4az0s7ShZeTZQi3al3mAlQbngUYkev_Ks-nLGt-Zk1FoFJSKnGsHAqgu3HtIDh0tfWwfUpigTFEMeUueCA3y9JbZHwXbXvuJaSZEqPzg_IWUXNshXBw1pTfjdOB4jy1_jeWqlVXAIbHr2Q_/s1600/IMG_5974.HEIC)
@@ -170,13 +169,13 @@ Diary: [24 Jun 2023](https://irwin34.blogspot.com/2023/06/day-95-61724-galley-co
 
 Diary: [1 Jul 2023](https://irwin34.blogspot.com/2023/07/day-96-7124-electric-panel-buld-galley.html)
 
-Потім його встановлено. Уся стара проводка пішла, окрім одного з'єднання — носових ходових вогнів. Індикатори кольорові:
+Потім її встановлено. Уся стара проводка пішла, крім одного з'єднання — носових ходових вогнів. Індикатори мають кольоровий код:
 
 - Червоний: проблема або щось, на що варто звернути увагу (працює трюмна помпа, газ, світло в моторному відсіку, сервісна паливна помпа).
 - Жовтий: кола, що працюють, коли хтось на борту або на ходу.
-- Зелений: можна або треба лишати ввімкненим.
+- Зелений: може або мусить лишатися ввімкненим.
 
-Я замінив усі розетки 110 В і обтиснув правильні кільцеві клеми. Поки що це звичайні побутові розетки. Добре було б щось «морськіше», але нічого розумного я не знайшов. Головне живлення під'єднане до нової проводки, з ПЗВ на 25 А в коробці IP68 між головним входом і щитом, за 2 фути від берегового роз'єму. Дуже важко виконати правило про відстань до мокрого вихлопного шланга. Поки не знаю, що з цим робити.
+Я замінив усі розетки на 110 В і обтиснув як слід кільцеві наконечники. Поки що це звичайні побутові розетки. Було б добре мати щось більш «морське», але нічого розумного я не знайшов. Основне живлення перепідключене до нової проводки, з ПЗВ на 25 А в коробці IP68 між головним вводом і панеллю, за 2 фути від порту берегового живлення. Дуже важко дотриматися правила про відстань від мокрого вихлопного шланга. Не маю уявлення, що з цим робити.
 
 ![Задня частина нового щита з червоною проводкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlSd5Snmy49z_XmInRoaYsSLuC4TD5SHLf0mrirAlP51uR5UbTsKipRDCEva9slSxQMXScw4VrRiJq8tnLnhNbOZ4r-Uj_qDzlLUir3G35uGxWWYzXw54VeGUTGh2j5azphELTAustOFP1l6LGijXdiE9i_GCX5ktO8qWp091czHPLcvGMJWBLqSWTlNQF/s1600/IMG_6089.HEIC)
 ![Проводка нового щита зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd-luemqSpANySepYOIz8lUbZ4MAkvf1eUDS0bQoIN7w5d65-4UCVkYH4ZPfyh43coAnNLQH8XvX8tLhDduXaIoSb0MOSalgUShLNgagw-Aq0LSrTp98mqy3OyPBXzytawfIITdlQBKxcEWb556e6i3sFKPZkn34kGDM_Ni31-4Z00_VbTgTZad-b4VGRL/s1600/IMG_6091.HEIC)
@@ -189,11 +188,11 @@ Diary: [4 Jul 2023](https://irwin34.blogspot.com/2023/07/day-97-7424-new-electri
 
 ## Причал повернули на 90 градусів
 
-Жовтень 2023-го. Зазвичай я приїжджаю на марину рано, і того дня прийшов десь о 7 ранку і... не побачив свого човна. Більше того, я не побачив ПРИЧАЛУ, біля якого він стояв. Дзвоню власнику марини — звісно, о 7 ранку в суботу він не відповідає. Коротко: вони повернули весь причал разом з усіма човнами на 90 градусів. П'ять дуже важких хвилин, а потім я знайшов свій човен.
+Жовтень 2023-го. Зазвичай я приїжджаю в марину рано, і того дня приїхав десь о 7 ранку і... не побачив свого човна. Більше того, я не побачив ПРИЧАЛУ, біля якого стояв мій човен. Подзвонив власнику марини, і, звісно, о 7 ранку в суботу він не відповідає. Коротко: вони розвернули весь причал разом з усіма човнами на 90 градусів. П'ять дуже важких хвилин, а потім я знайшов свій човен.
 
-Другий сюрприз: на причалах немає електрики. Третій: човен тепер стояв там, звідки майже неможливо вийти і куди неможливо зайти: від берега до транця футів 10, а від пера стерна до каміння 3 фути. Пізніше власник дозволив мені помінятися місцями з човном через причал.
+Другий сюрприз: на причалах не було електрики. Третій: човен тепер стояв там, де зайти й вийти майже неможливо, десь 10 футів від берега до транця і 3 фути від стерна до каміння. Пізніше власник дозволив мені помінятися з човном через причал.
 
-Але електрики немає. Тож я поїхав додому і привіз інвертор і свою літієву батарею на 2,5 кВт·год.
+Але електрики все одно не було. Тож я поїхав додому й привіз інвертор і мою літієву батарею на 2,5 кВт·год.
 
 ![Марина зі сходів: причалу немає](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV9VszjpMxaKccIF1KausTpRJYsV_yuzeshYa-P6HhvDxcNwlRdrUDRPr81djGx-vC-1fPh2XVGTWX1MwhKPf6PzKu8oh7mAAMbX_oyUp9TQTgBgiryIoDI1jADltiC52aOuxgxh2aZOgr7eGdeQmRrCbRc0pAB6c9VNaBcS98gJLW5AlfyHNGgJR42Qpf/s1600/123.png)
 ![Марина з пагорба, мій човен позначений](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7yH7Kp3jY10kqQRZulVB5PnvyMEFO00ecx-UnOmCZcW-U4_uYeZO5aNzAmymnGrYlp1uT4A56abYN1Wg659vRVxBsZn4Y9FkEoPmy9m7yPk1aOj7lHsJhJY3kUpLGA9E3a73Qs64BQjhsxGbCRipBlHa5gl6OO_X5rcOmes7BYL43KH84GNiAYIhj4NsK/s1600/123.png)
@@ -201,9 +200,9 @@ Diary: [4 Jul 2023](https://irwin34.blogspot.com/2023/07/day-97-7424-new-electri
 
 Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-surprise.html)
 
-Це був перший запуск інвертора на човні. «Суха» установка: інвертор на картонній коробці, вихід на дроти, які я для нього проклав, низьковольтні кабелі на батарею — і старт. Усе працювало ідеально. На панелі 110 В засвітилася лампочка інвертора, і я перемкнув вхід на «інвертор». З однією батареєю можна було брати лише близько 1 кВт, щоб не спрацював BMS, але цього вистачало на зарядку свинцевої батареї, світло, вентилятор, а часом і на великий будівельний пилосос та електроінструмент.
+Тоді я вперше запустив інвертор на човні. «Суха» установка: інвертор на картонній коробці, його вихід — на дроти, які я для нього проклав, низьковольтні кабелі — до батареї, і старт. Усе працювало ідеально. На панелі 110 В засвітилася лампа інвертора, і я перемкнув вхід на «інвертор». З однією батареєю я міг брати лише близько 1 кВт, щоб не спрацювала BMS, але цього вистачало на зарядку свинцевого акумулятора, світло, вентилятор і час від часу великий будівельний пилосос та деякий електроінструмент.
 
-На щиті постійного струму я поставив екран монітора батареї, але він показує струм батареї, а не споживання. Коли щось заряджає батарею, бачиш струм батареї, а не те, що їсть човен. Тож я додав ще один вимірювач біля термостата холодильника, щоб бачити справжнє споживання 12 В. Не пишаюся цим рішенням, але краще зараз, ніж потім. Ще я на «сухо» поставив монітор і шунт на свинцеву батарею і залишив на кілька днів подивитися, скільки вони їдять: менше 10 мА, тобто близько 5000 годин, приблизно 7 місяців, щоб посадити батарею. Думаю, для «саморозряду» нормально.
+Я поставив на панель постійного струму екран монітора батареї, але він показує струм батареї, а не побутове споживання. Коли щось заряджає батарею, бачиш струм батареї, а не те, що споживає човен. Тож я додав ще один вимірювач поруч з термостатом холодильника, щоб бачити справжнє споживання 12 В. Не пишаюся цим рішенням, але краще зараз, ніж потім. Ще я на примірці поставив монітор батареї й шунт на свинцевий акумулятор і залишив на кілька днів, щоб побачити, скільки вони споживають: менше 10 мА, тобто близько 5 000 годин, або приблизно 7 місяців, щоб розрядити акумулятор. Думаю, для «саморозряду» це нормально.
 
 ![Панель штурманського місця з монітором батарей і амперметром](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFWtZseRktKBPak6J8gMMuG3aHeNM0b2hFPYG2b4GjSlNMdwtHpjLxqINJL4Qy8EkgBmpLs2RUpDJxW9rUKc6xkT6zj9ANcE2KuHL-ZcfGCjXIo8B2Q2KrBF5iS0Z5oYNXv7rE9qdb4LY5-tO1wupMwbH4bTE-2UWm_FIFci9jdHIHxP-zAStNCp7aRd8/s1600/Untitled.png)
 ![Монітор батарей Junctek на щиті 12 В](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHW1mFNFyN8Wh8oK_3M7hemGPYmzXLNGbwYlj32GgtEWr1mNRQzEOfm5pu9lXLbW4sMNml1g0oUsPwSIA7_Z7rABrbpFInuilPM_uCJoHHfMyHFTjddgwq1r6M2xZUBL7V6OxMgjp_aqO1Wt36dphpoxd-rWpoW-uai4E-iHlDae1zRZuz9gWndIm3OTbA/s1600/IMG_6727.HEIC)
@@ -212,7 +211,7 @@ Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-
 
 ## Панель штурманського столу
 
-Січень 2024-го: панель біля штурманського столу, з рівнемірами баків води і пального і маленьким 2,5-дюймовим термопринтером — раптом захочеться надрукувати «чек». Світло над столом регулюється від «можна оперувати» до «нічого не видно». Рівнемір чорної води стоїть там, де його перевіряють перед використанням.
+У січні 2024-го я зібрав панель біля штурманського столу, з покажчиками рівня води й пального і маленьким 2,5-дюймовим термопринтером, раптом захочеться надрукувати «квиток». Світло над столом регулюється від «досить для хірургії» до «майже нічого не видно». Покажчик фекального бака стоїть у гальюні, де ви глянете на нього перед використанням.
 
 ![Штурманський стіл із панеллю, приладами і світлом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCuMrdGCmBylOo6hksrc5BGH-xseWxP4S-7Rmxdzbaq2bRUvXTNh-gXBveWu6AAGEdJGj6VU69ayperNTj0LaJr9Or1T_J3Dal0Sii4aJvfj9tOlZt5yl0jYDdUtsrZNHK8d9m5gnmj53M_42qhUbNuZUXbbS7BllLusU6n3NqNbSd0VMtJ43axr1fHGNV/s1600/IMG_7135.HEIC)
 ![Світло над столом приглушене](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8vELp-O0QoqjC-Y1dPT9_DrnK4XEwpItkqaxQ3MDdKth0Qq5kNEaB8ZF-XDzv90YCWz1nVOVESnYEjL1skrxBTOmWtV4iefoSYVNrdYGNoNc8yqEe-xmranta8n13cGazF8Ih6LcdnwF3Anyi-33CBxZNgdzOwcoH9nRuwobwkwu1jqmlyQq3cqb9mR-j/s1600/IMG_7140.HEIC)
@@ -220,7 +219,7 @@ Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-
 
 Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-year-8-hours.html)
 
-Я підключив рівнемір чорної води до індикатора в гальюні, із живленням від автомата «WC», тож коли йдеш змивати, видно, скільки ще місця лишилося для «добра». Увімкнув термопринтер; завжди приємно мати на борту щось, що друкує. Потім підготувався до холодів обігрівачем моторного відсіку. А потім — ХОЛОДИ: −5 °C надворі, причали вкриті льодом, а озеро десь +15 °C і парує, як чай у чашці.
+Я під'єднав той покажчик фекального бака до індикатора в гальюні, з живленням від автомата «WC», тож коли збираєшся змивати, бачиш, скільки ще місця лишилося для «добра». Увімкнув термопринтер: завжди приємно мати на борту щось, що вміє друкувати. Потім підготувався до холодів з обігрівачем моторного відсіку. А потім ПРИЙШЛИ ХОЛОДИ: −5 °C надворі, причали вкриті льодом, а озеро десь +15 °C і парує, як чай у чашці.
 
 ![Рівнемір бака чорної води](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Gzh4y40h7S9su9kXCigjdafEXoM0wfKlNe7SfzOhr8ISM6q8GSuFwY8L6xCMQSJqAFqKTSuV1-UwLAIN9mZsznOGIIB0malUN7fAE9LjCew_P9ojn1pkj0UgiwaPBtL9IT3EmukHssitzAC2HCwxrrN_3nvVHqj8k2ZnGGumDdN_FmZIglFr6_BKra2I/s1600/IMG_7281.HEIC)
 ![Термопринтер друкує біля штурманського столу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQl6WQZemVAOY8HdOF7q0KEaaEc2o56reUmHerjFqVVu-0Ux49cfMVzDCQq6nfSD4gJJYk4zrjphv55_FPX6grP-w9mUBoQOWZosS3RgUmhHsST_LqMM77nu8tWdBkcuIiXluwVD4fkMq5RtH7neaeHzTTrR8oJqku2B0GL1Co0Bf7GirZF0UmK6fVElHr/s1600/IMG_7279.HEIC)
@@ -231,34 +230,34 @@ Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-co
 
 ## Нові батарейні кабелі
 
-Усю проводку після щита автоматів я вже замінив на гнучкий лужений дріт за UL 1426, а бік батарей лишав як є. Тепер прийшла його черга. Три дні: один — розібрати стару проводку, другий — подивитися проводку двигуна і почати збирати нову, третій — закінчити, впорядкувати, підписати і затягнути стяжками.
+Усю проводку після панелі автоматів я замінив на гнучкий лужений дріт за UL 1426, а батарейну частину лишив як була. Тепер настала її черга. Пішло три дні: один, щоб розібрати стару проводку, один, щоб розібратися з проводкою двигуна й почати нову, і один, щоб закінчити, прибрати, підписати й стягнути стяжками.
 
 Що мені не подобалося в оригінальній батарейній проводці:
 
-- Старі дроти сильно окислені, з купою обірваних жил.
-- Низькоякісне обтискання, жили стирчать із клем.
+- Старі дроти сильно окиснені, з багатьма обірваними жилками.
+- Неякісне обтискання, жилки стирчать з наконечників.
 - Вимикач батарей за 7 футів від батарей.
 - 15 футів плюсового кабелю від батареї до стартера плюс 4 фути мінусового, усе 2 AWG.
-- 10 AWG на мінусі від батарей до щита постійного струму — явно замало.
-- Ніяк не зарядити обидві батареї від генератора, не з'єднавши їх паралельно, а це має бути крайній захід.
-- Жодної з додаткових функцій, яких я хотів.
+- 10 AWG на мінусі від батарей до панелі постійного струму, справді замалий переріз.
+- Немає способу заряджати обидві батареї від генератора, не з'єднуючи їх паралельно, а це має бути крайній захід.
+- Жодної з додаткових функцій, які я хотів.
 
-Мета: зручно, безпечно, за стандартом, надійно, легко лагодити, якщо щось зламається, і всі бажані «фішки». Звучить просто. Нова проводка:
+Мета: зручно, безпечно, за стандартом, надійно, легко полагодити, якщо щось відмовить, і з усіма бубонцями, які я хочу. Звучить просто. Нова проводка:
 
-- Вимикачі переїхали впритул до батарей. Їх три: стартер, побут і об'єднання (1+2).
-- Кабелі стартера вкорочені до 3 футів плюса і 3 футів мінуса, і потовщені до 0 AWG, щоб за потреби брати все з обох батарей.
-- Автомат 50 А на побутовій лінії одразу після вимикача.
-- Подвійний ізолятор батарей, щоб генератор заряджав обидві.
-- Модуль «ідеального діода», щоб побут живився від берегового блока 14 В, коли той є. Зарядний пристрій плутається, коли на батареї висить навантаження, а він намагається заряджати. Більше ніякої плутанини.
-- Розумний монітор на кожній батареї, два шунти по 400 А з електронікою.
-- Проводка від моєї літієвої батареї 12 В на 350 А·год до інвертора на 3 кВт, із запобіжником і вимикачем. Літій не живить систему 12 В напряму, лише інвертор. DC-DC-зарядка для побутової батареї — пізніше.
-- 4 AWG від батарей до щита постійного струму, досить до 130 А.
+- Вимикачі перенесені просто біля батарей. Три штуки: стартовий, побутовий і з'єднувальний (1+2).
+- Стартерні кабелі скорочено до 3 футів плюса і 3 футів мінуса, з перерізом збільшеним до 0 AWG, щоб стартер міг за потреби брати все з обох батарей.
+- Автомат на 50 А в побутовому колі, одразу після вимикача.
+- Подвійний ізолятор батарей, щоб генератор заряджав обидві батареї.
+- Модуль «ідеального діода», щоб побутова мережа працювала від 14-вольтового блока живлення з берега, коли він є. Зарядний пристрій плутається, коли на батареї є навантаження, а він намагається заряджати. Більше ніякої плутанини. (Спойлер: він знайшов нові способи заплутатися. Див. «Уроки літію» нижче.)
+- Розумний монітор на кожній батареї: два шунти на 400 А з їхньою електронікою.
+- Проводка для моєї літій-іонної батареї на 2 480 Вт·год до інвертора на 3 кВт, із запобіжником і вимикачем. Літій не живить 12-вольтову систему напряму, лише інвертор. DC-DC зарядний до побутової батареї буде згодом.
+- 4 AWG від батарей до панелі постійного струму, витримує до 130 А.
 
 ![Ескіз нової батарейної проводки в блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOsSKB6ksSSybnmScBXpTcPr1elhe2tyKIg9sqp9nFUzUKc6DC9GDJBwjN1KHP9mx30EuTFVgR9JV8figuf3cA8YPqnNkwRNNb2IRKbSTmpI8l8qsYyRH3bGTVZ1OzmV7_HCut-bpfTDiHw-maN07wrCfrjRWh51sHCDI7O0SElyJiDBiC4zQVYs7Xb_By/s1600/IMG_7329.HEIC)
 
 Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-12823-batteries.html)
 
-Ідеї на папері, потім підрахунок кожної довжини і перерізу. Я замовив усі кабелі готовими в Battery Cables USA і отримав за три дні: дуже якісне обтискання і справжній морський батарейний кабель. Купа планування, щоб усе вийшло правильно. Розклав їх, щоб перевірити довжини і розміри клем, потім розклав компоненти. Вимикачі, діоди й автомати — у моторному відсіку, з лівого боку, впритул до батарей за стінкою. У 2D трохи безладно, у 3D краще. Батарейний відсік із моніторами на боковій стінці і вигляд у бік двигуна, де на другий день ще «літають» деякі дроти.
+Спершу ідеї на папері, потім підрахунок кожної довжини й перерізу. Я замовив усі кабелі готовими в Battery Cables USA й отримав їх за три дні, з дуже гарним обтисканням і справжнім морським батарейним кабелем. На те, щоб усе вийшло правильно, пішло багато планування. Я розклав кабелі, щоб перевірити довжини й розміри наконечників, потім розклав компоненти. Вимикачі, діоди й автомати — у моторному відсіку, з лівого боку, просто біля батарей по той бік стінки. У 2D виглядає трохи безладно; у 3D краще. Ось батарейний відсік з моніторами на бічній стінці і вигляд у бік двигуна, де на другий день деякі дроти ще «літають».
 
 ![Список довжин і перерізів кабелів у блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_G52ge7vlv4Gw__aljVbUYJ4Ax20QYzpTAOfBDNpxfVTDD3vuVsEKsnAXMlMHtsJY3Wp1wkcEoxUOKEstY0zXwC8DsqGmgrM2hfeY-AltKTxW5VEcuVTaY62qYo80zOWd6i-Tye52zIWYKp8_dg0yKn8L0eRBkEwi93NeVL63Dyj6aEbrCxMip2NBL5t0/s1600/IMG_7328.HEIC)
 ![Список кабелів і клем у блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhNty1NqcTxB2KoUZwZdmAftdBO7eOj5tW1BpCDfVpid-HZDMyWDWH3zLkZDzA8xU9e2PElFeP9byFdUWWMUuX7BpPcM8cdPlzp7ENT4rn4UYKtbVZZRfaZJbk7qXLbRDcLNr2dbJudmNao8tSYSiP_j5fudUpH6NcJeDTTeZV_03IKmFlxS47nr6Z2rrk/s1600/IMG_7327.HEIC)
@@ -271,18 +270,18 @@ Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-
 
 Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-12823-batteries.html)
 
-## Прокачка інвертора
+## Передзаряд інвертора
 
-Коли інвертор на 3 кВт і літієва батарея запрацювали, я захотів вимикач для цієї «солодкої парочки». Але першого ж разу, коли я підключив батарею до інвертора, BMS її вимкнув: величезний кидок струму на заряд вхідних конденсаторів інвертора. Тож конденсатори треба спершу зарядити. Я додав кнопку і резистор 100 Ом паралельно головному вимикачу, плюс світлодіод, що показує напругу на резисторі. Тепер я «прокачую» інвертор: натискаю кнопку, чекаю, поки світлодіод згасне, і вмикаю. Нова панель вимикачів, примірена.
+Коли інвертор на 3 кВт і літієва батарея запрацювали, я захотів вимикач для цієї «солодкої парочки». Але коли я вперше під'єднав батарею до інвертора, BMS її вимкнула: величезний кидок струму на заряд вхідних конденсаторів інвертора. Тож конденсатори треба спершу зарядити. Я додав кнопку і резистор на 100 Ом паралельно головному вимикачу, зі світлодіодом, що показує напругу на резисторі. Тепер я «попередньо заряджаю» інвертор: натискаю кнопку й чекаю, поки світлодіод згасне, потім вмикаю. Ось нова панель вимикача живлення на примірці.
 
-Ще я знайшов, що щось тисне на задню стінку великого екрана в кокпіті і напружує матрицю. Це була коробочка USB-подовжувача, затиснута між фанерою і дисплеєм. Я вирізав отвір, щоб зняти напругу. Це було як розміновування: різати фанеру і не зачепити адаптер. Трохи подряпав, але працює. Гарна кришка — наступного разу.
+Ще я знайшов, що щось тисне на задню стінку великого екрана в кокпіті й навантажує РК-матрицю. Це була коробка USB-подовжувача, затиснута між фанерою і дисплеєм. Я вирізав отвір, щоб зняти напругу. Це було як копати довкола міни: прорізати фанеру й не зачепити адаптер. Трохи подряпав, але він досі працює. Гарна кришка — наступного разу.
 
 ![Вимикач батарей на переборці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgR2tcPevkb-iv67dkIypsL9qdz0DqBDeN8RWjFVBWUfEGv2vSiRyI_W7DldhdtKoEyAgkysxLKOu5jJLCPH4xuWYvw-NgiLsbr2F8NS493-56Gm8vWJG2HM4P76Bwpl5ySt4ZCInysxhdJNdBNylrcnPxsB3br6m5UKv7fvZ1bfLxBvGJokgCrhRvCw65/s1600/IMG_7406.HEIC)
 ![Отвір за дисплеєм у кокпіті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfRg8oRm7Uq1rTgoR4ELf31M0iMZrCdxqJu3gAu-RoeqEzv_cRjQmrrQoRMdP-c203MiSZFZVGMtU1MLyZZy1SEc9GeupwaZtK-yUxuDuEklhAn9WkPFHBKGGxk1bZAnYv0ANgEVVGAFQwZx1RlQdtQRKOjA0NyDubwp_N0I5YiAaMkzOb3vlbKbpzCzkq/s1600/IMG_7404.HEIC)
 
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
-Усі антенні кабелі з'єднані роз'ємами типу N. Можна закривати стелю. Тест ручною УКХ-рацією: сигнал набагато кращий від антени на топі. На жаль, служби перевірки зв'язку в Остіні немає, принаймні я не знайшов. І батарея-«бустер», ще 67 А·год, поруч із моєю інверторною на 268 А·год. Тонкий дріт живить розумний монітор. Ще треба придумати, як закріпити батареї в рундуку.
+Усі антенні кабелі тепер з'єднані роз'ємами N-типу, і можна закривати стелю. Перевірка ручною УКХ-радіостанцією: сигнал з антени на топі щогли значно кращий. На жаль, в Остіні немає служби радіоперевірки; принаймні я не знайшов. А «підсилювальна» батарея, ще 1 200 Вт·год, стала поруч з моєю літій-іонною інверторною батареєю на 2 480 Вт·год. Тонкий дріт живить розумний монітор. Ще треба придумати, як закріпити батареї в шафці.
 
 ![Антенні кабелі вздовж стелі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdWs-6bccy6mMYpbo-g3PX77jQZ_C4417l5t2Cd5fdcweAlg1p2alUV2meTObiIcd5pIzd5v3nSIOdgcIcWxaJ6mhLx9dKtBZSMTIBUUU4cE57uZTgT9n5v-C3Jipl47fyDh44C7RuPa7t7oqdkapdIZBo211iOXOltjStbdEP1Ix59Zkrlg_9VYCyHApW/s1600/IMG_7631.HEIC)
 ![Ручна УКХ-рація перевіряє антену на топі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcQZqNKFP4TUkHUEvNM1Z8VSZKk53uWCus2CtLXUOuYqEvc-qGDn2p0kPreMVfVUBIbX0c8MnGtBfQOjKqOlvPowCEtzIT5fevJDI61UHKupUJZAt176EZs6Ww0kgmDa6BjJ03M2Y3rZ6gqsyNeCYlLUYHS8r4fyAD62IdJkahSXOIds2bLE3shBxS4mbz/s1600/IMG_7632.HEIC)
@@ -292,9 +291,9 @@ Diary: [25 Feb 2024](https://irwin34.blogspot.com/2024/02/day-132-225-getting-it
 
 ## Кабелі щогли
 
-У лютому 2024-го я загерметизував останню ділянку проводки: де кабелі щогли проходять крізь палубу. Поки що три кабелі: ходові і палубні вогні, антена УКХ, вітромір. Спершу подивимося, що виходить зі щогли. Звичайний 40-річний човен: по три з'єднання на кожен дріт, сховані всередині щогли, замотані шарами ізострічки, деякі обтиснуті, деякі скручені.
+У лютому 2024-го я загерметизував останній шматок проводки: місце, де кабелі щогли проходять крізь палубу. Поки що там три кабелі: ходові й палубні вогні, антена УКХ і вітровий прилад. Спершу подивімося, що вийшло зі щогли. Просто 40-річний човен: по три з'єднання на кожному дроті, сховані всередині щогли, обмотані шарами ізострічки, одні обтиснуті, інші скручені.
 
-Я обрав коробку-ущільнювач на один отвір для 3+ кабелів, щоб згодом додати ще, у варіанті з нержавійки з порошковим покриттям. Зроблена добре, але я люблю трохи піднімати палубні проходи, щоб вода обтікала ущільнення. Тож монтажна пластина з G10 6 мм, заламінована на палубу, яка ще й дає гарну рівну поверхню під ущільнювач. 20 хвилин у CAD і 15 хвилин на ЧПУ. Пластина приклеєна на загущену епоксидку з галтелями навколо.
+Я вибрав єдину кабельну герметичну коробку на 3+ кабелі, щоб згодом додати ще, у версії з нержавійки з порошковим фарбуванням. Вона добре продумана, але я люблю трохи піднімати палубні прохідники, щоб вода обтікала ущільнення. Тож до палуби заламінована 6-міліметрова монтажна пластина з G10, яка ще й дає гарну рівну поверхню під сальник. 20 хвилин у CAD і 15 хвилин на ЧПК. Пластина посаджена на загущену епоксидку з галтелями довкола.
 
 ![Дроти щогли виходять крізь палубу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxO8H2tjRsB5qAucfOItSaVQ8O25NBp6Fd87_BmGKI8-NARB08xvbWwATSr-6p-HabgE-ryTf0Md-fyKrVvMFCdVdbp61zotsZLwO-menPrSj86KDV7Gon5V7wt8f3k2yuuVK2jQzlpor9605nfoKZmFAOvovOjoVggp1jP8KgSZmfekY0_f-OOveyXry9/s1600/IMG_7545.HEIC)
 ![Кабельний ввід Seaview](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinoXGSbsNmxPVUTaRa8jbn97Y3-f4la13LGMJsZEgQbEchUkd5pVW_PR82tTuW1D88vIwblNuOY1wP_LzpJt5nue9BE3d-VPYqySKpVKZy57ZdlmhxbRyuj_FquMO_FIqIF6X4_WIk6g-Macdgj6jORO-fZfZKqDA4cA-cYVy36f8pgm0RsmrvWy6Y_C9b/s1600/104.jpg)
@@ -303,11 +302,11 @@ Diary: [25 Feb 2024](https://irwin34.blogspot.com/2024/02/day-132-225-getting-it
 
 Diary: [18 Feb 2024](https://irwin34.blogspot.com/2024/02/day-130-218-mast-cables-cable-gland.html)
 
-Кабелі отримали обплетення з поліестерової мотузки — від ультрафіолету, та й виглядає весело. Видно підняту пластину, з пів дюйма з кожного боку, щоб вода обходила. Латання і фарбування — пізніше.
+Кабелі отримали поліестерові плетені чохли, для захисту від ультрафіолету, і виглядають кумедно. Видно піднесену пластину, з приблизно пів дюйма з кожного боку, щоб вода обходила. Латання й фарбування — згодом.
 
-До речі, п'ятка щогли виглядає тріснутою, але коли я свердлив палубу під дроти, стружка заповнювача була зовсім суха, тож тріщини, мабуть, лише в гелькоуті. Полагоджу, коли знімемо щоглу. Не зараз.
+До речі, основа щогли виглядає тріснутою, але коли я свердлив палубу під дроти, стружка заповнювача була зовсім сухою, тож тріщини, мабуть, лише в гелькоуті. Полагоджу, коли щоглу знімуть. Не зараз.
 
-Під палубою я теж упорядкував проводку. Дроти опускаються до нижньої точки, перш ніж з'єднатися, — пастка для води на випадок протікання. І тест водою: дамба з малярного скотчу на 2 дюйми навколо ущільнювача, заповнена водою, на 30 хвилин. Усередину не капнуло, принаймні поки що.
+Під палубою я теж упорядкував проводку. Дроти опускаються до нижньої точки перед з'єднанням, як водяна пастка на випадок протікання. Потім перевірка водою: 2-дюймова дамба з малярного скотчу довкола ущільнення, заповнена водою й залишена на 30 хвилин. Усередину не крапнуло, принаймні поки що.
 
 ![Кабельний ввід біля щогли встановлений](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtkVh0roe0S3aRVSTfIu-_ZQo-J7OQzpBHsFMYUmd5o8mdiyhDI7iOvEB15bssROV-1sIkz9qd7b_224LfUk6MKdR0QCFOWHt9ezxKjWhW0QD5XXQjGP6MCP-g54RdAhLYVj_kv3SGc4g19Q_Wx2QCZRF9TB_V07Kyx27nEVtlO88z0EuvoUO32X-QomK/s1600/IMG_7550.HEIC)
 ![Кабелі щогли в поліестеровому обплетенні у вводі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRvnR2PzmJD2pKdwTixr2u5IrVcCOF1RGIxy-yx0VP3DgFxtseeW2gBCU53mzW_E6e2TC3KUvhvZOQSPXlb5B0w7SsmjmU_dfzHXZ9tv9jLCotq6I1WnSD3Gd6SncgvoWScBwoPUt16Ic_MXSQs0q_-4NOZoua9-_wM3wpprAAwk1RjOspqD3eY0gxw9z/s1600/IMG_7549.HEIC)
@@ -315,64 +314,68 @@ Diary: [18 Feb 2024](https://irwin34.blogspot.com/2024/02/day-130-218-mast-cable
 
 Diary: [18 Feb 2024](https://irwin34.blogspot.com/2024/02/day-130-218-mast-cables-cable-gland.html)
 
-Я протягнув кабель вітроміра до OpenPlotter, тож тепер на панелі є і прилад, і зображення з камери. І пластина-заглушка на отвір, який я вирізав, щоб зняти тиск із дисплея в кокпіті. Може, згодом зроблю одну суцільну.
+Я провів кабель вітрового приладу до OpenPlotter, тож тепер на панелі в мене і прилад, і зображення з камери. А отвір, який я вирізав, щоб зняти тиск з РК-екрана в кокпіті, закрила пластина-заглушка. Може, згодом це буде одна суцільна пластина.
 
 ![Штурманське місце з картою на великому екрані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihZbU2bcQKnrNkix1of9czHkAsWVXAfgxMyIulgFUjcFMWoGeOiUNOjtGG2Hrwd7t3_JlbFZEAMGxBq_-q5gFfzj4-gDOQ-6mNBjzwNOGStQRB7V5sjDIyw2epWk73YsQJN5VMNgwxJ5PdGuSe2yAFzr3PltVF9r6QP-voP1jDUtmdP97fZOMhCpFRirMS/s1600/IMG_7547.HEIC)
 ![Пластина-заглушка на отворі біля екрана в кокпіті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSei9IRMrBNh1aIBzmu_0laF5zBQknf6oA__ixfKkYIbvroMem8DEYyf3DS6othfEATnrH8ePrZJAht0yJQvmJgdZ5leJjdA1Pgj4189QDp_yG-eVKwH_i6w6z9TsfLXifemoey_LRJbeoupfZuCDC-w3R9DARQBharKpoy1kBL4gMQxRpRlyS9kQaFjlS/s1600/IMG_7481.HEIC)
 
 Diary: [18 Feb 2024](https://irwin34.blogspot.com/2024/02/day-130-218-mast-cables-cable-gland.html)
 
-У лютому 2026-го, на верфі, щогла отримала всі нові кабелі, разом вісім:
+У лютому 2026-го, на верфі, щогла отримала всі нові кабелі, вісім загалом:
 
-- Топ: антена УКХ/AIS, трикольоровий/якірний вогонь (16 AWG), датчик вітру і камера (20 AWG).
-- Рівень радара: кабель радара B&G, запасний Ethernet Cat5 для 4G/Wi-Fi роутера і 4-жильний кабель живлення 18 AWG на майбутнє.
-- Топовий ходовий вогонь: 2-жильний 16 AWG.
-- Краспиці: палубні прожектори, 4-жильний 16 AWG.
+- Топ щогли: антена УКХ/AIS, триколірний/якірний вогонь (16 AWG), вітровий датчик і камера (20 AWG).
+- Рівень радара: кабель радара B&G, запасний Ethernet Cat5 для 4G/Wi-Fi-роутера і 4-жильний кабель живлення 18 AWG на майбутнє.
+- Ходовий вогонь: 2-жильний 16 AWG.
+- Краспиці: палубні вогні, 4-жильний 16 AWG.
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)
 
-Під'єднати їх під палубою: легко сказати, а гратися дві години. Ще треба було протягнути три дроти до штурманського столу: радар, живлення камери Ring і запасний Ethernet із середини щогли.
+З'єднати їх під палубою: легко сказати, але дві години возні. Ще треба було протягнути три дроти до штурманського столу: радар, живлення камери Ring і запасний Ethernet із середини щогли.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
 ## Уроки літію
 
-Березень 2026-го: нова побутова батарея LiFePO4 на 100 А·год уже кілька тижнів стояла без нормального запобіжника. На батарейний кабель став запобіжник класу T. Захисні ковпачки на автомати головного щита. І зарядний Victron на 25 А для інверторної батареї, змонтований за щитом. Ще лишилося: живлення 110 В до нього і реле, що блокує заряд, коли система 110 В живиться від інвертора.
+У 2025-му літій-іонну інверторну батарею (2 480 Вт·год плюс «підсилювальна» на 1 200 Вт·год) замінила одна батарея LiFePO4 на 315 А·год.
+
+Березень 2026-го: нова побутова батарея LiFePO4 на 100 А·год уже кілька тижнів стояла без нормального запобіжника. На батарейний кабель став запобіжник класу T. На головну панель — захисні рамки автоматів. А за панеллю під'єднано зарядний Victron на 25 А для інверторної батареї. Ще треба: його живлення 110 В і реле, що блокуватиме заряд, коли система 110 В працює від інвертора.
 
 ![Зарядний Victron на 25 А за щитом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqwQ5ZT3V_QSB8Cp8l6lADtiCRCWkUcZZTquOkeKAHhRGvfNHLlOgoCdSzypw-HJh_1Gk7EZnKlNs7URWZ55WH3jenqcm2PI5_UXtVJcXBsIDUw8PTGNXsSDXat-jtfUP9Xgmo6hyphenhyphentwwHCI8ZPKYc7Xw1wys-9HmEkPa0P1OiG5BkM9wv3EacyiKpi0Amc/s1600/IMG_0983.HEIC)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
-У квітні 2026-го від'єднав побутову батарею від генератора: заряджати LiFePO4 від генератора двигуна, не стежачи за його температурою, було не найрозумнішою ідеєю.
+У квітні 2026-го я від'єднав побутову батарею від генератора: заряджати LiFePO4 від генератора двигуна, не стежачи за його температурою, — не найрозумніша ідея.
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
-У квітні я додав димер для світлодіодів індикації на головному щиті.
+Ще в квітні я додав регулятор яскравості для індикаторних світлодіодів на головній панелі.
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-У мене є триканальний зарядний NOCO GEN5X3 для стартерної, побутової і брашпильної батарей. Із кислотними він добре працював років п'ять. Потім побутова стала LiFePO4, і я перемкнув цей канал у літієвий режим. Спершу все виглядало добре. Ще в мене був блок живлення 40 А, 14,2 В, що живив систему 12 В від берега, і з'єднаний він був із батареєю через 100-амперний модуль ідеального діода.
+У мене є трибанковий зарядний NOCO GEN5X3 для стартової, побутової й брашпильної батарей. Він добре працював близько чотирьох років зі свинцево-кислотними. Потім побутова батарея стала LiFePO4, і я перемкнув цей банк у літієвий режим. Спершу все виглядало добре. Ще в мене був блок живлення на 40 А, 14,2 В, що живив 12-вольтову систему від берега, поєднаний з батареєю через модуль ідеального діода на 100 А.
 
-Однієї ночі, ночуючи на борту, я помітив, що світло час від часу блимає, а навігаційний комп'ютер перезавантажується кожні 10–15 секунд. Загадка. Перевірив великі навантаження, погані контакти, погану проводку. Потім побачив, що NOCO показує «Overvoltage» на літієвій батареї. Несподівано. BMS нічого підозрілого не показував: батарея просто була на 100%.
+Однієї ночі, коли я ночував на борту, я побачив, що світло час від часу блимає, а навігаційний комп'ютер перезавантажується кожні 10–15 секунд. Загадка. Я перевірив великі навантаження, слабкі контакти, погану проводку. Потім побачив, що NOCO показує «Overvoltage» на літієвій батареї. Несподівано. BMS не показувала нічого підозрілого: батарея просто була на 100%.
 
-Потім з'ясувалося, що BMS трохи заморозумний. На 100% він просто розриває лінію заряду. Жодної помилки, просто режим «лише розряд». Після відпочинку напруга батареї просіла до приблизно 13,9–14,0 В. Зарядний пристрій це побачив і вирішив знову заряджати. Але BMS заряд заблокував, тож струму не було куди йти, і він дав короткий стрибок десь до 16,5 В. Батарея його не поглинула, тож він пішов на модуль ідеального діода. Модуль побачив, що з боку батареї раптом вища напруга, і перемкнув джерела, а оскільки імпульс був такий короткий, він збив усю схему розподілу і дав стрибок, а за ним провал на шині 12 В. Захисна розетка мого комп'ютера побачила погану напругу і вимкнула комп'ютер. Через кілька секунд усе відновлювалося — і все повторювалося знову.
+Потім я з'ясував, що BMS трохи розумніша, ніж треба. На 100% вона просто розриває шлях заряду. Ніякої помилки, лише режим «тільки розряд». Після відпочинку напруга батареї падала назад до 13,9–14,0 В. Зарядний це бачив і вирішував заряджати знову. Але BMS заряд заблокувала, тож струмові не було куди йти, і він давав короткий сплеск близько 16,5 В. Батарея не могла його поглинути, тож він ішов на модуль ідеального діода. Модуль бачив, що з боку батареї раптом вища напруга, і перемикав джерела, а оскільки імпульс був дуже короткий, це збивало з пантелику всю схему розподілу і давало сплеск, а потім провал на шині 12 В. Захисна розетка мого комп'ютера бачила погану напругу й вимикала комп'ютер. За кілька секунд усе відновлювалося, а потім повторювалося знову. Три розумні пристрої, а разом влаштували одну дурну вечірку.
 
-Саме це підштовхнуло мене спроєктувати власний перемикач живлення на кшталт ДБЖ. Він в історії про маленьку електроніку.
+Саме це підштовхнуло мене спроєктувати власний перемикач живлення на кшталт ДБЖ. Він в історії «Дрібна електроніка».
 
 Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-kemahtx-to.html)
 
 ## Справжній ELCI
 
-У травні 2026-го берегове ПЗВ почало вибивати щоразу, коли вмикався компресор холодильника. Я раніше перевіряв виводи компресора на корпус і не намірював нічого меншого за кілька мегаом, тож був певен, що там усе гаразд. Може, ПЗВ відсиріло чи стало надто чутливим від вологості. Коли воно вибило знову, я вирішив, що настав час для справжнього морського ELCI — пристрою захисту від струмів витоку.
+У травні 2026-го ПЗВ берегового живлення почав вибивати щоразу, коли запускався компресор холодильника. Я раніше перевіряв виводи компресора на корпус і не намірював нічого меншого за кілька мегом, тож був певен, що компресор у порядку. Може, ПЗВ відсирів або став надто чутливим у вологості. Коли він вибив знову, я вирішив, що час для справжнього пристрою захисного вимкнення від струму витоку (ELCI), зробленого для човнів.
 
-Сказати, що ELCI дорогі, — нічого не сказати. Дешевше $250 майже не знайдеш, навіть зі знижкою. Але мені дуже не подобається ідея 110 В на човні без захисту від витоку, тож я зціпив зуби: ELCI на 30 А і коробка IP67, замість промислового ПЗВ на DIN-рейку.
+Сказати, що ELCI дорогі, — нічого не сказати. Навіть зі знижкою важко знайти щось дешевше за $250. Але мені страшенно не подобається ідея 110 В на човні без захисту від витоку, тож я зціпив зуби: ELCI на 30 А і коробка IP67, щоб замінити промисловий ПЗВ на DIN-рейці.
 
-Приїхав, гарний і блискучий. Годину я ставив на дроти правильні клеми і думав, як усе розвести. А потім, на останньому гвинті, почув «крак», і клема відвалилася. Усередині вона не була як слід закріплена. Тож без ПЗВ і без ELCI до наступного разу.
+Він прибув, гарний і блискучий. Я годину ставив нормальні наконечники на дроти й думав, як їх прокласти. А потім, на останньому гвинті, почув «хрусь», і клема розхиталася. Усередині її не закріпили як слід. Отже: ні ПЗВ, ні ELCI до наступного разу.
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
 
-Дякую Walmart за повернення грошей за зламаний — я замовив новий, Blue Sea A-Series, 30 А, двополюсний. Тепер на березі стоїть нормальний ELCI. Я знайшов коробку IP68 якомога меншу, і, як завжди, вона «трохи замала», але наступний розмір уже величезний. Панельний ELCI в коробці без передньої панелі — це непросто: він глибокий і в основу не влазить, тож панель має виступати приблизно на 1/4 дюйма. Я спроєктував виступаючу панель з різьбовими втулками в коробці і окремим місцем під клемник заземлення за маленькою перегородкою. Встановлено за 10 дюймів від берегового роз'єму, у правому рундуку кокпіту, легко дістати. І справжня етикетка.
+Walmart повернув гроші за зламаний, і я замовив новий, Blue Sea A-Series на 30 А, двополюсний. Тепер на береговому живленні стоїть справжній ELCI. Я знайшов коробку IP68, наскільки можна малу, і як завжди вона «трохи замала», але наступний розмір уже справді великий. ELCI для панельного монтажу в коробці без передньої панелі — не проста справа: він глибокий і не влазить в основу, тож панель мусить виступати приблизно на 1/4 дюйма. Я спроєктував панель, що виступає, з різьбовими вставками в коробці, і окреме місце для клемної колодки заземлення за маленькою стінкою. Він стоїть за 10 дюймів від вводу берегового живлення, у правій шафці кокпіту, до нього легко дістатися. А ось і справжня етикетка.
+
+Від голої міді, скрученої під ізострічкою, до ELCI, розумного перемикача живлення і кожного дроту, підписаного з обох кінців: електрика — це та частина «Віри», що змінилася найбільше, хоч більшість цього й не видно.
 
 ![Стара коробка берегового живлення з проводкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiISXDV5noWA_D_cQuMnGaZmF_FZmiDfoxGCDvh36uN0TzYdekU4k9Fbk9U_d1TBYSp3dMot_DrCfat8Wqngqb5YbghXN8LvF7ux6LgqfxGDX7hirmnDSj6wKqsI3lkMYXGn2Ku4DJZ6bmv5-Ts67ScCszXYFNkeJAHsHMc5Wl9WsP_wDEVdsVpaTOcHtPW/s1600/IMG_1448.HEIC)
 ![3D-модель виступаючої панелі ELCI і коробки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZetSPRaUkl3G-fNEf9-sITJfnefSGz3G8cb1i0KIQVh1ISlhQqoIwgq-R6wCXUr-ZtQjYWzFZJbvug8gLx1uiNXEcE8DuAWssK1GioR206eTKCPhXDxg1Rxu-sJm4KmrulbtS6owgakLYEM4TDboM1FEbzu3SrODk7XDpNvGhWzCKHLHpwq96K757dC1A/s1600/Untitled.png)

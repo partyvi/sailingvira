@@ -6,16 +6,15 @@ order: 2
 description: "Нові путенси, обрив штага і перехід на дайніму."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43nNRCZAJBt66v8KFjRednbxmciumiEzd4Te1bNxE1S07YFXKssjf3qcYTTH4qb6j6jJrufYL0IsFfuYIio70MjmLCS6C4mJ2Db_vNqvHKLW2V2Oul0oHPDv6V9bg37Mkjs6lRRAUain4E4mwX4_NRY0jXl8r2wM68RFMDBXjpqaw57N7FRYM5t0AFg/s1600/IMG_5358.HEIC"
 ---
+Щогла стоїть на тросах, а троси стоять на путенсах. Якщо будь-яка ланка в цьому ланцюгу здасться, щогла падає, і зазвичай з драмою. На «Вірі» роботи потребувала майже кожна ланка. Почав я з гнилих кріплень путенсів у найпершу зиму, а закінчив новенькими вантами у 2026-му.
 
-Щогла стоїть на тросах, а троси стоять на путенсах. На «Вірі» роботи вимагала майже кожна ланка цього ланцюга. Я почав із гнилих кріплень путенсів у першу ж зиму, а закінчив новенькими вантами у 2026-му.
+## Знімаємо навантаження
 
-## Знімаю навантаження
+Січень 2022-го. Спершу я зняв вітрила, щоб якомога більше розвантажити щоглу, а заодно почистити й полагодити їх. Складати вітрила самому трохи складно, але ця палуба доволі зручна для роботи малим екіпажем.
 
-Січень 2022-го. Спершу я спустив вітрила, щоб зняти зі щогли якомога більше навантаження, а заодно почистити і полагодити їх. Складати вітрила самому трохи незручно, але палуба тут досить зручна для роботи в малому екіпажі.
+Щоб дістатися до путенса лівої нижньої ванти, його треба було звільнити, поки щогла стоїть. Просто так вийняти палець ванти зі стоячої щогли не можна. Тож я зробив кронштейн і перекинув натяг на планшир. Не елегантно, але без великих навантажень має витримати.
 
-Щоб дістатися до путенса лівої нижньої ванти, мені треба було його звільнити, поки щогла ще стоїть. Просто висмикнути палець ванти зі стоячої щогли не можна. Тож я зробив кронштейн і перекинув натяг на тиковий планширь. Не елегантно, але без великих навантажень має триматися.
-
-І гляньте на цей шплінт. Я був вражений. Тримався, мабуть, на силі волі.
+І гляньте на цей шплінт. Я був вражений, і не в доброму сенсі.
 
 ![Вітрила опущені на палубу, щоб зняти навантаження зі щогли](https://blogger.googleusercontent.com/img/a/AVvXsEgj58kSeqqVGCRJ8TAdP7_rjB81VqtoJi3_BP80P7FUl-TZMDnm3rpD61HLU6iNAytC8LYbTwRYSCjls1VN7_Mhou47nvG6dtc55QOtJIrBmLtX_Q3V2sVEu4r8pqUt-YoHdVDVJUMMJ_iR84vv8fVTTJxWIaCViA9XVfDH6G9Z-nSA0cfKaWbjJNWnlA=s1600)
 ![Генуя опущена на носову палубу](https://blogger.googleusercontent.com/img/a/AVvXsEgKNZRzfYr2-VGyUhU5Aifxdze2HEC-pao5TxnMVq-xsDfbJWkn9Fs-29bn4ETpJcSkW4dzmEIffRNitIR53vpQtym6xb620Et0EJnvJg6OcdwjAii75FsppicbJiy4jBQK1Fk85w5MM170Hv40PJRPt6XZ-ibUBBpEbNe4i7VCDtPWDRiZDa91SB--EQ=s1600)
@@ -31,9 +30,9 @@ Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-st
 
 ## Ласкаво просимо в пекло
 
-Кріплення путенса сидить усередині формованої шафки в гальюні. Ласкаво просимо в пекло. Хто це зробив і навіщо — уявлення не маю, але так не можна. Два верхні болти сиділи в повністю гнилій фанері.
+Кріплення путенса сидить усередині формованої шафки в гальюні. Ласкаво просимо в пекло. Хто так придумав і навіщо, не маю уявлення, але так не можна. Два верхні болти сиділи в геть гнилій фанері.
 
-Три години човнової йоги в туалеті, щоб витягти ту гнилу дошку. З тими інструментами, що були під рукою, я навіть не зміг закінчити всю підготовчу шліфовку.
+Три години човнової йоги в туалеті пішло на те, щоб вийняти ту гнилу дошку. З інструментом, який був під рукою, я навіть не зміг закінчити підготовче шліфування.
 
 ![Гальюн із знятою шафкою для доступу](https://blogger.googleusercontent.com/img/a/AVvXsEi_BxAVQmr4hi_bPFHzCTkBxArD7UAS3fyjABN9KgDcKATLMSJNnKgB5UYPas1Xn9iVnYHS6qdm9s1nIA0d-lZ4iByb_Gclc6QENCh-xG0KbCoVmt0IZEjTk5NzI79RCeO-pNhDthhAFfjA1eJQ2Wp2YOYTQTRzbuOUWVwh4Ts-gDg3KmOXqFH5GBF0VQ=s1600)
 ![Гниле кріплення путенса в гальюні](https://blogger.googleusercontent.com/img/a/AVvXsEhfJk0Xwonko4C11uNtXanRWcxahVMjAz0BQBZDS1wvswyRwg82M80N3UYUpBfKirkt0z4Hk0RDqWXhyLVB7-cY72Rz5wme40M8drlACQvo8y8phN6iAfSiCMZobW_eXbgQVLUrUmvGHV8pr8wOvF7iqjxTwp33DZAGRDACeudx_M4TTh1XpoZNQPQ9bQ=s1600)
@@ -48,13 +47,13 @@ Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-st
 
 Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-stay-chainplate.html)
 
-Через тиждень я збудував нове кріплення. Залишив оригінальні боки формування і зробив на них скіс 12:1, три дюйми на чверть дюйма. Вичистив стамескою внутрішню частину до чистого скла і навмисно лишив скляну «вату» для кращого зчеплення. Може, й неправильно, але більше поверхні не завадить.
+Через тиждень я збудував нове кріплення. Оригінальну приформовку з боків залишив і зняв на ус 12:1, три дюйми на кожну чверть дюйма товщини. Внутрішню частину зрубав стамескою до чистого склопластику, а скляну «вату» залишив навмисно, для кращого зчеплення. Може, це й неправильно, але більша поверхня не завадить.
 
-Потім склеїв три шари бакелітової фанери по 12 мм, разом 1,5 дюйма, обгорнув просоченим епоксидкою матом і вклеїв на оригінальне місце. Далі по чотири шари 1708 з кожного боку, щоб вийшло як оригінальне формування, і ще два з правого боку через кілька годин. Було холодно, тож я лишив обігрівач, щоб тримати 20 °C, бо повільний затверджувач хоче понад 16.
+Потім я склеїв три шари 12-міліметрової бакелітової фанери, разом 1,5 дюйма, обгорнув їх просоченим епоксидкою матом і вклеїв на оригінальне місце. Далі пішли чотири шари 1708 з кожного боку, як в оригінальній приформовці, і ще два праворуч через кілька годин. Було холодно, тож я залишив обігрівач, щоб тримати 20 °C, бо повільному затверджувачу треба понад 16.
 
-Наступного дня знову зашліфував і додав ще по три шари 1708 з кожного боку, приформувавши до корпусу цільними шматками. І заміряв путенси, щоб зробити новий комплект.
+Наступного дня я знову все прошліфував і додав ще по три шари 1708 з кожного боку, приформовуючи до корпусу цільними шматками. А ще поміряв путенси, щоб зробити новий комплект.
 
-І бонус — моє робоче місце для склопластику.
+І бонус: моє робоче місце для склопластику.
 
 ![Зона кници зашліфована довкола старого формування](https://blogger.googleusercontent.com/img/a/AVvXsEgyQE6WHgpih5psZZ8Fnkz6M-gG4sGXBMjYxYQrspmKC1xSOGBb6xSEA7XQispVfcqYDnQ1prWFkRsaPET0EFqg4WRdjO7GcJT9es6sLG4S54Hr6GDfN0gELEqAGrmrjp2XjBAqBg7Dp3b48c3gPbA3GeuhcXo3QdXRz84Hg0RO8aWkyKfPN2Zi6hoECg=s1600)
 ![Старе скло кници почищене стамескою](https://blogger.googleusercontent.com/img/a/AVvXsEjCn8LaL2egjEeW-LVQvNWQd3_1ujHEx52CxJgRQayBOYsj9iSyX_DCRyHPfrrmOJjJsG100-fuceahUqVXMCWg8HJOz0PiyYWxYQCBie_xd_ktZIVvkFfZA4W2k1ayLpJvJjoxN-kRAGxObHfMBQvBSIcaSCLktMZYw_yrzUZi4OeNh_PlOmfYD54cVA=s1600)
@@ -69,7 +68,7 @@ Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-st
 
 Diary: [30 Jan 2022](https://irwin34.blogspot.com/2022/01/day-12-130-chainplate-mount-part2-3.html)
 
-А, і тепер у мене аптечка висить на дошці.
+Ага, і тепер у мене є аптечка на дошці. З таким інструментом давно пора було.
 
 ![Аптечка і зона шафки гальюна](https://blogger.googleusercontent.com/img/a/AVvXsEh0uWJ0IzYbQKDxf-VUBVmp7Pa-6nAYjcQLVSjuvRR6vdttCSg3OkiJDloAWOaRyObcNy3nulbN-3xj48m2vK8iVMMDidA4LFR9tEFDW2Ct1b_3PbE90rtvaqVkzapT2fivoPuvBqOJDApeb40Dz6ngRsXFr0loxTySU6OxJOg_ahpsCQJB7FODAn2yIQ=s1600)
 
@@ -77,14 +76,14 @@ Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-st
 
 ## Нові путенси
 
-Лютий: приїхали нові путенси. Спробував відполірувати. Не ідеально, але виглядають добре.
+У лютому приїхали нові путенси. Я спробував їх відполірувати. Не ідеально, але виглядають добре.
 
 ![Нові нержавійні путенси на дошці](https://blogger.googleusercontent.com/img/a/AVvXsEiARe5Hr0tcxUscnV1NQLRpBehIbKYQTzTJxejiKwJjsUpPp1mZrvTU90daTfLwWfMLAtnwJuW-feJQ9wopU0tsVfko0h85CNSFlxZH-poBcY-DbRhWpQ5BpYN6QooQo0cnSDVHX7Uwb9_8c6PU_uhJaaYO5Z-PK_m19qm8DPCC-BhBceL35cZ__hE6OQ=s1600)
 ![Новий путенс і старий на палубі](https://blogger.googleusercontent.com/img/a/AVvXsEiao_s8YMgPkQSENrzJo2KhihCu5RjHaDkj-gAATvbhspOv4LWIe0uDh09TArZM4N6f0n_NaG_qTj0HUXnlBh4_D7xQ8Fz-yvjHnMeD1ZKd1qITHnjYFwD2sTQB4ajvfjpyke5ByPy7ap1CYRFJsmdRNPQ4oTK99CwJO-3X2Yc_SPGT29bEcnC9-kDe6Q=s1600)
 
 Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-saturated-deck.html)
 
-Примірка з лівого боку. Просвердлив отвори, розсвердлив більшими і заповнив загущеною епоксидкою. З правого боку кріплення отримало три шари 1708 зовні, три всередині і шар ровінгу.
+Далі — примірка з лівого боку. Я просвердлив отвори, розсвердлив їх більшими й заповнив загущеною епоксидкою, щоб болти ніколи не торкалися голої фанери. З правого боку кріплення отримало три шари 1708 зовні, три всередині та один шар ровінгу.
 
 ![Примірка нового путенса на кници](https://blogger.googleusercontent.com/img/a/AVvXsEiTrSIQQhasWNHM-BNpmqKPD-5NOhJdUhCQmf5ExXydJXBXbTGtdKi1ZdyYv2vky4dZKYVcDkE-l20Bd-J1QFCm32ooF9tuy_PX3cHByKcAuZBm5xZRmdwWTTpRmAojNd8IKqS7MztztHutb6U8Lv01TVmR57bWQtvy8rpfUVVnktxURm-1FnOT3RkUIw=s1600)
 ![Кница з заповненими отворами болтів путенса](https://blogger.googleusercontent.com/img/a/AVvXsEi8nJmceJ4zTOxPuUoGRUBx6W0_1BJk9N402mzzxOIhDJATfxQDjBQ1IgGK7vUfo_gi7h2jDotlGxj5ILgOBuGjkW6xK0zpSFa-KsgYlzC7aZAsybqHq0sk4COEwJMx3VlzSwyYc_LhAvktXv-3-t48rvVejuXM36ohPrswFYlqc1QsnlUvK2geIP7QUw=s1600)
@@ -94,13 +93,13 @@ Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-satu
 
 Diary: [14 Feb 2022](https://irwin34.blogspot.com/2022/02/day-13-21322-open-saturated-deck.html)
 
-Я виточив маленькі «горбики» з G10 там, де путенси виходять крізь палубу.
+З G10 я виточив невеликі «горбики» для місць, де путенси проходять крізь палубу, щоб вода обтікала їх, а не затікала всередину.
 
 ![Палубна пластина з G10 для путенса](https://blogger.googleusercontent.com/img/a/AVvXsEiZRi3P6bLUSNsN6QpTaY1vSaR9gzaNyJezBHUN2GWx5PhM-EWSkXUOdIJLnJESbZl7uH29lPUwvOZRmFmWEhdhKoR4tJ1P9W9HGX3chgiEb0tOj2SamFkAbwJ2wb4-GDAv_tVQ-o-R3INQF9_wR8Wxxo2tT8ozm7CmbK0qtdE8afw03PcG9dyZfvrRig=s1600)
 
 Diary: [19 Feb 2022](https://irwin34.blogspot.com/2022/02/day-15-21922-deck-re-coreing-step-3.html)
 
-Березень: прорізав отвори в палубі, примірив пластини і заповнив дірки в палубі і верхніх пластинах загущеною епоксидкою.
+У березні я прорізав отвори в палубі, приміряв пластини й заповнив отвори в палубі та верхніх пластинах загущеною епоксидкою.
 
 ![Путенс у головному салоні](https://blogger.googleusercontent.com/img/a/AVvXsEhc9wIlDzgisf6jXC7nPAWv93mBn2uxwolYbMnXP2e8ZYqjCG_b2DaJVXfSRmXVe62KQ-sVWS_HtDplIShLTPD1udZiGhMRMV3bvta5bBiOd-ca5tDC8D2AVDFN-l2IWmVw8628xccDiFu14jDlcXIZYEPCzow8w-BgJu7rz45MIt8pfi1Coz6NojX_ZQ=s1600)
 ![Стінка каюти з лівого борту в роботі](https://blogger.googleusercontent.com/img/a/AVvXsEjElTbrE7I6iepoon0wSVUSTu-HJVBcCfH021ZeSMbfhYe5xiRnoLevBNVTUFH74vZvZ7n9GnLPJ1Oc3YJrCz9H8sI5EauIg14GIHGraN2ySHlpgc-GnifPt6smiQg3zbNpkd5a4RDcQzttyGI8i4tBEwPspF1Vp1qhc35k3gu8ihTxuPpMIT7CmED__w=s1600)
@@ -110,7 +109,7 @@ Diary: [19 Feb 2022](https://irwin34.blogspot.com/2022/02/day-15-21922-deck-re-c
 
 Diary: [5 Mar 2022](https://irwin34.blogspot.com/2022/03/day-16-3522-starboard-deck-fairing.html)
 
-Через пару тижнів три з чотирьох місць були готові. Я зробив фаски на прорізах у палубі і зенкував отвори, щоб герметик як слід видавлювався, і загерметизував пластини й болти бутиловою стрічкою. Обгорнув путенси зсередини папером, щоб одразу побачити, якщо десь потече. Дерев'яний брусок, вклеєний на переборку, краще тримає болти. Оригінальні болти тепер, з усім додатковим склом, виявилися трохи закороткі, тож поки нові не приїхали, лише по два болти на пластину.
+За кілька тижнів три місця з чотирьох були готові. Я зняв фаски на прорізах у палубі й зенкував отвори, щоб герметик правильно видавлювався, а пластини й болти загерметизував бутиловою стрічкою. Усередині обгорнув путенси папером, щоб одразу побачити, якщо щось протече. Дерев'яний брусок, приклеєний до переборки, дає болтам кращу опору. З усім додатковим склопластиком оригінальні болти стали трохи закороткі, тож поки не приїхали нові, кожна пластина трималася лише на двох.
 
 ![Нова накладка путенса на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyDxQ8rPVlI-bEzV-I1waL0lzBuhYMdsuQP7J8odttRqbwB2XeBtXoygBvjIydwqwM2HWX594IJxEAoWSofSfWmMHm0OFK-EgcvGhRV0-UQjmP_FFlxdbJPES6AmJN5p9govHGCbQDh2hhevNZNEk_GwSK72_N9Tdb3T8ejXIO0-zzsjKBNfyCzuO3lw/s1600/IMG_2124.HEIC)
 ![Ванта під'єднана до нового путенса](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdH1g0tzmimGCx6G1WnYeHiS9DF1_znEwrajJv2YgOX1SsBmHznDbzCGJt_gAYiDY8CeQCkJcrXJeg7Que6mh9Yy-I4ca89H6s0vZVRvOzKJiOC2GwLX1vMA71NIY6RuSUR9-GJ8I2xwSf1ePhYCQiFLJp2nGWBzgJ-fNXMd2ywRabhIiVZyBwamm1w/s1600/IMG_2125.HEIC)
@@ -123,14 +122,14 @@ Diary: [5 Mar 2022](https://irwin34.blogspot.com/2022/03/day-16-3522-starboard-d
 
 Diary: [24 Mar 2022](https://irwin34.blogspot.com/2022/03/day-17-31822-starboard-deck-fairing.html)
 
-Квітень: стали всі нові болти.
+У квітні стали всі нові болти.
 
 ![Путенс на болтах крізь кницю](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKTPceeiKVqoxSp3TmRJcuZyu3DRboh-6pUx5qgbBm2Q8ebTXrGC1MOHoWiSmUPhgKsk5X4HRr1DuFeC3gh-uDkFFUADM_UQa6NjHXL9TJ_WuNl53btAfcKDcPvhC5Xyruwtn2OwAECro7WAT5fbxG86yDGeVcQjZi7RVCVbrvyej8wp3dB5sHP9O-ww/s1600/IMG_2471.HEIC)
 ![Путенс із новими болтами на переборці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivpIuAYiqBjZDtKM4DPr-dqLYAmnguA0YJ9zHhc3d2W0kWXaholFP8XBL_A6P7xVj35kdLGQfsc2biDPPsDyc8qSbDr212nOBPOMP8PQUufrzEVkb5-2AJiJKVyujZPlDaevkm7E02sakDj9lvlq7ZtTnmN4ijoOSDLLZDrZGmpY-VIgBYH7F6oFAMFA/s1600/IMG_2470.HEIC)
 
 Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboard-deck-fairing.html)
 
-Потім останні два, з лівого боку. Ванти знову переїхали на планширь. Хтось просто замазав накладку прямо на протиковзку, жодного справжнього ущільнення. Тож я зняв гелькоут, поставив на палубу підняту пластину, розкрив отвори і заповнив їх.
+Потім настала черга двох останніх, з лівого боку, і ванти знову переїхали на планшир. Хтось просто промазав накладку герметиком прямо на протиковзке покриття, без жодного справжнього ущільнення. Тож я зняв гелькоут, поставив на палубу підняту пластину, розкрив і заповнив отвори.
 
 ![«Віра» біля причалу з мішками піску на палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVGuL-8mMkRRZda1xlt1TF_x_-NAIBpVQwhfE0W3Kaen3jHOXP_8K6rQbNRFSWkt_9BF7aIOVd1rcsXGJuxWWT46nkVQ8KDlzdI7zgxeahBTMt4VsJBs4V4rfbn1U9cDwnJIZ-jYtp-fMe8U04zbT7ylJpOXjiOGes5EfX7mrKRYTREG4BrH1NpjW5NQ/s1600/IMG_2528.HEIC)
 ![Старі прорізи путенсів у палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLG3AVn9MdJkD5IxC6MMacm1f5N3vS4EL2lYvgV_cDJ87fs1KFNTqD1XtFbwkiY8QRpj_dRW8WRbHp8JqC5XR6JbNoGxJVDrRLcaNDcc2xkQP_KqNCazoh7PD3PwvjnBGEL1nPj6KOx0kZLT8jkibR-uogp_9pgncBrPmTLCDgrKr2fWERDK8nsIIJAA/s1600/IMG_2523.HEIC)
@@ -139,9 +138,9 @@ Diary: [13 Apr 2022](https://irwin34.blogspot.com/2022/04/day-18-19-4922-starboa
 
 Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchions-10-hours.html)
 
-Через тиждень нові ліві путенси стояли. Я заповнив старі отвори в переборці і пересвердлив їх у правильних місцях, вклеїв тикову проставку, зробив фаски і зашліфував прорізи, і все загерметизував бутилом.
+За тиждень нові ліві путенси стояли на місці. Я заповнив старі отвори в переборці й пересвердлив їх у правильних місцях, вклеїв тикову проставку, зняв фаски і зашліфував прорізи, а все загерметизував бутилом.
 
-Потім виставив щоглу рівно зліва направо, з навантаженням 15% на верхніх вантах і меншим на нижніх. І день був гарний. Черепахи засмагали на чиємусь затонулому човні по сусідству.
+Потім я виставив щоглу прямо, зліва направо, з навантаженням 15% на верхніх вантах і меншим на нижніх. І день видався гарний. По сусідству черепахи засмагали на чиємусь затонулому човні. Виглядали вони спокійнішими за мене.
 
 ![Ліві путенси на переборці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8QglPy3EsB2yZ0gwXS9UfQ6-xkkH6hqiqRHt2xZz3S-rgjW2rxdqn8C4ET5cL4pBQ4l-0pJTPV5Gv0p3sZ5jwFeaAOvaM6arJE7xpvvnLF8PyHgknN0hySp83tPmV1GKIq-pPXhk7LOPuztVyVYHyAagPtWWcxgyDIkB7tOIWy1wiJ-6Q6FPWdposkg/s1600/IMG_2550.HEIC)
 ![Путенс на переборці з лінійкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVlGFScwfhDO1omJ5Ev6ZApnek--9r2WNEfD_D6pr6Se9f1Z2ezs5l6rbJwjGNVwUIhOZ6mn3awZoLBhqgMH8GNEdMWvR6yo_APAKwE6VLHvJlbtSKU2-r0VORvDA2edMcTMhLgyyfgDe7oduBlKsvJbD59GciDsiSxkvVmpf77v5J8OOfooxZEtrkTA/s1600/IMG_2546.HEIC)
@@ -150,7 +149,7 @@ Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchion
 
 Diary: [23 Apr 2022](https://irwin34.blogspot.com/2022/04/day-22-23-422-42322-stanchions.html)
 
-Перевірив товщину тросів: 1/4 і 7/32. Ось цей тензометр за $115 з Amazon працює добре.
+Я перевірив діаметри тросів: 1/4 і 7/32. Цей тензометр за $115 з Amazon працює добре.
 
 ![Тензометр Loos для вант](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjNP4f9Arnhjdl6yIaoRhV6F_21JQYoAd-N074KW3UzPK34SRM-WlGjMQZQiF96fC2zDG3hdYYAtEr7nRP914ylzXIIC9srJS2IGOzJoVHAwVxrwTPt9gurJ69W9AbGMX5THv1kwqv7wR6oMClVow8bLuV_fxB4j-p8HGOY28KsPFsRPMSgeOe3Bobqg/s1600/guage.png)
 
@@ -158,9 +157,9 @@ Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchion
 
 ## Приварений путенс штага
 
-Червень 2022-го. Сюрприз! Irwin приварили до путенса штага шматок нержавіючого прутка. Це оригінал. Я був у шоці.
+Червень 2022-го приніс сюрприз: Irwin приварив до путенса штага шматок нержавкого прутка. І це оригінал. Я був у шоці.
 
-Подивився, як його замінити, і отримав більше питань, ніж відповідей. Усі гайки в носі приблизно за 1,5 м від крихітних дверцят у куті носової койки. Їх ледве видно, не те що ключ накинути.
+Я почав розбиратися, як його замінити, і отримав більше питань, ніж відповідей. Усі гайки в носі знаходяться приблизно за 1,5 м від крихітних дверцят у кутку носової каюти. Їх ледве видно, не те що підлізти ключем.
 
 ![Путенс штага з привареним прутом і ланцюгом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg51XJzJDJGpbkLwJ2No-vlj6-iLiteYVf5UYTNMwQOXgU6iQOLzHVetGS5HqBWl-ADKyhuPUVt0Uq5Y_a6fFjrkC2M1VYb3PHErWihFUPSrokkbTFmyvD_1j7SHiml2x-30UcR8_uEU8dvJj7nMItzvIljkgLc-2A75HRTS2ErniLy94XvCfLW6qt3WA/s1600/IMG_2901.HEIC)
 ![Путенс штага і якірний ланцюг](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbIjuvN4pAAOhlNzuwBj3EyJ47AYbUYUCoRCIJTWa38wI8XNKq0RcKh0DFIa51H--TeEakFRmZRyOKHPL_Vtf2pzHKoo0ykVPTmLGbepu12MVKYlGkTQcDrc0gH2NUmX7PuqC7TO7q2dJUltxLN1iAFWlljj8Mwiv3A-wau0rw8nmCW0057t0nj7E3Uw/s1600/IMG_2902.HEIC)
@@ -169,9 +168,9 @@ Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchion
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-## Штаг здався
+## Штаг здає
 
-У липні 2022-го на щоглу виліз мій друг. На штазі: одна жила порвана, інші розкручуються.
+У липні 2022-го мій друг поліз на щоглу. На штагу він знайшов одну порвану жилку, а інші розкручувалися.
 
 ![Топ щогли з кріпленням штага](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhyPuuBDraaKU0sRzygRA46fuoFi1Cp_Z40oNdwuPCw5QbJgcMh02_yVyNpwZ7UVm7_vfvwOGxKaI0lLvZ2JvLgbs-l0nlreCMLTj957jTdFk_1GX7-lKNnfGYfWDCEuYm1eQbP1wpmQEATxJpwHZu44En203AnmPPi5OZui9dmv2D_IhNYUUvS26A_A/s1600/IMG_3019.HEIC)
 ![Обірвана жила штага біля обтискача](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE5ELOMQElm4UEPXBtNveq2Sr6EdW0nBb2YBg_x81IegwDJUeKwhrGAAcfNKBEkpPvUGOUO7G1BxSkWKwxPCdn3446DLf56Mzq-WJs5D_z5mb-Jms6_fMT3Y09PMe5HF_8VLBwNkiLOzOIJYE8Bdh8hANiZWzPpd3HPrhkvmaqT9GpT_bgCL9I4TJXxw/s1600/IMG_3022.HEIC)
@@ -204,15 +203,15 @@ Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-cl
 
 Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
 
-Я спробував просунути різьбовий палець штага далі — не вийшло. Тож знову відрізав трос і заново його закріпив, але тепер штаг на два дюйми коротший. Замовив нові вставки Sta-Lok.
+Я спробував просунути різьбовий наконечник штага далі й не зміг. Тож знову відрізав трос і переставив наконечник, але тепер штаг на два дюйми коротший. Я замовив нові вставки Sta-Lok.
 
-Ще прицінився до повного комплекту нового стоячого такелажу на Sta-Lok: $2672. Є над чим подумати...
+А ще порахував повний новий комплект стоячого такелажу з фітингами Sta-Lok: $2 672. Є над чим подумати...
 
 ![Таблиця нових деталей такелажу і цін](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDQULeRRvtWGchVPZvjIXIqwBfh2ZceNvySA29SmYcEidz8qaUXvrMcwnHNDLnF5QwdiMlnrt9TRiLWe_DfIqELqNKJRP6s67efLqLFGxq26ELzXCEDsZahxp-BVP2-jGZ5fFoVYJV0VfuUwjbrtl-gQdTgXAa2vhs086vdMunizKhCBwvoab4SCJ6w/s1600/Standing%20rigging.png)
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-Потім мені здалося, що я бачу тріщину в путенсі на правій краспиці. Придивився ближче — просто подряпина і бруд. Але мене це вже завело: я накреслив новий комплект пластин — для штага, ахтерштага, підкладні для обох, верхні і середні пластини і пластини для краспиць. SendCutSend зробили все, разом із гнуттям, за $440. Ще одне уточнення: пластину ахтерштага треба гнути лише десь на 5 градусів, а не на 14.
+Потім мені здалося, що я бачу тріщину на пластині біля правої краспиці. Придивився: просто подряпина і бруд. Але це мене підштовхнуло. Я намалював новий комплект пластин: для штага й ахтерштага, опорні пластини для обох, верхні й середні пластини та пластини краспиць. SendCutSend зробили їх усі, разом з гнуттям, за $440. Ще одне уточнення: пластині ахтерштага треба лише близько 5 градусів згину, а не 14.
 
 ![Кронштейн краспиці з обведеною тріщиною](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEyOKrXcqWQit-GlwzuSFKpclfyprfMu8bT0DeBRO0Ta7cp2VByY4KRXK9F8YUK7euZW59mfENHj1K_l6-XKXQCZCjxcsGRFo7lQ5IgfV9OAR48sk41Ygoqh6XQrYNSh4SFK6ZfsTEp6mxE4QBod9k-3VTRkv0jQH9JZYMk47DSxGT-59ZcG6fRwYVYQ/s1600/IMG_3043.HEIC)
 ![Позначка тріщини на кронштейні краспиці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0sGZ7xX4uF13VHAf61Otqccje5JhIW5ApVV9_4f3XQ-TxW8Q-jB18L4MzUj9JQKRkBLnduHF9S_O-Jm67vszaOSKAzwcSpwnNPfBA-TmUodd-L-gl7JTltkXaM9HeE8wjHmO9xs_6ldG67weTnu1Sb6bqfJN5xr9Dj7ICfBxBQ-wa0KFR4gSowgcDA/s1600/spreaser%20crack1.png)
@@ -222,26 +221,26 @@ Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-pat
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-Того ж місяця замінив фал стакселя.
+Того ж місяця я замінив фал стакселя.
 
 ![Носова палуба і щогла біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM56Qh9Pm-E4vmOd-QN-avHUxzO2UWHJ-OkDY4GkNTO99ONMt-eu0WTQZlezkX8Fd1B4ccT9MdlW_7_QR9n6vwrG3nGl5kIkQHusHEIfxbfMnBU-lYik9rdaqXXvZwyz9QJBgr_3gSqnZYKv19KX_XwkvVJbiNDQ97Hymis6U8IAU29FfFGf2s-zCvyw/s1600/IMG_3354.HEIC)
 
 Diary: [18 Jul 2022](https://irwin34.blogspot.com/2022/07/day-37-718-port-window-installation-air.html)
 
-## Ніякої скоби на ахтерштазі
+## Жодної скоби на ахтерштагу
 
-Грудень 2022-го. Що мене справді непокоїло — це скоба на 2000 фунтів в ахтерштазі. Ланцюг теж не найкраща відповідь, але він принаймні такий самий міцний, як трос. Тепер там дві пластини і два пальці по 1/2 дюйма, і пластини товщі за старий путенс.
+У грудні 2022-го я взявся за те, що мене справді непокоїло: скоба на 2 000 фунтів в ахтерштагу. Ланцюг теж не найкраща відповідь, але він хоча б такий же міцний, як трос. Тепер там дві пластини й два пальці на 1/2 дюйма, і пластини товщі за старий путенс.
 
 ![Ланцюг і скоба ахтерштага на кормі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUqVVkD0co4VX7sKtZ9nnuJIFBvNjLWSoGzFS9qH2QB573mGndJ6BgaUg8M4UQYvbFtYETDEVrS62kSOVPN7BnIpqwuOYfyjiwtUHeFXxQTgNQrrSpZ-bfcZSXgYyer4YmjRLNx3VwxCb2sNcu5b7ORtMWCK85QIVCRKI7bzZVe2LSYZ-SXQdXElyekA/s1600/IMG_4175.HEIC)
 ![Ланцюг і скоба ахтерштага зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFljGdRpenkt2xBcp5PfPQwpfZopNnzC2v6c7WIY8CWrQWRig7ah1BxF2EQGCY_rUlYELUMWzkNyuEbKDvsmA9ayiL0cqRNd9QOSG-krF4Ne-GwqRCwkCS_A7DETsvyuuo0CmuCi6B_on9KMzHpCH_5QeS3kuCKYP_7MTrlMkF9JqnJyWlHNYjjd-trA/s1600/IMG_4282.HEIC)
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
-У березні 2023-го сам путенс ахтерштага. Старий був зроблений з якогось невідомого нержавіючого прутка, і дуже погано. Отвір під палець не по центру, майже на краю, і товщина лише 3/16. Я перейшов на 316 товщиною 1/4 дюйма, а стару пластину поставив як підкладку.
+У березні 2023-го настала черга путенса ахтерштага. Старий був зроблений, і дуже погано, з невідомої нержавкої смуги. Отвір під палець був зміщений від центру, майже на краю, а товщина пластини лише 3/16. Я перейшов на 316-ту товщиною 1/4 дюйма, а стару пластину використав як опорну.
 
-Але транець біля верхніх двох болтів був десь на 1/8 дюйма товщий, ніж біля нижніх, тож підкладка не лягала рівно. Я зняв гелькоут і поклав три шари 1708 на нижню частину, трохи зі зсувом, щоб вирівняти, а потім один лист поверх усього. Ще заповнив старі розбиті отвори епоксидкою з аеросилом.
+Але транець біля двох верхніх болтів був приблизно на 1/8 дюйма товщий, ніж біля двох нижніх, тож опорна пластина не могла лягти рівно. Я зняв гелькоут і поклав на нижню частину три шари 1708, трохи зі зміщенням, щоб вирівняти, а потім один лист поверх усього. Ще й заповнив старі розбиті отвори епоксидкою з аеросилом.
 
-Епоксидка знову вийшла червона. Мій швидкий затверджувач довго стояв. West System кажуть, що від металу затверджувач 205 може стати червоним чи фіолетовим, і нічого це не змінює. Коли все застигло, я просвердлив нові отвори і прикрутив новий путенс.
+Епоксидка знову вийшла червоною. Мій швидкий затверджувач довго стояв. West System каже, що від металу затверджувач 205 може почервоніти чи стати фіолетовим, і на властивості це не впливає. Коли все затверділо, я просвердлив нові отвори й прикрутив новий путенс.
 
 ![Транець із позначеним путенсом ахтерштага](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4Ot3eSz4ig2FvbrcIl_arSMbB7UWKigyFX44u9J7oRkdZqywKj-QOledKKHC6HHFX1UqDQmww5sYBINTAikoFlShUbKiimPZXZWwQr-morAPT_aXT7UEhto7q_-AEO31CLGIoM0EPTF15W68IkJWNGoL1T1hm67SFyTnmn8uR1cWm5nPN4GZGzY95g/s1600/333704592_178363911591498_3446884384909027995_n.jpg)
 ![Креслення нової пластини ахтерштага](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjJLfyr9JJ4rrzrWzpcdbjh1SMnjcKs8aaBp8dOK5Ol4qagY157c_hSKPsKiNrVvkTC8LTiEH5yoYZoC2MuxgVa9IfV8_qhSCDOYQFFNkuXNws_UWE90c01Nm6NGvO50Tz-d-JAY2t8iO-egpUE5OmPQBv-ckAr0C2FzoMDPjdpHLIn04Aa1aqKxzAjw/s1600/334038041_870374277390289_6373817110647311786_n.jpg)
@@ -255,15 +254,15 @@ Diary: [4 Mar 2023](https://irwin34.blogspot.com/2023/03/day-80-34-galley-counte
 
 ## Плани на дайніму
 
-До 2025-го я вже думав про синтетичний такелаж. Ось що в мене було:
+До 2025-го я думав про синтетичний такелаж. Ось що в мене було:
 
-- Штаг і ахтерштаг: 9/32 (7,14 мм), розривне 3500 кг. 15% — це 525 кг.
-- Нижні основні ванти: 1/4 (6,4 мм), розривне 3220 кг. 15% — 483 кг.
-- Інші ванти: 3/16 (4,76 мм), розривне 2100 кг. 15% — 315 кг.
+- Штаг і ахтерштаг: 9/32 (7,14 мм), розривне 3 500 кг. 15% — це 525 кг.
+- Нижні основні ванти: 1/4 (6,4 мм), розривне 3 220 кг. 15% — це 483 кг.
+- Інші ванти: 3/16 (4,76 мм), розривне 2 100 кг. 15% — це 315 кг.
 
-Для дайніми я дивився фурнітуру Colligo і Excel D12 Max на волокні SK99, десь на 15–18% міцніше за SK75/78 і краще по повзучості. Розміри, які я записав: 6 мм, 7 мм, 8 мм.
+Для дайніми я дивився на фурнітуру Colligo і трос Excel D12 Max з волокна SK99, яке приблизно на 15–18% міцніше за SK75/78 і менше повзе. Розміри, які я записав: 6 мм, 7 мм і 8 мм.
 
-Я накреслив напрямну для кінців краспиць, щоб верхня і нижня частини ванти утворювали одну замкнену петлю, а навантаження лягало прямо на болт.
+Я намалював напрямну для троса на кінцях краспиць, щоб верхня й нижня частини ванти утворювали одну замкнену петлю, а навантаження лягало просто на болт.
 
 ![Зламана кришка шківа на топі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoX9TJwr2OMsFvRV4fEaim4fPE4U8jlas96H809GT4oicGRLYgw1IRblafUm4ZxrMHYmzcbUuk4feVvtF66qyJ1g_4tvgpg2Uf8WqKCr02G2LfauIyrjDAq5yRm3TiAx_ObThHjPFOuKq_h3NTs17SrpR2DiKC9_-j4DUx5rhplDmgjQxjFSYOuxnYlTyG/s1600/IMG_3049.HEIC)
 ![Топ щогли знизу з трикольоровим вогнем](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl7Ak5iKJocOdrTNllxg6zp5zV_XztxONWY-IiBQ_8gTGU_QytsnOmzRC93M6SBpnTMuocImM-zUyUwF3wVEq8Axwgjlrj2KCcjgQigmttd0TA3AZStuKga3tb2Zm5bdKVg1Sik2NAMevqbCd8gyEZG92ESY7hJZfNpLPjeWvuvZYX85rCMJZdU3BkRnSM/s1600/IMG_3458.HEIC)
@@ -285,14 +284,14 @@ Diary: [4 Mar 2023](https://irwin34.blogspot.com/2023/03/day-80-34-galley-counte
 
 Story page: [Standing rigging](https://irwin34.blogspot.com/p/standing-rigging.html)
 
-У серпні 2025-го заміряв кути вант. Фото робив здалеку, щоб кути були ближчими до справжніх.
+У серпні 2025-го я поміряв кути вант. Фотографував здалеку, щоб кути на фото були ближчі до справжніх.
 
 ![Щогла «Віри» збоку біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9G8RzmTfmUCWrsmRrvO5FNlXXCB1xxMzvjD8xC889HRPreayBGt6DkPRh-oiuZj1-2f9nk42WHQ0pLIN-tDJDnqadi81YQCjKd8__Vf2utlnjtYHUYflPHOkhJkNNvwroWD_lQlzV2eB3ulgPhEVPEKHWPJA3RTa5xgWBITtN3P0VMvMND8DSYI-YxLyG/s1600/IMG_1094.HEIC)
 ![Креслення щогли з кутами вант](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgoUhuomBr8tX7q7hQy5OXZqvMx7MJT9pa2WOy-7nLUJX0KaMoGn-g2Qaqkns-V8F6ilOyGC3jAYr69O_baBop9djhQzd4LEXokZR0z4pR08QZL_KlNNGdksYoUJ7kwet0DDUXtTi53YGycHuSl8hHWS7Lnd0nRRQXtu6iMQ9TlLHd_fmaZ_5l4JzCecP9/s1600/Mast,%20far%20view%20with%20angles.png)
 
 Diary: [3 Aug 2025](https://irwin34.blogspot.com/2025/08/day-210-finalized-sailpack-radar.html)
 
-Потім кріплення на щоглі. Оригінальні з'єднання прості для сталі, а для синтетики можна ще простіше. Я спроєктував похилі коуші під мої кути такелажу, з вигнутою поверхнею, що лягає на щоглу. Один для топ-вант і один для проміжних, з більшим кутом. Менше деталей, більше надійності і менше нержавійки, що торкається алюмінію.
+Далі — кріплення на щоглі. Оригінальні з'єднання прості для сталі, але синтетика може бути ще простішою. Я спроєктував похилі коуші під мої кути такелажу, з вигнутою поверхнею, що лягає на щоглу: один для топових вант, другий, з більшим кутом, для проміжних. Менше деталей, більше надійності й менше нержавійки, що торкається алюмінію.
 
 ![Оригінальне вушко ванти на щоглі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg564_XyfbuSq9f7-tt3siDWnjt3ScokKQuslR-3J3gR38vWhZ1nxHGmc-Prfhkdtjow7pcRK2Dj97xzb2qwEW0AhxQP1ItyOyI89n-A_8tpzTxSJAmrOY4LYU-TqWT2eIAQBEwRHzZAUSd6HKnHArqX7vAfylrlHL5nJn7l5mL_GBdeVtH-v3Xcu6PwV1i/s1600/IMG_2631.PNG)
 ![3D-модель з'єднувача топ-ванти](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUxmfhoBmi8IVAdB8JmmKX84ojnoZaCYTssxW5Anp-abnVJUL8QZUpRjRunax23gS0oFggmh5P_DcHkiMGyHtvy2YV-ksI-yi8PbkdMoRMSJ_riX1WW0X8DFH86oG2in-0FBW0ZwKs-6W5clG35MYTYM31ujPQvuwljmsJRhnJJ9AZLYG7b7UWrqERO9VX/s1600/p5.png)
@@ -300,7 +299,7 @@ Diary: [3 Aug 2025](https://irwin34.blogspot.com/2025/08/day-210-finalized-sailp
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-І наконечники для кінця на путенсі, з отворами під шнурівку, вигнутими так, щоб дати тросу правильний радіус.
+І термінатори для кінців біля путенсів, з отворами для шнурівки такої форми, щоб трос мав правильний радіус.
 
 ![3D-модель коуша путенса](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCK0Yg4NfikRWDKjMtl0ZNfGg43yQD7lAUNwVnnG9gl9z2VyBB3gymSqBu32rb2bybQaeYquCHSiyITwqWw82p9FOzWu6dAGxNfdPkxkwGX-t5Wh8R2VfSqsUKFA2u9KIGuWmDrw3hB0_p8CtndSrq5nNGA8jFU2ddx54TQgLU1Jxae7Jo2URcGpXrAQzQ/s1600/p7.png)
 ![Переріз отворів для шнурування](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8l1MzYwVOTP35tQq9XuKDZPlPT9RiWIYU4yblc7afePjYNU-9ImgTFfed9p2vAsQOJemGKORddsq6p-Y4yrqL84aMv6CVevImWs3mHu2IM_ZCuOrCPPWEioIruxV1IE5AQIut1ETAsAyvDZE6NpOjoOfBPPieQ2sdOXuCe5BdsFu_GvA4rvU5cfOBssLe/s1600/p8.png)
@@ -308,25 +307,27 @@ Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-riggin
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-Того ж тижня «Віра» офіційно стала зареєстрованою в USCG. Номер — на головній переборці.
+Того ж тижня «Віра» офіційно отримала реєстрацію в Береговій охороні США (USCG). Номер — на головній переборці.
 
 ![Номер документації на головній переборці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja4x_MTQuvA6EAuTSPQrYkorP5880ed8nLAXuVQVR2TYunJtp877wCd3euIqPbliHmZowrIBMdMqU2gkxTG2BArLDdE_GNvNvsUEH_erJfA9zpy-Yl76c5bsW7l12rWqafZ-6DJ7A1Lba5M6zhPtCwbEfJ8aASgJMKbG05kXpu8V-A5ju5ISt7QQ5DPmHK/s1600/IMG_1249.HEIC)
 
 Diary: [7 Sep 2025](https://irwin34.blogspot.com/2025/09/day-223-standing-rigging-measurements.html)
 
-## І все ж таки новий трос
+## І все-таки трос
 
-У січні 2026-го, на верфі, я забрав новенькі штаги і ванти, кожна цільна, як і має бути. На оригінальних були подовжувальні пластини, ланцюги, зайві тоглі... Нижче — мої каракулі, які я дав такелажнику.
+То чому сталь? Я планував замовити всю фурнітуру для дайніми в китайській майстерні прототипів (JLCCNC). Це було б преміальне рішення за дуже розумні гроші. А потім прийшли нові американські мита, і рішення з дайнімою раптом стало надто дорогим. Тож я відклав цей проєкт. Років на 10 ;)
+
+У січні 2026-го, на верфі, я забрав новенькі штаги й ванти, кожен цільним шматком, як і має бути. На оригінальних були подовжувальні пластини, ланцюги, зайві шарнірні з'єднання... Нижче — мої каракулі, які я віддав такелажнику. Він їх зрозумів, і це багато каже про такелажників.
 
 ![Ескіз нового штага в блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHsTAU_4NViaADUO7N8G50KdwpXS3bo-8dFcN883WUmou9Q8LqkizMSOEN9aHvRmcYQr_Kw9_iFA1b_T5H-C3-J4PxcEQw_TS-IixC6tvyaFHlvqRotddLCjEfXMdUSS2MtC4_SKSvGCjiDm9fNNn883aYn0RNsesXScHU5Lt1jj-4miLux1TxlrVoGzy_/s1600/IMG_0421.HEIC)
 ![Ескіз нових вант у блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDTeIHbRc3YMHfy_zqmbYO4htLJ2KJMsXXUIzA0DgbiuRs_WiRMUDX9EMxt5VnMZI7885xUyUXzNA0c734VSMbP538QAiE_dmo7Z92jZaQtOyASyghIci1xdfRsQla3QOTLv7qjE7b40TCjpJBovt2L2Z_dCkFWo1IMs89hriKH7obnTfRNNHjgxtifKqI/s1600/IMG_0420.HEIC)
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-Коли ставили щоглу, палець, що тримає ліві нижні ванти біля кореня краспиці, вискочив зі свого місця. Довелося попустити нижні ванти і заштовхнути його назад.
+Коли ставили щоглу, палець, що тримає ліві нижні ванти біля кореня краспиць, вискочив зі свого місця. Довелося попустити нижні ванти й заштовхнути його назад.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-Липень 2026-го: новий грот, нові ванти, і вперед під вітрилами.
+У липні 2026-го «Віра» вийшла під вітрила з новим гротом і новими вантами. Від гнилої фанери в гальюні до нового троса згори донизу: тепер цей ланцюг нарешті міцний у кожній ланці.
 
 Diary: [5 Jul 2026](https://irwin34.blogspot.com/2026/07/day-270-271-new-sail-new-standing.html)

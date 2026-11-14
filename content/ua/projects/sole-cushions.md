@@ -6,12 +6,11 @@ order: 2
 description: "Нова підлога каюти, подушки, пошиті власноруч, обідній і штурманський столи."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX4NL-ZTopby8IZocosPczw5UQOUauEVMSq46jHwrnH4q4k8XxCnTJ33m9JlJBtoio4c7fl_sa3UC97JSUuePp4EdzL24CAzzLEq8l7xhV2TtHlpDK5eGbyyuQfUjXqQRq7je3w9sIgqQhiS95lEXBdve7TUftyV9zCZXvQ-4q7NyAFxuQR4Tfv5BsxWhQ/s1600/IMG_0703.HEIC"
 ---
-
-Це речі, на яких насправді живеш: підлога, подушки і стіл. Коли я купив «Віру», всі три вже добряче втомилися.
+Це ті речі, на яких насправді живеш: підлога, подушки і стіл. Коли я купив «Віру», усі три були втомлені. До літа 2025-го всі три стали новими, а я по дорозі опанував два нові ремесла: столярку з циркулярним верстатом і шиття.
 
 ## Штурманський стіл
 
-У липні 2023-го я повернувся до штурманського столу. Спочатку вся стільниця відкидалася на рояльній петлі, але я ставлю прямо за нею екран і панель, тож відкидатися їй більше нікуди. Нові петлі.
+У липні 2023-го я повернувся до штурманського столу. Спочатку вся стільниця відкидалася на рояльній петлі, але просто за нею я ставлю екран і приладову панель, тож піднятися їй нікуди. Вона отримала нові петлі.
 
 ![Схема старих і нових завіс штурманського столу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjshyYojMjV1ZoVT9Gxo1hxWTqq6uXEvzdxcbw-tRq4Q_VDh3WSa5-gurE0YOKnHGL0nF1wlPGcPas__sHGQjlLZv_Du5emHVTlmMIJChcTM260Z2KFoYJuh4d_gM4lncW9SIy6zib4HyCtjlD31T_RPjA2s3oSOb-KmeiESqlY7cql5K5dWsCpgQ7FvoJY/s1600/Untitled.png)
 ![Кришка штурманського столу з новими завісами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTxEjPIplMONh-bP3yahXdirM63_zg43FBrmdcytcNE5sTxpyB_75JLdP9ase-me_uQmaRwk3gOGbBvTu9ejhhMefFQj08n4jJdV4YPhXHcM2LRXkanJu8LgE8qmFEiGkhj1pewdebyXPJIgiyS0rzUz3ESz5GVO0dK52lTDQltP7n2PBT1GiQktfXO0hK/s1600/IMG_6110.HEIC)
@@ -22,26 +21,26 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX4NL-ZTopby8
 
 Diary: [8 Jul 2023](https://irwin34.blogspot.com/2023/07/day-98-7824-cabin-to-cockpit-wall-liner.html)
 
-У листопаді додав тягу, щоб дверцята дисплея не билися об стіл, і прикрутив стінку, що тримає штурманський стіл, до столу і внутрішньої обшивки.
+У листопаді я додав тягу, щоб дверцята з дисплеєм не билися об стіл, і прикрутив стінку, що тримає штурманський стіл, до столу й до внутрішньої обшивки.
 
 ![Нова тикова стільниця столу на верстаті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitQJdb7M1Qse7sr-F2A-V043uAd4R7SzyVU9qyE4rTG5Zldc8dvrww2n0wspZbhrf-uQBKI5OGadDamfvYFBJF_SC1z51Om5EI-inBDW1NiSYa1RYPTBtrPTxDeiOgoUv54FKKzdrelap13S-zz0uDlx96Fboqxe0omAGUFDyUCiLV9URdFDheHuwiSIm9/s1600/IMG_6783.HEIC)
 
 Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electrical-little.html)
 Diary: [11 Nov 2023](https://irwin34.blogspot.com/2023/11/day-113-1111-preparing-for-varnishing.html)
 
-Січень 2024-го: кнопки керування дисплеєм, надруковані на 3D-принтері.
+У січні 2024-го з'явилися кнопки керування дисплеєм, надруковані на 3D-принтері.
 
 ![Дисплей штурманського місця з новими кнопками керування](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt0RTtGmpfaaZYN4B4pM6yZzXpdI_0zkRYExJOcS8YJZsTzdlQ4iZ-28d4WEVZI4WVNp607ancNfN9qX8AZ38-PU0qCPEtVl8SlwuFjAGQs6wnvxwlM_WJV4bvN3U__p_WCAuBhf58jky6wxgTCH720myrzdj_gxGV_ljPolhMlqf5JFQVd4BBcU4Fcgqt/s1600/IMG_7334.HEIC)
 
 Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-12823-batteries.html)
 
-## Новий обідній стіл
+## Новий стіл у каюті
 
-Нагадаю: в Irwin 34 обідній стіл стоїть ліворуч у головному салоні. Мені дістався 40-річний фанерний стіл із пластиком «під тик», побитий подекуди, подряпаний увесь і просто негарний, особливо поруч зі справжньою тиковою стільницею на камбузі. Справжнє дерево поруч із фальшивим — надто сильний контраст. І на старій стільниці не було бортиків, щоб речі не з'їжджали.
+В Irwin 34 обідній стіл стоїть з лівого боку головного салону. Мені дістався 40-річний фанерний стіл з пластиком «під тик», подекуди відколотим, весь подряпаний і просто потворний, особливо поруч зі справжньою тиковою стільницею в новому камбузі. Справжнє дерево поруч з фальшивим — забагато контрасту. А ще на старій стільниці не було бортиків, щоб речі не з'їжджали.
 
-З одного боку — негарний стіл. З другого — залишки чудової тикової стільниці. Єдина проблема: жодного шматка потрібного розміру, і вона товста (1-1/2 дюйма) і заважка для столу. Коротко: я розпиляв шматки стільниці на дошки приблизно по 5/8 і склеїв їх.
+Тож з одного боку в мене був потворний стіл. З другого — залишки чудової тикової стільниці. Єдина проблема: жоден шматок не був достатньо великим, а стільниця товста (1-1/2 дюйма) і важка для столу. Коротко: я розпиляв шматки стільниці на дошки ~5/8 і з'єднав їх.
 
-Нарізав стільницю на смуги шириною 5 дюймів і товщиною 1-1/2 дюйма і розпиляв кожну на циркулярці на дві дошки по 5/8 дюйма. Потім склеїв ці дошки в один щит. Я ЗРОБИВ ЦЕ ВПЕРШЕ В ЖИТТІ! Далі фрезером підігнав його під розмір і форму оригінального столу. Знизу фанера 3/4 для жорсткості і кріплення, на загущеній епоксидці. Потім смуги шириною в дюйм по нижньому краю, щоб стіл виглядав завтовшки близько дюйма і був жорсткішим. Перевернув і приклеїв бортики, приблизно 1/4 на 1/2 дюйма. Обробив усі краї фрезером так само, як стільницю на камбузі. Перший шар ґрунту під лак. Гарно ж вийшло, правда?
+Довго: я нарізав стільницю на смуги шириною 5 дюймів і товщиною 1-1/2 дюйма, і кожну розпиляв на циркулярці на дві дошки по 5/8 дюйма. Потім склеїв ці дошки в один щит. Я ЗРОБИВ ЦЕ ВПЕРШЕ В ЖИТТІ! Потім відфрезерував його в розмір і форму оригінального столу. Знизу пішла фанерна основа 3/4 для жорсткості й кріплення, приклеєна загущеною епоксидкою. Потім смуги по 1 дюйму довкола нижнього краю, щоб стіл виглядав завтовшки десь з дюйм і був жорсткішим. Я перевернув його, приклеїв бортики приблизно 1/4 на 1/2 дюйма і профрезерував усі краї так само, як на стільниці камбуза. Потім перший шар ґрунтувального лаку. Дуже гарно, правда?
 
 ![Стара стільниця столу на верстаті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTP5-Di3xEii6qqYeNnVB5K_-KF7oTr1WCXuvNTgEh_8maBKzZImthXkSbde_sAbPNZtoMWUONDlbgnZCtIVUmLn5uT3O_vCDEdKVpTTAViHaOmOuUnNVgfgzmf0IcOPqwhyphenhyphenvBCuizdXHdCteaF2xyV1PLVw8OtbxWQjCqZDr4zs6gtb3b2RStVf9jbOFv/s1600/IMG_6774.HEIC)
 ![Схема розрізання тикових дощок для столу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2iNScUNZeR8B_9dRVSCEtKtaJtruq4-1dci17Rq3Th1bjkc7n35dbFNdtXDuURfwceRGX7sqDnqHCjGoVITbKBzwUOQfq1NkG27_oZRP3Mp2cnewHhC6DhqUfIeizFLMNDAuoaOI8lP3O6WGVbsUF_7jF-yyXR0SmNdW7DBLW5fNl6CJ-TFG5dh_1zGRU/s1600/Untitled.png)
@@ -52,7 +51,7 @@ Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-
 
 Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electrical-little.html)
 
-Старий стіл був зовсім зношений, і поруч із новою стільницею на камбузі виглядав як шматок... ну, ви зрозуміли. Тож я зробив новий.
+Старий стіл був такий зношений, що поруч з новою стільницею камбуза виглядав як шматок... ну, ви зрозуміли. Новий так не виглядає.
 
 ![Нова тикова стільниця, промаслена](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8XFQ0Ls2S4blPNbXVOwB8AdCvrdyCbuHTXOjQaFRWCteNyR0PhTyqwClRnY0FGWXZAh_z90S8DZkbVNdbaCufBKWf485JM8408aznR_Q7_hGYcfOhWbn86lKzI0XacgsYfg7e7UGlN7GUPij-GrzW_inVwcczU3CfgsG4R1_PirbCGxjrlUg0qUS2_8YW/s1600/IMG_6783.HEIC)
 ![Старий стіл у каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbgfVmQmGX8m2FFs5BOx7HAvuMVgiNdjAOYvfJRMojwnkLWps0D_aLP3QGZQHsTSHdGynAXgPIzgk5Rtv9UR91TREX8tcuicPS6Wu8dKkOfIcBlaNmVL23NrYeH_dcDOLkpd0OoJX9ElS15_sfV259dUZResZyTeEYFNSc0R-flbbyPK5PccUmt4-1sJw/s1600/IMG_6774.HEIC)
@@ -69,34 +68,34 @@ Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electri
 
 Story page: [Cabin table](https://irwin34.blogspot.com/p/cabin-table.html)
 
-У жовтні 2024-го перевірив, чи стає він частиною спального місця. Гарно, правда? Але коли я його робив, то зробив «маленьке покращення»: однакові радіуси на всіх кутах і рівно 90°. Тепер знаю, що треба було копіювати оригінал до міліметра. На місце для ліжка він не лягає як слід. Зазор пів дюйма, а опорні ребра лише близько 3/4, тож щільно він не сяде. Маленьке покращення, ага.
+У жовтні 2024-го я перевірив, чи підходить він як частина спального місця. Гарно, правда? Але коли я його робив, то зробив «невелике покращення»: усі радіуси кутів однакові й кути рівно по 90°. Тепер я знаю, що треба було точно скопіювати оригінал. Для ліжка він лягає не туди, куди треба. Лишається щілина в пів дюйма, а опорні ребра лише десь 3/4, тож щільно він не сяде. Урок засвоєно: у 40-річному човні «покращена» геометрія не пасує ні до чого.
 
 ![Новий стіл на підлозі між диванами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0fN8d4wcG5IoY8LwA-cFWfwIkRPyfI8d164wjYE90JbNVNY4DF2sHiQrqYKt0nFtz9AsZEfwKolMnLGMGVYIT3vI-MoXuPrmS76WYQH9j9f7L3qRDEaHwJJA2JddbFLbtZtg5z55t9hA796GRA8HqW8xfCjgLzyurWLpEDQNRpNsNUVyMHksobrLgiueb/s1600/IMG_9213.HEIC)
 
 Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-oil-change.html)
 
-У березні 2025-го я примірив його в салоні, і раптом він здався таким масивним, що займає пів каюти. Може, просто каюта була завалена інструментами і деталями. А може, мені просто не хотілося столу.
+У березні 2025-го я приміряв його в каюті, і раптом він видався таким масивним, займав стільки місця. Може, каюта просто була завалена інструментом і деталями. А може, мені просто не хотілося столу.
 
 ![Новий стіл у головному салоні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmF7NYSLtGOTuzSWqH7IVMTXPoVZjqUsONGPfEKfRi2drJmrUzs8Vl1YFILULfPY1cmvt4z8y9hH7Nc-gUB7aINsynlRb0LQU2kLvMtgtZ_djafGiA5Y8LjqY9CJAb3M6DD9pBakq-2xNGVF9KrEFrf6K7DEgOXIdpUtHh7EQl_PVya2C46NusHxAPX3R/s1600/IMG_0349.HEIC)
 
 Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishing-heat-exchanger.html)
 
-Але встановили його таки. У червні ми з Марією з'ясували, що в піднятому положенні він трохи низький, тож я додав проставки, ще 1,25 дюйма. І він усе одно опускається, щоб зробити ліжко.
+Але він таки став на місце. У червні ми з Марією помітили, що в піднятому положенні він трохи низький, тож я додав проставки, ще на 1,25 дюйма. Опускатися, щоб зробити ліжко, він так само може.
 
 ![Перевіряю висоту столу на стійці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_MOOfetRif5fmRYdYt3AReW9Voy3UcGgwY19IvIepnw0Sxc8CfrXmf-rBnchW_BC2a8czAXBI73_eZn8RQU3PU9Wz1PMiQ0J6ZaiEa0WafGX7L8IZvP9SSMUxDw63i1tqHwi-3tu839hfdjB1ih737zsgqsu6TM3u9C0IRfh1b1IOyqzcd8VwWYjLqMq/s1600/IMG_0891.HEIC)
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
 
-## Полірую стару підлогу
+## Поліруємо стару підлогу
 
-У грудні 2023-го я спробував легенько зашліфувати заплямований гелькоут підлоги під столом, зерно 350, невеличку ділянку. Вийшло досить непогано. Гелькоут достатньо товстий, щоб його знову шліфувати й полірувати.
+У грудні 2023-го я спробував злегка прошліфувати невеликий шматок заплямованої гелькоутової підлоги під столом, шкуркою 350. Вийшло доволі добре. Гелькоут достатньо товстий, щоб знову його шліфувати й полірувати.
 
 ![Лівий диван і стара підлога з тику й клену](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwRhtF83D1x_eSYtse4gAEi989DLJaEbiuHJ6_4H1j1H6jBSZlpDnxydtOvoMazcl2XJXPlOD5ETyeJJiEeXYaJ9dGYq6ksbK2ZPc_sU_et2gcKS3mCrzbicBArL6NrIvwmEpJ36s5u83SCmOCkBACWYmTd1JGD2A4VrJMf_WsLJl9v30NfrCBi8AzFxF8/s1600/IMG_7042-EDIT.jpg)
 ![Правий диван і стара підлога з тику й клену](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP3mp1YacVWL1YEcTYixaJI0yJp368AsznPPuKRYaDK-g6zigI1nri3Tm6ila6JeSQz6CCQi8UXA-07pS9NROAfmZap9U3kDwhkXHlDoVJ6BUXh1-2fNh258rxrI5ClhDpiJkLdoBC40jjHSF4EQsoluDpdA5hFTrH7XyhQbq7me_waMEzNiecV65Od8_l/s1600/IMG_7094.HEIC)
 
 Diary: [27 Dec 2023](https://irwin34.blogspot.com/2023/12/day-118-122623-fixed-window-ports.html)
 
-У жовтні 2024-го почалося справжнє руйнування: стара фанера «тик і падуб» зійшла з підлоги. Здебільшого розшарована, і десь половина гнила. Молодший син дуже допоміг. Підлога камбуза в процесі, а потім і вся підлога, очищена від дерева.
+У жовтні 2024-го почався справжній демонтаж: стара фанера «тик і падуб» пішла з підлоги. Здебільшого вона розшарувалася, а приблизно половина згнила. Молодший син дуже допоміг. Ось підлога камбуза в процесі, а потім уся підлога, очищена від дерева.
 
 ![Підлога салону розібрана, гнила фанера](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2t8fZFtcF7Aeo5CywPPAHJSrVd6Lnpq1VtY8MzmEOIsAavyOcPHLDMY18AWWutZFhAG-1jLlPCzRKFf4RS2FY-WrFWgGTu5Pi9AD73iRvShKd8GW0e9PcHF_QVGUp9FvXwMqNMGgJQJqHpqASsXLiICflpzkaoqwQy2RaP00vc-4rHTHJWcCDhcZW1ZI9/s1600/IMG_9267.HEIC)
 ![Мій син знімає стару підлогу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSC1Yv9jKg_OSPwSf4Zdfm6noQk95iqpGsc2uoba7XXWOvyrWWG0ev9VOb3ahciN2nxrloB7e2pJ6moKrBTEAZvAF7WUtk3vx0Nc0fkCFMR_DJev9FYKfQJVAeGQr2dDePImlq01hPQTzAXZ9agrMvuoRPQHSx6ohruG_-0SyqcjUEPQeNPxjW0DrkZcxy/s1600/IMG_9266.HEIC)
@@ -104,7 +103,7 @@ Diary: [27 Dec 2023](https://irwin34.blogspot.com/2023/12/day-118-122623-fixed-w
 
 Diary: [2 Nov 2024](https://irwin34.blogspot.com/2024/11/day-173-102624-old-cabin-sole-plywood.html)
 
-Спершу гнила фанера пішла з носової каюти. Оригінальна підлога «тик і падуб» виявилася суто декоративною, завтовшки 1/4 дюйма, а то й тонша.
+Першою гнила фанера вийшла з носової каюти. Оригінальна підлога «тик і падуб» виявилася просто декорацією завтовшки 1/4 дюйма, а то й тонше.
 
 Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-oil-change.html)
 
@@ -117,7 +116,7 @@ Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-
 
 Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole-rebuild.html)
 
-У листопаді я вичистив залишки герметика з підлоги і зашліфував гелькоут до свіжої поверхні, позбувшись крапель епоксидки з категорії «ой». Перше коло готове. І вишліфував отвори в підлозі, щоб глянути на зону навколо пілерса, підготувавши її до переклейки. По обіді ми пішли під вітрилами: 10–20 вузлів, гострим курсом 6,1 вузла при вітрі 17 вузлів, крен 23,8°. Так, вітрил забагато.
+У листопаді я відчистив з підлоги рештки герметика й прошліфував гелькоут до свіжої поверхні, позбувшись крапель епоксидки з категорії «ой». Перше коло готове. Ще я вишліфував у підлозі отвори, щоб подивитися на ділянку довкола пілерса, і підготував їх до повторної формовки. Того ж дня по обіді ми пішли під вітрилами: 10–20 вузлів, проти вітру 6,1 вузла при 17 вузлах вітру, крен 23,8°. Так, вітрил забагато. Зате який відпочинок від шліфування.
 
 ![Головний салон без старої підлоги](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQq24h_G6V2_1qBe8_tEbJKdtZDHAV5QldIy-rNIx2tCJuhRaIxPNiOQYF-88pVsSnqzk7ZXnAArPzTB0sTghnNUrO6bdsJ0Kpi96UsA7kGN8282DUUDeOqDczfby6eLYqiHyfQ5DhM_oSjAv_0eKG_fu9LYCnPtTaZe9lvVPQuCFO095iFA2Md1evtu2g/s1600/IMG_9397.HEIC)
 ![Смужка старої підлоги біля камбуза](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQyZtyju4QZHhBJGxms-KEKhH38wVmMsLq3qcURmzMM6pi-3c3KucSsh7sCt2_U1BpY7pmmI_awrlHr9A7QGMl4CQtFbfAqtGOIr6tfki7263pWj-KedKF74SmPGx5B3VARo9TCEI_AP0BQU945mpcCgZ0jPDdKOnw97_g1fgZw8RdyVM4WeBlmYbYvKUI/s1600/IMG_9396.HEIC)
@@ -128,7 +127,7 @@ Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole
 
 Diary: [18 Nov 2024](https://irwin34.blogspot.com/2024/11/day-175-110924-floor-cleanning-floor.html)
 
-Я все ще думав залишити оригінальний гелькоут на підлозі і на вбудованих меблях. За 40 років, з моїми ремонтами і всіма чужими, ця біла підлога добряче зносилася. Але гелькоут досить товстий, тож я вирішив зашліфувати, відполірувати і навощити. Легко сказати: близько 10 годин трьома шліфмашинками і ручними брусками, 120, 240, 320, 400, 600. Після 600 він ще сатиновий, але дуже гладкий. Подекуди він був заслабкий, і я дійшов до скла. Залишив як є. Там, де ляже дерево, пройшовся лише 80-кою, щоб зняти старий клей.
+Я все ще думав зберегти оригінальний гелькоут на підлозі й на вбудованих меблях. За 40 років, з моїми ремонтами й чужими, та біла підлога добряче вивітрилася. Але гелькоут доволі товстий, тож я вирішив шліфувати, полірувати й вощити. Легко сказати: це забрало близько 10 годин з трьома шліфмашинками й ручними брусками, 120, 240, 320, 400, 600. Після 600 вона ще матова, але дуже гладенька. У кількох місцях гелькоут був надто тонким, і я дійшов до склопластику. Так і залишив. Там, де ляже дерево, я шліфував лише 80-кою, щоб зняти старий клей.
 
 ![Підлога, зашліфована до білого, погляд уперед](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgUKHLmtCiBcQKYz0jBsT4OkH1UOuZVBMNU-HALRiLTFfwL2hE7urgFbfVa9F3i-SOHFBKX-A08rLD3608Af048L6su8AwU-w-P07gHdDULJcW80zJXdAGKmsRV7ZI58GJewk7UHFy0lU6HkAG7kQr3sx40Ca2gJb4z1OntO4SfN_HsPDOadPPodZQxnH3/s1600/IMG_9425.HEIC)
 ![Зона лівого дивана із зашліфованим гелькоутом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigfQCPZvebZGVkgbhs1Q9rPK18zVMUID_nB5MU8SgBK_n_st65GaJ9mgHRSS0ySUqVZebZsxVTUlXjo9FK-FUoRKOzhQflvavbrZUJ4NP5gj0PhqErLVsWIHWNSqPwnoZbmPOgYDZvGLXxn_2Wld4QgLitRXS2duHB5Pi6bC73a23C-qLhfn5u8THRVJn0/s1600/IMG_9423.HEIC)
@@ -138,7 +137,7 @@ Diary: [18 Nov 2024](https://irwin34.blogspot.com/2024/11/day-175-110924-floor-c
 
 Diary: [24 Nov 2024](https://irwin34.blogspot.com/2024/11/day-176-111624-floor-cleanning-binacle.html)
 
-Після шліфування я заклеїв склотканиною отвори, що вирізав у підлозі, коли дивився під неї на пілерс.
+Після шліфування я заново заформував отвори, які прорізав у підлозі, щоб подивитися на пілерс.
 
 ![Отвори в підлозі заклеєні склом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY9GDTxwmEXM3gqP28mJRvkX6xrmmBsrjTxHcnrQaKuNCo6OkxMwCjjeaZxk2ZsvQtp7GjC2TaRhLx3AGY4z7Bh9h81ZP8wLK2tSZds9ukPZ8RFcuk8WtId5N6VnLyyVIWKUe-N4F-EH-4a4rqhSZpMlvcb7RdMLsmXKpzfw6CH5pN-E4eCFNBbiNqXF1/s1600/IMG_9429.HEIC)
 
@@ -146,7 +145,7 @@ Diary: [24 Nov 2024](https://irwin34.blogspot.com/2024/11/day-176-111624-floor-c
 
 ## Шаблони, мішки з піском і вінілові дошки
 
-Ми зробили шаблони з коричневого паперу, а з них вирізали дешеву стінову панель МДФ 1/8 дюйма, на пів дюйма більшу. Потім підганяли кожну в човні лобзиком і шліфмашинкою. Легко сказати: 10–15 кіл «приміряв, підрізав, підшліфував, приміряв» для кожної з чотирьох частин.
+Ми зробили шаблони з коричневого паперу, а з них вирізали шматки дешевої стінової панелі з МДФ 1/8 дюйма, на пів дюйма більші. Потім підганяли кожен у човні лобзиком і шліфмашинкою. Знову ж легко сказати: 10–15 кіл «примір, відріж, зашліфуй, примір» на кожен з чотирьох шматків.
 
 ![Підлога з вініловими планками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1UWCIu5BHTvHIGKPdFqAEU10W8yjwfKcdSq3y2bZ6TUy35cCIK0y1psegGuJffZDR0QD_c9hPZ1n25GGVN8wmCEOJFw689ZjVJ9JosjSt2mfAXi3RdugyOF2XPCsSQDWFC_qSd_1h6sUd_ufS5AB91Zt0yqDS9gYLe8SkpYz0fgmLWWuf8kVDB2qqN9Zt/s1600/IMG_9529.HEIC)
 ![Латки на підлозі зашліфовані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPNOX0AzRA5csWD8PpawQYVaWIG23D_niqiIzT-28nFUP4EWwQouYRHFrQlKgh1RHsZMDehwaTA526qeCZmqCosregEehjvVpcYNp1OLaQ0IBzBBqeCHV0YYnHqga0wCaazOs-OTEYyV_pL3GDxkHQM0-ZNT8ES8kUiUqfMECiFmBWFAB8l-WFVEoA8Sj-/s1600/IMG_9462.HEIC)
@@ -155,7 +154,7 @@ Diary: [24 Nov 2024](https://irwin34.blogspot.com/2024/11/day-176-111624-floor-c
 
 Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-120124-cabin-sole.html)
 
-Деякі ділянки гелькоуту просто надто слизькі, тож вони отримали протиковзке покриття KiwiGrip: під столом, похила підлога на камбузі, під штурманським столом, біля шафи в носовій каюті і в душі.
+Деякі гелькоутові ділянки просто надто слизькі, тож вони отримали протиковзке покриття KiwiGrip: під столом, похила підлога в камбузі, під штурманським столом, біля шафки в носовій каюті і в душі.
 
 ![Підлога, заклеєна скотчем під протиковзке покриття](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgycyueZce-jgYKamZcRfvy4j8bvMtzt7h7e_j1lntl8Rm2AW8UKD2Z4XsxlUSHbXBHoebesCABNivcGzDvY_u6C-jLlC_bBiEvuX1CmFNaEC7ZySyrEpBNNhMU27OmrWGS5zlRGMwGc26W0Eq_XgoKbDwXl3OlOzsv_uzTYrs8qkk4clERbrHFCJwZbZmH/s1600/IMG_9464.HEIC)
 ![Зона під столом у салоні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwV9fzJC433Ok9cCLnekLyt_nslk0UU1jBd57-vUuimdwWnJfedZzXDEF6Yo9o83rvwndt1t0LpacRJPlTrpvpC0buL-m7Of-vLLJJZHOm0WPs2Ke-_1KQDKUyWgTeypNX8iX1gvPobE8SMdNeU4J7-e7UKp8-k-cD8bsMeIEZRd-yMmePFOAejodzT9la/s1600/IMG_9467.HEIC)
@@ -166,11 +165,11 @@ Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-1201
 
 Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-120124-cabin-sole.html)
 
-Підлога — жорсткий вініловий ламінат STAINMASTER London Sky Oak Gray, 6 мм завтовшки, рівно як стара «тик і падуб». Рівно дві пачки.
+Підлога — жорсткі вінілові дошки STAINMASTER London Sky Oak Gray завтовшки 6 мм, рівно як стара «тик і падуб». Пішло рівно дві коробки.
 
-Фокус був у тому, щоб тримати дошки одним цілим. Я зібрав підлогу на верстаті, заклеїв верхні шви малярним скотчем, перевернув і заклеїв низ армованою стрічкою. Тоді все тримається на замках, і з цим можна працювати як із цільною дошкою. Кожну частину вирізав лобзиком на чверть дюйма більшою, а потім фрезером точно по шаблону. Три години, і всі чотири частини готові.
+Хитрість була в тому, щоб тримати дошки одним цілим. Я защіпнув підлогу на верстаті, заклеїв верхні шви малярним скотчем, перевернув і заклеїв низ армованою стрічкою. Тоді все тримається разом, і з цим можна поводитися як з цільною дошкою. Кожен шматок я вирізав лобзиком на чверть дюйма більшим, а потім точно відфрезерував по шаблону. Три години, і всі чотири шматки готові.
 
-Потім монтаж: купа малярного скотчу і коричневого паперу, 3M 4200 по краях і між частинами, і мішки з піском. Багато мішків, 16 штук по 50 фунтів. Сусіди на марині мали гарну розвагу, дивлячись, як я тягну мішки з піском по причалу.
+Далі — монтаж: багато малярного скотчу й коричневого паперу, 3M 4200 по краях і між шматками, і мішки з піском. Багато мішків з піском: 16 штук по 50 фунтів. Сусіди в марині мали розвагу, дивлячись, як я тягаю мішки з піском по причалу. Думаю, дехто досі гадає, що я там будував.
 
 ![Мішки з піском притискають вінілові секції підлоги](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1HL8xyenGMDzywANK_j-Y8M8TkBaroC7NhZ7sjar-pgsh4M9S_Rj8G4GeQU9NiL2smFPhm9DN24zY8j-9jy4sZFlLKytzdoYyiJX_N7yZDE0aJN_Mn53aqV2op2FKcZDnkEwPDXiJDXZM3amfyeOsKbtl3JmgVWXL6Uk44yZEw4TsuPQhie0gIWzP3GmH/s1600/IMG_9474.HEIC)
 ![Вінілова підлога в головному салоні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yVLpQytKvxbzmURz84AnLI1lId6CIpnK4zSXdQxGRcoipbDxwmrtRcaK6lyv8c0pGPf9BDtXy-NOJmGgB-lmJWr1D2lJgM1Lvd_Y-SyUHC1ZwLXCxT0N203PzbEqMwejdeZ0SBgL2x4fe_wcCe-XfVwardFw-GngY8lioNfXPf4B1KNF9X4ClqJ_Hio5/s1600/IMG_9532.HEIC)
@@ -186,7 +185,7 @@ Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-1201
 Diary: [1 Dec 2024](https://irwin34.blogspot.com/2024/12/day-178-179-112924-120124-cabin-sole.html)
 Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole-rebuild.html)
 
-7 грудня 2024-го лягли останні шматки. Підлога каюти готова. Офіційно.
+7 грудня 2024-го стали останні шматки. Підлогу в каюті завершено. Офіційно.
 
 ![Головний салон із новою вініловою підлогою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4QUGYMIDtNFRVfvmo1_R_A2xK3OCEym1VTyjkEFDDG80sEIvj5yI-vMVBFT1cNQSu-a5kUos2dIftxO8tLed58l4obX-pyWR7CzTlmq8ZGJZt0t1mRsI6qFkdCqWk-PuuWaD0AMWQE9QrpoZArs34eAzYXm471ljpGsaa6DBrVugFNQAJe1ioAvx5X8U/s1600/IMG_9578.HEIC)
 ![Головний салон із новою підлогою, правий борт](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ur5oopjSW0nQ7zPyv1wyB6R0U31TY5s8vp6LyBl5TlZqhDv5eAS9PDFHQh9jfKesO0mFmZ3qeQdGMXBjgqZpBYivTiDaSdg19zE4Tuq_Bltf70jJQAeacBtFGWw38iHVezMikWVzffcHli0_zeEqivGs8ndKYYVtUQSPtYD2YJTIEREVftMhyphenhyphenCsdtjWU/s1600/IMG_9578.HEIC)
@@ -196,39 +195,39 @@ Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 Story page: [Cabin sole rebuild story](https://irwin34.blogspot.com/p/cabin-sole-rebuild.html)
 
-Тих самих вихідних я зашліфував гелькоут дивана в головному салоні 120, 220, 320, 400, 600, 1200, почистив і навощив. Як новий. Далі в списку: подушки і той самий стіл.
+Тих самих вихідних я прошліфував гелькоут дивана в головному салоні 120, 220, 320, 400, 600 і 1200, потім почистив і навощив. Виглядає як новий. Далі в списку: подушки і той стіл.
 
 Diary: [8 Dec 2024](https://irwin34.blogspot.com/2024/12/day-180-120724-time-to-show-interior.html)
 
-## Шию подушки
+## Шиємо подушки
 
-У лютому 2025-го я знову промаслив стільницю на камбузі і порахував матеріали на подушки: близько 20 ярдів лицьової тканини і 10 підкладки, 7 блискавок загальною довжиною близько 40 футів і 204 фути (68 ярдів) кедера.
+У лютому 2025-го я заново просочив олією стільницю камбуза і порахував матеріали для подушок: близько 20 ярдів лицьової тканини й 10 підкладкової, 7 блискавок разом десь на 40 футів і 204 фути (68 ярдів) канту.
 
 ![Ескіз викрійки подушок із розмірами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLKtNXSAPB1q0418d7l3biP9Y-z_7UTjG3ttykHQP5TTy6x_AeaxbNbPMO0r3QIPNuWQyK_hkH4V83vWBDC7dI0D_38xHLD5VNpQs-8iY6ivNWxuQAlw58EAP7y0y8D52fWnPb8ZAo5krvtMKr6jUqxYe1wjkRxs4TuPhqUpAvCnLkiT6vly3cySh4WXgp/s1600/IMG_0088.PNG)
 ![Таблиця матеріалів і вартості подушок](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXqPcRabPoauLVlzxOx-WU_vPLj4oDNvzynpD_Jun3R2ACTJu_TtHNM7QeWBxRUFsk9MGhmmbTVtZIe8JwdKC7wIHqRv6b48gnKq2U0SWMFsJAk8ktK7D49M9SNQWtu_LNiI26DdscNB59_8n_v8gaet8gPWrJs5gapZi261K1MaIIl0aUdaYQQtX-Wpaf/s1600/counr.png)
 
 Diary: [16 Feb 2025](https://irwin34.blogspot.com/2025/02/day-188-engine-mount-angles-dry-fit-and.html)
 
-У квітні почав. Замовив у Sailrite: 30 ярдів меблевої тканини Outdura Chesterfield Graphite шириною 54 дюйми ($22,95 за ярд), 50 футів блискавки YKK #5 з литими зубцями ($30,90), бігунки, верхні і нижні обмежувачі і поліестерову нитку Tex 90 Cadet Grey з УФ-захистом. Поролон від Foam Factory: цілий лист Lux regular 6 дюймів, 82 на 76 дюймів, $169, на сидіння, і пів листа 3-дюймового, $43,99, на спинки диванів.
+У квітні я почав. Замовив у Sailrite: 30 ярдів оббивної тканини Outdura Chesterfield Graphite шириною 54 дюйми ($22,95 за ярд), 50 футів блискавки YKK №5 з литими зубцями ($30,90), бігунки, верхні й нижні обмежувачі і поліестерову нитку Tex 90 Cadet Grey зі стійкістю до УФ. Поролон — з Foam Factory: цілий лист 6-дюймового Lux regular, 82 на 76 дюймів, за $169, на сидіння, і пів листа 3-дюймового, $43,99, на спинки диванів.
 
-Список: дві майже однакові подушки на носову койку, 4 дюйми, поролон добрий. Велике ліве П-подібне сидіння, 6 дюймів, поролон так собі, думаю міняти. Ліва подушка над столом, 6 дюймів, поролон добрий. Правий диван, що стояв над протікаючим паливним баком, тож його поролон — сміття. Пілотська койка, яка взагалі прийшла без подушки, тож новий поролон і шаблон. І спинки диванів: оригінальний лівий комплект у мене був, але зберігався в сирому гаражі, і поролон уже не врятувати. У трьох із шести моїх подушок поролон був нормальний, без запаху і цвілі, тож вони отримали лише нові чохли.
+Ось перелік. Дві майже однакові 4-дюймові подушки носової койки, з добрим поролоном. Велике ліве П-подібне сидіння, 6 дюймів, з посереднім поролоном, який я думаю замінити. Ліва подушка над столом, 6 дюймів, добрий поролон. Правий диван, що стояв над протічним паливним баком, тож його поролон — сміття. Пілотська койка, що взагалі прийшла без подушки, тож новий поролон і шаблон. І спинки диванів: у мене був оригінальний лівий комплект, але він зберігався в сирому гаражі, і поролон уже не врятувати. У трьох з шести подушок поролон був нормальний, без запаху й цвілі, тож вони просто отримали нові чохли.
 
-Шити подушки я вчився з відео Sailrite, вони дуже допомогли. Подушки носової койки: дуже схожі, але права має заокруглений кут навмисно. Одне фото, але приблизно 8 годин роботи. Ще треба трохи відпарити. Непогано для перших подушок у житті?
+Робити подушки я вчився за відео Sailrite, і це дуже допомогло. Подушки носової койки дуже схожі, але права має навмисно заокруглений кут. Одне фото, а роботи близько 8 годин. Їх ще треба трохи відпарити. Непогано як для перших подушок у моєму житті?
 
 ![Нові подушки носової койки на підлозі вдома](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 ![Нові подушки носової койки, інший ракурс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 
 Diary: [6 Apr 2025](https://irwin34.blogspot.com/2025/04/day-194-stared-remake-cabin-cushions-v.html)
 
-Старі подушки були дуже старі, у плямах і розлазилися. Навесні 2025-го я шив нові вдома, по парі годин майже щодня після обіду. Поролон Lux regular 6 дюймів на пілотську койку і правий диван, тканина і блискавки від Sailrite.
+Старі подушки були дуже старі, у плямах і розлазилися, тож навесні робота тривала вдома, пару годин майже щовечора: 6-дюймовий поролон Lux regular для пілотської койки й правого дивана, тканина й блискавки від Sailrite.
 
-Як різати товстий поролон: електроножем, лінію розмітити з обох боків, і вдвох — один тримає ніж за мотор, другий веде кінчик леза з іншого боку. Усі деталі розкроєні, кедер готовий, три подушки з шести готові.
+Порада, як різати товстий поролон: беріть електричний ніж, розмітьте лінію з обох боків і кличте двох людей — один тримає ніж з боку мотора, другий веде кінчик з протилежного боку. Усі деталі вирізані, кант готовий, три подушки з шести зроблено.
 
 ![Нова подушка дивана](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomdNPTr1__jrjvR1LZk1sqX0no51otyoLjUJfEchXmjCVOrLPBYOlwIQT_RamNWpEp2Yr9hT6Qd3XfRVJFt6jNvXeAtUoJ04yOPRCHG3-W6Md1q_7VSMnf_oNVVLg3kf_bP1lecdeOLSfHCoi0se_yLouVIpKF3L90ANPDAr36VxoRf71fGJLnraV-5YP/s1600/IMG_0603.HEIC)
 
 Diary: [14 May 2025](https://irwin34.blogspot.com/2025/05/day-198-virtually-work-at-home-on.html)
 
-Травень 2025-го: нові подушки готові. Не ідеальні, але для першої оббивки зовсім непогано. Подушки на місці.
+У травні 2025-го нові подушки були готові. Не ідеально, але як для моєї першої оббивки — непогано. Ось вони на місці.
 
 ![Нові подушки носової койки поруч](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9jg8Z2jvdtE3oAGRsan9A1v8iMQt8kX9bp5ylhpFlDodZCE45X9IGW-Q_QloedZFRCaglP6pqoP-kn0LgX60IQryuKFyoK3i30-NgRuwZZ8Q_aay1Z7AnQJ3-1yH9WceEk6t1Td9ao-KHbCWIcooM3Idh4ex8Hp-bfwbVFItg3hOhPO_D1pRSTJxsP8U/s1600/IMG_0670.HEIC)
 ![Нові подушки, розкладені на підлозі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEyKw4AVpJisUprFA0L5AziGXrvOh1CwoQ0iCyRiV2AKkzkxPdREld5scxD9FRUdV8l45C7SBBdYXFMx4YaGYq0iMqZggX_CIhGqoGSdIJ9nW9apaV3rHV9a0MAe4sm6xzqWqPL6ekjlSGz1dgw-j2aVkSUO1sY4BxSgLGfgkasBGi75Gr9JSHIMdS1kvR/s1600/IMG_0671.HEIC)
@@ -241,7 +240,9 @@ Diary: [14 May 2025](https://irwin34.blogspot.com/2025/05/day-198-virtually-work
 Diary: [14 May 2025](https://irwin34.blogspot.com/2025/05/day-198-virtually-work-at-home-on.html)
 Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-happy-sailing.html)
 
-Червень: спинки на правому дивані. Я прибрав бокові частини спинки, що колись спиралися на переборку і шафи камбуза, щоб отримати максимальну корисну довжину, і додам знімні подушки. Лівий бік у процесі. Обідній стіл стоїть, на тристадійній підйомній нозі, тож опускається, щоб зробити ліжко. Керування ногою було зверху, а це означало дірку в стільниці, і нам із дружиною дуже не подобалася ідея потворної пластикової кнопки посеред столу. Тож я його прибрав і зробив керування знизу стільниці: шматок нержавіючого прутка 1/4 дюйма з привареною пластинкою і кілька надрукованих деталей, як в офісному кріслі. Стіл в опущеному положенні. Того вечора ми з друзями стали на якір і відмокали в озері, а потім спокійно походили на заході сонця при 7–10 вузлах, авторульовий кермував, а на носі було весело.
+У червні з'явилися спинки на правому дивані. Я зняв бічні частини спинки, що колись упиралися в переборку й шафки камбуза, щоб отримати максимальну корисну довжину, а туди додам вставні подушки. Лівий бік був у роботі.
+
+Стіл у каюті став на трисекційну підйомну ніжку, тож опускається, щоб зробити ліжко. Керування ніжкою було зверху, тобто дірка в столі, а нам з дружиною дуже не подобалася ідея потворної пластикової кнопки посеред столу. Тож я її прибрав і зробив керування, яке працює з-під стільниці: шматок нержавкого прутка 1/4 дюйма з привареною пластинкою і кілька деталей з 3D-принтера, як в офісному кріслі. Ось стіл в опущеному положенні. Того вечора ми з друзями стали на якір і відмокали в озері, а потім спокійно походили на заході сонця при 7–10 вузлах, з авторульовим за штурвалом і трохи розваг на носі.
 
 ![Головний салон зі столом і подушками правого борту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaUCcZCzKSNfaCBnlsGN4rheaW6t1K1x4uxz_WMUUirwZQrdVJ8SH4s5RXWlQTl-SGfmE628CWkJvw-Z15ai5GJrAS-I4lUMQiD4l-kndRVLw5C6BxfG9STClq5__wAIdnbGSUSGsryTw1L7EpzpiJOHH2rNJJmj7xwc5Qz9lk04Yhbgp500me8rYZvP-_/s1600/IMG_0769.HEIC)
 ![Стіл на підйомній стійці, знизу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHs0TukAbsh9poIlB-pau2hypbBiIz_baCjXF_UjdeHVpDzJ7rTaHwl5nwz5hxENcpVeb0eR5M3TZS-YWieS5KQXMMiYcY0p3p6z79kANmmM2mL3fSOsEHFZ4YOrtRQKk7zVmHUJKGiJ97ZC1Qg3VZD3pEurcXuWJGVoTxGCbaiBhW9iSoPlT1fyzAa-86/s1600/IMG_0770.HEIC)
@@ -251,7 +252,7 @@ Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-h
 
 Diary: [2 Jun 2025](https://irwin34.blogspot.com/2025/06/day-201-new-cushions-continue-cabin.html)
 
-Потім спинки диванів були готові. Тепер виглядає набагато краще. Окреме слово про засувки. Оригінальні були просто фрикційні, тож якщо в рундуку щось важке, воно відчиняє спинку і летить через усю каюту. Не дуже приємно. Я хотів засувки з надійною фіксацією, нічого підходящого не знайшов, тож спроєктував і надрукував власні з PETG. Кожна з трьох деталей (верхня коробка, нижня пластина і язичок) плюс нержавіюча пружина стиску 0,6 x 6 x 30. Близько 40 г пластику, десь $1 за засувку плюс $0,80 на пластик і $0,20 за пружину. У зборі, і пара розрізів, щоб видно було, що всередині.
+Потім були готові спинки диванів, і каюта виглядає значно краще. Окреме слово про засувки. Оригінальні були просто фрикційними защіпками, тож якщо в рундуках лежить щось важке, воно відштовхує сидіння і летить через усю каюту. На воді це недобре. Я хотів засувки з надійною фіксацією і не знайшов нічого, що підійшло б, тож спроєктував і надрукував свої з PETG. Кожна з трьох деталей (верхня коробка, нижня пластина і язичок засувки) плюс нержавка пружина стискання 0,6 x 6 x 30. Близько 40 г пластику: приблизно $1 за засувку, $0,80 пластик плюс $0,20 пружина. Ось вони зібрані, і кілька розрізів, щоб видно було нутрощі.
 
 ![Дивани з новими спинками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeVfm8Vypxf1272gHDG54Tr9g_Gfd8IrA25cMjJmbJ3ZP_HLAgvQ4bq1j4L7faSZ8b4Fytd7nUGvjrZvZkwd6N3dbxIB0K3SNr5TjQZi1DBSA8snZqP6ZYR_a7IwN9HY5XTnrg6evbDM-v73jyVV99RDG6JArfLdElN_enp6zrh8leRGCVrS1PfiPmEz0_/s1600/IMG_0781.HEIC)
 ![Надрукована засувка на кришці рундука дивана](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv-INtmBbXlSt5hdnvcE7iI3ByZhw6OR3oH3wOcBJPrCTk7WX3S4xwiHTlojsx51EcTQrKGVd8WCaaO7IwKt-DZLa6dptrTBkaJ2wG3Ci7gWAB_JPu903f_40IqA3YuXwNl9pR6KmprM8_Le-zPmwpQJN_uXrX1acVsgzCyPrb22dtRznkIy9AfJv1BH0L/s1600/IMG_0783.HEIC)

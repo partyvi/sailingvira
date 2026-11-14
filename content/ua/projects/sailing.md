@@ -6,11 +6,11 @@ order: 2
 description: "Дні під вітрилами, люди, погода і життя довкола човна."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC"
 ---
-Уся ця робота заради одного: піти під вітрилами. Тут дні на воді, люди, що ходили зі мною, і життя довкола човна: причали, що переїжджають, озеро, яке висихає і вертається, шторми і нарешті Галвестонська затока.
+Уся ця робота — заради одного: ходити під вітрилами. Це журнал днів на воді, людей, що були поруч, і життя довкола човна: причали, що переїжджають, озеро, що висихає, а потім повертається, шторми і нарешті Галвестонська затока.
 
 ## Дівчата разом
 
-Грудень 2021-го, день 4. На човні нічого не робили. Ми просто перегнали Sea Sun, мій Hunter 19, з West Beach Marina до Commanders Point Marina, щоб вона стояла поруч з Irwin 34. До речі, ім'я вирішено: Irwin тепер «Віра». Трохи більше двох годин, близько 6–7 миль, 3–5 вузлів, гарний вітер 5–20 вузлів, 10–13 °C і дощ на старті. Дякую Євгену за допомогу. Тепер дівчата разом!
+Грудень 2021-го, день 4. Того дня на човні нічого не робилося. Ми просто перегнали Sea Sun, мій Hunter 19, з West Beach Marina до Commanders Point Marina, щоб вона стояла поруч з Irwin 34. До речі, з ім'ям визначилися: Irwin тепер «Віра». Трохи більше двох годин, приблизно 6–7 миль, на 3–5 вузлах, при гарному вітрі 5–20 вузлів, 10–13 °C, на початку з дощем. Дякую, Юджине, за допомогу. Тепер дівчата разом!
 
 ![Sea Sun, мій Hunter 19, іде до Commanders Point, грудень 2021](https://blogger.googleusercontent.com/img/a/AVvXsEiVEIrCYO0qqbgSf8ZTnQ71l7dj10fek504czu1rGH_R3xLss2Ib32DBO572ZvcYcS4RjKcb4hr_SBTJ5s-9XvpvISlm-rEPKJE2x1AM0NGNcLzeNynAXACgB4goWi2yyDGhSUedu243R5Idp7genv91mjJstLcJ4Sj02asxiukeG1Dlol39RUQeArODg=s1600)
 ![Євген допомагає перегнати Sea Sun](https://blogger.googleusercontent.com/img/a/AVvXsEjD9vof_EglL0dU0o5oD1d-JEfLNSRpg4ISJzWuakO-uV78L0Rx5EN0dzCJYel1-EzdLV2lF24QyNs1fU11KgEPt9DiwxIBx0iJZftJToGbStsoFA3aScgRF2sB43KuNegBc34fwH_wfkS4uKCOIMUODpcO7FctopxYE60ZX3hVVR4So-JuwTJXldLXsw=s1600)
@@ -19,33 +19,32 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P
 
 Diary: [18 Dec 2021](https://irwin34.blogspot.com/2021/12/4-12182021-lake-travis-transfer-sea-sun.html)
 
-Ласкаво просимо на марину.
+Ласкаво просимо до марини.
 
 ![Ласкаво просимо на марину Commanders Point](https://blogger.googleusercontent.com/img/a/AVvXsEiP-u0sQGEZeqcfCOKRelq3_jYksv7yd0CF8Fqy_LnoPaLh7wBhqgV1bGeXtNELQG3eo0CKVrNK-U0eGP5Xd6l0fXJdoXjJzkvXZ3ncOaXVdoW8-DDy2RWrd_Gv48JQvIGm7LvC8ZIUcKod0OqIM8K4RT1zX4tK3SEfnTHRXRzkMImY-_fYBuos34nc8g=s1600)
 
-
-У березні 2022-го нас попросили звільнити друге місце, тож дівчат поставили борт до борту.
+У березні 2022-го мене попросили звільнити друге місце, тож дівчата стали поруч, пришвартовані борт до борту.
 
 ![Sea Sun і «Віра» борт до борту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_D73x2dyLMzQhwlIUuSOseiwz6c9u0iiF01x33zWSfSj_uWYHjpR7ZsUZnqa2b-HQur45uc7nc8v6h_vy58DK5wCKZEPuWTglQu2t5WvHo4qg8nQTsAHbHNgYquq9PcQlAlESK_hOjlS7bPvLcXoSBkzoQFmEUP5J_DyBBi01iep81tM4frTwj6gag/s1600/IMG_2139.HEIC)
 
 Diary: [24 Mar 2022](https://irwin34.blogspot.com/2022/03/day-17-31822-starboard-deck-fairing.html)
 
-Квітень: миття Sea Sun. Мала була така брудна, уся в пилу й пилку. Тепер чиста і готова до плавання. А озеро все мілішає й мілішає.
+У квітні я помив Sea Sun. Мала була така брудна, вся в пилу й пилку. Тепер вона чиста й готова до походу. А озеро все мілішає й мілішає.
 
 ![Sea Sun вимита і готова до плавання](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYA3vBOyu89qGak1Q1V4dicSfSd490meiQ2zsSKBKuJ2n5-wdkxBWWbAU7-ZVDQ3YFXP8-2ttQCowZP3WEhIEVNbziSlek-NDHkWDdyknNH_y6ZA9oG6WQukyrnPnPgbqOk_AR--J-kcJ7jKk8VljnMTTvQzXKSGBk9Lo5qi-NXywxqHz52toATJYhA/s1600/IMG_2520.HEIC)
 ![Sea Sun вимита і готова до плавання](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJIMvW1oaPFDE92VxIo3jsms7-UepHfObl45joFOrCUddW6jZQ0o09qrJzT-LZzLxtgjObSn4a93l8efsGqMpIegXXCOjSDOFwLFn6NvZlNqbcizG3ItdLxmjTy2t3i49riwE47Hk2vlTZgxTlazijzDyxltqmw9L7U75LDmQxbWQH0DG_osO8WdT_Jw/s1600/IMG_2497.HEIC)
 
 Diary: [16 Apr 2022](https://irwin34.blogspot.com/2022/04/day-21-41622-stanchions-10-hours.html)
 
-У червні «Віра» переїхала на місце ближче до входу на причал, тож тепер на борт реально можна потрапити.
+У червні «Віра» переїхала на місце біля причалу ближче до входу, тож тепер на борт справді можна потрапити.
 
 ![«Віра» на новому місці ближче до входу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid4YFrQ5IHG-cf9fPx-0esmt8I_NYcZQm__2pcB6PnS-6M9B2Wp__-kB77_ZV19cDVqacXCBWdBCT4iRSvYRurWp3hd9ZckuXm8Drz3B3xQrbP7h5AbStCMsrOr8hUDPY9XlGGZWIr4X8_Kb2SVQfSosX9rKC6mVkmOuZqIKqt1VRhEqWlnmy6IY3tlA/s1600/IMG_2854.HEIC)
 
 Diary: [19 Jun 2022](https://irwin34.blogspot.com/2022/06/day-32-619-no-fiberglass-today-engine.html)
 
-## Перше справжнє плавання
+## Перший справжній похід
 
-Серпень 2022-го, цілий день з 6 ранку до 7 вечора я сортував, розкладав і пакував кожну деталь, інструмент, епоксидку і фарбу в пластикові лотки, щоб під вітрилами нічого не літало. Ми з Марією пропилососили і вимили майже кожен куток човна. До, до світанку і після.
+Серпень 2022-го: цілий день, з 6 ранку до 7 вечора, на сортування, впорядкування й пакування кожної деталі, інструмента, епоксидки й фарби в пластикові лотки, щоб нічого не літало, коли підемо під вітрилами. Ми з Марією пропилососили й помили майже кожен куточок човна. До, до світанку і після.
 
 ![Деталі й інструменти в лотках перед першим плаванням](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP8PkuIRpoyl8Fx5S-Ghr2qzEU8UhDUr3p1liQGdgUDEFT6orUegWdq0jt5D2K_wAOER74Elg2zhdb-cu5Dp_1XBzmc-okzUor6bbJK0mIlvRCyPfbYbG3311uxWOkEy4MzliS0DJG5CB6zaWp2fn19pwpsYJIxOoqPSz4luwS5NKU0NcuilItNYUYiQ/s1600/IMG_3540.HEIC)
 ![Марина до світанку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisFBipFx8HpZQ3mFJkzf6ELRUwqWzT8zpgp80Bz4-8VMZ4pEjV6CpL1kNDO1fxD-Y6Wy5POtCCskpUupXcHsRgXyoQoMQhaTY4rKMLcxYAdcl0MJEOwKNqMW5kD0pbhy_CRp6vC596pXFo/s1600/IMG_3569.HEIC)
@@ -53,9 +52,9 @@ Diary: [19 Jun 2022](https://irwin34.blogspot.com/2022/06/day-32-619-no-fibergla
 
 Diary: [12 Aug 2022](https://irwin34.blogspot.com/2022/08/day-42-812big-cleaning-prepare-to-get.html)
 
-Потім день плавання з великою командою: я, мій син, мій батько і Євген. Купа задоволення. Здебільшого вчилися цього нового човна. Вітер весь час міняв силу, що трохи дратувало, але деякі галси були справді класні. Я навчився працювати з великим генуей і відносно маленьким гротом. Вона досить легко кренеться десь до 20 градусів, а далі тримає. Ми пробували йти в лавірування з поворотами на 100° — вийшло.
+Потім настав день походу з великим екіпажем: я, мій син, мій батько і Юджин. Купа веселощів. Здебільшого ми вивчали цей новий човен. Вітер раз у раз змінював силу, що трохи дратувало, але деякі галси були справді класні. Я навчився працювати з великою генуєю і відносно маленьким гротом. Вона доволі легко кренюється градусів до 20, а далі тримає крен. Ми пробували йти в лавіровку з поворотами на 100°, і вийшло.
 
-Були й пригоди. Ми провели «навмисні» навчання «людина за бортом»: прибрали вітрила і повернулися на моторі підібрати «потопельника». І вода зайшла через зламану ПВХ-трубу, що йшла від «ланцюгового ящика» до кінгстона зливу кокпіту. Відкритий кінець зламаної труби йшов під воду, коли човен кренився на лівий борт, тож у трюм набралося 5–6 галонів. Дрібниця. Я поставив гумовий шланг на хомутах між кінгстоном і ПВХ-трубою, щоб це не повторилося.
+Не обійшлося без пригод. Ми провели «навмисне» навчання «людина за бортом»: прибрали вітрила й підійшли на моторі, щоб підібрати «потопельника». А ще вода зайшла через зламану ПВХ-трубу, що йшла від «ланцюгового ящика» до кінгстона зливу кокпіту. Відкритий кінець зламаної труби йшов під воду, коли човен кренився на лівий борт, тож у трюм набралося 5–6 галонів. Дрібниця. Я затиснув гумовий шланг між кінгстоном і ПВХ-трубою, щоб таке більше не повторилося.
 
 ![Команда: я, мій син, мій батько і Євген](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmKLznwGVWsY_DaPUU4c5V1bE6ygpFZ3MwR0y6IT_4mXwnFIMQZ7mZosUjfeuOVbvrngx_2srTrpRAkFIz9eH3FE3JuXgLOUCXW1FyBOU-y9wR2S6Hg1qSxBvEr-KdWALr68V-AJ0N0eVIlN3b6EVWNMw-gD_5NJ-48fDJxNOmlKHEepLFq4BnJADeeg/s1600/IMG_3613.HEIC)
 ![Перше справжнє плавання на озері Тревіс, серпень 2022](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKyOvAQaWm321Jv-30mcIggFaP-8BpVdrIZBqIlLhqw-Zp4jgq8xhBKK7x_BhP5sXcv4RDZ9Q1CJm5_2IDqtlhYvu4LNvJMIVyYiCqhKu8j92k_avdhJT2y1ouAwG0vTL3tHZCTD5fU0YK5FvrMkcCSOlKV0llKLG5IX1Q_yfQt1PFEpIlYESzTRHDpw/s1600/IMG_3607.HEIC)
@@ -68,7 +67,7 @@ Diary: [20 Aug 2022](https://irwin34.blogspot.com/2022/08/day-43-820-sailing-day
 
 ## Причали, що переїжджають
 
-Кінець серпня: «Віра» переїхала з ремонтного причалу на кишенькове місце, з якого набагато легше виходити в плавання. Це гарна новина, і, мабуть, уся. Місце лише на фут ширше за її корпус, кути без жодного захисту, і це четвертий причал від озера, тож кожна хвиля від катера гойдає човен. Я витратився на причальні колеса. Щоб поставити 12-дюймові колеса, кріплення довелося робити врівень із причалом, інакше човен не заходив і не виходив. Почав рано, щоб урвати пару годин, поки сонце не піднялося і не почалося справжнє техаське пекло.
+Наприкінці серпня «Віра» перейшла від ремонтного причалу на вузьке місце-«кишеню», звідки значно легше виходити в похід. Це добра новина, і, мабуть, уся. Місце лише на фут ширше за її ширину, кути без жодного захисту, і це четвертий причал від озера, тож кожна хвиля від катера розгойдує човен. Я витратився на причальні колеса. Щоб поставити 12-дюймові колеса, довелося посадити кріплення врівень з причалом; інакше човен не міг би заходити й виходити. Почав рано, щоб устигнути кілька годин, поки сонце не піднялося високо і не почалося справжнє техаське пекло.
 
 ![«Віра» в новому кишеньковому місці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLBYZUVuTYw5Nct_IxhwbRCqk1LuB8vA-sRM1b63H-d3DSkcnA68helIheTD5KkDvyYuvyGFHOCRZWpBD9-iv3cyBvPvP7dPQh8Z0sPgYqYx_jH9MYwgKpWl-k-Dm_ZXa2VN4XOm1opQbDdtoHBDwhLftuH71H9RTDJR4UfThRh8FvphUvHxykxMAppw/s1600/IMG_3639.HEIC)
 ![Ставлю причальні колеса рано-вранці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53MdQlatGIA97RqhBblCxUKgMdxZbsk3KAu89yzfW2AfNRcyi6faMYwspTrJpbww7LZsRN7c8cIB2bWBw4WSd2jOvpq-ew2lyGZz-AUXwZ29mkOViVqcgJD6aenyj2xEbBVdcfWzJyqQ1Qvqmp1h9UfbYVpitQA0hibvfz11imI9-LncElWKHTz-D7A/s1600/IMG_3637.HEIC)
@@ -77,7 +76,7 @@ Diary: [20 Aug 2022](https://irwin34.blogspot.com/2022/08/day-43-820-sailing-day
 
 Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapointment-water-pump.html)
 
-Вересень: знову переїзд, на, сподіваюся, постійне місце, доки вона не буде готова до великої води. Стрілка показує топ моєї щогли, найвищої. А озеро все падає. Сумні човни... минулої зими над цим було понад 6 футів води, і я над ним проходив під вітрилами.
+У вересні вона знову переїхала, на причал, який, я сподівався, стане її постійним, поки вона не буде готова до великої води. Стрілка показує топ моєї щогли, найвищої. А озеро все мілішало. Сумні човни... минулої зими над цим було понад 6 футів води, і я проходив над ним під вітрилами.
 
 ![Нове місце «Віри», стрілка на топі її щогли](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhza7bBRlSvdyJvhpQ8Nk2Hemkcl0KgWJ7Sarkkxgk5VplXZdLXqjJK5RlvQ__m7WPoatCoRhZl5q6gzY4f3EKdJfJBaJxzdYfiAa0WNa6uB2cCw4RpzYY6640z0jP48uvms87-15otuJHmK6DxOGRuQ13qs6TqsedPROZn6NgcCT22PZcJNP2WnBcw_A/s1600/111.png)
 ![Човен на суші в мілкому озері](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg58TOUlXsXJmj9UF6DgXADLyGuAy62Xm7axYrJtNxzCU6Zm8zEli_-o1lK0Mr05BtG1D_F6RjpZ4c7Tg76IROzLsFZWzMSpynWNSc3YRZRB9-hafeGcHJK30DvQZAix_6ujs_bL8hNqLhUEa1aTfiAQ_IfzGLtNfCNiCmci5-rAA72WqcCYtuI116mag/s1600/IMG_3846.HEIC)
@@ -85,7 +84,7 @@ Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapoi
 
 Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
 
-Жовтень: ще одне нове місце, нові качки і ще вужчий прохід, буквально на 10 дюймів ширший за корпус. Довелося придумати щось із кутами причалу, щоб заходити більш-менш безпечно.
+Жовтень: ще одне нове місце, нові качки й іще вужче місце, буквально на 10 дюймів ширше за човен. Довелося щось придумати з кутами причалу, щоб заходити більш-менш безпечно.
 
 ![Качки біля нового причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsaNorDAN_M_0XOcEvjWDTIKP-zCmB2fsDDaFboFj0L8Bl_j3-Npw-FyZQO08Qc6DlEyTIaRLm2naYYCTRV-wGCL8sA8CinxNr4Q-znCSuk5_oebxRjgb1payetHL3vr6Ftl1Df-uX55uRYUNqmV42DIq1pTETk4a8S5gM-TUNw7GJqIlPd4l9Cte5w/s1600/IMG_3921.HEIC)
 ![Захищені кути причалу у вузькому місці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR8_MQMnz4ZzuYFZcR2VCHvAynAd-8cMm1b5YTxMUEIZM-VqnwOHmepmDLENZGNh2z2hjhBO2dEk_uGWOmMiS8EoR5wAwrlZcFA4S5HAcRjBsag2j12q1vQCZhp_r8dR-2A8Chv8zKKzAnaYiTjUzJnDn63GPfI30F0PNL-Jq5E5jIdzODK590KMqRkw/s1600/IMG_3914.HEIC)
@@ -93,7 +92,7 @@ Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring
 
 Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-test-day-water.html)
 
-Плавання на заході сонця. Я і моя кохана дружина Марія, напередодні нашої 24-ї річниці.
+Похід на заході сонця: я і моя кохана дружина Марія, напередодні нашої 24-ї річниці.
 
 ![Виходимо з марини](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLpSRmmfnPAVK1XNj0J0ws80Ghn1yD8k69rPmK9H3DA2hmduCuw7l4M1EXxc9Wb7nXsQRKWQHZmETNPuUM1BWHUm4rWKR3NYieoJNUS3gC7b6e1PZ1QyJV1VbdDQw3L2gW5TPO8UNXOxgsDysNiKZ8uKBsJ7_sP-xzTA1tX-Bl2PUc4KLAnMajtH4tMA/s1600/IMG_4048.HEIC)
 ![Плавання на заході сонця з Марією перед нашою 24-ю річницею](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyd6UlyHxezWj9dBngdBiG3CPwH8YdEhNB1SyYC3QRDO1I178KHGioL1RTmode3vvwqWu7y0LnJDHk6dMTsa3bdc5UWfj4yvwikLCquSY91XaSU9Nh8E42hUWZfi4FmHzkxZsM2DVjfcSOJJf4nFfnr3fSc6f0GmwSWr4RAgF7pFJSiSqldN_nc289ow/s1600/IMG_4052.HEIC)
@@ -101,9 +100,9 @@ Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-te
 
 Diary: [16 Oct 2022](https://irwin34.blogspot.com/2022/10/day-52-1016-day-water-tank-life-lines.html)
 
-## Ліниві плавання і бонусні фото
+## Ліниві походи й бонусні фото
 
-Лютий 2023-го, ліниве плавання. Лише десь 110% генуї, без грота. 15 вузлів із поривами до 20, від бакштагу до галфвінду вгору по річці. Потім стало стабільно 20 із поривами до 28, а «команда» не була готова лавірувати проти вітру, тож назад ми йшли на моторі. Фото на зворотному шляху немає.
+Лютий 2023-го, лінивий похід. Лише близько 110% генуї, без грота. 15 вузлів з поривами до 20, від бакштагу до галфвінду вгору по річці. Потім вітер встановився на 20 з поривами до 28, а «екіпаж» не був готовий лавірувати проти вітру, тож назад ми йшли на моторі. Фото на зворотному шляху немає: ми були зайняті.
 
 ![Ліниве плавання лише під генуєю, лютий 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwjNsK2nQVTjRzmnwIj-1MS49LQFATcBnaV6qbOpVZZy0PRm1klHv3Oqy684LgBNyYpbpovjTmZ8yi4J54sEdxdkMOyMYfsVIfYRyGpxiniVjsBw1WT3iQeZ2N92a_kwGkDUqXF4oqiYKAjA9f-3cfaLhverMuQ3jHa6E8vK7ue3jLBC-WDkOfyfvK-g/s1600/IMG_5309.HEIC)
 ![Ліниве плавання лише під генуєю, лютий 2023](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIO19oZh-byDoS03OjsLboCPqwJ9i2faTfqqSwbD1_AuniMl83kEMpO3YpFPGmA0__ooah9GOEcX408KZJZt_VW6myplucv9q1glCSWE9d1hpxNPVrWvVg08NQHlpUgX65cnki7FVc96l1lr7V8_J7e52_Ftp1RxEx4GHWBqIDUiZUMDgk4ojMsAq7Ug/s1600/IMG_5292.HEIC)
@@ -112,13 +111,13 @@ Diary: [16 Oct 2022](https://irwin34.blogspot.com/2022/10/day-52-1016-day-water-
 
 Diary: [26 Feb 2023](https://irwin34.blogspot.com/2023/02/set-sail-4-hour-walk-away-and-enjoy.html)
 
-Туманний ранок на марині.
+Туманний ранок у марині.
 
 ![Туманний ранок на марині](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpWE7J0htxQ5PHxIwiOWW98nCVw7KEl22s8BnkA1dGU8RNCB3LcTXrOMEVp2xZI0ilWnl5h-xYWf-OPvwCl9FX1RF5C3HtrkjzqiOTzUbPbMb1QBREd3XXKrG9pfR2oVD3JW5s0HhY2hjbCzauhkEsVCD6rK5h5aa2QbEUVVlTLtciKbwRbcfs11ynA/s1600/IMG_5497.HEIC)
 
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 
-Серпень 2023-го: озеро Тревіс усе ще падає. Човен ліворуч, тепер на суші, був на 8 футів під водою, і я маневрував над ним у січні 2022-го. Ще один ніс, що стирчить, з'явився пару місяців тому; тепер він на 3 фути над водою. Причали на пагорбі колись стояли якраз біля урізу води. Рейки підйомника закінчилися.
+Серпень 2023-го: озеро Тревіс досі мілішало. Човен крайній ліворуч, тепер на суші, був на 8 футів під водою, і я маневрував над ним у січні 2022-го. Ще один ніс, що стирчить з води, з'явився кілька місяців тому; тепер він на 3 фути над водою. Причали на пагорбі колись стояли просто біля урізу води. Рейки підйомника закінчуються в повітрі.
 
 ![Старий човен на суші, озеро Тревіс міліє](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHT8u3i66hbZS5F2qAeVHKe_SFrpZOVXlKOngesho20d2t1AqhNjqTlMEF7Ssq1ei778tyoT8M61DOkL93EPsl1dYWLEhWed4tQRyK6CUQPBKjSDKKIRdXW1ymemBSGyurZrvQgCF_78SBqiemstoXfS12-sMj3Be6m61azzUhx6YiZX90vktB1I4fzN5K/s1600/IMG_6198.HEIC)
 ![Рейки підйомника закінчуються над водою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyQXoi0jzIM0wV6UiqvXufFmmHJoSxwFr54ipuKnqyhgEDzCt6HI2NK2EQwnafp2yxo7WZgaMuseYpJyXnnxIJcnNf1-NEpCXSCAGOqCL31e_bMC0fWU4IIsfItzNO69EcMDtfH1g58IjsVRb3O_slnO8cjB-cA7TOYC0UsnTb7TPKAVjmB4UhKtTQFK1r/s1600/IMG_6199.HEIC)
@@ -127,13 +126,13 @@ Diary: [6 Aug 2023](https://irwin34.blogspot.com/2023/08/day-102-8623-interior-w
 
 ## Обмін місцями
 
-Після того як марина розвернула весь причал і транець «Віри» опинився надто близько до берега, власник погодився, щоб я помінявся місцями з човном через прохід. Ми зробили це одного вечора після роботи, гарне тренування. Те, чого я боявся, пройшло ДУЖЕ легко: розвернути «Віру» в крихітному просторі, задом вийти через вузьку воду і обійти до офісного причалу. Я хвилювався через забіг гвинта, але він виявився не таким страшним, як розповідали. Потім треба було перевести сусідський човен на старе місце «Віри», «вигулюючи» його вздовж причалів відпорними гаками. Близько 600 футів, і йти прямо він не хотів. Пару разів нас віднесло задалеко, і повертатися довелося, «виляючи хвостом» пером стерна. Десь година розваг — і обидва човни на нових місцях.
+Після того як марина повернула весь причал і транець «Віри» опинився надто близько до берега, власник погодився, щоб я помінявся місцями з човном через прохід. Ми зробили це одного вечора після роботи. Добре тренування. Те, чого я боявся, пройшло ДУЖЕ легко: розвернути «Віру» на крихітному просторі, вийти заднім ходом через вузьку воду й обійти до причалу біля офісу. Я хвилювався через забіг корми від гвинта, але він виявився не таким страшним, як казали. Потім треба було перевести сусідський човен на старе місце «Віри», «ведучи» його вздовж причалів відпорними гаками. Близько 600 футів, і він не хотів іти прямо. Кілька разів нас зносило надто далеко, і доводилося «вихляти» стерном, щоб повернутися. Десь година розваг — і обидва човни на нових місцях.
 
 ![Обмін місцями з сусідським човном](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKwzjHCTfSm5Bs_4rWCKVdXTpaEo8-DTPC7t1aHwbySTQ-CaSwvsgvGFCvvjybzhr2UdMHMvl8FYRLCERqO1hwWpZnj40qvVuncwNPGOh2JrduwFUVOZKrLpiaqqYuBO0L142z64ciHlsunG1kql4UEt97o2MmT6In1JHMxZAJqoLN39STEVSXiEyH5PKb/s1600/IMG_6768.HEIC)
 
 Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electrical-little.html)
 
-У грудні 2023-го я отримав «подарунок» на день народження: нарешті хоч один офіційний курс, ASA 101 Basic Keelboat. Понад 5 років я ходив під вітрилами щовихідних, але жодного формального навчання чи сертифіката не мав. Два дні навчання й іспитів під вітрилами. Це я.
+У грудні 2023-го я отримав «подарунок» на день народження: нарешті хоч один формальний курс, ASA 101 Basic Keelboat. Понад 5 років ходив під вітрилами щовихідних і жодного разу не мав формального навчання чи сертифіката. Два дні навчання й іспиту під вітрилами. Це я.
 
 ![Курс ASA 101 Basic Keelboat під вітрилами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWEWGoXBM-wlaeOscguQk7yMrIQqPMHjlo3dZ0nhBSId9PqTNkGaEOdpWnyFGaF_TwYnpbDooBzzB6Aeim6EyymH3b9Un-no1R0sbjkeprXQcTFVqoE-siVeuQJdg0XV7XUZqQXuKqtzyMMxILCBV3GgXBqPmnVSezw8HrnC62WsS5Vu2MbAr_d7FJn51M/s1600/IMG_6994.HEIC)
 ![Я на курсі ASA 101](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_4q26-STMaUubURmfa8Z1OPf2J38qY8nxIvt3bzU8hMYRMAHD2ywZ-PhuH07abQdi9Lizj0OYYbrajqbheryF0kbv-IjkPlqqmaerMnSeQ3VCG8kEq7gfJzdbTOo4MZSK0djobWLuL3aj86ix37imuPlz94gXCmTBHe2aQ0DFPN_NpsrWVaczfXpqfkVp/s1600/IMG_6993.HEIC)
@@ -149,9 +148,9 @@ Diary: [4 Dec 2023](https://irwin34.blogspot.com/2023/12/day-116-122-main-cabin-
 
 Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-year-8-hours.html)
 
-## Сам-на-сам і нічне плавання
+## Сам на борту і нічний похід
 
-Січень 2024-го: я долучився до Девіда на його Pearson 35 — чудові 2–3 години під вітрилами при близько 10 вузлах. У неділю спробував вийти на захід сонця, але вітер зник, тож я просто вийшов на моторі, посидів пів години і повернувся. Уперше швартував «Віру» сам. Ні човен, ні причал не постраждали!
+У січні 2024-го я приєднався до Девіда на його Pearson 35 на чудові 2–3 години походу при вітрі близько 10 вузлів. У неділю я спробував вийти на захід сонця, але вітер зник, тож я просто вийшов на моторі, посидів пів години й повернувся. Це вперше я швартував «Віру» сам. Ні човен, ні причал не постраждали!
 
 ![Під вітрилами з Девідом на його Pearson 35](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Fd8VHwBRIYc0_gm7K-PfJsWmQJt9z-eSMgSW83bbYMMUoLoVVtnsvHuOeFEf45jAPef67EIK2TMgOf2F0LkSCC2NeZd29ILWbkbBAp-495bOTMPMzYbl5aP6HVSdmRfhzVcpebaJKlH_WRMfVRr_QIbTrHvwaK6CKf2IKPDy5Nv0s5qjz1VTzoFJ1UKn/s1600/IMG_7348.HEIC)
 ![Моторна прогулянка на заході сонця, вітру немає](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLaw14QsEhuuPXqQ6T0ImGAGgvEtyYqy3BrEZCwkmLgfrgMnc7E1B4lx_AbKsucD5ttdWxi4T9CghhSSc5EN_VGm1LZzgUXXiQChWAeDF4fn4zr1skRzRKpV6nXhYcBg54vCd4fJyxo_6Q9AafblmXVrAPZsKGkiSosdTiZcv0D7z3gLcNVIJKxWgU6A7U/s1600/IMG_7362.HEIC)
@@ -159,9 +158,9 @@ Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-
 
 Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-12823-batteries.html)
 
-Лютий: ранок пішов на прибирання, щоб на підлозі було менше безладу. Головна робота — розібрати дроти в кермовій тумбі і підключити ехолот і лаг до комп'ютера OpenPlotter, щоб більше не стояти на колінах на підлозі, читаючи їх. Попередній власник поставив прилад на тумбі так низько, що користі з нього майже не було. Тепер моя приладова панель.
+Лютий: ранок пішов на прибирання, щоб на підлозі було менше безладу. Головна робота — розібрати дроти в колонці штурвала й під'єднати ехолот і лаг до комп'ютера OpenPlotter, щоб більше не стояти навколішки на підлозі, аби їх прочитати. Попередній власник поставив прилад так низько на колонці, що від нього майже не було користі. Ось моя панель тепер.
 
-По обіді — гарне плавання при стабільних 10 вузлах із півдня. 15,2 милі за 4 години, у середньому 3,2 вузла, максимум 6,5. Моя корпусна швидкість 7,0 вузла, тож досить близько, враховуючи, що днище востаннє чистили у вересні. Гостро до вітру вона ходить непогано. Один із галсів у бейдевінд, 6,35 вузла в галфвінд (максимум був вищий), трохи відпочинку і повернення вночі, усе ще під вітрилами. Вітер упав до 5–6 вузлів, але не зник, і повний місяць дуже допоміг.
+Після обіду — гарний похід при стабільних 10 вузлах з півдня. 15,2 милі за 4 години, у середньому 3,2 вузла, максимум 6,5. Моя корпусна швидкість — 7,0 вузла, тож доволі близько, зважаючи на те, що дно востаннє чистили у вересні. Гостро до вітру вона ходить доволі добре. Ось один з галсів у бейдевінд, 6,35 вузла в галфвінд (максимум був вищий), трохи відпочинку і повернення додому вночі, досі під вітрилами. Вітер упав до 5–6 вузлів, але не зник, а повний місяць дуже допоміг.
 
 ![Приладова панель із глибиною і лагом на OpenPlotter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcagCVHXhNRwU_88SxDs-3GyTKaJGVj3P7rthEIxeBbGvWJKIa2Hx4VhEfRiQTY7OXw8ExwOOuU-jz2pcerD-bjJQpsuCNQk-t8sPx4H32i-b6KbxVkjIsZVc5ZLwGlj89Pd0BwW2AqknuMaIVmpcm8nVVUA-N2wXfX37C6XvGfj1TWJF3xBIZ8SPtsj5D/s1600/IMG_7587.HEIC)
 ![Приладова панель із глибиною і лагом на OpenPlotter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDz0TnYk2y21Y7gAcoqjAJ72kLwi06mbpw39_TrbGfYzopyMAeuG8jpIYi4slDm771mo1WrqsIv59C4PDMgbeU7P1jpmtSRk5BCtQyZHmLfOlYDN9djOijxu2I3NWZtiqR78vxawoN2QmiD9kyu8H2AWol6-7anUgPE8awFIQmgsoH7Ow5GKIEeijZd9qO/s1600/IMG_7623.HEIC)
@@ -173,12 +172,11 @@ Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-
 ![Нічне плавання на озері Тревіс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOd2pimT0wDYoszxwniEjHPx19ayruh1w_k77mf5Jb_fjRrEIrEknMOKpnTToiUJMX63hRpVVBygHZJ0mIkTvtuJ8tSVW3dHh6wUK4BMhKwBNHQnKYfZB_OfB45hCE82Sta5i8vYwmQKjQX2zI-_bdv2N9kVz63fg49_c_zCQw7PkFdujnH6nhe2LPizqx/s1600/IMG_7619.HEIC)
 ![Інструменти і сміття, зібрані після роботи з люками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk00m4nsg00WSO6l5SwgYgv1AB_c81fFVH0NSja8sBk9DFjLKEGuSzeRmb9dCm7xzxCUIYoWEBEPEVRgjwIkFwXXW_hB28-pEKnDnGI7RmaJAVk1vxkkuCaACIG96Iy14trXr__ZH_XVkLCK-9wxD-i5lYlPUT-LRDtKJdbMKd61XRifasjoI5pfWooI60/s1600/IMG_7612.HEIC)
 
-
 Diary: [27 May 2024](https://irwin34.blogspot.com/2024/05/day-147-149-52524-27-prep-for-no-skid.html)
 
-## Порив 76 миль на годину
+## Порив на 76 миль/год
 
-Наступного ранку на марині кілька хвилин дули пориви до 76 миль на годину. Причали протягло добрих 50 футів і притиснуло до стінки бухти. На щастя, човнів на них не було. Пішохідний місток погнуло. Між причалами і камінням не лишилося води. Моя «фарбувальна камера» знищена. Причал перекрутило на 30 градусів. І кілька бонусних фото.
+Наступного ранку в марині кілька хвилин дули пориви до 76 миль на годину. Причали протягло добрих 50 футів і притиснуло до стінки бухти. На щастя, човнів на них не було. Пішохідний місток погнувся. Між причалами й камінням не лишилося води. Мою «малярну камеру» зруйновано, а один причал перекрутило на 30 градусів. І ще кілька бонусних фото.
 
 ![Причали, протягнуті на 50 футів поривом 76 миль на годину](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwxTYG0Lz4K_Kn9bb1x5LgkU1Qj1wdo3wlQ90zlYiSmcOmSGTqco2M_8SAaU1eOwIM6-X2VMWoMHczOLXX9BI4shC4ekIdw-SjicefaJfM3IzcuGcXEXJ5oQ8PtvJK_leOt5-55XrxlYNHfOH9JfawoJM1R7FcRG_3EYTIXvra8Ca9PFRjtgT0MhBe0Iyd/s1600/IMG_8240.PNG)
 ![Погнутий пішохідний місток після шторму](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-vTF8Y_y5wqPlXcrd4xGqoSk-N5n6Vm_Mleael4IlbaXcvLZn5eYDNj_Flp8JGFxRjLjdvO8OZ26_5yzr6h80I-Sf9l6ADDUgWXhFEsbrKW-_4eKAHZRVV9YqIMM-fcz3vHxTulCSLdQFPRz-eZrbp8jsqER0plY2lKZ07Bn-VogBOoyRyrXf-Bg3tle2/s1600/IMG_8239.HEIC)
@@ -192,7 +190,7 @@ Diary: [28 May 2024](https://irwin34.blogspot.com/2024/05/small-wind-puff-on-mat
 
 ## Літо на озері
 
-4 липня 2024-го: шість годин під вітрилами.
+4 липня 2024-го: шість годин під вітрилами. Гарний спосіб відсвяткувати.
 
 ![Шість годин під вітрилами 4 липня 2024](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimBx0EfcHir1klx0obmfRMdHWtHgpKVSjgae3nVAkUJ5cSp5szOJRr_0j7MwTGrC0-nI0dTFz1IjHbyR0mokiPxkbVhbSsNeBhLHJ2amxG6F0scxBXGBICXGCa8zvw81MudaPcXAHBGVQFCQEonxgXkuDoySRTDm6Pg2TigB_etTnLl9xW46Tjw5ctmnKc/s1600/IMG_8476.HEIC)
 ![Шість годин під вітрилами 4 липня 2024](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb7LJjnLL_WMHXluXxujYy-MWa1ybfkgiRyFpwtzQAlX-sxiybuznRAvOo7wrwGqg3z-sfuPdljL_2mu6xWq5zrJI-Td2OuozFLFe0jOSLpC-NCU9whFBtaJit6uYNbYpHzFmOLkK0bp09n1Xqw3WmdmZNBhrFp5BuS3yxYg8PpwAfRS9qze_Ccj5IHt3-/s1600/IMG_8474.HEIC)
@@ -202,14 +200,14 @@ Diary: [28 May 2024](https://irwin34.blogspot.com/2024/05/small-wind-puff-on-mat
 
 Diary: [4 Jul 2024](https://irwin34.blogspot.com/2024/07/day-156-7424-sailing-6-hours.html)
 
-ВікВік, мій молодший син, за штурвалом. Стандартне фото. 11,6 милі за 3 години, 10–18 вузлів, з рифами. Дуже гарне плавання, крен менше 15°, тримали 3–5 вузлів.
+ВікВік, мій молодший син, за штурвалом. Стандартне фото. 11,6 милі за 3 години, 10–18 вузлів, з рифами. Доволі гарний похід: крен менше 15°, тримали 3–5 вузлів.
 
 ![ВікВік, мій молодший син, за штурвалом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaz1Gmcwp4Ohnj9_HawtI5pHtNdv7-tyd5VtVxCo5sLGydg8FSk2sFImeJXczflmJwnBYEePWIsN0A4MvVrDtBLqDhc3JQIPvbkw2ukLMA2ehWGdTPeQtGEMy3hbVUj-v6ITbEICyZc736wt7DPLBmwN9eV6WwKNZO-U94_19DwnD6HkgOmwo4IwcLYB8D/s1600/IMG_8647.HEIC)
 ![«Віра» під зарифленими вітрилами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDNVRX5cnGcFJsIj4ylRBLH7mw_7_PtoM9xJwBMGyOSJ0WL2sZzJDHdTROW4Jyfflb8TkI1aLihyphenhyphen0Q5MxuH58raArGZ4j5Si_WZ7TkxVTv2oMu1dZaeRpaW3m3Cwv2cjo2rQrwGm6sjTXd1dczrScrpvzAAzpTvfBJvJP-wfyUHYgvkmrfwQiRlVupS7y/s1600/IMG_8646.HEIC)
 
 Diary: [27 Jul 2024](https://irwin34.blogspot.com/2024/07/day-160-72724-fuel-tank-part-2-desision.html)
 
-Грудень: гарний спокійний вечір із друзями. 5–10 вузлів, без несподіваних поривів, до 4,5 вузла десь половину часу. Готові до виходу. Це я.
+Грудень: гарний, спокійний день з друзями. 5–10 вузлів, без несподіваних поривів, до 4,5 вузла десь половину часу. Готові вирушати. Це я.
 
 ![Спокійне плавання з друзями після обіду](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq1YCmlN3fTD-ZLxrIsf9Y64p90j94Qqbxu68P8ow_NBQjvnNKpKaH6ptDSpX3f0QPMPT5_Cg7Sx50drvBIkWs0UDY_VXCigLRIXuSAG5PqU0zsg2AyksGnG9gTCsVGRxq_4CUKxSU7ZAF54nWqFdDQ9XMD0GkkycxiJw5sy4_8A7VtuGrH-pM1y-b3fZK/s1600/IMG_9593.HEIC)
 ![Спокійне плавання з друзями після обіду](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIOn9WHpgiSscRQLdkS2rlQN5mj2-KKJeUXRb3oCVHE33xO1mINNyxfXDxxY22neZFPhBqZd282nMTVw0In-qcU24JehXl09OE5i5HhWx0IDWrDRqFgYk-uaJZ9TCD7F1OjEf8q3xRCwN_hTRp6CLzf_WUpXZdI-Ohxb_xcK414qlFyq_7OV-Ay8NBt0ob/s1600/IMG_9604.HEIC)
@@ -219,13 +217,13 @@ Diary: [27 Jul 2024](https://irwin34.blogspot.com/2024/07/day-160-72724-fuel-tan
 
 Diary: [15 Dec 2024](https://irwin34.blogspot.com/2024/12/day-181-121424-sail-out-with-friends.html)
 
-Квітень 2025-го, кілька фото для довідки: штурманський стіл із рівнемірами води й пального, додаткова панель вимикачів і захищений 21-дюймовий дисплей. Електроніка за дисплеєм, який відкидається вниз для доступу.
+Квітень 2025-го, кілька фото для довідки: штурманський стіл з покажчиками води й пального, допоміжна панель вимикачів і захищений 21-дюймовий дисплей. Електроніка — за дисплеєм, який відкидається вниз для доступу.
 
 ![Штурманське місце з приладами, панеллю вимикачів і 21-дюймовим дисплеєм](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7xYoKfjrgEkoY5rRo5DjTCy3GTOCimDxHTPBv_CHtdj6_hHiJipJi3fXAReboC022WY5cyy2N0KucpMBQJcZ3G3AzpHbznXb9pEGndYP_gdzRJlP9ECJCbyLA4rDDg3r_RT_fTe7enOlUJufEO5Jok0ACzopdmWAx9tWDPcUUBZiGrHElnkTAmQjg95Ei/s1600/IMG_7174.HEIC)
 
 Diary: [14 Apr 2025](https://irwin34.blogspot.com/2025/04/day-195-navigation-electronics-final.html)
 
-Травень 2025-го, щасливий день під вітрилами. 15–25 вузлів, трохи забагато, але купа задоволення. Понад 40 поворотів за 5 годин, 21 миля на лагу (у середньому 4 вузли), а максимум, який я бачив, 7 вузлів. Буквально корпусна швидкість.
+Травень 2025-го, щасливий день під вітрилами. 15–25 вузлів, трохи забагато, але дуже весело. Понад 40 поворотів за 5 годин, 21 миля на лагу (у середньому 4 вузли), а максимум, який я бачив, — 7 вузлів. Буквально на корпусній швидкості.
 
 ![Щасливий день під вітрилами при 15–25 вузлах, травень 2025](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9yOavNysd8IfPOps3V4LsP_o35m5Z1eFqgTYbP38pmMaEuJnvnnBrE3G4xLDJLeD_9TuyZVnOgCckBQn-TvQdLDah_A_M62vIfgDqHhWCCjc1el4Zq20DGulpkarAYv1YxKllLO_1VUE3qt2TykBJZXigZx0LDV-Kgo7_VCRi926k-HLFLE7V0fepSFn/s1600/IMG_0724.HEIC)
 ![Щасливий день під вітрилами при 15–25 вузлах, травень 2025](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUMZoygnOeaBudylI5yA-Hj6pNtZzF7AqCziEonUiQqOrQbYTqqZhVJUj4TKdln6DX1G5EvWYPB1bovtDg3aA-4lA8OxsKTb19XTc6LHqZmqAGiq2S-2rZHn2ix07BeDvYSazqSWDrRLGsZbpMnaF4AC0gUzppYosFJ-jlmEY5tppMJ5Rv5X6OiHn6x5w/s1600/IMG_0714.HEIC)
@@ -234,11 +232,11 @@ Diary: [14 Apr 2025](https://irwin34.blogspot.com/2025/04/day-195-navigation-ele
 
 Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-happy-sailing.html)
 
-Червень: я довго воював зі зв'язкою 4G-точка доступу плюс Wi-Fi-клієнт плюс роутер, щоб дістатися до свого комп'ютера OpenPlotter віддалено. Потім знайшов досить дешевий 4G/Wi-Fi/Ethernet-роутер у вуличному корпусі IP67, з PoE, тож без окремого кабелю живлення. Один пристрій замість трьох, і його можна повісити на щоглу. Поки що він чудово працює навіть у каюті, біля ілюмінатора: до 8 Мб/с там, де телефон ледве тягне дзвінки. І пару годин плавання по обіді.
+У червні я воював з 4G Wi-Fi-хотспотом плюс Wi-Fi-клієнтом плюс роутером, щоб мати віддалений доступ до комп'ютера OpenPlotter. Потім знайшов доволі дешевий 4G/Wi-Fi/Ethernet-роутер у вуличному корпусі IP67, з PoE, тож без окремого кабелю живлення. Один пристрій замість трьох, і його можна поставити на щоглу. Поки що він чудово працює навіть у каюті, біля ілюмінатора: до 8 Мбіт/с у місці, де телефон ледве ловить дзвінки. І кілька годин походу після обіду.
 
 Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
 
-Липень: озеро Тревіс повернуло воду, 20 футів за 24 години. Води в нас багато! Трохи розваг під вітрилами в суботу, близько 4 годин. Ми пішли вгору за течією, і десь після 1,5 години гарного плавання нас зупинила поліція і ВВІЧЛИВО попросила повертатися на марину. Потім ми дізналися, що озеро закрили для прогулянкових човнів через усе плавуче сміття, а пошукова операція ще тривала.
+У липні до озера Тревіс повернулася вода: 20 футів за 24 години. Води в нас багато! У суботу ми гарно походили під вітрилами, близько 4 годин. Пішли вгору за течією, і десь через 1,5 години гарного ходу нас зупинила поліція й ВВІЧЛИВО попросила повернутися в марину. Потім ми дізналися, що озеро закрили для прогулянкових човнів через усе сміття, що плавало, і що пошукова операція ще триває.
 
 ![Озеро Тревіс знову повне, липень 2025](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Vlfe39tZfG2j834OmeT_2nrCq3p7VMQ-FtqovFsjqdUVrBSoSZ6QcbMxljAf4fFCReP3b8F_PuI0v8RRYFu1TlHPISjyWW1f740jNgjWYKmUcqGKNF1Hd8veuleeRhRiCTsstgAtXJDO2BKtWG5gLUIODEZ3o1YMmfw7tGHgtwda3lNly_ViF5sas-g4/s1600/IMG_0992.HEIC)
 ![Озеро Тревіс знову повне, липень 2025](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J-cOcbTqP4yhyphenhyphenk50aDzEgZuXbZw3KcaJtbJLGXxiWTK5YEkg5vvERsfW7T5A5yg2yTmvqGOAwIDz7q8B53410zAEXhf7_TETzPJxI3odB9qwjPQ0I08ostCAxuRIiyqTecgmQfiTjhyphenhyphenPpYDmsF8uEe3dyboCHOciQBYYpi2NANhwOfRcYnXoGyzlrsoM/s1600/Travis.png)
@@ -251,10 +249,9 @@ Diary: [12 Jul 2025](https://irwin34.blogspot.com/2025/07/day-207-water-came-bac
 ![«Віра» біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1o-CGKt5mAhYc8Jsb5cpWgymuNBaszjarJOw2WfmWWR7ss9WzlcuklUY929IP8wl_X5bgka2ORkT4gj3m7DhYKiFJKeqsLZdKoUwKOKKngWFusMVDgy1k9RlDqSDr5ZYgWDmIH2gNb_fVBq2W7ZxgfMj9DjutnjPxMgn8CCHyah75uoZW3JSTyPqr7LLn/s1600/IMG_1046.HEIC)
 ![«Віра» біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOkaFJo7PZQrK9w2mZIBtyTv7WLPvwF-9wF7GZ403T2Pvu4gS_f-0e3ovy0JYn3QkEieFSHYAQpvzt2sFBL5LAwH_6gRuOB2BhjBcrNfBs_8oP3G7XrA_ArUckEdVELp0xTx0lNdsKQrH3ucjVjNx8JaenmXzGcqFFmcnigupx5H7YGEwRTE6a4ocYEk0v/s1600/IMG_1044.HEIC)
 
-
 Diary: [23 Aug 2025](https://irwin34.blogspot.com/2025/08/no-work-on-boat-this-week.html)
 
-Вересень: гарний день, близько 6 годин круїзу озером Тревіс при майже стабільних 10–15 вузлах із парою поривів до 20. 21 миля на лагу (трек, на жаль, загубився) і щонайменше 40–50 поворотів. Ходити під вітрилами озером «річкового типу» — трохи спорт. На борту мій молодший син і друг. І новини марини: вони перевезли причал із 20 човнами за раз. Тетріс для дорослих.
+Вересень: гарний день, близько 6 годин походу по озеру Тревіс при майже стабільних 10–15 вузлах і кількох поривах на 20. 21 миля на лагу (на жаль, трек загубився) і щонайменше 40–50 поворотів. Ходити по озеру «річкового типу» — трохи спортивно. На борту були мій молодший син і його друг. І новини марини: вони переставили причал з 20 човнами на ньому за один раз. Тетріс для дорослих.
 
 ![Шість годин круїзу озером Тревіс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLf7-1Iev7OJ0827OkmHlh5D8AgMDQ_EQyL_NPYG3Vj6cJZHB0ruFe9kKyd648gyOy0oKWvMqtNRg_y2ZwVd4eUiPnrtwH0tSURB2qmm55seFbudWHtMnxubrF9oH_8ErURM-kXPR3-p12ZF6I7OrIom-s1Uy_QVqH5tTTEhAcDfQ9AUa9UMTxsvG0INts/s1600/IMG_1284.HEIC)
 ![Мій молодший син і друг на борту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiatrckOT1bMB5D4CKLpFWSbQ9j3ZGsYP1uJSjbU4KMctDQPKKNMySwlD3kzFYLlI6P8MPQXNiw9z3tSflTEZO-gy4u7CixD0DNvl1hLi1aF7ksG7yTTTMVIMJZrECU0qVUVn-XKFizvtkzz2DqmroqEoEYACYrwfXnbI11m6I1GL0xNc8-OXTv00mu48HO/s1600/IMG_1273.HEIC)
@@ -262,7 +259,7 @@ Diary: [23 Aug 2025](https://irwin34.blogspot.com/2025/08/no-work-on-boat-this-w
 
 Diary: [14 Sep 2025](https://irwin34.blogspot.com/2025/09/day-224-nice-sailing-6-hours-of-staddy.html)
 
-Останнє цьогорічне плавання з друзями, одне з найкращих. Гарний рівний вітер, 4–5 вузлів, крен ніколи не більше 15°. Усе ідеально. Потім три тижні поза містом, а потім — утеча з озера.
+Останній похід року з друзями був одним з найкращих. Гарний рівний вітер, 4–5 вузлів ходу, крен ніколи не більше 15°. Усе ідеально. Потім три тижні поза містом, а потім — втеча з в'язниці.
 
 ![Останнє плавання року з друзями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjbhZRDXhW3G91n7QhQhZa3bDS_2-IUyhyphenhyphenEkFBhk8O6Cv9KT4phKdqyp5108kuReTVtEFiBnL7IApbC46X0h8d7jKcA2Ss3n30aoV0woh8e3PrvQyAmQi0cNtm-_yjkQmkenJJI132mbVta4L7YmAZ2GC3fABQ3KW8OidBuZUY_e85H2zFKjj_M-bPWZ5/s1600/IMG_1353.HEIC)
 ![Останнє плавання року з друзями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfEE7eY2r0XENxnqHpG3ScWYTVlzmmxYzGoE8aihzBAMs2Z2gmmHq7dUubr7YJIVfayB1B6lft7A0-rrh37SmzSVUpIy1C7SMTHXk9waxN_-UeI1qN1jMBFXTdZh5LIQxraYiu4KDgF5HYigYKx2shNeRhDZzqL-AHNxdMs4qDESeNx-bQuFT8dEWgm2o/s1600/1111.jpg)
@@ -271,7 +268,7 @@ Diary: [14 Sep 2025](https://irwin34.blogspot.com/2025/09/day-224-nice-sailing-6
 
 Diary: [29 Sep 2025](https://irwin34.blogspot.com/2025/09/day-226-nice-sailing-with-friends-last.html)
 
-Дерев'яні «кози», щоб тримати щоглу під час перевезення. І трохи моторної прогулянки на озеро і назад.
+Дерев'яні козли, щоб тримати щоглу під час перевезення. І трохи на моторі до озера й назад, востаннє на озері Тревіс.
 
 ![Дерев'яні «кози» для щогли на час перевезення](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrf0RZ2W-MkHRNTLYnc51J5v7mUCBWifwR-ow4TpxEx564y9wqckt-M7-lg6BKjqdVb0xqWUFfiYxKSLQBStxXZMIVmLGmpkoQ6n28rMlf0GFHq3UhINRzAcQS4x9aCKD-HAIJl8CWaDOVkgcpiP30jQB8IcNQDslWAGuJgY5yzvfUM9xrj4LOxdIN5hXh/s1600/IMG_2755.HEIC)
 ![Моторна прогулянка на озеро і назад](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwEQnwMyFBi1XpPMowo5smkDbPvqUQAALQSTSk46kGLaxOVSMNSVcZH3XKwgSIayJpiMg-9nncc-zP-30THvgrpZYmc6wmUqKioWQeZ4r4QY_vSNRjsDXlN05GZwXOoyf7HpRyn2KHsk7LBPasTqphKoMGoBg4mYUR7dHSkVBTWiG8lA2SnNWBrm5VonsC/s1600/IMG_2759.HEIC)
@@ -287,11 +284,9 @@ Diary: [1 Nov 2025](https://irwin34.blogspot.com/2025/11/no-work-on-last-weekend
 ![Дощовий вечір, перша ніч на борту «Віри»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1v0vMpkVP5A6LUfAu0G2Sfaiv9YOo5hS0T8Y9frzWC8sXoaO_7YzCrNpVOLK-DSpI5Q8yCG-OAWjWP8TyotEdQM3pktIKk7Z45S_4Y6CK_PvNmKxu6cW9xYowr7qHPE2BZjcR4Nh3kZEOZoRIRZMr-kCl7v1DCAZywvhU6kx8eVGCtBCv7gMip5bKhPRD/s1600/IMG_0900.HEIC)
 ![Kemah Boardwalk Marina після дощу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig_BlA0kBg-AkXPeNiiVOWzeROH-zSnPRUThXbHEgxIEcMuQVv6-WGpLLpqNlI7ybU3W8VT4io2el6Qh_ZFOhKwoG-odCGSIEdkkkY_CSuOckcz9-9KmVjuumU3qTpDL33PLAiNL87mE2HnujfvVRPkgProHdp8gaz5ySBG_5TkpH_0dZvoPVakzKAFzTK/s1600/IMG_0901.HEIC)
 
-
-
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
-А потім — перший вихід під вітрилами в Галвестонській затоці. Найперший. Близько 5 годин, 15 вузлів, хвиля-товкучка, але справжня радість після всієї тієї роботи. Виходимо з Кеми, смак свободи, я і мій син. Авторульовий після всього перезбирання не працював. Біля причалу ми з'ясували, що шпонка випала з пазу баллера, тож румпель-сектор просто крутився на баллері замість того, щоб кермувати човном. Тож Віктор майже весь час стояв за штурвалом сам. І ми повернулися, цілі, до причалу.
+А потім перший вихід під вітрилами в Галвестонській затоці. Найперший. Близько 5 годин, 15 вузлів, хвиляста вода, але після всієї тієї роботи — справжня радість. Виходимо з Кеми, смак свободи, я і мій син. Після всього перезбирання авторульовий не працював. Біля причалу ми з'ясували, що шпонка випала з паза баллера стерна, тож важіль просто крутився на баллері, а не кермував човном. Тож Віктор майже весь час стернував руками. І ми повернулися до причалу цілими.
 
 ![Смак свободи: перше плавання в Галвестонській затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHFWuZm8sMyxMATTAaOnpuWUaW6K2nkKkI9Ri7K7h0DmuBZRNXArpVvlr5JK09Z9LX_2Il3XRHq-1vsFjKs-y_ZB1JcKQBrKHbUozIy1QoAOtbGDWVzQ7NlCJ3mFqXSCyvxcS0iHVL0eugYmlp3fxrvKbKOotsURCIu9mIRgqliEaXBOKx4M_Ar3aEgAXC/s1600/IMG_0988.HEIC)
 ![Смак свободи: перше плавання в Галвестонській затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivUIOhZsuBw1p6Hpd4Mdbw1unRiaqLN6ckXiHHNYS3PH4u_vRcJBNdIxFxfLc5vmfYlRM99lwnTXraH26L_kYb7rB0tN_4TCH2hCyLxAe5lTx2E9AO6nhoCDK_Bbk3LP7pSaelkVdQCEJYM4v9ontKaDBT_vdcfqFFlc9_VLqzJSBdrnkJ1Z7R3T3iPL4c/s1600/IMG_0994.HEIC)
@@ -301,7 +296,7 @@ Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-
 
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
-Ми були не самі. Того дня вийшла купа вітрильників. Ця іграшка йшла ДУЖЕ швидко; я б сказав, легко 10 вузлів.
+Ми були не самі. Того дня вийшло багато вітрильників. Ця іграшка йшла ДУЖЕ швидко; я б сказав, легко 10 вузлів.
 
 ![Вітрильники в Галвестонській затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzGjp8YHTYBMGz0l0ipPIkMZQYwo_bY7Lz_2L-dY_fJkz_fsd2HF4BWGnFVzAHYnRuupfqwD2B2Bt75Tj7h0kzD9fWYPe7NO43qV87fS8nXoo7F4JClsKpL7Watp1eaX_nJqMFdxL_KBiD5YC1U32Lp3doPvf4tgYVA56lz7DACuR5WMUcuQgzucoYtpu/s1600/IMG_1026.HEIC)
 ![Вітрильники в Галвестонській затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUrf62jnvNUSAsEEGhqFkssgsZK_73g-SRtcvXuHBvj419yHToRNGJp8XcLVV697q9feCWXzOsPQ05lHSpq4q4QgPyt8tkPoqddsEwPHkaop9q9ZjoeQKbfdAMj_E74Nm8o8JtE4xPI4m-OyVEFMOhV7oAVBF0bnQZwa3SXaaf9g7Vu7kwXBi5kC6qDG6W/s1600/IMG_1014.HEIC)
@@ -312,7 +307,7 @@ Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-
 
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
-Квітень: дуже активна неділя. 20–25 вузлів і хвиля 2–3 фути з періодом 3–4 секунди. Майже як верхова їзда. Справний авторульовий — це велика різниця.
+Квітень: дуже активна неділя. 20–25 вузлів і хвилі 2–3 фути з періодом 3–4 секунди. Майже як верхова їзда. Добре налаштований авторульовий має значення.
 
 ![20–25 вузлів і хвиля 2–3 фути](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0VFrMihaKCsDsaHRtYyPDRztHIWt2zLoXRO271F3zRrnkZv5ttKSSR7cy993GG0WyJVleQjnkbO2lchwCkqT8c2YHwofw4iofgipYbrbQu1M7pMVIWhmo0gyKKZ7XZQtnGmbhnclShoj3jWtRil6383JQYIUAvvsygEoY4nkGQ9Lq2eFINeesueX7TNp/s1600/IMG_1181.HEIC)
 ![Активна неділя під вітрилами в затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4SXKrMn86_sRSUe_xebntXP1nrM24u0qjD3HmlljzAabKCvaSvLegqjFlTPLiv1zLNBoomCHxPZUYBZuxb1DyBirCRvg6RHwBEufDieh7kqTcodvdbXpP20cHj2oWEgudDPQn920FX5WSQiYAXdc7QC5CdNuSTDD2OCV7Iy9V2-RNPxAeh5lYsSKJvARR/s1600/IMG_1171.HEIC)
@@ -321,11 +316,11 @@ Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
-## Прогнози з буклета
+## Прогнози як з рекламного буклета
 
-Я запланував гарне, спокійне плавання з дружиною. Прогноз упевнено обіцяв 5–8 вузлів, хвилю менше фута і мінливу хмарність. День як із рекламного буклета. Реальність, звісно, видала 10–15 вузлів і коротку товкучку 1–1,5 фута. Ще нормально — аж до моменту, коли час було повертатися. Тоді почалася мряка, і довелося йти чистим фордевіндом. Наступну годину ми проходили повний курс плавання за вітром: качка, хитавиця і роздуми про свій життєвий вибір. Зайве казати, що Марія щасливою не була.
+Я запланував гарний, лагідний похід з дружиною. Прогноз упевнено обіцяв 5–8 вузлів, хвилі менше фута і мінливу хмарність. День як з рекламного буклета. Реальність, звісно, видала 10–15 вузлів і коротку, рвану хвилю 1–1,5 фута. Усе одно нормально, аж поки не настав час повертатися. Тоді почала мрячити, і довелося йти чистий фордевінд. Наступну годину ми проходили повний курс ходу за вітром: хитавиця, гойдання і роздуми про свої життєві рішення. Чи треба казати, що Марія була не в захваті.
 
-Але й щасливі моменти були. Я і моя щаслива дружина, виходимо на моторі каналом Кеми, мій хоробрий другий капітан Вік і авторульовий на вахті. І суботній вечір у місцевому ресторані.
+Утім, були й щасливі моменти. Я і моя щаслива дружина, виходимо на моторі з каналу Кеми, мій хоробрий співкапітан Вік і авторульовий на вахті. І суботній вечір у місцевому ресторані.
 
 ![Фордевінд у мряці з Марією](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFDR4spg-BTC74x9rJLHlNGR8Qx9yD9S3YkTDY9Zs14BzssHdoLEAEx9k2QXEgia0aVowOlTVAUJYIKlpDBlb7mOnFizZzR-yGSWZYkzReTYrm2glToNsXf3xM3mkbgMwZmtS_C9V6e2taoCVXeyzQaRpvVBVBW4OKnAVKIkyityBY1lGDtklt462nr01h/s1600/IMG_6144.heic)
 ![Під вітрилами з дружиною на короткій хвилі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDRjfktbvaUvIlMCF1XVbXIV3ablhsAbOiqLZop0QlFrxwe_gU3_-Qi2DZFLjT4VcBE0rJZCK42BImL4k_OSHEHpMPPg91CYldSHEyNGePFxX8mv2-QN58B8lQFOPBUXafKhG3v2xkUwQtHAqDJWSagP9lR2v7dPKoKKjmfGWSZmDy72RUVCeNIg-M-pVs/s1600/IMG_6134.heic)
@@ -338,17 +333,17 @@ Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-d
 
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-Травень: два дні, один для роботи, другий для задоволення. Фото небагато, лише моя щаслива дружина. Прогноз казав хвиля 0,7 фута і 5–10 вузлів. Ми пішли до острова Редфіш, близько 8 миль від Кеми. Проти вітру, але непогано: вона гарно йшла з невеликим креном на 3–5 вузлах, і всі були щасливі. Ми стали на якір поруч із парою інших човнів і вперше купалися в затоці. Вода була чудова.
+Травень: два дні, один для роботи, один для задоволення. Фото небагато, лише моя щаслива дружина. Прогноз казав хвилі 0,7 фута і 5–10 вузлів. Ми пішли до острова Редфіш, приблизно за 8 миль від Кеми. Лавіровка проти вітру, але непогано: вона гарно йшла з невеликим креном на 3–5 вузлах, і всі були щасливі. Ми стали на якір поруч з кількома іншими човнами й уперше скупалися в затоці. Вода була чудова.
 
-Як завжди, я скористався нагодою зазирнути під човен. Завдання перше: мотузка на гвинті. Коли ми відходили від верфі на моторі, я намотав на гвинт шкерт трапа для купання. Слава Богу, він був достатньо старий, щоб порватися, інакше ми б мали справжні проблеми. Але частина так і лишалася там увесь цей час. І так, близько 4 футів мотузки намотано на вал і гвинт. Протиобростаюча фарба працює ЧУДОВО. Але на гвинті й валу були маленькі балянуси. Схоже, чистити їх доведеться щомісяця.
+Як завжди, я скористався нагодою зазирнути під човен. Завдання перше: мотузка на гвинті. Коли ми відходили на моторі від верфі, я намотав на гвинт кінець від купальної драбини. Слава Богу, він був достатньо старий, щоб порватися, інакше ми б мали справжні проблеми. Але частина його так і лишалася там увесь цей час. І так, близько 4 футів мотузки було намотано на вал і гвинт. Протиобростаюча фарба працює ЧУДОВО. А от на гвинті й валу були дрібні балянуси. Схоже, доведеться чистити їх щомісяця.
 
-За магію завжди є ціна. Поки ми відпочивали на якорі, вітер піднявся до 15–20 вузлів, а хвиля виросла десь до 2 футів. Це затока, тож хвилі короткі, і хитавиця швидко стає неприємною. Півтори години рок-н-ролу, хоч ми й ішли не чистим фордевіндом. З іншого боку — стабільні 7 вузлів, майже корпусна швидкість.
+За диво завжди треба платити. Поки ми відпочивали на якорі, вітер піднявся до 15–20 вузлів, а хвилі виросли десь до 2 футів. Це затока, тож хвилі короткі, і хитавиця швидко стає неприємною. Півтори години рок-н-ролу, хоча йшли ми не чистим фордевіндом. З іншого боку, стабільні 7 вузлів, майже корпусна швидкість.
 
 ![Моя щаслива дружина дорогою до острова Редфіш](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJtq3SQLp7CP0c5A8-xRRp-JfOOZUkwZwUA7cmwGIFpji80X4l8busaSChVuB_PWSlj0eCZ_-uERo9FFh90vGl8l6cC6B2miCgAknIzQGIcfyrK92qWPjevZQ7xBEvMRhxzPwz2zzXlZYQGvWAQ2X1WK92WWUtSGvuxM4d1twtOghgKFR7WEKeCFcLGZh7/s1600/IMG_1291.HEIC)
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
 
-Червень: 26 миль за 5 годин. Гарний вітер і небагато хвилі: 5,7 вузла при справжньому вітрі 8,4 вузла! Думаю, це справді непогано, принаймні для мене. На борту мій син і його друг.
+Червень: 26 миль за 5 годин. Гарний вітер і небагато хвиль: 5,7 вузла при справжньому вітрі 8,4 вузла! Думаю, це справді непогано, принаймні для мене. На борту були мій син і його друг.
 
 ![5,7 вузла при справжньому вітрі 8,4 вузла](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwjFN3AZ-LZKyrahTAXEJUo8uDnX3eH-Kgr9L4M14dBUjDBmTVkCB7aJxYa9YMl37Nk4E-2igNaoLI2f1Yt8mEgvCucG8pDn8L57SG_xvwuoCsbatgSRyl-cGSmEak7ewAkfvjsor-aBSILnkIwk5YQymc5v_KHY0Jkvo63ovmPgTI2N7Bx7Hx7nnp-VHd/s1600/IMG_1491.HEIC)
 ![5,7 вузла при справжньому вітрі 8,4 вузла](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAtcXCyAHA5QmXH1DbHXhJjweSAGo_y1aZrH7N-rkludktMK51b5fBvXSY8gQw5lG0xvutCran9_dh-1HubYPf5aR2OePfl3aBabfqtFfgTtgA4qFtvwLqa-O1A3YI2Vq1KTRDKufnR-uUtYLKq0N8r5aOKHnbRlsKDb3B3bemwHakU4S05sHLJ_LG2lnW/s1600/IMG_1478.HEIC)
@@ -356,7 +351,7 @@ Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-repl
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
 
-Після майже двох годин оснащення, регулювання і гри з новим гротом ми вирішили кинути роботу, поставити старий і нарешті піти поплавати. Жваві умови. Знаєте те відчуття, ніби сидиш у пральній машині? Один із таких днів.
+Після майже двох годин такелажних робіт, налаштувань і гри з новим гротом ми вирішили припинити працювати, поставити старий назад і нарешті піти під вітрилами. Жваві умови. Знаєте це відчуття, ніби сидиш у пральній машині? Один з таких днів.
 
 ![Граємося з новим гротом біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC)
 
@@ -364,15 +359,15 @@ Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mains
 
 ## Вода під підлогою
 
-Липень 2026-го, суботній ранок. Ми підняли нове вітрило і вийшли на ходові випробування нового стоячого такелажу. 15–20 вузлів. Чудове плавання, хоча погода так і не дала поставити повний грот, тож більшу частину дня йшли 5–6 вузлів із першим рифом і лише «куточком» стакселя.
+Липень 2026-го, суботній ранок. Ми підняли нове вітрило й вийшли на ходові випробування нового стоячого такелажу. 15–20 вузлів. Чудовий похід, хоча погода так і не дала поставити повний грот, тож більшу частину дня йшли 5–6 вузлів з першим рифом і лише «краєчком» стакселя.
 
-В один момент сильніший порив, може, 20+, поклав тікову планширну планку у воду. Нічого надмірного, звичайна реакція на добрий порив. За п'ять–десять хвилин я почув сигнал трюмної помпи. Стрибнув у каюту і знайшов 2–3 дюйми води під підлогою каюти. Трюм у мого човна дуже мілкий, тож навіть 5–10 галонів виглядають драматично.
+Одного разу сильніший порив, може, 20+, поклав фальшборт у воду. Нічого надмірного, звичайна реакція на добрий порив. Хвилин за п'ять-десять я почув сигнал трюмної помпи. Стрибнув у каюту й знайшов 2–3 дюйми води під пайолами. У мого човна дуже мілкий трюм, тож навіть 5–10 галонів виглядають драматично.
 
-Перша думка: «Х'юстоне, у нас проблема». Ми були недалеко від марини, тож перша реакція — «повертаємося». Потім перемогла цікавість. Звідки вся ця вода? Швидкий тест на смак дав відповідь: прісна.
+Перша думка: «Х'юстоне, у нас проблема». Ми були недалеко від марини, тож перша реакція — «повертаймося». Потім узяла гору цікавість. Звідки вся ця вода? Швидка дегустація дала відповідь: прісна.
 
-Я одразу зрозумів. Я забув закрити кран наповнення між головним баком у носовій каюті і маленьким витратним баком з лівого борту. Вода в передньому баку піднялася вище верху вентиляційної лінії і просто полилася через вентиляцію в трюм.
+Я одразу зрозумів. Я забув закрити наливний кран між головним баком у носовій каюті й маленьким витратним баком з лівого борту. Вода в передньому баку піднялася вище верху вентиляційної лінії й просто вилилася через вентиляцію в трюм.
 
-Тоді стрес перетворився на сміх, і решту дня ми провели під вітрилами.
+Тоді стрес перетворився на сміх, і решта дня була наша — під вітрилами.
 
 ![Новий грот піднятий для випробувань такелажу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-JVAUUH8UXaVAa9eALeXQoJdcCQFTL5pcJCCsbpVh95FJbFohaMZHHiqDrZMFmp-PWMaaYm89jk1yk8FvwjrNQ7X4Ty_YfgtLTFFH2i2_LORh5F3XecpCy9s0DnIz1NxcFgwpudZA6kleaLQH4G9ulh6XPRGFF6YGEQPRQ02zie4WknVHItef6FCehd6O/s1600/IMG_1626.HEIC)
 ![Під рифами при 15–20 вузлах](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbx_6z9xa2Zmt_AjmLSwBXbzAMTRw-lOhR_YvrrTQ1mfl_nYXTZiTy16PsagHiE9B5RcwvY8srnNn1oOJybHyUHuHf62dOWl0gvG3kJBrtGsIEbG8aCmCMODsjc9EEi8n60-w-UiTTonzw0C5gnGh7gFjQBg_xRTUewubGJSBOkLuugeJNv9eS1LTi50Ih/s1600/IMG_1625.HEIC)
@@ -380,7 +375,7 @@ Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mains
 
 Diary: [5 Jul 2026](https://irwin34.blogspot.com/2026/07/day-270-271-new-sail-new-standing.html)
 
-Кінець липня: гарна погода, зранку 5–8 вузлів із південного заходу, тож можна було йти в лавірування майже паралельно судноплавному каналу. Ми пробували дійти до Галвестона, але біля острова Редфіш вітер упав до 1 вузла, а потім розвернувся прямо на південь. Ми пройшли пару миль за острів і повернули назад. Х'юстонський судноплавний канал, новий грот за роботою, фордевінд, де генуя час від часу заполіскує, і просто риба біля причалу.
+Наприкінці липня: гарна погода, вранці 5–8 вузлів з південного заходу, тож можна було лавірувати майже паралельно судноплавному каналу. Ми пробували дійти до Галвестона, але біля острова Редфіш вітер упав до 1 вузла, а потім розвернувся прямо на південь. Ми пройшли кілька миль за острів і повернули назад. Ось Х'юстонський судноплавний канал, новий грот у роботі, хід фордевіндом з генуєю, що раз у раз обвисає, і просто риба біля причалу.
 
 ![Лавіруємо паралельно судноплавному каналу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6Yj_d5c8Y07KBrxLTTRjF27YIU5tw-eyKf_zjTOagDHHNJXjUuqQyrR-GCmPA8K5jocp06QkELlylrnocdkRqPB4A9N_wu5TpTKnM6lp7osB6uF4EuEFs5KWMI-_VNmcWdwlvzF_PEYEO4LP25h-mOo2zxz5p21-v4Ehw3X5pEUCPHo1iJUqSqhuKVMN/s1600/IMG_2237.HEIC)
 ![Х'юстонський судноплавний канал](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw6y579_r5fAN9OhI-lSmE5bDTRgqRa-bReyIIyiKKQ0yEYpneCp0nctN_v6cFYQn7hIjgStLq9TB-mhWI1jiOb0d-jZtkWWj6ovjwprxFdtgsJxwBH7gWEegLlzEI_iCnoD5uuTe495aWSdrPjgbcAOppWKSwLW4DnCuyYEyBVM_s5IzLQBQc38eTNs5C/s1600/IMG_2228.HEIC)
@@ -389,7 +384,7 @@ Diary: [5 Jul 2026](https://irwin34.blogspot.com/2026/07/day-270-271-new-sail-ne
 
 Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhull-line-setup.html)
 
-Серпень: спокійний день, 4–6 вузлів і майже без хвилі, 16 миль туди й назад. З нами пішли моя 4-річна онука, старший син і його дружина. Було дуже спекотно, тож ми ввімкнули кондиціонер від інвертора, щоб у малої було прохолодне місце відпочити. Через 3 години повернули назад, щоб родина встигла додому в розумний час. Просто фото інших човнів у затоці.
+Серпень: тихий день, 4–6 вузлів і майже без хвиль, 16 миль туди й назад. З нами пішли моя 4-річна онука, старший син і його дружина. Було дуже спекотно, тож ми ввімкнули кондиціонер від інвертора, щоб у малої було прохолодне місце для відпочинку. Через 3 години ми повернули назад, щоб родина встигла додому в розумний час. Тут просто фото інших човнів у затоці.
 
 ![Інші човни в затоці в спокійний день](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYstrnXJFRPFeWVHUwqCED7_U0fojziA9DylCU3XjuVB45nkMCA8Tv-d8KCZtWbBrtnZijL3javNHEmorP1jCd2MZKDn6XvLMYxZ3YibYvxTNUNV5wClrLCPtu5SFJxnFgwtCIS4bijjm9n3WS6vyGu5aVWbW19FtNsycl_8AdVZ7FcIMXDg1GUjUaw75O/s1600/IMG_2266.HEIC)
 ![Інші човни в затоці в спокійний день](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaDTceMUUnx2M9E2m5w1Z9Fn_UEvLpgBBGhniCD2cI8egLeYDxVfpHk_LU4RUNtSx7CsNJnl-anFuTVPc5ueuPR6nq48l2NAesHlmD3z6-kB1IR7rQVXmB7fjK30wlni3XxgLZ91gyUx-kh7c-9-Zp4TW98Xp2uH-Xi9moMnaPoW5xkcMM4BjS2xsf2sho/s1600/IMG_2264.HEIC)
@@ -398,7 +393,7 @@ Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhul
 
 Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-with-family-small.html)
 
-Дрібниці того вікенду: я замінив бортовий Wi-Fi-роутер на дводіапазонний 2,4/5 ГГц із VPN до домашнього роутера, щоб робити резервні копії системи і дивитися за човном віддалено. І «на вайбі» накодив плагін для OpenCPN, що показує справжній вітер на карті, синю стрілку. Лінії лавірування — може, пізніше.
+Дрібні справи того вікенду: я замінив бортовий Wi-Fi-роутер на дводіапазонний 2,4/5 ГГц з VPN до мого домашнього роутера, щоб робити резервні копії системи й наглядати за човном віддалено. І навайбкодив плагін для OpenCPN, що показує справжній вітер на карті: синя стрілка. Лінії безпечного дрейфу — може, згодом.
 
 ![Плагін OpenCPN показує справжній вітер синьою стрілкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAujdaJ6Ia-c2HMLpeoRyiwK7UyiqvTe-Vh3zNcmsW0NK1xDgYRndTHotq2HSB6CxSPK60cK8ajtsDRfvbIb3z8Qh3Bwa-BVdGNZJG-7xqSA_rTZ2sIPlxwgt4DAv0ddolSk3I1v9UR5Cih9PNdcRM51XAbbmDStkZtlq1QRBX1zsxIs9HGjBdTd1XUkQX/s1600/U23ZmAHG.jpg)
 
@@ -408,15 +403,15 @@ Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-wit
 
 Серпень 2026-го, справжній повний вікенд. Цей похід був:
 
-- Найдовшим вікендовим походом, який я робив на «Вірі».
+- Найдовшим вікендовим походом, який я будь-коли робив на «Вірі».
 - Найближчим, де вона була до СПРАВЖНЬОЇ морської води.
-- Моїм першим разом у Галвестоні і першою ніччю поза рідною мариною.
-- Плаванням у найщільнішому комерційному трафіку, який я бачив, і використанням AIS по-справжньому, а не для розваги.
-- Першою спробою ночі без кондиціонера при 30 °C (але потім я схитрував на причалі).
-- Першим перетином судноплавного каналу в Галвестонській затоці і першим кухарством на ходу.
-- Першим за довгий час абсолютно тверезим плаванням.
+- Моїм першим разом у Галвестоні й першою ніччю поза домашньою мариною.
+- Походом у найщільнішому комерційному трафіку, який я будь-коли бачив, і першим справжнім, а не заради розваги, використанням AIS.
+- Першою спробою ночі без кондиціонера при 30 °C (але потім я схитрував і став біля причалу).
+- Першим перетином судноплавного каналу в Галвестонській затоці і першим приготуванням їжі на ходу.
+- Першим за довгий час абсолютно тверезим походом.
 
-Рано-вранці в суботу на марині, вийшли з Кеми близько 10:20. Капітан ВікВік. Спокійний круїз до Галвестона на 5–6 вузлах, ховаючись у тіні генуї. Моторне вітрильне судно в Галвестонському каналі. Потім жорстке лавірування, коли вітер посилився.
+Рано-вранці в суботу в марині; вийшли з Кеми десь о 10:20. Капітан ВікВік. Спокійний хід до Галвестона на 5–6 вузлах, ховаючись у тіні генуї. Моторно-вітрильне судно в Галвестонському каналі. Потім жорстка лавіровка, коли вітер посилився.
 
 ![Вікендовий похід Кема — Галвестон](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiauFvRpkQjKEAn9HeajcNztVzPoswKSqV7L1-N9lX9BlImLmBDhZvSry2r8m9MHOC0BxCd6XJarGX57Cu6LfJpbWCbRLNYWDhUFup9m45u-bEjDoBHVKHH-aUNMAQCNr8R35wsbCxXaq5YgVMGEKzDgMhZ-u3pJurgbqlmPLF1xkA1na9cTdiH0S92CMbZ/s1600/IMG_2358.HEIC)
 ![Вікендовий похід Кема — Галвестон](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglHkQ6T8gcQqRdymDSuQ4037L9JA7bNmuSrVFofWp9CUrVYDE5riZ8kBvsfyERbFuh93uRdeL8Vln6OHC2Xff0P2hyXmj6q8ujSRwTeCr1y7mbGEh2J24lQ_46x6SWL8-TvykObRdmgt_ABemC3E1j4vP8vFNuSVRi7A7vUgoGbQEomUGliEDzsakaWdOZ/s1600/Untitled.png)
@@ -432,7 +427,7 @@ Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-wit
 
 Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-kemahtx-to.html)
 
-Наближаючись до Галвестона, я по-справжньому зрозумів, навіщо ставив AIS-транспондер і наскільки він корисний у щільному трафіку. Ось ми на мапі MarineTraffic; на жаль, скріншоти власних екранів я не зробив. Бути просто в тому трафіку — вантажні судна, баржі, пороми, десятки менших човнів — було досить напружено. Не поруч, не спостерігати збоку, а всередині. ДОРОСЛЕ відчуття.
+Наближаючись до Галвестона, я по-справжньому зрозумів, навіщо ставив транспондер AIS і наскільки він корисний у щільному трафіку. Ось ми на карті MarineTraffic; на жаль, скриншотів наших власних екранів я не зробив. Опинитися просто в тому трафіку, серед вантажних суден, барж, поромів і десятків менших човнів, було доволі напружено. Не поруч, не спостерігаючи збоку, а всередині. ДОРОСЛЕ відчуття.
 
 Причали берегової охорони в Галвестоні. Ми офіційно стали на якір на якірній стоянці Teacup. Гарна вечеря після довгого дня і захід сонця на якорі.
 
@@ -448,17 +443,17 @@ Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-k
 
 Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-kemahtx-to.html)
 
-Коли я питав на форумі, де стати на якір у Галвестоні, мені порадили Teacup, але й попередили, що поруч багато трафіку і там не зовсім спокійно. Гаразд, легкого життя я не шукаю, та й ніч лише одна. Після вечері ми побачили, скільки там насправді трафіку. Вітер тримав нас майже точно лагом до хвиль від суден, тож кожні 5–10 хвилин човен гойдало на 15–20 градусів із боку в бік. Ночі з солодкими снами не буде.
+Коли я питав на форумі, де стати на якір у Галвестоні, мені порадили Teacup, але й попередили, що поруч чималий трафік і там не те щоб спокійно. Гаразд, легкого життя я не шукаю, і це одна ніч. Після вечері ми побачили, скільки там насправді трафіку. Вітер тримав нас майже точно бортом до хвиль від суден, тож кожні 5–10 хвилин човен гойдало на 15–20 градусів з боку на бік. Солодких снів ця ніч не обіцяла.
 
-Один чоловік на форумі, що згадував Teacup (хоча не те щоб радив), казав ще, що я можу скористатися вільним гостьовим місцем на марині, де він живе на човні, за п'ять хвилин на моторі. Тож я йому написав. Він відповів майже одразу: «Я на причалі в жовтій футболці. Покажу місце, де можна переночувати». Дуже зворушливий момент.
+Один хлопець з форуму, який згадував Teacup (хоча не те щоб радив), також казав, що я можу скористатися вільним гостьовим місцем у марині, де він живе на човні, за п'ять хвилин ходу на моторі. Тож я йому написав. Він відповів майже одразу: «Я на причалі в жовтій футболці. Покажу вам місце, де можна переночувати». Дуже зворушливий момент.
 
-Ми підняли якір і в останньому світлі пішли туди на моторі. D Yami зустрів нас на причалі, допоміг пришвартуватися, Вік йому подякував, а він просто тихо пішов. Я запросив його на борт на чай, ром, джин чи сидр, але, схоже, допомога двом незнайомцям знайти спокійну ніч уже була для нього достатньою дозою спілкування, і запрошення лишилося без відповіді. Ще він казав, що можна підключитися до берегового живлення. Тож замість того, щоб усю ніч гойдатися на 15–20 градусів на якорі, ми мали тихий причал, електрику, кондиціонер і добрий сон.
+Ми вибрали якір і в останніх променях дійшли на моторі. D Yami зустрів нас на причалі й допоміг пришвартуватися, Вік йому подякував, а він просто тихо пішов. Я запросив його на борт на чай, ром, джин чи сидр, але, схоже, допомогти двом незнайомцям знайти спокійну ніч — це для нього достатньо спілкування, і запрошення лишилося без відповіді. Ще він сказав, що ми можемо під'єднатися до берегового живлення. Тож замість того, щоб усю ніч гойдатися на 15–20 градусів на якорі, ми мали тихий причал, електрику, кондиціонер і добрий сон.
 
-Іноді найкраще круїзне спорядження — це просто добра людина на причалі в жовтій футболці.
+Іноді найкраще спорядження для подорожі — це просто доброзичлива людина на причалі в жовтій футболці.
 
-Наступного ранку ми не хотіли зловживати гостинністю чи бути «спійманими за порушення меж», тож пішли якомога раніше. План був о 6 ранку, але після доброї ночі з кондиціонером я ледве відшкріб себе від ліжка о 7. Швидка кава, трохи сніданку — і геть від причалу якнайшвидше. Того вечора Symphony of the Seas стояла десь за 1000 футів від нас; я сфотографував її, проходячи повз. Прощавай, Галвестоне, місто великих кораблів.
+Наступного ранку ми не хотіли зловживати гостинністю чи бути «спійманими на чужій території», тож вийшли так рано, як змогли. План був на 6 ранку, але після доброї ночі з кондиціонером я ледве відскріб себе від ліжка о 7. Швидка кава, трохи сніданку — і геть від причалу якнайшвидше. Symphony of the Seas стояла тієї ночі приблизно за 1 000 футів від нас; я сфотографував її, коли ми проходили повз. Прощавай, Галвестоне, місто великих кораблів.
 
-Назад ми йшли східним боком судноплавного каналу. Гарний вітер, 15° крену. Дорогою зустріли човен із нашої марини. А ці мерзотники знайшли нас посеред Галвестонської затоки, сотні! Не кусаються, не жалять, але занадто набридливі. О 15:00 вітер упав нижче 2 вузлів, тож ми завели двигун і останню годину йшли додому на моторі.
+Назад ми йшли вздовж східного боку судноплавного каналу. Гарний вітер, ішли з креном 15°. Дорогою зустріли човен з нашої марини. А ці паскуди, «любовні мушки», знайшли нас посеред Галвестонської затоки, сотні! Не кусаються, не жалять, але дістають неймовірно. І літають парами, тож їх завжди вдвічі більше, ніж здається. О 3-й по обіді вітер стих нижче 2 вузлів, тож ми завели двигун і останню годину йшли додому на моторі.
 
 ![Захід сонця на якорі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfRotveqpPsC60-VbQrITuQlCM8ueH6p2-Gw37n1tSS3cPIjM0Xal-79dOCLIHIyavyuyFh4mEUmu8mKDY9AlnX_3-ZogUCz6bhBQ9-EMTo-STkYvNR6R1jBhLbWGmA5V_rTsu6bV0d05o-3MuCFAcSw90UNVrsMf5YKwWxOUGzovuHleYjacBk_h2PPr/s1600/IMG_2391.HEIC)
 ![Symphony of the Seas біля причалу в Галвестоні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw2a60_fRq342cjdY152UwRObbXdTVLZVI8e-sJGiSUswT3dprKHmeKup34Ije4aShUGSrPzhOSbJucvtgaSEXwNbNb5OgFUm22UvTOlBBt76LdL5wDCqWznTD1kBFTCUtNQlP-hTQ7JWYegHnsMRUC3vvNBvMAbQ_FNN3yW3Qobom50kiRil8QSP5qEo/s1600/att.w_oh9VTjOySmPvWqZ_vdhDgnHFwws3jfRRRgiDxGuz0.jpg)
@@ -473,7 +468,7 @@ Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-k
 
 ## День народження в затоці
 
-У вересні 2026-го ми мали чудовий вікенд на воді. Був мій день народження, і ми провели шість прекрасних годин у затоці. Майже рівна вода і вітер 3–6 вузлів, ідеально для відпочинку. Без спортивного плавання, без тренувань, крен менше 10° і 2–5,5 вузла, скільки вітер давав. У нас навіть були гарячий чай і торт на день народження («Наполеон») на ходу, завдяки нашому великому хлопцю: батареї на 3,5 кВт·год і інвертору на 3 кВт. Просто я.
+У вересні 2026-го ми мали чудовий вікенд на воді. Це був мій день народження, і ми провели шість чудових годин у затоці. Майже гладка вода і 3–6 вузлів вітру, ідеально для відпочинку. Ніякого спортивного ходу, ніяких навчань, крен менше 10° і 2–5,5 вузла, скільки вітер давав. У нас на ходу навіть були гарячий чай і торт на день народження («Наполеон»), завдяки нашому великому хлопцеві: батареї на 3,5 кВт·год і інвертору на 3 кВт. Просто я.
 
 ![Плавання на день народження в Галвестонській затоці, вересень 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQY0I4henEfON9CKbnNHEP3WskKec9Rnyvh7C6tVDoMS0bMO-QS7K78ot0oaOKziMu4F0ZB0N42eW9PFg3zaFHb3JS7YZtoVZ-EgyqIwRCDr_NHBenqtgyC_5tJWwdRqnEx0DNASvTJExO5-KWbTvuqTdcKYKW4pK_pv4hs5X4NHLK4ntVl_jSGhjqA2cQ/s1600/IMG_2531.HEIC)
 ![Плавання на день народження в Галвестонській затоці, вересень 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNed9tAPPnJAvDgrPHdILxQWY_cWm1mzQqUUxYg83O1imanZhXSx-coBtqp3ay30EclfKCVYA_d43k8XnNQ3Gs8dW26sdUbsKgkGHvOwfwIxl16IHgY9qLVJEKH1VbYIqrgGO1UctBKEivpJOOmX0R3NJV-_s4W0nLTotWMl0h4fy5hvjWlHcaIy8fFo5f/s1600/IMG_2516.HEIC)
@@ -482,7 +477,7 @@ Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-k
 
 Diary: [9 Sep 2026](https://irwin34.blogspot.com/2026/09/days278-galveston-bay-sailing-with.html)
 
-Наступного дня трохи роботи на човні, але спершу кава. Маленьке виправлення в програмі: натискання AUTO на NavPod не брало поточний курс як заданий. Тепер працює, як нормальні авторульові: тиснеш AUTO — і човен іде туди, куди дивиться. Потім душ у кокпіті, наполовину готовий: лінія холодної води йде в ахтерпік, із кульовим краном і душовою лійкою від системи під тиском. Поки що лійка і шланг просто живуть в ахтерпіку, тож щоб скористатися, відкриваєш люк. Термостатичний змішувач і нормальний вивід у кокпіт — пізніше. І прибирання ахтерпіка, ще трохи човнової йоги. Його не чистили після ремонтів, і він був повний склопилу. Капітан у коробці.
+Наступного дня — трохи роботи на човні, але спершу кава. Невелике виправлення в програмі: натискання AUTO на NavPod не брало поточний курс як заданий. Тепер працює, як зазвичай працюють авторульові: тиснеш AUTO, і човен іде туди, куди дивиться. Потім душ у кокпіті, наполовину готовий: лінія холодної води йде в ахтерпік, з кульовим краном і душовою лійкою від системи під тиском. Поки що лійка й шланг просто живуть в ахтерпіку, тож, щоб скористатися, треба відкрити люк. Термостатичний змішувач і нормальний вивід у кокпіт будуть згодом. І прибирання ахтерпіку: знову човнова йога. Його не прибирали від ремонту, і він був повний склопилу. Капітан у коробці.
 
 ![Спершу кава](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqiF84PQmG9GJ_3mzSMCBOWTSV-NwsC-8smZFGFGjuYUBC8NX-9bhkSiTkuNZiu0vErJ6YlXzE1IY3LeeOatLzNJ-90Gkp4vKm7mpJ8-8oa5u6Uxh0UvaFEX57q3MKamNRWfbqLKCndCqUQlz5KX2A5j0vpx5kfGzFEgxNmzPpYak0tqHgopK68AorMEzB/s1600/IMG_2358.jpg)
 ![Душ у кокпіті і робота в ахтерпіку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcZGGwbXXKhSmHd-uoStuLKMR6ZfCKzr2aGmc6GkpqAkUa1dWtS-EWeoLEQ-dlqq5-JZoQXEyrnSNAt8EOuz5H0bBr5LsLlTqp-5zXoRuSm63MFqiEyadBeJ2iK-ZRW2Skp4b9XSTiFS5k6Wbx4cO-iBPJNdpQfAfwox3FyFz3nmBydfH9IX4sRlctlPf_/s1600/IMG_2351.jpg)
@@ -503,11 +498,11 @@ Diary: [9 Sep 2026](https://irwin34.blogspot.com/2026/09/days278-galveston-bay-s
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
 
-Жовтень: дві години в затоці, але для нашої команди дуже трусько. 15 вузлів і товкучка 1,5–2 фути.
+Жовтень: дві години в затоці, але для нашого екіпажу надто трясло. 15 вузлів і 1,5–2 фути рваної хвилі.
 
 Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-thermostat-bumpy.html)
 
-Листопад 2026-го: гарні пару годин вечірнього плавання в суботу.
+Листопад 2026-го: гарні кілька годин вечірнього походу в суботу. На цьому журнал поки що зупиняється. Далі буде — на воді.
 
 ![Вечірнє плавання в Галвестонській затоці, листопад 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpHiptoy5o9Uzw6n7ba4qd73uMVYILTnVOVxQgDyvSAJYYPCmZaVlO0yacvrVxiOAhOm9RIcfs3s3-fnJvwFl4C5Qfluk3iCG6MMVZOuPdtTnuOQ3rLmVXdaP_hy6xYcAdMipuqxfdTD9ctiv1zcM8VVOHNnMNE0J9L2BkqJcfIMUuu95I9Eh1iTuSn3S/s1600/IMG_2799.HEIC)
 ![Вечірнє плавання в Галвестонській затоці, листопад 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil4kpvcMzXmm_vPVJcDLppESszQgqLoPPyOUeCtWqz5fbs5WqSp7nr6h1wRqlRmfR-C7IKRXTpAJaK_IUIlbvHHktaJiQEFQtc9rJOqgCAVZ2YOpxx224oLmjwQ6W7wUB_yRf8vUzUOFvcLIKw__8AkI7n41BDMk3fXg0Pm-H0-XMyDJR3jMD1394Xd5Js/s1600/IMG_2800.HEIC)
