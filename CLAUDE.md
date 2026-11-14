@@ -2,7 +2,7 @@
 
 Project site for **Vira**, a 1978 Irwin Citation 34 being rebuilt by Viktor. The site turns the
 day-by-day Blogger diary (https://irwin34.blogspot.com) into project stories.
-The site will be published at **sailingvira.com**. The domain currently redirects to the blog.
+The site is live at **sailingvira.com** (GitHub Pages custom domain since 14 Nov 2026; DNS at imena.ua, MX/TXT for email untouched). Old partyvi.github.io/sailingvira links redirect there.
 
 ## Agreed decisions (keep to these; ask before changing them)
 
