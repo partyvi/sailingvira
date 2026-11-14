@@ -24,13 +24,13 @@ UI = {
     "en": {"all": "All projects", "prev": "Previous", "next": "Next", "photos": "photos", "posts": "diary posts",
            "days": "work days", "years": "Texas", "projects": "projects", "day": "Day", "diary": "Diary",
            "page": "Story page", "story_page": "Story page", "open": "Open photo", "close": "Close",
-           "blog": "Diary on Blogger", "missing": "", "notfound": "Page not found",
+           "blog": "Diary on Blogger", "risk": "Shared for information only. Use at your own risk.", "disc": "Disclaimer", "missing": "", "notfound": "Page not found",
            "notfound_text": "This page does not exist. Go to all projects.",
            "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]},
     "ua": {"all": "Усі проєкти", "prev": "Попередній", "next": "Наступний", "photos": "фото", "posts": "записів у щоденнику",
            "days": "робочих днів", "years": "Техас", "projects": "проєкти", "day": "День", "diary": "Щоденник",
            "page": "Сторінка", "story_page": "Сторінка історії", "open": "Відкрити фото", "close": "Закрити",
-           "blog": "Щоденник на Blogger",
+           "blog": "Щоденник на Blogger", "risk": "Лише для інформації. Використовуйте на власний ризик.", "disc": "Застереження",
            "missing": "Український переклад цієї історії ще готується. Поки що текст англійською.",
            "notfound": "Сторінку не знайдено", "notfound_text": "Такої сторінки немає. Перейдіть до всіх проєктів.",
            "months": ["січ", "лют", "бер", "кві", "тра", "чер", "лип", "сер", "вер", "жов", "лис", "гру"]},
@@ -504,7 +504,8 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 {body}
 <footer class="foot mono"><a href="{esc(site.get("diary_url") or site["blog_url"])}" target="_blank" rel="noopener">{UI[lang]["blog"]} ↗</a>
 <a href="{esc(site.get("youtube_url", ""))}" target="_blank" rel="noopener">YouTube ↗</a>
-<span>© {esc(site["name"])}</span></footer>
+<span>© {esc(site["name"])}</span>
+<span>{UI[lang]["risk"]} <a href="{(BASE + "/" if path == "404.html" else rel) + url_of(lang)}disclaimer/">{UI[lang]["disc"]}</a></span></footer>
 </div>
 {lb}
 </body>

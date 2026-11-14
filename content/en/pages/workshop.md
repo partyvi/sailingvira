@@ -12,6 +12,8 @@ Free for personal use, with credit to Viktor / Sailing Vira. No commercial use. 
 
 **[All design files on Google Drive ↗](https://drive.google.com/drive/folders/1jtfntzq7fE0ncKjXItYoTD2zqF0s4XuP)**: one folder per design, each with a short README.
 
+These are the designs I made for my own boat. They are not tested or certified. If you build or use them, you do it at your own risk. Please read the [disclaimer](../disclaimer/).
+
 ## Electronics
 
 Boards I designed for Vira. Schematics, board files and firmware.

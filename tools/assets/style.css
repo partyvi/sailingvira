@@ -19,7 +19,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-off
 .wrap{max-width:1120px;margin:0 auto;padding-block:8px 48px;
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .mono{font-family:var(--f-mono);font-size:12.5px;letter-spacing:.02em;color:var(--muted);font-variant-numeric:tabular-nums}
-h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.05}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.05;overflow-wrap:break-word;hyphens:auto}
 /* home */
 .mast{display:grid;gap:10px;padding-block:24px 36px;border-bottom:1px solid var(--line)}
 .mast .eyebrow{font-family:var(--f-mono);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--brass)}
