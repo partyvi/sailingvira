@@ -303,6 +303,15 @@ def youtube_videos():
             ago = re.search(r'"publishedTimeText":\{"simpleText":"(?:Streamed )?(\d+) (second|minute|hour|day|week|month|year)', chunk)
             d = today - datetime.timedelta(days=int(ago.group(1)) * days[ago.group(2)]) if ago else today
             out.append({"id": vid, "title": json.loads(f'"{t.group(1)}"'), "date": d.isoformat()})
+        for m in re.finditer(r'"lockupViewModel":\{"contentImage".{0,4000}?"contentId":"([\w-]{11})"', page):
+            vid, chunk = m.group(1), page[m.start():m.end() + 8000]
+            t = re.search(r'"title":\{"content":"((?:[^"\\]|\\.)*)"', chunk)
+            if vid in seen or not t:
+                continue
+            seen.add(vid)
+            ago = re.search(r'"content":"(?:Streamed )?(\d+) (second|minute|hour|day|week|month|year)s? ago"', chunk)
+            d = today - datetime.timedelta(days=int(ago.group(1)) * days[ago.group(2)]) if ago else today
+            out.append({"id": vid, "title": json.loads(f'"{t.group(1)}"'), "date": d.isoformat()})
         return out
 
     for attempt in range(2):
@@ -350,7 +359,12 @@ def special_html(kind, lang):
     if kind == "videos":
         yt = esc(site.get("youtube_url", ""))
         if not VIDEOS:
-            return f'<p><a class="dl" href="{yt}" target="_blank" rel="noopener">YouTube @sailingvira ↗</a></p>'
+            cid = site.get("youtube_channel_id", "")
+            player = (f'<div style="position:relative;aspect-ratio:16/9;max-width:960px;margin:0 0 1rem">'
+                      f'<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=UU{esc(cid[2:])}" title="YouTube @sailingvira" '
+                      f'style="position:absolute;inset:0;width:100%;height:100%;border:0" loading="lazy" '
+                      f'allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe></div>') if cid else ""
+            return player + f'<p><a class="dl" href="{yt}" target="_blank" rel="noopener">YouTube @sailingvira ↗</a></p>'
         return '<div class="items vids">' + "".join(
             f'<a class="item" href="https://www.youtube.com/watch?v={esc(v["id"])}" target="_blank" rel="noopener">'
             f'<span class="ph" style="background-image:url(\'https://i.ytimg.com/vi/{esc(v["id"])}/hqdefault.jpg\')"><b>▶</b></span>'
