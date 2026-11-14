@@ -6,8 +6,8 @@ live_url: https://sailingvira.com
 # true = hidden from search engines (until launch)
 noindex: true
 blog_url: https://irwin34.blogspot.com
-# Boat diary tab (later diary.sailingvira.com)
-diary_url: https://irwin34.blogspot.com
+# Boat diary tab, footer link and home page feed (Blogger custom domain since Nov 2026)
+diary_url: https://diary.sailingvira.com
 youtube_url: https://www.youtube.com/@sailingvira
 youtube_channel_id: UC5nlckZF-OqIv8O35Z_qRgg   # used for the video player when YouTube blocks the build
 # Contact form address. FormSubmit sends each message to this email. After the first message is
