@@ -289,7 +289,7 @@ def youtube_videos():
     err = None
 
     key, cid0 = os.environ.get("YOUTUBE_API_KEY", ""), site.get("youtube_channel_id", "")
-    if key and cid0:  # official YouTube Data API (key in the GitHub secret YOUTUBE_API_KEY)
+    if key and cid0:  # official YouTube Data API (key in the GitHub secret SAILINGVIRAYOUTUBE)
         try:
             import urllib.parse
             q = urllib.parse.urlencode({"part": "snippet", "playlistId": "UU" + cid0[2:], "maxResults": 50, "key": key})
