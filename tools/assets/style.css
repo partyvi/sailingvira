@@ -196,3 +196,10 @@ a.tile:hover{transform:translateY(-2px);box-shadow:0 8px 24px var(--shade)}
 .cform input:focus,.cform textarea:focus{outline:2px solid var(--accent);outline-offset:1px}
 .cform button{justify-self:start;margin-top:12px;font-family:var(--f-display);font-size:20px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;
   padding:8px 22px;border:0;border-radius:6px;background:var(--accent);color:var(--paper);cursor:pointer}
+
+/* cookie consent (Google Analytics) */
+.ck{position:fixed;left:16px;right:16px;bottom:16px;z-index:50;max-width:640px;margin:0 auto;background:var(--paper);color:var(--ink);border:1px solid var(--line);box-shadow:0 8px 28px var(--shade);padding:14px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 12px;font-size:15px}
+.ck[hidden]{display:none}
+.ck p{margin:0;flex:1 1 260px}
+.ck button{font:inherit;cursor:pointer;padding:8px 16px;border:1px solid var(--accent);background:var(--accent);color:var(--paper)}
+.ck button.ghost{background:transparent;color:var(--accent)}

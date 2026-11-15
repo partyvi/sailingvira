@@ -24,13 +24,13 @@ UI = {
     "en": {"all": "All projects", "prev": "Previous", "next": "Next", "photos": "photos", "posts": "diary posts",
            "days": "work days", "years": "Texas", "projects": "projects", "day": "Day", "diary": "Diary",
            "page": "Story page", "story_page": "Story page", "open": "Open photo", "close": "Close",
-           "blog": "Diary on Blogger", "risk": "Shared for information only. Use at your own risk.", "disc": "Disclaimer", "missing": "", "notfound": "Page not found",
+           "blog": "Diary on Blogger", "risk": "Shared for information only. Use at your own risk.", "disc": "Disclaimer", "ck_text": "This site uses Google Analytics cookies to count visitors. Nothing is set until you agree.", "ck_yes": "Accept", "ck_no": "Decline", "ck_set": "Cookie settings", "missing": "", "notfound": "Page not found",
            "notfound_text": "This page does not exist. Go to all projects.",
            "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]},
     "ua": {"all": "Усі проєкти", "prev": "Попередній", "next": "Наступний", "photos": "фото", "posts": "записів у щоденнику",
            "days": "робочих днів", "years": "Техас", "projects": "проєкти", "day": "День", "diary": "Щоденник",
            "page": "Сторінка", "story_page": "Сторінка історії", "open": "Відкрити фото", "close": "Закрити",
-           "blog": "Щоденник на Blogger", "risk": "Лише для інформації. Використовуйте на власний ризик.", "disc": "Застереження",
+           "blog": "Щоденник на Blogger", "risk": "Лише для інформації. Використовуйте на власний ризик.", "disc": "Застереження", "ck_text": "Цей сайт використовує cookie Google Analytics, щоб рахувати відвідувачів. Нічого не зберігається, доки ви не погодитеся.", "ck_yes": "Погоджуюсь", "ck_no": "Відмовитись", "ck_set": "Налаштування cookie",
            "missing": "Український переклад цієї історії ще готується. Поки що текст англійською.",
            "notfound": "Сторінку не знайдено", "notfound_text": "Такої сторінки немає. Перейдіть до всіх проєктів.",
            "months": ["січ", "лют", "бер", "кві", "тра", "чер", "лип", "сер", "вер", "жов", "лис", "гру"]},
@@ -474,6 +474,28 @@ def tab_href(key, lang, rel):
     return site.get("diary_url") or site["blog_url"] if slug is None else (rel + url_of(lang) + slug or "./")
 
 
+
+def analytics_html(lang):
+    """Google Analytics (site.yml ga_id), loaded only after the visitor accepts cookies (GDPR).
+    The choice is kept in localStorage; the footer link 'Cookie settings' asks again."""
+    gid = site.get("ga_id", "")
+    if not gid:
+        return ""
+    u = UI[lang]
+    return (f'<div class="ck" id="ck" hidden role="dialog" aria-live="polite"><p>{u["ck_text"]}</p>'
+            f'<button type="button" id="ckyes">{u["ck_yes"]}</button><button type="button" id="ckno" class="ghost">{u["ck_no"]}</button></div>'
+            "<script>(function(){var id=" + json.dumps(gid) + ",k='sv-cookies',b=document.getElementById('ck');"
+            "function get(){try{return localStorage.getItem(k)}catch(e){return null}}"
+            "function set(v){try{localStorage.setItem(k,v)}catch(e){}}"
+            "function ga(){if(window.svGA)return;window.svGA=1;var s=document.createElement('script');s.async=1;"
+            "s.src='https://www.googletagmanager.com/gtag/js?id='+id;document.head.appendChild(s);"
+            "window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config',id)}"
+            "var c=get();if(c==='yes')ga();else if(c!=='no')b.hidden=false;"
+            "document.getElementById('ckyes').onclick=function(){set('yes');b.hidden=true;ga()};"
+            "document.getElementById('ckno').onclick=function(){set('no');b.hidden=true};"
+            "var l=document.getElementById('cklink');if(l)l.onclick=function(e){e.preventDefault();"
+            "try{localStorage.removeItem(k)}catch(x){}location.reload()}})();</script>")
+
 def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home=False, path=None):
     path = path or url_of(lang) + slug + "index.html"
     rel = "../" * path.count("/")
@@ -522,9 +544,10 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 <footer class="foot mono"><a href="{esc(site.get("diary_url") or site["blog_url"])}" target="_blank" rel="noopener">{UI[lang]["blog"]} ↗</a>
 <a href="{esc(site.get("youtube_url", ""))}" target="_blank" rel="noopener">YouTube ↗</a>
 <span>© {esc(site["name"])}</span>
-<span>{UI[lang]["risk"]} <a href="{(BASE + "/" if path == "404.html" else rel) + url_of(lang)}disclaimer/">{UI[lang]["disc"]}</a></span></footer>
+<span>{UI[lang]["risk"]} <a href="{(BASE + "/" if path == "404.html" else rel) + url_of(lang)}disclaimer/">{UI[lang]["disc"]}</a></span>{(' <a href="#" id="cklink">' + UI[lang]["ck_set"] + "</a>") if site.get("ga_id") else ""}</footer>
 </div>
 {lb}
+{analytics_html(lang)}
 </body>
 </html>
 """
