@@ -8,6 +8,8 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcbIOm2n9jBRQ
 ---
 Vira has two long fixed windows on the cabin sides. They took me two years and four tries, and taught me more about sealants than I ever wanted to know.
 
+The whole job, as I wrote it while it was happening, is in my original diary article: [Fixed ports](https://diary.sailingvira.com/p/fixed-ports.html).
+
 ## Fixed windows, attempt one
 
 The fixed windows had been set straight into fiberglass resin, probably gelcoat, with zero flex. So the original acrylic cracked from expanding and shrinking in the sun. When I got the boat, they were cracked and leaking, both through the cracks and around the edges.
