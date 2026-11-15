@@ -234,6 +234,7 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <head>
 <meta content='width=device-width, initial-scale=1, viewport-fit=cover' name='viewport'/>
 <b:include data='blog' name='all-head-content'/>
+<b:include data='blog' name='google-analytics'/>
 <title><b:if cond='data:view.isHomepage'>Boat diary · {x(NAME)}<b:else/><data:view.title.escaped/> · Boat diary · {x(NAME)}</b:if></title>
 <link href='https://fonts.googleapis.com' rel='preconnect'/>
 <link href='{FONTS}' rel='stylesheet'/>
