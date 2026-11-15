@@ -2,7 +2,7 @@
 id: hull-bottom
 title: "Корпус і днище"
 section: hull
-order: 5
+order: 6
 description: "Осмос, бар'єрне покриття, фарба надводного борту, кінгстони і її ім'я."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgh19ag6IykztOjEfiVI6uHpiKrB7HnCJf2URgH752BIlyKrI7rZnCiy4IiknWB_vcP7_v5YjQI4UilHGvjTXLNJ44crKEkE64XdYba3sBtwexzdV9mmhs0F8StuOEsRQyu8ioaAgpRiVgVUNyFRU7UU7oM-lvS2T4ZfXF63yce2NHCe_gUW7-uP8LgyVr/s1600/IMG_0593.HEIC"
 ---
