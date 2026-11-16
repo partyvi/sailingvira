@@ -193,6 +193,12 @@ I'd been thinking about a "right", wife-proof toilet for a long time. The porta-
 
 After a long time thinking, I picked the Dometic MasterFlush MF 7120, a 12 V electric macerating toilet. Comfortable, easy and reliable. The fresh water flush helps a lot with smell, and the macerator means smaller hoses and an easier install. Much closer to a home toilet.
 
+Back in March I checked whether the toilet bowl fits the pedestal: a little overhang inside, but better to have the full-size ring.
+
+![Checking the toilet bowl on its pedestal with a cardboard template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVEKMETowdXqPzAkIXt-7QnD7U_C8QfoLqC7fZavFoJeV7hjuQ8aGmjgtv8Tm4JlGzN6hei39MYQaMk4OO4g9npqPaZ7qRJT8_0nPav8z3btf89pUhEj_D4XhP6I4LaVHOa4OC30Zk2yyVV2Rpvb-XnHJW4y6OSF9aJmyl5mX-g_9Slk0IUjm2jU7QM1-/s1600/IMG_1033.HEIC)
+
+Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
+
 ![New electric toilet installed in the head](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5mUZmbyae0v64lcrU3aMCkq7Atfaqfn-MYxJfbW4uu2BybZTv4by6K2eTwzkAQEgMJEECkFUVg5-4PDzL2KSaL-csIgh1Txh00LBSaUpZp6-a5oukV5z8yQzq5kiSlCf9Q9-bpq69a2lMPa82YKojwtvBzReYiyvfmRgNmFKi5LEmWap8IrvpDh5Nm_c6/s1600/IMG_1472.HEIC)
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)

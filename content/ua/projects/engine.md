@@ -93,6 +93,7 @@ Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabine
 
 ![Зливний бокс із новою помпою і шлангами](https://blogger.googleusercontent.com/img/a/AVvXsEhvB680u3mKAfwqcH5APxQj3b75jmw6lr0YFT0NvFyt7J4T_YzoZGGr00sca-v48rCDlAKy91oInjRO5LNZ9wNJ3pPh99t_XbX64E9HMeYWE31iK1bOZT--q7tHFlsduQ3VofbQdfa8j-xOtPLYh5_wWDrbD__6fgxnNtZ4hmw3z_h_QNBH48DyZn6pYw=s1600)
 ![Зливний бокс під підлогою каюти](https://blogger.googleusercontent.com/img/a/AVvXsEioIEH67771Tu40XqxGs-k2sGMiXUDV1tj6_jvToXueFTtmKCRkb84omXZ8VFcfcvldrAOjLOZxeQR7m5x_ECexY_DniC2h_5DftdO6_mfQS2zSi5bD1DxFYo-diGDA3icPpgVuX4XWq65g6OmB3VOzldaPz9rX1GQBpJzbu9wPfWJriy1hKidOIrMIJQ=s1600)
+![Під підлогою каюти: шланги й фітинги зливу збірника](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
@@ -460,6 +461,15 @@ Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-prepa
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
 Коли я з'єднував двигун і муфту валу, то не знайшов правильних стопорних гвинтів і зробив їх зі звичайних болтів, які не міг просвердлити під контровий дріт. Тож я надрукував на 3D-принтері ковпачки з вушками, надягнув їх і законтрив дротом поверх. Стопорні гвинти стоять на синьому Loctite; дріт — лише ще одна страховка. І я перевірив калібрування датчика стерна.
+
+![Стопорні гвинти муфти валу з надрукованими ковпачками і контровим дротом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzGFQeKwdTDne6QkXaet8e3YSVLloXnXxo5unZ9-Fn5O-5Yfwfg74oQu7PAU8tUhfqsT03OhEU942kPFz_9m_WVq1msK_yXdKfNLxCHQKV1dpZlDoCHNgh1iaFHrp3txRCL2rXv2ySZD_oO_9nS9Prd1m6MVPsYck7vD7pLh2f4HUSw731xO0wjcOQsVDR/s1600/IMG_0908.HEIC)
+
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+Набори свердел теж треба було поповнити: бракувало 1/16, 3/32, 5/32, 13/64, 15/32 і 29/64 дюйма, а ще 1; 3,5; 5; 5,5; 6; 6,5 і 7 мм.
+
+![Набір дюймових свердел](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Kbn2AUeKotgGYjAXlaLMff7hH45thC_ccr6dzupxQ0-j1mvd6IyewAYf2e3yxuEU0Z_fZgSa4oKXCuQhAXg_-dnIfdQ6VarCIAcg0ELlUFGLuj_LPsC4FvBJ7KC3TDDueiaQzhmnc7IximUgGiMtelC-604N0hSUyyNRAMxzswhs8skcBZKPgN1L2WDP/s1600/IMG_0906.HEIC)
+![Набір метричних свердел](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBVH4XNbRhlCjaUO9h9wO5ByEM_ySdUDlmdngtLf_bZFu8AKDp_3dQMMd0eFd-UoYzGEQlByL70006bNmoPp1Tq2q93s-qb2cKG2Jg7wZDpUqCMqAsXmhi6P11Qig6n2salc7t43qOQIgQvs8Cwp76GhMHQfzX3vZpXkWaZ4Zd3Y4rx0cuFMNcBLMwjKmk/s1600/IMG_0907.HEIC)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 

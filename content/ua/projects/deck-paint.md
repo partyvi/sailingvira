@@ -161,6 +161,9 @@ Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024
 
 Крок 11, люки, по підкроках: примірити рамки, позначити отвори, вийняти люк і просвердлити під різьбу машинних гвинтів 10-24, нарізати різьбу, почистити 50% ізопропіловим спиртом, наклеїти на люки бутилову стрічку, поставити їх і прикрутити, пропилососити пил і витягти пробки з коричневого паперу, і зняти захисну плівку. Найкращий підкрок — останній.
 
+![Новий низькопрофільний люк на даху рубки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg44fYefgmMQn265TmbDHGQPZPVbBEOTCZNmXJRUzYEjzxJsuCriG0ggpgvBrbjSQKL_RE-LELIaPPM4JSp67Bng_A4KgaFBGkCEEIp2N6-V4zfD-XWOzjekVe6MOYFyadM2qz5GYM7JRKFLPsuH26lZcfByLvSQRPAwsIeiO5TMysPWohUFk3GaD7F0eZ3/s1600/IMG_7543.HEIC)
+![Новий люк на даху рубки, ближче](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiffvM7q8MjbSuToZ3vNPrsIgwL6fZQfL7KR15TuDHKBa4F5_QuaZbmI2I2-CdUnXvqZrDBGNlZb8kQ7GDn9FS6p3NvfMKEwKI5OEe-JNwPUupG4nyCgUl3Bi1IAkLqClBbugZmLW3idKzu3fSaeWj5q4N39kEVOURJI01b3TZmV8eb8iQnRy9ebuqo-cE4/s1600/IMG_7544.HEIC)
+
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
 Після того як я посковзнувся й мало не впав на сходинках трапа, я наклеїв протиковзні наліпки на щойно оновлені сходинки. Так краще.

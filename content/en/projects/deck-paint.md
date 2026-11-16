@@ -161,6 +161,9 @@ Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024
 
 Step 11, the hatches, in sub-steps: dry-fit the frames, mark the holes, take the hatch out and drill for 10-24 machine screw threads, tap the threads, clean with 50% isopropyl alcohol, put butyl tape on the hatches, set them in and screw them down, vacuum the dust and pull out the brown paper plugs, and peel the protective film. The best sub-step is the last one.
 
+![New low-profile hatch installed on the cabin top](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg44fYefgmMQn265TmbDHGQPZPVbBEOTCZNmXJRUzYEjzxJsuCriG0ggpgvBrbjSQKL_RE-LELIaPPM4JSp67Bng_A4KgaFBGkCEEIp2N6-V4zfD-XWOzjekVe6MOYFyadM2qz5GYM7JRKFLPsuH26lZcfByLvSQRPAwsIeiO5TMysPWohUFk3GaD7F0eZ3/s1600/IMG_7543.HEIC)
+![New hatch on the cabin top, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiffvM7q8MjbSuToZ3vNPrsIgwL6fZQfL7KR15TuDHKBa4F5_QuaZbmI2I2-CdUnXvqZrDBGNlZb8kQ7GDn9FS6p3NvfMKEwKI5OEe-JNwPUupG4nyCgUl3Bi1IAkLqClBbugZmLW3idKzu3fSaeWj5q4N39kEVOURJI01b3TZmV8eb8iQnRy9ebuqo-cE4/s1600/IMG_7544.HEIC)
+
 Diary: [17 Feb 2024](https://irwin34.blogspot.com/2024/02/day-126127128129-21024-21624-hatches.html)
 
 After I slipped and almost fell on the companionway steps, I put non-skid stickers on the newly refinished steps. Better this way.

@@ -64,6 +64,7 @@ Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-
 А ось як це виглядає тепер: Halo20+ на алюмінієвому кріпленні на щоглі в Кемі, у березні 2026-го, і через два тижні перша перевірка радара на навігаційному екрані.
 
 ![Радар на щоглі в Кемі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSaO3fX0AHkTYtkuBXQtKVuvANBGa3m9wM0QZbW-N-5mnh7x9KgEjF0hmNKzmyEa1UbBob_Zp6bhpiE8TevBTbjxe4vC2LeaFdhHEvZ_v4cwiCQeI43jT_4mNas1pNHgseJ9o6k30E-2ZlUXXBpb34H_Erla2Y498G-5nfzdj32q0_Oc08e26LdyBe28LU/s1600/IMG_0919.HEIC)
+![«Віра» біля причалу в Кемі з радаром на щоглі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyTRkZx_eiENBDZQT56nKE-92Jg2O89GXdAnSvKT96aLEsSOHYAlt9W8LIuO2RmXnslv3DXb-jmEkFvtp86S4rKMnFOvB_bBmR48ZpNbMbJRojvmn1HDJb20gPR8-k_cHq_1YV9M7pSwJA41FcmPlgTuDKkTrNfgfqnZPs4BbSVJO-EryQJ5khuy3aDqH/s1600/IMG_0918-EDIT.jpg)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 

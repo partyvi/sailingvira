@@ -85,6 +85,7 @@ Diary: [3 Aug 2025](https://irwin34.blogspot.com/2025/08/day-210-finalized-sailp
 Після лазиджека в мене лишилося близько 17 футів Sunbrella. Шкода викидати, тож я пошив з неї нові подушки для кокпіту. Від ідеї до готового пройшло небагато часу.
 
 ![Кокпіт із новими синіми подушками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimR8WeFHKD2jhWJTpyaSUoC2euCURepP3geWFpD7t_6XZkm23fTNSg0ZYQhy7UrzXdZ8OKNwMM6wjUWUqnMuPIuQtWzXWTS8bMSOudVG4Jnkq_jnQItWjLAct_FrFv36mi7UupZ60yWSgeqqhFKtmPCRPmG1PmnqMfkT8LDd4Y36pCZsaL8oso5lAoIX6N/s1600/IMG_1120.HEIC)
+![Під вітрилами на озері Тревіс, погляд уперед](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dg__HNZJRTCycaNmIUC5uWQjhR4Ck-4nsC7o1zKzEcJEvj5DvDPv1YNOZn8I8fcSQcbdrsfJzyT7s23nFo4_g8nCcgru1tkv2_QZ4gO4aWT0dMLfreaxoCFN4G3H9P2IPzkSd8eUb7-DYCYPULIH0zgEl7OW7zr1OFGBjgfHofnyKiJlTvP3rX5359nb/s1600/IMG_1130.HEIC)
 
 Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-testing-little.html)
 

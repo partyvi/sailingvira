@@ -193,6 +193,12 @@ Story page: [Recycling shower (CANCELLED)](https://irwin34.blogspot.com/p/recycl
 
 Після довгих роздумів я обрав Dometic MasterFlush MF 7120, електричний унітаз з подрібнювачем на 12 В. Зручний, простий і надійний. Змив прісною водою дуже допомагає із запахом, а подрібнювач означає тонші шланги й простіший монтаж. Значно ближче до домашнього унітаза.
 
+Ще в березні я перевіряв, чи стане унітаз на підставку: трохи звисає всередину, але краще мати повнорозмірне кільце.
+
+![Примірка унітаза на підставці з картонним шаблоном](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVEKMETowdXqPzAkIXt-7QnD7U_C8QfoLqC7fZavFoJeV7hjuQ8aGmjgtv8Tm4JlGzN6hei39MYQaMk4OO4g9npqPaZ7qRJT8_0nPav8z3btf89pUhEj_D4XhP6I4LaVHOa4OC30Zk2yyVV2Rpvb-XnHJW4y6OSF9aJmyl5mX-g_9Slk0IUjm2jU7QM1-/s1600/IMG_1033.HEIC)
+
+Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
+
 ![Новий електричний унітаз у гальюні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5mUZmbyae0v64lcrU3aMCkq7Atfaqfn-MYxJfbW4uu2BybZTv4by6K2eTwzkAQEgMJEECkFUVg5-4PDzL2KSaL-csIgh1Txh00LBSaUpZp6-a5oukV5z8yQzq5kiSlCf9Q9-bpq69a2lMPa82YKojwtvBzReYiyvfmRgNmFKi5LEmWap8IrvpDh5Nm_c6/s1600/IMG_1472.HEIC)
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)

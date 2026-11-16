@@ -388,6 +388,8 @@ Diary: [22 Jul 2023](https://irwin34.blogspot.com/2023/07/day-100-72223-main-bul
 Тож усе, що я казав про шафки камбуза, стосується й переборки.
 
 ![Головна переборка під ґрунтом по дереву](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaUClwSqZPxopKJD64R5F21dsB04t4Tr5Zqpn3gxvr2Zyjnuxtf7_uUdcdiBtrywXYN7OrVFQys3bkKb2Yr4UqAVXnvCkkYKb0RlgjRhf3FsgnjuJyEBHF-CVZO9PxPuZMTUjEOtf0uuS7cA2_SbHCk9_OtmHLbo8itNoaq9o2ZZVVCaonJPogPrMDT0H2/s1600/IMG_6175.HEIC)
+![Головна каюта із заґрунтованими сірим переборками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAKbC2GQXEhujILVG8WajI9UkCa9YKTHqYSXzRBlrCK70IBj_5QvENJzjxjg1QznqmQyUsEQwhz9kW3RXN3M6zT6MQmFM1_ZCeK1uOdkB_qFnu3ReMj7KyY5pI5sls2xb_xaVxo8uMvvtb8VqJqHVVWN_Iuz6a2LjUyqbD60atOFkQfwlXVymkKH3-Qidu/s1600/IMG_6170.HEIC)
+![Головна переборка, заґрунтована сірим, погляд у ніс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEyVuRbshS_IsG7-NU-9UGJad1PgIV5MSlg8igJPrnMTgLU4CjMTw3Dkt8QXFatpqv7to2iqcjcxRfvT5sXSlL8pdWzNHNoIkvxjkqkiCWvtpL-8_u0JLJ1WON55UjmUi2fyTIwPfs0owgO-kfnz0BP6fLJ5qycSryTFfnC0cw6b2oHP0AGTxvB37Vio5E/s1600/IMG_6165.HEIC)
 
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 

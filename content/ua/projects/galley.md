@@ -169,6 +169,8 @@ Diary: [22 Jul 2023](https://irwin34.blogspot.com/2023/07/day-100-72223-main-bul
 ![Заґрунтований камбуз з іншого боку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3zSm9LOKlvtSjWG3c1BvZSjNi9AeUgjC2eN--h9nEhgsHxsbPCVcZjGJPs83K1RErgsRwQ6b446EYcGjBFFr2oYtgXd0dcHHiJHaSbqbiDyKAcDPWzH0vyqLBRR2-GzfDwfgDRKlFY46pp0BBICfoIBcC2WNFGUuux4vbWhC4ppOVw1kAAmLV_fkcaNFg/s1600/IMG_6177.HEIC)
 ![Шафка камбуза пофарбована в сіре](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg57W0ple7F6Ggd_uZh9og4OLuBeSq0fNOttKF5KUDqkYTlOGkBDb5UejoZrZglfd6NNXLyZ3gf0MeSfWNq8nkntTgc94qa9qsrIa2uFCRkAYc226mD8LW_k5Tlde4inAOezD42c2myVWYQmFD6rZcL6uT_EbBkprT1_PcXz6rd8emB8U1VEdfMz9TLdfZ5/s1600/IMG_6168.HEIC)
 ![Шафка камбуза в сірому зблизька](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TAw6bWxNFr-g5boyAnw6FAydFDWQXmTmNXY_Pg8ymjHQMA9g8DV9ARpTcMzPguiXlDoehG6WskwxjYK98G0Jp52hq1LgKP8zf9yE-6fg5DtErrQQhdoI9fz2JUgNfquZZN5ZBBTtGCx5_3KqaUQovy9_m1kslBpVJ5hbrja9alW5JGTFwykQFnZphsPg/s1600/IMG_6169.HEIC)
+![Вимірювання на камбузі рулеткою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_8uq4bctcBc-vDgduMCZ-w71-8pMkekmjMSOK2wj4ZIEMg5IQB75lq63tvtpp_EL46d9EoB977YV3-rHpZtz9TYSEpbro1ntZmXKo8My-eQI2UCqH_vrq-_c9g1pXu7iY9-MFn-EEM-q86uDWEcLqV5MRo-CSKtWb8IEBX8NUHPRuA3xPbC9YX5dgVnnT/s1600/IMG_6178.HEIC)
+![Шафки камбуза, заґрунтовані сірим](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6-KlxtZZy2ojlK6oMAZ7v6CAB2_AM4pW5LyAVI-gSlLmwWY-_ao-6yQp_0jE1yiBJ4UCx0QxOj8BugiRUGfVn6z8YhN4Z2hTUr_n5zGt6KUIE-5xw49MQ4HMrFv94uh0faIRCxJzi1RiGFFqunD8IEbfi1-bEWKfB1cIdEYo7Enz3ea4uP2_BNA7t_Et0/s1600/IMG_6164.HEIC)
 
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 
