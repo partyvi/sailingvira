@@ -2,7 +2,7 @@
 id: refrigerator
 title: "Refrigerator"
 section: interior
-order: 4
+order: 6
 description: "The old ice chest turned into a refrigerator, a compressor that died at sea, and my own thermostat."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh46Lmckdc6fJakQaxPNhqcEubFdnETQ2C7GVkPWVxAuRw6RPGS53sEVe1SveXYY_j6GaN2D1yn7O066CKg-jsGXfw6_MU3M8U44uwHZdd5upmpD3rFk6S_VkrFccagp-NKtLOXtBRxnyI1ZXG47pKIDc3x2-caDuRhyPxx9GX0O6p-5CVA39hbGgxPg8vV/s1600/IMG_2811.HEIC"
 ---

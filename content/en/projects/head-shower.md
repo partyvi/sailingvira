@@ -2,7 +2,7 @@
 id: head-shower
 title: "Head & shower"
 section: interior
-order: 5
+order: 7
 description: "Shower walls, head cabinet, toilet and the shower that was never built."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC"
 ---
