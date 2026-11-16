@@ -541,7 +541,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
     tabs = "".join(
         f'<a href="{esc(tab_href(k, lang, rel))}"{" aria-current=page" if k == tab else ""}'
         f'{" target=_blank rel=noopener" if TAB[k][0] is None else ""}>{lab[lang]}</a>' for k, _, lab in TABS)
-    og_img = f'<meta property="og:image" content="{esc(size(image, "w1200"))}">' if image else ""
+    og_img = f'<meta property="og:image" content="{esc((BASE if image.startswith('/') else '') + size(image, "w1200"))}">' if image else ""
     lb = ""
     if lightbox:
         lb = (f'<div class="lb" id="lb" hidden><img id="lbimg" alt=""><div class="bar"><span id="lbcap"></span>'

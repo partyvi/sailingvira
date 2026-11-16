@@ -4,7 +4,7 @@ title: "Охолодження прісною водою"
 section: engine
 order: 2
 description: "Переведення Yanmar 2QM20 на охолодження прісною водою: готові деталі і кілька саморобних."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiUOwh9biXRgU8u6LNJIgv0VRi0E9dqh1Oo0TYhHoKVMOkQNW4BXR6jSCEthofY7JxC0qJsu73Ccar_mafa0HjMZgO_JXmOrUUmCa0i5IeNYvJFAR7TjNNlduQtXC7tEEzoA4rwTJQNMatw_XzWpGk0n2xqrjVVsdEAf-2H7BDRsSiwmFNK4ohpjtfrjAf/s1600/E1.png"
+cover: "/assets/photos/fwc-cooling-flow.webp"
 ---
 Мій Yanmar 2QM20 у дуже гарному стані. Мабуть, він ніколи не бачив солоної води, і я хотів би, щоб він служив мені вічно. Тож я перевів його на охолодження прісною водою. Історія нижче йде крок за кроком за моєю оригінальною статтею в щоденнику: [Engine - Fresh water cooling](https://diary.sailingvira.com/p/engine-fresh-water-cooling-in-progress.html). Спершу план у трьох картинках: як охолоджувальна рідина тече двигуном, куди стають помпа прісної води і теплообмінник, і нові шланги.
 
