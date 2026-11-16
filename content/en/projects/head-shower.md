@@ -1,10 +1,10 @@
 ---
 id: head-shower
-title: "Head & shower"
+title: Head & shower
 section: interior
 order: 7
-description: "Shower walls, head cabinet, toilet and the shower that was never built."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC"
+description: Shower walls, head cabinet, toilet and the shower that was never built.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC
 ---
 The head on an old boat is the room nobody wants to talk about. Mine greeted me on day one by spitting half a liter of old pee-poo into my face. So yes, it needed some work. Here's how it went from that to white walls, a real shower pan, a water-saving shower, and finally a toilet my wife approves of.
 
@@ -103,12 +103,6 @@ It was mostly practice in roll-and-tip, and I'd give us 4 out of 5. Looking back
 
 Diary: [11 Feb 2023](https://irwin34.blogspot.com/2023/02/day-78-211-shower-walls-prep-and.html)
 
-And one more view of the boat from behind. It's hard to see in photos how beamy she is. I like beamy girls.
-
-![Viktor in a respirator after painting the head](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCzTJUshu8o9AjGdj2rcI4kNtIQh_rg1e1QRGPH25RE0jBTnzGuFL_MMHyypMwMBGtEAR3wAn0DshfFNiKVj36lGDtDPdfxCH7PFPzRXN9RQmc1eQRuBm74k-QNjUXPECfP-c24pjnnSNoL3Kud1KWHnVl53OOwck9i_ydycFVxWoGYGfZjkk4EVt0Og/s1600/IMG_5511.HEIC)
-![Sailboats at the marina on Lake Travis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGlGciJ9yeMQtiMWcF4f67Qie7IdIWHLswuVkGiuv-RCmrqpZphlNt-npSzjAgzFF4uvUEcFTOBAo6HVmDyoh6UVqJ8O5IY9Zpjk9GxaeG7iWvV1R11oxV02keEibi8GJIpYbNlaQPN5uNM4zH51-kdgIGXMIvnjzK2nockIja7CI1vSBUU_a05mEHeg/s1600/IMG_5107.HEIC)
-
-Diary: [11 Feb 2023](https://irwin34.blogspot.com/2023/02/day-78-211-shower-walls-prep-and.html)
 
 ## Cabinet, light, door
 
