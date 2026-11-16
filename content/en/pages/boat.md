@@ -9,6 +9,11 @@ cover: https://blogger.googleusercontent.com/img/a/AVvXsEiyQA0qbz237Z-QhU0nteMv3
 ---
 Vira is an Irwin Citation 34, built in 1978. Here is the model in numbers, a few facts about Vira herself, and what I think of the design after years of living inside her with a sander in my hand.
 
+## What I think of her
+
+Card: [What I like and dislike](boat/likes/) | My point of view on the original design: the good parts and the parts that made me swear.
+Card: [Upgrades log](boat/upgrades/) | Everything that is better now than when she left the factory, area by area.
+
 ## The Irwin Citation 34
 
 Ted Irwin drew her, and Irwin Yachts in Florida built her from 1978 to 1985, about 305 boats. She's a masthead sloop with a solid fiberglass hull, a roomy 11-foot-3 beam and classic 70s lines. There were two keels: a deeper fin and a shoal keel with a centerboard.
@@ -45,11 +50,6 @@ The numbers come from published spec sheets and boat reviews, and they differ a 
 | Engine | Yanmar 2QM20, two cylinders, about 20 hp, converted to fresh water cooling, with a hand crank |
 | Home | Lake Travis, Texas, until 2025; Kemah, Galveston Bay, since 2026 |
 | Name and home port | VIRA, Houston, TX |
-
-## What I think of her
-
-Card: [What I like and dislike](boat/likes/) | My point of view on the original design: the good parts and the parts that made me swear.
-Card: [Upgrades log](boat/upgrades/) | Everything that is better now than when she left the factory, area by area.
 
 ## Was and now
 
