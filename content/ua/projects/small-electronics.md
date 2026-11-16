@@ -167,3 +167,9 @@ Diary: [24 Aug 2026](https://irwin34.blogspot.com/2026/08/days-276-277-sailing-k
 ![Монітор батарей із деталями однієї батареї](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG2UhzxmaO5JBVW_bRLnzAqq2ZtpCX1HdFAoOOtKT-UNazweH0G8msNDuS98R5eTgbjbs7ZpmrZVlwrRNAonlhjDnZFlA6yT1RSY0oV-kG-QZzfXGdIKqJjRjdYyeYvnY2oWEJG-rfGXjpGV2jfyACkcXKhS1ux6YjNGJR3pG_qEzhUFKMqjPHHdG-uqB/s1600/5B20C409-8C04-48EB-8FA1-199F821AF230.jpg)
 
 Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-thermostat-bumpy.html)
+
+## Термостат холодильника
+
+Ще одна плата з жовтня 2026-го: мій власний термостат для холодильника, з тривогами і вебсторінкою по Wi-Fi, після того як три дешеві китайські померли за три роки. Живе він разом із холодильником, тож уся історія — у [Холодильник: Тож я зробив власний термостат](../refrigerator/#c5).
+
+Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-thermostat-bumpy.html)
