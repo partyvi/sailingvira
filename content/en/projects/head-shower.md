@@ -170,17 +170,6 @@ So in June 2025 I made a controller that sends the cold water in the hot pipe ba
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
 
-Before that I had an even bigger idea: a recycling shower. It would use the boat's pressure water and water heater, have a clean mode and a recycling mode, automatic temperature control, and cost under $350, plus a hair filter, a service rinse cycle and a winterizing cycle.
-
-The design had two pumps ($130) and a small 8-liter tank, so the shower runs at least 30 seconds while the water recycles. The tank had a level sensor ($15) and three zones: 3 liters at the bottom to mix and control the temperature, 3 liters where the level is held while recycling, and 2 liters of safe overfill. Then seven electric valves at $5 each, about $20 of pipes and fittings, a cheap IP67 windlass foot switch ($15), and my own control board (about $95 with buttons, an IP68 box and two temperature sensors). For the second revision I designed an air/water separator from a 1-foot piece of 4-inch PVC pipe, with two water sensors at 1/4 and 1/2 height.
-
-I wrote down every step: prepare, clean shower, recycling shower, finish, off, hot water purge, a service wash, and even winterizing with a gallon of antifreeze (or cheap vodka). In the end I cancelled the project. The simple controller does the job, and nobody on board was asking for recycled shower water anyway.
-
-![Diagram of the shower system](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDLdEnYkNvRT7rUzY44UVKEHT4AyWiC0BkQYFfvNclFOMmN9SFABEgsOSjJpu1hOS2nJrzfiwLLlcVl6NlW2cB_mNmOXGgUGeeWKpDWYlmmU0d3QmM5aeQK0-5qsiGac8mEDs3dl69NbsbQ0E9Su3o19bJgEyg9S_PJEyOT3g8xyjLeLU2D0EcLUQ2077Z/s1600/Recycle%20Shower%20-%20Jan%2031%202025%20-%201-19%20PM.jpg)
-![Whiteboard sketch of the shower plumbing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2R8e4f7wVL5i8LKPpnQ5vvhrutSg-Dc__eD-Xgqk8XnyhC0q995nfvEj3TaImgW6DVcEQleQDsT1YJYw4ve_p0_YM6vegeSjpbA4Oqalepjz_uCxXwmv-pi7EKo7hx3uK_h_wXnhsbdaGjHtowkFTgNdw7D66V7wl5nYA9zPExbndddh1H2JweDMHbSP/s1600/5684.png)
-
-Story page: [Recycling shower (CANCELLED)](https://irwin34.blogspot.com/p/recycling-shower.html)
-
 ## A real toilet, finally
 
 I'd been thinking about a "right", wife-proof toilet for a long time. The porta-potty was fine for the occasional day sail. But once we moved to Kemah and started sleeping on the boat some weekends, there was a problem: carrying poop 200 miles in the car and dealing with it at home is not a solution. Especially when the marina has a free pump-out.
