@@ -3,6 +3,9 @@ D=sys.argv[1]
 posts=json.load(open(f"{D}/parsed.json"))
 # ordered rules: (sub, regex on section title)
 R=[
+("fresh-water-cooling", r"fresh ?water cool|freshwater|heat exchanger|coolant|thermostat housing"),
+("khatkapi", r"khatka|baseboard"),
+("radar-mount", r"radar"),
 ("small-electronics", r"khatka|controller|brightness|tri-?color|anchor light|power switch|dry bilge|small electronic|lpg solenoid|engine monitor|thermostat|wattcycle|battery monitor"),
 ("standing", r"chainplate|chain plate|forestay|backstay|shroud|standing rigging|dyneema|rope terminator"),
 ("sailing", r"^sailing|sailing\b|sail out|sunset sail|happy sailing|miles in|get out for"),
@@ -19,7 +22,9 @@ R=[
 ("galley", r"galley|countertop|microwave|stove|propane|lpg|sink|faucet"),
 ("head-shower", r"\bhead\b|toilet|shower|holding|sanitation"),
 ("water", r"water tank|fresh water|water heater|water pump|plumb|pressure|tank|gray water|water"),
-("sole-cushions", r"cabin sole|sole|floor|cushion|pillow|cabin table|table|mattress"),
+("cabin-sole", r"cabin sole|\bsole\b|floor"),
+("cushions", r"cushion|pillow|mattress|chart table|nav ?table"),
+("cabin-table", r"cabin table|\btable\b"),
 ("navigation", r"navig|autopilot|plotter|openplotter|ais|radar|instrument|wind |windex|depth|nav ?pod|navpod|gps|imu|compass|vhf|display|screen|raspberr|rudder position|helm|speed sensor|antenna"),
 ("interior-wood", r"bulkhead"),
 ("electrical", r"electr|wiring|wire|batter|inverter|panel|elci|shore power|alternator|light|charger|solar|cable|breaker"),
@@ -39,12 +44,12 @@ L={ # label fallback
 "Engine":"engine","Engine monitor":"small-electronics","Electric":"electrical","Electrical":"electrical","Mast":"mast","chainplates":"standing","Deck":"deck-structure",
 "Painting":"deck-paint","Windows":"windows","interior":"interior-wood","Galley":"galley","Refrigerator":"refrigerator","Air conditioner":"aircon",
 "Water tankage":"water","Head":"head-shower","shower":"head-shower","Sailing":"sailing","Navigation":"navigation","Instruments":"navigation","autopilot":"navigation",
-"Windlass":"windlass","chain locker":"windlass","Fuel Tank":"fuel","Hull":"hull-bottom","Cushions":"sole-cushions","Sails":"sails","Sailpack":"sails",
+"Windlass":"windlass","chain locker":"windlass","Fuel Tank":"fuel","Hull":"hull-bottom","Cushions":"cushions","Sails":"sails","Sailpack":"sails",
 "Report":"reports","Bilge Pump":"engine","Wood":"interior-wood","Stanchions":"deck-structure","Structural":"deck-structure","Garage":"engine","horor":"beginning","Headliner":"interior-wood",
 }
 PAGE={"Beginning...":"beginning","What's wrong and good in Irwin34 '78, My point of view":"beginning","What is improved vs original?":"reports","Fixed ports":"windows",
-"Windlass & chain locker":"windlass","Engine - Fresh water cooling":"engine","Cabin sole rebuild story":"sole-cushions","Cabin table":"sole-cushions",
-"Standing rigging":"standing","Rigid radar mount for $115":"navigation","Helm instrument console":"navigation","Recycling shower (CANCELLED)":"head-shower",
+"Windlass & chain locker":"windlass","Engine - Fresh water cooling":"fresh-water-cooling","Cabin sole rebuild story":"cabin-sole","Cabin table":"cabin-table",
+"Standing rigging":"standing","Rigid radar mount for $115":"radar-mount","Helm instrument console":"navigation","KhatkaPi Baseboard":"khatkapi","Recycling shower (CANCELLED)":"head-shower",
 "Irwin 34, Photo Albums":None,"pictures":None}
 def cls(p,s):
     if p["kind"]=="page":
