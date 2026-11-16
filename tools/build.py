@@ -791,6 +791,14 @@ open(f"{OUT}/sitemap.xml", "w").write(
 open(f"{OUT}/robots.txt", "w").write(
     "User-agent: *\nDisallow: /\n" if site.get("noindex") else f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
 open(f"{OUT}/.nojekyll", "w").write("")
+for old_slug, new_slug in (site.get("redirects") or {}).items():  # moved pages: tiny pages that forward
+    for l in LANGS:
+        target = f"{BASE}/{url_of(l)}{new_slug}"
+        os.makedirs(f"{OUT}/{url_of(l)}{old_slug}", exist_ok=True)
+        open(f"{OUT}/{url_of(l)}{old_slug}index.html", "w").write(
+            f'<!doctype html><meta charset="utf-8"><title>Moved</title><meta name="robots" content="noindex">'
+            f'<link rel="canonical" href="{target}"><meta http-equiv="refresh" content="0; url={target}">'
+            f'<p><a href="{target}">{target}</a></p>')
 if VIDEOS:  # saved with the site, so a later build can reuse it when YouTube is down
     open(f"{OUT}/videos.json", "w").write(json.dumps(VIDEOS, ensure_ascii=False))
 os.system(f'{sys.executable} "{B}/tools/blogger_theme.py" "{B}" "{OUT}/blogger-theme.xml"')
