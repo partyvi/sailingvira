@@ -1,10 +1,10 @@
 ---
 id: aircon
-title: "Кондиціонування і вентиляція"
+title: Кондиціонування і вентиляція
 section: interior
 order: 9
-description: "Агрегат Webasto, муки з помпою забортної води, повітроводи і тикові решітки."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC"
+description: Агрегат Webasto, муки з помпою забортної води, повітроводи і тикові решітки.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC
 ---
 Техаське літо на човні без кондиціонера — це не життя, а виживання. Тож кондиціонер з'явився дуже рано, на другий місяць. А щоб зробити все справді добре, пішли роки: помпи, повітроводи, заслінки, решітки і одна довга війна з вібрацією.
 
@@ -95,12 +95,6 @@ Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-co
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-Ще я поставив нормальні штуцери для шлангів на вентиляцію моторного відсіку. Не маю уявлення, як Irwin їх тримав. Схоже, вони просвердлили отвори в палубі й устромили туди ПВХ-шланг, і більше його ніщо не тримало.
-
-![Шланг вентиляції з новим наконечником](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Bw-iaFv0ilCyI3pR0sV85dNzSIW8S36mu0oqhTSrRaV2JQDcQVahIpN9nvJBNy6ehcql4EJRW5IkWJuLt8WcDm4wdrEtlS1b8wDmOIQD4eHcrdULpdOaMCGlbHIY0oK8m67WaloX63Tl5QAZnQ8rxxLCJoJpxciC0xVSbNsvjQ6gTQaqkwNjJluw6A/s1600/IMG_3840.HEIC)
-![Дефлектор вентиляції на носовій палубі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8-KMZrgyH8lud7wli5cE9cwEFSpJ5uVwky0cedw1jS_mCQs3iD3BNWrq9p660EdsKtZqeKkkMirsRTaULdzLWUkN50OVM_yzZkPG4DzoSHjUlI_uOKG6RdvNLIJlGJ4UFv0bJqBf0TDvSJayt_fnoHcm7civ-CJBwLJC7iPY3REgXet8hdKwJHmHPBg/s1600/IMG_3839.HEIC)
-
-Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
 
 ## Пінопластові коробки й електричні заслінки
 
