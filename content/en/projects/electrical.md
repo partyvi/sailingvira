@@ -341,6 +341,7 @@ In 2025 the lithium-ion inverter battery (2,480 Wh plus the 1,200 Wh booster) wa
 March 2026: the new 100 Ah LiFePO4 house battery had been in for a few weeks without a proper fuse. A class-T fuse went on the battery cable. Breaker guards went on the main panel. And a Victron 25 A charger for the inverter battery was wired in behind the panel. Still to do: its 110 V feed, and a relay to block charging when the 110 V system runs from the inverter.
 
 ![Victron 25 A charger behind the panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqwQ5ZT3V_QSB8Cp8l6lADtiCRCWkUcZZTquOkeKAHhRGvfNHLlOgoCdSzypw-HJh_1Gk7EZnKlNs7URWZ55WH3jenqcm2PI5_UXtVJcXBsIDUw8PTGNXsSDXat-jtfUP9Xgmo6hyphenhyphentwwHCI8ZPKYc7Xw1wys-9HmEkPa0P1OiG5BkM9wv3EacyiKpi0Amc/s1600/IMG_0983.HEIC)
+![Class-T fuse on the LiFePO4 house battery](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFULt___Wau1YLoiCvE5ro8jzV0SbO08AmWZjMHz24F-jV_5HdSDAlNvTEyQdjPi4cwD1timy_nnF6nAbm4Z93R9WqH4y7MdX_cs-AVGb8ynfPBjiqUzuD_72dOVAfPYBDr0oTubbG0V4LtVAKHPnw_TU6y9oOdj-ZOiRW83W64WBwbJbPPR2ZlGyP86c/s1600/IMG_0894.HEIC)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)

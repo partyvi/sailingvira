@@ -237,7 +237,15 @@ Diary: [17 Aug 2025](https://irwin34.blogspot.com/2025/08/day-222-re-sealing-fro
 
 March 2026, in Kemah. The water heater went back in with a new riveted aluminum bracket on its front ear. With the original mount I had to remove the electrical box every time to get to the screws. The new bracket is shaped so the screws take only side load, not pulling. And the heater got an IP68 power connector. I also pulled the empty black water tank and checked the inlet flange: 1.5 inches.
 
+![Water heater back in place](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCStjZrS_8NGLUHsuHoRutUVvT19oUhVQg9DV2Hv-vc-ZoxfOOGUTyAKTLQz6B7Qp_ITiOmNnh4npw7QfSm2L4sH6J7DBbA3j0oGE0rGZqnPLbs6uoAqB9yExgGDetPjtSAXdSSFTVuNAVnCFyi1OYj-6pSfq6hX35EhxbjYFb34cnca5iwVcTGkluHrq/s1600/IMG_0911.HEIC)
+
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+Two weeks later, a surprise. I powered up the fresh water pump, and half an hour later found water on the floor. The accumulator tank was leaking. The next day I got a new one, a SeaFlo, at West Marine and put it in.
+
+![Water on the floor from the leaking accumulator](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYSg7VlYDbSmzX2cSwNvazQfqWUwqnMjhQWqeX7idk-sb3XjIDqy7SqHIJTYhuGcxDyUtkOYNvTdIMDu-ngcGcu7_gWlxY7LVU7ErdEsRzkypZmR0yp1jQ0E3l0N_1IkpQgx2SvEvOfzOmesCfSPJJrKxtBtcvSpATq-YQT2n69ex-vZQCvTtdZbA9Elx_/s1600/IMG_0979.HEIC)
+
+Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
 In June 2026 I noticed a fishy smell from the fresh water tanks, so it was time for a proper sanitizing. I chlorinated the whole system: 300 ml of bleach in about 80 gallons of water, flushed through all the lines and left for about 20 hours. Then I drained and refilled the tanks with city water three times.
 

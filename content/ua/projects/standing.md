@@ -326,6 +326,8 @@ Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-prepa
 
 Коли ставили щоглу, палець, що тримає ліві нижні ванти біля кореня краспиць, вискочив зі свого місця. Довелося попустити нижні ванти й заштовхнути його назад.
 
+![Талреп на путенсі, законтрений](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTjn7aKQXkUkKXcTrzfh0poshs_mjtLdl1Pc3W3zrkpSuvmpNfEXtKJYZLCafSb5OhCnMNu3DhqrSHntr2C7UhL8ElV67d4TdYZ_fSG-LaBFJsrT0Ud03YVeVNLbtUL79kHxLFyii14QSh5Wd3RNshq_E2EVaLzVk3Ogn3W9YyEArpkTsJMw0QiAbtMyM5/s1600/IMG_0895.HEIC)
+
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
 У липні 2026-го «Віра» вийшла під вітрила з новим гротом і новими вантами. Від гнилої фанери в гальюні до нового троса згори донизу: тепер цей ланцюг нарешті міцний у кожній ланці.

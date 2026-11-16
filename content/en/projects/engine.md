@@ -93,6 +93,7 @@ On Day 5 I installed a sump pump and a bilge pump switch. The hose still needs r
 
 ![Sump box with the new pump and hoses](https://blogger.googleusercontent.com/img/a/AVvXsEhvB680u3mKAfwqcH5APxQj3b75jmw6lr0YFT0NvFyt7J4T_YzoZGGr00sca-v48rCDlAKy91oInjRO5LNZ9wNJ3pPh99t_XbX64E9HMeYWE31iK1bOZT--q7tHFlsduQ3VofbQdfa8j-xOtPLYh5_wWDrbD__6fgxnNtZ4hmw3z_h_QNBH48DyZn6pYw=s1600)
 ![Sump box under the cabin sole](https://blogger.googleusercontent.com/img/a/AVvXsEioIEH67771Tu40XqxGs-k2sGMiXUDV1tj6_jvToXueFTtmKCRkb84omXZ8VFcfcvldrAOjLOZxeQR7m5x_ECexY_DniC2h_5DftdO6_mfQS2zSi5bD1DxFYo-diGDA3icPpgVuX4XWq65g6OmB3VOzldaPz9rX1GQBpJzbu9wPfWJriy1hKidOIrMIJQ=s1600)
+![Under the cabin sole: sump drain hoses and fittings](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
@@ -460,6 +461,15 @@ Small things before the splash: new aluminum deck light brackets instead of the 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
 When I put the engine and the shaft coupling together, I couldn't find the right setscrews and made them from regular bolts, which I couldn't drill for safety wire. So I 3D printed caps with tabs, put them on, and wired over them. The setscrews are in with blue Loctite; the wire is just one more safety check. And I checked the rudder sensor calibration.
+
+![Shaft coupling setscrews with printed caps and safety wire](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzGFQeKwdTDne6QkXaet8e3YSVLloXnXxo5unZ9-Fn5O-5Yfwfg74oQu7PAU8tUhfqsT03OhEU942kPFz_9m_WVq1msK_yXdKfNLxCHQKV1dpZlDoCHNgh1iaFHrp3txRCL2rXv2ySZD_oO_9nS9Prd1m6MVPsYck7vD7pLh2f4HUSw731xO0wjcOQsVDR/s1600/IMG_0908.HEIC)
+
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+My drill bit sets needed updating too: 1/16, 3/32, 5/32, 13/64, 15/32 and 29/64 inch were missing, and 1, 3.5, 5, 5.5, 6, 6.5 and 7 mm.
+
+![Inch drill bit set](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Kbn2AUeKotgGYjAXlaLMff7hH45thC_ccr6dzupxQ0-j1mvd6IyewAYf2e3yxuEU0Z_fZgSa4oKXCuQhAXg_-dnIfdQ6VarCIAcg0ELlUFGLuj_LPsC4FvBJ7KC3TDDueiaQzhmnc7IximUgGiMtelC-604N0hSUyyNRAMxzswhs8skcBZKPgN1L2WDP/s1600/IMG_0906.HEIC)
+![Metric drill bit set](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBVH4XNbRhlCjaUO9h9wO5ByEM_ySdUDlmdngtLf_bZFu8AKDp_3dQMMd0eFd-UoYzGEQlByL70006bNmoPp1Tq2q93s-qb2cKG2Jg7wZDpUqCMqAsXmhi6P11Qig6n2salc7t43qOQIgQvs8Cwp76GhMHQfzX3vZpXkWaZ4Zd3Y4rx0cuFMNcBLMwjKmk/s1600/IMG_0907.HEIC)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 

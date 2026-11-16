@@ -114,6 +114,7 @@ Diary: [26 Feb 2023](https://irwin34.blogspot.com/2023/02/set-sail-4-hour-walk-a
 A foggy morning at the marina.
 
 ![Foggy morning at the marina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpWE7J0htxQ5PHxIwiOWW98nCVw7KEl22s8BnkA1dGU8RNCB3LcTXrOMEVp2xZI0ilWnl5h-xYWf-OPvwCl9FX1RF5C3HtrkjzqiOTzUbPbMb1QBREd3XXKrG9pfR2oVD3JW5s0HhY2hjbCzauhkEsVCD6rK5h5aa2QbEUVVlTLtciKbwRbcfs11ynA/s1600/IMG_5497.HEIC)
+![Lake Travis and the marina from the stairs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif3blbLXgL1E6ORJzy2P6f22vji2gvJ2vzZVyBB5jqW0RrdbdS4E8P24N-atayjJnQrfZGQUj5W5TvBZaEKTXPqQ2KFMgQnhG0uIz7NAZVZkpF2-Wy79vUJhnGo74uVKYR2Y4b-uAi3XN7GsaJpSJWZ8hY4KjqdON1leK78oEXGP19XRXV8j4o5FhGlW7g/s1600/IMG_6149.HEIC)
 
 Diary: [30 Jul 2023](https://irwin34.blogspot.com/2023/07/day-101-73023-main-bulkheads-and-galley.html)
 
@@ -283,6 +284,16 @@ March 2026, Kemah. A rainy evening, my first night aboard Vira. Kemah Boardwalk 
 ![Rainy evening, first night aboard Vira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbfpqoZpiD7K17fmNs8eTx4ZDmvDkSh7kM1k1VIDAIGwEv-MTs0pBMbYrwmmsH2PHBeBZPiUjpRUMxmhHI7Uk7_rFl6DFY8iw8zu48XW2l4zTRockYn_D0bJqNsui-XMNqLhiiTUKyncAQNOJmYd7PV9e-0__EgUTt8BW5R0aAt11njZmGzdKWFAC_xY7k/s1600/IMG_0903.HEIC)
 ![Rainy evening, first night aboard Vira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1v0vMpkVP5A6LUfAu0G2Sfaiv9YOo5hS0T8Y9frzWC8sXoaO_7YzCrNpVOLK-DSpI5Q8yCG-OAWjWP8TyotEdQM3pktIKk7Z45S_4Y6CK_PvNmKxu6cW9xYowr7qHPE2BZjcR4Nh3kZEOZoRIRZMr-kCl7v1DCAZywvhU6kx8eVGCtBCv7gMip5bKhPRD/s1600/IMG_0900.HEIC)
 ![Kemah Boardwalk Marina after the rain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig_BlA0kBg-AkXPeNiiVOWzeROH-zSnPRUThXbHEgxIEcMuQVv6-WGpLLpqNlI7ybU3W8VT4io2el6Qh_ZFOhKwoG-odCGSIEdkkkY_CSuOckcz9-9KmVjuumU3qTpDL33PLAiNL87mE2HnujfvVRPkgProHdp8gaz5ySBG_5TkpH_0dZvoPVakzKAFzTK/s1600/IMG_0901.HEIC)
+![Kemah marina at night, fire table by the water](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ipJBTBuSOE0LNlkxUtHvfgkuvLUvbuzx713rKJY-vpw4tC4ygBBNBjFQGrR3DCVt7COW-j_QessyGq9_iL4po_uQ27AfTNH2WoAlBhp5vsRmp6tThuNx0cUBalJ-uNb1s8C4T6_p0H7P4keWZp3Y1ap5_WrdVIvy8_Gybg0JwRpH2ueMFk2PRz0f-xEs/s1600/IMG_0974.HEIC)
+![Kemah docks at night](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmqlr4KoQFv1hridrdfmkGK1Iy28PnlZAGPE3Oy40nk7uljABgWAyIdFMa8eDWvovz5lJw5GTQpowVSNp5h4QkVjpYZJDHME9iFDDmczfsxbC4iBFqQprjqrcbmNZpS1IuvFw_XT61sbT_33iZ-8bMuLWdHN_ASZAoz79ybbj_00VyxRAds5gIR52BfKB0/s1600/IMG_0985.HEIC)
+
+Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
+
+A little comfort on board: breakfast, and new hooks and a small mirror on the wall.
+
+![Breakfast on board: eggs and coffee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicCyusljvH4IjhssCebjb57pRXK4-mWdNm3RzqORZr00rHClzvrAY9LawndyLB9Ut5vnwDtDwOEyUwQ4PARUoRuskESfRwvWTYdfH40kWBcoLPpKgHT1ZmvMLUt_BsyOEs57mw91UdhafPXV0Jun4vWYPtWqEf8C3zyV-NfiyBnFgI5GlTffCoWss1ayf6/s1600/IMG_0987.HEIC)
+![New hooks on the cabin wall](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5NdPXnpjwwLqJGGfbbp8QWJWt6NzBtRVoZ18rrM2wy-slyb-Id-MmPP2TNNz8qe7uDx2tWuSZQxRQbWAP59xb2qYTmlfgdvwyMgarTZ1msRuW9Cn8ZX9GiFHs5VQF_ZeQ0QEvIJkGFVUO_eubHsbi65z3nxTjnqzKauzf5y52qmDL83c-evpmjynA-uV/s1600/IMG_1036.HEIC)
+![Jackets on the new hooks, with the small mirror](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-AwQQxO3P2LzTe9HnOLLUwwP5e__yIRwpHD6s0dfVR_EM7t4WC6y1GgZkWl3oDcKBNUPnW8-e3bZ4qsdw4mRkirbjZcT7IRLfe52jx67zfjs9Etfp2GprUg-kwcWQQnE5uhT_Wivyirhyphenhyphenm9F7AhkmUrvoaLYyqZkY4srgc3GPqeBOmrYtd110222m91d7/s1600/IMG_1037.HEIC)
 
 Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 

@@ -326,6 +326,8 @@ Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-prepa
 
 When we stepped the mast, the pin that holds the port lowers at the spreader root slid out of place. I had to ease the lowers and push it back in.
 
+![Turnbuckle at the chainplate, secured](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTjn7aKQXkUkKXcTrzfh0poshs_mjtLdl1Pc3W3zrkpSuvmpNfEXtKJYZLCafSb5OhCnMNu3DhqrSHntr2C7UhL8ElV67d4TdYZ_fSG-LaBFJsrT0Ud03YVeVNLbtUL79kHxLFyii14QSh5Wd3RNshq_E2EVaLzVk3Ogn3W9YyEArpkTsJMw0QiAbtMyM5/s1600/IMG_0895.HEIC)
+
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
 In July 2026 Vira went sailing with a new main and new shrouds. From rotten plywood in the head to new wire from top to bottom: that chain is finally strong in every link.

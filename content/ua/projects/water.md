@@ -237,7 +237,15 @@ Diary: [17 Aug 2025](https://irwin34.blogspot.com/2025/08/day-222-re-sealing-fro
 
 Березень 2026-го, Кема. Бойлер повернувся на місце з новим кронштейном з алюмінію на заклепках на його передньому вушку. З оригінальним кріпленням мені щоразу доводилося знімати електричну коробку, щоб дістатися до гвинтів. Новий кронштейн має таку форму, що гвинти працюють лише на зріз, а не на вирив. А бойлер отримав роз'єм живлення IP68. Ще я витягнув порожній фекальний бак і перевірив фланець входу: 1,5 дюйма.
 
+![Водонагрівач знову на місці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCStjZrS_8NGLUHsuHoRutUVvT19oUhVQg9DV2Hv-vc-ZoxfOOGUTyAKTLQz6B7Qp_ITiOmNnh4npw7QfSm2L4sH6J7DBbA3j0oGE0rGZqnPLbs6uoAqB9yExgGDetPjtSAXdSSFTVuNAVnCFyi1OYj-6pSfq6hX35EhxbjYFb34cnca5iwVcTGkluHrq/s1600/IMG_0911.HEIC)
+
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+Через два тижні — сюрприз. Я ввімкнув помпу прісної води, а за пів години знайшов воду на підлозі. Протікав гідроакумулятор. Наступного дня я купив новий, SeaFlo, у West Marine і поставив.
+
+![Вода на підлозі від гідроакумулятора, що протікав](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYSg7VlYDbSmzX2cSwNvazQfqWUwqnMjhQWqeX7idk-sb3XjIDqy7SqHIJTYhuGcxDyUtkOYNvTdIMDu-ngcGcu7_gWlxY7LVU7ErdEsRzkypZmR0yp1jQ0E3l0N_1IkpQgx2SvEvOfzOmesCfSPJJrKxtBtcvSpATq-YQT2n69ex-vZQCvTtdZbA9Elx_/s1600/IMG_0979.HEIC)
+
+Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
 
 У червні 2026-го я помітив рибний запах з баків прісної води, тож настав час для справжньої дезінфекції. Я прохлорував усю систему: 300 мл відбілювача з хлором на приблизно 80 галонів води, прогнав крізь усі лінії й залишив десь на 20 годин. Потім тричі злив і наповнив баки міською водою.
 
