@@ -37,7 +37,6 @@ Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring
 
 In November 2022, after the walls in the main cabin were tabbed to the hull, I decided to build the nav station around the original table. Then came templates for it.
 
-![Templates for the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yorxnfMs30yw1w5u_lZKLlC8YbO36FvZCzLcDOVZkS1BpQ1_68Y99caVpbcsH2lCdMMjr9r8cb1alYKen_ocJHPr_psCBnQSEiTOFLfqSVaZPqTfM2PjhVdFQmy9HT6AYhKfmTxxIhRd9t-gVkVTRs7xSd_MXVT-EfBnyWDWo-NrDt2hJi68wkpQVw/s1600/IMG_4232.HEIC)
 ![Templates for the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjioNoyOuNsfcG2OA3Dk3f-zNMDQ5DLDGvzkokpNQMsFdK430zq7hulDDDPXBq36Cc_PZmU02helE_VDSSn-wzn4AXxJYxjRuAwQlqJXBrihkF5jSyDVz8sQVxLgQv6xQHM463uJ2spC-uDjtQ8xiYwOzcO2T2tVL-mQD48IgDXw5FLjC9KoUa2IJWz5w/s1600/IMG_4241.HEIC)
 
 Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-cabin-cabinet-main.html)
