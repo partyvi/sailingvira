@@ -1,10 +1,11 @@
 ---
 id: refrigerator
-title: "Refrigerator"
+title: Refrigerator
 section: interior
 order: 6
-description: "The old ice chest turned into a refrigerator, a compressor that died at sea, and my own thermostat."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh46Lmckdc6fJakQaxPNhqcEubFdnETQ2C7GVkPWVxAuRw6RPGS53sEVe1SveXYY_j6GaN2D1yn7O066CKg-jsGXfw6_MU3M8U44uwHZdd5upmpD3rFk6S_VkrFccagp-NKtLOXtBRxnyI1ZXG47pKIDc3x2-caDuRhyPxx9GX0O6p-5CVA39hbGgxPg8vV/s1600/IMG_2811.HEIC"
+description: The old ice chest turned into a refrigerator, a compressor that
+  died at sea, and my own thermostat.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh46Lmckdc6fJakQaxPNhqcEubFdnETQ2C7GVkPWVxAuRw6RPGS53sEVe1SveXYY_j6GaN2D1yn7O066CKg-jsGXfw6_MU3M8U44uwHZdd5upmpD3rFk6S_VkrFccagp-NKtLOXtBRxnyI1ZXG47pKIDc3x2-caDuRhyPxx9GX0O6p-5CVA39hbGgxPg8vV/s1600/IMG_2811.HEIC
 ---
 Vira came with an old ice chest. I turned it into a real refrigerator, and that refrigerator taught me a lot: about foam, fans, condensers and compressors. It's also why I ended up designing my own thermostat.
 
@@ -103,7 +104,7 @@ Diary: [12 Jul 2025](https://irwin34.blogspot.com/2025/07/day-207-water-came-bac
 
 Three years before, I had put the guts of a household refrigerator into my icebox. It worked surprisingly well through three years of lake sailing. A few days in Galveston Bay finished it off.
 
-A household compressor has the motor and pump hanging inside the case on springs. At sea, especially in "washing machine" conditions (2-foot waves at a 3-second period), it got thrown around so much that one hot wire rubbed through its insulation and shorted to the case. The next time it got wet, the compressor died.
+A household compressor has the motor and pump hanging inside the case on springs. At sea, especially in "washing machine" conditions (2-foot waves at a 3-second period), it got thrown around so much that one hot wire rubbed through its insulation and shorted to the case. The compressor died.
 
 I always knew it wouldn't last forever on a boat. It was a 120 V compressor too, and the long-term plan had always been a proper 12 V marine/RV compressor. Well, the time had come.
 
