@@ -53,6 +53,7 @@ Item: ![3D-модель кришечки отвору для повітря](htt
 
 CAD-креслення і справжні сторінки з блокнота, з яких почалася більшість деталей.
 
+Item: ![Креслення Irwin Citation 34](https://lh3.googleusercontent.com/d/1WRpfz_SRhQCxkNBddpwcNY7fazFZtMPA=w1600) [Човен Irwin 34](boat/) | Креслення Irwin Citation 34: більшість — з відкритих джерел, доопрацьовані мною, деякі зроблені за реальними вимірами на моєму човні. Є файли DXF. | https://drive.google.com/drive/folders/1z1JcRUQWYnsTm9SDWZ-poF_4hS187zCg
 Item: ![Ескіз геометрії кермування в блокноті](https://lh3.googleusercontent.com/d/1ZbgnLCeykzOk-Gky4_3jdJFrlhCO_Q9O=w1600) [Геометрія кермування для авторульового](navigation/#c5) | Розрахунки в блокноті для привода авторульового: передаточні числа, сили і пас. | https://drive.google.com/drive/folders/1S2_TaesRQPSK0ENh60bqgGZRu2G2iwuE
 Item: ![Креслення розмірів такелажу зі штагом і ахтерштагом](https://lh3.googleusercontent.com/d/1HmM-mhODaeO13MhMtMgo8gDx8WWzb35i=w1600) [Розміри такелажу](mast/#c5) | Заміри щогли, штага, ахтерштага і вант Irwin 34. | https://drive.google.com/drive/folders/1MDb3FMLXvc0ChGphGgTJWZ2mEbDly5VW
 Item: ![Нові нержавійні путенси на дошці](https://lh3.googleusercontent.com/d/16xMsFlM1TSA26Cf_YgvdFPJqW9AdLEqK=w1600) [Креслення путенсів](standing/#c3) | Путенси з розмірами, як я їх замовляв. | https://drive.google.com/drive/folders/1137qQyoCFYhJ0-L4hSj3fHzNrd7r8aCP

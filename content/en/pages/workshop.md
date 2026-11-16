@@ -53,6 +53,7 @@ Item: ![3D model of the air-bleed cover](https://lh3.googleusercontent.com/d/17R
 
 CAD drawings and the real notebook pages, where most parts started.
 
+Item: ![Irwin Citation 34 drawing](https://lh3.googleusercontent.com/d/1WRpfz_SRhQCxkNBddpwcNY7fazFZtMPA=w1600) [Boat Irwin 34](boat/) | Drawings of the Irwin Citation 34: most from open sources and refined by me, some made from real measurements on my boat. DXF files included. | https://drive.google.com/drive/folders/1z1JcRUQWYnsTm9SDWZ-poF_4hS187zCg
 Item: ![Notebook sketch of the steering geometry](https://lh3.googleusercontent.com/d/1ZbgnLCeykzOk-Gky4_3jdJFrlhCO_Q9O=w1600) [Autopilot steering geometry](navigation/#c5) | Notebook math for the autopilot drive: ratios, forces and the belt. | https://drive.google.com/drive/folders/1S2_TaesRQPSK0ENh60bqgGZRu2G2iwuE
 Item: ![Drawing of the rig dimensions with forestay and backstay](https://lh3.googleusercontent.com/d/1HmM-mhODaeO13MhMtMgo8gDx8WWzb35i=w1600) [Rig dimensions](mast/#c5) | Mast, forestay, backstay and shroud measurements of the Irwin 34. | https://drive.google.com/drive/folders/1MDb3FMLXvc0ChGphGgTJWZ2mEbDly5VW
 Item: ![New stainless chainplates on a board](https://lh3.googleusercontent.com/d/16xMsFlM1TSA26Cf_YgvdFPJqW9AdLEqK=w1600) [Chainplate drawings](standing/#c3) | The chainplates with dimensions, as I had them cut. | https://drive.google.com/drive/folders/1137qQyoCFYhJ0-L4hSj3fHzNrd7r8aCP
