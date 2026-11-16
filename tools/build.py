@@ -24,13 +24,13 @@ UI = {
     "en": {"all": "All projects", "prev": "Previous", "next": "Next", "photos": "photos", "posts": "diary posts",
            "days": "work days", "years": "Texas", "projects": "projects", "day": "Day", "diary": "Diary",
            "page": "Story page", "story_page": "Story page", "open": "Open photo", "close": "Close",
-           "blog": "Diary on Blogger", "risk": "Shared for information only. Use at your own risk.", "disc": "Disclaimer", "ck_text": "This site uses Google Analytics cookies to count visitors. Nothing is set until you agree.", "ck_yes": "Accept", "ck_no": "Decline", "ck_set": "Cookie settings", "missing": "", "notfound": "Page not found",
+           "blog": "Diary on Blogger", "risk": "Shared for information only. Use at your own risk.", "disc": "Disclaimer", "ck_text": "This site uses Google Analytics cookies to count visitors. Nothing is set until you agree.", "ck_yes": "Accept", "ck_no": "Decline", "ck_set": "Cookie settings", "fb_text": "Questions, corrections or ideas about this page?", "fb_btn": "Write to me", "fb_about": "About the page:", "missing": "", "notfound": "Page not found",
            "notfound_text": "This page does not exist. Go to all projects.",
            "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]},
     "ua": {"all": "Усі проєкти", "prev": "Попередній", "next": "Наступний", "photos": "фото", "posts": "записів у щоденнику",
            "days": "робочих днів", "years": "Техас", "projects": "проєкти", "day": "День", "diary": "Щоденник",
            "page": "Сторінка", "story_page": "Сторінка історії", "open": "Відкрити фото", "close": "Закрити",
-           "blog": "Щоденник на Blogger", "risk": "Лише для інформації. Використовуйте на власний ризик.", "disc": "Застереження", "ck_text": "Цей сайт використовує cookie Google Analytics, щоб рахувати відвідувачів. Нічого не зберігається, доки ви не погодитеся.", "ck_yes": "Погоджуюсь", "ck_no": "Відмовитись", "ck_set": "Налаштування cookie",
+           "blog": "Щоденник на Blogger", "risk": "Лише для інформації. Використовуйте на власний ризик.", "disc": "Застереження", "ck_text": "Цей сайт використовує cookie Google Analytics, щоб рахувати відвідувачів. Нічого не зберігається, доки ви не погодитеся.", "ck_yes": "Погоджуюсь", "ck_no": "Відмовитись", "ck_set": "Налаштування cookie", "fb_text": "Питання, виправлення чи ідеї щодо цієї сторінки?", "fb_btn": "Напишіть мені", "fb_about": "Про сторінку:",
            "missing": "Український переклад цієї історії ще готується. Поки що текст англійською.",
            "notfound": "Сторінку не знайдено", "notfound_text": "Такої сторінки немає. Перейдіть до всіх проєктів.",
            "months": ["січ", "лют", "бер", "кві", "тра", "чер", "лип", "сер", "вер", "жов", "лис", "гру"]},
@@ -395,10 +395,16 @@ def special_html(kind, lang):
                 f'<label for="cf-name">{f["name"]}</label><input id="cf-name" name="name" required autocomplete="name">'
                 f'<label for="cf-email">{f["email"]}</label><input id="cf-email" name="email" type="email" required autocomplete="email">'
                 f'<label for="cf-msg">{f["msg"]}</label><textarea id="cf-msg" name="message" rows="7" required></textarea>'
+                f'<p class="cf-about" id="cf-about" hidden>{UI[lang]["fb_about"]} <a id="cf-about-a" href="#"></a></p>'
+                f'<input type="hidden" name="page" id="cf-page" value="">'
                 f'<input type="hidden" name="_subject" value="Sailing Vira: {f["subject"]}">'
                 f'<input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">'
                 f'<input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">'
-                f'<button type="submit">{f["send"]}</button></form>')
+                f'<button type="submit">{f["send"]}</button></form>'
+                "<script>(function(){var p=new URLSearchParams(location.search).get('from')||'';"
+                "if(p.indexOf(" + json.dumps(BASE + "/") + ")!==0)return;"
+                "document.getElementById('cf-page').value=p;var a=document.getElementById('cf-about-a');"
+                "a.href=p;a.textContent=p;document.getElementById('cf-about').hidden=false})();</script>")
     return ""
 
 
@@ -475,6 +481,19 @@ def tab_href(key, lang, rel):
 
 
 
+
+def feedback_html(lang, slug, rel, path):
+    """'Write to me' box at the bottom of every page (not on Contact or 404). The link carries the page address,
+    which the contact form sends along with the message."""
+    if path == "404.html" or slug == "contact/" or not site.get("contact_form"):
+        return ""
+    import urllib.parse
+    page_url = f"{BASE}/{url_of(lang)}{slug}"
+    href = f"{rel}{url_of(lang)}contact/?from=" + urllib.parse.quote(page_url, safe="")
+    u = UI[lang]
+    return (f'<aside class="fb"><p>{u["fb_text"]}</p>'
+            f'<a class="fbbtn" href="{esc(href)}">✉ {u["fb_btn"]}</a></aside>')
+
 def analytics_html(lang):
     """Google Analytics (site.yml ga_id), loaded only after the visitor accepts cookies (GDPR).
     The choice is kept in localStorage; the footer link 'Cookie settings' asks again."""
@@ -541,6 +560,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 {hero}</header>
 <div class="wrap">
 {body}
+{feedback_html(lang, slug, rel, path)}
 <footer class="foot mono"><a href="{esc(site.get("diary_url") or site["blog_url"])}" target="_blank" rel="noopener">{UI[lang]["blog"]} ↗</a>
 <a href="{esc(site.get("youtube_url", ""))}" target="_blank" rel="noopener">YouTube ↗</a>
 <span>© {esc(site["name"])}</span>
