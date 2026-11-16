@@ -59,3 +59,9 @@ It went in anyway. In June Maria and I found it a bit low in the up position, so
 ![Checking the table height on its post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_MOOfetRif5fmRYdYt3AReW9Voy3UcGgwY19IvIepnw0Sxc8CfrXmf-rBnchW_BC2a8czAXBI73_eZn8RQU3PU9Wz1PMiQ0J6ZaiEa0WafGX7L8IZvP9SSMUxDw63i1tqHwi-3tu839hfdjB1ih737zsgqsu6TM3u9C0IRfh1b1IOyqzcd8VwWYjLqMq/s1600/IMG_0891.HEIC)
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
+
+And here it is in the finished main cabin: teak top, new cushions around it, and still enough room to walk past. Not so massive after all.
+
+![The teak table in the finished main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi9AkLCf0eRaKfL6tkOh6yc4XEjwhTj_o_T8H4TiHVnLZpENlaY9G3jbTVBEvAbWSYHZ8xvDDEdK5j5s8mEziQh5j-XzSD7X2chEkdnT6fEnarIWT5URs4YH7MLTwEUFbYCBDF-aA4mrL2o8_AjlGptzppCUcxbYnPqYpQB9m2PwLvGUqGKI7fgU5N1y_-/s1600/IMG_0788.HEIC)
+
+Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
