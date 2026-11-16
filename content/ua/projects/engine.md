@@ -3,7 +3,7 @@ id: engine
 title: "Двигун"
 section: engine
 order: 1
-description: "Yanmar 2QM20: витягування, нові подушки, двоконтурне охолодження, ручний старт, трюм."
+description: "Yanmar 2QM20: витягування, нові подушки, двоконтурне охолодження, ручний старт."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC"
 ---
 На «Вірі» стоїть Yanmar 2QM20: два циліндри, близько 20 к.с., кінець сімдесятих. Двигун простий; йому навіть електрика не потрібна, щоб працювати. Але я інженер, і хочу знати, що з ним усе гаразд, і впіймати будь-яку дрібницю ДО того, як вона виросте в ПРОБЛЕМУ. За п'ять років я витягнув його з човна, виніс угору 140 сходинками, вилікував від диму, дав йому охолодження прісною водою і ручний стартер і під'єднав до свого комп'ютера. Тепер він працює краще, ніж, мабуть, працював у 1978-му.
@@ -86,51 +86,6 @@ Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapoi
 Лютий 2023-го: перевірка масла й 30 хвилин на середніх обертах. Усе добре, трохи білого диму з запахом горілого масла. Сальник не капає, і це мене трохи нервує, але годинна робота наступного дня зовсім не нагріла коробку сальника. Ще я почистив роз'єм керування двигуном; контакт датчика тиску масла пропадав.
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
-
-## Збірник і трюмні помпи
-
-На 5-й день я поставив помпу збірника й перемикач трюмної помпи. Шланг ще треба замінити, щойно вдасться стягнути його з фітинга.
-
-![Зливний бокс із новою помпою і шлангами](https://blogger.googleusercontent.com/img/a/AVvXsEhvB680u3mKAfwqcH5APxQj3b75jmw6lr0YFT0NvFyt7J4T_YzoZGGr00sca-v48rCDlAKy91oInjRO5LNZ9wNJ3pPh99t_XbX64E9HMeYWE31iK1bOZT--q7tHFlsduQ3VofbQdfa8j-xOtPLYh5_wWDrbD__6fgxnNtZ4hmw3z_h_QNBH48DyZn6pYw=s1600)
-![Зливний бокс під підлогою каюти](https://blogger.googleusercontent.com/img/a/AVvXsEioIEH67771Tu40XqxGs-k2sGMiXUDV1tj6_jvToXueFTtmKCRkb84omXZ8VFcfcvldrAOjLOZxeQR7m5x_ECexY_DniC2h_5DftdO6_mfQS2zSi5bD1DxFYo-diGDA3icPpgVuX4XWq65g6OmB3VOzldaPz9rX1GQBpJzbu9wPfWJriy1hKidOIrMIJQ=s1600)
-![Під підлогою каюти: шланги й фітинги зливу збірника](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
-
-Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
-
-У липні 2022-го я закрив короб збірника акрилом. Помпа працювала добре, АЛЕ води не качала. Коли я спробував зняти шланг зі зворотного клапана, то зламав клапан, і після цього помпа качала ідеально. Моя теорія: короб був порожній, а помпа повна повітря, але в шлангу стояла вода, і зворотний тиск не давав помпі заповнитися. Тож потрібен маленький отвір, що випускатиме повітря назад у короб збірника. Зламаний зворотний клапан замінили; отвір для повітря з'явився пізніше.
-
-![Розміри зворотного клапана](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_SzIVWpNaChtXici7DxL4w37nrj6YCPXqTt9pA-wpDcEHUCKLjiDXUXo_EdM191VdogVsMgi3xrdciwWiG0nq0qZJE4HoDZksZP7yHJ4DK_gYKAdQBg509a1meHGGwNgZL0-G2cxH9crlX7aH_EYBEHvqGhLLowvu9aWh0I-1NJS2kEKCNn75UX63uA/s1600/CHeck%20valve.png)
-
-Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
-Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
-
-Ручна трюмна помпа виглядала так, наче її ніхто не обслуговував від самого будівництва човна. Діафрагма пересохла, і помпа зовсім не засмоктувала. Я її перебрав, поставив назад, і тепер вона добре засмоктує сама.
-
-![Ручна трюмна помпа розібрана](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF6Ft_7JGqm71J7qeOdJbO0ppMAnEy0_R8g9ZdLCNB_lQhQDUsO7VXEGaTrs8tddtuWn6pF_fafetKGQz4m34FNauCT7_DyoJHpnFyr3ARmd4icpic2wNoIonfb08NxtXJv5KbWuzUDmg34KHcy__z-_z-7tAJq-Pdo0l1QimszzvVqGNjzfTAr4_fQw/s1600/IMG_3083.HEIC)
-![Мембрана і корпус трюмної помпи](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtyJVVc0V0RaqJ_JpcLpRIESxo2CTxfDwhIMYZ8Hluol3cn9jM1pZYMWha4h4snnp7M5pPvYkp_ib6ZGANl8mDcqpTGDYD7dh3iZWiN010QVyqLpzfw62N-AXtj2ZMVpevq8FvnqLo8yfVz5tEE1OTITVl62jvp2h_XNK3gqU83KaVI0_I2G1V0j2c0A/s1600/IMG_3082.HEIC)
-![Деталі ручної помпи, перебрані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOea-x9xVGj1klktaygr8A2C-MyuZOs0r09Ei946S-7kY8uq1J_LvNB0LOvem5TuXrJWdexWA8PhwpzS2bcBMIGl-bOTXwL6-uV1qyucCqNxwbMTVmluGRAYWanLItIi3fkrMZ_QerI7caBZ3hPrpWIH1QKzIgQtFLQmyM-oiJPlMsjBXXL4lHX4nw9A/s1600/IMG_3333.HEIC)
-![Ручна помпа знову зібрана](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdsSBpak8DZwmn4ltipRxqje09ZlxVtV23OQjNg12GSoxQQhgvharKIZJEyRR8pj0Je6MCWt6Yq4IUJqM8uUYuivOi_RF3a4xKc5Io8HtYUbPchzVh3JDSk4IAFsowtCuQDfQIWZGmELOg-gg6bujXPKEyl_4raBQsX35-v34yWVoVDPqSk0sb6NbmOw/s1600/IMG_3332.HEIC)
-![Гніздо ручки трюмної помпи в кокпіті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihhAtNKzAtbuSCu-JQEvPpdMLnY7_upMSFB6jvre4c3xXqYbnAiYqZ7kLn3oBxV6tn4JzTFgkof9eyJ9mF9J7OzmbXzSHDEWBL4_nfATt2hJpQKX_v1T5RH5dxFtUETexaI6tJvyqsHU2USO45U2mF-Uc2YPIsN8pxiyiPCgJSWWEYkUyN97FNgMmupA/s1600/IMG_3385.HEIC)
-![Шланги головної трюмної помпи в трюмі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9E5gojyxkD2MFXqCZBgjfv-WLcukg8WcfOjjt4q26ufEPfg4rHV-M21XXJYhUAOkEucBy1MpcDlEI09Pn2M2Bvkl3UpKL1aQ-mmHVEVnVjyZwTBmFHAPtNoJRrnuZ4AjBojFtOyjlYS4WmjbQHT1U-BRRVlgapVE2JTsY8grSYwFS4Z2_L_ijhhI9Ew/s1600/IMG_3386.HEIC)
-
-Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
-Diary: [18 Jul 2022](https://irwin34.blogspot.com/2022/07/day-37-718-port-window-installation-air.html)
-Diary: [25 Jul 2022](https://irwin34.blogspot.com/2022/07/day-38-39-723-724-mast-steps-installed.html)
-
-У 2026-му я повернув на місце перемикач головної трюмної помпи, а пізніше підклав під нього 1/2-дюймову проставку, бо помпі не вистачало води, щоб почати качати. Поміряв трюм під аварійну помпу: щонайбільше 9 дюймів завглибшки.
-
-Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
-
-Моя головна трюмна помпа серйозна, 3 800 галонів на годину. Але була одна маленька проблема. На виході стоїть вбудований зворотний клапан, щоб вода не стікала назад, коли помпа зупиняється, а шланг довгий. Так зробив попередній власник. Іноді, особливо після того як моя маленька помпа «сухого трюму» вибирала все до останньої краплі, а потім вода набиралася до рівня перемикача, велика помпа ловила повітряну пробку. Вона чудово крутилася, але води не рухала, бо не могла заповнитися. Мені не подобається такий спосіб відмови: саме тоді, коли помпа найпотрібніша, вона сидить і крутиться, не рухаючи ні краплі.
-
-Варіантів було два. Прибрати зворотний клапан: повітряних пробок не буде, але щоразу, як помпа зупиняється, близько двох галонів стікатимуть назад у трюм, а при сильному крені через вихід могла б заходити морська вода. Або дати захопленому повітрю вихід, перш ніж помпа почне рухати воду, ціною трохи відкачаної води, що повертатиметься в трюм. Я вибрав друге. Просвердлив маленький отвір для випуску повітря у вихідному шлангу між помпою і зворотним клапаном, а також спроєктував і надрукував маленьку кришечку, яка спрямовує будь-яку воду з отвору назад униз у трюм, закріплену стяжкою. Просто, дешево і, сподіваюся, на один сюрприз менше.
-
-![Шланг скиду трюмної помпи з отвором для повітря](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2oZ-eR819r9dL1ZOijglWEOdRgO9dQHh2dpPTQFtvwAm0vCztIo8TIVONy2X6BUCGZTQzSn-D-AMlxp-qxIkPm-0Jr-9MrIeANilsYnAhyphenhyphenskXxsIw4TX9KqWYMbd7Lot7ip1wmdVWsNpYMiuz8tOdk4kK9udwb4SgBQINtdLomhNNrCfyz32E4RjaQ_Q/s1600/IMG_1549.HEIC)
-![3D-модель кришечки отвору для повітря](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9EEQn4GVRJEIUWFkCYIh9PjX_PZTGcw8TbPXCn29fIPxVJ8QntmhaekN6FXbHNlTcxpBjmEM77kSqeaCCxO9Nbbjbn4KKOOEjmmKLGL8Jjm7kLJFIO6ceh0b2RzlZZOL1dsx9D4TTgk3ZmKtsFXCVKgSsSUqadJ3tS85EaOWtnHZuNLKl3xRXgEwTHpJ/s1600/Untitled.png)
-
-Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mainsail-variable.html)
 
 ## Вихлоп і дірка в каюту
 

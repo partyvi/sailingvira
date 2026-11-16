@@ -28,8 +28,13 @@
   title:
     en: Interior & comfort
     ua: Інтер'єр і комфорт
-- id: voyages
+- id: safety
   order: 6
+  title:
+    en: Safety
+    ua: Безпека
+- id: voyages
+  order: 7
   tab: sailing
   title:
     en: Sailing
