@@ -2,7 +2,7 @@
 id: water
 title: "Система прісної води"
 section: interior
-order: 5
+order: 6
 description: "Осмос у баках, нові трубки, помпи і водонагрівач."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6abBxEM6i4ge0awiDr75WebRxhOblWqNxtSWR4T_UpsxS4dtIzJrCSsLnu_K23yZbo_oeE3H3B_uUstR7Ztl8yRh9Gxzwev6wB7umn7Ppx_7yNkQbqY7NkVlJO6dqqqOyuJHlVlb86Sx6k_Mwr3Hid68oXzWMhhkqx25uR3u5mkjNl8RKy-h1vq5FXQ/s1600/IMG_4312.HEIC"
 ---

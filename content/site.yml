@@ -31,3 +31,6 @@ home:
   intro:
     en: From a neglected project boat on Lake Travis to sailing big water.
     ua: Від занедбаного проєктного човна на озері Тревіс до плавань у великій воді.
+# Old page addresses that forward to new ones (after projects were split or renamed).
+redirects:
+  galley-fridge/: galley/
