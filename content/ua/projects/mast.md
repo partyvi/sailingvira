@@ -303,3 +303,11 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 ![Віктор біля гіка з новими рифовими блоками](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaNvul03AMX1CX4B8lD5Y5ZyKRBkBOzrFiNtH8TeOs19Re1F5VivjO-cAhaDL8YTrqpNjsnuz3i7qZMWNcK9CnlLuP-McKDQO7Pp5as_iHO6EJ1Jye_S0q830PfrIC_OLsaYqHyAzAoIruHduU11HXhvFoVzhh93GhvNRb_3Ib4TlQhuBfUfd-ZoyNlDKq/s1600/IMG_2604.HEIC)
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
+
+А ось як зовнішня проводка рифів на гіку виглядає тепер, уже остаточно: риф-шкентелі йдуть зовні вздовж гіка, крізь невеликі напрямні, до блоків і лебідки біля щогли.
+
+![Риф-шкентелі проходять крізь напрямну під гіком](/assets/photos/mast-reefs-1.webp)
+![Два риф-шкентелі в напрямній на гіку, з рифовим гаком](/assets/photos/mast-reefs-2.webp)
+![Риф-шкентелі вздовж гіка до щогли, біля причалу](/assets/photos/mast-reefs-3.webp)
+![Панорама гіка із зовнішньою проводкою рифів](/assets/photos/mast-reefs-4.webp)
+![Лебідка на гіку і риф-шкентелі, погляд у корму](/assets/photos/mast-reefs-5.webp)

@@ -626,8 +626,7 @@ HOME_UI = {
 # ---------------------------------------------------------------- build
 shutil.rmtree(OUT, ignore_errors=True)
 os.makedirs(f"{OUT}/assets")
-for f in os.listdir(f"{B}/tools/assets"):
-    shutil.copy(f"{B}/tools/assets/{f}", f"{OUT}/assets/{f}")
+shutil.copytree(f"{B}/tools/assets", f"{OUT}/assets", dirs_exist_ok=True)  # incl. assets/photos/
 
 posts = {(v["date"], v["ptitle"]) for v in sec.values() if v["kind"] == "post"}
 stats = {"posts": len(posts), "photos": sum(len(photos_of(EN[p])) for p in order),
