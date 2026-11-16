@@ -1,12 +1,30 @@
 ---
 id: water
-title: "Система прісної води"
+title: "Водопровід і прісна вода"
 section: interior
 order: 8
-description: "Осмос у баках, нові трубки, помпи і водонагрівач."
+description: "Збірник, осмос у баках, нові трубки, помпи і водонагрівач."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6abBxEM6i4ge0awiDr75WebRxhOblWqNxtSWR4T_UpsxS4dtIzJrCSsLnu_K23yZbo_oeE3H3B_uUstR7Ztl8yRh9Gxzwev6wB7umn7Ppx_7yNkQbqY7NkVlJO6dqqqOyuJHlVlb86Sx6k_Mwr3Hid68oXzWMhhkqx25uR3u5mkjNl8RKy-h1vq5FXQ/s1600/IMG_4312.HEIC"
 ---
 На човні прісна вода — це життя. Коли я отримав «Віру», з цих баків я пити б не став: осмотичні пухирі, фарбовані фанерні кришки, іржаві шурупи для гіпсокартону і дірка, просвердлена в дні бака. Так, справді. Ось як водопровід пройшов шлях від «навіть руки не мий» до продезінфікованих хлором баків, труб PEX, бойлера і контролера наповнення, що кричить на мене, коли бак повний.
+
+## Збірник під підлогою
+
+
+На 5-й день я поставив помпу збірника й перемикач трюмної помпи. Шланг ще треба замінити, щойно вдасться стягнути його з фітинга.
+
+![Зливний бокс із новою помпою і шлангами](https://blogger.googleusercontent.com/img/a/AVvXsEhvB680u3mKAfwqcH5APxQj3b75jmw6lr0YFT0NvFyt7J4T_YzoZGGr00sca-v48rCDlAKy91oInjRO5LNZ9wNJ3pPh99t_XbX64E9HMeYWE31iK1bOZT--q7tHFlsduQ3VofbQdfa8j-xOtPLYh5_wWDrbD__6fgxnNtZ4hmw3z_h_QNBH48DyZn6pYw=s1600)
+![Зливний бокс під підлогою каюти](https://blogger.googleusercontent.com/img/a/AVvXsEioIEH67771Tu40XqxGs-k2sGMiXUDV1tj6_jvToXueFTtmKCRkb84omXZ8VFcfcvldrAOjLOZxeQR7m5x_ECexY_DniC2h_5DftdO6_mfQS2zSi5bD1DxFYo-diGDA3icPpgVuX4XWq65g6OmB3VOzldaPz9rX1GQBpJzbu9wPfWJriy1hKidOIrMIJQ=s1600)
+![Під підлогою каюти: шланги й фітинги зливу збірника](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
+
+Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
+
+У липні 2022-го я закрив короб збірника акрилом. Помпа працювала добре, АЛЕ води не качала. Коли я спробував зняти шланг зі зворотного клапана, то зламав клапан, і після цього помпа качала ідеально. Моя теорія: короб був порожній, а помпа повна повітря, але в шлангу стояла вода, і зворотний тиск не давав помпі заповнитися. Тож потрібен маленький отвір, що випускатиме повітря назад у короб збірника. Зламаний зворотний клапан замінили; отвір для повітря з'явився пізніше.
+
+![Розміри зворотного клапана](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_SzIVWpNaChtXici7DxL4w37nrj6YCPXqTt9pA-wpDcEHUCKLjiDXUXo_EdM191VdogVsMgi3xrdciwWiG0nq0qZJE4HoDZksZP7yHJ4DK_gYKAdQBg509a1meHGGwNgZL0-G2cxH9crlX7aH_EYBEHvqGhLLowvu9aWh0I-1NJS2kEKCNn75UX63uA/s1600/CHeck%20valve.png)
+
+Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
+Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
 ## Перша перевірка
 

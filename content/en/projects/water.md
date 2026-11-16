@@ -1,12 +1,30 @@
 ---
 id: water
-title: "Fresh water system"
+title: "Plumbing & fresh water"
 section: interior
 order: 8
-description: "Osmosis in the tanks, new plumbing, pumps and the water heater."
+description: "The sump box, osmosis in the tanks, new plumbing, pumps and the water heater."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6abBxEM6i4ge0awiDr75WebRxhOblWqNxtSWR4T_UpsxS4dtIzJrCSsLnu_K23yZbo_oeE3H3B_uUstR7Ztl8yRh9Gxzwev6wB7umn7Ppx_7yNkQbqY7NkVlJO6dqqqOyuJHlVlb86Sx6k_Mwr3Hid68oXzWMhhkqx25uR3u5mkjNl8RKy-h1vq5FXQ/s1600/IMG_4312.HEIC"
 ---
 On a boat, fresh water is life. When I got Vira, the tanks were not something I'd drink from: osmosis pox, painted plywood lids, rusty drywall screws, and a hole drilled in the bottom of a tank. Yes, really. This is how the water system went from "don't even wash your hands with it" to bleach-clean tanks, PEX pipes, a water heater and a fill controller that yells at me when the tank is full.
+
+## The sump box
+
+
+On Day 5 I installed a sump pump and a bilge pump switch. The hose still needs replacing, once I can get it off the fitting.
+
+![Sump box with the new pump and hoses](https://blogger.googleusercontent.com/img/a/AVvXsEhvB680u3mKAfwqcH5APxQj3b75jmw6lr0YFT0NvFyt7J4T_YzoZGGr00sca-v48rCDlAKy91oInjRO5LNZ9wNJ3pPh99t_XbX64E9HMeYWE31iK1bOZT--q7tHFlsduQ3VofbQdfa8j-xOtPLYh5_wWDrbD__6fgxnNtZ4hmw3z_h_QNBH48DyZn6pYw=s1600)
+![Sump box under the cabin sole](https://blogger.googleusercontent.com/img/a/AVvXsEioIEH67771Tu40XqxGs-k2sGMiXUDV1tj6_jvToXueFTtmKCRkb84omXZ8VFcfcvldrAOjLOZxeQR7m5x_ECexY_DniC2h_5DftdO6_mfQS2zSi5bD1DxFYo-diGDA3icPpgVuX4XWq65g6OmB3VOzldaPz9rX1GQBpJzbu9wPfWJriy1hKidOIrMIJQ=s1600)
+![Under the cabin sole: sump drain hoses and fittings](https://blogger.googleusercontent.com/img/a/AVvXsEh5uEmTxt3qUJSgxQGJCP5X3c6bAr1Id5-t73Z_Ks-fM_oA7mg4iKWu8urdqgJpYPE4qUORTQfcbF-cESC0Nk_MSO9MSfbf4rXk5tWCOPrewBH42tAdWtDz6BhexnGygr8ThL79JxPCNcAjbhi2g46_tzlHHdl0VN994fqpCgKIWGoG7Jz8p7cNv2qoQQ=s1600)
+
+Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
+
+In July 2022 I closed the sump box with acrylic. The pump ran well, BUT pumped no water. When I tried to take the hose off the check valve, I broke the valve, and then the pump pumped perfectly. My theory: the box was empty and the pump full of air, but the hose had water in it, and the back pressure stopped the pump from priming. So I need a small hole that lets the air out, back into the sump box. The broken check valve got replaced; the air hole came later.
+
+![Inline check valve dimensions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_SzIVWpNaChtXici7DxL4w37nrj6YCPXqTt9pA-wpDcEHUCKLjiDXUXo_EdM191VdogVsMgi3xrdciwWiG0nq0qZJE4HoDZksZP7yHJ4DK_gYKAdQBg509a1meHGGwNgZL0-G2cxH9crlX7aH_EYBEHvqGhLLowvu9aWh0I-1NJS2kEKCNn75UX63uA/s1600/CHeck%20valve.png)
+
+Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-climbing-small.html)
+Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
 ## First test
 
