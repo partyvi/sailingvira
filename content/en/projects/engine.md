@@ -1,10 +1,11 @@
 ---
 id: engine
-title: "Engine"
+title: Engine
 section: engine
 order: 1
-description: "Yanmar 2QM20: haul-out, new mounts, fresh water cooling, manual starter, bilge."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC"
+description: "Yanmar 2QM20: haul-out, new mounts, fresh water cooling, manual
+  starter, bilge."
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC
 ---
 Vira has a Yanmar 2QM20: two cylinders, about 20 hp, from the late seventies. It's a simple engine; it doesn't even need electricity to run. But I'm an engineer, and I want to know it's OK and catch any issue BEFORE it grows into a PROBLEM. Over five years I took it out of the boat, carried it up 140 steps, fixed its smoke, gave it fresh water cooling and a hand crank, and wired it to my computer. It runs better now than it probably did in 1978.
 
@@ -448,7 +449,7 @@ I also replaced the raw water hose from the pump to the heat exchanger with one 
 
 Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-emergency-manual.html)
 
-## Hours on the clock
+## Raw Water Strainer
 
 At the boatyard in 2026: a SeaFlo raw water strainer, on a stand so I can clean it, above the waterline, and every raw water clamp set.
 
@@ -456,21 +457,15 @@ At the boatyard in 2026: a SeaFlo raw water strainer, on a stand so I can clean 
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-Small things before the splash: new aluminum deck light brackets instead of the original mild steel. The camera and wind instrument rebuilt with a power supervisor. 3M 4200 inside the rudder mount spacer. The autopilot actuator reattached with a 3/8 to 5/16 spacer in the arm and a second nut with Loctite. The shaft coupling bolts tightened with Loctite. A vent hose on the PSS seal. The cockpit hose clamps checked. The engine room, the bilge and the cockpit cleaned.
+The shaft coupling bolts tightened with Loctite. A vent hose on the PSS seal. The cockpit hose clamps checked. The engine room, the bilge and the cockpit cleaned.
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-When I put the engine and the shaft coupling together, I couldn't find the right setscrews and made them from regular bolts, which I couldn't drill for safety wire. So I 3D printed caps with tabs, put them on, and wired over them. The setscrews are in with blue Loctite; the wire is just one more safety check. And I checked the rudder sensor calibration.
+When I put the engine and the shaft coupling together, I couldn't find the right setscrews and made them from regular bolts, which I couldn't drill for safety wire. So I 3D printed caps with tabs, put them on, and wired over them. The setscrews are in with blue Loctite; the wire is just one more safety check.
 
 ![Shaft coupling setscrews with printed caps and safety wire](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzGFQeKwdTDne6QkXaet8e3YSVLloXnXxo5unZ9-Fn5O-5Yfwfg74oQu7PAU8tUhfqsT03OhEU942kPFz_9m_WVq1msK_yXdKfNLxCHQKV1dpZlDoCHNgh1iaFHrp3txRCL2rXv2ySZD_oO_9nS9Prd1m6MVPsYck7vD7pLh2f4HUSw731xO0wjcOQsVDR/s1600/IMG_0908.HEIC)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-My drill bit sets needed updating too: 1/16, 3/32, 5/32, 13/64, 15/32 and 29/64 inch were missing, and 1, 3.5, 5, 5.5, 6, 6.5 and 7 mm.
-
-![Inch drill bit set](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Kbn2AUeKotgGYjAXlaLMff7hH45thC_ccr6dzupxQ0-j1mvd6IyewAYf2e3yxuEU0Z_fZgSa4oKXCuQhAXg_-dnIfdQ6VarCIAcg0ELlUFGLuj_LPsC4FvBJ7KC3TDDueiaQzhmnc7IximUgGiMtelC-604N0hSUyyNRAMxzswhs8skcBZKPgN1L2WDP/s1600/IMG_0906.HEIC)
-![Metric drill bit set](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBVH4XNbRhlCjaUO9h9wO5ByEM_ySdUDlmdngtLf_bZFu8AKDp_3dQMMd0eFd-UoYzGEQlByL70006bNmoPp1Tq2q93s-qb2cKG2Jg7wZDpUqCMqAsXmhi6P11Qig6n2salc7t43qOQIgQvs8Cwp76GhMHQfzX3vZpXkWaZ4Zd3Y4rx0cuFMNcBLMwjKmk/s1600/IMG_0907.HEIC)
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
 How the engine runs since the fresh water conversion is at the end of the [Fresh water cooling](../fresh-water-cooling/) story.
