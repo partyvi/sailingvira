@@ -1,8 +1,8 @@
 ---
 id: jailbreak
 title: "Втеча з озера і верф"
-section: voyages
-order: 1
+section: story
+order: 2
 description: "Як ми покинули обміліле озеро Тревіс заради Кема, і дев'ять днів на березі."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4AojRpatKVIhIuqm669ho9bWItjoojQvkZ5EDQIahHTv3NwRXQkZs4lk9uyFZxGyx8SE4reBvMBcEU0eN5-4OABigjaJhwIKGX4d0V5aQRegHRQItpBt3FtWr4jQjcrxpUlzRGGYvE1SQMKXQQk1XOlM5VO11KqCutyQuVnwNcJfLuMxBQTVMh_8K4pM/s1600/Resized_20251111_194347_1762911848395.jpeg"
 ---
