@@ -366,9 +366,9 @@ def youtube_videos():
 
 
 VIDEOS = youtube_videos()
-FORM_UI = {"en": {"name": "Your name", "email": "Your email (so I can answer)", "msg": "Message", "send": "Send", "subject": "new message from the site",
+FORM_UI = {"en": {"name": "Your name", "email": "Your email (so I can answer)", "msg": "Message", "send": "Send", "subject": "new message from the site", "sending": "Sending…", "ok": "Thank you! Your message was sent. I'll answer as soon as I can.", "err": "Sorry, the message could not be sent", "retry": "Please try again later.",
                   "off": "The contact form opens soon. Until then, leave a comment on any diary post."},
-           "ua": {"name": "Ваше ім'я", "email": "Ваш email (щоб я міг відповісти)", "msg": "Повідомлення", "send": "Надіслати", "subject": "нове повідомлення з сайту (UA)",
+           "ua": {"name": "Ваше ім'я", "email": "Ваш email (щоб я міг відповісти)", "msg": "Повідомлення", "send": "Надіслати", "subject": "нове повідомлення з сайту (UA)", "sending": "Надсилаю…", "ok": "Дякую! Повідомлення надіслано. Відповім, щойно зможу.", "err": "Вибачте, повідомлення не вдалося надіслати", "retry": "Спробуйте, будь ласка, пізніше.",
                   "off": "Форма зв'язку скоро запрацює. А поки залиште коментар під будь-яким записом щоденника."}}
 
 
@@ -388,23 +388,36 @@ def special_html(kind, lang):
             f'<span class="tx"><h3>{esc(v["title"])}</h3><span class="mono">{fmt(v["date"], lang)}</span></span></a>'
             for v in VIDEOS) + f'</div><p><a class="dl" href="{yt}" target="_blank" rel="noopener">YouTube @sailingvira ↗</a></p>'
     if kind == "contact form":
-        f, action = FORM_UI[lang], site.get("contact_form", "")
+        f, action, key = FORM_UI[lang], site.get("contact_form", ""), site.get("contact_key", "")
         if not action:
             return f'<p class="pending">{f["off"]}</p>'
-        return (f'<form class="cform" action="{esc(action)}" method="POST">'
+        msgs = json.dumps({"sending": f["sending"], "ok": f["ok"], "err": f["err"], "retry": f["retry"]}, ensure_ascii=False)
+        return (f'<form class="cform" id="cform" action="{esc(action)}" method="POST">'
+                f'<input type="hidden" name="access_key" value="{esc(key)}">'
+                f'<input type="hidden" name="subject" value="Sailing Vira: {f["subject"]}">'
+                f'<input type="hidden" name="from_name" value="Sailing Vira">'
+                f'<input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">'
+                f'<p class="cf-about" id="cf-about" hidden>{UI[lang]["fb_about"]} <a id="cf-about-a" href="#"></a></p>'
+                f'<input type="hidden" name="page" id="cf-page" value="">'
                 f'<label for="cf-name">{f["name"]}</label><input id="cf-name" name="name" required autocomplete="name">'
                 f'<label for="cf-email">{f["email"]}</label><input id="cf-email" name="email" type="email" required autocomplete="email">'
                 f'<label for="cf-msg">{f["msg"]}</label><textarea id="cf-msg" name="message" rows="7" required></textarea>'
-                f'<p class="cf-about" id="cf-about" hidden>{UI[lang]["fb_about"]} <a id="cf-about-a" href="#"></a></p>'
-                f'<input type="hidden" name="page" id="cf-page" value="">'
-                f'<input type="hidden" name="_subject" value="Sailing Vira: {f["subject"]}">'
-                f'<input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">'
-                f'<input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">'
-                f'<button type="submit">{f["send"]}</button></form>'
-                "<script>(function(){var p=new URLSearchParams(location.search).get('from')||'';"
-                "if(p.indexOf(" + json.dumps(BASE + "/") + ")!==0)return;"
-                "document.getElementById('cf-page').value=p;var a=document.getElementById('cf-about-a');"
-                "a.href=p;a.textContent=p;document.getElementById('cf-about').hidden=false})();</script>")
+                f'<button type="submit">{f["send"]}</button><p class="cf-status" id="cf-status" role="status" hidden></p></form>'
+                "<script>(function(){var M=" + msgs + ",fm=document.getElementById('cform'),st=document.getElementById('cf-status'),"
+                "bt=fm.querySelector('button');"
+                "var p=new URLSearchParams(location.search).get('from')||'';"
+                "if(p.indexOf(" + json.dumps(BASE + "/") + ")===0){document.getElementById('cf-page').value=p;"
+                "var a=document.getElementById('cf-about-a');a.href=p;a.textContent=p;document.getElementById('cf-about').hidden=false}"
+                "function say(t,c){st.textContent=t;st.className='cf-status '+(c||'');st.hidden=false}"
+                "fm.addEventListener('submit',function(e){e.preventDefault();if(!fm.reportValidity())return;"
+                "bt.disabled=true;say(M.sending);var ac=new AbortController(),tm=setTimeout(function(){ac.abort()},20000);"
+                "var d={};new FormData(fm).forEach(function(v,k){d[k]=v});"
+                "fetch(fm.action,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(d),signal:ac.signal})"
+                ".then(function(r){return r.json().catch(function(){return{success:false,message:'HTTP '+r.status}})})"
+                ".then(function(j){clearTimeout(tm);bt.disabled=false;"
+                "if(j&&(j.success===true||j.success==='true')){say(M.ok,'ok');fm.reset()}"
+                "else say(M.err+(j&&j.message?' ('+j.message+')':'')+'. '+M.retry,'bad')})"
+                ".catch(function(x){clearTimeout(tm);bt.disabled=false;say(M.err+' ('+(x.name==='AbortError'?'timeout':x.message)+'). '+M.retry,'bad')})})})();</script>")
     return ""
 
 
