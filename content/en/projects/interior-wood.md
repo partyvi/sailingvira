@@ -167,7 +167,8 @@ Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-ca
 Then double-sided reflective insulation, and 6 mm foamed PVC back panels, like the headliner, in the main cabin and the head. Then shelves on the port side, and templates for the nav station.
 
 ![Reflective insulation and foamed PVC back panels](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXfVKviSp9xHJJCFVQxvzJ2UVl8GAFg9WZdegdPG3o85Sb0kl0t3sRpsd9aACIc5hwyYk3kQ-Gxgrn2fRt7p6YoMbvhHKQaQy1j8uBAVk02uLCigRfttwgtCohExG40-74l1Nn5NapRFDzRo298yPXRg-3Y85CsULJN5d4s1r-jcdY8jW_OVamjkX7w/s1600/IMG_4240.HEIC)
-![Templates for the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yorxnfMs30yw1w5u_lZKLlC8YbO36FvZCzLcDOVZkS1BpQ1_68Y99caVpbcsH2lCdMMjr9r8cb1alYKen_ocJHPr_psCBnQSEiTOFLfqSVaZPqTfM2PjhVdFQmy9HT6AYhKfmTxxIhRd9t-gVkVTRs7xSd_MXVT-EfBnyWDWo-NrDt2hJi68wkpQVw/s1600/IMG_4232.HEIC)
+![Head with the new insulation and back liner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yorxnfMs30yw1w5u_lZKLlC8YbO36FvZCzLcDOVZkS1BpQ1_68Y99caVpbcsH2lCdMMjr9r8cb1alYKen_ocJHPr_psCBnQSEiTOFLfqSVaZPqTfM2PjhVdFQmy9HT6AYhKfmTxxIhRd9t-gVkVTRs7xSd_MXVT-EfBnyWDWo-NrDt2hJi68wkpQVw/s1600/IMG_4232.HEIC)
+![Templates for the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjioNoyOuNsfcG2OA3Dk3f-zNMDQ5DLDGvzkokpNQMsFdK430zq7hulDDDPXBq36Cc_PZmU02helE_VDSSn-wzn4AXxJYxjRuAwQlqJXBrihkF5jSyDVz8sQVxLgQv6xQHM463uJ2spC-uDjtQ8xiYwOzcO2T2tVL-mQD48IgDXw5FLjC9KoUa2IJWz5w/s1600/IMG_4241.HEIC)
 
 Diary: [26 Nov 2022](https://irwin34.blogspot.com/2022/11/day-63-65-112422-112622-main-fresh.html)
 
