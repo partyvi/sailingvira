@@ -13,6 +13,8 @@ Vira is an Irwin Citation 34, built in 1978. Here is the model in numbers, a few
 
 Ted Irwin drew her, and Irwin Yachts in Florida built her from 1978 to 1985, about 305 boats. She's a masthead sloop with a solid fiberglass hull, a roomy 11-foot-3 beam and classic 70s lines. There were two keels: a deeper fin and a shoal keel with a centerboard.
 
+![Irwin Citation 34 drawings: sail plan, inboard profile and accommodation plan](/assets/irwin34-drawing.webp)
+
 | | Irwin Citation 34 |
 |---|---|
 | Length overall | 34 ft 3 in (10.44 m) |
