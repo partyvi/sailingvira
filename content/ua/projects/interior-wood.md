@@ -13,7 +13,6 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi9AkLCf0eRaK
 День 5, грудень 2021-го: майже вся стеля й гнилі бічні панелі вийшли. Кут переборки біля штурманського столу згнив, але все довкола виглядало міцним.
 
 ![Гнилий кут переборки біля штурманського столу](https://blogger.googleusercontent.com/img/a/AVvXsEjrOo0PZH1zNQTRp2R3dLJDjLb6h3DwVkaIPq_QVLDBwpd7rIjzGXv7P0VokwWg9mr-i4b1v03i3FjvkHmwC8FnKA97rCRBmgNXrREaZ5TdBDuA2-nJxaBYzaNzR_MT7hj6Fj79THdNmEfwp3xavzDX_8HxNCgxVo5iYh13Ss1kFhMdu6vKEJsP52oYmw=s1600)
-![Гнилий кут переборки біля штурманського столу](https://blogger.googleusercontent.com/img/a/AVvXsEgXaiPHt54jXedSMh2jsy9JI296NfOgTGVm__EEvIyribKk1jHssprcvZIINXwx_wQX4OlCdpSH1G_bLnfrSId1htsFAWyzwit6Le24At_-7q6WfS7vm5hAJ5vKAFMCJ2dkVIniFqf70Q0Htb80NADMeybWeDubZjREtdCLCdtBygPapOlUpS3txNGE2g=s1600)
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
@@ -169,15 +168,12 @@ Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-ca
 
 ![Відбивна ізоляція і задні панелі зі спіненого ПВХ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXfVKviSp9xHJJCFVQxvzJ2UVl8GAFg9WZdegdPG3o85Sb0kl0t3sRpsd9aACIc5hwyYk3kQ-Gxgrn2fRt7p6YoMbvhHKQaQy1j8uBAVk02uLCigRfttwgtCohExG40-74l1Nn5NapRFDzRo298yPXRg-3Y85CsULJN5d4s1r-jcdY8jW_OVamjkX7w/s1600/IMG_4240.HEIC)
 ![Шаблони штурманського місця](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yorxnfMs30yw1w5u_lZKLlC8YbO36FvZCzLcDOVZkS1BpQ1_68Y99caVpbcsH2lCdMMjr9r8cb1alYKen_ocJHPr_psCBnQSEiTOFLfqSVaZPqTfM2PjhVdFQmy9HT6AYhKfmTxxIhRd9t-gVkVTRs7xSd_MXVT-EfBnyWDWo-NrDt2hJi68wkpQVw/s1600/IMG_4232.HEIC)
-![Шаблони штурманського місця](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjioNoyOuNsfcG2OA3Dk3f-zNMDQ5DLDGvzkokpNQMsFdK430zq7hulDDDPXBq36Cc_PZmU02helE_VDSSn-wzn4AXxJYxjRuAwQlqJXBrihkF5jSyDVz8sQVxLgQv6xQHM463uJ2spC-uDjtQ8xiYwOzcO2T2tVL-mQD48IgDXw5FLjC9KoUa2IJWz5w/s1600/IMG_4241.HEIC)
 
 Diary: [26 Nov 2022](https://irwin34.blogspot.com/2022/11/day-63-65-112422-112622-main-fresh.html)
 
-Будуємо шафку штурманського місця: панелі вирізані й підрізані на місці. Передня частина буде на петлях для доступу.
+Будуємо шафку штурманського місця: панелі вирізані й підрізані на місці. Передня частина буде на петлях для доступу. Уся історія штурманського місця — у [Штурманському столі](../nav-station/).
 
 ![Панелі штурманського місця вирізані й підігнані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIzheTLUkjwyqlvqXZnZ67Tp0jfEhLavukHL-_zkd6tCQ2JMCf-KbMUFq_P9qYdifdio5PWb7GnwWEQblTp5mNy-yGvI2FPnaW7qypmPUaxk14xMuGKeNdYYoE9C76PVVkztFqMuLTDgVhIEJjQHgXAgZQQhlb7jm8loorfCzLX6iMsmHU9VGiFahdrw/s1600/IMG_4318.HEIC)
-![Панелі штурманського місця вирізані й підігнані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-yDz19GXfiIOedIJR8Jro1xAc-tqHRPq1zIn43naPbuuSayE4MzubnpxGgOS-OgogvLnYIWh1nST0agi9YeIlRg-0vNb_QwHO28vYR5557h3Pgagdco479j0EI91Q-eB_oQ8D70ZdS33oBudNxF3n4ms27iiQMIZPsiSuKztxfgi9C2sKbTDdrprivw/s1600/IMG_4323.HEIC)
-![Панелі штурманського місця вирізані й підігнані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgca7poLTcIw4eOjfqheBVp6AsCGEkjEZbo14XaI-LBbFAlunpFN2GLZuWK7WqL-7Dalbbr8q8vyUx2J4t8xAxVr6TDI09b6KH58THVxBCNaNasWKUSK5LNtt3KiRVAEI4M8hPZjE9tsKGw_HV0mv3TzNGy3diwqP1P5OHRsi-NtOr18cs-f2pdnv8ZRw/s1600/IMG_4324.HEIC)
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
@@ -367,13 +363,10 @@ Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigera
 
 Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigerator-thermostat.html)
 
-Штурманський стіл і штурманське місце: примірка екрана і збирання «стелі» над штурманським столом.
+Штурманський стіл і штурманське місце: примірка екрана і збирання «стелі» над штурманським столом. Уся історія штурманського місця — у [Штурманському столі](../nav-station/).
 
 ![Ґрунт, крізь який видно текстуру фанери](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjihCJzdNq8UdkxR4ZAv2yRvPBx3VbfMiB1ufjz64eWyghEM8pH2wE4Wv-A1UBP_BLP2E4Pfz-cmMJUord0dzgg1Y4CTMfOZS9hyO1lAVrytMXhzRUPPPXphDEsmNae4gol-_g8z3R9eZCyyfS5KyUmLWScMv-l3ewbUsWDtdwB223l9YRBnENoLO_QUoRm/s1600/IMG_6136.HEIC)
 ![Штурманський стіл з екраном і стелею над ним](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiE-ZXCk30sxulRYzWDDip_Jp707sjcl0ezH-QLp783UnYiF3gIDXGkLXNFg1_vqpj0qlnc8hKnpapdisQqDZiSbXq0u2CTjs97cEeDacgZCCSeRqCsPNNtWFKl1npOlNJ6Jah3ggqZ4LpsazicqsUXsd8wC27PfOWPsCsAFIpkTGefjB8p1-Y6Pne6Eac/s1600/IMG_6137.HEIC)
-![Штурманський стіл з екраном і стелею над ним](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxC1-wNzzJ4qOE2Bz3yZHzN2yjAyyEs0ayEwkuJ-oDPxtxe4VWX5p4zKWg56_iJWHQCNUcz6nqGPv88Qww-RyiDifVLWfCQMptfKz5T53iMngh9pDT7j5g_9vub7xxWaBVOuSot3ZwNZTroSl_e4kTGa3R5rvayXL3oceVl2VwezUIyg2xmzhjkong0aOt/s1600/IMG_6138.HEIC)
-![Штурманський стіл з екраном і стелею над ним](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis1PBFR7bI50UxzpWTYj72epd32iJyRh2873xF608A5k9h4fP8vzI5tcfyUC0UkQAQ5Kx7o9ymbRBRLY6QDdEgPO7NJ-7024E2-TWpintlhFgdOw31J1XB6UHLitYHzOMxErJ9MykqJZNyY38hwoC-WSVGB4qk9UI6ZrnSBBbXIxy4S8xX92o3tHWwICyR/s1600/IMG_6139.HEIC)
-![Штурманський стіл з екраном і стелею над ним](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZyiVSKXXixdQlC9OFxT8CU3X0aRp_MpOTFlMJaim_-lR7MEA3ffwuQZeTBd3PdXxIgUDj__TrRZrvIAsPu7uJOZnOwBxUEO0EusRGZByf75yVCKLRo96ys_elTjEolXXIyp5nXJtXqtwSC0a1AZoNb4KeUCnjinQwZFOzcHObfTjHvihVVwHUbFLNjhmE/s1600/IMG_6141.HEIC)
 
 Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigerator-thermostat.html)
 

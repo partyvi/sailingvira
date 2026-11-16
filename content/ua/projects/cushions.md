@@ -1,40 +1,14 @@
 ---
 id: cushions
-title: "Подушки і штурманський стіл"
+title: "Подушки"
 section: interior
 order: 4
-description: "Штурманський стіл, перебудований під екран, і пошиті власноруч подушки для каюти."
+description: "Пошиті власноруч подушки для всієї каюти і засувки з 3D-принтера."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX4NL-ZTopby8IZocosPczw5UQOUauEVMSq46jHwrnH4q4k8XxCnTJ33m9JlJBtoio4c7fl_sa3UC97JSUuePp4EdzL24CAzzLEq8l7xhV2TtHlpDK5eGbyyuQfUjXqQRq7je3w9sIgqQhiS95lEXBdve7TUftyV9zCZXvQ-4q7NyAFxuQR4Tfv5BsxWhQ/s1600/IMG_0703.HEIC"
 ---
-Дві роботи в одній історії: штурманський стіл, перебудований так, щоб одразу за ним стали екран і панель приладів, і подушки, які навчили мене нового ремесла — шиття.
+Подушки навчили мене нового ремесла — шиття.
 
-Підлога каюти і стіл у каюті мають свої історії: [Підлога каюти](../cabin-sole/) і [Стіл у каюті](../cabin-table/).
-
-## Штурманський стіл
-
-У липні 2023-го я повернувся до штурманського столу. Спочатку вся стільниця відкидалася на рояльній петлі, але просто за нею я ставлю екран і приладову панель, тож піднятися їй нікуди. Вона отримала нові петлі.
-
-![Схема старих і нових завіс штурманського столу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjshyYojMjV1ZoVT9Gxo1hxWTqq6uXEvzdxcbw-tRq4Q_VDh3WSa5-gurE0YOKnHGL0nF1wlPGcPas__sHGQjlLZv_Du5emHVTlmMIJChcTM260Z2KFoYJuh4d_gM4lncW9SIy6zib4HyCtjlD31T_RPjA2s3oSOb-KmeiESqlY7cql5K5dWsCpgQ7FvoJY/s1600/Untitled.png)
-![Кришка штурманського столу з новими завісами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTxEjPIplMONh-bP3yahXdirM63_zg43FBrmdcytcNE5sTxpyB_75JLdP9ase-me_uQmaRwk3gOGbBvTu9ejhhMefFQj08n4jJdV4YPhXHcM2LRXkanJu8LgE8qmFEiGkhj1pewdebyXPJIgiyS0rzUz3ESz5GVO0dK52lTDQltP7n2PBT1GiQktfXO0hK/s1600/IMG_6110.HEIC)
-![Шафки камбуза з залатаною фанерою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN9slVtdu9i0aWMTzlSA8BKb2yR8sNdB23UZ8oVYY6ZGNmn1CTHrMjvEn49qb0izmYvHwwe-_TabzDQFBNF2tz1jRCvNv7U5pd6hVTEvLt63MFEYr8hJjf59TU2nvUSqAbdsd3zt2Teds92skYIO6hrehNOxdpZKq3y-ugEIZw3soQW82umzvbE0COIOm/s1600/IMG_6112.HEIC)
-![Шафка камбуза залатана перед фарбуванням](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAiZ1lth2qII5zr_s6kbB1Yu2RsTQrD9K2d8bjB4uOLJkUcyrXPdE1kHtNHG1qgsTn5GLWOhtdi0uDnoLwZ0eF9KMTL559NqnX7zziHgeMtbrkycmJ62_B43LT5HNJ0lcRl64d6gZgvYPIyH8rWxo38oAsff0KEahgGGhgTkAgKR1RmEcRtDRk-fwnAeSG/s1600/IMG_6114.HEIC)
-![Заміряю щілину біля переборки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgScuSRvWqBgHYWgZ9ZPqJa-5F9brpCy5Py1o4KpubFUmNrcHmaU0Vq-35Eyptpd74A_GU42QC-Ewdj-TNJUh2jNlwUmp4ylQNGqVW3Oo51wYeBcT3DwU1ulcd1OgRPayfsD3drVCiNCYuibnVsV4yOJTt2ssCTeW9S3YbqbzflTufXRButGRx00uYVfzvW/s1600/IMG_6109.HEIC)
-![Заміряю шматок, який треба додати](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhen3Tti9LhE3hordg29Bsy4-VuQAh70E-x7u10uAtPJqera61tgb66LSoiFRS_mj_5AV0rPfMm4QCRGDYAvA6LTaRkAJV3H6IgRw9cx24sJ9ZwaWBIOiGhkEH3NpZtO--uqn-OGotb_6N2hCmSEXyqusBMvYwRdCr2DZgVP7kTZvJeSvADAfz7KaRzXslQ/s1600/IMG_6108.HEIC)
-
-Diary: [8 Jul 2023](https://irwin34.blogspot.com/2023/07/day-98-7824-cabin-to-cockpit-wall-liner.html)
-
-У листопаді я додав тягу, щоб дверцята з дисплеєм не билися об стіл, і прикрутив стінку, що тримає штурманський стіл, до столу й до внутрішньої обшивки.
-
-![Нова тикова стільниця столу на верстаті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitQJdb7M1Qse7sr-F2A-V043uAd4R7SzyVU9qyE4rTG5Zldc8dvrww2n0wspZbhrf-uQBKI5OGadDamfvYFBJF_SC1z51Om5EI-inBDW1NiSYa1RYPTBtrPTxDeiOgoUv54FKKzdrelap13S-zz0uDlx96Fboqxe0omAGUFDyUCiLV9URdFDheHuwiSIm9/s1600/IMG_6783.HEIC)
-
-Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electrical-little.html)
-Diary: [11 Nov 2023](https://irwin34.blogspot.com/2023/11/day-113-1111-preparing-for-varnishing.html)
-
-У січні 2024-го з'явилися кнопки керування дисплеєм, надруковані на 3D-принтері.
-
-![Дисплей штурманського місця з новими кнопками керування](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt0RTtGmpfaaZYN4B4pM6yZzXpdI_0zkRYExJOcS8YJZsTzdlQ4iZ-28d4WEVZI4WVNp607ancNfN9qX8AZ38-PU0qCPEtVl8SlwuFjAGQs6wnvxwlM_WJV4bvN3U__p_WCAuBhf58jky6wxgTCH720myrzdj_gxGV_ljPolhMlqf5JFQVd4BBcU4Fcgqt/s1600/IMG_7334.HEIC)
-
-Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-12823-batteries.html)
+Підлога каюти, стіл у каюті і штурманський стіл мають свої історії: [Підлога каюти](../cabin-sole/), [Стіл у каюті](../cabin-table/) і [Штурманський стіл](../nav-station/).
 
 ## Шиємо подушки
 
@@ -79,11 +53,8 @@ Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-h
 
 У червні з'явилися спинки на правому дивані. Я зняв бічні частини спинки, що колись упиралися в переборку й шафки камбуза, щоб отримати максимальну корисну довжину, а туди додам вставні подушки. Лівий бік був у роботі.
 
-Стіл у каюті став на трисекційну підйомну ніжку, тож опускається, щоб зробити ліжко. Керування ніжкою було зверху, тобто дірка в столі, а нам з дружиною дуже не подобалася ідея потворної пластикової кнопки посеред столу. Тож я її прибрав і зробив керування, яке працює з-під стільниці: шматок нержавкого прутка 1/4 дюйма з привареною пластинкою і кілька деталей з 3D-принтера, як в офісному кріслі. Ось стіл в опущеному положенні. Того вечора ми з друзями стали на якір і відмокали в озері, а потім спокійно походили на заході сонця при 7–10 вузлах, з авторульовим за штурвалом і трохи розваг на носі.
+А потім човен пішов під вітрила. Того вечора ми з друзями стали на якір і відмокали в озері, а потім спокійно походили на заході сонця при 7–10 вузлах, з авторульовим за штурвалом і трохи розваг на носі.
 
-![Головний салон зі столом і подушками правого борту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaUCcZCzKSNfaCBnlsGN4rheaW6t1K1x4uxz_WMUUirwZQrdVJ8SH4s5RXWlQTl-SGfmE628CWkJvw-Z15ai5GJrAS-I4lUMQiD4l-kndRVLw5C6BxfG9STClq5__wAIdnbGSUSGsryTw1L7EpzpiJOHH2rNJJmj7xwc5Qz9lk04Yhbgp500me8rYZvP-_/s1600/IMG_0769.HEIC)
-![Стіл на підйомній стійці, знизу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHs0TukAbsh9poIlB-pau2hypbBiIz_baCjXF_UjdeHVpDzJ7rTaHwl5nwz5hxENcpVeb0eR5M3TZS-YWieS5KQXMMiYcY0p3p6z79kANmmM2mL3fSOsEHFZ4YOrtRQKk7zVmHUJKGiJ97ZC1Qg3VZD3pEurcXuWJGVoTxGCbaiBhW9iSoPlT1fyzAa-86/s1600/IMG_0770.HEIC)
-![Стіл опущений, з подушок вийшло ліжко](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUBqKdYHhJnir9iREu-hHga0uTI2tD9K2bAkPTB77uJtiMNGmIC64_4mSRCoqDwYOdOJaX3HahU_dL76Vu0q60BRFQzB5l9wK2pWPFvyfFcN3Dbeau9oeV7QzU-eMF_gb2yzIaDozWKikMo2uGlun3iY5mpck832G9sUTZNy68wJH8V2tYqHbBpof9L6ed/s1600/IMG_0771.HEIC)
 ![Віктор біля щогли на ходу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgISfJzvvrmszRrmZ8BsWWjSZgPcU8prCqUBsErkhAhefbThzGniwnF1fGGgDN5WryFwL5LZYLKodAGOlyQMqdcJJS7duH_lY7B9ebFBePGZTe_T8Rl4Tr4PUVLSrAabO3bPvmvn4XYqnNwA3C25U-QIu33HcFa-HHIDlqZ6CrelBhMJR6NwCj57qqgn27n/s1600/IMG_1339.HEIC)
 ![Під вітрилами з друзями, авторульовий керує](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRTLZx6C_7Sya8gNZQ7dL9CEumB1ZGvwO9m1A8c6X_pjqh8BxREO-B5g5GIxTDLsVNZWobdsYYqhbMtaZSYI0sHbXRXjsJwoC0_2q8EGct7WKwfQAQqUGXTGJw2aI96dAOYexjGxYlRz1uHL_4ZP1rEfsVDzzj9-VqmmdCDw6-3vNMRIy-d0KUfjWmRh-h/s1600/IMG_0764.HEIC)
 

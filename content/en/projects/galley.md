@@ -2,7 +2,7 @@
 id: galley
 title: "Galley"
 section: interior
-order: 5
+order: 6
 description: "A rotten galley rebuilt: new base, teak countertop, propane, painted cabinets, a drawer and a gimbaled microwave."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC"
 ---
@@ -153,6 +153,15 @@ In June 2025 I installed an LPG alarm, and it alarmed all the time. I'm sure the
 Diary: [29 Jun 2025](https://irwin34.blogspot.com/2025/06/day-205-fixed-windows-trim-frames.html)
 
 ## Painting the cabinets
+
+In early July 2023, the prep work to paint the galley cabinets: I started patching the plywood, and measured a piece I need to cut and add.
+
+![Galley cabinets with patched plywood](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN9slVtdu9i0aWMTzlSA8BKb2yR8sNdB23UZ8oVYY6ZGNmn1CTHrMjvEn49qb0izmYvHwwe-_TabzDQFBNF2tz1jRCvNv7U5pd6hVTEvLt63MFEYr8hJjf59TU2nvUSqAbdsd3zt2Teds92skYIO6hrehNOxdpZKq3y-ugEIZw3soQW82umzvbE0COIOm/s1600/IMG_6112.HEIC)
+![Galley cabinet patched before paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAiZ1lth2qII5zr_s6kbB1Yu2RsTQrD9K2d8bjB4uOLJkUcyrXPdE1kHtNHG1qgsTn5GLWOhtdi0uDnoLwZ0eF9KMTL559NqnX7zziHgeMtbrkycmJ62_B43LT5HNJ0lcRl64d6gZgvYPIyH8rWxo38oAsff0KEahgGGhgTkAgKR1RmEcRtDRk-fwnAeSG/s1600/IMG_6114.HEIC)
+![Measuring a gap next to the bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgScuSRvWqBgHYWgZ9ZPqJa-5F9brpCy5Py1o4KpubFUmNrcHmaU0Vq-35Eyptpd74A_GU42QC-Ewdj-TNJUh2jNlwUmp4ylQNGqVW3Oo51wYeBcT3DwU1ulcd1OgRPayfsD3drVCiNCYuibnVsV4yOJTt2ssCTeW9S3YbqbzflTufXRButGRx00uYVfzvW/s1600/IMG_6109.HEIC)
+![Measuring the piece to add](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhen3Tti9LhE3hordg29Bsy4-VuQAh70E-x7u10uAtPJqera61tgb66LSoiFRS_mj_5AV0rPfMm4QCRGDYAvA6LTaRkAJV3H6IgRw9cx24sJ9ZwaWBIOiGhkEH3NpZtO--uqn-OGotb_6N2hCmSEXyqusBMvYwRdCr2DZgVP7kTZvJeSvADAfz7KaRzXslQ/s1600/IMG_6108.HEIC)
+
+Diary: [8 Jul 2023](https://irwin34.blogspot.com/2023/07/day-98-7824-cabin-to-cockpit-wall-liner.html)
 
 After the first coat of primer I saw the problem: plywood REALLY needs to be sealed before you paint it. So I sanded off that first coat and put on three coats of wood sealer, so the grain almost doesn't show. A lot of time, but after three coats it looks very impressive.
 

@@ -2,7 +2,7 @@
 id: aircon
 title: Кондиціонування і вентиляція
 section: interior
-order: 9
+order: 10
 description: Агрегат Webasto, муки з помпою забортної води, повітроводи і тикові решітки.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC
 ---

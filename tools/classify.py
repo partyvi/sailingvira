@@ -5,6 +5,7 @@ posts=json.load(open(f"{D}/parsed.json"))
 R=[
 ("fresh-water-cooling", r"fresh ?water cool|freshwater|heat exchanger|coolant|thermostat housing"),
 ("khatkapi", r"khatka|baseboard"),
+("nav-station", r"chart ?table|nav(igation|igator)? ?(table|station|desk)"),
 ("radar-mount", r"radar"),
 ("small-electronics", r"khatka|controller|brightness|tri-?color|anchor light|power switch|dry bilge|small electronic|lpg solenoid|engine monitor|thermostat|wattcycle|battery monitor"),
 ("standing", r"chainplate|chain plate|forestay|backstay|shroud|standing rigging|dyneema|rope terminator"),
@@ -23,7 +24,7 @@ R=[
 ("head-shower", r"\bhead\b|toilet|shower|holding|sanitation"),
 ("water", r"water tank|fresh water|water heater|water pump|plumb|pressure|tank|gray water|water"),
 ("cabin-sole", r"cabin sole|\bsole\b|floor"),
-("cushions", r"cushion|pillow|mattress|chart table|nav ?table"),
+("cushions", r"cushion|pillow|mattress"),
 ("cabin-table", r"cabin table|\btable\b"),
 ("navigation", r"navig|autopilot|plotter|openplotter|ais|radar|instrument|wind |windex|depth|nav ?pod|navpod|gps|imu|compass|vhf|display|screen|raspberr|rudder position|helm|speed sensor|antenna"),
 ("interior-wood", r"bulkhead"),
