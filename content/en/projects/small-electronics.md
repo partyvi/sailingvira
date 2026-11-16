@@ -167,3 +167,9 @@ The newest one, from October 2026, is a monitor for my WattCycle batteries. It t
 ![Battery monitor showing details of one battery](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG2UhzxmaO5JBVW_bRLnzAqq2ZtpCX1HdFAoOOtKT-UNazweH0G8msNDuS98R5eTgbjbs7ZpmrZVlwrRNAonlhjDnZFlA6yT1RSY0oV-kG-QZzfXGdIKqJjRjdYyeYvnY2oWEJG-rfGXjpGV2jfyACkcXKhS1ux6YjNGJR3pG_qEzhUFKMqjPHHdG-uqB/s1600/5B20C409-8C04-48EB-8FA1-199F821AF230.jpg)
 
 Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-thermostat-bumpy.html)
+
+## Refrigerator thermostat
+
+One more board from October 2026: my own refrigerator thermostat, with alarms and a Wi-Fi web page, after three cheap Chinese ones died in three years. It lives with the fridge, so the whole story is in [Refrigerator: So I built my own thermostat](../refrigerator/#c5).
+
+Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-thermostat-bumpy.html)
