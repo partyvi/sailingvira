@@ -32,6 +32,11 @@ The site is live at **sailingvira.com** (GitHub Pages custom domain since 14 Nov
   The story format must stay easy to edit by hand.
 - **Updates:** for now Viktor asks ("update the site"); later a scheduled check. For now every update goes
   as a pull request that Viktor reviews; later Claude may publish directly.
+- **Google Photos albums (later, when Viktor asks):** the blog page "Irwin 34, Photo Albums" links 26 shared albums
+  (History 2021–2026, Interior, Stanchions, Structural repair, Engine compartment, Electrical system, etc.). Viktor wants
+  them checked from time to time for new photos and possible new projects. The environment allows the Google Photos hosts,
+  but downloading album pages needs Viktor's explicit OK in the session (the safety check blocked it in Nov 2026);
+  the fallback is that he copies albums to Google Drive.
 - **Launch:** done 14 Nov 2026: noindex off, open to search engines (Google Search Console by Viktor).
 
 ## People in the stories (Viktor, Nov 2026)
