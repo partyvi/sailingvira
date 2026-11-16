@@ -58,3 +58,15 @@ Then the test on the water: the Halo20+ on the mast in its temporary mount, Vira
 ![Radar overlay on the chart, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhai3fHHf0asLHr9pnHxz7R7Gw2cas1Efz82bRdlAGF1TyfBRqyIzgsEi2f-VjRQLhduiqN1tM5LRPyqTX5Qx__G9tuQ2prF56faYgAvrqQZyHjr5Amu_089h2KE-_ATSgBqlAtaY753baKVO666mMS4-U_p7EqYQT_vhDP-EZAyaarnTuOI13EXwZja92C/s1600/IMG_1128.HEIC)
 
 Diary: [10 Aug 2025](https://irwin34.blogspot.com/2025/08/day-211-radar-dry-fit-testing-little.html)
+
+## How it looks now
+
+And this is how it looks now: the Halo20+ on its aluminum mount on the mast at Kemah, in March 2026, and two weeks later the first radar check on the navigation screen.
+
+![Radar on the mast at Kemah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSaO3fX0AHkTYtkuBXQtKVuvANBGa3m9wM0QZbW-N-5mnh7x9KgEjF0hmNKzmyEa1UbBob_Zp6bhpiE8TevBTbjxe4vC2LeaFdhHEvZ_v4cwiCQeI43jT_4mNas1pNHgseJ9o6k30E-2ZlUXXBpb34H_Erla2Y498G-5nfzdj32q0_Oc08e26LdyBe28LU/s1600/IMG_0919.HEIC)
+
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+![Radar picture on the navigation screen during the radar check](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-uVy7XD7nWQCglnpMv7l8Rppps3_-YGP24FTemtzWS6HzOMhG603HuXWZVIckGURXIDd_o4mlgjGlP0rucyGltUaEaRmH-g2FwpeCSjW2fdth_ujHDnG58WS_rTD8WdtlITApgmFK-eO-nLG6sd_rTVBpjpWYrLxCI8bz2c2J4lduLeIfRn0CZ-WyX7kT/s1600/IMG_0982.HEIC)
+
+Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-mast-wiring-radar.html)
