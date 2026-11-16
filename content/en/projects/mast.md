@@ -303,3 +303,11 @@ Then everything went back. Starboard: reef 1 and reef 3 (I kept the original ree
 ![Viktor at the boom with the new reef blocks](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaNvul03AMX1CX4B8lD5Y5ZyKRBkBOzrFiNtH8TeOs19Re1F5VivjO-cAhaDL8YTrqpNjsnuz3i7qZMWNcK9CnlLuP-McKDQO7Pp5as_iHO6EJ1Jye_S0q830PfrIC_OLsaYqHyAzAoIruHduU11HXhvFoVzhh93GhvNRb_3Ib4TlQhuBfUfd-ZoyNlDKq/s1600/IMG_2604.HEIC)
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
+
+And this is how the external reef rigging on the boom looks now, in its final form: the reef lines run outside along the boom, through small guides, to the blocks and the winch near the mast.
+
+![Reef lines running through a guide under the boom](/assets/photos/mast-reefs-1.webp)
+![Two reef lines in a guide on the boom, with a reef hook](/assets/photos/mast-reefs-2.webp)
+![Reef lines along the boom to the mast, at the dock](/assets/photos/mast-reefs-3.webp)
+![Panorama of the boom with the external reef rigging](/assets/photos/mast-reefs-4.webp)
+![Winch on the boom and the reef lines, looking aft](/assets/photos/mast-reefs-5.webp)
