@@ -1,10 +1,10 @@
 ---
 id: aircon
-title: "Air conditioning & ventilation"
+title: Air conditioning & ventilation
 section: interior
 order: 9
-description: "Webasto unit, raw water pump trouble, ducts and teak vents."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC"
+description: Webasto unit, raw water pump trouble, ducts and teak vents.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVrRQsnKWrsX2XPUtiZStATBkLSEkLRLDOPLYWWPe0zQdcDZqSedyYRoxez1DFzjwD9ZB52n5vdvIW6wy4ACoyleLQwA1UA2KSybXeo2Y4vQAxO7Ynal2iWJwpDf4eVxekw3wcwGAjJqwr7juQoTSYLXZINTzXrz-jK_1JBWG11dcrVkUG-WzABpmdw/s1600/IMG_3381.HEIC
 ---
 A Texas summer on a boat without air conditioning is not life, it's survival. So the AC came very early, in my second month. Making it really good took years: pumps, ducts, dampers, vents, and one long battle with vibration.
 
@@ -95,12 +95,6 @@ The same weekend I found an open hose connected to a thru-hull. That one could h
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
-I also put proper hose fittings on the engine room vents. I have no idea how Irwin held them. It looks like they drilled holes in the deck and pushed PVC hose in, with nothing holding it.
-
-![Vent hose with the new tubing terminal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Bw-iaFv0ilCyI3pR0sV85dNzSIW8S36mu0oqhTSrRaV2JQDcQVahIpN9nvJBNy6ehcql4EJRW5IkWJuLt8WcDm4wdrEtlS1b8wDmOIQD4eHcrdULpdOaMCGlbHIY0oK8m67WaloX63Tl5QAZnQ8rxxLCJoJpxciC0xVSbNsvjQ6gTQaqkwNjJluw6A/s1600/IMG_3840.HEIC)
-![Deck cowl vent on the foredeck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8-KMZrgyH8lud7wli5cE9cwEFSpJ5uVwky0cedw1jS_mCQs3iD3BNWrq9p660EdsKtZqeKkkMirsRTaULdzLWUkN50OVM_yzZkPG4DzoSHjUlI_uOKG6RdvNLIJlGJ4UFv0bJqBf0TDvSJayt_fnoHcm7civ-CJBwLJC7iPY3REgXet8hdKwJHmHPBg/s1600/IMG_3839.HEIC)
-
-Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
 
 ## Foam boxes and electric dampers
 
