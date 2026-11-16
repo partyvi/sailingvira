@@ -218,9 +218,8 @@ Diary: [27 Jul 2024](https://irwin34.blogspot.com/2024/07/day-160-72724-fuel-tan
 
 Diary: [15 Dec 2024](https://irwin34.blogspot.com/2024/12/day-181-121424-sail-out-with-friends.html)
 
-Квітень 2025-го, кілька фото для довідки: штурманський стіл з покажчиками води й пального, допоміжна панель вимикачів і захищений 21-дюймовий дисплей. Електроніка — за дисплеєм, який відкидається вниз для доступу.
+Квітень 2025-го: штурманський стіл готовий, з покажчиками води й пального, допоміжна панель вимикачів і захищений 21-дюймовий дисплей. Електроніка — за дисплеєм, який відкидається вниз для доступу. Уся історія штурманського місця — у [Штурманському столі](../nav-station/).
 
-![Штурманське місце з приладами, панеллю вимикачів і 21-дюймовим дисплеєм](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7xYoKfjrgEkoY5rRo5DjTCy3GTOCimDxHTPBv_CHtdj6_hHiJipJi3fXAReboC022WY5cyy2N0KucpMBQJcZ3G3AzpHbznXb9pEGndYP_gdzRJlP9ECJCbyLA4rDDg3r_RT_fTe7enOlUJufEO5Jok0ACzopdmWAx9tWDPcUUBZiGrHElnkTAmQjg95Ei/s1600/IMG_7174.HEIC)
 
 Diary: [14 Apr 2025](https://irwin34.blogspot.com/2025/04/day-195-navigation-electronics-final.html)
 

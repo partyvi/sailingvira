@@ -218,9 +218,8 @@ December: a nice, peaceful afternoon with friends. 5–10 knots, no surprise gus
 
 Diary: [15 Dec 2024](https://irwin34.blogspot.com/2024/12/day-181-121424-sail-out-with-friends.html)
 
-April 2025, a couple of pictures for reference: the nav station desk with the water and fuel gauges, the secondary switch panel and the 21-inch protected display. The electronics are behind the display, which flips down for access.
+April 2025: the nav station desk was finished, with the water and fuel gauges, the secondary switch panel and the 21-inch protected display. The electronics are behind the display, which flips down for access. The whole nav station story is in [Nav station](../nav-station/).
 
-![Nav station with gauges, switch panel and 21-inch display](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7xYoKfjrgEkoY5rRo5DjTCy3GTOCimDxHTPBv_CHtdj6_hHiJipJi3fXAReboC022WY5cyy2N0KucpMBQJcZ3G3AzpHbznXb9pEGndYP_gdzRJlP9ECJCbyLA4rDDg3r_RT_fTe7enOlUJufEO5Jok0ACzopdmWAx9tWDPcUUBZiGrHElnkTAmQjg95Ei/s1600/IMG_7174.HEIC)
 
 Diary: [14 Apr 2025](https://irwin34.blogspot.com/2025/04/day-195-navigation-electronics-final.html)
 

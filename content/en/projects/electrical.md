@@ -211,10 +211,8 @@ Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-
 
 ## The nav desk panel
 
-In January 2024 I built a panel at the nav table, with water and fuel tank gauges and a small 2.5-inch thermal printer, just in case I want to print a "ticket". The light over the desk dims from "good enough for surgery" to "hard to see anything". The black water gauge sits in the head, where you'll check it before use.
+In January 2024 I built a panel at the nav table, with water and fuel tank gauges and a small 2.5-inch thermal printer, just in case I want to print a "ticket". The light over the desk dims from "good enough for surgery" to "hard to see anything". The black water gauge sits in the head, where you'll check it before use. The whole nav station story is in [Nav station](../nav-station/).
 
-![Nav desk with the panel, gauges and light on](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCuMrdGCmBylOo6hksrc5BGH-xseWxP4S-7Rmxdzbaq2bRUvXTNh-gXBveWu6AAGEdJGj6VU69ayperNTj0LaJr9Or1T_J3Dal0Sii4aJvfj9tOlZt5yl0jYDdUtsrZNHK8d9m5gnmj53M_42qhUbNuZUXbbS7BllLusU6n3NqNbSd0VMtJ43axr1fHGNV/s1600/IMG_7135.HEIC)
-![Nav desk light dimmed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8vELp-O0QoqjC-Y1dPT9_DrnK4XEwpItkqaxQ3MDdKth0Qq5kNEaB8ZF-XDzv90YCWz1nVOVESnYEjL1skrxBTOmWtV4iefoSYVNrdYGNoNc8yqEe-xmranta8n13cGazF8Ih6LcdnwF3Anyi-33CBxZNgdzOwcoH9nRuwobwkwu1jqmlyQq3cqb9mR-j/s1600/IMG_7140.HEIC)
 ![Head with the black water gauge by the door](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgknA_v77jmd9NvGHy1KDEaQ6ai1BLXWF0owJ3Z0NfgqvRSHBVlxARTmNQ-mEhMs2O70HG1uLLrT7D3J1vBxIDrMOPmeGVtMWP70RhndfK1hkqkTCEr4th6fQzb6Xl-x60dYFD0WUorwBW7fXo04AEC3qzyoD95HYidB48-r5d3bP-0-JEfze4nT7zuC1Dg/s1600/IMG_7142.HEIC)
 
 Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-year-8-hours.html)
@@ -222,7 +220,6 @@ Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-
 I connected that black water gauge to an indicator in the head, powered from the "WC" breaker, so when you go to flush, you can see how much room is left for "stuff". I powered up the thermal printer; it's always nice to have something aboard that can print. Then I got ready for the cold with the engine compartment heater. And then, COLD WEATHER: −5 °C outside, the docks covered with ice, and the lake at about +15 °C, steaming like tea in a cup.
 
 ![Black water tank gauge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Gzh4y40h7S9su9kXCigjdafEXoM0wfKlNe7SfzOhr8ISM6q8GSuFwY8L6xCMQSJqAFqKTSuV1-UwLAIN9mZsznOGIIB0malUN7fAE9LjCew_P9ojn1pkj0UgiwaPBtL9IT3EmukHssitzAC2HCwxrrN_3nvVHqj8k2ZnGGumDdN_FmZIglFr6_BKra2I/s1600/IMG_7281.HEIC)
-![Thermal printer printing at the nav desk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQl6WQZemVAOY8HdOF7q0KEaaEc2o56reUmHerjFqVVu-0Ux49cfMVzDCQq6nfSD4gJJYk4zrjphv55_FPX6grP-w9mUBoQOWZosS3RgUmhHsST_LqMM77nu8tWdBkcuIiXluwVD4fkMq5RtH7neaeHzTTrR8oJqku2B0GL1Co0Bf7GirZF0UmK6fVElHr/s1600/IMG_7279.HEIC)
 ![Engine compartment heater](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDoJH5MHGsh2MHfCza0pwuyASEEIcGoRsJKADLVxnCV7RESvi-04Ls6cJ7GPsN9yc4OZ9sLHBHvePDxcYJXbEmYf75jiLo-mmfPkCMZiGOhmXd84Grz7AER2axKn9dazWpj0j6huxsl5v0opHKD9lJmbeLypWhFIw12pnhttDMCi4zhSCcDzTuNjg7ELuD/s1600/IMG_7272.HEIC)
 ![Fog over Lake Travis on a cold morning](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOlmLJ-rGrwyyLh7HaxgfouI_mPTuQLuZ7-0CV8DTmMWvbhSJvmZzarqoqNw3nu3X6XNpcLggoxSahy9LRNZ258y1N0rKJU1g-I9Ln88nVOpZMct1QWt07lDh3792xeg667v1VXrHwoibZ4Ptu3v_Fnvx5QWtj_Y08TFC9lvnUF2K6Wa22x0nP-HC5K4eb/s1600/IMG_7291.HEIC)
 

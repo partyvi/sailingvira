@@ -1,40 +1,14 @@
 ---
 id: cushions
-title: "Cushions & chart table"
+title: "Cushions"
 section: interior
 order: 4
-description: "The chart table rebuilt around a screen, and hand-sewn cushions for the cabin."
+description: "Hand-sewn cushions for the whole cabin, and 3D-printed locker latches."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX4NL-ZTopby8IZocosPczw5UQOUauEVMSq46jHwrnH4q4k8XxCnTJ33m9JlJBtoio4c7fl_sa3UC97JSUuePp4EdzL24CAzzLEq8l7xhV2TtHlpDK5eGbyyuQfUjXqQRq7je3w9sIgqQhiS95lEXBdve7TUftyV9zCZXvQ-4q7NyAFxuQR4Tfv5BsxWhQ/s1600/IMG_0703.HEIC"
 ---
-Two jobs in one story: the chart table, rebuilt so a screen and a dashboard fit right behind it, and the cushions, which taught me a new trade: sewing.
+The cushions taught me a new trade: sewing.
 
-The cabin sole and the cabin table have their own stories: [Cabin sole](../cabin-sole/) and [Cabin table](../cabin-table/).
-
-## The chart table
-
-In July 2023 I came back to the nav table. Originally the whole top opened on a piano hinge, but I'm putting a screen and a dashboard right behind it, so there's no room for it to swing up. It got new hinges.
-
-![Drawing of the original and new chart table hinge design](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjshyYojMjV1ZoVT9Gxo1hxWTqq6uXEvzdxcbw-tRq4Q_VDh3WSa5-gurE0YOKnHGL0nF1wlPGcPas__sHGQjlLZv_Du5emHVTlmMIJChcTM260Z2KFoYJuh4d_gM4lncW9SIy6zib4HyCtjlD31T_RPjA2s3oSOb-KmeiESqlY7cql5K5dWsCpgQ7FvoJY/s1600/Untitled.png)
-![Chart table lid with new hinges](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTxEjPIplMONh-bP3yahXdirM63_zg43FBrmdcytcNE5sTxpyB_75JLdP9ase-me_uQmaRwk3gOGbBvTu9ejhhMefFQj08n4jJdV4YPhXHcM2LRXkanJu8LgE8qmFEiGkhj1pewdebyXPJIgiyS0rzUz3ESz5GVO0dK52lTDQltP7n2PBT1GiQktfXO0hK/s1600/IMG_6110.HEIC)
-![Galley cabinets with patched plywood](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN9slVtdu9i0aWMTzlSA8BKb2yR8sNdB23UZ8oVYY6ZGNmn1CTHrMjvEn49qb0izmYvHwwe-_TabzDQFBNF2tz1jRCvNv7U5pd6hVTEvLt63MFEYr8hJjf59TU2nvUSqAbdsd3zt2Teds92skYIO6hrehNOxdpZKq3y-ugEIZw3soQW82umzvbE0COIOm/s1600/IMG_6112.HEIC)
-![Galley cabinet patched before paint](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAiZ1lth2qII5zr_s6kbB1Yu2RsTQrD9K2d8bjB4uOLJkUcyrXPdE1kHtNHG1qgsTn5GLWOhtdi0uDnoLwZ0eF9KMTL559NqnX7zziHgeMtbrkycmJ62_B43LT5HNJ0lcRl64d6gZgvYPIyH8rWxo38oAsff0KEahgGGhgTkAgKR1RmEcRtDRk-fwnAeSG/s1600/IMG_6114.HEIC)
-![Measuring a gap next to the bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgScuSRvWqBgHYWgZ9ZPqJa-5F9brpCy5Py1o4KpubFUmNrcHmaU0Vq-35Eyptpd74A_GU42QC-Ewdj-TNJUh2jNlwUmp4ylQNGqVW3Oo51wYeBcT3DwU1ulcd1OgRPayfsD3drVCiNCYuibnVsV4yOJTt2ssCTeW9S3YbqbzflTufXRButGRx00uYVfzvW/s1600/IMG_6109.HEIC)
-![Measuring the piece to add](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhen3Tti9LhE3hordg29Bsy4-VuQAh70E-x7u10uAtPJqera61tgb66LSoiFRS_mj_5AV0rPfMm4QCRGDYAvA6LTaRkAJV3H6IgRw9cx24sJ9ZwaWBIOiGhkEH3NpZtO--uqn-OGotb_6N2hCmSEXyqusBMvYwRdCr2DZgVP7kTZvJeSvADAfz7KaRzXslQ/s1600/IMG_6108.HEIC)
-
-Diary: [8 Jul 2023](https://irwin34.blogspot.com/2023/07/day-98-7824-cabin-to-cockpit-wall-liner.html)
-
-In November I added a link so the display door can't hit the desk, and screwed the wall that holds the nav table to the desk and the liner.
-
-![New teak cabin table top on the workbench](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitQJdb7M1Qse7sr-F2A-V043uAd4R7SzyVU9qyE4rTG5Zldc8dvrww2n0wspZbhrf-uQBKI5OGadDamfvYFBJF_SC1z51Om5EI-inBDW1NiSYa1RYPTBtrPTxDeiOgoUv54FKKzdrelap13S-zz0uDlx96Fboqxe0omAGUFDyUCiLV9URdFDheHuwiSIm9/s1600/IMG_6783.HEIC)
-
-Diary: [8 Nov 2023](https://irwin34.blogspot.com/2023/11/day-112-1103116-electrical-little.html)
-Diary: [11 Nov 2023](https://irwin34.blogspot.com/2023/11/day-113-1111-preparing-for-varnishing.html)
-
-In January 2024 came the display control buttons, 3D printed.
-
-![Nav station display with new control buttons](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt0RTtGmpfaaZYN4B4pM6yZzXpdI_0zkRYExJOcS8YJZsTzdlQ4iZ-28d4WEVZI4WVNp607ancNfN9qX8AZ38-PU0qCPEtVl8SlwuFjAGQs6wnvxwlM_WJV4bvN3U__p_WCAuBhf58jky6wxgTCH720myrzdj_gxGV_ljPolhMlqf5JFQVd4BBcU4Fcgqt/s1600/IMG_7334.HEIC)
-
-Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-12823-batteries.html)
+The cabin sole, the cabin table and the chart table have their own stories: [Cabin sole](../cabin-sole/), [Cabin table](../cabin-table/) and [Nav station](../nav-station/).
 
 ## Sewing cushions
 
@@ -79,11 +53,8 @@ Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-h
 
 In June came the back cushions on the starboard settee. I removed the side parts of the backrest that used to sit against the bulkhead and the galley cabinets, to get the most usable length, and I'll add drop-in cushions there. The port side was underway.
 
-The cabin table went in on a 3-stage lift leg, so it lowers to make a bed. The leg's control was on top, which meant a hole in the table, and my wife and I hated the idea of an ugly plastic button in the middle of the table. So I removed it and made a control that works from under the top: a piece of 1/4-inch stainless rod with a small plate welded on and a couple of 3D-printed parts, like an office chair. Here's the table in the lowered position. That evening friends and I anchored and soaked in the lake, then had a relaxing sunset sail in 7–10 knots, with the autopilot in charge and some fun on the bow.
+Then the boat went sailing. That evening friends and I anchored and soaked in the lake, then had a relaxing sunset sail in 7–10 knots, with the autopilot in charge and some fun on the bow.
 
-![Main cabin with the table and starboard cushions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaUCcZCzKSNfaCBnlsGN4rheaW6t1K1x4uxz_WMUUirwZQrdVJ8SH4s5RXWlQTl-SGfmE628CWkJvw-Z15ai5GJrAS-I4lUMQiD4l-kndRVLw5C6BxfG9STClq5__wAIdnbGSUSGsryTw1L7EpzpiJOHH2rNJJmj7xwc5Qz9lk04Yhbgp500me8rYZvP-_/s1600/IMG_0769.HEIC)
-![Table on its lift post, from below](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHs0TukAbsh9poIlB-pau2hypbBiIz_baCjXF_UjdeHVpDzJ7rTaHwl5nwz5hxENcpVeb0eR5M3TZS-YWieS5KQXMMiYcY0p3p6z79kANmmM2mL3fSOsEHFZ4YOrtRQKk7zVmHUJKGiJ97ZC1Qg3VZD3pEurcXuWJGVoTxGCbaiBhW9iSoPlT1fyzAa-86/s1600/IMG_0770.HEIC)
-![Table in the lowered position with cushions as a bed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUBqKdYHhJnir9iREu-hHga0uTI2tD9K2bAkPTB77uJtiMNGmIC64_4mSRCoqDwYOdOJaX3HahU_dL76Vu0q60BRFQzB5l9wK2pWPFvyfFcN3Dbeau9oeV7QzU-eMF_gb2yzIaDozWKikMo2uGlun3iY5mpck832G9sUTZNy68wJH8V2tYqHbBpof9L6ed/s1600/IMG_0771.HEIC)
 ![Viktor at the mast underway](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgISfJzvvrmszRrmZ8BsWWjSZgPcU8prCqUBsErkhAhefbThzGniwnF1fGGgDN5WryFwL5LZYLKodAGOlyQMqdcJJS7duH_lY7B9ebFBePGZTe_T8Rl4Tr4PUVLSrAabO3bPvmvn4XYqnNwA3C25U-QIu33HcFa-HHIDlqZ6CrelBhMJR6NwCj57qqgn27n/s1600/IMG_1339.HEIC)
 ![Sailing with friends, autopilot in charge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRTLZx6C_7Sya8gNZQ7dL9CEumB1ZGvwO9m1A8c6X_pjqh8BxREO-B5g5GIxTDLsVNZWobdsYYqhbMtaZSYI0sHbXRXjsJwoC0_2q8EGct7WKwfQAQqUGXTGJw2aI96dAOYexjGxYlRz1uHL_4ZP1rEfsVDzzj9-VqmmdCDw6-3vNMRIy-d0KUfjWmRh-h/s1600/IMG_0764.HEIC)
 

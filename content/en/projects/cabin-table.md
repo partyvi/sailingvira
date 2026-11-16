@@ -54,7 +54,15 @@ In March 2025 I tried it in the cabin, and suddenly it looked so massive, taking
 
 Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishing-heat-exchanger.html)
 
-It went in anyway. In June Maria and I found it a bit low in the up position, so I added spacer plates, another 1.25 inches. It still goes down to make a bed.
+It went in anyway, on a 3-stage lift leg, so it lowers to make a bed. The leg's control was on top, which meant a hole in the table, and my wife and I hated the idea of an ugly plastic button in the middle of the table. So I removed it and made a control that works from under the top: a piece of 1/4-inch stainless rod with a small plate welded on and a couple of 3D-printed parts, like an office chair. Here's the table in the lowered position.
+
+![Main cabin with the table and starboard cushions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaUCcZCzKSNfaCBnlsGN4rheaW6t1K1x4uxz_WMUUirwZQrdVJ8SH4s5RXWlQTl-SGfmE628CWkJvw-Z15ai5GJrAS-I4lUMQiD4l-kndRVLw5C6BxfG9STClq5__wAIdnbGSUSGsryTw1L7EpzpiJOHH2rNJJmj7xwc5Qz9lk04Yhbgp500me8rYZvP-_/s1600/IMG_0769.HEIC)
+![Table on its lift post, from below](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHs0TukAbsh9poIlB-pau2hypbBiIz_baCjXF_UjdeHVpDzJ7rTaHwl5nwz5hxENcpVeb0eR5M3TZS-YWieS5KQXMMiYcY0p3p6z79kANmmM2mL3fSOsEHFZ4YOrtRQKk7zVmHUJKGiJ97ZC1Qg3VZD3pEurcXuWJGVoTxGCbaiBhW9iSoPlT1fyzAa-86/s1600/IMG_0770.HEIC)
+![Table in the lowered position with cushions as a bed](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUBqKdYHhJnir9iREu-hHga0uTI2tD9K2bAkPTB77uJtiMNGmIC64_4mSRCoqDwYOdOJaX3HahU_dL76Vu0q60BRFQzB5l9wK2pWPFvyfFcN3Dbeau9oeV7QzU-eMF_gb2yzIaDozWKikMo2uGlun3iY5mpck832G9sUTZNy68wJH8V2tYqHbBpof9L6ed/s1600/IMG_0771.HEIC)
+
+Diary: [2 Jun 2025](https://irwin34.blogspot.com/2025/06/day-201-new-cushions-continue-cabin.html)
+
+Later in June Maria and I found it a bit low in the up position, so I added spacer plates, another 1.25 inches. It still goes down to make a bed.
 
 ![Checking the table height on its post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_MOOfetRif5fmRYdYt3AReW9Voy3UcGgwY19IvIepnw0Sxc8CfrXmf-rBnchW_BC2a8czAXBI73_eZn8RQU3PU9Wz1PMiQ0J6ZaiEa0WafGX7L8IZvP9SSMUxDw63i1tqHwi-3tu839hfdjB1ih737zsgqsu6TM3u9C0IRfh1b1IOyqzcd8VwWYjLqMq/s1600/IMG_0891.HEIC)
 

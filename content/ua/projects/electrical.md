@@ -211,10 +211,8 @@ Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-
 
 ## Панель штурманського столу
 
-У січні 2024-го я зібрав панель біля штурманського столу, з покажчиками рівня води й пального і маленьким 2,5-дюймовим термопринтером, раптом захочеться надрукувати «квиток». Світло над столом регулюється від «досить для хірургії» до «майже нічого не видно». Покажчик фекального бака стоїть у гальюні, де ви глянете на нього перед використанням.
+У січні 2024-го я зібрав панель біля штурманського столу, з покажчиками рівня води й пального і маленьким 2,5-дюймовим термопринтером, раптом захочеться надрукувати «квиток». Світло над столом регулюється від «досить для хірургії» до «майже нічого не видно». Покажчик фекального бака стоїть у гальюні, де ви глянете на нього перед використанням. Уся історія штурманського місця — у [Штурманському столі](../nav-station/).
 
-![Штурманський стіл із панеллю, приладами і світлом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCuMrdGCmBylOo6hksrc5BGH-xseWxP4S-7Rmxdzbaq2bRUvXTNh-gXBveWu6AAGEdJGj6VU69ayperNTj0LaJr9Or1T_J3Dal0Sii4aJvfj9tOlZt5yl0jYDdUtsrZNHK8d9m5gnmj53M_42qhUbNuZUXbbS7BllLusU6n3NqNbSd0VMtJ43axr1fHGNV/s1600/IMG_7135.HEIC)
-![Світло над столом приглушене](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8vELp-O0QoqjC-Y1dPT9_DrnK4XEwpItkqaxQ3MDdKth0Qq5kNEaB8ZF-XDzv90YCWz1nVOVESnYEjL1skrxBTOmWtV4iefoSYVNrdYGNoNc8yqEe-xmranta8n13cGazF8Ih6LcdnwF3Anyi-33CBxZNgdzOwcoH9nRuwobwkwu1jqmlyQq3cqb9mR-j/s1600/IMG_7140.HEIC)
 ![Гальюн із рівнеміром чорної води біля дверей](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgknA_v77jmd9NvGHy1KDEaQ6ai1BLXWF0owJ3Z0NfgqvRSHBVlxARTmNQ-mEhMs2O70HG1uLLrT7D3J1vBxIDrMOPmeGVtMWP70RhndfK1hkqkTCEr4th6fQzb6Xl-x60dYFD0WUorwBW7fXo04AEC3qzyoD95HYidB48-r5d3bP-0-JEfze4nT7zuC1Dg/s1600/IMG_7142.HEIC)
 
 Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-year-8-hours.html)
@@ -222,7 +220,6 @@ Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-
 Я під'єднав той покажчик фекального бака до індикатора в гальюні, з живленням від автомата «WC», тож коли збираєшся змивати, бачиш, скільки ще місця лишилося для «добра». Увімкнув термопринтер: завжди приємно мати на борту щось, що вміє друкувати. Потім підготувався до холодів з обігрівачем моторного відсіку. А потім ПРИЙШЛИ ХОЛОДИ: −5 °C надворі, причали вкриті льодом, а озеро десь +15 °C і парує, як чай у чашці.
 
 ![Рівнемір бака чорної води](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Gzh4y40h7S9su9kXCigjdafEXoM0wfKlNe7SfzOhr8ISM6q8GSuFwY8L6xCMQSJqAFqKTSuV1-UwLAIN9mZsznOGIIB0malUN7fAE9LjCew_P9ojn1pkj0UgiwaPBtL9IT3EmukHssitzAC2HCwxrrN_3nvVHqj8k2ZnGGumDdN_FmZIglFr6_BKra2I/s1600/IMG_7281.HEIC)
-![Термопринтер друкує біля штурманського столу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQl6WQZemVAOY8HdOF7q0KEaaEc2o56reUmHerjFqVVu-0Ux49cfMVzDCQq6nfSD4gJJYk4zrjphv55_FPX6grP-w9mUBoQOWZosS3RgUmhHsST_LqMM77nu8tWdBkcuIiXluwVD4fkMq5RtH7neaeHzTTrR8oJqku2B0GL1Co0Bf7GirZF0UmK6fVElHr/s1600/IMG_7279.HEIC)
 ![Обігрівач моторного відсіку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDoJH5MHGsh2MHfCza0pwuyASEEIcGoRsJKADLVxnCV7RESvi-04Ls6cJ7GPsN9yc4OZ9sLHBHvePDxcYJXbEmYf75jiLo-mmfPkCMZiGOhmXd84Grz7AER2axKn9dazWpj0j6huxsl5v0opHKD9lJmbeLypWhFIw12pnhttDMCi4zhSCcDzTuNjg7ELuD/s1600/IMG_7272.HEIC)
 ![Туман над озером Тревіс холодного ранку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOlmLJ-rGrwyyLh7HaxgfouI_mPTuQLuZ7-0CV8DTmMWvbhSJvmZzarqoqNw3nu3X6XNpcLggoxSahy9LRNZ258y1N0rKJU1g-I9Ln88nVOpZMct1QWt07lDh3792xeg667v1VXrHwoibZ4Ptu3v_Fnvx5QWtj_Y08TFC9lvnUF2K6Wa22x0nP-HC5K4eb/s1600/IMG_7291.HEIC)
 

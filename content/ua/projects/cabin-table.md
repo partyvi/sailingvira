@@ -54,7 +54,15 @@ Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-
 
 Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishing-heat-exchanger.html)
 
-Але він таки став на місце. У червні ми з Марією помітили, що в піднятому положенні він трохи низький, тож я додав проставки, ще на 1,25 дюйма. Опускатися, щоб зробити ліжко, він так само може.
+Але він таки став на місце, на трисекційну підйомну ніжку, тож опускається, щоб зробити ліжко. Керування ніжкою було зверху, тобто дірка в столі, а нам з дружиною дуже не подобалася ідея потворної пластикової кнопки посеред столу. Тож я її прибрав і зробив керування, яке працює з-під стільниці: шматок нержавкого прутка 1/4 дюйма з привареною пластинкою і кілька деталей з 3D-принтера, як в офісному кріслі. Ось стіл в опущеному положенні.
+
+![Головний салон зі столом і подушками правого борту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaUCcZCzKSNfaCBnlsGN4rheaW6t1K1x4uxz_WMUUirwZQrdVJ8SH4s5RXWlQTl-SGfmE628CWkJvw-Z15ai5GJrAS-I4lUMQiD4l-kndRVLw5C6BxfG9STClq5__wAIdnbGSUSGsryTw1L7EpzpiJOHH2rNJJmj7xwc5Qz9lk04Yhbgp500me8rYZvP-_/s1600/IMG_0769.HEIC)
+![Стіл на підйомній стійці, знизу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHs0TukAbsh9poIlB-pau2hypbBiIz_baCjXF_UjdeHVpDzJ7rTaHwl5nwz5hxENcpVeb0eR5M3TZS-YWieS5KQXMMiYcY0p3p6z79kANmmM2mL3fSOsEHFZ4YOrtRQKk7zVmHUJKGiJ97ZC1Qg3VZD3pEurcXuWJGVoTxGCbaiBhW9iSoPlT1fyzAa-86/s1600/IMG_0770.HEIC)
+![Стіл опущений, з подушок вийшло ліжко](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUBqKdYHhJnir9iREu-hHga0uTI2tD9K2bAkPTB77uJtiMNGmIC64_4mSRCoqDwYOdOJaX3HahU_dL76Vu0q60BRFQzB5l9wK2pWPFvyfFcN3Dbeau9oeV7QzU-eMF_gb2yzIaDozWKikMo2uGlun3iY5mpck832G9sUTZNy68wJH8V2tYqHbBpof9L6ed/s1600/IMG_0771.HEIC)
+
+Diary: [2 Jun 2025](https://irwin34.blogspot.com/2025/06/day-201-new-cushions-continue-cabin.html)
+
+Пізніше в червні ми з Марією помітили, що в піднятому положенні він трохи низький, тож я додав проставки, ще на 1,25 дюйма. Опускатися, щоб зробити ліжко, він так само може.
 
 ![Перевіряю висоту столу на стійці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_MOOfetRif5fmRYdYt3AReW9Voy3UcGgwY19IvIepnw0Sxc8CfrXmf-rBnchW_BC2a8czAXBI73_eZn8RQU3PU9Wz1PMiQ0J6ZaiEa0WafGX7L8IZvP9SSMUxDw63i1tqHwi-3tu839hfdjB1ih737zsgqsu6TM3u9C0IRfh1b1IOyqzcd8VwWYjLqMq/s1600/IMG_0891.HEIC)
 
