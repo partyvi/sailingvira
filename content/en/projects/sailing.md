@@ -2,7 +2,7 @@
 id: sailing
 title: Sailing log
 section: voyages
-order: 2
+order: 1
 description: Sailing days, people, weather and life around the boat.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC
 ---
