@@ -48,7 +48,7 @@ a{color:var(--accent)}
   background:#10222E center/cover no-repeat}
 .banner{aspect-ratio:auto;height:auto;max-height:none;min-height:clamp(150px,20vw,260px);padding-bottom:10px;box-sizing:border-box}
 .hero-logo{display:block;width:100px;height:100px;margin:12px auto auto calc(max(16px,env(safe-area-inset-left,0px)) + 55px);border-radius:50%;box-shadow:0 2px 14px rgba(0,0,0,.3)}
-@media (max-width:620px){.hero-logo{width:80px;height:80px;margin:10px auto auto calc(max(16px,env(safe-area-inset-left,0px)) + 65px)}}
+@media (max-width:620px){.hero-logo{width:80px;height:80px;margin:10px auto auto max(12px,env(safe-area-inset-left,0px))}}
 .band{display:flex;flex-wrap:wrap;align-items:center;gap:6px 22px;background:rgba(16,34,46,.62);color:#fff;
   padding:10px max(16px,env(safe-area-inset-right,0px)) 10px max(16px,env(safe-area-inset-left,0px))}
 .band .brand{font-family:'Kotyhoroshko',var(--f-display);font-size:24px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:#fff;text-decoration:none}
