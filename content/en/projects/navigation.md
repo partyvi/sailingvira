@@ -417,51 +417,51 @@ March 2026: 24 small things in two weekend days. The radar went on the mast. Sim
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-The VHF antenna went back: SWR 1.3. The wind instrument and the masthead camera hadn't worked last time. I suspected the wiring, but the masthead connector had been plugged in the wrong way around. I still spent about 40 minutes at the top checking every wire, took the instrument down, rechecked it, and my son put it all back. Mission completed.
+## AIS troubles
 
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-I planned to splice the halyard to its shackle, but after three tries I gave up and tied a knot. I think the rope got hardened from climbing on it so many times. A reminder for myself: I need a pin for the main tack, 5/16, 1-3/4 working length. The injector tubes are 6.4 mm. And the USCG garbage sticker went up.
+The Maiana AIS went together, mounted on 6 feet of stainless tube on the back rail, with the cable protected with heat shrink and run into the cabin. 
 
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+The Maiana AIS somehow got water inside, and the GPS died, although the AIS receiver still worked. Cleaning and drying didn't help. Before I throw the board away, I'll try replacing the GPS. 
+During repair I found one transistor and inductor blown out.
 
-The Maiana AIS went together, mounted on 6 feet of stainless tube on the back rail, with the cable protected with heat shrink and run into the cabin. And a MikroTik router. I switched the 4G router to modem-only mode for internet; the MikroTik is the Ethernet switch for the radar, and I prefer it for Wi-Fi too. The masthead camera started working once I switched to it.
+Board sas cleabed up, GPS module replaced and board covered with dood conformal coating.
 
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-See you in two weeks.
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-## AIS troubles and a 3D-printed steel clamp
-
-April 2026: sound from OpenPlotter over Bluetooth, so the alarms are loud. Autopilot tuning: clutch current down to 30% and max speed up. Impressive. On Sunday it steered in a short 2–3 foot sea with 20–25 knots, no drama.
-
-The Maiana AIS somehow got water inside, and the GPS died, although the AIS receiver still worked. Cleaning and drying didn't help. Before I throw the board away, I'll try replacing the GPS. Another letdown: the "aluminum" antenna bracket was actually chrome-plated zinc alloy, and it fell apart in three weeks at sea.
-
-I cleaned the speed-through-water sensor and, surprise, it works. Recalibrated.
+And the best thing, after repair it started working.
 
 ![Maiana AIS transponder board](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
 ![Water damage on the AIS board's GPS module](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
+
+## new Fifi/internet setup
+
+I anded a MikroTik router. I switched the 4G router to modem-only mode for internet; the MikroTik is the Ethernet switch for the radar, and I prefer Mikrotik for Wi-Fi too. The masthead camera started working once I switched to it.
+
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+
+## 3D-printed steel clamp
+
+ Another letdown: the "aluminum" antenna pole bracket was actually chrome-plated zinc alloy, and it fell apart in three weeks at sea.
+![Corroded aluminum clamp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkk2bptdE4z2hnsVu706sdCaLvY5tBSUfissTyy8o9HPss0ycY93TBijdnUGlijYLkhFWJiiFhBlLgyc24EmM5AA1naJyBsF52b6r1jgrd7T2PFoHPHVt6_VZP2X6aSWujRMbXdMZbnJYeMUXO4fbBcGmnS0Msrl1FqPh2SKEsfSZfWoQKtMRDfbgl_noC/s1600/IMG_1158.HEIC)
 ![Broken zinc-alloy AIS antenna bracket](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
 
-Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
-Later in April I added a switch for the big cockpit touchscreen, so rain stops "touching" it. And the AIS transponder, repaired, went back and was tested. Now people can see me, if I transmit my position.
+The Maiana sits on the end of a 1-inch tube. To attach it to the stern rail I tried aluminum clamps from Amazon, and they were completely wrong for a boat. This is what one looked like after two weeks in Houston. Clamps for two parallel 1-inch tubes are almost impossible to find, so I designed my own and ordered them printed in 316L stainless from JLC3DP in China, four for $40. A week later they arrived, and I was surprised how well they were printed. After sanding they look like solid metal, and they are solid metal. Here are the clamps in place.
 
-![AIS settings on the nav screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOg63eSDutrs7NuqtN69HqutSfgHfwaEHzLBzBUBogts4VOKZaG7qToRtH4-3SQKtYIazfrazY93eGpB92Qzqkmm7ZnrXbSqgCTQtV2nBHW_hk7uAlSt0sfrgPmjylc2vbCukGnuIIqi1xVHs5fVTGMvwdHrSehIbD4jEXKatapkiUSxs3p6teWFjsw5KX/s1600/IMG_1229.HEIC)
-
+![3D model of the stainless clamp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg30ThmqJ_JGeSyvVeyYyzhWBrAlsdg8Am6Zjfsk04MpGdR2e0VNNzn5-eodeuHMqlw8Bb79IVfSKgseorXcZHaCXF1Nqd_xgWUccX8xHp3djl8U3k0qbt42UKd-15EszHzBonwKFq7nlvdVJ8HVAb_EfbEBUkO55d28SP08ZmTn7eoafOw6PcYDSPRecuq/s1600/clamp2.png)
 Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
+![3D-printed stainless clamps](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif-yCuAn6CsQhDaH9fkkfiLUaoxUsBi1OyFv0GlkrTOOt1L0USjDJs_TFyoZE1hYFiSv7pAkLriXtYL41KAW_HKvfpMbYttX8VtiJr53VNykIgEiQg7HMWAquVFH1U6k-BiXJJr5vsLXGsDEMew1-ODMr4IX2n24a3NEx8Op4N_KsgPmmY88dvb2j09YVZ/s1600/IMG_1315.HEIC)
+![AIS antenna clamped to the stern rail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4aJ1mH_iPpLzQ-J2GqXBHWVEG3onjVahN2-6FU-jN_XkPSqnDs9ehEm9niReyQqa2U5eqHSdS3f60jOyTSZk3y_4oinNDwrutpv-tk5zvvVW2UO3M536WobDyp0VO5JMvTB8kq1H_fl0PTso2YWtIIgIGhY_5iw-Yweu913ffi49k1MhmqvgvAQR_NNp/s1600/IMG_1497.HEIC)
+
+Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
+
+
+## Autopilot puzzle
 
 Then a puzzle. Right after I installed the AIS transponder, the autopilot wouldn't stay running. I didn't connect the dots until later: PyPilot's control program was rebooting every 30 seconds, but only when the AIS was on. Long story short, the Maiana sends GPS data to Signal K as another GPS source, and PyPilot crashes because it can't parse it. I tried pointing PyPilot at the Linux GPSD daemon with a separate GPS. It worked fine at the dock, BUT underway GPSD locked onto stale positions, giving the wrong position and speed, and I had to restart it every time it went into the weeds. Back to the drawing board. In the end I just reorganized which GPS does what. The Maiana's GPS works for the AIS itself and for Signal K, and a separate 1 Hz GPS was dedicated to PyPilot. No more crashes.
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
 
-The Maiana sits on the end of a 1-inch tube. To attach it to the stern rail I tried aluminum clamps from Amazon, and they were completely wrong for a boat. This is what one looked like after two weeks in Houston. Clamps for two parallel 1-inch tubes are almost impossible to find, so I designed my own and ordered them printed in 316L stainless from JLC3DP in China, four for $40. A week later they arrived, and I was surprised how well they were printed. After sanding they look like solid metal, and they are solid metal. Here are the clamps in place.
 
-![Corroded aluminum clamp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkk2bptdE4z2hnsVu706sdCaLvY5tBSUfissTyy8o9HPss0ycY93TBijdnUGlijYLkhFWJiiFhBlLgyc24EmM5AA1naJyBsF52b6r1jgrd7T2PFoHPHVt6_VZP2X6aSWujRMbXdMZbnJYeMUXO4fbBcGmnS0Msrl1FqPh2SKEsfSZfWoQKtMRDfbgl_noC/s1600/IMG_1158.HEIC)
-![3D model of the stainless clamp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg30ThmqJ_JGeSyvVeyYyzhWBrAlsdg8Am6Zjfsk04MpGdR2e0VNNzn5-eodeuHMqlw8Bb79IVfSKgseorXcZHaCXF1Nqd_xgWUccX8xHp3djl8U3k0qbt42UKd-15EszHzBonwKFq7nlvdVJ8HVAb_EfbEBUkO55d28SP08ZmTn7eoafOw6PcYDSPRecuq/s1600/clamp2.png)
-![3D-printed stainless clamps](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif-yCuAn6CsQhDaH9fkkfiLUaoxUsBi1OyFv0GlkrTOOt1L0USjDJs_TFyoZE1hYFiSv7pAkLriXtYL41KAW_HKvfpMbYttX8VtiJr53VNykIgEiQg7HMWAquVFH1U6k-BiXJJr5vsLXGsDEMew1-ODMr4IX2n24a3NEx8Op4N_KsgPmmY88dvb2j09YVZ/s1600/IMG_1315.HEIC)
-![AIS antenna clamped to the stern rail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4aJ1mH_iPpLzQ-J2GqXBHWVEG3onjVahN2-6FU-jN_XkPSqnDs9ehEm9niReyQqa2U5eqHSdS3f60jOyTSZk3y_4oinNDwrutpv-tk5zvvVW2UO3M536WobDyp0VO5JMvTB8kq1H_fl0PTso2YWtIIgIGhY_5iw-Yweu913ffi49k1MhmqvgvAQR_NNp/s1600/IMG_1497.HEIC)
 
-Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
+
