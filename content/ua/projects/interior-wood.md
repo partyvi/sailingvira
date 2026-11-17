@@ -428,13 +428,6 @@ Diary: [20 Aug 2023](https://irwin34.blogspot.com/2023/08/day-103-104-81923-820-
 
 Diary: [26 Aug 2023](https://irwin34.blogspot.com/2023/08/day-105-82623-interior-work-6-hours.html)
 
-У вересні місце компресора холодильника впорядкували, і я тимчасово покращив обдув конденсатора.
-
-![Зона компресора холодильника впорядкована](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0kV7G9Qyj49Y9XuKJHKXPWhLeD6-cGtDkCVsSuIXUfPS8kAcDVlh6B7YMRUVSPoENvnLoEExleCfWdBx831hq-Qhz0yrAWtyDcbtXEa5ebDqfwLV0wGJKiwE5lXRi-DiH74MWDisS_YLiXjY1rqg7vg4khpfKl-JSWZL7NKqeKffjyp2lwh9yv6e9r7Ld/s1600/IMG_6294.HEIC)
-![Кращий обдув конденсатора](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAiDITgOftzYoOKF99VDV7o56pEF3nik4gMQRGpdJ6xYtYl295VyxG12oZOS374VXCErrD00YQhYpKgcctEupJkDRTnWAqYaQVtj40Z9wT6bJUW894s_ZH6V4-_rkIOrsgC2M7Sd_flAYqLvz4zFul0gBfRd0VuE_0AMcmGZ9a7YgCUMZOsvSkVRYUBaT/s1600/IMG_6295.HEIC)
-
-Diary: [2 Sep 2023](https://irwin34.blogspot.com/2023/09/day-106-9223-interior-work-8-hours.html)
-
 Люк головної каюти: його внутрішнє оздоблення було закріплене «в повітрі». Гвинти були просто в рамці, трималися лише на силіконі, і закручуватися їм було нікуди. Щоб заповнити щілину, я тимчасово поставив фанерні смужки, обгорнуті вощеним папером, і заповнив за ними епоксидкою з рубленим склом, 404 і кремнеземом. Вощений папір знімається відразу. Опорну рамку збудовано, а оздоблювальна рамка повернулася на місце. Примірка рамки довкола трапа, а оздоблення переднього люка прошліфоване й приміряне.
 
 ![Накладка головного люка «висить у повітрі»](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYmST_FzzvcRWinvqFWq91KekEe0R3YZmFAP6eZ5GabOGadq2PqQtPXYrvHJtgzb57b3LaM3TzDWdj785PWHgep19PXn7A7n6L0gPrj0dIamiwLxETxNpIc5i04D4E_0IX0c6GgA8BTapWiHq6tK_IKbp7sc2xBZNc-iKsTUwPliCTXVv1S4MlPyon6bM/s1600/IMG_6297.HEIC)
