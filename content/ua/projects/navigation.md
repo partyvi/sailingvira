@@ -386,19 +386,6 @@ Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mains
 
 Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhull-line-setup.html)
 
-## GPS на кормовому релінгу
-
-У серпні 2026-го вітровий датчик нічого не показував на панелях. Швидка перевірка: згорів маленький жертовний резистор у живленні плати датчика. Мабуть, розряд на щоглу або блискавка досить близько, щоб наробити цієї маленької шкоди. Паяльник і шматок дроту все полагодили.
-
-Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-with-family-small.html)
-
-У вересні я додав ще один GPS, на 10 Гц, головним чином для режиму GPS авторульового. Швидший GPS дає авторульовому працювати точніше. Нічого особливого, стандартний модуль u-blox 10, але в саморобному вуличному корпусі для кормового релінга. Тепер GPS на 10 Гц живить PyPilot, а старий на 1 Гц лишається під'єднаним до Pi як запасний, не в роботі. Версія 4.щось-там усієї системи, і далі буде.
-
-![Новий GPS на 10 Гц на кормовому релінгу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6A8P8cypdSsest_E7csTH-CWbvXrwXUSZeOtUrbrDFlprrUHQ5Fopj9E6TODie6hfEJhPracoLw8YFdpVjJSnQA0O3X77YYUZNdploNE3fur3Wdh-Cudgh6aHp2vvcw861mveUK5zCjjm45WZ_OGm4rJzdzL_wuimrYe5JyQAfT7S_7yPZcTa9zJAL0c6/s1600/IMG_2629.HEIC)
-![GPS у власному вуличному корпусі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCruvtYbi2r_OuhsL04NJ5uk9bs-1k76g7m5vepScT49PpQvKGWGO0-OaGczdVHaDm0E3LGjrUgqAcZOaluyIz93pz5h26eZ4GWgtKcTMoBK1gH5WiTpbv_yAGbi5ub0b-GaOzXAa7-iXJufm8I_AbTyz6zpinGDWlyetLL91gVDwZ0T9puWXcboXg-2SS/s1600/IMG_2632.HEIC)
-
-Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
-
 ## Радар
 
 Радар і його саморобне кріплення на щоглу мають свою історію: [Кріплення радара](../radar-mount/).
@@ -450,3 +437,16 @@ Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-instal
 Потім головоломка. Одразу після встановлення транспондера AIS авторульовий не хотів працювати стабільно. Я не одразу пов'язав одне з одним: керувальна програма PyPilot перезавантажувалася кожні 30 секунд, але лише коли AIS був увімкнений. Коротко: Maiana надсилає дані GPS у Signal K як ще одне джерело GPS, а PyPilot падає, бо не може їх розібрати. Я спробував направити PyPilot на демон Linux GPSD з окремим GPS. Біля причалу все працювало, АЛЕ на ходу GPSD чіплявся за застарілі позиції, давав неправильну позицію й швидкість, і мені доводилося перезапускати його щоразу, як він з'їжджав з глузду. Назад до креслярської дошки. Зрештою я просто переорганізував, який GPS що робить. GPS Maiana працює на сам AIS і на Signal K, а окремий GPS на 1 Гц виділено для PyPilot. Більше ніяких падінь.
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
+
+## GPS на кормовому релінгу
+
+У серпні 2026-го вітровий датчик нічого не показував на панелях. Швидка перевірка: згорів маленький жертовний резистор у живленні плати датчика. Мабуть, розряд на щоглу або блискавка досить близько, щоб наробити цієї маленької шкоди. Паяльник і шматок дроту все полагодили.
+
+Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-with-family-small.html)
+
+У вересні я додав ще один GPS, на 10 Гц, головним чином для режиму GPS авторульового. Швидший GPS дає авторульовому працювати точніше. Нічого особливого, стандартний модуль u-blox 10, але в саморобному вуличному корпусі для кормового релінга. Тепер GPS на 10 Гц живить PyPilot, а старий на 1 Гц лишається під'єднаним до Pi як запасний, не в роботі. Версія 4.щось-там усієї системи, і далі буде.
+
+![Новий GPS на 10 Гц на кормовому релінгу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6A8P8cypdSsest_E7csTH-CWbvXrwXUSZeOtUrbrDFlprrUHQ5Fopj9E6TODie6hfEJhPracoLw8YFdpVjJSnQA0O3X77YYUZNdploNE3fur3Wdh-Cudgh6aHp2vvcw861mveUK5zCjjm45WZ_OGm4rJzdzL_wuimrYe5JyQAfT7S_7yPZcTa9zJAL0c6/s1600/IMG_2629.HEIC)
+![GPS у власному вуличному корпусі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCruvtYbi2r_OuhsL04NJ5uk9bs-1k76g7m5vepScT49PpQvKGWGO0-OaGczdVHaDm0E3LGjrUgqAcZOaluyIz93pz5h26eZ4GWgtKcTMoBK1gH5WiTpbv_yAGbi5ub0b-GaOzXAa7-iXJufm8I_AbTyz6zpinGDWlyetLL91gVDwZ0T9puWXcboXg-2SS/s1600/IMG_2632.HEIC)
+
+Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
