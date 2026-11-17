@@ -109,7 +109,29 @@ Good night, marina. The one with the spreader lights on is my Vira.
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
-## A screen in the cockpit
+
+
+
+
+## OpenPlotter comes alive
+
+January 2024, the picture of the day: OpenPlotter running on the installed hardware. And inside the electronics compartment.
+
+That weekend: power for the Raspberry box, and the box installed. I tested the IMU, unsuccessfully; it looks like a bad connection. Wires from the pedestal to the nav table. Resistor boards to keep the LEDs on the main switch box dimmer. A remote for the deck lights. A "secondary" GPS, in a spot where it works through the single-layer deck. I checked the dual-screen setup: I'll need an HDMI splitter to mirror the cockpit and the nav table easily. Right now the cockpit display and the Pi power each other over HDMI; the splitter will fix that. I ran the engine to check the RPM: idle 850, near-full throttle 2,800. It runs stable, but with pretty strong white smoke. I need to check how it smells, oil or water. And I measured the fuel tank space: an off-the-shelf tank won't fit.
+
+![Nav station with the chart and keyboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZzjcgXctfwyc9LYZtyzazWSe5ddFzyGZuhxrkhEfgowKG-y6VQyANF1LSc80AHivI1ZWggdUxWANYrvY3Lmo86j0bxJq_zZaG0EYiH_204pYO6-vUpJbD_QBGZLiNXrR58j9ZoslJ8NMyNxpj4mMzvYJvmpe4PEdNkri8LvlGNBJvbihx1xRk2fBXOE66/s1600/IMG_7174.HEIC)
+![Electronics compartment behind the screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrB8CROPaclHTRg8hWIAmioFrcRlp9W2EbAIGI-7ocNhDeRnpwAoLG_jnVuoffMxf34754dce8O5OqTq9N2MysdFVYTHpjRfNMhwILTmzsXofKUMRg9E9iIyuWplhX2HIASgCHsrvysM5jsGhiOlwDgWedPtZi0ffhiA4pfZQH5GLHwG91ZCN2f7ZIr5q2/s1600/IMG_7177.HEIC)
+
+Diary: [8 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1624-small-electrical-finishes.html)
+
+Here's the "draft" electronics board for OpenPlotter. The wiring needs organizing, but first make it work, then make it pretty.
+
+![Draft electronics board for OpenPlotter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XDEnhsOwgXngev81Zs2D7ehM6O5h5H0M6QYhF17Xjrzpx7dUBSHssBULzlt02fLy0qsFuMHjkPoRuR1FXjjoqY23qbAss-jVRWpGSXR7hhXVcC257vkwP6LkdfluGua1H5qvpWDmdf79wBI0iDCTlW-J3Ys5xEG4m3WqWtarRbQg9AnNNPsD-TNhqNL2/s1600/IMG_7282.HEIC)
+
+Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
+
+
+## A big screen in the cockpit
 
 In May 2023 I took out a leaking port to make room for a 15-inch, 600–800 nit touchscreen. It works next to the main nav station; a second, 7-inch, 1,200 nit screen will go on a nav pod, maybe with another Raspberry Pi. The port wasn't watertight at all: when I took out the screws, it just fell out of the hole. The cabin wall isn't flat, so to mount a screen I made a flat surface on the cabin side with thickened epoxy, pressed with a 3/4-inch MDF plate wrapped in freezer paper. A couple of wrinkles, but they shouldn't matter. The hole is closed with PVC tape for now. The inner rectangle is the display frame; the opening will grow about 2.5 inches. I don't expect structural problems.
 
@@ -131,6 +153,7 @@ Then I mounted the display with VHB tape, to hold it and leave a 2 mm gap betwee
 ![Cockpit display with the sun cover and phone pockets](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFi_0HwDjeHe5ZGaoc1oSEDk1OO3EZKUkxLQ9Hs3sXo3zLdqwg9Pu3JzolB6_Ays_aHCzw2c_sN2ZZGXvP0-tzbvg5kBT9CyQs1rS-Iy0xhROe0aE3qOpNVYHUaAJ-iuFYYGwNh0vzFnZpGFylfePN0mJ_Te-x9njDJJ1H_ADt1UKFapx1WmV5ybVS0A/s1600/IMG_5910.HEIC)
 
 Diary: [10 Jun 2023](https://irwin34.blogspot.com/2023/06/day-93-61023-galley-countertop-fit-to.html)
+
 
 ## Planning the autopilot
 
@@ -154,24 +177,6 @@ The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% pow
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-
-
-## OpenPlotter comes alive
-
-January 2024, the picture of the day: OpenPlotter running on the installed hardware. And inside the electronics compartment.
-
-That weekend: power for the Raspberry box, and the box installed. I tested the IMU, unsuccessfully; it looks like a bad connection. Wires from the pedestal to the nav table. Resistor boards to keep the LEDs on the main switch box dimmer. A remote for the deck lights. A "secondary" GPS, in a spot where it works through the single-layer deck. I checked the dual-screen setup: I'll need an HDMI splitter to mirror the cockpit and the nav table easily. Right now the cockpit display and the Pi power each other over HDMI; the splitter will fix that. I ran the engine to check the RPM: idle 850, near-full throttle 2,800. It runs stable, but with pretty strong white smoke. I need to check how it smells, oil or water. And I measured the fuel tank space: an off-the-shelf tank won't fit.
-
-![Nav station with the chart and keyboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZzjcgXctfwyc9LYZtyzazWSe5ddFzyGZuhxrkhEfgowKG-y6VQyANF1LSc80AHivI1ZWggdUxWANYrvY3Lmo86j0bxJq_zZaG0EYiH_204pYO6-vUpJbD_QBGZLiNXrR58j9ZoslJ8NMyNxpj4mMzvYJvmpe4PEdNkri8LvlGNBJvbihx1xRk2fBXOE66/s1600/IMG_7174.HEIC)
-![Electronics compartment behind the screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrB8CROPaclHTRg8hWIAmioFrcRlp9W2EbAIGI-7ocNhDeRnpwAoLG_jnVuoffMxf34754dce8O5OqTq9N2MysdFVYTHpjRfNMhwILTmzsXofKUMRg9E9iIyuWplhX2HIASgCHsrvysM5jsGhiOlwDgWedPtZi0ffhiA4pfZQH5GLHwG91ZCN2f7ZIr5q2/s1600/IMG_7177.HEIC)
-
-Diary: [8 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1624-small-electrical-finishes.html)
-
-Here's the "draft" electronics board for OpenPlotter. The wiring needs organizing, but first make it work, then make it pretty.
-
-![Draft electronics board for OpenPlotter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XDEnhsOwgXngev81Zs2D7ehM6O5h5H0M6QYhF17Xjrzpx7dUBSHssBULzlt02fLy0qsFuMHjkPoRuR1FXjjoqY23qbAss-jVRWpGSXR7hhXVcC257vkwP6LkdfluGua1H5qvpWDmdf79wBI0iDCTlW-J3Ys5xEG4m3WqWtarRbQg9AnNNPsD-TNhqNL2/s1600/IMG_7282.HEIC)
-
-Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 
 ## A used Autohelm becomes a smart drive
 
