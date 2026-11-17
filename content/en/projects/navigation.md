@@ -369,6 +369,46 @@ Story page: [Helm instrument console](https://irwin34.blogspot.com/p/pedestal-he
 
 The radar and its home-made mast mount have their own story: [Radar mount](../radar-mount/).
 
+
+
+## The NavPod is finished
+
+May 2026: a weekend of NavPod software. It's a second Raspberry Pi head unit at the helm, with a 7-inch, 2,000-nit display, adjustable from 0.005% to 100%, talking to the main computer's Signal K, PyPilot and other apps. It has 26 buttons and mouse simulation. The left panel: power, a dedicated MOB button (it saves the position, opens OpenCPN and drops a MOB mark), AIS TX on/off, three app buttons, and the autopilot: mode (compass, wind, GPS, true wind, nav), AUTO/STBY, ±1°, ±10° and tack. The right panel: mode buttons (keyboard, numpad, mouse, lock), arrows with OK, and Enter, Esc and Tab.
+
+The sailing screen: a wind/compass instrument with apparent wind (orange arrow), true wind (blue marker), set and drift (green teardrop), heading, the autopilot mode, the rudder position on a hull outline, and a red dot toward the next waypoint. The side panels are fully configurable: on the left SOG, STW, depth, water temperature (:-)) and rudder; on the right the time on each tack, and the next waypoint's direction, distance and speed. It will have sailing and motoring modes, and maybe day and night, but first I want to see it in bright sun.
+
+![NavPod sailing screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7FgVmXgMaP-EaGI-kHqKLydqmJ7feMSUpsWRVZdvQ00iNc6bhYoY3ThhwBtZStQimMHF63uanml1TUYk-2-NuSRTZcEbZGfTy_n0vwooglKqG05pL7UmwrjwrJnJtIUj4ZJc2OqU_DemkxpzjReLssrlw2Vodmhsn9qZ50C1sv1P93IqeKgV9JAXxfCmt/s1600/att.6pjuSwuoicNWNgp9kRaK3r857K-U9u67dJDKs1kxdbs.jpg)
+
+Diary: [18 May 2026](https://irwin34.blogspot.com/2026/05/homework-navpod-software.html)
+
+In June: the dry fit and a sea trial. The front panel still needs paint, and the buttons need redoing.
+
+![NavPod dry fit under sail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpKEIwz53hsvAWbUhZvaGKJkFsB6oqQxtACw52lRQ_G-WhdqNiIqJ8rd8ErmZxtWoh0NMrUFpvzPIddDqenVtO85XATJtIZUnJ3wa59hR-ggi-S1UOOawdiD-6d5muTE1SiOPuFdqDlxSFDYsxTRvboGxhL2Ov-i-P-I0o4RP60z1_pBvDPNZDtVP2RwIG/s1600/IMG_1579.HEIC)
+![NavPod screen under sail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC)
+
+Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mainsail-variable.html)
+
+In July, the final install. It's not a brand-name NavPod; it just looks like one, so I call it NavPod. A full boat dashboard with physical buttons: sailing, motoring, OpenCPN and the anchor alarm, all running on the Pi inside and talking over Ethernet to the main OpenPlotter computer. I took the guard rail home and drilled and tapped it for screws.
+
+![Finished NavPod at the helm](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIT_VuxfScw_W-akH8YxaTFf5WNvnYTx0QdB99wE3QRHsoZL7timHYxT11sDSrVN6DE0_uIfDF2DybIWGahm84gswugyPZ5eqGkwxnCevvBsMhl_-E7MD6whuWaNaZVaL-DMHRzy5mSdWN7J64QPeJB4XzphtZRa-g_ZYpJ_-zQoNWEZO8wHBcW3Pm-PBh/s1600/IMG_2272.HEIC)
+![NavPod with the sailing dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-0i8lb4bnc-k3Gw-qoKVozJghKjjHzxxauqCYHabLrpdjc3RS-KNHxhgFNCwSJ9B7mxEPZqOnGIp4e4ChvBmsQ_txV04_Qs0YBWHLjgv5fQ3jtX5foFGcTvduaGM20T-3fwmfhufqWare-KwnVsghJpZnQOvAMIxXH_q0uQrfNfErABj4KRKHFRkTF7c/s1600/IMG_2271.HEIC)
+![NavPod from behind, guard rail and wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6aRBS89VleNcHl8A1PnTAuJYyyUuVF1XgU1PdFIpmTwA99cwa4YtV8f1Xsb2V5w3CzuQo2bABfpnqY2QIcmuDRFQja1Lw2qKlGeC5-UicjXBTbnXUckLWu1l4hAK4kDmkZ-nWCTrv5SWMllMcVAi8m2zOptKvlGLctiH1bPKJ4KjQelG9TquOHK2XLOM_/s1600/IMG_2269.HEIC)
+
+Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhull-line-setup.html)
+
+## Stern rail GPS
+
+In August 2026 the wind sensor showed nothing on the dashboards. A quick check: the small sacrificial resistor on the sensor board's power was blown. Probably a discharge to the mast, or lightning close enough to do that little damage. A soldering iron and a piece of wire fixed it.
+
+Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-with-family-small.html)
+
+In September I added one more GPS, 10 Hz, mainly for the autopilot's GPS mode. A faster GPS lets the autopilot work more precisely. Nothing fancy, a standard u-blox 10 module, but in a custom outdoor housing for the back rail. Now the 10 Hz GPS feeds PyPilot, and the old 1 Hz one stays connected to the Pi as a spare, not in use. Version 4.something of the whole system, and counting.
+
+![New 10 Hz GPS on the stern rail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6A8P8cypdSsest_E7csTH-CWbvXrwXUSZeOtUrbrDFlprrUHQ5Fopj9E6TODie6hfEJhPracoLw8YFdpVjJSnQA0O3X77YYUZNdploNE3fur3Wdh-Cudgh6aHp2vvcw861mveUK5zCjjm45WZ_OGm4rJzdzL_wuimrYe5JyQAfT7S_7yPZcTa9zJAL0c6/s1600/IMG_2629.HEIC)
+![GPS in its custom outdoor housing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCruvtYbi2r_OuhsL04NJ5uk9bs-1k76g7m5vepScT49PpQvKGWGO0-OaGczdVHaDm0E3LGjrUgqAcZOaluyIz93pz5h26eZ4GWgtKcTMoBK1gH5WiTpbv_yAGbi5ub0b-GaOzXAa7-iXJufm8I_AbTyz6zpinGDWlyetLL91gVDwZ0T9puWXcboXg-2SS/s1600/IMG_2632.HEIC)
+
+Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
+
 ## Radar
 
 March 2026: 24 small things in two weekend days. The radar went on the mast. Simple, except that the bracket had bent a little and the rear holes didn't line up, so I drilled them out a bit for the bolts. The other challenge was lifting the radar up the mast safely. It's round, with nothing to tie a rope to. And I riveted a plate for a Ring camera onto the radar mount, to watch the docks, especially in really bad weather.
@@ -425,41 +465,3 @@ The Maiana sits on the end of a 1-inch tube. To attach it to the stern rail I tr
 ![AIS antenna clamped to the stern rail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4aJ1mH_iPpLzQ-J2GqXBHWVEG3onjVahN2-6FU-jN_XkPSqnDs9ehEm9niReyQqa2U5eqHSdS3f60jOyTSZk3y_4oinNDwrutpv-tk5zvvVW2UO3M536WobDyp0VO5JMvTB8kq1H_fl0PTso2YWtIIgIGhY_5iw-Yweu913ffi49k1MhmqvgvAQR_NNp/s1600/IMG_1497.HEIC)
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
-
-## The NavPod is finished
-
-May 2026: a weekend of NavPod software. It's a second Raspberry Pi head unit at the helm, with a 7-inch, 2,000-nit display, adjustable from 0.005% to 100%, talking to the main computer's Signal K, PyPilot and other apps. It has 26 buttons and mouse simulation. The left panel: power, a dedicated MOB button (it saves the position, opens OpenCPN and drops a MOB mark), AIS TX on/off, three app buttons, and the autopilot: mode (compass, wind, GPS, true wind, nav), AUTO/STBY, ±1°, ±10° and tack. The right panel: mode buttons (keyboard, numpad, mouse, lock), arrows with OK, and Enter, Esc and Tab.
-
-The sailing screen: a wind/compass instrument with apparent wind (orange arrow), true wind (blue marker), set and drift (green teardrop), heading, the autopilot mode, the rudder position on a hull outline, and a red dot toward the next waypoint. The side panels are fully configurable: on the left SOG, STW, depth, water temperature (:-)) and rudder; on the right the time on each tack, and the next waypoint's direction, distance and speed. It will have sailing and motoring modes, and maybe day and night, but first I want to see it in bright sun.
-
-![NavPod sailing screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7FgVmXgMaP-EaGI-kHqKLydqmJ7feMSUpsWRVZdvQ00iNc6bhYoY3ThhwBtZStQimMHF63uanml1TUYk-2-NuSRTZcEbZGfTy_n0vwooglKqG05pL7UmwrjwrJnJtIUj4ZJc2OqU_DemkxpzjReLssrlw2Vodmhsn9qZ50C1sv1P93IqeKgV9JAXxfCmt/s1600/att.6pjuSwuoicNWNgp9kRaK3r857K-U9u67dJDKs1kxdbs.jpg)
-
-Diary: [18 May 2026](https://irwin34.blogspot.com/2026/05/homework-navpod-software.html)
-
-In June: the dry fit and a sea trial. The front panel still needs paint, and the buttons need redoing.
-
-![NavPod dry fit under sail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpKEIwz53hsvAWbUhZvaGKJkFsB6oqQxtACw52lRQ_G-WhdqNiIqJ8rd8ErmZxtWoh0NMrUFpvzPIddDqenVtO85XATJtIZUnJ3wa59hR-ggi-S1UOOawdiD-6d5muTE1SiOPuFdqDlxSFDYsxTRvboGxhL2Ov-i-P-I0o4RP60z1_pBvDPNZDtVP2RwIG/s1600/IMG_1579.HEIC)
-![NavPod screen under sail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC)
-
-Diary: [14 Jun 2026](https://irwin34.blogspot.com/2026/06/days-269-270-new-mainsail-variable.html)
-
-In July, the final install. It's not a brand-name NavPod; it just looks like one, so I call it NavPod. A full boat dashboard with physical buttons: sailing, motoring, OpenCPN and the anchor alarm, all running on the Pi inside and talking over Ethernet to the main OpenPlotter computer. I took the guard rail home and drilled and tapped it for screws.
-
-![Finished NavPod at the helm](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIT_VuxfScw_W-akH8YxaTFf5WNvnYTx0QdB99wE3QRHsoZL7timHYxT11sDSrVN6DE0_uIfDF2DybIWGahm84gswugyPZ5eqGkwxnCevvBsMhl_-E7MD6whuWaNaZVaL-DMHRzy5mSdWN7J64QPeJB4XzphtZRa-g_ZYpJ_-zQoNWEZO8wHBcW3Pm-PBh/s1600/IMG_2272.HEIC)
-![NavPod with the sailing dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-0i8lb4bnc-k3Gw-qoKVozJghKjjHzxxauqCYHabLrpdjc3RS-KNHxhgFNCwSJ9B7mxEPZqOnGIp4e4ChvBmsQ_txV04_Qs0YBWHLjgv5fQ3jtX5foFGcTvduaGM20T-3fwmfhufqWare-KwnVsghJpZnQOvAMIxXH_q0uQrfNfErABj4KRKHFRkTF7c/s1600/IMG_2271.HEIC)
-![NavPod from behind, guard rail and wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6aRBS89VleNcHl8A1PnTAuJYyyUuVF1XgU1PdFIpmTwA99cwa4YtV8f1Xsb2V5w3CzuQo2bABfpnqY2QIcmuDRFQja1Lw2qKlGeC5-UicjXBTbnXUckLWu1l4hAK4kDmkZ-nWCTrv5SWMllMcVAi8m2zOptKvlGLctiH1bPKJ4KjQelG9TquOHK2XLOM_/s1600/IMG_2269.HEIC)
-
-Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhull-line-setup.html)
-
-## Stern rail GPS
-
-In August 2026 the wind sensor showed nothing on the dashboards. A quick check: the small sacrificial resistor on the sensor board's power was blown. Probably a discharge to the mast, or lightning close enough to do that little damage. A soldering iron and a piece of wire fixed it.
-
-Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-with-family-small.html)
-
-In September I added one more GPS, 10 Hz, mainly for the autopilot's GPS mode. A faster GPS lets the autopilot work more precisely. Nothing fancy, a standard u-blox 10 module, but in a custom outdoor housing for the back rail. Now the 10 Hz GPS feeds PyPilot, and the old 1 Hz one stays connected to the Pi as a spare, not in use. Version 4.something of the whole system, and counting.
-
-![New 10 Hz GPS on the stern rail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6A8P8cypdSsest_E7csTH-CWbvXrwXUSZeOtUrbrDFlprrUHQ5Fopj9E6TODie6hfEJhPracoLw8YFdpVjJSnQA0O3X77YYUZNdploNE3fur3Wdh-Cudgh6aHp2vvcw861mveUK5zCjjm45WZ_OGm4rJzdzL_wuimrYe5JyQAfT7S_7yPZcTa9zJAL0c6/s1600/IMG_2629.HEIC)
-![GPS in its custom outdoor housing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCruvtYbi2r_OuhsL04NJ5uk9bs-1k76g7m5vepScT49PpQvKGWGO0-OaGczdVHaDm0E3LGjrUgqAcZOaluyIz93pz5h26eZ4GWgtKcTMoBK1gH5WiTpbv_yAGbi5ub0b-GaOzXAa7-iXJufm8I_AbTyz6zpinGDWlyetLL91gVDwZ0T9puWXcboXg-2SS/s1600/IMG_2632.HEIC)
-
-Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
