@@ -106,7 +106,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   becomes a photo-only entry (Viktor asked for that): it gets the boat Viktor was sailing on that water then (between its first
   and last sail there), else "Ashore" (a visit). A shared album page holds only its first 300 items: for a bigger album, ask Viktor
   to sort it "Newest first" and read it again. Albums so far: "2017-2021 Lake Murray sailing" (398, read oldest-first and
-  newest-first), "2021-2025 Lake Travis sailing" (https://photos.app.goo.gl/Hf4Vat4QyQiGAWVE6, 142).
+  newest-first), "2021-2025 Lake Travis sailing" (https://photos.app.goo.gl/Hf4Vat4QyQiGAWVE6, 142),
+  "2026-... Galveston Bay Sailing" (https://photos.app.goo.gl/PnXYzAtwvKNbBWmz8, 121).
   Weather (Viktor, Nov 2026): where he wrote no weather, `python3 tools/sailing_log.py weather` fills it from NOAA hourly reports
   of the nearest airport (`STATIONS`; host www.ncei.noaa.gov), cached in `data/sailing_log_weather.json`; the page marks those
   values with ≈ and italics. Open-Meteo was tried first but its free daily limit is used up from this network.
