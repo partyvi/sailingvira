@@ -18,6 +18,11 @@ Photos: `python3 tools/sailing_log.py photos ALBUM.html [...]` reads saved share
 the page. Each photo goes to the log entry of the day it was taken; photo files stay on Google (lh3 URLs).
 A shared album page lists its first 300 items only.
 
+Weather: `python3 tools/sailing_log.py weather` looks up the days with no wind, temperature or weather note in the
+Open-Meteo historical archive (hourly ERA5 data for the lake or bay, 10:00-17:00 local), keeps the results in
+data/sailing_log_weather.json and rebuilds the page. Only empty fields are filled, and the page marks them as
+"from weather records", never mixed up with Viktor's own notes.
+
 Data mistakes (a wrong date, a wrong route) are best fixed in the sheet; `check` lists suspicious rows.
 
 Needs openpyxl (pip install openpyxl). Not part of the site build, the page is not linked yet.
@@ -34,6 +39,15 @@ B = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_JSON = f"{B}/data/sailing_log.json"
 OUT_HTML = f"{B}/sailing-log/index.html"
 OUT_PHOTOS = f"{B}/data/sailing_log_photos.json"
+OUT_WEATHER = f"{B}/data/sailing_log_weather.json"
+# Where each water is, for weather records (Open-Meteo historical archive, ERA5 reanalysis).
+PLACES = {
+    "Lake Murray, SC": (34.06, -81.25),
+    "Lake Travis, TX": (30.42, -97.92),
+    "Galveston Bay, TX": (29.55, -95.00),
+    "Cozumel, Mexico": (20.33, -87.03),
+}
+WX_HOURS = range(10, 18)          # sailing hours, local time: 10:00-17:00
 CELSIUS_FROM = dt.date(2026, 4, 12)
 
 # columns of Sheet1 (0-based): A boat .. U total hours
@@ -326,6 +340,92 @@ def attach(entries, store):
     return added
 
 
+def wx_needed(e):
+    return e.get("water") in PLACES and (e.get("hours") or e.get("photo_only")) and (
+        e.get("wind_min") is None and e.get("wind_max") is None or e.get("temp_f") is None or not e.get("weather"))
+
+
+def wx_text(cloud, rain, codes):
+    sky = "Sunny" if cloud < 20 else "Mostly sunny" if cloud < 45 else "Partly cloudy" if cloud < 80 else "Overcast"
+    if any(c >= 95 for c in codes):
+        sky += ", thunderstorms"
+    elif rain >= 2.5:
+        sky += ", rain"
+    elif rain >= 0.2:
+        sky += ", light rain"
+    if any(c in (45, 48) for c in codes):
+        sky += ", fog"
+    return sky
+
+
+def weather_cmd():
+    import urllib.request
+    cache = json.load(open(OUT_WEATHER, encoding="utf-8")) if os.path.exists(OUT_WEATHER) else {}
+    entries = json.load(open(OUT_JSON, encoding="utf-8"))
+    attach(entries, load_photos())
+    todo = {}
+    for e in entries:
+        if wx_needed(e) and e["date"] not in cache.get(e["water"], {}):
+            todo.setdefault(e["water"], set()).add(e["date"])
+    import time
+    for water, dates in todo.items():
+        lat, lon = PLACES[water]
+        for d in sorted(dates):
+            url = ("https://archive-api.open-meteo.com/v1/archive?"
+                   f"latitude={lat}&longitude={lon}&start_date={d}&end_date={d}"
+                   "&hourly=temperature_2m,wind_speed_10m,wind_gusts_10m,cloud_cover,precipitation,weather_code"
+                   "&wind_speed_unit=kn&temperature_unit=fahrenheit&timezone=auto")
+            for wait in (0, 10, 30, 70):
+                time.sleep(wait or 0.5)
+                try:
+                    hr = json.load(urllib.request.urlopen(url, timeout=60))["hourly"]
+                    break
+                except Exception as err:            # 429: the archive asks to slow down
+                    print(f"{water} {d}: {err}, retrying")
+            else:
+                continue
+            idx = [i for i, t in enumerate(hr["time"]) if int(t[11:13]) in WX_HOURS]
+            g = lambda k: [hr[k][i] for i in idx if hr[k][i] is not None]
+            wind, gust, temp, cloud = g("wind_speed_10m"), g("wind_gusts_10m"), g("temperature_2m"), g("cloud_cover")
+            if not wind:
+                continue
+            cache.setdefault(water, {})[d] = dict(
+                wind_min=round(min(wind)), wind_max=round(max(wind)), gust=round(max(gust)),
+                temp_f=round(max(temp)), text=wx_text(sum(cloud) / len(cloud), sum(g("precipitation")), g("weather_code")))
+        print(f"{water}: {len(cache.get(water, {}))} days from weather records")
+    for w in cache:
+        cache[w] = dict(sorted(cache[w].items()))
+    with open(OUT_WEATHER, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+    write_page(json.load(open(OUT_JSON, encoding="utf-8")))
+
+
+def fill_weather(entries):
+    """Empty weather fields from data/sailing_log_weather.json; e["wx"] lists what came from the records."""
+    if not os.path.exists(OUT_WEATHER):
+        return 0
+    cache = json.load(open(OUT_WEATHER, encoding="utf-8"))
+    n = 0
+    for e in entries:
+        r = cache.get(e.get("water"), {}).get(e["date"])
+        if not r or not wx_needed(e):
+            continue
+        wx = []
+        if e.get("wind_min") is None and e.get("wind_max") is None:
+            e.update(wind_min=r["wind_min"], wind_max=r["wind_max"], gust=r["gust"])
+            wx += ["wind", "gust"]
+        if e.get("temp_f") is None:
+            e.update(temp_f=r["temp_f"], temp_c=round((r["temp_f"] - 32) * 5 / 9))
+            wx.append("temp")
+        if not e.get("weather"):
+            e["weather"] = r["text"]
+            wx.append("weather")
+        e["wx"] = wx
+        n += 1
+    return n
+
+
 def html(entries):
     tpl = open(f"{B}/tools/sailing_log.html", encoding="utf-8").read()
     data = json.dumps(entries, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
@@ -335,10 +435,12 @@ def html(entries):
 def write_page(entries):
     entries = [dict(e) for e in entries]
     added = attach(entries, load_photos())
+    nwx = fill_weather(entries)
     os.makedirs(os.path.dirname(OUT_HTML), exist_ok=True)
     with open(OUT_HTML, "w", encoding="utf-8") as f:
         f.write(html(entries))
     n = sum(len(e.get("photos", [])) for e in entries)
+    print(f"weather records filled in on {nwx} entries")
     print(f"{n} photos on {sum(1 for e in entries if e.get('photos'))} entries")
     for d in added:
         print(f"photos: {d} is not in the sheet, added as a photo-only entry")
@@ -364,6 +466,8 @@ def photos_cmd(paths):
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
+    if sys.argv[1] == "weather":
+        return weather_cmd()
     if sys.argv[1] == "photos":
         return photos_cmd(sys.argv[2:])
     entries, leaks = read(sys.argv[1])
