@@ -111,4 +111,4 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   Weather (Viktor, Nov 2026): where he wrote no weather, `python3 tools/sailing_log.py weather` fills it from NOAA hourly reports
   of the nearest airport (`STATIONS`; host www.ncei.noaa.gov), cached in `data/sailing_log_weather.json`; the page marks those
   values with ≈ and italics. Open-Meteo was tried first but its free daily limit is used up from this network.
-  The build copies it to sailingvira.com/sailing-log/ (public, noindex, not in the sitemap) but it is NOT linked from any page yet (Viktor, Nov 2026); English only for now.
+  The build copies it to sailingvira.com/sailing-log/ (public, but hidden from search engines: robots noindex/nofollow/noarchive/noimageindex, not in the sitemap, not linked; robots.txt must keep allowing it so Google can read the noindex) but it is NOT linked from any page yet (Viktor, Nov 2026); English only for now.
