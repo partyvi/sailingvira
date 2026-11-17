@@ -517,6 +517,11 @@ def coffee_html(lang, slug):
             'It helps keep the stories and the design files coming.</p>'
             f'<a class="cfbtn" href="{esc(url)}" target="_blank" rel="noopener">☕ Buy me a coffee</a></aside>')
 
+def end_boxes(lang, slug, rel, path):
+    """Coffee and feedback boxes; side by side on wide screens when both are there."""
+    c, f = coffee_html(lang, slug), feedback_html(lang, slug, rel, path)
+    return f'<div class="ends">{c}{f}</div>' if c and f else c + f
+
 def analytics_html(lang):
     """Google Analytics (site.yml ga_id), loaded only after the visitor accepts cookies (GDPR).
     The choice is kept in localStorage; the footer link 'Cookie settings' asks again."""
@@ -583,7 +588,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 {hero}</header>
 <div class="wrap">
 {body}
-{coffee_html(lang, slug)}{feedback_html(lang, slug, rel, path)}
+{end_boxes(lang, slug, rel, path)}
 <footer class="foot mono"><a href="{esc(site.get("diary_url") or site["blog_url"])}" target="_blank" rel="noopener">{UI[lang]["blog"]} ↗</a>
 <a href="{esc(site.get("youtube_url", ""))}" target="_blank" rel="noopener">YouTube ↗</a>
 <span>© {esc(site["name"])}</span>
