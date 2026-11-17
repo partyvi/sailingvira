@@ -100,4 +100,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   `python3 tools/sailing_log.py FILE.xlsx`, commit `data/sailing_log.json` and `sailing-log/index.html` (template:
   `tools/sailing_log.html`). Crew names are never published: only the number aboard and Viktor's role; the script stops if
   a crew name is left in the notes (add it to `SCRUB`). Its `check:` lines are suspicious cells for Viktor to fix in the sheet.
+  Photos (Viktor, Nov 2026): `python3 tools/sailing_log.py photos ALBUM.html` reads a saved shared Google Photos album page
+  (first album: "2017-2021 Lake Murray sailing", https://photos.app.goo.gl/LJs4btPbLzcCsg8L8) into `data/sailing_log_photos.json`;
+  photos show on the entry of the day they were taken (loaded from Google, not copied). A photo day missing from the sheet
+  becomes a photo-only entry (Viktor asked for that). A shared album page holds only its first 300 items.
   The build copies it to sailingvira.com/sailing-log/ (public, noindex, not in the sitemap) but it is NOT linked from any page yet (Viktor, Nov 2026); English only for now.

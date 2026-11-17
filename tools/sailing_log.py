@@ -13,6 +13,11 @@ What the script does to the sheet:
 - fixes common typos (TYPOS), normalizes boats and waters, reads temperatures in F or C
   (a "c" after the number, or plain numbers from 12 Apr 2026 on, are Celsius);
 - a wave cell that Sheets turned into a date (2-3 -> 3 Feb) is read back as "2–3".
+Photos: `python3 tools/sailing_log.py photos ALBUM.html [...]` reads saved shared Google Photos album pages
+(photos.app.goo.gl link, saved as HTML), adds their photos and videos to data/sailing_log_photos.json and rebuilds
+the page. Each photo goes to the log entry of the day it was taken; photo files stay on Google (lh3 URLs).
+A shared album page lists its first 300 items only.
+
 Data mistakes (a wrong date, a wrong route) are best fixed in the sheet; `check` lists suspicious rows.
 
 Needs openpyxl (pip install openpyxl). Not part of the site build, the page is not linked yet.
@@ -28,6 +33,7 @@ import openpyxl
 B = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_JSON = f"{B}/data/sailing_log.json"
 OUT_HTML = f"{B}/sailing-log/index.html"
+OUT_PHOTOS = f"{B}/data/sailing_log_photos.json"
 CELSIUS_FROM = dt.date(2026, 4, 12)
 
 # columns of Sheet1 (0-based): A boat .. U total hours
@@ -267,28 +273,110 @@ def check(entries):
     return issues
 
 
+def album_photos(path):
+    """Album title, id, key and photos from a saved shared-album page (the 'ds:1' data block)."""
+    h = open(path, encoding="utf-8").read()
+    i = h.find("AF_initDataCallback({key: 'ds:1'")
+    j = h.find("data:", i) + 5
+    d = json.loads(h[j:h.find(", sideChannel:", j)])
+    info = d[3]
+    key = re.search(r"[?&]key=([\w-]+)", h).group(1)
+    album = dict(id=info[0], title=info[1], key=key, link=next((x for x in info if isinstance(x, str) and "photos.app.goo.gl" in x), ""))
+    photos = []
+    for it in d[1]:
+        ts, off = it[2], it[4] or 0
+        taken = dt.datetime.fromtimestamp((ts + off) / 1000, dt.timezone.utc).replace(tzinfo=None)
+        p = dict(id=it[0], url=it[1][0], w=it[1][1], h=it[1][2], taken=taken.isoformat(timespec="seconds"), album=info[0])
+        meta = it[-1] if isinstance(it[-1], dict) else {}
+        if "76647426" in meta:                       # a video: duration in ms
+            p["video"] = round((meta["76647426"][0] or 0) / 1000)
+        photos.append(p)
+    k = info.index(key) if key in info else -1
+    total = info[k + 2] if k >= 0 and isinstance(info[k + 2], int) else None
+    return album, photos, len(d[1]), total
+
+
+def load_photos():
+    if os.path.exists(OUT_PHOTOS):
+        return json.load(open(OUT_PHOTOS, encoding="utf-8"))
+    return {"albums": {}, "photos": []}
+
+
+def attach(entries, store):
+    """entry["photos"] = [[url, w, h, link, video seconds], ...] for the photos taken that day.
+    A photo day with no log entry gets its own entry (Viktor, Nov 2026): boat and water from the closest
+    earlier entry, no numbers, marked photo_only. Entries stay in sheet order; the new one goes after the
+    last entry dated on or before it."""
+    albums = store["albums"]
+    added = []
+    for p in sorted(store["photos"], key=lambda p: p["taken"]):
+        d = p["taken"][:10]
+        e = next((x for x in entries if x["date"] == d and x.get("hours")), None) or \
+            next((x for x in entries if x["date"] == d), None)
+        if not e:
+            before = [x for x in entries if x["date"] <= d and not x.get("photo_only")]
+            ref = max(before, key=lambda x: x["date"]) if before else entries[0]
+            e = dict(date=d, boat=ref["boat"], model=ref.get("model", ""), water=ref.get("water", ""), photo_only=True)
+            pos = max((i for i, x in enumerate(entries) if x["date"] <= d), default=-1) + 1
+            entries.insert(pos, e)
+            added.append(d)
+        a = albums.get(p["album"], {})
+        link = f"https://photos.google.com/share/{p['album']}/photo/{p['id']}?key={a.get('key', '')}"
+        e.setdefault("photos", []).append([p["url"], p["w"], p["h"], link, p.get("video", 0)])
+    return added
+
+
 def html(entries):
     tpl = open(f"{B}/tools/sailing_log.html", encoding="utf-8").read()
     data = json.dumps(entries, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     return tpl.replace("/*DATA*/[]", data).replace("{{updated}}", dt.date.today().strftime("%-d %b %Y"))
 
 
+def write_page(entries):
+    entries = [dict(e) for e in entries]
+    added = attach(entries, load_photos())
+    os.makedirs(os.path.dirname(OUT_HTML), exist_ok=True)
+    with open(OUT_HTML, "w", encoding="utf-8") as f:
+        f.write(html(entries))
+    n = sum(len(e.get("photos", [])) for e in entries)
+    print(f"{n} photos on {sum(1 for e in entries if e.get('photos'))} entries")
+    for d in added:
+        print(f"photos: {d} is not in the sheet, added as a photo-only entry")
+
+
+def photos_cmd(paths):
+    store = load_photos()
+    known = {p["id"] for p in store["photos"]}
+    for path in paths:
+        album, photos, n, total = album_photos(path)
+        store["albums"][album["id"]] = {k: album[k] for k in ("title", "key", "link")}
+        new = [p for p in photos if p["id"] not in known]
+        store["photos"] += new
+        known |= {p["id"] for p in new}
+        print(f"{album['title']}: {n} items on the page{f' of {total}' if total else ''}, {len(new)} new")
+    store["photos"].sort(key=lambda p: p["taken"])
+    with open(OUT_PHOTOS, "w", encoding="utf-8") as f:
+        json.dump(store, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+    write_page(json.load(open(OUT_JSON, encoding="utf-8")))
+
+
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
+    if sys.argv[1] == "photos":
+        return photos_cmd(sys.argv[2:])
     entries, leaks = read(sys.argv[1])
     if leaks:
         for i, k, t in leaks:
             print(f"row {i} {k}: crew name '{t}' left in the notes; add it to SCRUB", file=sys.stderr)
         sys.exit(1)
     issues = check(entries)
-    os.makedirs(os.path.dirname(OUT_HTML), exist_ok=True)
     clean = [{k: v for k, v in e.items() if k != "row"} for e in entries]
     with open(OUT_JSON, "w", encoding="utf-8") as f:
         json.dump(clean, f, ensure_ascii=False, indent=1)
         f.write("\n")
-    with open(OUT_HTML, "w", encoding="utf-8") as f:
-        f.write(html(clean))
+    write_page(clean)
     h = sum(e.get("hours", 0) for e in entries)
     nm = sum(e.get("nm", 0) for e in entries)
     print(f"{len(entries)} entries, {h:g} h, {nm:g} NM -> {os.path.relpath(OUT_JSON, B)}, {os.path.relpath(OUT_HTML, B)}")
