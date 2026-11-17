@@ -94,3 +94,10 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   at the last sync, raw); `save` stores the new copy. Runs once a month as a scheduled Claude task: new or changed
   items go into both pages word for word (typos fixed, UA translated), `updated:` in the front matter is set to the
   blog page's date (shown at the bottom of the page), then a PR that Claude merges.
+- `tools/sailing_log.py`: Viktor's sailing log (Google Sheet "Boat dates",
+  https://docs.google.com/spreadsheets/d/17d6xNwKSKXRW21_t-V-_qv_YgEjKrWsUt2m98LCfUnQ). When Viktor asks to update the log:
+  download the sheet as .xlsx through the Google Drive connector (not into the repo: it holds real crew names), run
+  `python3 tools/sailing_log.py FILE.xlsx`, commit `data/sailing_log.json` and `sailing-log/index.html` (template:
+  `tools/sailing_log.html`). Crew names are never published: only the number aboard and Viktor's role; the script stops if
+  a crew name is left in the notes (add it to `SCRUB`). Its `check:` lines are suspicious cells for Viktor to fix in the sheet.
+  The page is NOT linked to the site and not in the build yet (Viktor, Nov 2026); English only for now.

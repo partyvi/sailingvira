@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Sailing Log</title>
+<meta name="description" content="Every time I went out on the water since 2017: hours, miles, wind, crew size and what happened.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F2F5F6; --paper:#FFFFFF; --ink:#10222E; --muted:#56666F; --line:#D3DCE0;
+  --accent:#0E6A87; --brass:#8C6A1C; --warn:#A4442A; --shade:rgba(16,34,46,.06);
+  --f-display:"Barlow Condensed","Roboto Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0B151B; --paper:#11202A; --ink:#E3EBEE; --muted:#93A4AD; --line:#243540;
+  --accent:#62B9D6; --brass:#D2AE5A; --warn:#E08A6C; --shade:rgba(0,0,0,.3); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0B151B; --paper:#11202A; --ink:#E3EBEE; --muted:#93A4AD; --line:#243540;
+  --accent:#62B9D6; --brass:#D2AE5A; --warn:#E08A6C; --shade:rgba(0,0,0,.3); color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.55;margin:0}
+.wrap{max-width:1180px;margin:0 auto;padding:8px max(16px,env(safe-area-inset-right,0px)) 56px max(16px,env(safe-area-inset-left,0px))}
+h1,h2,h3{font-family:var(--f-display);margin:0;line-height:1.05}
+.mono{font-family:var(--f-mono);font-size:12.5px;letter-spacing:.02em;color:var(--muted);font-variant-numeric:tabular-nums}
+.head{display:grid;gap:10px;padding-block:28px 22px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:var(--f-mono);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--brass)}
+.head h1{font-size:clamp(48px,9vw,92px);font-weight:700;text-transform:uppercase}
+.head p{margin:0;max-width:64ch;font-size:19px;color:var(--muted)}
+.stats{display:flex;flex-wrap:wrap;gap:12px 32px;margin-top:10px}
+.stats div{display:grid}
+.stats b{font-family:var(--f-display);font-size:34px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.boats{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;padding-block:22px 6px}
+.boat{all:unset;cursor:pointer;display:grid;gap:4px;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:12px 14px;transition:border-color .15s,box-shadow .15s}
+.boat:hover{box-shadow:0 6px 18px var(--shade)}
+.boat[aria-pressed="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.boat:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.boat h3{font-size:24px;font-weight:600}
+.boat .mono{font-size:12px}
+.filters{position:sticky;top:0;z-index:2;background:var(--bg);display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;padding:14px 0 12px;border-bottom:1px solid var(--line)}
+.filters select,.filters input[type=search],.filters button{font:500 13px var(--f-mono);color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:7px 10px;min-height:36px}
+.filters input[type=search]{flex:1 1 180px;min-width:0}
+.filters button{cursor:pointer}
+.filters label{font:13px var(--f-mono);color:var(--muted);display:flex;gap:6px;align-items:center;cursor:pointer}
+.shown{font:12.5px var(--f-mono);color:var(--muted);padding:10px 0 0}
+.year{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px;padding:26px 0 8px}
+.year h2{font-size:34px;font-weight:600}
+/* rows: one grid for the header line and each entry */
+.cols,.row>summary,.row>.sum{display:grid;grid-template-columns:92px 120px minmax(0,1.6fr) 52px 56px 52px 104px 54px 92px 54px 56px 18px;gap:10px;align-items:center}
+.cols{font:11px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:6px 12px;position:sticky;top:63px;background:var(--bg);z-index:1}
+.cols .n,.n{text-align:right;font-variant-numeric:tabular-nums}
+.list{display:grid;gap:6px}
+.row{background:var(--paper);border:1px solid var(--line);border-radius:6px}
+.row>summary,.row>.sum{padding:9px 12px;font:14px var(--f-mono);list-style:none}
+.row>summary{cursor:pointer}
+.row>summary::-webkit-details-marker{display:none}
+.row>summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px;border-radius:6px}
+.row .d{color:var(--ink);font-weight:500}
+.row .b{font-family:var(--f-display);font-size:18px;font-weight:600;line-height:1.1}
+.row .w{color:var(--muted);font-size:13px;line-height:1.3;min-width:0}
+.row .w span{display:block;color:var(--ink);font-size:13.5px}
+.row .ic{color:var(--muted);transition:transform .15s}
+.row[open] .ic{transform:rotate(90deg)}
+.row .warn{color:var(--warn)}
+.row .lbl{display:none}
+.notes{padding:4px 16px 16px;display:grid;gap:12px;border-top:1px dashed var(--line);margin:0 12px}
+.notes>div{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px}
+.notes h4{margin:0;padding-top:3px;font:500 11.5px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--brass)}
+.notes h4.pr{color:var(--warn)}
+.notes p{margin:0;max-width:78ch;white-space:pre-line}
+.notes .extra{font:13px var(--f-mono);color:var(--muted)}
+.empty{padding:40px 0;color:var(--muted);font-style:italic}
+.foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line)}
+@media (max-width:1000px){
+  .cols{display:none}
+  .filters{position:static}
+  .row>summary,.row>.sum{grid-template-columns:auto 1fr auto;grid-template-areas:"d b ic" "w w w" "s s s";gap:4px 12px}
+  .row .d{grid-area:d}.row .b{grid-area:b}.row .ic{grid-area:ic}.row .w{grid-area:w}
+  .row .n,.row .x{display:inline-flex;gap:5px;align-items:baseline;text-align:left}
+  .row .stat{grid-area:s;display:flex;flex-wrap:wrap;gap:4px 16px}
+  .row .lbl{display:inline;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+  .row .stat>*:empty{display:none}
+  .notes{margin:0 10px;padding:4px 4px 14px}
+  .notes>div{grid-template-columns:minmax(0,1fr);gap:2px}
+}
+@media (min-width:1001px){.row .stat{display:contents}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="head">
+    <span class="eyebrow">Sailing Vira · Logbook</span>
+    <h1>Sailing log</h1>
+    <p>Every time I went out on the water, from the first day on a Hunter 19 in 2017 to Vira on Galveston Bay. Hours, miles, wind, how many of us were aboard, and what went wrong. Crew names stay in my notebook.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+  <section class="boats" id="boats" aria-label="Boats"></section>
+  <div class="filters" role="search">
+    <select id="f-water" aria-label="Water"></select>
+    <select id="f-year" aria-label="Year"></select>
+    <input id="f-q" type="search" placeholder="Search notes: reef, fog, autopilot…" aria-label="Search notes">
+    <label><input id="f-notes" type="checkbox"> with notes only</label>
+    <button id="f-order" type="button" aria-label="Change order">Newest first ↓</button>
+  </div>
+  <div class="shown" id="shown" aria-live="polite"></div>
+  <main id="log"></main>
+  <footer class="foot mono">Updated {{updated}} from my sailing log spreadsheet. Wind in knots, waves in feet. Lake Murray days with exactly 5 h and 9 NM are my estimates, I did not log every one.</footer>
+</div>
+<script>
+const LOG = /*DATA*/[];
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = (n, d = 0) => n == null ? "" : Number(n).toLocaleString("en-US", {maximumFractionDigits: d});
+const day = iso => { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d)); };
+const dshort = iso => day(iso).toLocaleDateString("en-GB", {day: "numeric", month: "short", timeZone: "UTC"});
+const dlong = iso => day(iso).toLocaleDateString("en-GB", {weekday: "short", day: "numeric", month: "short", year: "numeric", timeZone: "UTC"});
+LOG.forEach((e, i) => { e.i = i; e.year = e.date.slice(0, 4); e.hay = [e.weather, e.sail, e.problems, e.boat, e.water, e.frm, e.to].join(" ").toLowerCase(); });
+
+const sum = (a, k) => a.reduce((s, e) => s + (e[k] || 0), 0);
+const isProblem = p => p && !/^(no |nope|no problems|no incidents)/i.test(p.trim());
+const state = {boat: "", water: "", year: "", q: "", notes: false, newest: true};
+
+function stats() {
+  const sailing = LOG.filter(e => e.hours);
+  const maxNm = LOG.reduce((a, e) => (e.nm || 0) > (a.nm || 0) ? e : a, {});
+  const maxGust = LOG.reduce((a, e) => (e.gust || 0) > (a.gust || 0) ? e : a, {});
+  const items = [
+    [sailing.length, "days on the water"],
+    [fmt(sum(LOG, "hours")), "hours under way"],
+    [fmt(sum(LOG, "nm")), "nautical miles"],
+    [new Set(LOG.map(e => e.boat)).size, "boats"],
+    [fmt(maxNm.nm, 1) + " NM", "longest day, " + dshort(maxNm.date) + " " + maxNm.year],
+    [maxGust.gust + " kn", "strongest gust logged"],
+  ];
+  $("#stats").innerHTML = items.map(([b, s]) => `<div><b>${b}</b><span class="mono">${s}</span></div>`).join("");
+}
+
+function boats() {
+  const by = {};
+  LOG.forEach(e => (by[e.boat] = by[e.boat] || []).push(e));
+  const order = Object.keys(by).sort((a, b) => sum(by[b], "hours") - sum(by[a], "hours"));
+  $("#boats").innerHTML = order.map(b => {
+    const a = by[b], ys = a.map(e => e.year).sort();
+    const yr = ys[0] === ys.at(-1) ? ys[0] : ys[0] + "–" + ys.at(-1);
+    return `<button class="boat" type="button" data-boat="${esc(b)}" aria-pressed="false">
+      <h3>${esc(b)}</h3><span class="mono">${esc(a[0].model || "")} · ${yr}</span>
+      <span class="mono">${a.filter(e => e.hours).length} days · ${fmt(sum(a, "hours"))} h${sum(a, "nm") ? ` · ${fmt(sum(a, "nm"))} NM` : ""}</span></button>`;
+  }).join("");
+  document.querySelectorAll(".boat").forEach(btn => btn.onclick = () => {
+    state.boat = state.boat === btn.dataset.boat ? "" : btn.dataset.boat;
+    document.querySelectorAll(".boat").forEach(x => x.setAttribute("aria-pressed", x.dataset.boat === state.boat));
+    render();
+  });
+}
+
+function options(sel, label, vals) {
+  sel.innerHTML = `<option value="">${label}</option>` + vals.map(v => `<option>${esc(v)}</option>`).join("");
+}
+
+function where(e) {
+  let route = "";
+  if (e.frm && e.to && e.frm !== e.to) route = `${esc(e.frm)} → ${esc(e.to)}`;
+  else if (e.frm) route = `${esc(e.frm)}, there and back`;
+  return `<span>${esc(e.water)}</span>${route}`;
+}
+
+function wind(e) {
+  if (e.wind_min == null && e.wind_max == null) return "";
+  const r = e.wind_max != null && e.wind_max !== e.wind_min ? `${fmt(e.wind_min ?? 0)}–${fmt(e.wind_max)}` : fmt(e.wind_min ?? e.wind_max);
+  return r + (e.gust ? ` <span title="gusts">G${fmt(e.gust)}</span>` : "");
+}
+
+function aboard(e) {
+  if (!e.aboard) return "";
+  if (e.role === "solo") return "solo";
+  return e.aboard + (e.role === "crew" ? "*" : "");
+}
+
+function cell(cls, label, html, title) {
+  return `<span class="${cls}"${title ? ` title="${title}"` : ""}>${html ? `<span class="lbl">${label}</span>${html}` : ""}</span>`;
+}
+
+function entry(e) {
+  const notes = [];
+  if (e.sail) notes.push(["Notes", e.sail]);
+  if (e.weather) notes.push(["Weather", e.weather]);
+  if (e.problems) notes.push(["Problems", e.problems, isProblem(e.problems)]);
+  const extra = [];
+  extra.push(dlong(e.date));
+  if (e.model) extra.push(`${e.boat}, ${e.model}`);
+  if (e.t24) extra.push(`24 h pace ${fmt(e.t24, 1)} NM`);
+  if (e.role === "crew") extra.push(e.boat === "First Light" ? "ASA 101 course, I was crew with an instructor" : "I was crew, not skipper");
+  const temp = e.temp_f != null ? `${e.temp_f}°F` : "";
+  const line = `
+    <span class="d">${dshort(e.date)}</span>
+    <span class="b">${esc(e.boat)}</span>
+    <span class="w">${where(e)}</span>
+    <span class="stat">
+      ${cell("n", "h", fmt(e.hours, 2))}
+      ${cell("n", "NM", fmt(e.nm, 2))}
+      ${cell("n", "kn", fmt(e.avg, 1), "average speed")}
+      ${cell("x", "wind", wind(e))}
+      ${cell("n", "waves", e.waves ? esc(e.waves) : "", "waves, ft")}
+      ${cell("n", "air", temp ? `${temp} <span class="mono">${e.temp_c}°C</span>` : "")}
+      ${cell("n", "engine", fmt(e.motor, 2), "engine hours")}
+      ${cell("n", "aboard", aboard(e), e.role === "crew" ? "I was crew" : "people aboard, me included")}
+    </span>`;
+  const hasNotes = notes.length > 0;
+  if (!hasNotes) return `<div class="row"><div class="sum">${line}<span class="ic"></span></div></div>`;
+  const body = notes.map(([h, t, warn]) => `<div><h4${warn ? ' class="pr"' : ""}>${h}</h4><p>${esc(t)}</p></div>`).join("");
+  const flag = notes.some(n => n[2]) ? ' <span class="warn" title="something went wrong">!</span>' : "";
+  return `<details class="row"><summary>${line}<span class="ic" aria-hidden="true">›</span></summary>
+    <div class="notes">${body}<div><h4>Log</h4><p class="extra">${esc(extra.join(" · "))}</p></div></div></details>`.replace('<span class="b">' + esc(e.boat) + '</span>', '<span class="b">' + esc(e.boat) + flag + '</span>');
+}
+
+function render() {
+  const q = state.q.trim().toLowerCase();
+  let a = LOG.filter(e => (!state.boat || e.boat === state.boat) && (!state.water || e.water === state.water)
+    && (!state.year || e.year === state.year) && (!q || e.hay.includes(q))
+    && (!state.notes || e.sail || e.weather || e.problems));
+  if (state.newest) a = a.slice().reverse();
+  $("#shown").textContent = `${a.length} entries · ${fmt(sum(a, "hours"), 1)} h · ${fmt(sum(a, "nm"), 1)} NM` + (sum(a, "motor") ? ` · ${fmt(sum(a, "motor"), 1)} engine h` : "");
+  if (!a.length) { $("#log").innerHTML = `<p class="empty">Nothing in the log for that. Yet.</p>`; return; }
+  const groups = [];
+  a.forEach(e => { const g = groups.at(-1); if (g && g.year === e.year) g.items.push(e); else groups.push({year: e.year, items: [e]}); });
+  const head = `<div class="cols" aria-hidden="true"><span>Date</span><span>Boat</span><span>Where</span><span class="n">Hours</span><span class="n">NM</span><span class="n">Avg kn</span><span>Wind kn</span><span class="n">Waves</span><span class="n">Air</span><span class="n">Engine</span><span class="n">Aboard</span><span></span></div>`;
+  $("#log").innerHTML = groups.map(g => `<section><div class="year"><h2>${g.year}</h2><span class="mono">${g.items.filter(e => e.hours).length} days · ${fmt(sum(g.items, "hours"), 1)} h · ${fmt(sum(g.items, "nm"), 1)} NM</span></div>${head}<div class="list">${g.items.map(entry).join("")}</div></section>`).join("");
+}
+
+stats(); boats();
+options($("#f-water"), "All waters", [...new Set(LOG.map(e => e.water))]);
+options($("#f-year"), "All years", [...new Set(LOG.map(e => e.year))].sort().reverse());
+$("#f-water").onchange = e => { state.water = e.target.value; render(); };
+$("#f-year").onchange = e => { state.year = e.target.value; render(); };
+$("#f-q").oninput = e => { state.q = e.target.value; render(); };
+$("#f-notes").onchange = e => { state.notes = e.target.checked; render(); };
+$("#f-order").onclick = e => { state.newest = !state.newest; e.target.textContent = state.newest ? "Newest first ↓" : "Oldest first ↑"; render(); };
+render();
+</script>
+</body>
+</html>
