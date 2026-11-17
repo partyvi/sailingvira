@@ -754,8 +754,8 @@ for lang in LANGS:
     # -- home
     h, hu = site["home"], HOME_UI[lang]
     mosaic = "".join(
-        f'<a href="{pid}/" title="{esc(project(pid, lang)[0]["meta"]["title"])}">'
-        f'<i style="background-image:url(\'{esc(size(EN[pid]["meta"].get("cover", ""), "s200-c"))}\')"></i></a>'
+        f'<i title="{esc(project(pid, lang)[0]["meta"]["title"])}" '
+        f'style="background-image:url(\'{esc(size(EN[pid]["meta"].get("cover", ""), "s200-c"))}\')"></i>'
         for pid in order)
     proj_n = sum(1 for pid in order if tab_of(pid) == "projects")
     rows = "".join(
@@ -784,7 +784,7 @@ for lang in LANGS:
 <span><b>{stats["first"]}–{stats["last"]}</b>{ui["years"]}</span></div></header>
 <div class="tiles">
 <div class="tile wide"><h2><a href="projects/">{hu["projects_t"]}</a></h2><p>{hu["projects_p"]}</p>
-<div class="mosaic">{mosaic}</div><a class="go" href="projects/">{hu["all"].format(n=proj_n)}</a></div>
+<a class="mosaic" href="projects/" aria-label="{esc(hu["all"].format(n=proj_n))}">{mosaic}</a><a class="go" href="projects/">{hu["all"].format(n=proj_n)}</a></div>
 <a class="tile" href="boat/"><div class="ph" style="background-image:url('{esc(size(boat_cover, "w600"))}')"></div>
 <h2>{PAGES["boat"][lang][0]}</h2><p>{esc(PAGES["boat"][lang][1])}</p><span class="go">{hu["go"]}</span></a>
 <a class="tile" href="voyages/"><div class="ph" style="background-image:url('{esc(size(sail_cover, "w600"))}')"></div>

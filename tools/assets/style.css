@@ -140,9 +140,9 @@ a.tile:hover{transform:translateY(-2px);box-shadow:0 8px 24px var(--shade)}
 .tile .go{font-family:var(--f-display);font-size:18px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;color:var(--accent);text-decoration:none}
 .mosaic{display:grid;grid-template-columns:repeat(8,minmax(0,1fr));gap:4px}
 @media (max-width:620px){.mosaic{grid-template-columns:repeat(6,minmax(0,1fr))}}
-.mosaic a{display:block}
+a.mosaic{text-decoration:none}
 .mosaic i{display:block;aspect-ratio:1;background:var(--line) center/cover no-repeat;border-radius:2px;transition:opacity .15s}
-.mosaic a:hover i{opacity:.8}
+a.mosaic:hover i{opacity:.8}
 .diary{display:grid;gap:10px}
 .drow{display:grid;grid-template-columns:76px minmax(0,1fr);gap:12px;align-items:center;text-decoration:none;color:inherit}
 .drow i{display:block;aspect-ratio:4/3;background:var(--line) center/cover no-repeat;border-radius:3px}
