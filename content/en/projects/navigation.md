@@ -23,6 +23,8 @@ In March the repaired compass and the cup holder went back in place, thanks to m
 
 Diary: [24 Mar 2022](https://irwin34.blogspot.com/2022/03/day-17-31822-starboard-deck-fairing.html)
 
+## speed log
+
 Earlier, on Day 5, I had pulled the water speed sensor out of its housing. The boat didn't sink; the water coming in was nothing to talk about. There was some growth on the paddle wheel. Cleaned, now it'll be OK.
 
 ![Speed sensor housing in the hull](https://blogger.googleusercontent.com/img/a/AVvXsEg5sbLnZrcKEus_ixHHfsNDhyWEQ3x97dVAjQm1BlpkgQTES8_t5V9sh7bKvAhUm9W6lSjStRo9c1n3BQJEz0jPZjvqsNfSj9f5owLaUlgdTKfEct9Kl0_EaGBr8BuEceGtcZUahb6zkD_7HalqxQklGXuF6zM-A1ehu9FmDH0mR0vjyFW0LsZghA7JFg=s1600)
