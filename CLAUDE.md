@@ -85,6 +85,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
 - `data/sections.json`: section key (`s123`) → date, post title, URL, project, photo ids.
 - `data/photos.json`: photo id → Blogger photo URL.
 - `content/site.yml`: site name, base URL, `noindex` switch, diary and YouTube links, banner photos, home page texts (EN/UK).
+  `coffee_url` (Viktor's Buy Me a Coffee page): a coffee box at the end of English project stories only (Viktor, Nov 2026),
+  and sailingvira.com/coffee/ forwards there. Tips only: no sales tax, no Stripe Tax.
 - `tools/build.py`: builds the static site into `site/` (`pip install -r requirements.txt`):
   `/<id>/` and `/ua/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a
   Ukrainian file shows the English text with a note. Styles and the photo viewer are in `tools/assets/`.

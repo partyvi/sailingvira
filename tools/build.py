@@ -507,6 +507,16 @@ def feedback_html(lang, slug, rel, path):
     return (f'<aside class="fb"><p>{u["fb_text"]}</p>'
             f'<a class="fbbtn" href="{esc(href)}">✉ {u["fb_btn"]}</a></aside>')
 
+def coffee_html(lang, slug):
+    """Buy Me a Coffee box at the end of English project stories only (Viktor, Nov 2026)."""
+    url = site.get("coffee_url", "")
+    if not url or lang != "en" or slug.rstrip("/") not in order:
+        return ""
+    return ('<aside class="coffee"><p><b>Enjoyed this story?</b> Everything here is free, with no ads. '
+            'If it saved you some time or money, you can buy me a coffee. '
+            'It helps keep the stories and the design files coming.</p>'
+            f'<a class="cfbtn" href="{esc(url)}" target="_blank" rel="noopener">☕ Buy me a coffee</a></aside>')
+
 def analytics_html(lang):
     """Google Analytics (site.yml ga_id), loaded only after the visitor accepts cookies (GDPR).
     The choice is kept in localStorage; the footer link 'Cookie settings' asks again."""
@@ -573,7 +583,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 {hero}</header>
 <div class="wrap">
 {body}
-{feedback_html(lang, slug, rel, path)}
+{coffee_html(lang, slug)}{feedback_html(lang, slug, rel, path)}
 <footer class="foot mono"><a href="{esc(site.get("diary_url") or site["blog_url"])}" target="_blank" rel="noopener">{UI[lang]["blog"]} ↗</a>
 <a href="{esc(site.get("youtube_url", ""))}" target="_blank" rel="noopener">YouTube ↗</a>
 <span>© {esc(site["name"])}</span>
@@ -835,6 +845,12 @@ for old_slug, new_slug in (site.get("redirects") or {}).items():  # moved pages:
             f'<!doctype html><meta charset="utf-8"><title>Moved</title><meta name="robots" content="noindex">'
             f'<link rel="canonical" href="{target}"><meta http-equiv="refresh" content="0; url={target}">'
             f'<p><a href="{target}">{target}</a></p>')
+if site.get("coffee_url"):  # sailingvira.com/coffee/ -> Buy Me a Coffee page
+    t = site["coffee_url"]
+    os.makedirs(f"{OUT}/coffee", exist_ok=True)
+    open(f"{OUT}/coffee/index.html", "w").write(
+        f'<!doctype html><meta charset="utf-8"><title>Buy me a coffee</title><meta name="robots" content="noindex">'
+        f'<meta http-equiv="refresh" content="0; url={t}"><p><a href="{t}">{t}</a></p>')
 if VIDEOS:  # saved with the site, so a later build can reuse it when YouTube is down
     open(f"{OUT}/videos.json", "w").write(json.dumps(VIDEOS, ensure_ascii=False))
 os.system(f'{sys.executable} "{B}/tools/blogger_theme.py" "{B}" "{OUT}/blogger-theme.xml"')
