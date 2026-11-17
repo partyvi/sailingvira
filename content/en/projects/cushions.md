@@ -26,7 +26,6 @@ Here's the list. Two almost identical 4-inch V-berth cushions, with good foam. T
 I learned how to make cushions from Sailrite's videos, which helped a lot. The V-berth cushions are very similar, but the starboard one has a rounded corner on purpose. One picture, but about 8 hours of work. They still need some steaming. Not bad for the first cushions in my life?
 
 ![New V-berth cushions on the floor at home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
-![New V-berth cushions, another view](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 
 Diary: [6 Apr 2025](https://irwin34.blogspot.com/2025/04/day-194-stared-remake-cabin-cushions-v.html)
 
