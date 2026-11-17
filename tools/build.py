@@ -561,7 +561,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 {robots}<link rel="canonical" href="{BASE}/{url_of(lang)}{slug}">{alts}
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{BASE}/{url_of(lang)}{slug}">{og_img}
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" href="/assets/favicon-32.png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <link rel="stylesheet" href="{rel}assets/style.css?v={ASSET_V}">
 </head>
@@ -660,6 +660,7 @@ HOME_UI = {
 shutil.rmtree(OUT, ignore_errors=True)
 os.makedirs(f"{OUT}/assets")
 shutil.copytree(f"{B}/tools/assets", f"{OUT}/assets", dirs_exist_ok=True)  # incl. assets/photos/
+shutil.copy(f"{B}/tools/assets/favicon.ico", f"{OUT}/favicon.ico")  # browsers ask for /favicon.ico
 
 posts = {(v["date"], v["ptitle"]) for v in sec.values() if v["kind"] == "post"}
 stats = {"posts": len(posts), "photos": sum(len(photos_of(EN[p])) for p in order),
