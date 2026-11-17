@@ -524,7 +524,7 @@ def coffee_box(kind):
     head, text = COFFEE_LEAD[kind]
     free = "" if kind == "workshop/" else " Everything here is free, with no ads."
     return (f'<aside class="coffee"><p><b>{head}</b>{free} {text}</p>'
-            f'<a class="cfbtn" href="{esc(url)}" target="_blank" rel="noopener">☕ Buy me a coffee</a></aside>')
+            f'<a class="cfbtn" href="{esc(url)}" target="_blank" rel="noopener">☕ Buy me a $5 coffee</a></aside>')
 
 
 def coffee_html(lang, slug):
