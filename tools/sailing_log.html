@@ -88,6 +88,7 @@ h1,h2,h3{font-family:var(--f-display);margin:0;line-height:1.05}
 #lb::backdrop{background:rgba(5,12,16,.94)}
 #lb .fr{position:absolute;inset:0 0 56px;display:flex;align-items:center;justify-content:center;padding:12px}
 #lb img{max-width:100%;max-height:100%;object-fit:contain;border-radius:3px}
+#lb video{width:100%;height:100%;object-fit:contain}
 #lb .bar{position:absolute;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:0 16px;font:13px var(--f-mono)}
 #lb .bar a{color:#62B9D6}
 #lb button{font:500 22px var(--f-mono);color:#E3EBEE;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);border-radius:99px;width:44px;height:44px;cursor:pointer}
@@ -132,7 +133,7 @@ h1,h2,h3{font-family:var(--f-display);margin:0;line-height:1.05}
   </div>
   <div class="shown" id="shown" aria-live="polite"></div>
   <main id="log"></main>
-  <dialog id="lb" aria-label="Photo viewer"><div class="fr"><img id="lb-img" alt=""><a id="lb-vid" class="vid" target="_blank" rel="noopener" hidden>▶ Play video in Google Photos</a></div>
+  <dialog id="lb" aria-label="Photo viewer"><div class="fr"><img id="lb-img" alt=""><video id="lb-video" controls playsinline preload="metadata" hidden></video><a id="lb-vid" class="vid" target="_blank" rel="noopener" hidden>▶ Play video in Google Photos</a></div>
     <button class="nav prev" id="lb-prev" type="button" aria-label="Previous photo">‹</button><button class="nav next" id="lb-next" type="button" aria-label="Next photo">›</button>
     <button class="x" id="lb-x" type="button" aria-label="Close">×</button>
     <div class="bar"><span id="lb-cap"></span><a id="lb-link" target="_blank" rel="noopener">Open in Google Photos</a></div></dialog>
@@ -280,12 +281,22 @@ $("#f-photos").onchange = e => { state.photos = e.target.checked; render(); };
 
 // photo viewer
 const lb = $("#lb"); let cur = null;
+const vid = $("#lb-video");
+function stopVideo() { vid.pause(); vid.removeAttribute("src"); vid.innerHTML = ""; vid.load(); vid.hidden = true; }
 function show() {
   const [u, w, h, link, v] = cur.e.photos[cur.k];
-  $("#lb-img").src = PIX(u, 1800, 1800);
+  stopVideo();
+  $("#lb-img").hidden = !!v;
+  if (v) {
+    // play in the page: Google's MP4 copy (720p), then the original file; Google Photos link only if both fail
+    vid.innerHTML = `<source src="${u}=m22" type="video/mp4"><source src="${u}=dv" type="video/mp4">`;
+    const last = vid.querySelectorAll("source")[1];
+    last.addEventListener("error", () => { vid.hidden = true; $("#lb-vid").hidden = false; });
+    vid.hidden = false; vid.load(); vid.play().catch(() => {});
+  } else $("#lb-img").src = PIX(u, 1800, 1800);
   $("#lb-img").alt = `${v ? "Video" : "Photo"}, ${dlong(cur.e.date)}`;
   $("#lb-cap").textContent = `${dlong(cur.e.date)} · ${cur.e.boat} · ${cur.k + 1} / ${cur.e.photos.length}`;
-  $("#lb-link").href = link; $("#lb-vid").href = link; $("#lb-vid").hidden = !v;
+  $("#lb-link").href = link; $("#lb-vid").href = link; $("#lb-vid").hidden = true;
   $("#lb-prev").hidden = $("#lb-next").hidden = cur.e.photos.length < 2;
 }
 const step = d => { cur.k = (cur.k + d + cur.e.photos.length) % cur.e.photos.length; show(); };
@@ -297,7 +308,7 @@ $("#log").addEventListener("click", ev => {
 $("#lb-prev").onclick = () => step(-1); $("#lb-next").onclick = () => step(1); $("#lb-x").onclick = () => lb.close();
 let byBack = false;
 window.addEventListener("popstate", () => { if (lb.open) { byBack = true; lb.close(); } });
-lb.addEventListener("close", () => { if (!byBack && history.state && history.state.lb) history.back(); byBack = false; });
+lb.addEventListener("close", () => { stopVideo(); if (!byBack && history.state && history.state.lb) history.back(); byBack = false; });
 lb.addEventListener("keydown", ev => { if (ev.key === "ArrowLeft") step(-1); if (ev.key === "ArrowRight") step(1); });
 lb.addEventListener("click", ev => { if (ev.target === lb || ev.target.classList.contains("fr")) lb.close(); });
 let tx = null;
