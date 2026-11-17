@@ -17,6 +17,7 @@ from site_tabs import TABS  # noqa: E402
 B = sys.argv[1] if len(sys.argv) > 1 else "."
 OUT = sys.argv[2] if len(sys.argv) > 2 else f"{B}/site/blogger-theme.xml"
 site = yaml.safe_load(open(f"{B}/content/site.yml", encoding="utf-8"))
+LIVE = site.get("live_url", "https://sailingvira.com").rstrip("/")
 SITE = (site.get("live_url") or site["base_url"]).rstrip("/")
 NAME = site["name"]
 
@@ -234,6 +235,9 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <head>
 <meta content='width=device-width, initial-scale=1, viewport-fit=cover' name='viewport'/>
 <b:include data='blog' name='all-head-content'/>
+<link href='{x(LIVE)}/favicon.ico' rel='icon' sizes='any'/>
+<link href='{x(LIVE)}/assets/favicon-32.png' rel='icon' type='image/png'/>
+<link href='{x(LIVE)}/assets/apple-touch-icon.png' rel='apple-touch-icon'/>
 <b:include data='blog' name='google-analytics'/>
 <title><b:if cond='data:view.isHomepage'>Boat diary · {x(NAME)}<b:else/><data:view.title.escaped/> · Boat diary · {x(NAME)}</b:if></title>
 <link href='https://fonts.googleapis.com' rel='preconnect'/>
