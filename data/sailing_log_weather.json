@@ -393,6 +393,600 @@
    "temp_f": 52,
    "text": "Partly cloudy",
    "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-01-21": {
+   "wind_min": 7,
+   "wind_max": 11,
+   "gust": 26,
+   "temp_f": 40,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-02-17": {
+   "wind_min": 0,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 61,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-03-14": {
+   "wind_min": 5,
+   "wind_max": 13,
+   "gust": 17,
+   "temp_f": 72,
+   "text": "Overcast, rain",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-03-21": {
+   "wind_min": 5,
+   "wind_max": 12,
+   "gust": 18,
+   "temp_f": 84,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-03-28": {
+   "wind_min": 8,
+   "wind_max": 19,
+   "gust": 28,
+   "temp_f": 87,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-04-04": {
+   "wind_min": 0,
+   "wind_max": 9,
+   "gust": null,
+   "temp_f": 79,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-04-10": {
+   "wind_min": 7,
+   "wind_max": 16,
+   "gust": 27,
+   "temp_f": 65,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-04-11": {
+   "wind_min": 3,
+   "wind_max": 10,
+   "gust": null,
+   "temp_f": 73,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-04-25": {
+   "wind_min": 0,
+   "wind_max": 14,
+   "gust": 20,
+   "temp_f": 82,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-05-03": {
+   "wind_min": 7,
+   "wind_max": 13,
+   "gust": 19,
+   "temp_f": 88,
+   "text": "Sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-05-16": {
+   "wind_min": 0,
+   "wind_max": 9,
+   "gust": null,
+   "temp_f": 85,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-05-23": {
+   "wind_min": 4,
+   "wind_max": 12,
+   "gust": null,
+   "temp_f": 89,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-05-31": {
+   "wind_min": 7,
+   "wind_max": 10,
+   "gust": 17,
+   "temp_f": 83,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-06-06": {
+   "wind_min": 3,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 88,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-06-14": {
+   "wind_min": 8,
+   "wind_max": 13,
+   "gust": 16,
+   "temp_f": 84,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-06-20": {
+   "wind_min": 5,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 90,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-06-27": {
+   "wind_min": 7,
+   "wind_max": 15,
+   "gust": null,
+   "temp_f": 89,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-07-04": {
+   "wind_min": 0,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 92,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-07-11": {
+   "wind_min": 3,
+   "wind_max": 9,
+   "gust": 16,
+   "temp_f": 93,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-07-25": {
+   "wind_min": 0,
+   "wind_max": 7,
+   "gust": null,
+   "temp_f": 88,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-07-26": {
+   "wind_min": 0,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 92,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-08-08": {
+   "wind_min": 0,
+   "wind_max": 7,
+   "gust": null,
+   "temp_f": 91,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-08-16": {
+   "wind_min": 3,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 86,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-08-22": {
+   "wind_min": 3,
+   "wind_max": 9,
+   "gust": null,
+   "temp_f": 82,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-09-05": {
+   "wind_min": 6,
+   "wind_max": 13,
+   "gust": 19,
+   "temp_f": 86,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-09-19": {
+   "wind_min": 8,
+   "wind_max": 12,
+   "gust": 18,
+   "temp_f": 70,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-10-03": {
+   "wind_min": 5,
+   "wind_max": 11,
+   "gust": 15,
+   "temp_f": 73,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-10-10": {
+   "wind_min": 3,
+   "wind_max": 24,
+   "gust": 36,
+   "temp_f": 82,
+   "text": "Overcast, light rain",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-10-25": {
+   "wind_min": 4,
+   "wind_max": 9,
+   "gust": null,
+   "temp_f": 75,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-10-31": {
+   "wind_min": 6,
+   "wind_max": 9,
+   "gust": null,
+   "temp_f": 63,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-11-14": {
+   "wind_min": 4,
+   "wind_max": 11,
+   "gust": null,
+   "temp_f": 70,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-11-27": {
+   "wind_min": 3,
+   "wind_max": 10,
+   "gust": null,
+   "temp_f": 71,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-12-23": {
+   "wind_min": 4,
+   "wind_max": 10,
+   "gust": null,
+   "temp_f": 62,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2020-12-25": {
+   "wind_min": 14,
+   "wind_max": 20,
+   "gust": 27,
+   "temp_f": 38,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-01-09": {
+   "wind_min": 0,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 50,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-01-17": {
+   "wind_min": 5,
+   "wind_max": 18,
+   "gust": 21,
+   "temp_f": 51,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-01-24": {
+   "wind_min": 0,
+   "wind_max": 6,
+   "gust": null,
+   "temp_f": 56,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-02-07": {
+   "wind_min": 0,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 56,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-02-21": {
+   "wind_min": 8,
+   "wind_max": 13,
+   "gust": 18,
+   "temp_f": 54,
+   "text": "Sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-02-27": {
+   "wind_min": 0,
+   "wind_max": 12,
+   "gust": 17,
+   "temp_f": 80,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-03-13": {
+   "wind_min": 5,
+   "wind_max": 12,
+   "gust": 17,
+   "temp_f": 74,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-03-27": {
+   "wind_min": 0,
+   "wind_max": 16,
+   "gust": 21,
+   "temp_f": 86,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-04-03": {
+   "wind_min": 0,
+   "wind_max": 8,
+   "gust": 15,
+   "temp_f": 61,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-04-11": {
+   "wind_min": 9,
+   "wind_max": 16,
+   "gust": 24,
+   "temp_f": 78,
+   "text": "Overcast, rain",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-04-17": {
+   "wind_min": 0,
+   "wind_max": 10,
+   "gust": 14,
+   "temp_f": 74,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-04-25": {
+   "wind_min": 0,
+   "wind_max": 10,
+   "gust": 16,
+   "temp_f": 76,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-05-09": {
+   "wind_min": 8,
+   "wind_max": 17,
+   "gust": 22,
+   "temp_f": 85,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-05-15": {
+   "wind_min": 3,
+   "wind_max": 7,
+   "gust": null,
+   "temp_f": 78,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-05-29": {
+   "wind_min": 6,
+   "wind_max": 13,
+   "gust": 24,
+   "temp_f": 87,
+   "text": "Overcast, light rain",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-06-05": {
+   "wind_min": 0,
+   "wind_max": 7,
+   "gust": null,
+   "temp_f": 87,
+   "text": "Overcast, light rain",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-06-29": {
+   "wind_min": 6,
+   "wind_max": 11,
+   "gust": 15,
+   "temp_f": 91,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-07-04": {
+   "wind_min": 0,
+   "wind_max": 6,
+   "gust": null,
+   "temp_f": 87,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-07-10": {
+   "wind_min": 0,
+   "wind_max": 6,
+   "gust": null,
+   "temp_f": 91,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-07-11": {
+   "wind_min": 5,
+   "wind_max": 12,
+   "gust": 17,
+   "temp_f": 90,
+   "text": "Partly cloudy",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-07-17": {
+   "wind_min": 0,
+   "wind_max": 11,
+   "gust": null,
+   "temp_f": 89,
+   "text": "Partly cloudy, thunderstorms",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-07-24": {
+   "wind_min": 0,
+   "wind_max": 11,
+   "gust": null,
+   "temp_f": 89,
+   "text": "Mostly sunny",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2021-08-24": {
+   "wind_min": 0,
+   "wind_max": 7,
+   "gust": null,
+   "temp_f": 94,
+   "text": "Partly cloudy, rain",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  },
+  "2024-12-26": {
+   "wind_min": 3,
+   "wind_max": 8,
+   "gust": null,
+   "temp_f": 52,
+   "text": "Overcast",
+   "station": "Columbia Metropolitan Airport (KCAE)"
+  }
+ },
+ "Lake Travis, TX": {
+  "2021-10-31": {
+   "wind_min": 6,
+   "wind_max": 10,
+   "gust": 14,
+   "temp_f": 81,
+   "text": "Sunny",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2021-12-18": {
+   "wind_min": 8,
+   "wind_max": 19,
+   "gust": 25,
+   "temp_f": 56,
+   "text": "Overcast, rain",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2022-01-03": {
+   "wind_min": 0,
+   "wind_max": 6,
+   "gust": null,
+   "temp_f": 56,
+   "text": "Sunny",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2022-03-11": {
+   "wind_min": 10,
+   "wind_max": 22,
+   "gust": 31,
+   "temp_f": 44,
+   "text": "Overcast, rain",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2022-05-15": {
+   "wind_min": 6,
+   "wind_max": 13,
+   "gust": 21,
+   "temp_f": 94,
+   "text": "Mostly sunny",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2022-09-26": {
+   "wind_min": 4,
+   "wind_max": 16,
+   "gust": 25,
+   "temp_f": 93,
+   "text": "Mostly sunny",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2023-04-30": {
+   "wind_min": 9,
+   "wind_max": 15,
+   "gust": 24,
+   "temp_f": 86,
+   "text": "Sunny",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2024-06-08": {
+   "wind_min": 3,
+   "wind_max": 15,
+   "gust": 20,
+   "temp_f": 96,
+   "text": "Mostly sunny",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2024-06-15": {
+   "wind_min": 0,
+   "wind_max": 12,
+   "gust": null,
+   "temp_f": 97,
+   "text": "Partly cloudy",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2024-10-19": {
+   "wind_min": 3,
+   "wind_max": 9,
+   "gust": 23,
+   "temp_f": 85,
+   "text": "Partly cloudy",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2025-05-11": {
+   "wind_min": 5,
+   "wind_max": 15,
+   "gust": 24,
+   "temp_f": 83,
+   "text": "Mostly sunny",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2025-05-25": {
+   "wind_min": 6,
+   "wind_max": 19,
+   "gust": 27,
+   "temp_f": 98,
+   "text": "Partly cloudy",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2025-05-31": {
+   "wind_min": 0,
+   "wind_max": 7,
+   "gust": null,
+   "temp_f": 87,
+   "text": "Partly cloudy",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2025-07-06": {
+   "wind_min": 3,
+   "wind_max": 13,
+   "gust": 20,
+   "temp_f": 90,
+   "text": "Overcast",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2025-07-19": {
+   "wind_min": 0,
+   "wind_max": 14,
+   "gust": 19,
+   "temp_f": 93,
+   "text": "Overcast, rain",
+   "station": "Austin-Bergstrom Airport (KAUS)"
+  },
+  "2025-08-02": {
+   "wind_min": 3,
+   "wind_max": 15,
+   "gust": 23,
+   "temp_f": 98,
+   "text": "Partly cloudy, rain",
+   "station": "Austin-Bergstrom Airport (KAUS)"
   }
  }
 }
