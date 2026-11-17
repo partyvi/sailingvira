@@ -4,7 +4,7 @@ title: "Навігація й авторульовий"
 section: electric
 order: 2
 description: "OpenPlotter, авторульовий, вітромір, AIS, радар і NavPod."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC"
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC
 ---
 Я не хотів купувати картплотер і коробку приладів. Я хотів збудувати своє: Raspberry Pi з OpenPlotter, саморобний авторульовий зі старого Autohelm, вітровий прилад на кріпленні, яке я відлив просто на щоглі, і зрештою «NavPod» зі справжніми кнопками. Це забрало чотири роки, і воно досі росте. Інженери ніколи не закінчують; вони просто випускають наступну версію.
 
@@ -22,6 +22,8 @@ Diary: [9 Feb 2022](https://irwin34.blogspot.com/2022/02/day-12-26-mostly-cleanu
 ![Компас і тиковий підстаканник на тумбі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ0W2S_zBnkHnXFJzi3b9twS0TiY1aWAnsv5i7LYuLTV-x2LMavqF1E6KkyWUEzpHaY4WCMvbr0n-EVQvaBS8C4RVebgHikk475h6DH9SMcwGIPueAml6wRUnzkQxKapw7jljF1u50ABfZla1aCCUMA5QfhUVJxDs5SU3Coa0j1DMSlhBnmzFcozLM2g/s1600/IMG_2126.HEIC)
 
 Diary: [24 Mar 2022](https://irwin34.blogspot.com/2022/03/day-17-31822-starboard-deck-fairing.html)
+
+## Лаг
 
 А раніше, на 5-й день, я витягнув датчик швидкості з його корпусу. Човен не потонув; вода, що зайшла, не варта згадки. На лопатевому колесі трохи обросло. Почистив, тепер буде гаразд.
 
@@ -55,14 +57,36 @@ Diary: [3 Jul 2022](https://irwin34.blogspot.com/2022/07/day-34-35-72-73-mast-cl
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
+Потім я передумав і вирішив зробити інше кріплення.
+
+## Вітровий прилад іде вгору
+
 У жовтні я зробив інше кріплення для топу щогли, вирізане з суцільного алюмінієвого бруска 2x2x5 дюймів. Стружки трохи забагато. Основний виріз готовий, потім отвори. Готовий виріб.
 
 ![Фрезерую алюмінієве кріплення для топу на ЧПУ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8f5JTNBe2wfA_EJKXare6cBL_8xZ1w-PQ6tCvsdo8obRVosZIurvG1zJEFeNwutRWBCi-3nA9G3ga9ejngr6GFA3azKPt-oAJI_pUUuzzRkW2UIVTc2Ay3BXIo4gi_qXIxZ-Pptj18VFHj7NzAMKKMCrHYwIQ3umWlWmxwRld2kg0-ca3x0zWEJvVTw/s1600/IMG_3868.HEIC)
 ![Готове алюмінієве кріплення, пофарбоване в біле](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAacvU7pyVWrl6RuXUPnj8i4yCEMSJ7T4fp5ntxFJSGGqRfQB6YOysG4XvRAF_rjauqWbVD1sjVKiGH5JHSZdQMlpiZAF5QnRalZbrQ97VqDwo0iratVWiDXDQCsHSGp0mViaGN-Wa3ihlLg1yvrevNXuOWnvhc-s514uZi7-Forkj5E0Y8ryitc7x5w/s1600/IMG_5361.HEIC)
 ![Вітромір Davis на своєму кріпленні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNLNWW6gqLigGOKQB-OY0_vLeoDxc6B4h2PJsw1u0LnJV5-6GepptxM4sTZaRjTfGFfGpTU76aoNNaHMq_pOsuyoHNiy5Ml7n-x3Js-0TC7VNQY9XzELjVaIMGPBzWYugNTEPjLl-v4jitSQX-nfUG7wWa_-Qe2Io0p7Gx58wR5Gbdn5UBQUoXCzzVA/s1600/IMG_5360.HEIC)
-![Камбуз у процесі будівництва](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqpC0gQnk2SYeYCdaywnyMWiywwK4-vE6eynBmrqzjAMdkffczd8tZFMHOPbS_O-2V0Io2l9ukuV9HKHlqPOVXKbe7ei-OtSpyiQUFZJqmGd2aQ9Oxxsanvh6iGvgdx1nPtFzMYydrOKwsIjzdYd5am8sdsqEVRQFebvDGmhEDF281qY-kMNL6x9mM7A/s1600/IMG_3913.HEIC)
 
 Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-test-day-water.html)
+
+Лютий 2024-го: вітровий прилад готовий до топу щогли. Маленька біла коробочка — Wi-Fi-камера, що дивиться вперед згори, з кутом огляду 120°. Вона споживає близько 20 мА при 12 В, тож ділить живлення з лініями приладу. Кріплення зробили ще рік тому. Щоб його поставити, довелося просвердлити й нарізати різьбу у верхній з'єднувальній пластині й прикрутити кріплення; за своєю формою воно щільно сідає на вертикальні планки, з одним вертикальним гвинтом.
+
+![Вітромір і камера перед підйомом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ljOsVIXWPWypApREA4n6_cePsMu1MhFEeoWiQxEjuj8MGAYRattSCPg3SfKkNfSJBUwJzJqUL7E6Smj2lQrL9r9fFkMyS51lyNAkfdyen6aFHGHLPSz6SfiY89_BZIUke3lg0fUGZm5RzlJbO3knUyONYqrpsxc0NT8cg7VvwbB0Ced9GYC_FZ6MzPwR/s1600/IMG_7407.HEIC)
+![Перевіряю вітромір і коробочку камери](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht3G1BMiXy1W34jbwk01kVSTa615h6hpbC8HvLig347J69KguSpOt2P_RLZ9V6LPt9PtTyB-NO_iB64WW2F4TjtFZecdWwbS3VYy4FzGKQCo9Fckrhlg79Mox9C7xS8yyPZWSjdc417Ub1ShJWBGuFSQGtIWeQmyn4VtCqoEIR-eCNhIH7ckAhNRFqQRld/s1600/IMG_7408.HEIC)
+![Фрезерую кріплення для топу на ЧПУ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEighJqIDb4WtN4_0PJBiuYTCgst_Wg_kUV2-kMd7TDb0xflTGbxOx_mSVfSkTd9Nq3suYzrOpfr7FN13B-MdhleuH0XzHG6h2EH_REyIXvnKWYIcdvq4Ima-6hxSBVBphNnvLxmwjqDO3lpH9fmZ1eiL3wBXfaUk_64KQPSQ2q2hoTHtOqYt68JziL79-5K/s1600/IMG_3872.jpg)
+![Деталь кріплення в лещатах](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ6P5ZUaUabCZoY6YJGRSNM0eb7_ZQmvFAjFDpRdV5cuA1NMe8R5dzj29zGgZAOrJH60RzTuRmfLc8vekMvopX1sQ6vhwFuy4Caf1LU15banqBZXqRZbL7AocrVlboAUKoQNtxBAgWgAsJkkSfwHt_YnqWrAm3QQJq8ywVHuLMKhIs3Em4CYnkxzSkwLzt/s1600/IMG_3877.jpg)
+![Пластина на топі, куди стає кріплення, позначена стрілкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jDVkus0marX4BwAJda8GIGWWrXUiBYizaYMnAODBnC8tupyqQp9A1a4rEdT42mb3pkL1LLNuj_emqWSYJmn-e2DGf0M1tkRs5WnQK7sWHxb8ZgDNuyHOfHGpGXEhag2g5eD7qriBTcltJxEEXG0z6JrxRXYRWm7Te5bPda4NJEE1r142LGcECufcu8tX/s1600/Untitled.png)
+
+Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
+
+Легко не пішло. Першого дня мій друг старався як міг; він краще підходить для лазіння на щоглу. Але це була перша різьба, яку він будь-коли нарізав у житті, і врешті ми отримали зламаний мітчик на топі щогли. Наступного дня поліз я, а він мене страхував. Я відламав мітчик урівень, просвердлив новий отвір на 10 мм попереду, нарізав різьбу й прикрутив усе, як планував.
+
+АЛЕ потім ми десь дві години протягували дріт униз по щоглі. Кабель недостатньо важкий, він раз у раз чіплявся за щось усередині й згортався кільцями. Отвір угорі, може, 6–7 мм, трохи більший за кабель. Спрацював такий трюк: довге 10-дюймове свердло як вантаж. Канавки свердла ідеально ховають тонкий дріт, тож «вантаж» і дріт проходять крізь отвір разом.
+
+![Топ щогли «Віри» з вітроміром](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4d-qQJAezy8wLLHxEi_0Nprd0PZzThixlNoEIV_YItBTT-eVMg0XT5OK5MFNR_9K2s1mwVPVzjM7Cw8EL-ux03hxRAg6MM8O-FJJAeX90tmqC0X_Bhk0kL8hFB8xHVdXXvLcp6vl9WQe6npOVWTe6AnOegdOXv0wwJ9UJ2GRRH-LZbT0Q_jInhX-uJOQU/s1600/IMG_7433.HEIC)
+![OpenPlotter на екрані штурманського місця](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygeGEJMIqtrdPnilRKB0t03RticYTHcHxXrnQNhc_Q-NWDX_MhcgyFD2eekgy1q3IrcYeGSC38n1D3mSMNkT_wEfBc32hkg0WprZYX0AqqTg0RVzlMBvdi5Sno1KKznkls6SYPs56pnlu86iBGUrvOPdnwmohD6FEGrz4vNHnh4YRojX_oEVMSN93ZSMT/s1600/IMG_7436.HEIC)
+
+Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
 ## Ходові вогні
 
@@ -87,7 +111,24 @@ Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-co
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
-## Екран у кокпіті
+## OpenPlotter оживає
+
+Січень 2024-го, фото дня: OpenPlotter працює на встановленому залізі. І всередині відсіку електроніки.
+
+Того вікенду: живлення для коробки з Raspberry, і коробку встановлено. Я тестував IMU, невдало; схоже на поганий контакт. Дроти від колонки штурвала до штурманського столу. Резисторні плати, щоб світлодіоди на головному блоці вимикачів світили тьмяніше. Пульт для палубних вогнів. «Другий» GPS, у місці, де він працює крізь одношарову палубу. Я перевірив роботу з двома екранами: знадобиться HDMI-розгалужувач, щоб легко дублювати кокпіт і штурманський стіл. Зараз дисплей у кокпіті й Pi живлять одне одного через HDMI; розгалужувач це виправить. Я завів двигун, щоб перевірити оберти: холостий хід 850, майже повний газ 2 800. Працює рівно, але з доволі сильним білим димом. Треба перевірити, чим він пахне, маслом чи водою. І я поміряв місце під паливний бак: готовий бак з магазину не влізе.
+
+![Штурманське місце з картою і клавіатурою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZzjcgXctfwyc9LYZtyzazWSe5ddFzyGZuhxrkhEfgowKG-y6VQyANF1LSc80AHivI1ZWggdUxWANYrvY3Lmo86j0bxJq_zZaG0EYiH_204pYO6-vUpJbD_QBGZLiNXrR58j9ZoslJ8NMyNxpj4mMzvYJvmpe4PEdNkri8LvlGNBJvbihx1xRk2fBXOE66/s1600/IMG_7174.HEIC)
+![Відсік електроніки за екраном](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrB8CROPaclHTRg8hWIAmioFrcRlp9W2EbAIGI-7ocNhDeRnpwAoLG_jnVuoffMxf34754dce8O5OqTq9N2MysdFVYTHpjRfNMhwILTmzsXofKUMRg9E9iIyuWplhX2HIASgCHsrvysM5jsGhiOlwDgWedPtZi0ffhiA4pfZQH5GLHwG91ZCN2f7ZIr5q2/s1600/IMG_7177.HEIC)
+
+Diary: [8 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1624-small-electrical-finishes.html)
+
+Ось «чорнова» плата електроніки для OpenPlotter. Проводку треба впорядкувати, але спершу зроби, щоб працювало, потім — щоб було гарно.
+
+![Чорнова плата електроніки для OpenPlotter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XDEnhsOwgXngev81Zs2D7ehM6O5h5H0M6QYhF17Xjrzpx7dUBSHssBULzlt02fLy0qsFuMHjkPoRuR1FXjjoqY23qbAss-jVRWpGSXR7hhXVcC257vkwP6LkdfluGua1H5qvpWDmdf79wBI0iDCTlW-J3Ys5xEG4m3WqWtarRbQg9AnNNPsD-TNhqNL2/s1600/IMG_7282.HEIC)
+
+Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
+
+## Великий екран у кокпіті
 
 У травні 2023-го я вийняв протічний ілюмінатор, щоб звільнити місце під 15-дюймовий сенсорний екран на 600–800 ніт. Він працює поряд з головним штурманським місцем; другий, 7-дюймовий екран на 1 200 ніт стане на навігаційну консоль, може, з ще одним Raspberry Pi. Ілюмінатор зовсім не був водонепроникним: коли я викрутив гвинти, він просто випав з отвору. Стінка рубки не рівна, тож, щоб поставити екран, я зробив рівну поверхню на боці рубки загущеною епоксидкою, притиснутою пластиною з 3/4-дюймового МДФ, обгорнутою пергаментним папером для морозильника. Кілька зморшок, але вони не мають значення. Поки що отвір закритий ПВХ-стрічкою. Внутрішній прямокутник — рамка дисплея; отвір збільшиться приблизно на 2,5 дюйма. Проблем з міцністю я не очікую.
 
@@ -110,7 +151,7 @@ Diary: [3 Jun 2023](https://irwin34.blogspot.com/2023/06/day-92-6323-galley-coun
 
 Diary: [10 Jun 2023](https://irwin34.blogspot.com/2023/06/day-93-61023-galley-countertop-fit-to.html)
 
-## Планування авторульового
+## Планування приводу стерна для авторульового
 
 У вересні 2022-го я поміряв стерновий привід під авторульовий.
 
@@ -122,53 +163,14 @@ Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring
 
 Я хотів 300-міліметрове колесо на баллері, яке крутитиме зубчастий пас. Сила на 300 мм — 300 Н·м / 0,15 м = 2 000 Н, від цього й відштовхуємося при виборі паса. Я вибрав 18-міліметровий пас HTD зі скловолоконним кордом: 130 Н/мм x 18 мм = 2 340 Н, 17% запасу. Шківи: колесо 300 мм і 37-міліметрова зірочка на 24 зуби, разом 8,1:1.
 
-![Ескіз геометрії кермування в блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcZZ8eFSv5N2tdCPH7mSXVolGnx7YitLLlH8qp7aVZFzUjaydsWKuY9cj4_b3Ua8ZpvGvX6qcH3Oifp8PUf88plfjkSIayaCDBUkDEf_kTa_LgH3H-kTYrqfz3FwdohKzmAjW4vc2-qlEbRlZ17GWBHy9G74vos7a_iUq3Ul9EzVVJlv0QTXYqG053KA/s1600/IMG_3771.HEIC)
 ![3D-модель привода авторульового з пасом і колесом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-bHZi88GZav2GNJTkam8eE0QnUSpyZxVsJyH4WglW-7wMFmFC5XBU8oUNDyJ0b_PHiD6Oiw1DeA7UEWPgC9rtAb0iHXIAZvfblABMYebAcwLCURdvAmZv3Tc66XRzuD5IdVf9WkCjwZmHCFRMTeyxXrGIOtzGP3uzB1-e57q6KEg6JIkCF-U8xnyRBw/s1600/Untitled12.png)
 ![Таблиця характеристик зубчастого паса HTD](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8myzNzjc7ieMAxfmrdYOb-uC0caJHs-e-9gFOJ9gps5gp2E3YKyykJWOzzbVq9ZYkhE1q1NUQ4_hVTwB01fL9rVu5qC_lv2BPVEWRQUkj_kFg8u9mj1_3DiYZZdOKrB5XfKdRoJVZo-H13fTC0alu5XFJUdzOheBQ4yFNXrjGqtlO7UHQd7gdrOZkA/s1600/Untitled11.png)
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-Мотор, що в мене був: 200-ватний мотор SIM. Сильний перебір, але в мене їх два, а на 20% потужності він житиме вічно. Може, не надто ефективно; побачимо. 4 300 об/хв, 4 фунт-дюйми, 0,45 Н·м. З редуктором 100:1 і пасом 8,1:1 це 0,45 x 810 = 364 Н·м, а 4 300 / 810 = 5 об/хв на повній потужності: 11 секунд на оберт, або 2,5 секунди від упору до упору. Швидкість доведеться обмежити. (Спойлер: цей план так і не збудували. Через рік я знайшов уживаний Autohelm за дуже розумну ціну.)
+Мотор, що в мене був: 200-ватний мотор SIM. Сильний перебір, але в мене їх два, а на 20% потужності він житиме вічно. Може, не надто ефективно; побачимо. 4 300 об/хв, 4 фунт-дюйми, 0,45 Н·м. З редуктором 100:1 і пасом 8,1:1 це 0,45 x 810 = 364 Н·м, а 4 300 / 810 = 5 об/хв на повній потужності: 11 секунд на оберт, або 2,5 секунди від упору до упору. Швидкість доведеться обмежити. (Спойлер: цей план так і не довели до кінця. Через рік я знайшов уживаний Autohelm за дуже розумну ціну. На той час я вже дістав і зробив десь 80% деталей, і вони досі лежать у моїй майстерні.)
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
-
-## Вітровий прилад іде вгору
-
-Лютий 2024-го: вітровий прилад готовий до топу щогли. Маленька біла коробочка — Wi-Fi-камера, що дивиться вперед згори, з кутом огляду 120°. Вона споживає близько 20 мА при 12 В, тож ділить живлення з лініями приладу. Кріплення зробили ще рік тому. Щоб його поставити, довелося просвердлити й нарізати різьбу у верхній з'єднувальній пластині й прикрутити кріплення; за своєю формою воно щільно сідає на вертикальні планки, з одним вертикальним гвинтом.
-
-![Вітромір і камера перед підйомом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ljOsVIXWPWypApREA4n6_cePsMu1MhFEeoWiQxEjuj8MGAYRattSCPg3SfKkNfSJBUwJzJqUL7E6Smj2lQrL9r9fFkMyS51lyNAkfdyen6aFHGHLPSz6SfiY89_BZIUke3lg0fUGZm5RzlJbO3knUyONYqrpsxc0NT8cg7VvwbB0Ced9GYC_FZ6MzPwR/s1600/IMG_7407.HEIC)
-![Перевіряю вітромір і коробочку камери](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht3G1BMiXy1W34jbwk01kVSTa615h6hpbC8HvLig347J69KguSpOt2P_RLZ9V6LPt9PtTyB-NO_iB64WW2F4TjtFZecdWwbS3VYy4FzGKQCo9Fckrhlg79Mox9C7xS8yyPZWSjdc417Ub1ShJWBGuFSQGtIWeQmyn4VtCqoEIR-eCNhIH7ckAhNRFqQRld/s1600/IMG_7408.HEIC)
-![Фрезерую кріплення для топу на ЧПУ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEighJqIDb4WtN4_0PJBiuYTCgst_Wg_kUV2-kMd7TDb0xflTGbxOx_mSVfSkTd9Nq3suYzrOpfr7FN13B-MdhleuH0XzHG6h2EH_REyIXvnKWYIcdvq4Ima-6hxSBVBphNnvLxmwjqDO3lpH9fmZ1eiL3wBXfaUk_64KQPSQ2q2hoTHtOqYt68JziL79-5K/s1600/IMG_3872.jpg)
-![Деталь кріплення в лещатах](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ6P5ZUaUabCZoY6YJGRSNM0eb7_ZQmvFAjFDpRdV5cuA1NMe8R5dzj29zGgZAOrJH60RzTuRmfLc8vekMvopX1sQ6vhwFuy4Caf1LU15banqBZXqRZbL7AocrVlboAUKoQNtxBAgWgAsJkkSfwHt_YnqWrAm3QQJq8ywVHuLMKhIs3Em4CYnkxzSkwLzt/s1600/IMG_3877.jpg)
-![Пластина на топі, куди стає кріплення, позначена стрілкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jDVkus0marX4BwAJda8GIGWWrXUiBYizaYMnAODBnC8tupyqQp9A1a4rEdT42mb3pkL1LLNuj_emqWSYJmn-e2DGf0M1tkRs5WnQK7sWHxb8ZgDNuyHOfHGpGXEhag2g5eD7qriBTcltJxEEXG0z6JrxRXYRWm7Te5bPda4NJEE1r142LGcECufcu8tX/s1600/Untitled.png)
-
-Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
-
-Легко не пішло. Першого дня мій друг старався як міг; він краще підходить для лазіння на щоглу. Але це була перша різьба, яку він будь-коли нарізав у житті, і врешті ми отримали зламаний мітчик на топі щогли. Наступного дня поліз я, а він мене страхував. Я відламав мітчик урівень, просвердлив новий отвір на 10 мм попереду, нарізав різьбу й прикрутив усе, як планував.
-
-АЛЕ потім ми десь дві години протягували дріт униз по щоглі. Кабель недостатньо важкий, він раз у раз чіплявся за щось усередині й згортався кільцями. Отвір угорі, може, 6–7 мм, трохи більший за кабель. Спрацював такий трюк: довге 10-дюймове свердло як вантаж. Канавки свердла ідеально ховають тонкий дріт, тож «вантаж» і дріт проходять крізь отвір разом.
-
-![Топ щогли «Віри» з вітроміром](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4d-qQJAezy8wLLHxEi_0Nprd0PZzThixlNoEIV_YItBTT-eVMg0XT5OK5MFNR_9K2s1mwVPVzjM7Cw8EL-ux03hxRAg6MM8O-FJJAeX90tmqC0X_Bhk0kL8hFB8xHVdXXvLcp6vl9WQe6npOVWTe6AnOegdOXv0wwJ9UJ2GRRH-LZbT0Q_jInhX-uJOQU/s1600/IMG_7433.HEIC)
-![OpenPlotter на екрані штурманського місця](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygeGEJMIqtrdPnilRKB0t03RticYTHcHxXrnQNhc_Q-NWDX_MhcgyFD2eekgy1q3IrcYeGSC38n1D3mSMNkT_wEfBc32hkg0WprZYX0AqqTg0RVzlMBvdi5Sno1KKznkls6SYPs56pnlu86iBGUrvOPdnwmohD6FEGrz4vNHnh4YRojX_oEVMSN93ZSMT/s1600/IMG_7436.HEIC)
-
-Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
-
-## OpenPlotter оживає
-
-Січень 2024-го, фото дня: OpenPlotter працює на встановленому залізі. І всередині відсіку електроніки.
-
-Того вікенду: живлення для коробки з Raspberry, і коробку встановлено. Я тестував IMU, невдало; схоже на поганий контакт. Дроти від колонки штурвала до штурманського столу. Резисторні плати, щоб світлодіоди на головному блоці вимикачів світили тьмяніше. Пульт для палубних вогнів. «Другий» GPS, у місці, де він працює крізь одношарову палубу. Я перевірив роботу з двома екранами: знадобиться HDMI-розгалужувач, щоб легко дублювати кокпіт і штурманський стіл. Зараз дисплей у кокпіті й Pi живлять одне одного через HDMI; розгалужувач це виправить. Я завів двигун, щоб перевірити оберти: холостий хід 850, майже повний газ 2 800. Працює рівно, але з доволі сильним білим димом. Треба перевірити, чим він пахне, маслом чи водою. І я поміряв місце під паливний бак: готовий бак з магазину не влізе.
-
-![Штурманське місце з картою і клавіатурою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZzjcgXctfwyc9LYZtyzazWSe5ddFzyGZuhxrkhEfgowKG-y6VQyANF1LSc80AHivI1ZWggdUxWANYrvY3Lmo86j0bxJq_zZaG0EYiH_204pYO6-vUpJbD_QBGZLiNXrR58j9ZoslJ8NMyNxpj4mMzvYJvmpe4PEdNkri8LvlGNBJvbihx1xRk2fBXOE66/s1600/IMG_7174.HEIC)
-![Відсік електроніки за екраном](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrB8CROPaclHTRg8hWIAmioFrcRlp9W2EbAIGI-7ocNhDeRnpwAoLG_jnVuoffMxf34754dce8O5OqTq9N2MysdFVYTHpjRfNMhwILTmzsXofKUMRg9E9iIyuWplhX2HIASgCHsrvysM5jsGhiOlwDgWedPtZi0ffhiA4pfZQH5GLHwG91ZCN2f7ZIr5q2/s1600/IMG_7177.HEIC)
-
-Diary: [8 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1624-small-electrical-finishes.html)
-
-Ось «чорнова» плата електроніки для OpenPlotter. Проводку треба впорядкувати, але спершу зроби, щоб працювало, потім — щоб було гарно.
-
-![Чорнова плата електроніки для OpenPlotter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XDEnhsOwgXngev81Zs2D7ehM6O5h5H0M6QYhF17Xjrzpx7dUBSHssBULzlt02fLy0qsFuMHjkPoRuR1FXjjoqY23qbAss-jVRWpGSXR7hhXVcC257vkwP6LkdfluGua1H5qvpWDmdf79wBI0iDCTlW-J3Ys5xEG4m3WqWtarRbQg9AnNNPsD-TNhqNL2/s1600/IMG_7282.HEIC)
-
-Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
 
 ## Вживаний Autohelm стає розумним приводом
 
@@ -190,13 +192,6 @@ Diary: [9 Mar 2024](https://irwin34.blogspot.com/2024/03/day-134-39-deck-paintin
 ![Плата контролера мотора всередині корпусу привода](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1uHGN3EpQi2N7UXpUJwzF3MHMwSoh3RIV65vycBR4LwUbavRdJ2VdSO34BpYjUYpifTCdt58F4CaY-1X-HhL9gzxyX-CsuGrb7W0MnsOrdkNn4yiekPO35Lsf5h0Fq6k8gMEIIK7PPs_vjbXaj7nohFFau0r06QyPRr6uBB0WbCd6CZesyp_cN7KhN_1v/s1600/IMG_7764.HEIC)
 ![Привід і контролер на столі вдома](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJl9hXqD1SoSHP-yjvDk48JQZ_II2I9iV6QOrHuAmIftwK4rZ9_4hDLDVrFU6Y75NeCP_KKF8yxWacuJ4Q7RNvFzoJTovdgGhJv_6d9OG6NQVFMjCnr26UU_exivxXh5dg6nr4NL-8OFtYXnLpghHUBvf4fbOe1EgICIh3Y2JGctYO4zB6kVkOPFxj30Vh/s1600/IMG_7763.HEIC)
 ![Привід перевіряється на столі з батареєю](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifkpW4enqZC-tpbDpgW52hVYlaLJGnUFTwug-aOlKe73GznZgppLRQh8qXY19l-n54uHSAt-r4yee4U9xXCJ3ihI-kOLhky9I5BGjKjswm1iIgoP56C0ordmWx2D6ISZ4nZkEAgLTM8MiMhpYtg-8NVgjXLS2MdeL-PxOHmUoKOGDhqhlH2NeD_ql3owm_/s1600/IMG_7766.HEIC)
-![Кут гальюна з фінальною накладкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyYyK-XVW-nRaQ-jbzTH1nBdWnclbPQDraBXGSd3Cgdu-TJnblI7aGfUUALBwQSI3vJ5GQpm1jV8GAKAZnf3YbyLZUVCgfH4ByheTKtScfbSvnTcx3zLD1MYhb2ZIOx_YRpISe4U3W3hDFm663cv-QoFarsrGUU4Z6jRW4VpNpZgfwDu23dRs4zDspYKc/s1600/IMG_7749.HEIC)
-
-Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
-
-А ще я спроєктував і надрукував тримачі для ліхтариків, щоб більше не шукати свою «посадкову фару».
-
-![Надрукований тримач ліхтарика в каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CrQu6DuqoOE9JZFhBXV8tUWguYX07SbjMJ_eKLC12opfhYVl1UFAuDEohERj27aoCEnFFOQdAw2xmcTsxdWRRLN6FaGp91qw041kQvUZ369vi5kJGCjLzZuHcK0gKEiH6-9jRS6fPTLT_0g20LY-qbvcc26GP16D8e8WCrMqBTt5KWpUcXLdJdtBrMmV/s1600/IMG_7750.HEIC)
 
 Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
 
@@ -206,7 +201,21 @@ Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-p
 
 Diary: [21 Apr 2024](https://irwin34.blogspot.com/2024/04/day-139-421-autopilot-drive-connection.html)
 
-У травні IMU став на кардановий підвіс: маленька чорна коробочка.
+У травні IMU став на кардановий підвіс: маленька чорна коробочка. Насправді підвіс йому не потрібен: досить правильно відкалібрувати. Згодом я просто поставив його на базову плату.
+
+## Дрібні 3D-проєкти
+
+### Тримач для ліхтарика
+
+Я спроєктував і надрукував тримачі для ліхтариків, щоб більше не шукати свою «посадкову фару».
+
+![Надрукований тримач ліхтарика в каюті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CrQu6DuqoOE9JZFhBXV8tUWguYX07SbjMJ_eKLC12opfhYVl1UFAuDEohERj27aoCEnFFOQdAw2xmcTsxdWRRLN6FaGp91qw041kQvUZ369vi5kJGCjLzZuHcK0gKEiH6-9jRS6fPTLT_0g20LY-qbvcc26GP16D8e8WCrMqBTt5KWpUcXLdJdtBrMmV/s1600/IMG_7750.HEIC)
+
+Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
+
+### Кардановий підвіс для IMU
+
+Кардановий підвіс для IMU, надрукований удома.
 
 ![IMU на кардановому підвісі в рундуку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VMc5-2UWE0rdWXSd0zaR-CPuewNqxe7ZgaTG6BB-SyyoulDcref0fhQMreof07xbxuUDWmMk2VNwxlkjbIrVeyJWAN7kmjzdPD1vuGqEWtdh2aLQ_ANVZVWeXyGOB0RkyHqXpbQ9WJbErZNprMre1Xx3tr75cfxaWLnrDhIU7HwoDvk_Dq8JEG8rr0N9/s1600/IMG_8203.HEIC)
 
@@ -244,7 +253,7 @@ Diary: [6 Jul 2024](https://irwin34.blogspot.com/2024/07/day-157-7624-autopilot-
 
 До квітня 2025-го електроніка вже рік жила в «тимчасовому режимі»: дроти, що висять, нічого не впорядковано, просто працює для денних походів на озері. Більше для розваги, ніж з потреби. Усе сиділо на фанерній дошці на липучках. Між запобіжниковою панеллю і панеллю вимикачів було справжнє щуряче гніздо; щоб зняти панель вимикачів, довелося б відкрутити 15 дротів. Нічого не було захищено, крім захисного лаку на платах. У прісному озері не страшно, але наприкінці року я збирався в солону воду. Чого не видно на фото: три адаптери USB-serial і «метеодатчики» на Arduino, що висять на дротах під рамкою.
 
-![Коробка електроніки OpenPlotter встановлена](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_2O5Fhm_asygtre-tWxVpfg3F6o6Nfui856xsUPkRuLnRetPUyLOd9Zlf2zNbUVGlC5ElsTGBgEPR6aO6SohCtRgtPcten_55PfRBy8FJmHjGmK-EbvdWphCqDAC33Z9AY3zUR2LA7crzPt8SEhpLqVlz8HHRhnB_sXSaA_yxff1-fyutIzqAcURQtkIy/s1600/IMG_0412.HEIC)
+![Коробка електроніки і запобіжникова панель](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_2O5Fhm_asygtre-tWxVpfg3F6o6Nfui856xsUPkRuLnRetPUyLOd9Zlf2zNbUVGlC5ElsTGBgEPR6aO6SohCtRgtPcten_55PfRBy8FJmHjGmK-EbvdWphCqDAC33Z9AY3zUR2LA7crzPt8SEhpLqVlz8HHRhnB_sXSaA_yxff1-fyutIzqAcURQtkIy/s1600/IMG_0412.HEIC)
 ![Плата електроніки до впорядкування](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG0Ns3fRExaCtNse-CwP0XPqBe_goRPaeprbIhmbjDHeEUnewx88jVST0tqJ3VvYfqnnSM9NJZ30CMN45wphwm8Fnd98AJkBnFRl8AbsMsL7iib2C_lvrBBbTeso9nNZG8xY0UY-z_Tp9tdTLN67WYr-wmzMHqb1yj1ofZePCGgQLGerLS4llmUH-E84aH/s1600/IMG_8824.HEIC)
 
 Diary: [14 Apr 2025](https://irwin34.blogspot.com/2025/04/day-195-navigation-electronics-final.html)
@@ -352,65 +361,6 @@ Story page: [Helm instrument console](https://irwin34.blogspot.com/p/pedestal-he
 
 Story page: [Helm instrument console](https://irwin34.blogspot.com/p/pedestal-helm-instrument-console.html)
 
-Радар і його саморобне кріплення на щоглу мають свою історію: [Кріплення радара](../radar-mount/).
-
-## Радар
-
-Березень 2026-го: 24 дрібні справи за два вихідні дні. Радар став на щоглу. Просто, якщо не рахувати того, що кронштейн трохи погнувся і задні отвори не збігалися, тож я трохи розсвердлив їх під болти. Інший виклик — безпечно підняти радар на щоглу. Він круглий, нема за що прив'язати мотузку. А ще я приклепав до кріплення радара пластину під камеру Ring, щоб наглядати за причалами, особливо в справді погану погоду.
-
-![Радар на щоглі в Кемі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSaO3fX0AHkTYtkuBXQtKVuvANBGa3m9wM0QZbW-N-5mnh7x9KgEjF0hmNKzmyEa1UbBob_Zp6bhpiE8TevBTbjxe4vC2LeaFdhHEvZ_v4cwiCQeI43jT_4mNas1pNHgseJ9o6k30E-2ZlUXXBpb34H_Erla2Y498G-5nfzdj32q0_Oc08e26LdyBe28LU/s1600/IMG_0919.HEIC)
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-Антена УКХ повернулася: КСХ 1,3. Вітровий прилад і камера на топі минулого разу не працювали. Я підозрював проводку, але роз'єм на топі був під'єднаний навпаки. Я все одно провів близько 40 хвилин нагорі, перевіряючи кожен дріт, зняв прилад, перевірив його ще раз, а син поставив усе назад. Місію виконано.
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-Я планував сплеснити фал з його скобою, але після трьох спроб здався й зав'язав вузол. Думаю, трос затвердів від того, що я стільки разів по ньому лазив. Нагадування собі: потрібен палець для галсового кута грота, 5/16, робоча довжина 1-3/4. Трубки форсунок — 6,4 мм. І наклейку USCG про сміття наклеєно.
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-Maiana AIS зібрано, на 6 футах трубки з нержавійки на кормовому релінгу, з кабелем, захищеним термоусадкою і заведеним у каюту. І роутер MikroTik. 4G-роутер я перемкнув у режим лише модема для інтернету; MikroTik — це Ethernet-комутатор для радара, і для Wi-Fi я теж віддаю перевагу йому. Камера на топі запрацювала, щойно я на неї перемкнувся.
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-Побачимося за два тижні.
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-## Біди з AIS і надрукований сталевий затискач
-
-Квітень 2026-го: звук з OpenPlotter через Bluetooth, тож тривоги гучні. Налаштування авторульового: струм муфти зменшено до 30%, а максимальну швидкість збільшено. Вражає. У неділю він кермував на короткій хвилі 2–3 фути при 20–25 вузлах, без драми.
-
-У Maiana AIS якось потрапила вода, і GPS помер, хоча приймач AIS досі працював. Чистка й сушіння не допомогли. Перш ніж викинути плату, спробую замінити GPS. Ще одне розчарування: «алюмінієвий» кронштейн антени насправді був хромованим цинковим сплавом і розсипався за три тижні в морі.
-
-Я почистив датчик швидкості відносно води і, сюрприз, він працює. Перекалібрував.
-
-![Плата AIS-транспондера Maiana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
-![Сліди води на модулі GPS плати AIS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
-![Зламаний кронштейн антени AIS з цинкового сплаву](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
-
-Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
-
-Пізніше в квітні я додав вимикач для великого сенсорного екрана в кокпіті, щоб дощ перестав його «торкатися». А відремонтований транспондер AIS повернувся на місце й пройшов перевірку. Тепер люди можуть мене бачити, якщо я передаю свою позицію.
-
-![Налаштування AIS на навігаційному екрані](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOg63eSDutrs7NuqtN69HqutSfgHfwaEHzLBzBUBogts4VOKZaG7qToRtH4-3SQKtYIazfrazY93eGpB92Qzqkmm7ZnrXbSqgCTQtV2nBHW_hk7uAlSt0sfrgPmjylc2vbCukGnuIIqi1xVHs5fVTGMvwdHrSehIbD4jEXKatapkiUSxs3p6teWFjsw5KX/s1600/IMG_1229.HEIC)
-
-Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
-
-Потім головоломка. Одразу після встановлення транспондера AIS авторульовий не хотів працювати стабільно. Я не одразу пов'язав одне з одним: керувальна програма PyPilot перезавантажувалася кожні 30 секунд, але лише коли AIS був увімкнений. Коротко: Maiana надсилає дані GPS у Signal K як ще одне джерело GPS, а PyPilot падає, бо не може їх розібрати. Я спробував направити PyPilot на демон Linux GPSD з окремим GPS. Біля причалу все працювало, АЛЕ на ходу GPSD чіплявся за застарілі позиції, давав неправильну позицію й швидкість, і мені доводилося перезапускати його щоразу, як він з'їжджав з глузду. Назад до креслярської дошки. Зрештою я просто переорганізував, який GPS що робить. GPS Maiana працює на сам AIS і на Signal K, а окремий GPS на 1 Гц виділено для PyPilot. Більше ніяких падінь.
-
-Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
-
-Maiana сидить на кінці 1-дюймової трубки. Щоб прикріпити її до кормового релінга, я пробував алюмінієві затискачі з Amazon, і для човна вони виявилися геть непридатними. Ось як один виглядав після двох тижнів у Х'юстоні. Затискачі для двох паралельних 1-дюймових трубок знайти майже неможливо, тож я спроєктував власні й замовив друк з нержавійки 316L у JLC3DP в Китаї, чотири за $40. Через тиждень вони прийшли, і я був здивований, як добре їх надрукували. Після шліфування вони виглядають як суцільний метал, і вони і є суцільний метал. Ось затискачі на місці.
-
-![Роз'їдений корозією алюмінієвий хомут](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkk2bptdE4z2hnsVu706sdCaLvY5tBSUfissTyy8o9HPss0ycY93TBijdnUGlijYLkhFWJiiFhBlLgyc24EmM5AA1naJyBsF52b6r1jgrd7T2PFoHPHVt6_VZP2X6aSWujRMbXdMZbnJYeMUXO4fbBcGmnS0Msrl1FqPh2SKEsfSZfWoQKtMRDfbgl_noC/s1600/IMG_1158.HEIC)
-![3D-модель нержавійного хомута](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg30ThmqJ_JGeSyvVeyYyzhWBrAlsdg8Am6Zjfsk04MpGdR2e0VNNzn5-eodeuHMqlw8Bb79IVfSKgseorXcZHaCXF1Nqd_xgWUccX8xHp3djl8U3k0qbt42UKd-15EszHzBonwKFq7nlvdVJ8HVAb_EfbEBUkO55d28SP08ZmTn7eoafOw6PcYDSPRecuq/s1600/clamp2.png)
-![Надруковані хомути з нержавійки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif-yCuAn6CsQhDaH9fkkfiLUaoxUsBi1OyFv0GlkrTOOt1L0USjDJs_TFyoZE1hYFiSv7pAkLriXtYL41KAW_HKvfpMbYttX8VtiJr53VNykIgEiQg7HMWAquVFH1U6k-BiXJJr5vsLXGsDEMew1-ODMr4IX2n24a3NEx8Op4N_KsgPmmY88dvb2j09YVZ/s1600/IMG_1315.HEIC)
-![Антена AIS на хомутах на кормовому релінгу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4aJ1mH_iPpLzQ-J2GqXBHWVEG3onjVahN2-6FU-jN_XkPSqnDs9ehEm9niReyQqa2U5eqHSdS3f60jOyTSZk3y_4oinNDwrutpv-tk5zvvVW2UO3M536WobDyp0VO5JMvTB8kq1H_fl0PTso2YWtIIgIGhY_5iw-Yweu913ffi49k1MhmqvgvAQR_NNp/s1600/IMG_1497.HEIC)
-
-Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
-
 ## NavPod завершено
 
 Травень 2026-го: вікенд програмування NavPod. Це другий головний блок на Raspberry Pi біля штурвала, з 7-дюймовим дисплеєм на 2 000 ніт, що регулюється від 0,005% до 100% і спілкується з Signal K, PyPilot та іншими застосунками головного комп'ютера. У нього 26 кнопок і симуляція миші. Ліва панель: живлення, окрема кнопка MOB (зберігає позицію, відкриває OpenCPN і ставить мітку MOB), увімкнення/вимкнення передачі AIS, три кнопки застосунків, і авторульовий: режим (компас, вітер, GPS, справжній вітер, навігація), AUTO/STBY, ±1°, ±10° і поворот. Права панель: кнопки режимів (клавіатура, цифри, миша, блокування), стрілки з OK, і Enter, Esc та Tab.
@@ -448,3 +398,55 @@ Diary: [9 Aug 2026](https://irwin34.blogspot.com/2026/08/day-274-275-sailing-wit
 ![GPS у власному вуличному корпусі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCruvtYbi2r_OuhsL04NJ5uk9bs-1k76g7m5vepScT49PpQvKGWGO0-OaGczdVHaDm0E3LGjrUgqAcZOaluyIz93pz5h26eZ4GWgtKcTMoBK1gH5WiTpbv_yAGbi5ub0b-GaOzXAa7-iXJufm8I_AbTyz6zpinGDWlyetLL91gVDwZ0T9puWXcboXg-2SS/s1600/IMG_2632.HEIC)
 
 Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorganising-anchor-rode.html)
+
+## Радар
+
+Радар і його саморобне кріплення на щоглу мають свою історію: [Кріплення радара](../radar-mount/).
+
+Березень 2026-го: 24 дрібні справи за два вихідні дні. Радар став на щоглу. Просто, якщо не рахувати того, що кронштейн трохи погнувся і задні отвори не збігалися, тож я трохи розсвердлив їх під болти. Інший виклик — безпечно підняти радар на щоглу. Він круглий, нема за що прив'язати мотузку. А ще я приклепав до кріплення радара пластину під камеру Ring, щоб наглядати за причалами, особливо в справді погану погоду.
+
+![Радар на щоглі в Кемі](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSaO3fX0AHkTYtkuBXQtKVuvANBGa3m9wM0QZbW-N-5mnh7x9KgEjF0hmNKzmyEa1UbBob_Zp6bhpiE8TevBTbjxe4vC2LeaFdhHEvZ_v4cwiCQeI43jT_4mNas1pNHgseJ9o6k30E-2ZlUXXBpb34H_Erla2Y498G-5nfzdj32q0_Oc08e26LdyBe28LU/s1600/IMG_0919.HEIC)
+
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+## Біди з AIS
+
+Maiana AIS зібрано, на 6 футах трубки з нержавійки на кормовому релінгу, з кабелем, захищеним термоусадкою і заведеним у каюту.
+
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+Потім у Maiana якось потрапила вода, і її GPS помер, хоча приймач AIS досі працював. Чистка й сушіння не допомогли. Перш ніж викинути плату, я вирішив спробувати замінити GPS. Під час ремонту знайшов згорілі транзистор і котушку індуктивності. Я почистив плату, замінив модуль GPS і вкрив плату добрим захисним лаком. І найкраще: після ремонту вона запрацювала.
+
+![Плата AIS-транспондера Maiana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
+![Сліди води на модулі GPS плати AIS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
+
+## Новий Wi-Fi та інтернет
+
+Я додав роутер MikroTik. 4G-роутер перемкнув у режим лише модема для інтернету; MikroTik — це Ethernet-комутатор для радара, і для Wi-Fi я теж віддаю перевагу йому. Камера на топі запрацювала, щойно я на нього перемкнувся.
+
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+## Надрукований сталевий затискач
+
+Ще одне розчарування: «алюмінієвий» кронштейн щогли антени насправді був хромованим цинковим сплавом і розсипався за три тижні в морі.
+
+![Зламаний кронштейн антени AIS із цинкового сплаву](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkk2bptdE4z2hnsVu706sdCaLvY5tBSUfissTyy8o9HPss0ycY93TBijdnUGlijYLkhFWJiiFhBlLgyc24EmM5AA1naJyBsF52b6r1jgrd7T2PFoHPHVt6_VZP2X6aSWujRMbXdMZbnJYeMUXO4fbBcGmnS0Msrl1FqPh2SKEsfSZfWoQKtMRDfbgl_noC/s1600/IMG_1158.HEIC)
+
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
+Maiana сидить на кінці 1-дюймової трубки. Щоб прикріпити її до кормового релінга, я пробував алюмінієві затискачі з Amazon, і для човна вони виявилися геть непридатними. Ось як один виглядав після двох тижнів у Х'юстоні. Затискачі для двох паралельних 1-дюймових трубок знайти майже неможливо, тож я спроєктував власні й замовив друк з нержавійки 316L у JLC3DP в Китаї, чотири за $40. Через тиждень вони прийшли, і я був здивований, як добре їх надрукували. Після шліфування вони виглядають як суцільний метал, і вони і є суцільний метал. Ось затискачі на місці.
+
+![3D-модель нержавійного хомута](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg30ThmqJ_JGeSyvVeyYyzhWBrAlsdg8Am6Zjfsk04MpGdR2e0VNNzn5-eodeuHMqlw8Bb79IVfSKgseorXcZHaCXF1Nqd_xgWUccX8xHp3djl8U3k0qbt42UKd-15EszHzBonwKFq7nlvdVJ8HVAb_EfbEBUkO55d28SP08ZmTn7eoafOw6PcYDSPRecuq/s1600/clamp2.png)
+![Надруковані хомути з нержавійки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif-yCuAn6CsQhDaH9fkkfiLUaoxUsBi1OyFv0GlkrTOOt1L0USjDJs_TFyoZE1hYFiSv7pAkLriXtYL41KAW_HKvfpMbYttX8VtiJr53VNykIgEiQg7HMWAquVFH1U6k-BiXJJr5vsLXGsDEMew1-ODMr4IX2n24a3NEx8Op4N_KsgPmmY88dvb2j09YVZ/s1600/IMG_1315.HEIC)
+![Антена AIS на хомутах на кормовому релінгу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4aJ1mH_iPpLzQ-J2GqXBHWVEG3onjVahN2-6FU-jN_XkPSqnDs9ehEm9niReyQqa2U5eqHSdS3f60jOyTSZk3y_4oinNDwrutpv-tk5zvvVW2UO3M536WobDyp0VO5JMvTB8kq1H_fl0PTso2YWtIIgIGhY_5iw-Yweu913ffi49k1MhmqvgvAQR_NNp/s1600/IMG_1497.HEIC)
+
+Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
+
+## Загадка авторульового
+
+Потім головоломка. Одразу після встановлення транспондера AIS авторульовий не хотів працювати стабільно. Я не одразу пов'язав одне з одним: керувальна програма PyPilot перезавантажувалася кожні 30 секунд, але лише коли AIS був увімкнений. Коротко: Maiana надсилає дані GPS у Signal K як ще одне джерело GPS, а PyPilot падає, бо не може їх розібрати. Я спробував направити PyPilot на демон Linux GPSD з окремим GPS. Біля причалу все працювало, АЛЕ на ходу GPSD чіплявся за застарілі позиції, давав неправильну позицію й швидкість, і мені доводилося перезапускати його щоразу, як він з'їжджав з глузду. Назад до креслярської дошки. Зрештою я просто переорганізував, який GPS що робить. GPS Maiana працює на сам AIS і на Signal K, а окремий GPS на 1 Гц виділено для PyPilot. Більше ніяких падінь.
+
+Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)

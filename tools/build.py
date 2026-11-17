@@ -86,7 +86,7 @@ def read_md(path):
 
 
 def parse_body(body):
-    """Body -> (intro blocks, chapters). Blocks: {"p"}, {"ul"}, {"g": [urls], "src": [links]}."""
+    """Body -> (intro blocks, chapters). Blocks: {"p"}, {"h3"} (### line), {"ul"}, {"g": [urls], "src": [links]}."""
     intro, chapters, cur, para = [], [], None, []
 
     def target():
@@ -102,6 +102,8 @@ def parse_body(body):
             flush(); continue
         if ln.startswith("## "):
             flush(); cur = {"h": ln[3:].strip(), "blocks": [], "links": []}; chapters.append(cur); continue
+        if ln.startswith("### "):  # a small heading inside a chapter
+            flush(); target().append({"h3": inline(ln[4:].strip())}); continue
         m = IMG.match(ln)
         if m:
             flush(); t = target()
@@ -453,6 +455,8 @@ def blocks_html(blocks, lang, alt, rel=""):
                                          f'<img src="{esc(size(u, "w800"))}" loading="lazy" alt="{esc(a or alt)}"><span>{lab}</span></button>')
                 h.append(f'<figure class="pair"><div class="gal pairg">{fig(u1, a1, was)}{fig(u2, a2, now)}</div>'
                          + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
+        elif "h3" in b:
+            h.append(f'<h3 class="sub">{b["h3"]}</h3>')
         elif "p" in b:
             h.append(f"<p>{b['p']}</p>")
         elif "ul" in b:
