@@ -226,3 +226,5 @@ a.mosaic:hover i{opacity:.8}
 .cf-status.ok{color:#2E7D4F;font-weight:600}
 .cf-status.bad{color:#B3261E}
 .cform button[disabled]{opacity:.6;cursor:wait}
+
+h3.sub{font-family:var(--f-display);font-size:24px;font-weight:600;margin:28px 0 8px;text-transform:none}

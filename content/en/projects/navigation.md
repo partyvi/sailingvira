@@ -6,7 +6,7 @@ order: 2
 description: OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC
 ---
- I didn't want to buy a plotter and a box of instruments. I wanted to build my own: a Raspberry Pi with OpenPlotter, a home-made autopilot from an old Autohelm, a wind instrument on a mount I cast right on the mast, and in the end a "NavPod" with real buttons. It took four years, and it's still growing. Engineers never finish; they just release the next version.
+I didn't want to buy a plotter and a box of instruments. I wanted to build my own: a Raspberry Pi with OpenPlotter, a home-made autopilot from an old Autohelm, a wind instrument on a mount I cast right on the mast, and in the end a "NavPod" with real buttons. It took four years, and it's still growing. Engineers never finish; they just release the next version.
 
 ## The old compass
 
@@ -23,7 +23,7 @@ In March the repaired compass and the cup holder went back in place, thanks to m
 
 Diary: [24 Mar 2022](https://irwin34.blogspot.com/2022/03/day-17-31822-starboard-deck-fairing.html)
 
-## speed log
+## Speed log
 
 Earlier, on Day 5, I had pulled the water speed sensor out of its housing. The boat didn't sink; the water coming in was nothing to talk about. There was some growth on the paddle wheel. Cleaned, now it'll be OK.
 
@@ -57,16 +57,15 @@ Here's the Davis wind instrument mount for the masthead, screwed to the starboar
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-Then i changed mind and desided to make other mount.
-
+Then I changed my mind and decided to make a different mount.
 
 ## The wind instrument goes up
-In October I made a different mount for the masthead, cut from a solid 2x2x5-inch aluminum block. A few too many shavings. The main cut done, then the holes. The final product. 
+
+In October I made a different mount for the masthead, cut from a solid 2x2x5-inch aluminum block. A few too many shavings. The main cut done, then the holes. The final product.
 
 ![Machining the aluminum masthead mount on the CNC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8f5JTNBe2wfA_EJKXare6cBL_8xZ1w-PQ6tCvsdo8obRVosZIurvG1zJEFeNwutRWBCi-3nA9G3ga9ejngr6GFA3azKPt-oAJI_pUUuzzRkW2UIVTc2Ay3BXIo4gi_qXIxZ-Pptj18VFHj7NzAMKKMCrHYwIQ3umWlWmxwRld2kg0-ca3x0zWEJvVTw/s1600/IMG_3868.HEIC)
 ![Finished aluminum mount, painted white](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAacvU7pyVWrl6RuXUPnj8i4yCEMSJ7T4fp5ntxFJSGGqRfQB6YOysG4XvRAF_rjauqWbVD1sjVKiGH5JHSZdQMlpiZAF5QnRalZbrQ97VqDwo0iratVWiDXDQCsHSGp0mViaGN-Wa3ihlLg1yvrevNXuOWnvhc-s514uZi7-Forkj5E0Y8ryitc7x5w/s1600/IMG_5361.HEIC)
 ![Davis wind instrument on its mount](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNLNWW6gqLigGOKQB-OY0_vLeoDxc6B4h2PJsw1u0LnJV5-6GepptxM4sTZaRjTfGFfGpTU76aoNNaHMq_pOsuyoHNiy5Ml7n-x3Js-0TC7VNQY9XzELjVaIMGPBzWYugNTEPjLl-v4jitSQX-nfUG7wWa_-Qe2Io0p7Gx58wR5Gbdn5UBQUoXCzzVA/s1600/IMG_5360.HEIC)
-
 
 Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-test-day-water.html)
 
@@ -88,6 +87,7 @@ BUT then we spent about two hours fishing the wire down the mast. The cable isn'
 ![OpenPlotter on the nav station screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygeGEJMIqtrdPnilRKB0t03RticYTHcHxXrnQNhc_Q-NWDX_MhcgyFD2eekgy1q3IrcYeGSC38n1D3mSMNkT_wEfBc32hkg0WprZYX0AqqTg0RVzlMBvdi5Sno1KKznkls6SYPs56pnlu86iBGUrvOPdnwmohD6FEGrz4vNHnh4YRojX_oEVMSN93ZSMT/s1600/IMG_7436.HEIC)
 
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
+
 ## Nav lights
 
 In August 2022 I made back plates for the nav lights. A good try, but they came out about an inch too short. Redesign and cut again.
@@ -111,7 +111,6 @@ Good night, marina. The one with the spreader lights on is my Vira.
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
-
 ## OpenPlotter comes alive
 
 January 2024, the picture of the day: OpenPlotter running on the installed hardware. And inside the electronics compartment.
@@ -128,7 +127,6 @@ Here's the "draft" electronics board for OpenPlotter. The wiring needs organizin
 ![Draft electronics board for OpenPlotter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XDEnhsOwgXngev81Zs2D7ehM6O5h5H0M6QYhF17Xjrzpx7dUBSHssBULzlt02fLy0qsFuMHjkPoRuR1FXjjoqY23qbAss-jVRWpGSXR7hhXVcC257vkwP6LkdfluGua1H5qvpWDmdf79wBI0iDCTlW-J3Ys5xEG4m3WqWtarRbQg9AnNNPsD-TNhqNL2/s1600/IMG_7282.HEIC)
 
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
-
 
 ## A big screen in the cockpit
 
@@ -153,7 +151,6 @@ Then I mounted the display with VHB tape, to hold it and leave a 2 mm gap betwee
 
 Diary: [10 Jun 2023](https://irwin34.blogspot.com/2023/06/day-93-61023-galley-countertop-fit-to.html)
 
-
 ## Planning the autopilot rudder drive
 
 In September 2022 I measured the steering for an autopilot.
@@ -171,11 +168,9 @@ I wanted a 300 mm wheel on the rudder stock, driven by a timing belt. The force 
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% power it'll last forever. Maybe not efficient; we'll see. 4,300 RPM, 4 lb-in, 0.45 N·m. With a 100:1 gearbox and the 8.1:1 belt, that's 0.45 x 810 = 364 N·m, and 4,300 / 810 = 5 RPM at full power: 11 seconds per turn, or 2.5 seconds lock to lock. I'll need to limit the speed.
-(Spoiler: this plan never got built to final design. A year later I found a used Autohelm for a very reasonable price. I sourced and made 80% for this project and 80% parts still sit in my workshop).
+The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% power it'll last forever. Maybe not efficient; we'll see. 4,300 RPM, 4 lb-in, 0.45 N·m. With a 100:1 gearbox and the 8.1:1 belt, that's 0.45 x 810 = 364 N·m, and 4,300 / 810 = 5 RPM at full power: 11 seconds per turn, or 2.5 seconds lock to lock. I'll need to limit the speed. (Spoiler: this plan was never built to the end. A year later I found a used Autohelm for a very reasonable price. By then I had sourced and made about 80% of the parts, and they still sit in my workshop.)
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
-
 
 ## A used Autohelm becomes a smart drive
 
@@ -198,9 +193,7 @@ To make it a smart drive I used Sean's mid-power motor controller instead of eng
 ![Drive and controller on the desk at home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJl9hXqD1SoSHP-yjvDk48JQZ_II2I9iV6QOrHuAmIftwK4rZ9_4hDLDVrFU6Y75NeCP_KKF8yxWacuJ4Q7RNvFzoJTovdgGhJv_6d9OG6NQVFMjCnr26UU_exivxXh5dg6nr4NL-8OFtYXnLpghHUBvf4fbOe1EgICIh3Y2JGctYO4zB6kVkOPFxj30Vh/s1600/IMG_7763.HEIC)
 ![Drive tested on the desk with a battery](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifkpW4enqZC-tpbDpgW52hVYlaLJGnUFTwug-aOlKe73GznZgppLRQh8qXY19l-n54uHSAt-r4yee4U9xXCJ3ihI-kOLhky9I5BGjKjswm1iIgoP56C0ordmWx2D6ISZ4nZkEAgLTM8MiMhpYtg-8NVgjXLS2MdeL-PxOHmUoKOGDhqhlH2NeD_ql3owm_/s1600/IMG_7766.HEIC)
 
-
 Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
-
 
 In April the drive was wired to the Raspberry Pi. It turns the rudder easily and fast. There were no end switches or rudder sensor yet, so no wild play. In the video the motor power is at 10%, and the wheel turns by itself, from the computer. I couldn't wait for the safety switches and a full-speed test.
 
@@ -208,10 +201,9 @@ In April the drive was wired to the Raspberry Pi. It turns the rudder easily and
 
 Diary: [21 Apr 2024](https://irwin34.blogspot.com/2024/04/day-139-421-autopilot-drive-connection.html)
 
-In May the IMU went on a gimbaled mount: the small black box. 
-Technically I do not need it gimbled i can just calibrateit right, later i just put it on the base board. 
+In May the IMU went on a gimbaled mount: the small black box. Technically it doesn't need a gimbal; I can just calibrate it right. Later I simply put it on the baseboard.
 
-## small 3d projects
+## Small 3D projects
 
 ### Spotlight holder
 
@@ -221,7 +213,9 @@ I designed and printed flashlight holders, so I stop hunting for my "landing lig
 
 Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
 
-###IMU gimbaled mount
+### IMU gimbaled mount
+
+A gimbaled mount for the IMU, printed at home.
 
 ![IMU on a gimbaled mount in the locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VMc5-2UWE0rdWXSd0zaR-CPuewNqxe7ZgaTG6BB-SyyoulDcref0fhQMreof07xbxuUDWmMk2VNwxlkjbIrVeyJWAN7kmjzdPD1vuGqEWtdh2aLQ_ANVZVWeXyGOB0RkyHqXpbQ9WJbErZNprMre1Xx3tr75cfxaWLnrDhIU7HwoDvk_Dq8JEG8rr0N9/s1600/IMG_8203.HEIC)
 
@@ -367,10 +361,6 @@ Right module: mouse mode, lock, and KEY/NUM. In mouse mode the arrows move the c
 
 Story page: [Helm instrument console](https://irwin34.blogspot.com/p/pedestal-helm-instrument-console.html)
 
-The radar and its home-made mast mount have their own story: [Radar mount](../radar-mount/).
-
-
-
 ## The NavPod is finished
 
 May 2026: a weekend of NavPod software. It's a second Raspberry Pi head unit at the helm, with a 7-inch, 2,000-nit display, adjustable from 0.005% to 100%, talking to the main computer's Signal K, PyPilot and other apps. It has 26 buttons and mouse simulation. The left panel: power, a dedicated MOB button (it saves the position, opens OpenCPN and drops a MOB mark), AIS TX on/off, three app buttons, and the autopilot: mode (compass, wind, GPS, true wind, nav), AUTO/STBY, ±1°, ±10° and tack. The right panel: mode buttons (keyboard, numpad, mouse, lock), arrows with OK, and Enter, Esc and Tab.
@@ -411,6 +401,8 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 ## Radar
 
+The radar and its home-made mast mount have their own story: [Radar mount](../radar-mount/).
+
 March 2026: 24 small things in two weekend days. The radar went on the mast. Simple, except that the bracket had bent a little and the rear holes didn't line up, so I drilled them out a bit for the bolts. The other challenge was lifting the radar up the mast safely. It's round, with nothing to tie a rope to. And I riveted a plate for a Ring camera onto the radar mount, to watch the docks, especially in really bad weather.
 
 ![Radar on the mast at Kemah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSaO3fX0AHkTYtkuBXQtKVuvANBGa3m9wM0QZbW-N-5mnh7x9KgEjF0hmNKzmyEa1UbBob_Zp6bhpiE8TevBTbjxe4vC2LeaFdhHEvZ_v4cwiCQeI43jT_4mNas1pNHgseJ9o6k30E-2ZlUXXBpb34H_Erla2Y498G-5nfzdj32q0_Oc08e26LdyBe28LU/s1600/IMG_0919.HEIC)
@@ -419,49 +411,42 @@ Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind
 
 ## AIS troubles
 
+The Maiana AIS went together, mounted on 6 feet of stainless tube on the back rail, with the cable protected with heat shrink and run into the cabin.
 
-The Maiana AIS went together, mounted on 6 feet of stainless tube on the back rail, with the cable protected with heat shrink and run into the cabin. 
+Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
-The Maiana AIS somehow got water inside, and the GPS died, although the AIS receiver still worked. Cleaning and drying didn't help. Before I throw the board away, I'll try replacing the GPS. 
-During repair I found one transistor and inductor blown out.
-
-Board sas cleabed up, GPS module replaced and board covered with dood conformal coating.
-
-And the best thing, after repair it started working.
+Then the Maiana somehow got water inside, and its GPS died, although the AIS receiver still worked. Cleaning and drying didn't help. Before throwing the board away, I decided to try replacing the GPS. During the repair I found a transistor and an inductor blown out. I cleaned the board, replaced the GPS module and covered the board with a good conformal coating. And the best part: after the repair it started working.
 
 ![Maiana AIS transponder board](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoudPsAEQQtxT8OjpAta3Gl8couofbwyTZBjSJyhE823fi2NkzBEDlud5Gg8R1z5Di6QvbtE0RgBIPp7Z-NzxMdrk90JsRPybjGzM5ofFcwPzcfpMhzMyLkx1Wslbqdtd2bl6BF4YoF-vUY_80c3D1lPJza8NLheJm-VGzlcFo2JpUbZ98erUhi1SgAhK/s1600/IMG_1156.HEIC)
 ![Water damage on the AIS board's GPS module](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMNqCSyFalKzeKct-Kx8UI0V-dz6xD41A0JLlJ30gTu57_2m8p_gaSpM8RFMxYP2NhSdVnom-2tklg5yksK5Tsj5cqOGufE5JUh-AU4sSKQJI8DR9t7MpI0u9_FKxA79R6O7WL5T3PTzJU2hYLjRuwRWsqbBIPYSg2Ey7fA7MPuOqBCh-q18zPyyu9Q0V/s1600/IMG_1157.HEIC)
 
-## new Fifi/internet setup
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 
-I anded a MikroTik router. I switched the 4G router to modem-only mode for internet; the MikroTik is the Ethernet switch for the radar, and I prefer Mikrotik for Wi-Fi too. The masthead camera started working once I switched to it.
+## New Wi-Fi and internet setup
+
+I added a MikroTik router. I switched the 4G router to modem-only mode for the internet; the MikroTik is the Ethernet switch for the radar, and I prefer the MikroTik for Wi-Fi too. The masthead camera started working once I switched to it.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
+## A 3D-printed steel clamp
 
-## 3D-printed steel clamp
+Another letdown: the "aluminum" antenna pole bracket was actually chrome-plated zinc alloy, and it fell apart in three weeks at sea.
 
- Another letdown: the "aluminum" antenna pole bracket was actually chrome-plated zinc alloy, and it fell apart in three weeks at sea.
-![Corroded aluminum clamp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkk2bptdE4z2hnsVu706sdCaLvY5tBSUfissTyy8o9HPss0ycY93TBijdnUGlijYLkhFWJiiFhBlLgyc24EmM5AA1naJyBsF52b6r1jgrd7T2PFoHPHVt6_VZP2X6aSWujRMbXdMZbnJYeMUXO4fbBcGmnS0Msrl1FqPh2SKEsfSZfWoQKtMRDfbgl_noC/s1600/IMG_1158.HEIC)
-![Broken zinc-alloy AIS antenna bracket](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWotNWzebvT9ml2E5TMHcqp6Q_a57rL4VjCev3tUTNUGHypmDzF6z7X_6_DWBOEiYMVSSqiQ0Y73DVX1A2DmMQsrM73dGUsWzZrDZLHS9chlGJodmAeWHrW2A9xuwLZzEIMNcdtgclxOTqDByRVRt0RcocpWE6HN4Y4ZqB-EKWTzIlRv4tRKn23L_bJqm/s1600/IMG_1158.HEIC)
+![Broken zinc-alloy AIS antenna bracket](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkk2bptdE4z2hnsVu706sdCaLvY5tBSUfissTyy8o9HPss0ycY93TBijdnUGlijYLkhFWJiiFhBlLgyc24EmM5AA1naJyBsF52b6r1jgrd7T2PFoHPHVt6_VZP2X6aSWujRMbXdMZbnJYeMUXO4fbBcGmnS0Msrl1FqPh2SKEsfSZfWoQKtMRDfbgl_noC/s1600/IMG_1158.HEIC)
 
+Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
 
 The Maiana sits on the end of a 1-inch tube. To attach it to the stern rail I tried aluminum clamps from Amazon, and they were completely wrong for a boat. This is what one looked like after two weeks in Houston. Clamps for two parallel 1-inch tubes are almost impossible to find, so I designed my own and ordered them printed in 316L stainless from JLC3DP in China, four for $40. A week later they arrived, and I was surprised how well they were printed. After sanding they look like solid metal, and they are solid metal. Here are the clamps in place.
 
 ![3D model of the stainless clamp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg30ThmqJ_JGeSyvVeyYyzhWBrAlsdg8Am6Zjfsk04MpGdR2e0VNNzn5-eodeuHMqlw8Bb79IVfSKgseorXcZHaCXF1Nqd_xgWUccX8xHp3djl8U3k0qbt42UKd-15EszHzBonwKFq7nlvdVJ8HVAb_EfbEBUkO55d28SP08ZmTn7eoafOw6PcYDSPRecuq/s1600/clamp2.png)
-Diary: [30 Apr 2026](https://irwin34.blogspot.com/2026/04/days-263-264-relaxing-weekend-with-my.html)
 ![3D-printed stainless clamps](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif-yCuAn6CsQhDaH9fkkfiLUaoxUsBi1OyFv0GlkrTOOt1L0USjDJs_TFyoZE1hYFiSv7pAkLriXtYL41KAW_HKvfpMbYttX8VtiJr53VNykIgEiQg7HMWAquVFH1U6k-BiXJJr5vsLXGsDEMew1-ODMr4IX2n24a3NEx8Op4N_KsgPmmY88dvb2j09YVZ/s1600/IMG_1315.HEIC)
 ![AIS antenna clamped to the stern rail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4aJ1mH_iPpLzQ-J2GqXBHWVEG3onjVahN2-6FU-jN_XkPSqnDs9ehEm9niReyQqa2U5eqHSdS3f60jOyTSZk3y_4oinNDwrutpv-tk5zvvVW2UO3M536WobDyp0VO5JMvTB8kq1H_fl0PTso2YWtIIgIGhY_5iw-Yweu913ffi49k1MhmqvgvAQR_NNp/s1600/IMG_1497.HEIC)
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
-
 
 ## Autopilot puzzle
 
 Then a puzzle. Right after I installed the AIS transponder, the autopilot wouldn't stay running. I didn't connect the dots until later: PyPilot's control program was rebooting every 30 seconds, but only when the AIS was on. Long story short, the Maiana sends GPS data to Signal K as another GPS source, and PyPilot crashes because it can't parse it. I tried pointing PyPilot at the Linux GPSD daemon with a separate GPS. It worked fine at the dock, BUT underway GPSD locked onto stale positions, giving the wrong position and speed, and I had to restart it every time it went into the weeds. Back to the drawing board. In the end I just reorganized which GPS does what. The Maiana's GPS works for the AIS itself and for Signal K, and a separate 1 Hz GPS was dedicated to PyPilot. No more crashes.
 
 Diary: [11 May 2026](https://irwin34.blogspot.com/2026/05/days-265-266-elci-replacement-mast-re.html)
-
-
-
-
