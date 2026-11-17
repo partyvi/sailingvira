@@ -3,7 +3,7 @@ id: head-shower
 title: "Гальюн і душ"
 section: interior
 order: 8
-description: "Стіни душу, шафка в гальюні, унітаз і душ, якого так і не збудували."
+description: "Стіни душу, шафка в гальюні, душ, що береже воду, і справжній унітаз."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC"
 ---
 Гальюн на старому човні — це приміщення, про яке ніхто не хоче говорити. Мій привітав мене першого ж дня, плюнувши мені в обличчя пів літра старого пі-пі-ка-ка. Тож так, роботи там вистачало. Ось як він пройшов шлях від цього до білих стін, справжнього душового піддона, душу, що економить воду, і нарешті унітаза, який схвалила моя дружина.
@@ -27,6 +27,12 @@ cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN
 ![Почищене і перефарбоване місце під шафкою гальюна](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkpdRMOyKlSOevf19FbuZ7EHIFtwxG0UCULc5A-7svxK9UAEoajyPN1L6BUaj6DUKwLthxEkPQDdMyRpIckUyqVsJM3M6POwwk-ASJn0YO7jPLSlkrUurWw7FEcWAffSNSwZLapdOPzvUmCNKIHWFbBsDXcUrZoB2I-aLJPVmLVT4Dhb1Eg0SJsAEccA/s1600/IMG_3736.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
+
+У грудні 2022-го я злегка пошліфував гелькоут шафки в гальюні, просто щоб освіжити.
+
+![Шафка в гальюні з легко пошліфованим гелькоутом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPJw6mM-aYBVRiS-eZHM_GmV07rQNC74i_-Y_urLIeM8wyDzyrBN3QtnSWpavP0cR7-HrcGbVluEXrwb5e_P-m6As_OjQPMyipEI32DXTKGV-W9KpaZlCT5DRz-Cx5pWurxo4Dv_8_HwE7l97wIwpHptOqneUTk_cuvp07ArMnbIQcPrcg7zhHpl4cmw/s1600/IMG_4325.HEIC)
+
+Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
 У лютому 2023-го я зробив нормальну фанерну плиту під біотуалет, з упорами, щоб на хвилі він не бігав по гальюну, і обрізав зайвий санітарний шланг.
 
@@ -100,13 +106,6 @@ Diary: [5 Feb 2023](https://irwin34.blogspot.com/2023/02/day-77-24-2523-swower-b
 ![Гальюн заклеєний, готовий до фарбування валиком і пензлем](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOI_cv8yZ3IiqzbXMAoPdtM-tm0xrU0UQrudHwG7L9UBJC2wzPiA0hZqhULk6wPTgvgbiVFRTYMcDCwVfPb_RpW3utIxiRMhtBaDpUKuf7CT89Zhib_90AkMhevLd1hpcMZn_5pcrhFBjVm1M9pbHYkMZO1oyQk0FxgJERAhAFO3STBnuL4b1GwYNjVQ/s1600/IMG_5110.HEIC)
 ![Стінки гальюна пофарбовані в біле](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjULGyBmWlqKPK2-gFZHQwpAjz1o6j4-7Ti7YLMnfwa_0d95FzDKkYAc3spqUPjKd867tQO_rJj2xHtlZiGjdFJmLQE8DGL3kNtQhIxNn6HZxhVTOENi3bjCBypblbeZAlxd4kFS5bNODq6yaQ3EijsdVmcrpihW1dDxm15zq86SYY4iF4IQrPME8PJIQ/s1600/IMG_5133.HEIC)
 ![Віктор на сонці на марині](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8qDsD8RjHUHYdQcFN_o21IjfR0ilNYAcA818TrvIJeqpSCpSwTqAFFf0aY2vRhaGRB6V1DQO2F3hIy6_IFgDCmSRu8Y0_VeuOA8_-CQxVsHb7Jl0DMNuoEeT4uHnkeyAYLPYhiWM_Z-_HWTiMhH76SH4kVmWnfzO18l7GAnA7rvuANbK662JUFPPsqw/s1600/IMG_5509.HEIC)
-
-Diary: [11 Feb 2023](https://irwin34.blogspot.com/2023/02/day-78-211-shower-walls-prep-and.html)
-
-І ще один вигляд човна ззаду. На фото важко побачити, яка вона широка. Мені подобаються дівчата з формами.
-
-![Віктор у респіраторі після фарбування гальюна](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCzTJUshu8o9AjGdj2rcI4kNtIQh_rg1e1QRGPH25RE0jBTnzGuFL_MMHyypMwMBGtEAR3wAn0DshfFNiKVj36lGDtDPdfxCH7PFPzRXN9RQmc1eQRuBm74k-QNjUXPECfP-c24pjnnSNoL3Kud1KWHnVl53OOwck9i_ydycFVxWoGYGfZjkk4EVt0Og/s1600/IMG_5511.HEIC)
-![Вітрильники на марині озера Тревіс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGlGciJ9yeMQtiMWcF4f67Qie7IdIWHLswuVkGiuv-RCmrqpZphlNt-npSzjAgzFF4uvUEcFTOBAo6HVmDyoh6UVqJ8O5IY9Zpjk9GxaeG7iWvV1R11oxV02keEibi8GJIpYbNlaQPN5uNM4zH51-kdgIGXMIvnjzK2nockIja7CI1vSBUU_a05mEHeg/s1600/IMG_5107.HEIC)
 
 Diary: [11 Feb 2023](https://irwin34.blogspot.com/2023/02/day-78-211-shower-walls-prep-and.html)
 

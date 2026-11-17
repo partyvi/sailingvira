@@ -83,7 +83,6 @@ Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-co
 
 Good night, marina. The one with the spreader lights on is my Vira.
 
-![Front cabin cabinet under construction](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPJw6mM-aYBVRiS-eZHM_GmV07rQNC74i_-Y_urLIeM8wyDzyrBN3QtnSWpavP0cR7-HrcGbVluEXrwb5e_P-m6As_OjQPMyipEI32DXTKGV-W9KpaZlCT5DRz-Cx5pWurxo4Dv_8_HwE7l97wIwpHptOqneUTk_cuvp07ArMnbIQcPrcg7zhHpl4cmw/s1600/IMG_4325.HEIC)
 ![Marina at night, Vira with spreader lights on](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Zz9DsL7j8quZKN_YOPhkfcjGf4FuciZMSACya8bYI-gU1OrUaASLP3mTC4MDkCX-Re2shKjxTiC86nwzPwuLhlQPj7m992ljeAi-f8n88IZQaZButthe42516l43QKL7cpUXozVL0rM2qNns3l_CUMFKtgLq2cnhRHelK63vmKppKEJopI8nvaQIrg/s1600/IMG_4329.HEIC)
 
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)

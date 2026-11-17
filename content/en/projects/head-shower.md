@@ -3,7 +3,7 @@ id: head-shower
 title: Head & shower
 section: interior
 order: 8
-description: Shower walls, head cabinet, toilet and the shower that was never built.
+description: Shower walls, head cabinet, a shower that saves water, and a real toilet.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC
 ---
 The head on an old boat is the room nobody wants to talk about. Mine greeted me on day one by spitting half a liter of old pee-poo into my face. So yes, it needed some work. Here's how it went from that to white walls, a real shower pan, a water-saving shower, and finally a toilet my wife approves of.
@@ -27,6 +27,12 @@ Then I cleaned and repainted the area under the head cabinet and the toilet base
 ![Cleaned and repainted area under the head cabinet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkpdRMOyKlSOevf19FbuZ7EHIFtwxG0UCULc5A-7svxK9UAEoajyPN1L6BUaj6DUKwLthxEkPQDdMyRpIckUyqVsJM3M6POwwk-ASJn0YO7jPLSlkrUurWw7FEcWAffSNSwZLapdOPzvUmCNKIHWFbBsDXcUrZoB2I-aLJPVmLVT4Dhb1Eg0SJsAEccA/s1600/IMG_3736.HEIC)
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
+
+In December 2022 I lightly sanded the gelcoat of the head cabinet, just to refresh it.
+
+![Head cabinet with the gelcoat lightly sanded](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPJw6mM-aYBVRiS-eZHM_GmV07rQNC74i_-Y_urLIeM8wyDzyrBN3QtnSWpavP0cR7-HrcGbVluEXrwb5e_P-m6As_OjQPMyipEI32DXTKGV-W9KpaZlCT5DRz-Cx5pWurxo4Dv_8_HwE7l97wIwpHptOqneUTk_cuvp07ArMnbIQcPrcg7zhHpl4cmw/s1600/IMG_4325.HEIC)
+
+Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
 In February 2023 I made a proper plywood plate for the porta-potty, with holders so it can't run around the head in a seaway, and cut off the extra sanitary hose.
 
