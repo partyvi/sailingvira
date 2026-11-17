@@ -197,7 +197,7 @@ To make it a smart drive I used Sean's mid-power motor controller instead of eng
 ![Motor controller board inside the drive housing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1uHGN3EpQi2N7UXpUJwzF3MHMwSoh3RIV65vycBR4LwUbavRdJ2VdSO34BpYjUYpifTCdt58F4CaY-1X-HhL9gzxyX-CsuGrb7W0MnsOrdkNn4yiekPO35Lsf5h0Fq6k8gMEIIK7PPs_vjbXaj7nohFFau0r06QyPRr6uBB0WbCd6CZesyp_cN7KhN_1v/s1600/IMG_7764.HEIC)
 ![Drive and controller on the desk at home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJl9hXqD1SoSHP-yjvDk48JQZ_II2I9iV6QOrHuAmIftwK4rZ9_4hDLDVrFU6Y75NeCP_KKF8yxWacuJ4Q7RNvFzoJTovdgGhJv_6d9OG6NQVFMjCnr26UU_exivxXh5dg6nr4NL-8OFtYXnLpghHUBvf4fbOe1EgICIh3Y2JGctYO4zB6kVkOPFxj30Vh/s1600/IMG_7763.HEIC)
 ![Drive tested on the desk with a battery](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifkpW4enqZC-tpbDpgW52hVYlaLJGnUFTwug-aOlKe73GznZgppLRQh8qXY19l-n54uHSAt-r4yee4U9xXCJ3ihI-kOLhky9I5BGjKjswm1iIgoP56C0ordmWx2D6ISZ4nZkEAgLTM8MiMhpYtg-8NVgjXLS2MdeL-PxOHmUoKOGDhqhlH2NeD_ql3owm_/s1600/IMG_7766.HEIC)
-![Head corner with the final trim](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyYyK-XVW-nRaQ-jbzTH1nBdWnclbPQDraBXGSd3Cgdu-TJnblI7aGfUUALBwQSI3vJ5GQpm1jV8GAKAZnf3YbyLZUVCgfH4ByheTKtScfbSvnTcx3zLD1MYhb2ZIOx_YRpISe4U3W3hDFm663cv-QoFarsrGUU4Z6jRW4VpNpZgfwDu23dRs4zDspYKc/s1600/IMG_7749.HEIC)
+
 
 Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
 
