@@ -30,6 +30,19 @@ The original "bow roller" doesn't fit ANY anchor. On a 34-foot boat it looks mor
 
 Story page: [Windlass & chain locker](https://irwin34.blogspot.com/p/windlass-in-irwin-citation-34-78.html)
 
+The planning started a year earlier, in July 2023: where the windlass and the anchor roller go. It looked like that build would move to winter. Some detailed bow photos and measurements.
+
+![Planning the windlass and anchor roller](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje28I4IhuIyJ51FPjUT5SnIK7V11tdyZKnqGOS--Txt6Z6ulA6a5qvcH5DJEsrvvXYOFkdVP7rymYPynrpcJxI6kdCfxSaEi1tOSwpD7OV45zPnYh7GKhfDVxX_-ZuHJAPg2kwWv1PAuMdWJMOPTrG_8iR44qRpWiUqKRs8YmmMQygwtg49-W2HKkXlaI6/s1600/IMG_5977.HEIC)
+![Bow details and measurements](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibeR7xjA7MEsHv0kxJIGY7ajcLbrkGkXA4CqUG8MNFttkBBzpnATF0lBh9Tj-7x8ejg5o2EjknBLleWcFFU0DZioef8EONYW7r3fzFnwWCl9XdinR3NoSQFp6vhoYMd1Bk-lLQvOtx3KZc6hR1BVaTzKtbx4PYqHS5aRk0SzjXZSwEozoAWRTjPB41LOyf/s1600/IMG_5988.HEIC)
+![Bow details and measurements](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhifU__6zv8FIob5o0U_9pFCSVFNeHSL7YsaLszMapidLCShPMjB1hK45bjwxoKwPxKyp8IGngsPLEqw_RbMUzlMjtIfFe3Vt_kDiQ5i3-10nlEjnDngpfnc8qhdzQmLzPNquV5E5pQ09lI8sS9L_FAN6QCSuHmQM7Uy_yHpPw7mq0ZHrto_kE8DgIGdGLc/s1600/IMG_5987.HEIC)
+![Bow details and measurements](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyDnM9adLIvEAYk3n2cU04aaYjIa1UTYjJF33ox1vufSX4ty6qgb49BO8ONU3ASg-GS4t7touJViR3hrxnslbJwauOFFu7VWC4aMLfxz50_bNJdcXHTf-i54LJO6cBvrFho46Nxv_r50iDFEomWnT7uLp1_6ygtCu_xjuqA1kvM2kWzo0x_tZMnBZmutf6/s1600/IMG_5986.HEIC)
+![Bow details and measurements](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZAevPKjwEl5LIyxz7ysqaqx8dAcln1o3IBHDr47tnINpJjsh0IaCO-vBgmt2p6-nFu1-L0Nb9YI54_PcDSNsE5R_h720K5Ahm3eSDiYhn-lf_rt3FS-1UhKwQxKGdKSKtbmFdnkA158kVbZPZOc48u8De7ta9LmBFuNFESX8lwqbogupkSNq8tFxPllcB/s1600/IMG_5984.HEIC)
+![Bow details and measurements](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgof454F0NZ_xWENwfjPavPaBjPAoodpJHWkTT6LTdwLtZXzqwZEkoxf_R19NqmsJq0izSfsSw121oxRISOa-2GNwGpey0vsBZ4skHS7M-hK291hE1b7V6VM0GDM1tTmv68dgJa4jrsZd3P46SWIllFSbH3tQKqSkpsxG8O4X04wwNOrHdweJPdqW5mCRm9/s1600/IMG_5983.HEIC)
+![Bow details and measurements](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMEdR0uDEDb2Ou0_ieQYj4MfMinXZyWEBUPsJmDKHGo9Jbq9kUdggITmqDJYLr1N593Wtnl3onncXan4aQSArG5mQ5iWE9PPWCx_GuniZ-IePYIF4PANQKD2bSHeh6dDhFwpqpJONsnzG_nV5zlk8un6gCuBaoGZmo6ysRBy-3E9ckevO3fxYdBlRdcIT1/s1600/IMG_5981.HEIC)
+![Bow details and measurements](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ-gUN-RPX9xHJKJYIkcaPleoD7H3TtB9IsrqtXJx2STnToqZoXpgr1kotiq43lxu6d9JzxAffkYv6mQPt5nf3WmRUX5-Yws1QHJAe6G7bEtXU85oA0kSU1E30RuEKikcA_MfLUcC7zV3nzQ9JHlQ3Pdycp71A1LeNAHly-c5b2Bp1LJUtBV_eFkHJ8M_u/s1600/IMG_5979.HEIC)
+
+Diary: [1 Jul 2023](https://irwin34.blogspot.com/2023/07/day-96-7124-electric-panel-buld-galley.html)
+
 In June 2024, right after the deck was painted, I cut out the starboard roller plate, very roughly dry-fitted the new chain roller, and measured the chain locker.
 
 ![Bow fitting where one plate was cut off](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoZRJuYUzHEBB3bSpLWQZMcQEmoBaeo3tilE6fJVQy30tu6S04nt_pHE0oLEZhj4OlScxqb84zKYIXp3oRf6TUMptmdaTE1OYhEzh7o5tdxBrNZri3KJQUE-_NVN04tc_7QLh6cqA0Oz2b_evCTfI8h7FhD0-6B_833E99p_2Yu9lBkv13Rjb6EBchUrI/s1600/t1.png)

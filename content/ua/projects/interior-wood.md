@@ -314,17 +314,9 @@ Diary: [15 Apr 2023](https://irwin34.blogspot.com/2023/04/day-85-41523-refrigera
 
 ## Стінка до кокпіту
 
-Липень: шаблони для «задньої» стінки. І планування положень брашпиля й носового ролика. Схоже, ця робота переїжджає на зиму. Кілька детальних фото носа й вимірів.
+Липень: шаблони для «задньої» стінки. Того ж дня я планував брашпиль і носовий ролик; ці фото — у [Брашпилі, ланцюговому ящику і якорі](../windlass/).
 
 ![Шаблони задньої стінки](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhawfBOTysdiG6NZV24k4N47NKfTwYNz9q-DC7Ib4D9ArNsgq0xj7D8b5t_nnsmfvizCWVxBSlqjSSWOhY3ei3pbdyYw11rW5qDS387NIbmB7Genu-UDvR66-qCaezcXcbmpkYk2VExCuofHixh6HSARwDf7NhFL98s1qjm9LTjqgNiAPEr7htCIQ_-_Ltl/s1600/IMG_6070.HEIC)
-![Планування брашпиля і якірного ролика](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje28I4IhuIyJ51FPjUT5SnIK7V11tdyZKnqGOS--Txt6Z6ulA6a5qvcH5DJEsrvvXYOFkdVP7rymYPynrpcJxI6kdCfxSaEi1tOSwpD7OV45zPnYh7GKhfDVxX_-ZuHJAPg2kwWv1PAuMdWJMOPTrG_8iR44qRpWiUqKRs8YmmMQygwtg49-W2HKkXlaI6/s1600/IMG_5977.HEIC)
-![Деталі носа і заміри](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibeR7xjA7MEsHv0kxJIGY7ajcLbrkGkXA4CqUG8MNFttkBBzpnATF0lBh9Tj-7x8ejg5o2EjknBLleWcFFU0DZioef8EONYW7r3fzFnwWCl9XdinR3NoSQFp6vhoYMd1Bk-lLQvOtx3KZc6hR1BVaTzKtbx4PYqHS5aRk0SzjXZSwEozoAWRTjPB41LOyf/s1600/IMG_5988.HEIC)
-![Деталі носа і заміри](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhifU__6zv8FIob5o0U_9pFCSVFNeHSL7YsaLszMapidLCShPMjB1hK45bjwxoKwPxKyp8IGngsPLEqw_RbMUzlMjtIfFe3Vt_kDiQ5i3-10nlEjnDngpfnc8qhdzQmLzPNquV5E5pQ09lI8sS9L_FAN6QCSuHmQM7Uy_yHpPw7mq0ZHrto_kE8DgIGdGLc/s1600/IMG_5987.HEIC)
-![Деталі носа і заміри](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyDnM9adLIvEAYk3n2cU04aaYjIa1UTYjJF33ox1vufSX4ty6qgb49BO8ONU3ASg-GS4t7touJViR3hrxnslbJwauOFFu7VWC4aMLfxz50_bNJdcXHTf-i54LJO6cBvrFho46Nxv_r50iDFEomWnT7uLp1_6ygtCu_xjuqA1kvM2kWzo0x_tZMnBZmutf6/s1600/IMG_5986.HEIC)
-![Деталі носа і заміри](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZAevPKjwEl5LIyxz7ysqaqx8dAcln1o3IBHDr47tnINpJjsh0IaCO-vBgmt2p6-nFu1-L0Nb9YI54_PcDSNsE5R_h720K5Ahm3eSDiYhn-lf_rt3FS-1UhKwQxKGdKSKtbmFdnkA158kVbZPZOc48u8De7ta9LmBFuNFESX8lwqbogupkSNq8tFxPllcB/s1600/IMG_5984.HEIC)
-![Деталі носа і заміри](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgof454F0NZ_xWENwfjPavPaBjPAoodpJHWkTT6LTdwLtZXzqwZEkoxf_R19NqmsJq0izSfsSw121oxRISOa-2GNwGpey0vsBZ4skHS7M-hK291hE1b7V6VM0GDM1tTmv68dgJa4jrsZd3P46SWIllFSbH3tQKqSkpsxG8O4X04wwNOrHdweJPdqW5mCRm9/s1600/IMG_5983.HEIC)
-![Деталі носа і заміри](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMEdR0uDEDb2Ou0_ieQYj4MfMinXZyWEBUPsJmDKHGo9Jbq9kUdggITmqDJYLr1N593Wtnl3onncXan4aQSArG5mQ5iWE9PPWCx_GuniZ-IePYIF4PANQKD2bSHeh6dDhFwpqpJONsnzG_nV5zlk8un6gCuBaoGZmo6ysRBy-3E9ckevO3fxYdBlRdcIT1/s1600/IMG_5981.HEIC)
-![Деталі носа і заміри](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ-gUN-RPX9xHJKJYIkcaPleoD7H3TtB9IsrqtXJx2STnToqZoXpgr1kotiq43lxu6d9JzxAffkYv6mQPt5nf3WmRUX5-Yws1QHJAe6G7bEtXU85oA0kSU1E30RuEKikcA_MfLUcC7zV3nzQ9JHlQ3Pdycp71A1LeNAHly-c5b2Bp1LJUtBV_eFkHJ8M_u/s1600/IMG_5979.HEIC)
 
 Diary: [1 Jul 2023](https://irwin34.blogspot.com/2023/07/day-96-7124-electric-panel-buld-galley.html)
 
