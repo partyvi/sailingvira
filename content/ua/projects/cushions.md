@@ -26,7 +26,6 @@ Diary: [16 Feb 2025](https://irwin34.blogspot.com/2025/02/day-188-engine-mount-a
 Робити подушки я вчився за відео Sailrite, і це дуже допомогло. Подушки носової койки дуже схожі, але права має навмисно заокруглений кут. Одне фото, а роботи близько 8 годин. Їх ще треба трохи відпарити. Непогано як для перших подушок у моєму житті?
 
 ![Нові подушки носової койки на підлозі вдома](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
-![Нові подушки носової койки, інший ракурс](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 
 Diary: [6 Apr 2025](https://irwin34.blogspot.com/2025/04/day-194-stared-remake-cabin-cushions-v.html)
 

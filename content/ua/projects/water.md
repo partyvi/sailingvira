@@ -127,7 +127,6 @@ Diary: [13 Nov 2022](https://irwin34.blogspot.com/2022/11/day-60-116-front-water
 ![Просвердлений отвір розчищений перед латанням](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5J6YMyd4_rIFNjRcca6Ay_OhaLhBAnU016fbPfxkgIVRWgmhr18c0rjDWl0Bww0RntA56rb8BBYjqInQmjl4V2hybFDCmoKjU0SJD74fHBMe1qFoT6Gi4OZfME7PQhlxPls7KGxBxGYiY7ouK4DN8KBs7MGUpPDtvXIjDjdFa97MffWsWqmCeRYdFww/s1600/IMG_4166.HEIC)
 ![Передній бак зсередини, зашліфований і залатаний](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYinBJtZZzWGnK-ATtBnht_dup20GQFKHnNkf0QfbNNtRLsBe98X-uM8xtnFJ26d45R1OJ3j0Tr_eVH_oo6c4ZoPABA61uMgsDWnwmj-pEckkMz6UYumfK8i4NoTyEnym1uSXB7lO1Cna7pm0dw0g5wunQi5P1Wyx257eVsgVKNWdX0d8OeafTJp8i3g/s1600/IMG_4230.HEIC)
 ![Передній бак, покритий епоксидкою для питної води](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dWplLCWJPH_W4dJwHleoFpduQHnRuImeEJG_i_hiIr5tkXM7vFPSJlWRIipB87QHYMIu8Hl1eHxqwYuSz0bQJTTjcxdx8XZmLqvYhkbTx0azn4scuPVf9F6NZd3ZD6dC7GZQ4yRLKd3jhYrCZVMa2tWQfGxypTHsEvxqcLiSAdVRghLFsQaKlr7r0A/s1600/IMG_4235.HEIC)
-![Передній бак із новою кришкою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Llw0acWthMfCtJO-wlI5G-uNRjTJ-WiiwJrkVH1KOJMeXdMalfnQtNzoSnYozu6iNjeyxmlfUuUANbzpQB6h7awK40brVZgPiTCyXw9-XuQnuKv-RZakv2G6zAHy-6DO97Pxs6AjTeQ3VVhkS_cs_8wMWp6d2LsIn4cFojz6pSsaoCDr9pYbhQnSEw/s1600/IMG_4239.HEIC)
 
 Diary: [26 Nov 2022](https://irwin34.blogspot.com/2022/11/day-63-65-112422-112622-main-fresh.html)
 

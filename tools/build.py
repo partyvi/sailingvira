@@ -756,7 +756,7 @@ for lang in LANGS:
     mosaic = "".join(
         f'<i title="{esc(project(pid, lang)[0]["meta"]["title"])}" '
         f'style="background-image:url(\'{esc(size(EN[pid]["meta"].get("cover", ""), "s200-c"))}\')"></i>'
-        for pid in order)
+        for pid in order if tab_of(pid) == "projects")
     proj_n = sum(1 for pid in order if tab_of(pid) == "projects")
     rows = "".join(
         f'<a class="drow" href="{esc(u)}" target="_blank" rel="noopener"><i style="background-image:url(\'{esc(size(img, "w240"))}\')"></i>'
