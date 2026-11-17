@@ -18,8 +18,8 @@ Photos: `python3 tools/sailing_log.py photos ALBUM.html [...]` reads saved share
 the page. Each photo goes to the log entry of the day it was taken; photo files stay on Google (lh3 URLs).
 A shared album page lists its first 300 items only.
 
-Weather: `python3 tools/sailing_log.py weather` looks up the days with no wind, temperature or weather note in the
-Open-Meteo historical archive (hourly ERA5 data for the lake or bay, 10:00-17:00 local), keeps the results in
+Weather: `python3 tools/sailing_log.py weather` looks up the days with no wind, temperature or weather note in
+NOAA's hourly airport weather reports (STATIONS, the nearest airport to the lake or bay, 10:00-17:00 local), keeps the results in
 data/sailing_log_weather.json and rebuilds the page. Only empty fields are filled, and the page marks them as
 "from weather records", never mixed up with Viktor's own notes.
 
@@ -40,13 +40,14 @@ OUT_JSON = f"{B}/data/sailing_log.json"
 OUT_HTML = f"{B}/sailing-log/index.html"
 OUT_PHOTOS = f"{B}/data/sailing_log_photos.json"
 OUT_WEATHER = f"{B}/data/sailing_log_weather.json"
-# Where each water is, for weather records (Open-Meteo historical archive, ERA5 reanalysis).
-PLACES = {
-    "Lake Murray, SC": (34.06, -81.25),
-    "Lake Travis, TX": (30.42, -97.92),
-    "Galveston Bay, TX": (29.55, -95.00),
-    "Cozumel, Mexico": (20.33, -87.03),
+# Weather station for each water (NOAA Integrated Surface Database, hourly airport reports) and its time zone.
+STATIONS = {
+    "Lake Murray, SC": ("72310013883", "Columbia Metropolitan Airport (KCAE)", "America/New_York"),
+    "Lake Travis, TX": ("72254013904", "Austin-Bergstrom Airport (KAUS)", "America/Chicago"),
+    "Galveston Bay, TX": ("72242012923", "Galveston Scholes Airport (KGLS)", "America/Chicago"),
+    "Cozumel, Mexico": ("76750099999", "Cozumel Airport (MMCZ)", "America/Cancun"),
 }
+PLACES = STATIONS
 WX_HOURS = range(10, 18)          # sailing hours, local time: 10:00-17:00
 CELSIUS_FROM = dt.date(2026, 4, 12)
 
@@ -330,14 +331,20 @@ def attach(entries, store):
         if not e:
             title = albums.get(p["album"], {}).get("title", "").lower()
             water = next((w for w in PLACES if w.split(",")[0].lower() in title), None)
-            before = [x for x in entries if x["date"] <= d and not x.get("photo_only") and x.get("hours")
-                      and (water is None or x.get("water") == water)]
-            ref = max(before, key=lambda x: x["date"]) if before else entries[0]
-            gap = (dt.date.fromisoformat(d) - dt.date.fromisoformat(ref["date"])).days
-            if gap > 60:            # long after the last sail there: a visit, not a sail
-                e = dict(date=d, boat="Ashore", water=water or ref.get("water", ""), photo_only=True)
-            else:
+            # the boat Viktor skippered on that water around that day (between its first and last sail there)
+            sails = [x for x in entries if x.get("hours") and not x.get("photo_only") and x.get("role") != "crew"
+                     and (water is None or x.get("water") == water)]
+            span = {}
+            for x in sails:
+                lo, hi = span.get(x["boat"], (x["date"], x["date"]))
+                span[x["boat"]] = (min(lo, x["date"]), max(hi, x["date"]))
+            near = sorted((x for x in sails if span[x["boat"]][0] <= d <= span[x["boat"]][1]),
+                          key=lambda x: abs((dt.date.fromisoformat(d) - dt.date.fromisoformat(x["date"])).days))
+            if near:
+                ref = near[0]
                 e = dict(date=d, boat=ref["boat"], model=ref.get("model", ""), water=water or ref.get("water", ""), photo_only=True)
+            else:                   # no boat of mine sailing there then: a visit
+                e = dict(date=d, boat="Ashore", water=water or "", photo_only=True)
             pos = max((i for i, x in enumerate(entries) if x["date"] <= d), default=-1) + 1
             entries.insert(pos, e)
             added.append(d)
@@ -352,60 +359,118 @@ def wx_needed(e):
         e.get("wind_min") is None and e.get("wind_max") is None or e.get("temp_f") is None or not e.get("weather"))
 
 
-def wx_text(cloud, rain, codes):
-    sky = "Sunny" if cloud < 20 else "Mostly sunny" if cloud < 45 else "Partly cloudy" if cloud < 80 else "Overcast"
-    if any(c >= 95 for c in codes):
-        sky += ", thunderstorms"
-    elif rain >= 2.5:
-        sky += ", rain"
-    elif rain >= 0.2:
-        sky += ", light rain"
-    if any(c in (45, 48) for c in codes):
-        sky += ", fog"
-    return sky
+def wx_text(oktas, rain_mm, wx):
+    if oktas is None:
+        sky = ""
+    else:
+        sky = "Sunny" if oktas <= 1 else "Mostly sunny" if oktas <= 3 else "Partly cloudy" if oktas <= 6 else "Overcast"
+    extra = [w for w in ("thunderstorms", "rain", "drizzle", "fog") if w in wx]
+    if "rain" not in extra and rain_mm >= 0.3:
+        extra.append("rain")
+    if "rain" in extra and "drizzle" in extra:
+        extra.remove("drizzle")
+    if "rain" in extra and rain_mm and rain_mm < 2.5:
+        extra[extra.index("rain")] = "light rain"
+    return ", ".join([sky] + extra if sky else extra).capitalize() if (sky or extra) else ""
+
+
+def isd_day(station, tz, day):
+    """Hourly NOAA ISD reports for one local day -> wind (kn) min/max, gust, max temp (F), sky, rain, weather words."""
+    import urllib.request
+    from zoneinfo import ZoneInfo
+    d0 = dt.date.fromisoformat(day)
+    url = ("https://www.ncei.noaa.gov/access/services/data/v1?dataset=global-hourly"
+           f"&stations={station}&startDate={d0 - dt.timedelta(days=1)}&endDate={d0 + dt.timedelta(days=1)}"
+           "&format=json&dataTypes=WND,TMP,OC1,GA1,GA2,GA3,GF1,AA1,AU1,MW1")
+    rows = json.load(urllib.request.urlopen(url, timeout=90))
+    zone = ZoneInfo(tz)
+    wind, gust, temp, sky, rain, wx = [], [], [], [], 0.0, set()
+    seen = set()
+    for r in rows:
+        t = dt.datetime.fromisoformat(r["DATE"]).replace(tzinfo=dt.timezone.utc).astimezone(zone)
+        if t.date() != d0 or t.hour not in WX_HOURS:
+            continue
+        w = (r.get("WND") or "").split(",")
+        if len(w) == 5 and w[3] != "9999" and w[4] in "0145":
+            wind.append(int(w[3]) / 10 * 1.944)
+        o = (r.get("OC1") or "").split(",")
+        if o[0] not in ("", "9999"):
+            gust.append(int(o[0]) / 10 * 1.944)
+        tm = (r.get("TMP") or "").split(",")
+        if tm[0] and tm[0] not in ("+9999", "9999"):
+            temp.append(int(tm[0]) / 10 * 9 / 5 + 32)
+        layers = [int(r[k].split(",")[0]) for k in ("GA1", "GA2", "GA3") if r.get(k) and r[k].split(",")[0].isdigit()]
+        gf = (r.get("GF1") or "").split(",")
+        if gf[0].isdigit() and int(gf[0]) <= 8:
+            sky.append(int(gf[0]))
+        elif layers and max(layers) <= 8:
+            sky.append(max(layers))
+        aa = (r.get("AA1") or "").split(",")
+        if len(aa) >= 2 and aa[0] == "01" and aa[1] != "9999" and t.hour not in seen:
+            rain += int(aa[1]) / 10
+            seen.add(t.hour)
+        au = (r.get("AU1") or "").split(",")
+        if len(au) >= 4:
+            if au[1] == "3":
+                wx.add("thunderstorms")
+            if au[2] in ("01",):
+                wx.add("drizzle")
+            if au[2] in ("02", "05", "06"):
+                wx.add("rain")
+            if au[3] == "2":
+                wx.add("fog")
+        mw = (r.get("MW1") or "").split(",")
+        if mw[0].isdigit():
+            c = int(mw[0])
+            wx |= {"thunderstorms"} if 91 <= c <= 99 or c == 17 else {"rain"} if 58 <= c <= 69 or 80 <= c <= 84 else \
+                  {"drizzle"} if 50 <= c <= 57 else {"fog"} if 41 <= c <= 49 else set()
+    if not wind and not temp:
+        return None
+    out = {}
+    if wind:
+        out.update(wind_min=round(min(wind)), wind_max=round(max(wind)))
+        out["gust"] = round(max(gust)) if gust else None
+    if temp:
+        out["temp_f"] = round(max(temp))
+    out["text"] = wx_text(round(sum(sky) / len(sky)) if sky else None, rain, wx)
+    return out
 
 
 def weather_cmd():
-    import urllib.request
+    import time
     cache = json.load(open(OUT_WEATHER, encoding="utf-8")) if os.path.exists(OUT_WEATHER) else {}
     entries = json.load(open(OUT_JSON, encoding="utf-8"))
     attach(entries, load_photos())
-    todo = {}
-    for e in entries:
-        if wx_needed(e) and e["date"] not in cache.get(e["water"], {}):
-            todo.setdefault(e["water"], set()).add(e["date"])
-    import time
-    for water, dates in todo.items():
-        lat, lon = PLACES[water]
-        for d in sorted(dates):
-            url = ("https://archive-api.open-meteo.com/v1/archive?"
-                   f"latitude={lat}&longitude={lon}&start_date={d}&end_date={d}"
-                   "&hourly=temperature_2m,wind_speed_10m,wind_gusts_10m,cloud_cover,precipitation,weather_code"
-                   "&wind_speed_unit=kn&temperature_unit=fahrenheit&timezone=auto")
-            for wait in (0, 10, 30, 70):
-                time.sleep(wait or 0.5)
-                try:
-                    hr = json.load(urllib.request.urlopen(url, timeout=60))["hourly"]
-                    break
-                except Exception as err:            # 429: the archive asks to slow down
-                    print(f"{water} {d}: {err}, retrying")
-            else:
-                continue
-            idx = [i for i, t in enumerate(hr["time"]) if int(t[11:13]) in WX_HOURS]
-            g = lambda k: [hr[k][i] for i in idx if hr[k][i] is not None]
-            wind, gust, temp, cloud = g("wind_speed_10m"), g("wind_gusts_10m"), g("temperature_2m"), g("cloud_cover")
-            if not wind:
-                continue
-            cache.setdefault(water, {})[d] = dict(
-                wind_min=round(min(wind)), wind_max=round(max(wind)), gust=round(max(gust)),
-                temp_f=round(max(temp)), text=wx_text(sum(cloud) / len(cloud), sum(g("precipitation")), g("weather_code")))
-        print(f"{water}: {len(cache.get(water, {}))} days from weather records")
+    todo = sorted({(e["water"], e["date"]) for e in entries
+                   if wx_needed(e) and e["date"] not in cache.get(e["water"], {})})
+    print(f"{len(todo)} days to look up", flush=True)
+    for k, (water, day) in enumerate(todo, 1):
+        station, name, tz = STATIONS[water]
+        for wait in (0, 5, 20, 60):
+            time.sleep(wait or 0.3)
+            try:
+                r = isd_day(station, tz, day)
+                break
+            except Exception as err:
+                print(f"{water} {day}: {err}, retrying", flush=True)
+        else:
+            continue
+        if r:
+            r["station"] = name
+            cache.setdefault(water, {})[day] = r
+        if k % 10 == 0:
+            print(f"{k}/{len(todo)}", flush=True)
+            save_weather(cache)
+    save_weather(cache)
+    write_page(json.load(open(OUT_JSON, encoding="utf-8")))
+
+
+def save_weather(cache):
     for w in cache:
         cache[w] = dict(sorted(cache[w].items()))
     with open(OUT_WEATHER, "w", encoding="utf-8") as f:
         json.dump(cache, f, ensure_ascii=False, indent=1)
         f.write("\n")
-    write_page(json.load(open(OUT_JSON, encoding="utf-8")))
 
 
 def fill_weather(entries):
@@ -419,16 +484,21 @@ def fill_weather(entries):
         if not r or not wx_needed(e):
             continue
         wx = []
-        if e.get("wind_min") is None and e.get("wind_max") is None:
-            e.update(wind_min=r["wind_min"], wind_max=r["wind_max"], gust=r["gust"])
-            wx += ["wind", "gust"]
-        if e.get("temp_f") is None:
+        if e.get("wind_min") is None and e.get("wind_max") is None and "wind_min" in r:
+            e.update(wind_min=r["wind_min"], wind_max=r["wind_max"])
+            wx.append("wind")
+            if r.get("gust") and e.get("gust") is None:
+                e["gust"] = r["gust"]
+                wx.append("gust")
+        if e.get("temp_f") is None and "temp_f" in r:
             e.update(temp_f=r["temp_f"], temp_c=round((r["temp_f"] - 32) * 5 / 9))
             wx.append("temp")
-        if not e.get("weather"):
+        if not e.get("weather") and r.get("text"):
             e["weather"] = r["text"]
             wx.append("weather")
-        e["wx"] = wx
+        if wx:
+            e["wx"] = wx
+            e["wx_station"] = r.get("station", "")
         n += 1
     return n
 

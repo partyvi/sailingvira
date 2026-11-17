@@ -103,5 +103,11 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   Photos (Viktor, Nov 2026): `python3 tools/sailing_log.py photos ALBUM.html` reads a saved shared Google Photos album page
   (first album: "2017-2021 Lake Murray sailing", https://photos.app.goo.gl/LJs4btPbLzcCsg8L8) into `data/sailing_log_photos.json`;
   photos show on the entry of the day they were taken (loaded from Google, not copied). A photo day missing from the sheet
-  becomes a photo-only entry (Viktor asked for that). A shared album page holds only its first 300 items.
+  becomes a photo-only entry (Viktor asked for that): it gets the boat Viktor was sailing on that water then (between its first
+  and last sail there), else "Ashore" (a visit). A shared album page holds only its first 300 items: for a bigger album, ask Viktor
+  to sort it "Newest first" and read it again. Albums so far: "2017-2021 Lake Murray sailing" (398, read oldest-first and
+  newest-first), "2021-2025 Lake Travis sailing" (https://photos.app.goo.gl/Hf4Vat4QyQiGAWVE6, 142).
+  Weather (Viktor, Nov 2026): where he wrote no weather, `python3 tools/sailing_log.py weather` fills it from NOAA hourly reports
+  of the nearest airport (`STATIONS`; host www.ncei.noaa.gov), cached in `data/sailing_log_weather.json`; the page marks those
+  values with ≈ and italics. Open-Meteo was tried first but its free daily limit is used up from this network.
   The build copies it to sailingvira.com/sailing-log/ (public, noindex, not in the sitemap) but it is NOT linked from any page yet (Viktor, Nov 2026); English only for now.
