@@ -48,7 +48,7 @@ a{color:var(--accent)}
   background:#10222E center/cover no-repeat}
 .band{display:flex;flex-wrap:wrap;align-items:center;gap:6px 22px;background:rgba(16,34,46,.62);color:#fff;
   padding:10px max(16px,env(safe-area-inset-right,0px)) 10px max(16px,env(safe-area-inset-left,0px))}
-.band .brand{font-family:var(--f-display);font-size:24px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#fff;text-decoration:none}
+.band .brand{font-family:'Kotyhoroshko',var(--f-display);font-size:24px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:#fff;text-decoration:none}
 .band .lang{order:3;display:flex;gap:4px}
 .band .lang a{font-family:var(--f-mono);font-size:12.5px;color:#DCE7EC;text-decoration:none;padding:2px 6px;border:1px solid transparent;border-radius:4px;cursor:pointer}
 .band .lang a.on{border-color:rgba(255,255,255,.45);color:#fff}
@@ -94,6 +94,8 @@ h1,h2,h3{font-family:var(--f-display);line-height:1.05;margin:0;text-wrap:balanc
 .foot a{color:var(--muted)}
 a:focus-visible{outline:2px solid #E0B85C;outline-offset:2px}
 """
+CSS = ("@font-face{font-family:'Kotyhoroshko';src:url('" + LIVE + "/assets/fonts/kotyhoroshko-bold.woff2') format('woff2');"
+       "font-weight:700;font-style:normal;font-display:swap}\n") + CSS
 
 JS = """
 (function () {
