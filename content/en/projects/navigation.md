@@ -1,10 +1,10 @@
 ---
 id: navigation
-title: "Navigation & autopilot"
+title: Navigation & autopilot
 section: electric
 order: 2
-description: "OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC"
+description: OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC
 ---
 I didn't want to buy a plotter and a box of instruments. I wanted to build my own: a Raspberry Pi with OpenPlotter, a home-made autopilot from an old Autohelm, a wind instrument on a mount I cast right on the mast, and in the end a "NavPod" with real buttons. It took four years, and it's still growing. Engineers never finish; they just release the next version.
 
@@ -55,15 +55,37 @@ Here's the Davis wind instrument mount for the masthead, screwed to the starboar
 
 Diary: [9 Jul 2022](https://irwin34.blogspot.com/2022/07/day-36-79-starboard-patching-and-bow.html)
 
-In October I made a different mount for the masthead, cut from a solid 2x2x5-inch aluminum block. A few too many shavings. The main cut done, then the holes. The final product.
+Then i changed mind and desided to make other mount.
+
+
+## The wind instrument goes up
+In October I made a different mount for the masthead, cut from a solid 2x2x5-inch aluminum block. A few too many shavings. The main cut done, then the holes. The final product. 
 
 ![Machining the aluminum masthead mount on the CNC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8f5JTNBe2wfA_EJKXare6cBL_8xZ1w-PQ6tCvsdo8obRVosZIurvG1zJEFeNwutRWBCi-3nA9G3ga9ejngr6GFA3azKPt-oAJI_pUUuzzRkW2UIVTc2Ay3BXIo4gi_qXIxZ-Pptj18VFHj7NzAMKKMCrHYwIQ3umWlWmxwRld2kg0-ca3x0zWEJvVTw/s1600/IMG_3868.HEIC)
 ![Finished aluminum mount, painted white](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAacvU7pyVWrl6RuXUPnj8i4yCEMSJ7T4fp5ntxFJSGGqRfQB6YOysG4XvRAF_rjauqWbVD1sjVKiGH5JHSZdQMlpiZAF5QnRalZbrQ97VqDwo0iratVWiDXDQCsHSGp0mViaGN-Wa3ihlLg1yvrevNXuOWnvhc-s514uZi7-Forkj5E0Y8ryitc7x5w/s1600/IMG_5361.HEIC)
 ![Davis wind instrument on its mount](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNLNWW6gqLigGOKQB-OY0_vLeoDxc6B4h2PJsw1u0LnJV5-6GepptxM4sTZaRjTfGFfGpTU76aoNNaHMq_pOsuyoHNiy5Ml7n-x3Js-0TC7VNQY9XzELjVaIMGPBzWYugNTEPjLl-v4jitSQX-nfUG7wWa_-Qe2Io0p7Gx58wR5Gbdn5UBQUoXCzzVA/s1600/IMG_5360.HEIC)
-![Galley under construction](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqpC0gQnk2SYeYCdaywnyMWiywwK4-vE6eynBmrqzjAMdkffczd8tZFMHOPbS_O-2V0Io2l9ukuV9HKHlqPOVXKbe7ei-OtSpyiQUFZJqmGd2aQ9Oxxsanvh6iGvgdx1nPtFzMYydrOKwsIjzdYd5am8sdsqEVRQFebvDGmhEDF281qY-kMNL6x9mM7A/s1600/IMG_3913.HEIC)
+
 
 Diary: [1 Oct 2022](https://irwin34.blogspot.com/2022/10/day-50-101-inverters-test-day-water.html)
 
+February 2024: the wind instrument was ready for the masthead. The small white box is a Wi-Fi camera looking ahead from the top, with a 120° view. It uses about 20 mA at 12 V, so it shares power with the instrument lines. The mount had been made a year before. To install it I had to drill and tap the top joining plate and screw the mount on; its shape sits tight on the vertical bars, with one vertical screw.
+
+![Wind instrument and camera before going up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ljOsVIXWPWypApREA4n6_cePsMu1MhFEeoWiQxEjuj8MGAYRattSCPg3SfKkNfSJBUwJzJqUL7E6Smj2lQrL9r9fFkMyS51lyNAkfdyen6aFHGHLPSz6SfiY89_BZIUke3lg0fUGZm5RzlJbO3knUyONYqrpsxc0NT8cg7VvwbB0Ced9GYC_FZ6MzPwR/s1600/IMG_7407.HEIC)
+![Testing the wind instrument and camera box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht3G1BMiXy1W34jbwk01kVSTa615h6hpbC8HvLig347J69KguSpOt2P_RLZ9V6LPt9PtTyB-NO_iB64WW2F4TjtFZecdWwbS3VYy4FzGKQCo9Fckrhlg79Mox9C7xS8yyPZWSjdc417Ub1ShJWBGuFSQGtIWeQmyn4VtCqoEIR-eCNhIH7ckAhNRFqQRld/s1600/IMG_7408.HEIC)
+![Machining the masthead mount on the CNC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEighJqIDb4WtN4_0PJBiuYTCgst_Wg_kUV2-kMd7TDb0xflTGbxOx_mSVfSkTd9Nq3suYzrOpfr7FN13B-MdhleuH0XzHG6h2EH_REyIXvnKWYIcdvq4Ima-6hxSBVBphNnvLxmwjqDO3lpH9fmZ1eiL3wBXfaUk_64KQPSQ2q2hoTHtOqYt68JziL79-5K/s1600/IMG_3872.jpg)
+![Mount part held in a vise](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ6P5ZUaUabCZoY6YJGRSNM0eb7_ZQmvFAjFDpRdV5cuA1NMe8R5dzj29zGgZAOrJH60RzTuRmfLc8vekMvopX1sQ6vhwFuy4Caf1LU15banqBZXqRZbL7AocrVlboAUKoQNtxBAgWgAsJkkSfwHt_YnqWrAm3QQJq8ywVHuLMKhIs3Em4CYnkxzSkwLzt/s1600/IMG_3877.jpg)
+![Masthead plate where the mount goes, arrow marked](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jDVkus0marX4BwAJda8GIGWWrXUiBYizaYMnAODBnC8tupyqQp9A1a4rEdT42mb3pkL1LLNuj_emqWSYJmn-e2DGf0M1tkRs5WnQK7sWHxb8ZgDNuyHOfHGpGXEhag2g5eD7qriBTcltJxEEXG0z6JrxRXYRWm7Te5bPda4NJEE1r142LGcECufcu8tX/s1600/Untitled.png)
+
+Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
+
+It didn't go easily. On the first day my friend did his best; he's fitter for climbing the mast. But it was the first thread he had ever tapped in his life, and we ended up with a broken tap at the top of the mast. The next day I went up, and he belayed me. I broke the tap off flush, drilled a new hole 10 mm forward, tapped it, and screwed everything on as planned.
+
+BUT then we spent about two hours fishing the wire down the mast. The cable isn't heavy enough, and it kept touching something inside and coiling up. The hole at the top is maybe 6–7 mm, just bigger than the cable. The trick that worked: a long 10-inch drill bit as a weight. The grooves of the bit are perfect for hiding the thin wire, so the "weight" and the wire go through the hole together.
+
+![Vira's masthead with the wind instrument](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4d-qQJAezy8wLLHxEi_0Nprd0PZzThixlNoEIV_YItBTT-eVMg0XT5OK5MFNR_9K2s1mwVPVzjM7Cw8EL-ux03hxRAg6MM8O-FJJAeX90tmqC0X_Bhk0kL8hFB8xHVdXXvLcp6vl9WQe6npOVWTe6AnOegdOXv0wwJ9UJ2GRRH-LZbT0Q_jInhX-uJOQU/s1600/IMG_7433.HEIC)
+![OpenPlotter on the nav station screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygeGEJMIqtrdPnilRKB0t03RticYTHcHxXrnQNhc_Q-NWDX_MhcgyFD2eekgy1q3IrcYeGSC38n1D3mSMNkT_wEfBc32hkg0WprZYX0AqqTg0RVzlMBvdi5Sno1KKznkls6SYPs56pnlu86iBGUrvOPdnwmohD6FEGrz4vNHnh4YRojX_oEVMSN93ZSMT/s1600/IMG_7436.HEIC)
+
+Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 ## Nav lights
 
 In August 2022 I made back plates for the nav lights. A good try, but they came out about an inch too short. Redesign and cut again.
@@ -132,26 +154,7 @@ The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% pow
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-## The wind instrument goes up
 
-February 2024: the wind instrument was ready for the masthead. The small white box is a Wi-Fi camera looking ahead from the top, with a 120° view. It uses about 20 mA at 12 V, so it shares power with the instrument lines. The mount had been made a year before. To install it I had to drill and tap the top joining plate and screw the mount on; its shape sits tight on the vertical bars, with one vertical screw.
-
-![Wind instrument and camera before going up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ljOsVIXWPWypApREA4n6_cePsMu1MhFEeoWiQxEjuj8MGAYRattSCPg3SfKkNfSJBUwJzJqUL7E6Smj2lQrL9r9fFkMyS51lyNAkfdyen6aFHGHLPSz6SfiY89_BZIUke3lg0fUGZm5RzlJbO3knUyONYqrpsxc0NT8cg7VvwbB0Ced9GYC_FZ6MzPwR/s1600/IMG_7407.HEIC)
-![Testing the wind instrument and camera box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht3G1BMiXy1W34jbwk01kVSTa615h6hpbC8HvLig347J69KguSpOt2P_RLZ9V6LPt9PtTyB-NO_iB64WW2F4TjtFZecdWwbS3VYy4FzGKQCo9Fckrhlg79Mox9C7xS8yyPZWSjdc417Ub1ShJWBGuFSQGtIWeQmyn4VtCqoEIR-eCNhIH7ckAhNRFqQRld/s1600/IMG_7408.HEIC)
-![Machining the masthead mount on the CNC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEighJqIDb4WtN4_0PJBiuYTCgst_Wg_kUV2-kMd7TDb0xflTGbxOx_mSVfSkTd9Nq3suYzrOpfr7FN13B-MdhleuH0XzHG6h2EH_REyIXvnKWYIcdvq4Ima-6hxSBVBphNnvLxmwjqDO3lpH9fmZ1eiL3wBXfaUk_64KQPSQ2q2hoTHtOqYt68JziL79-5K/s1600/IMG_3872.jpg)
-![Mount part held in a vise](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ6P5ZUaUabCZoY6YJGRSNM0eb7_ZQmvFAjFDpRdV5cuA1NMe8R5dzj29zGgZAOrJH60RzTuRmfLc8vekMvopX1sQ6vhwFuy4Caf1LU15banqBZXqRZbL7AocrVlboAUKoQNtxBAgWgAsJkkSfwHt_YnqWrAm3QQJq8ywVHuLMKhIs3Em4CYnkxzSkwLzt/s1600/IMG_3877.jpg)
-![Masthead plate where the mount goes, arrow marked](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jDVkus0marX4BwAJda8GIGWWrXUiBYizaYMnAODBnC8tupyqQp9A1a4rEdT42mb3pkL1LLNuj_emqWSYJmn-e2DGf0M1tkRs5WnQK7sWHxb8ZgDNuyHOfHGpGXEhag2g5eD7qriBTcltJxEEXG0z6JrxRXYRWm7Te5bPda4NJEE1r142LGcECufcu8tX/s1600/Untitled.png)
-
-Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
-
-It didn't go easily. On the first day my friend did his best; he's fitter for climbing the mast. But it was the first thread he had ever tapped in his life, and we ended up with a broken tap at the top of the mast. The next day I went up, and he belayed me. I broke the tap off flush, drilled a new hole 10 mm forward, tapped it, and screwed everything on as planned.
-
-BUT then we spent about two hours fishing the wire down the mast. The cable isn't heavy enough, and it kept touching something inside and coiling up. The hole at the top is maybe 6–7 mm, just bigger than the cable. The trick that worked: a long 10-inch drill bit as a weight. The grooves of the bit are perfect for hiding the thin wire, so the "weight" and the wire go through the hole together.
-
-![Vira's masthead with the wind instrument](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4d-qQJAezy8wLLHxEi_0Nprd0PZzThixlNoEIV_YItBTT-eVMg0XT5OK5MFNR_9K2s1mwVPVzjM7Cw8EL-ux03hxRAg6MM8O-FJJAeX90tmqC0X_Bhk0kL8hFB8xHVdXXvLcp6vl9WQe6npOVWTe6AnOegdOXv0wwJ9UJ2GRRH-LZbT0Q_jInhX-uJOQU/s1600/IMG_7433.HEIC)
-![OpenPlotter on the nav station screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygeGEJMIqtrdPnilRKB0t03RticYTHcHxXrnQNhc_Q-NWDX_MhcgyFD2eekgy1q3IrcYeGSC38n1D3mSMNkT_wEfBc32hkg0WprZYX0AqqTg0RVzlMBvdi5Sno1KKznkls6SYPs56pnlu86iBGUrvOPdnwmohD6FEGrz4vNHnh4YRojX_oEVMSN93ZSMT/s1600/IMG_7436.HEIC)
-
-Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
 ## OpenPlotter comes alive
 
