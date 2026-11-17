@@ -203,7 +203,7 @@ function where(e) {
 function wind(e) {
   if (e.wind_min == null && e.wind_max == null) return "";
   const r = e.wind_max != null && e.wind_max !== e.wind_min ? `${fmt(e.wind_min ?? 0)}–${fmt(e.wind_max)}` : fmt(e.wind_min ?? e.wind_max);
-  return r + (e.gust ? ` <span title="gusts">G${fmt(e.gust)}</span>` : "");
+  return r + (e.gust && e.gust > (e.wind_max ?? e.wind_min ?? 0) ? ` <span title="gusts">G${fmt(e.gust)}</span>` : "");
 }
 
 function aboard(e) {
