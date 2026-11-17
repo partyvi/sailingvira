@@ -358,7 +358,6 @@ Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigera
 
 The chart table and nav station: a dry fit of the screen, and building the "ceiling" over the nav desk. The whole nav station story is in [Nav station](../nav-station/).
 
-![Primer showing the plywood grain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjihCJzdNq8UdkxR4ZAv2yRvPBx3VbfMiB1ufjz64eWyghEM8pH2wE4Wv-A1UBP_BLP2E4Pfz-cmMJUord0dzgg1Y4CTMfOZS9hyO1lAVrytMXhzRUPPPXphDEsmNae4gol-_g8z3R9eZCyyfS5KyUmLWScMv-l3ewbUsWDtdwB223l9YRBnENoLO_QUoRm/s1600/IMG_6136.HEIC)
 ![Chart table with the screen and ceiling over the desk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiE-ZXCk30sxulRYzWDDip_Jp707sjcl0ezH-QLp783UnYiF3gIDXGkLXNFg1_vqpj0qlnc8hKnpapdisQqDZiSbXq0u2CTjs97cEeDacgZCCSeRqCsPNNtWFKl1npOlNJ6Jah3ggqZ4LpsazicqsUXsd8wC27PfOWPsCsAFIpkTGefjB8p1-Y6Pne6Eac/s1600/IMG_6137.HEIC)
 
 Diary: [15 Jul 2023](https://irwin34.blogspot.com/2023/07/day-99-71523-refrigerator-thermostat.html)
