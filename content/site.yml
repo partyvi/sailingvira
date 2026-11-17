@@ -14,6 +14,7 @@ ga_id: G-CQP6CVCQM4
 youtube_channel_id: UC5nlckZF-OqIv8O35Z_qRgg   # used for the video player when YouTube blocks the build
 # Contact form: Web3Forms (since Nov 2026; FormSubmit stopped answering). The access key only lets people
 # send messages to Viktor's email through this form, so it is fine in the page. Empty contact_form = no form.
+coffee_url: "https://buymeacoffee.com/partyviq"  # Buy Me a Coffee: box at the end of English stories, and /coffee/
 contact_form: "https://api.web3forms.com/submit"
 contact_key: "b0442e87-70b4-4122-b632-31bca1d3d31b"
 # Banner photos: Home (16:7) and all other pages (5:1). A path in the site or a full photo URL.
