@@ -550,7 +550,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
               f'<button id="lbclose">{UI[lang]["close"]}</button></span></div></div>'
               f'<script src="{rel}assets/app.js?v={ASSET_V}"></script>')
     banner = asset(site.get("banner_home" if home else "banner_strip"), rel)
-    hero = (f'<img class="hero-logo" src="{rel}assets/logo-round.png" width="120" height="120" alt="">' if home else "") + (f'<div class="hero-t"><h1>{esc(text(site["home"]["title"], lang))}</h1></div>' if home else "")
+    hero = f'<img class="hero-logo" src="{rel}assets/logo-round.png" width="120" height="120" alt="">' + (f'<div class="hero-t"><h1>{esc(text(site["home"]["title"], lang))}</h1></div>' if home else "")
     doc = f"""<!doctype html>
 <html lang="{HTML_LANG[lang]}">
 <head>
