@@ -72,6 +72,9 @@ h1,h2,h3{font-family:var(--f-display);margin:0;line-height:1.05}
 .notes h4{margin:0;padding-top:3px;font:500 11.5px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--brass)}
 .notes h4.pr{color:var(--warn)}
 .notes p{margin:0;max-width:78ch;white-space:pre-line}
+.est{font-style:italic;color:var(--muted)}
+.est::before{content:"≈"}
+.notes .rec{font-style:italic;color:var(--muted)}
 .notes .extra{font:13px var(--f-mono);color:var(--muted)}
 .strip{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:6px;max-width:900px}
 .strip button{all:unset;cursor:zoom-in;position:relative;display:block;aspect-ratio:4/3;border-radius:4px;overflow:hidden;background:var(--line)}
@@ -133,7 +136,7 @@ h1,h2,h3{font-family:var(--f-display);margin:0;line-height:1.05}
     <button class="nav prev" id="lb-prev" type="button" aria-label="Previous photo">‹</button><button class="nav next" id="lb-next" type="button" aria-label="Next photo">›</button>
     <button class="x" id="lb-x" type="button" aria-label="Close">×</button>
     <div class="bar"><span id="lb-cap"></span><a id="lb-link" target="_blank" rel="noopener">Open in Google Photos</a></div></dialog>
-  <footer class="foot mono">Updated {{updated}} from my sailing log spreadsheet. Wind in knots, waves in feet. Lake Murray days with exactly 5 h and 9 NM are my estimates, I did not log every one.</footer>
+  <footer class="foot mono">Updated {{updated}} from my sailing log spreadsheet. Wind in knots, waves in feet. Lake Murray days with exactly 5 h and 9 NM are my estimates, I did not log every one. Values marked ≈ and in italics are not mine: where I wrote nothing about the weather, it comes from NOAA hourly reports of the nearest airport, 10:00–17:00 that day.</footer>
 </div>
 <script>
 const LOG = /*DATA*/[];
@@ -215,11 +218,13 @@ function cell(cls, label, html, title) {
 function entry(e) {
   const notes = [];
   if (e.sail) notes.push(["Notes", e.sail]);
-  if (e.weather) notes.push(["Weather", e.weather]);
+  const rec = k => (e.wx || []).includes(k);
+  if (e.weather) notes.push([rec("weather") ? "Weather ≈" : "Weather", e.weather, false, rec("weather")]);
   if (e.problems) notes.push(["Problems", e.problems, isProblem(e.problems)]);
   const extra = [];
   extra.push(dlong(e.date));
   if (e.model) extra.push(`${e.boat}, ${e.model}`);
+  if (e.wx) extra.push(`Weather marked ≈ is from ${e.wx_station || "airport records"}, not my notes`);
   if (e.t24) extra.push(`24 h pace ${fmt(e.t24, 1)} NM`);
   if (e.photo_only) extra.push(e.boat === "Ashore" ? "A visit ashore, from the photo album" : "Not in my written log, this day was found in the photo album");
   if (e.role === "crew") extra.push(e.boat === "First Light" ? "ASA 101 course, I was crew with an instructor" : "I was crew, not skipper");
@@ -232,16 +237,16 @@ function entry(e) {
       ${cell("n", "h", fmt(e.hours, 2))}
       ${cell("n", "NM", fmt(e.nm, 2))}
       ${cell("n", "kn", fmt(e.avg, 1), "average speed")}
-      ${cell("x", "wind", wind(e))}
+      ${cell("x", "wind", rec("wind") && wind(e) ? `<span class="est" title="from airport weather records">${wind(e)}</span>` : wind(e))}
       ${cell("n", "waves", e.waves ? esc(e.waves) : "", "waves, ft")}
-      ${cell("n", "air", temp ? `${temp} <span class="mono">${e.temp_c}°C</span>` : "")}
+      ${cell("n", "air", temp ? (rec("temp") ? `<span class="est" title="from airport weather records">${temp}</span>` : temp) + ` <span class="mono">${e.temp_c}°C</span>` : "")}
       ${cell("n", "engine", fmt(e.motor, 2), "engine hours")}
       ${cell("n", "aboard", aboard(e), e.role === "crew" ? "I was crew" : "people aboard, me included")}
     </span>`;
   const ph = e.photos || [];
   const hasNotes = notes.length > 0 || ph.length > 0;
   if (!hasNotes) return `<div class="row"><div class="sum">${line}<span class="ic"></span></div></div>`;
-  let body = notes.map(([h, t, warn]) => `<div><h4${warn ? ' class="pr"' : ""}>${h}</h4><p>${esc(t)}</p></div>`).join("");
+  let body = notes.map(([h, t, warn, r]) => `<div><h4${warn ? ' class="pr"' : ""}>${h}</h4><p${r ? ' class="rec"' : ""}>${esc(t)}${r && e.wx_station ? ` (${esc(e.wx_station)})` : ""}</p></div>`).join("");
   if (ph.length) body += `<div><h4>Photos</h4><div class="strip">${ph.map(([u, w, h, link, v], k) =>
     `<button type="button" data-e="${e.i}" data-k="${k}" aria-label="${v ? "Video" : "Photo"} ${k + 1} of ${ph.length}, ${esc(dlong(e.date))}"><img loading="lazy" src="${esc(PIX(u, 320, 240))}-p" srcset="${esc(PIX(u, 640, 480))}-p 2x" alt="">${v ? `<span class="play">▶ ${Math.floor(v / 60)}:${String(v % 60).padStart(2, "0")}</span>` : ""}</button>`).join("")}</div></div>`;
   const flag = (notes.some(n => n[2]) ? ' <span class="warn" title="something went wrong">!</span>' : "")
