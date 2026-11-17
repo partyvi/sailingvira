@@ -763,7 +763,7 @@ for lang in LANGS:
         f'<a class="drow" href="{esc(u)}" target="_blank" rel="noopener"><i style="background-image:url(\'{esc(size(img, "w240"))}\')"></i>'
         f'<span><b>{esc(t)}</b><span class="mono">{fmt(d, lang)}</span></span></a>' for d, t, u, img in LATEST)
     sail_cover = EN["sailing"]["meta"].get("cover", "")
-    boat_cover = EN["hull-bottom"]["meta"].get("cover", "")
+    boat_cover = site.get("tile_boat") or EN["hull-bottom"]["meta"].get("cover", "")
     root = "../" if lang == "ua" else ""  # home page -> site root, for assets/
 
     def simple(key):  # a tile; a photo on top if content/site.yml has tile_<key>
@@ -786,7 +786,7 @@ for lang in LANGS:
 <div class="tiles">
 <div class="tile wide"><h2><a href="projects/">{hu["projects_t"]}</a></h2><p>{hu["projects_p"]}</p>
 <a class="mosaic" href="projects/" aria-label="{esc(hu["all"].format(n=proj_n))}">{mosaic}</a><a class="go" href="projects/">{hu["all"].format(n=proj_n)}</a></div>
-<a class="tile" href="boat/"><div class="ph" style="background-image:url('{esc(size(boat_cover, "w600"))}')"></div>
+<a class="tile" href="boat/"><div class="ph" style="background-image:url('{esc(asset(size(boat_cover, "w600"), root))}')"></div>
 <h2>{PAGES["boat"][lang][0]}</h2><p>{esc(PAGES["boat"][lang][1])}</p><span class="go">{hu["go"]}</span></a>
 <a class="tile" href="voyages/"><div class="ph" style="background-image:url('{esc(size(sail_cover, "w600"))}')"></div>
 <h2>{TAB["sailing"][1][lang]}</h2><p>{hu["sail_p"]}</p><span class="go">{hu["go"]}</span></a>

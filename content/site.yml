@@ -19,6 +19,7 @@ contact_key: "b0442e87-70b4-4122-b632-31bca1d3d31b"
 # Banner photos: Home (16:7) and all other pages (5:1). A path in the site or a full photo URL.
 banner_home: assets/banner-home.webp
 banner_strip: assets/banner-strip.webp
+tile_boat: assets/tile-boat.webp
 tile_workshop: assets/tile-workshop.webp
 tile_about: assets/tile-about.webp
 home:
