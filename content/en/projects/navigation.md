@@ -436,7 +436,7 @@ In July, the final install. It's not a brand-name NavPod; it just looks like one
 
 Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhull-line-setup.html)
 
-## Small fixes
+## Stern rail GPS
 
 In August 2026 the wind sensor showed nothing on the dashboards. A quick check: the small sacrificial resistor on the sensor board's power was blown. Probably a discharge to the mast, or lightning close enough to do that little damage. A soldering iron and a piece of wire fixed it.
 
