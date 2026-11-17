@@ -1,3 +1,4 @@
+@font-face{font-family:'Kotyhoroshko';src:url('fonts/kotyhoroshko-bold.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
 /* Layout: a logbook. Condensed signage type for names, serif for the story, mono for dates and day numbers. */
 :root{
   --bg:#F2F5F6; --paper:#FFFFFF; --ink:#10222E; --muted:#56666F; --line:#D3DCE0;
@@ -122,7 +123,7 @@ h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.0
 .band a:focus-visible{outline:2px solid #E0B85C;outline-offset:2px}
 @media (max-width:860px){.band .lang{order:2;margin-left:auto}.tabs{order:3;flex-basis:100%}}
 .hero-t{padding-left:max(16px,env(safe-area-inset-left,0px));padding-bottom:18px}
-.hero-t h1{margin:0;color:#fff;font-size:clamp(72px,14vw,170px);font-weight:700;text-transform:uppercase;line-height:.9;
+.hero-t h1{margin:0;color:#fff;font-family:'Kotyhoroshko','Barlow Condensed',sans-serif;font-size:clamp(72px,14vw,170px);font-weight:700;text-transform:uppercase;line-height:.9;
   text-shadow:0 2px 18px rgba(0,0,0,.35)}
 /* home tiles */
 .mast h1{display:none}
