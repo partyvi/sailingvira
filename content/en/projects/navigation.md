@@ -354,7 +354,7 @@ Story page: [Helm instrument console](https://irwin34.blogspot.com/p/pedestal-he
 
 The radar and its home-made mast mount have their own story: [Radar mount](../radar-mount/).
 
-## Kemah: radar, AIS and a router
+## Radar
 
 March 2026: 24 small things in two weekend days. The radar went on the mast. Simple, except that the bracket had bent a little and the rear holes didn't line up, so I drilled them out a bit for the bolts. The other challenge was lifting the radar up the mast safely. It's round, with nothing to tie a rope to. And I riveted a plate for a Ring camera onto the radar mount, to watch the docks, especially in really bad weather.
 
