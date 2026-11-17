@@ -201,11 +201,6 @@ To make it a smart drive I used Sean's mid-power motor controller instead of eng
 
 Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
 
-And I designed and printed flashlight holders, so I stop hunting for my "landing light".
-
-![3D-printed flashlight holder in the cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CrQu6DuqoOE9JZFhBXV8tUWguYX07SbjMJ_eKLC12opfhYVl1UFAuDEohERj27aoCEnFFOQdAw2xmcTsxdWRRLN6FaGp91qw041kQvUZ369vi5kJGCjLzZuHcK0gKEiH6-9jRS6fPTLT_0g20LY-qbvcc26GP16D8e8WCrMqBTt5KWpUcXLdJdtBrMmV/s1600/IMG_7750.HEIC)
-
-Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
 
 In April the drive was wired to the Raspberry Pi. It turns the rudder easily and fast. There were no end switches or rudder sensor yet, so no wild play. In the video the motor power is at 10%, and the wheel turns by itself, from the computer. I couldn't wait for the safety switches and a full-speed test.
 
@@ -216,6 +211,17 @@ Diary: [21 Apr 2024](https://irwin34.blogspot.com/2024/04/day-139-421-autopilot-
 In May the IMU went on a gimbaled mount: the small black box. 
 Technically I do not need it gimbled i can just calibrateit right, later i just put it on the base board. 
 
+## small 3d projects
+
+### Spotlight holder
+
+I designed and printed flashlight holders, so I stop hunting for my "landing light".
+
+![3D-printed flashlight holder in the cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CrQu6DuqoOE9JZFhBXV8tUWguYX07SbjMJ_eKLC12opfhYVl1UFAuDEohERj27aoCEnFFOQdAw2xmcTsxdWRRLN6FaGp91qw041kQvUZ369vi5kJGCjLzZuHcK0gKEiH6-9jRS6fPTLT_0g20LY-qbvcc26GP16D8e8WCrMqBTt5KWpUcXLdJdtBrMmV/s1600/IMG_7750.HEIC)
+
+Diary: [21 Mar 2024](https://irwin34.blogspot.com/2024/03/day-135-317-319-deck-painting.html)
+
+###IMU gimbaled mount
 
 ![IMU on a gimbaled mount in the locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VMc5-2UWE0rdWXSd0zaR-CPuewNqxe7ZgaTG6BB-SyyoulDcref0fhQMreof07xbxuUDWmMk2VNwxlkjbIrVeyJWAN7kmjzdPD1vuGqEWtdh2aLQ_ANVZVWeXyGOB0RkyHqXpbQ9WJbErZNprMre1Xx3tr75cfxaWLnrDhIU7HwoDvk_Dq8JEG8rr0N9/s1600/IMG_8203.HEIC)
 
