@@ -400,7 +400,7 @@ Diary: [29 Jun 2025](https://irwin34.blogspot.com/2025/06/day-205-fixed-windows-
 
 Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-emergency-manual.html)
 
-## Мотогодини
+## Фільтр забортної води
 
 На верфі у 2026-му: фільтр забортної води SeaFlo на підставці, щоб його можна було чистити, вище ватерлінії, і кожен хомут на лінії забортної води затягнуто.
 
@@ -408,20 +408,13 @@ Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-e
 
 Diary: [18 Jan 2026](https://irwin34.blogspot.com/2026/01/day-248-249-mast-preparation-grounding.html)
 
-Дрібниці перед спуском на воду: нові алюмінієві кронштейни палубних вогнів замість оригінальних з м'якої сталі. Камеру й вітровий прилад перебудовано з супервізором живлення. 3M 4200 усередині проставки кріплення стерна. Привід авторульового заново приєднано з проставкою 3/8 на 5/16 у важелі й другою гайкою на Loctite. Болти муфти валу затягнуто на Loctite. Вентиляційний шланг на ущільненні PSS. Хомути шлангів кокпіту перевірено. Моторний відсік, трюм і кокпіт почищено.
+Болти муфти валу затягнуто на Loctite. Вентиляційний шланг на ущільненні PSS. Хомути шлангів кокпіту перевірено. Моторний відсік, трюм і кокпіт почищено.
 
 Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coating-with-naylic.html)
 
-Коли я з'єднував двигун і муфту валу, то не знайшов правильних стопорних гвинтів і зробив їх зі звичайних болтів, які не міг просвердлити під контровий дріт. Тож я надрукував на 3D-принтері ковпачки з вушками, надягнув їх і законтрив дротом поверх. Стопорні гвинти стоять на синьому Loctite; дріт — лише ще одна страховка. І я перевірив калібрування датчика стерна.
+Коли я з'єднував двигун і муфту валу, то не знайшов правильних стопорних гвинтів і зробив їх зі звичайних болтів, які не міг просвердлити під контровий дріт. Тож я надрукував на 3D-принтері ковпачки з вушками, надягнув їх і законтрив дротом поверх. Стопорні гвинти стоять на синьому Loctite; дріт — лише ще одна страховка.
 
 ![Стопорні гвинти муфти валу з надрукованими ковпачками і контровим дротом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzGFQeKwdTDne6QkXaet8e3YSVLloXnXxo5unZ9-Fn5O-5Yfwfg74oQu7PAU8tUhfqsT03OhEU942kPFz_9m_WVq1msK_yXdKfNLxCHQKV1dpZlDoCHNgh1iaFHrp3txRCL2rXv2ySZD_oO_9nS9Prd1m6MVPsYck7vD7pLh2f4HUSw731xO0wjcOQsVDR/s1600/IMG_0908.HEIC)
-
-Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
-
-Набори свердел теж треба було поповнити: бракувало 1/16, 3/32, 5/32, 13/64, 15/32 і 29/64 дюйма, а ще 1; 3,5; 5; 5,5; 6; 6,5 і 7 мм.
-
-![Набір дюймових свердел](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Kbn2AUeKotgGYjAXlaLMff7hH45thC_ccr6dzupxQ0-j1mvd6IyewAYf2e3yxuEU0Z_fZgSa4oKXCuQhAXg_-dnIfdQ6VarCIAcg0ELlUFGLuj_LPsC4FvBJ7KC3TDDueiaQzhmnc7IximUgGiMtelC-604N0hSUyyNRAMxzswhs8skcBZKPgN1L2WDP/s1600/IMG_0906.HEIC)
-![Набір метричних свердел](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBVH4XNbRhlCjaUO9h9wO5ByEM_ySdUDlmdngtLf_bZFu8AKDp_3dQMMd0eFd-UoYzGEQlByL70006bNmoPp1Tq2q93s-qb2cKG2Jg7wZDpUqCMqAsXmhi6P11Qig6n2salc7t43qOQIgQvs8Cwp76GhMHQfzX3vZpXkWaZ4Zd3Y4rx0cuFMNcBLMwjKmk/s1600/IMG_0907.HEIC)
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
