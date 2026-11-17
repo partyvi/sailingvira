@@ -661,6 +661,9 @@ shutil.rmtree(OUT, ignore_errors=True)
 os.makedirs(f"{OUT}/assets")
 shutil.copytree(f"{B}/tools/assets", f"{OUT}/assets", dirs_exist_ok=True)  # incl. assets/photos/
 shutil.copy(f"{B}/tools/assets/favicon.ico", f"{OUT}/favicon.ico")  # browsers ask for /favicon.ico
+# Sailing log: published at /sailing-log/ but not linked from any page and not in the sitemap (Viktor, Nov 2026)
+os.makedirs(f"{OUT}/sailing-log", exist_ok=True)
+shutil.copy(f"{B}/sailing-log/index.html", f"{OUT}/sailing-log/index.html")
 
 posts = {(v["date"], v["ptitle"]) for v in sec.values() if v["kind"] == "post"}
 stats = {"posts": len(posts), "photos": sum(len(photos_of(EN[p])) for p in order),

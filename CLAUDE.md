@@ -100,4 +100,4 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   `python3 tools/sailing_log.py FILE.xlsx`, commit `data/sailing_log.json` and `sailing-log/index.html` (template:
   `tools/sailing_log.html`). Crew names are never published: only the number aboard and Viktor's role; the script stops if
   a crew name is left in the notes (add it to `SCRUB`). Its `check:` lines are suspicious cells for Viktor to fix in the sheet.
-  The page is NOT linked to the site and not in the build yet (Viktor, Nov 2026); English only for now.
+  The build copies it to sailingvira.com/sailing-log/ (public, noindex, not in the sitemap) but it is NOT linked from any page yet (Viktor, Nov 2026); English only for now.
