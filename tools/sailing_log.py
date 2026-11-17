@@ -328,9 +328,16 @@ def attach(entries, store):
         e = next((x for x in entries if x["date"] == d and x.get("hours")), None) or \
             next((x for x in entries if x["date"] == d), None)
         if not e:
-            before = [x for x in entries if x["date"] <= d and not x.get("photo_only")]
+            title = albums.get(p["album"], {}).get("title", "").lower()
+            water = next((w for w in PLACES if w.split(",")[0].lower() in title), None)
+            before = [x for x in entries if x["date"] <= d and not x.get("photo_only") and x.get("hours")
+                      and (water is None or x.get("water") == water)]
             ref = max(before, key=lambda x: x["date"]) if before else entries[0]
-            e = dict(date=d, boat=ref["boat"], model=ref.get("model", ""), water=ref.get("water", ""), photo_only=True)
+            gap = (dt.date.fromisoformat(d) - dt.date.fromisoformat(ref["date"])).days
+            if gap > 60:            # long after the last sail there: a visit, not a sail
+                e = dict(date=d, boat="Ashore", water=water or ref.get("water", ""), photo_only=True)
+            else:
+                e = dict(date=d, boat=ref["boat"], model=ref.get("model", ""), water=water or ref.get("water", ""), photo_only=True)
             pos = max((i for i, x in enumerate(entries) if x["date"] <= d), default=-1) + 1
             entries.insert(pos, e)
             added.append(d)

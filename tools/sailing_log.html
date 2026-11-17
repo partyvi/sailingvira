@@ -159,7 +159,7 @@ function stats() {
     [sailing.length, "days on the water"],
     [fmt(sum(LOG, "hours")), "hours under way"],
     [fmt(sum(LOG, "nm")), "nautical miles"],
-    [new Set(LOG.map(e => e.boat)).size, "boats"],
+    [new Set(LOG.filter(e => e.boat !== "Ashore").map(e => e.boat)).size, "boats"],
     [fmt(maxNm.nm, 1) + " NM", "longest day, " + dshort(maxNm.date) + " " + maxNm.year],
     [maxGust.gust + " kn", "strongest gust logged"],
     ...(LOG.some(e => e.photos) ? [[fmt(LOG.reduce((s, e) => s + (e.photos || []).length, 0)), "photos and videos"]] : []),
@@ -169,7 +169,7 @@ function stats() {
 
 function boats() {
   const by = {};
-  LOG.forEach(e => (by[e.boat] = by[e.boat] || []).push(e));
+  LOG.filter(e => e.boat !== "Ashore").forEach(e => (by[e.boat] = by[e.boat] || []).push(e));
   const order = Object.keys(by).sort((a, b) => sum(by[b], "hours") - sum(by[a], "hours"));
   $("#boats").innerHTML = order.map(b => {
     const a = by[b], ys = a.map(e => e.year).sort();
@@ -221,7 +221,7 @@ function entry(e) {
   extra.push(dlong(e.date));
   if (e.model) extra.push(`${e.boat}, ${e.model}`);
   if (e.t24) extra.push(`24 h pace ${fmt(e.t24, 1)} NM`);
-  if (e.photo_only) extra.push("Not in my written log, this day was found in the photo album");
+  if (e.photo_only) extra.push(e.boat === "Ashore" ? "A visit ashore, from the photo album" : "Not in my written log, this day was found in the photo album");
   if (e.role === "crew") extra.push(e.boat === "First Light" ? "ASA 101 course, I was crew with an instructor" : "I was crew, not skipper");
   const temp = e.temp_f != null ? `${e.temp_f}°F` : "";
   const line = `
