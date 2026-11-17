@@ -507,15 +507,34 @@ def feedback_html(lang, slug, rel, path):
     return (f'<aside class="fb"><p>{u["fb_text"]}</p>'
             f'<a class="fbbtn" href="{esc(href)}">✉ {u["fb_btn"]}</a></aside>')
 
-def coffee_html(lang, slug):
-    """Buy Me a Coffee box at the end of English project stories only (Viktor, Nov 2026)."""
+COFFEE_LEAD = {  # Buy Me a Coffee box text by page (English only, Viktor, Nov 2026)
+    "story": ("Enjoyed this story?", "If it saved you some time or money, you can buy me a coffee. "
+              "It helps keep the stories and the design files coming."),
+    "workshop/": ("Found something useful here?", "These files are free. If one saved you some time or money, "
+                  "you can buy me a coffee. It helps me keep designing, testing and sharing."),
+    "log": ("Enjoyed the log?", "If you liked sailing along, you can buy me a coffee. "
+            "It helps keep Vira sailing and the stories coming."),
+}
+
+
+def coffee_box(kind):
     url = site.get("coffee_url", "")
-    if not url or lang != "en" or slug.rstrip("/") not in order:
+    if not url:
         return ""
-    return ('<aside class="coffee"><p><b>Enjoyed this story?</b> Everything here is free, with no ads. '
-            'If it saved you some time or money, you can buy me a coffee. '
-            'It helps keep the stories and the design files coming.</p>'
+    head, text = COFFEE_LEAD[kind]
+    free = "" if kind == "workshop/" else " Everything here is free, with no ads."
+    return (f'<aside class="coffee"><p><b>{head}</b>{free} {text}</p>'
             f'<a class="cfbtn" href="{esc(url)}" target="_blank" rel="noopener">☕ Buy me a coffee</a></aside>')
+
+
+def coffee_html(lang, slug):
+    """Coffee box: English project stories and Workshop only (not Contact, The Boat or other pages)."""
+    if lang != "en":
+        return ""
+    if slug.rstrip("/") in order:
+        return coffee_box("story")
+    return coffee_box(slug) if slug in COFFEE_LEAD else ""
+
 
 def end_boxes(lang, slug, rel, path):
     """Coffee and feedback boxes; side by side on wide screens when both are there."""
@@ -678,7 +697,15 @@ shutil.copytree(f"{B}/tools/assets", f"{OUT}/assets", dirs_exist_ok=True)  # inc
 shutil.copy(f"{B}/tools/assets/favicon.ico", f"{OUT}/favicon.ico")  # browsers ask for /favicon.ico
 # Sailing log: published at /sailing-log/ but not linked from any page and not in the sitemap (Viktor, Nov 2026)
 os.makedirs(f"{OUT}/sailing-log", exist_ok=True)
-shutil.copy(f"{B}/sailing-log/index.html", f"{OUT}/sailing-log/index.html")
+log_html = open(f"{B}/sailing-log/index.html", encoding="utf-8").read()
+if site.get("coffee_url") and '<footer class="foot' in log_html:  # coffee box above the log's footer, own small style
+    log_html = log_html.replace('<footer class="foot', (
+        '<style>.coffee{margin:40px 0 0;padding:18px 20px;border:1px solid var(--brass);border-left:6px solid var(--brass);'
+        'border-radius:6px;background:var(--paper);display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 20px}'
+        '.coffee p{margin:0;font-size:18px;flex:1 1 260px}.cfbtn{font-family:var(--f-display);font-size:20px;font-weight:600;'
+        'text-transform:uppercase;letter-spacing:.04em;padding:8px 22px;border-radius:6px;background:var(--brass);color:#fff;'
+        'text-decoration:none;white-space:nowrap}</style>' + coffee_box("log") + '\n  <footer class="foot'), 1)
+open(f"{OUT}/sailing-log/index.html", "w", encoding="utf-8").write(log_html)
 
 posts = {(v["date"], v["ptitle"]) for v in sec.values() if v["kind"] == "post"}
 stats = {"posts": len(posts), "photos": sum(len(photos_of(EN[p])) for p in order),
