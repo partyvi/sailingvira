@@ -1,3 +1,4 @@
+@font-face{font-family:'Kotyhoroshko';src:url('fonts/kotyhoroshko-bold.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
 /* Layout: a logbook. Condensed signage type for names, serif for the story, mono for dates and day numbers. */
 :root{
   --bg:#F2F5F6; --paper:#FFFFFF; --ink:#10222E; --muted:#56666F; --line:#D3DCE0;
@@ -95,7 +96,7 @@ h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.0
 /* site bar, language switch, footer, notices */
 .sitebar{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;padding-bottom:14px;border-bottom:1px solid var(--line)}
 .sitebar a{font-family:var(--f-mono);font-size:13px;text-decoration:none}
-.sitebar .brand{font-family:var(--f-display);font-size:22px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--ink)}
+.sitebar .brand{font-family:'Kotyhoroshko',var(--f-display);font-size:22px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--ink)}
 .sitebar nav{display:flex;gap:6px 16px;flex-wrap:wrap;align-items:center}
 .lang a{padding:2px 6px;border:1px solid transparent;border-radius:4px}
 .lang a[aria-current]{border-color:var(--line);color:var(--ink)}
@@ -109,7 +110,7 @@ h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.0
 .banner.home{aspect-ratio:16/7;min-height:320px;max-height:640px;background-position:center 62%}
 .band{display:flex;flex-wrap:wrap;align-items:center;gap:6px 22px;background:rgba(16,34,46,.62);color:#fff;
   padding-block:10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-.band .brand{font-family:var(--f-display);font-size:24px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#fff;text-decoration:none}
+.band .brand{font-family:'Kotyhoroshko',var(--f-display);font-size:24px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:#fff;text-decoration:none}
 .band .lang{order:3;display:flex;gap:4px}
 .band .lang a{font-family:var(--f-mono);font-size:12.5px;color:#DCE7EC;text-decoration:none;padding:2px 6px;border:1px solid transparent;border-radius:4px}
 .band .lang a[aria-current]{border-color:rgba(255,255,255,.45);color:#fff}
@@ -122,7 +123,7 @@ h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.0
 .band a:focus-visible{outline:2px solid #E0B85C;outline-offset:2px}
 @media (max-width:860px){.band .lang{order:2;margin-left:auto}.tabs{order:3;flex-basis:100%}}
 .hero-t{padding-left:max(16px,env(safe-area-inset-left,0px));padding-bottom:18px}
-.hero-t h1{margin:0;color:#fff;font-size:clamp(72px,14vw,170px);font-weight:700;text-transform:uppercase;line-height:.9;
+.hero-t h1{margin:0;color:#fff;font-family:'Kotyhoroshko','Barlow Condensed',sans-serif;font-size:clamp(72px,14vw,170px);font-weight:700;text-transform:uppercase;line-height:.9;
   text-shadow:0 2px 18px rgba(0,0,0,.35)}
 /* home tiles */
 .mast h1{display:none}
