@@ -73,6 +73,26 @@ h1,h2,h3{font-family:var(--f-display);margin:0;line-height:1.05}
 .notes h4.pr{color:var(--warn)}
 .notes p{margin:0;max-width:78ch;white-space:pre-line}
 .notes .extra{font:13px var(--f-mono);color:var(--muted)}
+.strip{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:6px;max-width:900px}
+.strip button{all:unset;cursor:zoom-in;position:relative;display:block;aspect-ratio:4/3;border-radius:4px;overflow:hidden;background:var(--line)}
+.strip button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.strip img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .2s}
+.strip button:hover img{transform:scale(1.04)}
+.play{position:absolute;inset:auto auto 6px 6px;font:500 11px var(--f-mono);color:#fff;background:rgba(0,0,0,.6);border-radius:99px;padding:2px 7px}
+.cam{display:inline-flex;align-items:center;gap:3px;margin-left:6px;font:500 11.5px var(--f-mono);color:var(--accent);vertical-align:2px}
+.cam svg{width:13px;height:13px}
+#lb{border:0;padding:0;max-width:100vw;max-height:100vh;width:100vw;height:100vh;background:rgba(5,12,16,.94);color:#E3EBEE}
+#lb::backdrop{background:rgba(5,12,16,.94)}
+#lb .fr{position:absolute;inset:0 0 56px;display:flex;align-items:center;justify-content:center;padding:12px}
+#lb img{max-width:100%;max-height:100%;object-fit:contain;border-radius:3px}
+#lb .bar{position:absolute;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:0 16px;font:13px var(--f-mono)}
+#lb .bar a{color:#62B9D6}
+#lb button{font:500 22px var(--f-mono);color:#E3EBEE;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);border-radius:99px;width:44px;height:44px;cursor:pointer}
+#lb .nav{position:absolute;top:50%;transform:translateY(-50%)}
+#lb .prev{left:12px}#lb .next{right:12px}
+#lb .x{position:absolute;top:12px;right:12px}
+#lb .vid{position:absolute;font:500 15px var(--f-mono);background:rgba(0,0,0,.65);color:#fff;padding:10px 16px;border-radius:99px;text-decoration:none}
+@media (max-width:640px){#lb .nav{top:auto;bottom:6px;transform:none}#lb .prev{left:8px}#lb .next{right:8px}#lb .bar{justify-content:center;flex-direction:column;gap:2px;padding:0 60px;text-align:center}}
 .empty{padding:40px 0;color:var(--muted);font-style:italic}
 .foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line)}
 @media (max-width:1000px){
@@ -103,11 +123,16 @@ h1,h2,h3{font-family:var(--f-display);margin:0;line-height:1.05}
     <select id="f-water" aria-label="Water"></select>
     <select id="f-year" aria-label="Year"></select>
     <input id="f-q" type="search" placeholder="Search notes: reef, fog, autopilot…" aria-label="Search notes">
-    <label><input id="f-notes" type="checkbox"> with notes only</label>
+    <label><input id="f-notes" type="checkbox"> with notes</label>
+    <label><input id="f-photos" type="checkbox"> with photos</label>
     <button id="f-order" type="button" aria-label="Change order">Newest first ↓</button>
   </div>
   <div class="shown" id="shown" aria-live="polite"></div>
   <main id="log"></main>
+  <dialog id="lb" aria-label="Photo viewer"><div class="fr"><img id="lb-img" alt=""><a id="lb-vid" class="vid" target="_blank" rel="noopener" hidden>▶ Play video in Google Photos</a></div>
+    <button class="nav prev" id="lb-prev" type="button" aria-label="Previous photo">‹</button><button class="nav next" id="lb-next" type="button" aria-label="Next photo">›</button>
+    <button class="x" id="lb-x" type="button" aria-label="Close">×</button>
+    <div class="bar"><span id="lb-cap"></span><a id="lb-link" target="_blank" rel="noopener">Open in Google Photos</a></div></dialog>
   <footer class="foot mono">Updated {{updated}} from my sailing log spreadsheet. Wind in knots, waves in feet. Lake Murray days with exactly 5 h and 9 NM are my estimates, I did not log every one.</footer>
 </div>
 <script>
@@ -118,11 +143,13 @@ const fmt = (n, d = 0) => n == null ? "" : Number(n).toLocaleString("en-US", {ma
 const day = iso => { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d)); };
 const dshort = iso => day(iso).toLocaleDateString("en-GB", {day: "numeric", month: "short", timeZone: "UTC"});
 const dlong = iso => day(iso).toLocaleDateString("en-GB", {weekday: "short", day: "numeric", month: "short", year: "numeric", timeZone: "UTC"});
+const CAM = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg>';
+const PIX = (u, w, h) => `${u}=w${w}-h${h}`;
 LOG.forEach((e, i) => { e.i = i; e.year = e.date.slice(0, 4); e.hay = [e.weather, e.sail, e.problems, e.boat, e.water, e.frm, e.to].join(" ").toLowerCase(); });
 
 const sum = (a, k) => a.reduce((s, e) => s + (e[k] || 0), 0);
 const isProblem = p => p && !/^(no |nope|no problems|no incidents)/i.test(p.trim());
-const state = {boat: "", water: "", year: "", q: "", notes: false, newest: true};
+const state = {boat: "", water: "", year: "", q: "", notes: false, photos: false, newest: true};
 
 function stats() {
   const sailing = LOG.filter(e => e.hours);
@@ -135,6 +162,7 @@ function stats() {
     [new Set(LOG.map(e => e.boat)).size, "boats"],
     [fmt(maxNm.nm, 1) + " NM", "longest day, " + dshort(maxNm.date) + " " + maxNm.year],
     [maxGust.gust + " kn", "strongest gust logged"],
+    ...(LOG.some(e => e.photos) ? [[fmt(LOG.reduce((s, e) => s + (e.photos || []).length, 0)), "photos and videos"]] : []),
   ];
   $("#stats").innerHTML = items.map(([b, s]) => `<div><b>${b}</b><span class="mono">${s}</span></div>`).join("");
 }
@@ -193,6 +221,7 @@ function entry(e) {
   extra.push(dlong(e.date));
   if (e.model) extra.push(`${e.boat}, ${e.model}`);
   if (e.t24) extra.push(`24 h pace ${fmt(e.t24, 1)} NM`);
+  if (e.photo_only) extra.push("Not in my written log, this day was found in the photo album");
   if (e.role === "crew") extra.push(e.boat === "First Light" ? "ASA 101 course, I was crew with an instructor" : "I was crew, not skipper");
   const temp = e.temp_f != null ? `${e.temp_f}°F` : "";
   const line = `
@@ -209,10 +238,14 @@ function entry(e) {
       ${cell("n", "engine", fmt(e.motor, 2), "engine hours")}
       ${cell("n", "aboard", aboard(e), e.role === "crew" ? "I was crew" : "people aboard, me included")}
     </span>`;
-  const hasNotes = notes.length > 0;
+  const ph = e.photos || [];
+  const hasNotes = notes.length > 0 || ph.length > 0;
   if (!hasNotes) return `<div class="row"><div class="sum">${line}<span class="ic"></span></div></div>`;
-  const body = notes.map(([h, t, warn]) => `<div><h4${warn ? ' class="pr"' : ""}>${h}</h4><p>${esc(t)}</p></div>`).join("");
-  const flag = notes.some(n => n[2]) ? ' <span class="warn" title="something went wrong">!</span>' : "";
+  let body = notes.map(([h, t, warn]) => `<div><h4${warn ? ' class="pr"' : ""}>${h}</h4><p>${esc(t)}</p></div>`).join("");
+  if (ph.length) body += `<div><h4>Photos</h4><div class="strip">${ph.map(([u, w, h, link, v], k) =>
+    `<button type="button" data-e="${e.i}" data-k="${k}" aria-label="${v ? "Video" : "Photo"} ${k + 1} of ${ph.length}, ${esc(dlong(e.date))}"><img loading="lazy" src="${esc(PIX(u, 320, 240))}-p" srcset="${esc(PIX(u, 640, 480))}-p 2x" alt="">${v ? `<span class="play">▶ ${Math.floor(v / 60)}:${String(v % 60).padStart(2, "0")}</span>` : ""}</button>`).join("")}</div></div>`;
+  const flag = (notes.some(n => n[2]) ? ' <span class="warn" title="something went wrong">!</span>' : "")
+    + (ph.length ? `<span class="cam" title="${ph.length} photos">${CAM}${ph.length}</span>` : "");
   return `<details class="row"><summary>${line}<span class="ic" aria-hidden="true">›</span></summary>
     <div class="notes">${body}<div><h4>Log</h4><p class="extra">${esc(extra.join(" · "))}</p></div></div></details>`.replace('<span class="b">' + esc(e.boat) + '</span>', '<span class="b">' + esc(e.boat) + flag + '</span>');
 }
@@ -221,7 +254,7 @@ function render() {
   const q = state.q.trim().toLowerCase();
   let a = LOG.filter(e => (!state.boat || e.boat === state.boat) && (!state.water || e.water === state.water)
     && (!state.year || e.year === state.year) && (!q || e.hay.includes(q))
-    && (!state.notes || e.sail || e.weather || e.problems));
+    && (!state.notes || e.sail || e.weather || e.problems) && (!state.photos || e.photos));
   if (state.newest) a = a.slice().reverse();
   $("#shown").textContent = `${a.length} entries · ${fmt(sum(a, "hours"), 1)} h · ${fmt(sum(a, "nm"), 1)} NM` + (sum(a, "motor") ? ` · ${fmt(sum(a, "motor"), 1)} engine h` : "");
   if (!a.length) { $("#log").innerHTML = `<p class="empty">Nothing in the log for that. Yet.</p>`; return; }
@@ -238,6 +271,29 @@ $("#f-water").onchange = e => { state.water = e.target.value; render(); };
 $("#f-year").onchange = e => { state.year = e.target.value; render(); };
 $("#f-q").oninput = e => { state.q = e.target.value; render(); };
 $("#f-notes").onchange = e => { state.notes = e.target.checked; render(); };
+$("#f-photos").onchange = e => { state.photos = e.target.checked; render(); };
+
+// photo viewer
+const lb = $("#lb"); let cur = null;
+function show() {
+  const [u, w, h, link, v] = cur.e.photos[cur.k];
+  $("#lb-img").src = PIX(u, 1800, 1800);
+  $("#lb-img").alt = `${v ? "Video" : "Photo"}, ${dlong(cur.e.date)}`;
+  $("#lb-cap").textContent = `${dlong(cur.e.date)} · ${cur.e.boat} · ${cur.k + 1} / ${cur.e.photos.length}`;
+  $("#lb-link").href = link; $("#lb-vid").href = link; $("#lb-vid").hidden = !v;
+  $("#lb-prev").hidden = $("#lb-next").hidden = cur.e.photos.length < 2;
+}
+const step = d => { cur.k = (cur.k + d + cur.e.photos.length) % cur.e.photos.length; show(); };
+$("#log").addEventListener("click", ev => {
+  const b = ev.target.closest(".strip button"); if (!b) return;
+  cur = {e: LOG[+b.dataset.e], k: +b.dataset.k}; show(); lb.showModal();
+});
+$("#lb-prev").onclick = () => step(-1); $("#lb-next").onclick = () => step(1); $("#lb-x").onclick = () => lb.close();
+lb.addEventListener("keydown", ev => { if (ev.key === "ArrowLeft") step(-1); if (ev.key === "ArrowRight") step(1); });
+lb.addEventListener("click", ev => { if (ev.target === lb || ev.target.classList.contains("fr")) lb.close(); });
+let tx = null;
+lb.addEventListener("touchstart", ev => { tx = ev.touches[0].clientX; }, {passive: true});
+lb.addEventListener("touchend", ev => { if (tx == null) return; const dx = ev.changedTouches[0].clientX - tx; if (Math.abs(dx) > 50) step(dx < 0 ? 1 : -1); tx = null; });
 $("#f-order").onclick = e => { state.newest = !state.newest; e.target.textContent = state.newest ? "Newest first ↓" : "Oldest first ↑"; render(); };
 render();
 </script>
