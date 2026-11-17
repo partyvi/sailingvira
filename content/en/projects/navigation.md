@@ -6,7 +6,7 @@ order: 2
 description: OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC
 ---
-I didn't want to buy a plotter and a box of instruments. I wanted to build my own: a Raspberry Pi with OpenPlotter, a home-made autopilot from an old Autohelm, a wind instrument on a mount I cast right on the mast, and in the end a "NavPod" with real buttons. It took four years, and it's still growing. Engineers never finish; they just release the next version.
+ I didn't want to buy a plotter and a box of instruments. I wanted to build my own: a Raspberry Pi with OpenPlotter, a home-made autopilot from an old Autohelm, a wind instrument on a mount I cast right on the mast, and in the end a "NavPod" with real buttons. It took four years, and it's still growing. Engineers never finish; they just release the next version.
 
 ## The old compass
 
@@ -112,9 +112,6 @@ Good night, marina. The one with the spreader lights on is my Vira.
 Diary: [4 Dec 2022](https://irwin34.blogspot.com/2022/12/day-66-66-12322-12422-water-tank.html)
 
 
-
-
-
 ## OpenPlotter comes alive
 
 January 2024, the picture of the day: OpenPlotter running on the installed hardware. And inside the electronics compartment.
@@ -157,7 +154,7 @@ Then I mounted the display with VHB tape, to hold it and leave a 2 mm gap betwee
 Diary: [10 Jun 2023](https://irwin34.blogspot.com/2023/06/day-93-61023-galley-countertop-fit-to.html)
 
 
-## Planning the autopilot
+## Planning the autopilot rudder drive
 
 In September 2022 I measured the steering for an autopilot.
 
@@ -169,13 +166,13 @@ In February 2023 I did a lot of calculations. The final plan: close to a wheel d
 
 I wanted a 300 mm wheel on the rudder stock, driven by a timing belt. The force at 300 mm is 300 N·m / 0.15 m = 2,000 N, the starting point for picking a belt. I chose an 18 mm HTD belt with fiberglass cords: 130 N/mm x 18 mm = 2,340 N, 17% spare. The pulleys: a 300 mm wheel and a 37 mm, 24-tooth sprocket, for 8.1:1.
 
-![Notebook sketch of the steering geometry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcZZ8eFSv5N2tdCPH7mSXVolGnx7YitLLlH8qp7aVZFzUjaydsWKuY9cj4_b3Ua8ZpvGvX6qcH3Oifp8PUf88plfjkSIayaCDBUkDEf_kTa_LgH3H-kTYrqfz3FwdohKzmAjW4vc2-qlEbRlZ17GWBHy9G74vos7a_iUq3Ul9EzVVJlv0QTXYqG053KA/s1600/IMG_3771.HEIC)
 ![3D model of the autopilot belt wheel drive](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-bHZi88GZav2GNJTkam8eE0QnUSpyZxVsJyH4WglW-7wMFmFC5XBU8oUNDyJ0b_PHiD6Oiw1DeA7UEWPgC9rtAb0iHXIAZvfblABMYebAcwLCURdvAmZv3Tc66XRzuD5IdVf9WkCjwZmHCFRMTeyxXrGIOtzGP3uzB1-e57q6KEg6JIkCF-U8xnyRBw/s1600/Untitled12.png)
 ![HTD timing belt specification table](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8myzNzjc7ieMAxfmrdYOb-uC0caJHs-e-9gFOJ9gps5gp2E3YKyykJWOzzbVq9ZYkhE1q1NUQ4_hVTwB01fL9rVu5qC_lv2BPVEWRQUkj_kFg8u9mj1_3DiYZZdOKrB5XfKdRoJVZo-H13fTC0alu5XFJUdzOheBQ4yFNXrjGqtlO7UHQd7gdrOZkA/s1600/Untitled11.png)
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% power it'll last forever. Maybe not efficient; we'll see. 4,300 RPM, 4 lb-in, 0.45 N·m. With a 100:1 gearbox and the 8.1:1 belt, that's 0.45 x 810 = 364 N·m, and 4,300 / 810 = 5 RPM at full power: 11 seconds per turn, or 2.5 seconds lock to lock. I'll need to limit the speed. (Spoiler: this plan never got built. A year later I found a used Autohelm for a very reasonable price.)
+The motor I had: a 200 W SIM motor. Big overkill, but I have two, and at 20% power it'll last forever. Maybe not efficient; we'll see. 4,300 RPM, 4 lb-in, 0.45 N·m. With a 100:1 gearbox and the 8.1:1 belt, that's 0.45 x 810 = 364 N·m, and 4,300 / 810 = 5 RPM at full power: 11 seconds per turn, or 2.5 seconds lock to lock. I'll need to limit the speed.
+(Spoiler: this plan never got built to final design. A year later I found a used Autohelm for a very reasonable price. I sourced and made 80% for this project and 80% parts still sit in my workshop).
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
@@ -216,7 +213,9 @@ In April the drive was wired to the Raspberry Pi. It turns the rudder easily and
 
 Diary: [21 Apr 2024](https://irwin34.blogspot.com/2024/04/day-139-421-autopilot-drive-connection.html)
 
-In May the IMU went on a gimbaled mount: the small black box.
+In May the IMU went on a gimbaled mount: the small black box. 
+Technically I do not need it gimbled i can just calibrateit right, later i just put it on the base board. 
+
 
 ![IMU on a gimbaled mount in the locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VMc5-2UWE0rdWXSd0zaR-CPuewNqxe7ZgaTG6BB-SyyoulDcref0fhQMreof07xbxuUDWmMk2VNwxlkjbIrVeyJWAN7kmjzdPD1vuGqEWtdh2aLQ_ANVZVWeXyGOB0RkyHqXpbQ9WJbErZNprMre1Xx3tr75cfxaWLnrDhIU7HwoDvk_Dq8JEG8rr0N9/s1600/IMG_8203.HEIC)
 
