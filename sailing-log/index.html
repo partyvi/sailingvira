@@ -292,8 +292,12 @@ const step = d => { cur.k = (cur.k + d + cur.e.photos.length) % cur.e.photos.len
 $("#log").addEventListener("click", ev => {
   const b = ev.target.closest(".strip button"); if (!b) return;
   cur = {e: LOG[+b.dataset.e], k: +b.dataset.k}; show(); lb.showModal();
+  history.pushState({lb: 1}, "");          // phone/browser Back closes the viewer, not the page
 });
 $("#lb-prev").onclick = () => step(-1); $("#lb-next").onclick = () => step(1); $("#lb-x").onclick = () => lb.close();
+let byBack = false;
+window.addEventListener("popstate", () => { if (lb.open) { byBack = true; lb.close(); } });
+lb.addEventListener("close", () => { if (!byBack && history.state && history.state.lb) history.back(); byBack = false; });
 lb.addEventListener("keydown", ev => { if (ev.key === "ArrowLeft") step(-1); if (ev.key === "ArrowRight") step(1); });
 lb.addEventListener("click", ev => { if (ev.target === lb || ev.target.classList.contains("fr")) lb.close(); });
 let tx = null;
