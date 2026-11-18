@@ -27,7 +27,7 @@ I knew the gearshift was hard, so hard that the remote control mount was losing 
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-On Day 6 I took the shift cable and the whole control box out for cleaning,,and  replaced the fuel gauge, put a "winter heater" in the engine compartment (a 200 W lamp on a thermostat)
+On Day 6 I took the shift cable and the whole control box out for cleaning, replaced the fuel gauge, and put a "winter heater" in the engine compartment (a 200 W lamp on a thermostat).
 
 ![Old engine control box with the shift cable](https://blogger.googleusercontent.com/img/a/AVvXsEi33mKwy9wUZ9kAp8lXeYZ0N8kNKVDHrEB0vQvJj15L__9z0c6ey2b-7J-3l4QJScOKTebIIAmVPvp3qCJ5hRW86uS15MR7nmHkkWz4vc7ZivozfzYfb5hwdj3-zqV7SZxKTBMcTOl8QfPnfLd4eYrPwZbhTzQznSDsMcM2PoYHWCTfgKUIek2sC8Godw=s1600)
 ![Engine control mechanism taken out for cleaning](https://blogger.googleusercontent.com/img/a/AVvXsEi1ovMpyh-f-eRlRnLWbDtfM-mJbVVOTfUEQRl4vpkVvXhIHqNQ8k7OVCgk1zpFEa3ZsEzjncoUQkabV6wVSSV5jILFcymmUOv3YQ6vAhnXIoYyi5pA6YNgIOQzaLMIylvKL9iEsdXYSCpHC_rT15TLHhFsO7AEnoyyp8Sl2i-Nrmp4tu4Iwulg7qrQ4g=s1600)
@@ -84,7 +84,7 @@ February 2023: an oil check and 30 minutes at mid RPM. All good, a little white 
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-## The poor guy exhaust and mixing elbow
+## A poor man's exhaust and mixing elbow
 
 In October 2024 I looked at the exhaust. It's made of 1-1/2 inch black steel pipe, probably water plumbing. Does it work? Sure. Will it keep working? Maybe. Is the mixing elbow great? Maybe. I don't like it. Will I redo it? Maybe, later, likely. Here are the dimensions, just in case.
 
@@ -93,7 +93,7 @@ In October 2024 I looked at the exhaust. It's made of 1-1/2 inch black steel pip
 
 Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-oil-change.html)
 
-## Hole from engine compartment to the cabin glassed. 
+## The hole from the engine room to the cabin, glassed
 
 Then the engine room "shelf". The builders had left an opening there: just a hole from the engine room straight into the cabin. So the engine room wall hung in the air, and any splash there ended up making the pilot berth really wet. I glassed it over. I also stiffened the joint between the bulkhead and the deck. It was very weak; the bulkhead moved about an inch from side to side when the steering was loaded. I'm not sure this is the right fix, but I hope it supports the bulkhead sideways. The extra glass will be cut or ground later.
 
@@ -297,6 +297,8 @@ Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-e
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
 Is it possible? Yes!!! It's quite an effort, but an average fit man over 50 can do it alone. Better to have a second pair of hands on the decompression lever. And it takes about 5 seconds to start. Yanmar 2QM20, manual start.
+
+Video: [Yanmar 2QM20, manual start](https://www.youtube.com/watch?v=E6v5dPIL5Ig)
 
 Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-emergency-manual.html)
 

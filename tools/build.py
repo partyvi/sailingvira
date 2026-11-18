@@ -47,6 +47,7 @@ for v in sec.values():
 IMG = re.compile(r"^!\[([^\]]*)\]\(([^)\s]+)\)\s*$")
 SRC = re.compile(r"^(Diary|Story page):\s*(.*)$")
 LINK = re.compile(r"\[([^\]]*)\]\(([^)\s]+)\)")
+VIDEO = re.compile(r"^Video:\s*\[([^\]]*)\]\((\S*(?:youtube\.com/watch\?v=|youtu\.be/|youtube\.com/shorts/)([\w-]{11})\S*)\)\s*$")
 CARD = re.compile(r"^Card:\s*\[([^\]]+)\]\(([^)\s]+)\)\s*(?:\|\s*(.*))?$")
 PAIR = re.compile(r"^Was/now:\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*(?:\|\s*(.*))?$")
 ITEM = re.compile(r"^Item:\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*\[([^\]]+)\]\(([^)\s]+)\)\s*(?:\|\s*([^|]*))?(?:\|\s*(\S*))?\s*$")
@@ -86,7 +87,7 @@ def read_md(path):
 
 
 def parse_body(body):
-    """Body -> (intro blocks, chapters). Blocks: {"p"}, {"h3"} (### line), {"ul"}, {"g": [urls], "src": [links]}."""
+    """Body -> (intro blocks, chapters). Blocks: {"p"}, {"h3"} (### line), {"video"} (Video: line), {"ul"}, {"g": [urls], "src": [links]}."""
     intro, chapters, cur, para = [], [], None, []
 
     def target():
@@ -110,6 +111,9 @@ def parse_body(body):
             if not (t and "g" in t[-1] and not t[-1]["src"]):
                 t.append({"g": [], "src": []})
             t[-1]["g"].append((m.group(2), m.group(1).strip())); continue
+        m = VIDEO.match(ln)
+        if m:  # Video: [title](YouTube link) -> the video plays in the page
+            flush(); target().append({"video": (m.group(1).strip(), m.group(3))}); continue
         m = SRC.match(ln)
         if m:
             flush()
@@ -455,6 +459,11 @@ def blocks_html(blocks, lang, alt, rel=""):
                                          f'<img src="{esc(size(u, "w800"))}" loading="lazy" alt="{esc(a or alt)}"><span>{lab}</span></button>')
                 h.append(f'<figure class="pair"><div class="gal pairg">{fig(u1, a1, was)}{fig(u2, a2, now)}</div>'
                          + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
+        elif "video" in b:
+            t, vid = b["video"]
+            h.append(f'<figure class="video"><div class="vframe"><iframe src="https://www.youtube-nocookie.com/embed/{vid}" '
+                     f'title="{esc(t)}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" '
+                     f'allowfullscreen></iframe></div>' + (f"<figcaption>{esc(t)}</figcaption>" if t else "") + "</figure>")
         elif "h3" in b:
             h.append(f'<h3 class="sub">{b["h3"]}</h3>')
         elif "p" in b:

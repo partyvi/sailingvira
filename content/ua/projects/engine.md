@@ -27,13 +27,10 @@ Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-chec
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-На 6-й день я вийняв трос перемикання й усю коробку керування на чистку, закінчив витягати гнилу фанеру з носової каюти, замінив покажчик пального, поставив у моторний відсік «зимовий обігрівач» (200-ватна лампа на термостаті) і вичистив гниле дерево з гальюна, щоб відкрити доступ до путенсів. Придатні лише дверцята шафки й модуль шухляд.
+На 6-й день я вийняв трос перемикання й усю коробку керування на чистку, замінив покажчик пального і поставив у моторний відсік «зимовий обігрівач» (200-ватна лампа на термостаті).
 
 ![Стара коробка керування двигуном із тросом перемикання](https://blogger.googleusercontent.com/img/a/AVvXsEi33mKwy9wUZ9kAp8lXeYZ0N8kNKVDHrEB0vQvJj15L__9z0c6ey2b-7J-3l4QJScOKTebIIAmVPvp3qCJ5hRW86uS15MR7nmHkkWz4vc7ZivozfzYfb5hwdj3-zqV7SZxKTBMcTOl8QfPnfLd4eYrPwZbhTzQznSDsMcM2PoYHWCTfgKUIek2sC8Godw=s1600)
 ![Механізм керування знятий на чищення](https://blogger.googleusercontent.com/img/a/AVvXsEi1ovMpyh-f-eRlRnLWbDtfM-mJbVVOTfUEQRl4vpkVvXhIHqNQ8k7OVCgk1zpFEa3ZsEzjncoUQkabV6wVSSV5jILFcymmUOv3YQ6vAhnXIoYyi5pA6YNgIOQzaLMIylvKL9iEsdXYSCpHC_rT15TLHhFsO7AEnoyyp8Sl2i-Nrmp4tu4Iwulg7qrQ4g=s1600)
-![Гальюн, вичищений від гнилого дерева](https://blogger.googleusercontent.com/img/a/AVvXsEiXhSpdSQz2jOUFwnSgEqCbC0Rdmn1RGv1dFQN-FZLgJXL6CQMV8_PPEr1t25djonHoiYvo5_-ypP3W9CS169J5wntIL8G0rYGCTXH7Wpb5FtFxvNpoC6cgbyrZ4tZ0AMDoyhCMrIpNucLpDMx6r_wafU_slXn87TiZUX9yElNdrBSONLb1uGDb5i7hBg=s1600)
-![Носова каюта без гнилої фанери](https://blogger.googleusercontent.com/img/a/AVvXsEjAwoHC5FE8w8nr_-DoW2dC0KnUDd4KTtXcJVN932tc0lfEfuiRWUG5dJMsvqOSHxS-bPUS3dlyCukq_te24y5LeexdzyYRaj6MnUp328BldmOF9XE_qLAje5pqJXrSbDGqOs2_Q3eRLsoBEde3CHRoPVCcoshfU6B7j38sIx3Qtsz0Xv4FpFelEtIzVQ=s1600)
-![Сліди води біля паливного рівнеміра](https://blogger.googleusercontent.com/img/a/AVvXsEjI0u8POET7badqT9x2vsgtKerbRnMPJEcvzCe5kF7DbUzoxyQ3Xk2bVv1AafsagYf8CkInz0SXwGaknkCbkvZfQfCeaTdivbrbVRHFAGOeIPIqUBckWfsrk0GTqUXDC72gY80o_rPiMk2l9Ta3zDdMS82x5RJ1OLU2To5rNTON1iUvqlqZw1kS0DI6Lw=s1600)
 ![Старий датчик рівня на паливному баку](https://blogger.googleusercontent.com/img/a/AVvXsEgNbbNyKju_KAr2G3SPEkM3bq8vj8QqTy1SS77SAvhTaQWJRvEfs4dOaWXM2H78Jjjq6n4Gy8ZwCXzCuRVWN34vXE4LeEzKgWLilI5pLxrswDI-SrI5TEOS-yagWqVCat8W4saZuePRDpxw1lMpO6eP6wLn5-Wvc4lBfa_xyLl04eTpRbgMbvDAQzr8gQ=s1600)
 
 Diary: [3 Jan 2022](https://irwin34.blogspot.com/2022/01/6-13-6-hours-generator-clutch-cable.html)
@@ -87,7 +84,7 @@ Diary: [28 Aug 2022](https://irwin34.blogspot.com/2022/08/day-44-828-big-disapoi
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-## Вихлоп і дірка в каюту
+## Вихлоп для бідних і змішувальне коліно
 
 У жовтні 2024-го я подивився на вихлоп. Він зроблений з 1-1/2-дюймової чорної сталевої труби, мабуть, водопровідної. Чи працює? Звісно. Чи працюватиме й далі? Може. Чи добре змішувальне коліно? Може. Мені не подобається. Чи перероблю? Може, згодом, швидше за все. Ось розміри, про всяк випадок.
 
@@ -95,6 +92,8 @@ Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabine
 ![Ескіз розмірів вихлопу в блокноті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCl2ijGtn2t4Pnpl0B4PJP9iTcAYYSoroIu4CDX92Nef-aUuLwdcUbKCsSly-UOPAAQrOANG7E8OcLvUqcDn1avmHXTOHytyBNEDb13lB5JMVnGZahZdyzvQMKMxK63TfSKSOrfEEStaBMdUJNtlBIdVPK-efJnkSuVuLlIg6d-gsj1U7Jc3cdXOoAlIcq/s1600/IMG_9210.HEIC)
 
 Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-oil-change.html)
+
+## Отвір з моторного відсіку в каюту, заформований
 
 Потім «полиця» моторного відсіку. Будівельники залишили там отвір: просто дірку з моторного відсіку прямо в каюту. Тож стінка моторного відсіку висіла в повітрі, і будь-який бризок там врешті робив пілотську койку геть мокрою. Я її заформував. Ще я підсилив з'єднання переборки з палубою. Воно було дуже слабке; переборка ходила приблизно на дюйм з боку в бік, коли стерновий привід був навантажений. Не впевнений, що це правильне рішення, але сподіваюся, воно підтримає переборку вбік. Зайву склотканину пізніше обріжу або зішліфую.
 
@@ -298,6 +297,8 @@ Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-e
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
 Чи це можливо? Так!!! Зусилля чималі, але середній підтягнутий чоловік за 50 упорається сам. Краще мати другу пару рук на важелі декомпресора. І заводиться приблизно за 5 секунд. Yanmar 2QM20, ручний запуск.
+
+Video: [Yanmar 2QM20, ручний запуск](https://www.youtube.com/watch?v=E6v5dPIL5Ig)
 
 Diary: [15 Jun 2025](https://irwin34.blogspot.com/2025/06/day-203-61425-engine-emergency-manual.html)
 
