@@ -1,6 +1,6 @@
 ---
 id: deck-structure
-title: "Deck & structure"
+title: "Deck nightmare & stanchions"
 section: hull
 order: 1
 description: "Re-coring the starboard deck, the deck-to-hull joint, stanchions and drains."
