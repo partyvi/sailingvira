@@ -1,25 +1,19 @@
 ---
 id: electrical
-title: "Electrical system"
+title: Electrical system
 section: electric
 order: 1
-description: "New wiring, electric panel, batteries, inverter, shore power and ELCI."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZjDGXloN-Viv-gVOY_tz9cUl9jrVHuEn60GyXW-k7J53xhBOGh15P7aXt1Ciwwso9t54f1QoxAA5NC0PS2JG7JDe6fijFzJsr02kXPvdK_RIVYaijw403U7rquGzUCg3Oyt2fqQfikFIBRXhHW2nz-xUfGd_dd5sACiYIrwJE0YsjXYEjF/s1600/IMG_6092.HEIC"
+description: New wiring, electric panel, batteries, inverter, shore power and ELCI.
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZjDGXloN-Viv-gVOY_tz9cUl9jrVHuEn60GyXW-k7J53xhBOGh15P7aXt1Ciwwso9t54f1QoxAA5NC0PS2JG7JDe6fijFzJsr02kXPvdK_RIVYaijw403U7rquGzUCg3Oyt2fqQfikFIBRXhHW2nz-xUfGd_dd5sACiYIrwJE0YsjXYEjF/s1600/IMG_6092.HEIC
 ---
 A 40-year-old boat with 40-year-old wiring: bare copper, twisted joints under electrical tape, a burned-out alternator and two dead batteries. I ended up replacing every wire on Vira, then built a new panel, and then went into lithium, inverters, and a long list of lessons about smart batteries that are a little too smart.
 
 ## The alternator
 
-In January 2022 I took the alternator home to check it. I hoped it was just the regulator. Opening the case showed burned stator windings, so now it's good only as a boat anchor. I had a 63 A automotive alternator in the garage with a different mount, and with a hacksaw and my hands I adapted it to the Yanmar 2QM20. Later I'll take an AC signal for the tachometer and add voltage control, so long engine runs don't overcharge the batteries. LATER.
+In January 2022 I took the alternator home to check it. I hoped it was just the regulator. Opening the case showed burned stator windings, so now it's good only as a boat anchor. I had a 63 A automotive alternator in the garage with a different mount, and with a hacksaw and my hands I adapted it to the Yanmar 2QM20. Later I'll take an AC signal for the tachometer and add voltage control, so long engine runs don't overcharge the batteries. BUTLATER.
 
 ![Burned-out original alternator opened up](https://blogger.googleusercontent.com/img/a/AVvXsEivKWHnkP6lt-K7iVMMjzknNQ3gV4iDCdHIVRgZVLklYdQFhFRlJym4rB9UC8d35RlvxVUxQJhEICZD1iWUCkIjJP07YZpu_382VONb3QofVQikXZuO5EzPWPqXWPgIZMOFEcrIdeuk1lrWznbFMN4eqIjn_mfK6EO3n2h-sSzOtBVEW_KgZYhc52rQlQ=s1600)
 ![63 A automotive alternator on the workbench](https://blogger.googleusercontent.com/img/a/AVvXsEjJ7OI6vBKjgJwKBJl3mtUnZNcDcFCDGEsMQxGx43sSkUr-jKdhdSXInBgc1E37gIMZ64_IXbC2VkyNrqGloNrg4WVc1Xjx_bHxrd4KHMchmPhmD04FlhtLrvgproQitVA_Kp0w2DuyrfzZVrUaRqbfxsXT0cwm7f2a5MS0xzrzt_cofn4K_oWrrCQPbQ=s1600)
-![Masthead from below with the old fittings](https://blogger.googleusercontent.com/img/a/AVvXsEjMWczqE7i5UBD8WNjFa5KXWb2_aJ6HsnAyQY9Vv-MJ2lCmTM3jgKnjOEcAG1B4MY8xCktUsu3hKrbesbcTKOGKIiMqo0fROxKS4UbRi0BuI4V0MVfdoH_WQyv092C4EfaINqvysqj-wBtNah0ycmm37CZC8p8Lro7fSYl4T0NDKY09ZysfUsaWEb5dAg=s1600)
-![Masthead with the old steaming light mount](https://blogger.googleusercontent.com/img/a/AVvXsEhHDYASP6-Dt9duXKVAix5k2D781VQ-Rv4cV-LODGU6U6-Ls8tnS37uS6mNViptRA0MojFHK7U-u8YDn4t6dxeZDI7ykm4Ynz1owhhHy-mVPpYnq8Yv-onlmWQe-Ll75ugJoRUMbfoll0M6PNkUmWgY9Axh5M0hcs7a9UQwilaUoq1-WtYwWr1E_1YBCQ=s1600)
-![Looking up the mast to the top](https://blogger.googleusercontent.com/img/a/AVvXsEjt6mvMyIYQaOGuo122BMsq-BFNUU_7ywZBO9XBksaJsI7gaSTESkG8kL1zLui9dx-JGk07vUsjos0MOnKtTSLPKv_cV2bJMVN_5QAmUq6qZuCIVs3q15EOsZAtXDQqOlL8CEGRUgtvL0Cj9g3d6UBCQUTx9QeLaKlrxwqF6l6Ef_GRcq-Pie3PE38mew=s1600)
-![Mast with the wooden bosun's seat (video still)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWMSVekcut4mpgna8mdT0YJvmLVwfhSdIh6J_SH6nMvmJtFL3CxgpFjC9ARE12z1MfYAmdWrbSmLHaw4MeOqm7_sTMt297NNzycAtreolZwemt1uML7ZL8Wu0Dev0hE6LdPMVWmjODcoCBLgyzHSJrVYPpLdGOUm2LS_X2NzISUdUm-zAkYgTWe3x_fA/s1600/IMG_2629.PNG)
-![Masthead crane and old wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlqu31coiEK4fE3-34INspizzLNoOOqo7uxWKXZ1gk_F5NJuaqhVhFwDQKukRzdH9ysTXf4shvpVHyzp83T3Ukn8xlPa0jA9Hr8U1LoIvwzLQbPvDI6z3b9WRAOShqEgWDcr2KdgIl9EKna0QBmCvwBckV4sZ-L5Ox2Na8o_dGKqyMBrrxzSqWE1txg/s1600/IMG_2630.PNG)
-![Halfway up the mast with the bosun's seat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5aL4WS5ecLoh-QzX5YCFd7D1hObRlLbkJSjw49dbCQjGZdroaUEcIByrGKOmeFV7BXYTgFoKQalUj9TL2MPv2pxNroBa7eKbyQpfWrf4v77cAjqXf88h4LsqBVnb1V6pMukbWUFC1JH1QKtXjLL0Xq2H7igXwTSPA22ctiFmb9JePGnRlixNBw4WUBw/s1600/IMG_2631.PNG)
 
 Diary: [17 Jan 2022](https://irwin34.blogspot.com/2022/01/day-7-checking-alternator-2-hours-at.html)
 Diary: [10 Jan 2022](https://irwin34.blogspot.com/2022/01/day-10-116-install-63a-alternator-take.html)
@@ -31,7 +25,9 @@ That month the new shore power cord went in, and the old one was retired.
 
 Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-stay-chainplate.html)
 
-And the steaming light mount. Really?
+##The steaming light mount. Really?
+
+It is fun, but this light will be replaced only in 2026 when I would redo mast coating on boatyard.
 
 ![Old steaming light on the mast](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi74UupV9wMS4AFDf_FtyXT5-ZCmTVOswBa9lIZu0F6FC3cPheBXKB7SRDS57kahVvIWDNY85lsfxum3RsVkOrskbC-LX40LIDM0beBf-N8HtWAyhj_EZquSPRKf1L30FyTro91cg-h0BjlsJaFUWBWZplkrI2KqpIWkXiicVD5_QBH1Kx_gcn5VB85vw/s1600/IMG_3010.HEIC)
 ![Steaming light mount on the mast](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihZY9FRSqq3g175osLYFiXAamxVe4qJGwaOW0o8cCp-3R1WLAOSUja8J1QGVa1U6Z9xPXVT5z_5hlfo5WT_Z-tmc2XTIRHX9JtzEcwkky4O0La2jOy9GMaYX4P5IyjEGpwPt5hqNwk_IK5yz5zWtjw3N4uWhIswQy12TGCtIwKYKZSvuz0GVj61-tj0A/s1600/IMG_3012.HEIC)
@@ -44,9 +40,14 @@ June 2022 brought one more surprise: the original wiring goes down the starboard
 
 Diary: [25 Jun 2022](https://irwin34.blogspot.com/2022/06/day-33-625-big-day-fresh-water.html)
 
-September 2022. I knew the original wiring was 40 years old, not tinned, not "marine", and that the 110 V outlets were corroded. But what I found under the ORIGINAL electrical tape made me feel I had to replace everything. Fun #1: during the build they apparently cut the wires in the head cabinet too short, added a piece with two loose twists and covered it with tape. I'm pretty sure it's original; it's the same tape as on all the harnesses. Fun #2: the 110 V outlet by the nav desk had no box at all; it was just pushed into a hole in the liner.
+## Crazy surprize in 110V viring
+
+September 2022. I knew the original wiring was 40 years old, not tinned, not "marine", and that the 110 V outlets were corroded. But what I found under the ORIGINAL electrical tape made me feel I had to replace everything. 
+Fun #1: during the build they apparently cut the wires in the head cabinet too short,added a piece with two loose twists  (not just twist, it was real square knot on wires) and covered it with tape. I'm pretty sure it's original; it's the same tape as on all the harnesses. 
 
 ![Original wiring joint under tape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOM0idtfs_pY3S6Due17XarooxvOP-g6vwsc40OeiodtPZ5RLeTzT45k9y7kIpOUavTq4lJ9CvzwUmBSfCpJ6FJT1OVcEoLFaMtdgkCNifMW0m4BhJl95Oe8u_JwKtOuG5pOUVYcA6WqZ_4S5me6oEJWP0O_Et5H6Wqpk8Zu6XV6WlKL6tHLKGmU0LPA/s1600/IMG_3758.HEIC)
+
+Fun #2: the 110 V outlet by the nav desk had no box at all; it was just pushed into a hole in the liner.
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
