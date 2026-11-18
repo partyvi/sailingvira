@@ -4,6 +4,7 @@ title: Progress reports
 search_title: "Irwin 34 refit progress reports, 2021–2026"
 section: story
 order: 3
+related: [beginning, interior-wood]
 description: Half-year reports and lists of what was done.
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlayTC76XKpGg-do2fFLzW3b5-mhsxYsO9osXyeUk1LFgcob2-FmYiu1pUDx4SlEl0Jte4s2wzakXdn21nA6ASGN7GpMg2VGZlxLBG3IdiulcNv8f--OC8zUa9YFNAPMc4mLvjnFfBoDOqeQTqKIDjiGLHFagJS6r2xYJtEn8s2FTrZrjy_XP2J9Hg/s1600/man%20at%20work.png"
 ---

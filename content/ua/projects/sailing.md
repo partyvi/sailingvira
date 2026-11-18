@@ -4,6 +4,7 @@ title: "Журнал плавань"
 search_title: "Під вітрилами на Irwin 34: озеро Тревіс і Ґалвестон-Бей"
 section: voyages
 order: 1
+related: [jailbreak, sails]
 description: "Дні під вітрилами, люди, погода і життя довкола човна."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC"
 ---
@@ -232,9 +233,13 @@ Diary: [14 Apr 2025](https://irwin34.blogspot.com/2025/04/day-195-navigation-ele
 
 Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-happy-sailing.html)
 
+Video: [Щасливий день під вітрилами при 15–25 вузлах](https://www.youtube.com/watch?v=KICgYPHNjkc)
+
 У червні я воював з 4G Wi-Fi-хотспотом плюс Wi-Fi-клієнтом плюс роутером, щоб мати віддалений доступ до комп'ютера OpenPlotter. Потім знайшов доволі дешевий 4G/Wi-Fi/Ethernet-роутер у вуличному корпусі IP67, з PoE, тож без окремого кабелю живлення. Один пристрій замість трьох, і його можна поставити на щоглу. Поки що він чудово працює навіть у каюті, біля ілюмінатора: до 8 Мбіт/с у місці, де телефон ледве ловить дзвінки. І кілька годин походу після обіду.
 
 Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
+
+Video: [Прогулянка під вітрилами, червень 2025](https://www.youtube.com/watch?v=gJGSP7XUJRo)
 
 У липні до озера Тревіс повернулася вода: 20 футів за 24 години. Води в нас багато! У суботу ми гарно походили під вітрилами, близько 4 годин. Пішли вгору за течією, і десь через 1,5 години гарного ходу нас зупинила поліція й ВВІЧЛИВО попросила повернутися в марину. Потім ми дізналися, що озеро закрили для прогулянкових човнів через усе сміття, що плавало, і що пошукова операція ще триває.
 
@@ -242,6 +247,8 @@ Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-fi
 ![Озеро Тревіс знову повне, липень 2025](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J-cOcbTqP4yhyphenhyphenk50aDzEgZuXbZw3KcaJtbJLGXxiWTK5YEkg5vvERsfW7T5A5yg2yTmvqGOAwIDz7q8B53410zAEXhf7_TETzPJxI3odB9qwjPQ0I08ostCAxuRIiyqTecgmQfiTjhyphenhyphenPpYDmsF8uEe3dyboCHOciQBYYpi2NANhwOfRcYnXoGyzlrsoM/s1600/Travis.png)
 
 Diary: [12 Jul 2025](https://irwin34.blogspot.com/2025/07/day-207-water-came-back-to-lake.html)
+
+Video: [Озеро Тревіс після повені, липень 2025](https://www.youtube.com/watch?v=WvpkmJKm620)
 
 Кілька фото човна.
 
@@ -259,6 +266,12 @@ Diary: [23 Aug 2025](https://irwin34.blogspot.com/2025/08/no-work-on-boat-this-w
 
 Diary: [14 Sep 2025](https://irwin34.blogspot.com/2025/09/day-224-nice-sailing-6-hours-of-staddy.html)
 
+Video: [Під вітрилами на озері Тревіс, вересень 2025](https://www.youtube.com/watch?v=eQUFs0R0fyg)
+
+Video: [Під вітрилами на озері Тревіс, вересень 2025](https://www.youtube.com/watch?v=BLNYG6OTiZw)
+
+Video: [Марина переставляє цілий причал із 20 човнами](https://www.youtube.com/watch?v=PCC8hV999MM)
+
 Останній похід року з друзями був одним з найкращих. Гарний рівний вітер, 4–5 вузлів ходу, крен ніколи не більше 15°. Усе ідеально. Потім три тижні поза містом, а потім — втеча з в'язниці.
 
 ![Останнє плавання року з друзями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjbhZRDXhW3G91n7QhQhZa3bDS_2-IUyhyphenhyphenEkFBhk8O6Cv9KT4phKdqyp5108kuReTVtEFiBnL7IApbC46X0h8d7jKcA2Ss3n30aoV0woh8e3PrvQyAmQi0cNtm-_yjkQmkenJJI132mbVta4L7YmAZ2GC3fABQ3KW8OidBuZUY_e85H2zFKjj_M-bPWZ5/s1600/IMG_1353.HEIC)
@@ -267,6 +280,14 @@ Diary: [14 Sep 2025](https://irwin34.blogspot.com/2025/09/day-224-nice-sailing-6
 ![Останнє плавання року з друзями](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB0RIvH8nb2wydJ-0EwVT6-qgQFju0iIpkODKCG9Kes38G-TgC6qGogEJvPHXVg6a49BJJV2NFyEOSOiGc8QTdlVFbz4QgCj0Oxdcve0ECGGSFzn_i3wIv74PM7Slm3J16zOoMAoKKyoJixtZ7hSQoESqBCEnaGIRrIH7yQ2D9A8T4PUVA7_K-TldG8LFK/s1600/IMG_1376.HEIC)
 
 Diary: [29 Sep 2025](https://irwin34.blogspot.com/2025/09/day-226-nice-sailing-with-friends-last.html)
+
+Video: [Повз нас проходять човни](https://www.youtube.com/watch?v=x8TYEaaK1Dw)
+
+Video: [Повз нас проходять човни](https://www.youtube.com/watch?v=k9NK1XtC2qQ)
+
+Video: [Повз нас проходять човни](https://www.youtube.com/watch?v=Kb8FmJqGDMQ)
+
+Video: [Повз нас проходять човни](https://www.youtube.com/watch?v=R5TdQmT0Vbk)
 
 Дерев'яні козли, щоб тримати щоглу під час перевезення. І трохи на моторі до озера й назад, востаннє на озері Тревіс.
 
@@ -325,6 +346,10 @@ Diary: [22 Mar 2026](https://irwin34.blogspot.com/2026/03/day-259-260-finishing-
 ![Активна неділя під вітрилами в затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5wyCOB6wGQsGFsRAnnB2k27_F4DlRVZs7c-NrAqSY_q2gjCWgA2z0UMdFXeGvEy_l7P9MXIdHJ0-EmslYIPNALKOZO-YFHHDmDENAj5YTrQzwbGAyZgLDWpO5hK0rvIxotwYm3akFWjOPhJvSVYCveKftxU_EjdGFUXOUrDyE_VJmIDdR8h167eEN3ocX/s1600/IMG_1182.HEIC)
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
+Video: [20–25 вузлів, стернує авторульовий](https://www.youtube.com/watch?v=OwL9SxfESv4)
+
+Video: [20–25 вузлів, стернує авторульовий](https://www.youtube.com/watch?v=LLvq3L9mrtg)
 
 ## Прогнози як з рекламного буклета
 

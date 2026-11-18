@@ -4,6 +4,7 @@ title: "Nav station (chart table)"
 search_title: "Nav station rebuild with a built-in 21-inch display"
 section: interior
 order: 5
+related: [navigation, electrical]
 description: "The nav table rebuilt around a 21-inch display, with its own switch panel, tank gauges, a printer and a light that dims."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7xYoKfjrgEkoY5rRo5DjTCy3GTOCimDxHTPBv_CHtdj6_hHiJipJi3fXAReboC022WY5cyy2N0KucpMBQJcZ3G3AzpHbznXb9pEGndYP_gdzRJlP9ECJCbyLA4rDDg3r_RT_fTe7enOlUJufEO5Jok0ACzopdmWAx9tWDPcUUBZiGrHElnkTAmQjg95Ei/s1600/IMG_7174.HEIC"
 ---

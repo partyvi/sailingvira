@@ -4,6 +4,7 @@ title: "Навігаційні прилади й авторульовий"
 search_title: "OpenPlotter, авторульовий PyPilot і Raspberry Pi на яхті"
 section: electric
 order: 2
+related: [navpod, khatkapi]
 description: "OpenPlotter, авторульовий, вітромір, AIS, радар і NavPod."
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC
 ---

@@ -4,6 +4,7 @@ title: "The beginning"
 search_title: "Buying a neglected Irwin Citation 34: first survey"
 section: story
 order: 1
+related: [jailbreak, reports]
 description: "How Vira found me, what she looked like and what was wrong."
 cover: "https://blogger.googleusercontent.com/img/a/AVvXsEiyQA0qbz237Z-QhU0nteMv3hrrlyd5tV-ntYI7hfSgi5_EApb1mdV-_hpwvK0dUpd7DOVl-M_jHydkQh7imqrbXDqsnGq0Qka5sOjYnpb_XrT_7zhJznBQ5yWgYYediGEnB6qH4gg6OIGiSY9gFjvKMk0IMYRaISjfOBq8d3orJIOkBXCzqpeVGOEaWw=s1600"
 ---

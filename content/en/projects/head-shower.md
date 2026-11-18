@@ -4,6 +4,7 @@ title: Head & shower
 search_title: "Boat head and shower rebuild, electric toilet"
 section: interior
 order: 8
+related: [water, bilge-pumps]
 description: Shower walls, head cabinet, a shower that saves water, and a real toilet.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAKZ2tVFdfGN_-Jhw8OPQ682dmXL8bNMMxqJEupatbMvO65tNC7rwwTlFpH9IDdQU00UjM8u0ezlyvo1sj2wJPHkkQ2nAHdpKz4FB8B_YpVaDY1xvJCvYaJAQ45GIthg8RD5yw3RzjDdc9PWNKhAQYhnWT8BfV6nogkXVJ9fhZq5lzhUGx4XTMMo9U4zA/s1600/IMG_9575.HEIC
 ---
@@ -175,6 +176,8 @@ So in June 2025 I made a controller that sends the cold water in the hot pipe ba
 ![Shower head over the head sink](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ZR8S5SIkzw3tW-tfGL7e5aKyv14-hYCFhW3StBuZlC42lNLdoDNf7qc0obr1vL1tdnf4yS1VetASTRCWaquzGuzPA8Md-qTdz6hUi0LngcKRuaPM7hQIsZpqZc7p5I7vvr3AGTup_u04TT7kFrjTMbVy8ptOvF_O4jICDLhTurSoH388PLZVt_o9ijeP/s1600/IMG_0881.HEIC)
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
+
+Video: [The shower controller at work](https://www.youtube.com/watch?v=_55fXIO_SDc)
 
 ## A real toilet, finally
 

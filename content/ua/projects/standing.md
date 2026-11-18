@@ -4,6 +4,7 @@ title: "Стоячий такелаж і путенси"
 search_title: "Нові путенси й такелаж з Dyneema своїми руками"
 section: rig
 order: 2
+related: [mast, sails]
 description: "Нові путенси, обрив штага і перехід на дайніму."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43nNRCZAJBt66v8KFjRednbxmciumiEzd4Te1bNxE1S07YFXKssjf3qcYTTH4qb6j6jJrufYL0IsFfuYIio70MjmLCS6C4mJ2Db_vNqvHKLW2V2Oul0oHPDv6V9bg37Mkjs6lRRAUain4E4mwX4_NRY0jXl8r2wM68RFMDBXjpqaw57N7FRYM5t0AFg/s1600/IMG_5358.HEIC"
 ---

@@ -4,6 +4,7 @@ title: "Fixed windows"
 search_title: "Fixing leaking fixed windows on a 1978 sailboat"
 section: hull
 order: 4
+related: [ports, deck-structure]
 description: "Two long fixed windows: four tries, adhesion tests and, at last, a dry cabin."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcbIOm2n9jBRQUMA0ST4GfkKc5rJSu8x0SkHgmC1gIMVlnSNIj_MByA0zL2_LSGfcrViXUUH9EaaxoIFXDkZQR7Wqhx53zNWK75dD-SNSxD47cxvQd6StaiKVZD5_FQFBJRQk891JhOzIcufyz-rKgUsdxZs15cfJAhuNawlz4aXn5xzWvWLUNpodKjbp2/s1600/IMG_7092.HEIC"
 ---

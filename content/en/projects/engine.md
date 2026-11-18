@@ -4,6 +4,7 @@ title: Engine
 search_title: "Yanmar 2QM20 rebuild: removal, mounts, manual start"
 section: engine
 order: 1
+related: [fresh-water-cooling, fuel]
 description: "Yanmar 2QM20: haul-out, new mounts, fresh water cooling, manual starter."
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC
 ---
@@ -225,6 +226,8 @@ More troubleshooting. I connected a tachometer to know the real RPM. The origina
 
 Diary: [19 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-sanding-and-fillets.html)
 
+Video: [White smoke at high RPM](https://www.youtube.com/watch?v=-jICoR5etc0)
+
 To change the timing on a 2QM20, you take the pump off completely and add or remove shims between the pump and the block. 0.1 mm of shim is about 10° at the crank. I found three 0.34 mm shims. Without any, it was 1–2° early. A 0.1 mm shim would be nice, but I couldn't find one, and I'd rather be a little late than a little early. So one 0.34 went back in, for about 22° (−3 to the mark). Reassembled and started: now it runs all the way to 3,200 RPM with no white smoke! 3,200 is a bit much, but THE ISSUE is fixed.
 
 ![Injection pump on the engine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaPcGdzDhnNqq8Hf1n_OyJcYGnh-oi1lnhk4Q1hEMenJ7x20Uez3DgV4ssxIj6oRxoCt35JypwRJgGuIqgLumCJ6Pniea7nkNx_Ko_vuAjvJw-EWbxnBZW5KBsSxg2vB0nSojpahejNi10vWCTOw8NHpa-nv_E4QDWvR7H2Xk45Wtd0jsN3st8M5YLBA0Y/s1600/pump.png)
@@ -380,6 +383,8 @@ I spent hours cleaning up, so I could take the boat out and test the engine, the
 
 Diary: [13 May 2025](https://irwin34.blogspot.com/2025/05/day-197-engine-testing-under-full-load.html)
 
+Video: [The engine running](https://www.youtube.com/watch?v=wEJMYpkyAtA)
+
 In June: new engine mounts, Ellebogen GT-SDD55 (#120450-06802), as their sales rep recommended. I planned to lift the engine with a hoist, but on the Irwin 34 the companionway is right above it. A car jack? Not enough room under the engine to lift it level. Someone on the forum suggested a basketball as a lift bag, and it works absolutely great. A $9 basketball, pushed in deflated between the oil pan and the bilge floor, then pumped up, and the 400 lb engine came up easily and evenly. Unlike jacks, it even lets you shift the engine from side to side. Then the engine went back down and was tested. All works well. Best $9 I've spent on this boat.
 
 ![Basketball used to lift the engine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLU_OlbsXJesV3Uq3uVbcqDXXrkfLBgqtG5DH-N-_MaON-EP-yMs2bG769_rYfvUSi7BxFFSBWIdFGMusgWxvUjtD-LAcuI34Vng4uKoyEW5YUUb9CXTnfMu4a1w36W5GpJYv-j33XPB6TdT_fj5MEZ8gciB_74RRko_1mapDDhqaL0KwCuDhWTY62-dMs/s1600/Untitled.png)
@@ -387,6 +392,8 @@ In June: new engine mounts, Ellebogen GT-SDD55 (#120450-06802), as their sales r
 ![Engine mount from the side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAnMiG2NYTh00qaDg7rhhJxryBY2twdz_MF5qrQ8LhSp6n7ZLfTLLhR8uOfAesPLQbwUvzn9Rpu4hwHOifem8hnQgSxxpd2j4J0cuLhIF4c_5n9MQqPX23uo1u4MClSLgK9qbzBHvc0gX75zzvKH9gVIsdVrRVt7F-QWeYTQP8rVG0MtouwSYEll0APWCq/s1600/IMG_0785.HEIC)
 
 Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
+
+Video: [Back on the new mounts: the engine tested](https://www.youtube.com/watch?v=w7tDSJbc6jM)
 
 Small things: after the engine went in, the oil was 30 mm above the mark, so I pumped some out (maybe). I measured the coupling, in case I find a way to fit a soft coupling; a standard one doesn't fit. Maybe my own version someday. I'm not sure 3D printed TPU would survive, but it would be interesting to try. I calculated about 110 kg of tangential force on each screw at the full 20 hp and 866 RPM at the gearbox output. The coupling is 4 inches across, with 76–77 mm between screw centers. I measured the draft: about 4.2 feet, and from the water to the top of the pulpit is 10 feet, so about 14 feet in total on a trailer. And I put screws in the stove gimbal, sealed the dry bilge controller board with polyurethane coating, and replaced the GFCI DIN-rail box I had broken a couple of weeks before.
 

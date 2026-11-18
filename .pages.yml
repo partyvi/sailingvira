@@ -35,6 +35,11 @@ content:
       - name: order
         label: Order inside the section
         type: number
+      - name: related
+        label: Related stories (up to 2 ids, e.g. engine)
+        type: string
+        list: true
+        description: Shown as cards at the end of the story. Set it in the English story; Ukrainian uses the same.
       - name: description
         label: One-line description
         type: string
@@ -84,6 +89,11 @@ content:
       - name: order
         label: Order inside the section
         type: number
+      - name: related
+        label: Related stories (up to 2 ids, e.g. engine)
+        type: string
+        list: true
+        description: Shown as cards at the end of the story. Set it in the English story; Ukrainian uses the same.
       - name: description
         label: One-line description
         type: string

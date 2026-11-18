@@ -4,6 +4,7 @@ title: "Opening ports"
 search_title: "Replacing opening portlights on an Irwin 34"
 section: hull
 order: 3
+related: [windows, deck-paint]
 description: "Six new opening ports: a routing template, an angled shim for each one and new plywood panels inside."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuDHb696jBS-VnMmaBFv8m2dNxoMLC4dJnM5YbU8IEpOfjgE1-LXDI9m44DYRCZMls92lX-DgodhpLLq53lytltifjUqqN9J2joFVFIuUi7_OtfkzOAKIC--e_Ummwf9UCgUM6lXci9K6Lq3vHm8WR75t_Pt_DB67aUYpnuc2O3bvkICnptL3Aody9vg/s1600/IMG_3344.HEIC"
 ---

@@ -4,6 +4,7 @@ title: "Палубний кошмар і стійки леєрів"
 search_title: "Ремонт гнилої палуби й стійок леєрів, Irwin 34"
 section: hull
 order: 1
+related: [deck-paint, windows]
 description: "Новий заповнювач правого борту палуби, стик палуби з корпусом, стійки леєрів і шпігати."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbVwnyqjSoDo6RspiLrPmRG9CsqGc1B-FKd0gQOKLrhS6dv5aBvH1q22ZD9hEyo_IqZdAmgPcmMjN5Zpp5nemCoaYzWGbDbxFcVCIihBCRPoRAhkLsa2WwxewwlLQbTvpb9-z7NSUu4QhMNydKNG3SxKywP12E-g99EXJ1tz5qicGOvORBE9Rk3g8d3w/s1600/IMG_4127.HEIC"
 ---

@@ -4,6 +4,7 @@ title: "Подушки"
 search_title: "Як я сам пошив подушки для яхти"
 section: interior
 order: 4
+related: [cabin-table, interior-wood]
 description: "Пошиті власноруч подушки для всієї каюти і засувки з 3D-принтера."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX4NL-ZTopby8IZocosPczw5UQOUauEVMSq46jHwrnH4q4k8XxCnTJ33m9JlJBtoio4c7fl_sa3UC97JSUuePp4EdzL24CAzzLEq8l7xhV2TtHlpDK5eGbyyuQfUjXqQRq7je3w9sIgqQhiS95lEXBdve7TUftyV9zCZXvQ-4q7NyAFxuQR4Tfv5BsxWhQ/s1600/IMG_0703.HEIC"
 ---

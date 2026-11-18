@@ -4,6 +4,7 @@ title: "Bilge pumps"
 search_title: "Bilge pump airlock fix and manual pump rebuild"
 section: safety
 order: 1
+related: [water, small-electronics]
 description: "The manual bilge pump rebuilt, and the main 3,800 GPH pump taught not to airlock."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdsSBpak8DZwmn4ltipRxqje09ZlxVtV23OQjNg12GSoxQQhgvharKIZJEyRR8pj0Je6MCWt6Yq4IUJqM8uUYuivOi_RF3a4xKc5Io8HtYUbPchzVh3JDSk4IAFsowtCuQDfQIWZGmELOg-gg6bujXPKEyl_4raBQsX35-v34yWVoVDPqSk0sb6NbmOw/s1600/IMG_3332.HEIC"
 ---

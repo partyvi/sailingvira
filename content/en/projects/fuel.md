@@ -4,6 +4,7 @@ title: "Fuel tank"
 search_title: "Repairing a leaking integral fuel tank with epoxy"
 section: engine
 order: 3
+related: [engine, steering]
 description: "Opening the leaking integral tank and rebuilding it with fuel-resistant epoxy."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMeQY7Yy-wDHYHhNJbo5CfeKGpEho1FnsWHa_u5Aozcp_XzV50fJYsbBsF-UUUVkx9ShF1Ixlghyzpuh4PHSNeAwv3ieInyo1nDwSkBe4ZJPUg0RKxq1L46IllarUr9pbFPqwyEmFlBLd6aUDiOjbwBJ_rzMyOcJjoXCKKixar48q9TQoOlizfqAmatSoq/s1600/IMG_8799.HEIC"
 ---

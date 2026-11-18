@@ -4,6 +4,7 @@ title: "Steering, rudder & shaft"
 search_title: "Rudder drop, steering quadrant and dripless shaft seal"
 section: engine
 order: 4
+related: [navigation, engine]
 description: "Quadrant, rudder sensor, pedestal guard, rudder drop and dripless seal."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSYmVCuFYOn9WMcJPfKyff_DGeXv_zTTeSr2hFG3SprBIM0nSPX3GjAHF6KS_L7X7NCCJqhvizg1-AD5X4acVAlM1ldtrJ8F_2HB22L1_F6VIaa7-HdVRY5u7VJqxJmmt2LcSszlOlqYWCjvBkPzZ3tUUdd0-i8DiXSHSIoclOR7zzOIvludrVqSQ6lDaD/s1600/IMG_9465.HEIC"
 ---

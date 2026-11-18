@@ -4,6 +4,7 @@ title: "Підлога каюти"
 search_title: "Нова підлога каюти з вінілових панелей"
 section: interior
 order: 2
+related: [interior-wood, cabin-table]
 description: "Полірування старої гелькоутової підлоги, а потім нова підлога з паперових шаблонів, мішків піску і вінілових дощок."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4QUGYMIDtNFRVfvmo1_R_A2xK3OCEym1VTyjkEFDDG80sEIvj5yI-vMVBFT1cNQSu-a5kUos2dIftxO8tLed58l4obX-pyWR7CzTlmq8ZGJZt0t1mRsI6qFkdCqWk-PuuWaD0AMWQE9QrpoZArs34eAzYXm471ljpGsaa6DBrVugFNQAJe1ioAvx5X8U/s1600/IMG_9578.HEIC"
 ---

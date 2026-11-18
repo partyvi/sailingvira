@@ -4,6 +4,7 @@ title: "Jailbreak & boatyard"
 search_title: "Moving a sailboat from Lake Travis to Kemah, TX"
 section: story
 order: 2
+related: [sailing, mast]
 description: "Leaving drought-struck Lake Travis for Kemah, and nine days on the hard."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4AojRpatKVIhIuqm669ho9bWItjoojQvkZ5EDQIahHTv3NwRXQkZs4lk9uyFZxGyx8SE4reBvMBcEU0eN5-4OABigjaJhwIKGX4d0V5aQRegHRQItpBt3FtWr4jQjcrxpUlzRGGYvE1SQMKXQQk1XOlM5VO11KqCutyQuVnwNcJfLuMxBQTVMh_8K4pM/s1600/Resized_20251111_194347_1762911848395.jpeg"
 ---
@@ -247,6 +248,8 @@ My brave crew: Viktor and Andriy. 10 PM, Friday the 13th, 2026. We did it.
 ![Vira arriving at Kemah Boardwalk Marina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVAp81Yfc7Q1Gk18iOvuaqcIbafCEvZ0mZMUdSdG5IHQ0MtYe_m2JDMAN9a0wY9Yf9JqxdL_RVS2wFSjJQk3uCiTBsXRxMeZQ0yqReHlmFaN_vgB7RfOykRJDUvMs57dqbA1yTY4vVbWwymacDkXwG5aTKwoIK3RlriE00oTp8whGgqGRlUZtetzGWLk0x/s1600/IMG_0797.HEIC)
 
 Diary: [17 Feb 2026](https://irwin34.blogspot.com/2026/02/day-254-255-final-things-on-hard-mast.html)
+
+Video: [From the mast top: under the bridge (the best part after 3:26)](https://www.youtube.com/watch?v=aFN6vJsOABw)
 
 ## The next day, and a break
 

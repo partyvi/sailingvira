@@ -4,6 +4,7 @@ title: "Navigation instruments & autopilot"
 search_title: "OpenPlotter, PyPilot autopilot and Raspberry Pi on a sailboat"
 section: electric
 order: 2
+related: [navpod, khatkapi]
 description: OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WPy2xaOe11ocqeYjaR_8iruVwo9_FYJ0iMULeqSy4Qr785WDOL3QilXC7cbDIDaEw23Ex-zzrkm7PeK3q9lHolCl1LN76HXBfzafNJZt1RCGE6iP4pCdAS2p8VMwpitqaYdGJHJveT1FOt4zjYMnE8VM7j0AjWQjUM9Ms_NNK1GDsTNHnZdTOpkl4FYX/s1600/IMG_1570.HEIC
 ---

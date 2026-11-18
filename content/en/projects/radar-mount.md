@@ -4,6 +4,7 @@ title: "Radar mount"
 search_title: "DIY aluminum radar mast mount"
 section: electric
 order: 4
+related: [navigation, mast]
 description: "A one-piece aluminum radar mount for the mast: $115 instead of $300–500."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9jqpfvxR6LpfEIttDeo9-Vs24BuiMnrnYWRV1dsCVnVm-oUwEdW3DmtNzNz6wwCs9GGWfisI39Ee0spgRKSBk4V8iHCE5OOKfcN0bwUCf3cNSD8AOXZUpz51USY78ypPqw_WuPrkiMW9fJUemG_CnzzW0bPWBggLtH0tvWEIUG5YVsDLPn1hsdvDwt4Z4/s1600/R52.png"
 ---

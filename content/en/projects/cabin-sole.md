@@ -4,6 +4,7 @@ title: "Cabin sole"
 search_title: "New cabin sole with vinyl planks, DIY"
 section: interior
 order: 2
+related: [interior-wood, cabin-table]
 description: "Polishing the old gelcoat floor, then a new floor from paper templates, sand bags and vinyl planks."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4QUGYMIDtNFRVfvmo1_R_A2xK3OCEym1VTyjkEFDDG80sEIvj5yI-vMVBFT1cNQSu-a5kUos2dIftxO8tLed58l4obX-pyWR7CzTlmq8ZGJZt0t1mRsI6qFkdCqWk-PuuWaD0AMWQE9QrpoZArs34eAzYXm471ljpGsaa6DBrVugFNQAJe1ioAvx5X8U/s1600/IMG_9578.HEIC"
 ---

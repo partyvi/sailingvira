@@ -4,6 +4,7 @@ title: "Sails & running rigging"
 search_title: "New mainsail, reefing, sail pack and dodger"
 section: rig
 order: 3
+related: [mast, standing]
 description: "Sail pack, the new mainsail, boom, reefing, winches, bimini and dodger."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxHK5TXVBlcdEd82WmhRokCuDQYKj0JY5ifcl3et545x4xTti-7CeKGZMxYSq18EcVYJbR35Y_huMn_5Pq3MjbTySs7eBtKTEaJ1uIesaRmTAr2neS43IzCIKowHYZhg9prccdKK-tumxf83m1_Wa9oQomwE4TTFvvL3Zw8nsunWk6BiEyDVHRJiFteQi/s1600/IMG_1563.HEIC"
 ---
