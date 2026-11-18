@@ -1,6 +1,7 @@
 ---
 id: videos
 title: "Відео"
+search_title: "Відео: вітрила й відновлення яхти"
 slug: videos/
 tab: videos
 eyebrow: "Sailing Vira на YouTube"

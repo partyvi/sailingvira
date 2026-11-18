@@ -1,9 +1,10 @@
 ---
 id: radar-mount
 title: "Radar mount"
+search_title: "DIY aluminum radar mast mount"
 section: electric
 order: 4
-description: "A one-piece aluminum radar mount for the mast: $114 instead of $300–500."
+description: "A one-piece aluminum radar mount for the mast: $115 instead of $300–500."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9jqpfvxR6LpfEIttDeo9-Vs24BuiMnrnYWRV1dsCVnVm-oUwEdW3DmtNzNz6wwCs9GGWfisI39Ee0spgRKSBk4V8iHCE5OOKfcN0bwUCf3cNSD8AOXZUpz51USY78ypPqw_WuPrkiMW9fJUemG_CnzzW0bPWBggLtH0tvWEIUG5YVsDLPn1hsdvDwt4Z4/s1600/R52.png"
 ---
 My son gave me a B&G Halo20+ radar, and it needed a home on the mast. Ready-made mounts cost $300–500 or more, so I designed my own: one piece of aluminum for $114. It's also in my original diary article: [Rigid radar mount for $115](https://diary.sailingvira.com/p/rigid-radar-mount-for-115.html).

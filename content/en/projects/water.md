@@ -1,6 +1,7 @@
 ---
 id: water
 title: "Plumbing & fresh water"
+search_title: "Fresh water tanks, PEX plumbing and water heater"
 section: interior
 order: 9
 description: "The sump box, osmosis in the tanks, new plumbing, pumps and the water heater."

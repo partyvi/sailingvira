@@ -1,6 +1,7 @@
 ---
 id: jailbreak
 title: "Jailbreak & boatyard"
+search_title: "Moving a sailboat from Lake Travis to Kemah, TX"
 section: story
 order: 2
 description: "Leaving drought-struck Lake Travis for Kemah, and nine days on the hard."

@@ -1,6 +1,7 @@
 ---
 id: small-electronics
 title: "Маленькі електронні проєкти"
+search_title: "Саморобна електроніка для яхти: трюм, газ, душ"
 section: electric
 order: 6
 description: "Саморобні контролери: KhatkaPi, газ, душ, сухий трюм, заповнення бака, підсвітка."

@@ -1,6 +1,7 @@
 ---
 id: about
 title: "Про мене"
+search_title: "Про Віктора, інженера й яхтсмена"
 slug: about/
 tab: about
 portrait: assets/viktor.webp

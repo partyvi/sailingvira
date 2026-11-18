@@ -1,6 +1,7 @@
 ---
 id: windows
 title: "Fixed windows"
+search_title: "Fixing leaking fixed windows on a 1978 sailboat"
 section: hull
 order: 4
 description: "Two long fixed windows: four tries, adhesion tests and, at last, a dry cabin."

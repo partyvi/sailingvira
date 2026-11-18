@@ -1,6 +1,7 @@
 ---
 id: sailing
 title: "Журнал плавань"
+search_title: "Під вітрилами на Irwin 34: озеро Тревіс і Ґалвестон-Бей"
 section: voyages
 order: 1
 description: "Дні під вітрилами, люди, погода і життя довкола човна."

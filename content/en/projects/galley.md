@@ -1,6 +1,7 @@
 ---
 id: galley
 title: "Galley"
+search_title: "Sailboat galley rebuild: teak countertop, propane"
 section: interior
 order: 6
 description: "A rotten galley rebuilt: new base, teak countertop, propane, painted cabinets, a drawer and a gimbaled microwave."

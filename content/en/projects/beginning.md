@@ -1,6 +1,7 @@
 ---
 id: beginning
 title: "The beginning"
+search_title: "Buying a neglected Irwin Citation 34: first survey"
 section: story
 order: 1
 description: "How Vira found me, what she looked like and what was wrong."

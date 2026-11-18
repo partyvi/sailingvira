@@ -1,6 +1,7 @@
 ---
 id: navigation
 title: "Navigation instruments & autopilot"
+search_title: "OpenPlotter, PyPilot autopilot and Raspberry Pi on a sailboat"
 section: electric
 order: 2
 description: OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod.

@@ -1,6 +1,7 @@
 ---
 id: about
 title: About me
+search_title: "About Viktor, engineer and sailor"
 slug: about/
 tab: about
 eyebrow: Viktor

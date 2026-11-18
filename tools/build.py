@@ -575,7 +575,33 @@ def analytics_html(lang):
             "var l=document.getElementById('cklink');if(l)l.onclick=function(e){e.preventDefault();"
             "try{localStorage.removeItem(k)}catch(x){}location.reload()}})();</script>")
 
-def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home=False, path=None):
+def ld_html(items):
+    """Structured data (schema.org JSON-LD) for search engines; invisible to visitors."""
+    if not items:
+        return ""
+    data = items[0] if len(items) == 1 else {"@context": "https://schema.org", "@graph": items}
+    if len(items) == 1:
+        data = {"@context": "https://schema.org", **data}
+    return '\n<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+
+
+def ld_owner():
+    return {"@type": "Person", "name": "Viktor", "url": f"{BASE}/about/"}
+
+
+def ld_crumbs(lang, items):
+    """items: [(name, slug)], slug relative to the language root."""
+    return {"@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": i + 1, "name": n, "item": f"{BASE}/{url_of(lang)}{sl}"}
+        for i, (n, sl) in enumerate(items)]}
+
+
+def search_title(m, title):
+    """'search_title' in front matter: the headline in Google and the browser tab; the page keeps its title."""
+    return f"{m.get('search_title') or title} · {site['name']}"
+
+
+def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home=False, path=None, ld=None):
     path = path or url_of(lang) + slug + "index.html"
     rel = "../" * path.count("/")
     home_href = rel + url_of(lang) or "./"
@@ -608,7 +634,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 <meta name="description" content="{esc(desc)}">
 {robots}<link rel="canonical" href="{BASE}/{url_of(lang)}{slug}">{alts}
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}">
-<meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{BASE}/{url_of(lang)}{slug}">{og_img}
+<meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{BASE}/{url_of(lang)}{slug}">{og_img}{ld_html(ld)}
 <link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" href="/assets/favicon-32.png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <link rel="stylesheet" href="{rel}assets/style.css?v={ASSET_V}">
@@ -758,16 +784,28 @@ for lang in LANGS:
         html_body = (head + f'<div class="layout"><div class="story">' + "\n".join(body) + "</div>"
                      f'<aside class="toc">{"".join(toc)}</aside></div>' + nav)
         photos = photos_of(p)
-        page(f"{pid}/", lang, f"{title} · {site['name']}", blurb, html_body,
-             m.get("cover") or (photos[-1] if photos else ""), lightbox=True, tab=tab_of(pid))
+        cover = m.get("cover") or (photos[-1] if photos else "")
+        dates = sorted(d for c in p["chapters"] for d in chapter_info(c)[0] if d)
+        art = {"@type": "Article", "headline": m.get("search_title") or title, "name": title, "description": blurb,
+               "inLanguage": HTML_LANG[lang], "author": ld_owner(), "publisher": {"@type": "Organization", "name": site["name"], "url": BASE},
+               "mainEntityOfPage": f"{BASE}/{url_of(lang)}{pid}/", "isPartOf": {"@type": "WebSite", "name": site["name"], "url": BASE}}
+        if cover:
+            art["image"] = size(cover if re.match(r"https?://", cover) else BASE + "/" + cover.lstrip("/"), "w1200")
+        if dates:
+            art["datePublished"], art["dateModified"] = dates[0], dates[-1]
+        tab_slug = "voyages/" if tab_of(pid) == "sailing" else "projects/"
+        crumbs = ld_crumbs(lang, [(site["name"], ""), (TAB[tab_of(pid)][1][lang], tab_slug), (title, f"{pid}/")])
+        page(f"{pid}/", lang, search_title(m, title), blurb, html_body,
+             cover, lightbox=True, tab=tab_of(pid), ld=[art, crumbs])
 
     # -- projects and sailing lists
     for key, slug in (("projects", "projects/"), ("sailing", "voyages/")):
         label = TAB[key][1][lang]
         lead = HOME_UI[lang]["projects_p"] if key == "projects" else HOME_UI[lang]["sail_p"]
-        page(slug, lang, f"{label} · {site['name']}", lead,
+        st = text((site.get("search_titles") or {}).get(key), lang) if (site.get("search_titles") or {}).get(key) else ""
+        page(slug, lang, f"{st or label} · {site['name']}", lead,
              f'<header class="phead"><h1>{esc(label)}</h1><p>{esc(lead)}</p></header>' + groups_html(key, lang, "../"),
-             tab=key)
+             tab=key, ld=[ld_crumbs(lang, [(site["name"], ""), (label, slug)])])
 
     # -- site pages from content/<lang>/pages (fall back to English)
     for gid, enp in PG["en"].items():
@@ -794,7 +832,7 @@ for lang in LANGS:
         if m.get("updated"):  # e.g. the Upgrades log, kept in step with the blog page
             body.append(f'<p class="updated mono">{UPDATED[lang]}: {fmt_full(str(m["updated"]), lang)}</p>')
         side = f'<aside class="toc">{"".join(toc)}</aside>' if len(toc) > 2 else ""
-        page(slug, lang, f"{title} · {site['name']}", blurb,
+        page(slug, lang, search_title(m, title), blurb,
              head + f'<div class="layout{"" if side else " one"}"><div class="story">' + "\n".join(body) + f"</div>{side}</div>",
              m.get("cover", ""), lightbox=True, tab=m.get("tab"))
 
@@ -868,8 +906,14 @@ window.svDiary = function (d) {{
 }};
 </script>
 <script src="{esc(diary_feed)}/feeds/posts/default?alt=json-in-script&amp;max-results=5&amp;callback=svDiary" async></script>"""
-    page("", lang, f"{site['name']} · {text(h['eyebrow'], lang)}", text(h["intro"], lang), body,
-         site.get("banner_home", ""), tab="home", home=True)
+    hst = (site.get("search_titles") or {}).get("home")
+    home_title = f"{text(hst, lang)} · {site['name']}" if hst else f"{site['name']} · {text(h['eyebrow'], lang)}"
+    org = {"@type": "Organization", "@id": f"{BASE}/#org", "name": site["name"], "url": BASE,
+           "logo": f"{BASE}/assets/logo-round.png", "founder": ld_owner(),
+           "sameAs": [u for u in (site.get("youtube_url"), site.get("diary_url")) if u]}
+    web = {"@type": "WebSite", "name": site["name"], "url": BASE, "inLanguage": [HTML_LANG[l] for l in LANGS], "publisher": {"@id": f"{BASE}/#org"}}
+    page("", lang, home_title, text(h["intro"], lang), body,
+         site.get("banner_home", ""), tab="home", home=True, ld=[org, web])
 
 # -- 404, sitemap, robots
 page("", "en", f"{UI['en']['notfound']} · {site['name']}", UI["en"]["notfound_text"],

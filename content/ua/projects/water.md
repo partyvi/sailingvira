@@ -1,6 +1,7 @@
 ---
 id: water
 title: "Водопровід і прісна вода"
+search_title: "Баки прісної води, труби PEX і бойлер"
 section: interior
 order: 9
 description: "Збірник, осмос у баках, нові трубки, помпи і водонагрівач."

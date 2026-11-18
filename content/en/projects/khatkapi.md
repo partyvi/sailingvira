@@ -1,6 +1,7 @@
 ---
 id: khatkapi
 title: "Baseboard for a Raspberry Pi based OpenPlotter computer"
+search_title: "Raspberry Pi 5 baseboard for OpenPlotter: KhatkaPi"
 section: electric
 order: 5
 description: "KhatkaPi: the baseboard I designed to protect a Raspberry Pi 5 running OpenPlotter on a boat. The design files are public."

@@ -1,6 +1,7 @@
 ---
 id: mast
 title: "Mast"
+search_title: "Mast steps, Nyalic coating and mast work, Irwin 34"
 section: rig
 order: 1
 description: "Mast top survey, mast steps, step-down, Nyalic coating and tuning."

@@ -1,6 +1,7 @@
 ---
 id: interior-wood
 title: "Interior woodwork"
+search_title: "Sailboat interior rebuild: bulkheads, headliner, varnish"
 section: interior
 order: 1
 description: "Bulkheads, headliner, cabinets, trim and many coats of varnish."

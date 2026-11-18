@@ -1,6 +1,7 @@
 ---
 id: beginning
 title: "Початок"
+search_title: "Купівля занедбаної Irwin Citation 34: перший огляд"
 section: story
 order: 1
 description: "Як «Віра» знайшла мене, якою вона була і що з нею було не так."

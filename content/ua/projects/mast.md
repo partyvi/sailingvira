@@ -1,6 +1,7 @@
 ---
 id: mast
 title: "Щогла"
+search_title: "Щогла: сходинки, покриття Nyalic і ремонт"
 section: rig
 order: 1
 description: "Огляд топу, сходинки на щоглі, спуск, покриття Nyalic і налаштування."

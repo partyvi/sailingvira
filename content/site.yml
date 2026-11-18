@@ -23,6 +23,17 @@ banner_strip: assets/banner-strip.webp
 tile_boat: assets/tile-boat.webp
 tile_workshop: assets/tile-workshop.webp
 tile_about: assets/tile-about.webp
+# Headlines in Google and the browser tab for pages without their own file (the page keeps its title).
+search_titles:
+  home:
+    en: "Irwin Citation 34 (1978) DIY refit: every project, step by step"
+    ua: "Irwin Citation 34 (1978): відновлення яхти своїми руками"
+  projects:
+    en: All Irwin Citation 34 refit projects
+    ua: Усі проєкти відновлення Irwin Citation 34
+  sailing:
+    en: Sailing on Lake Travis and Galveston Bay
+    ua: Під вітрилами на озері Тревіс і в Ґалвестон-Бей
 home:
   eyebrow:
     en: Irwin Citation 34 · 1978 · rebuild log

@@ -1,6 +1,7 @@
 ---
 id: navpod
 title: "NavPod"
+search_title: "DIY NavPod: Raspberry Pi helm display with buttons"
 section: electric
 order: 3
 description: "A helm head unit with a 7-inch screen and 26 real buttons, talking to OpenPlotter, Signal K and PyPilot."

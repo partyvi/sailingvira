@@ -1,6 +1,7 @@
 ---
 id: fresh-water-cooling
 title: "Fresh water cooling"
+search_title: "Yanmar 2QM20 fresh water cooling conversion, DIY"
 section: engine
 order: 2
 description: "Converting the Yanmar 2QM20 to fresh water cooling with off-the-shelf parts and a few I made myself."

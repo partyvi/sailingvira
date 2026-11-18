@@ -1,6 +1,7 @@
 ---
 id: hull-bottom
 title: "Hull & bottom"
+search_title: "Bottom job: blisters, barrier coat and topside paint"
 section: hull
 order: 6
 description: "Blisters, barrier coat, topside paint, thru-hulls and her name."

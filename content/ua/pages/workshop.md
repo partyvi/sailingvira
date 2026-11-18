@@ -1,6 +1,7 @@
 ---
 id: workshop
 title: "Майстерня"
+search_title: "Безкоштовні файли для яхти: 3D-моделі, креслення, плати"
 slug: workshop/
 tab: workshop
 eyebrow: "Файли для завантаження"

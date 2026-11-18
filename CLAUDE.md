@@ -68,8 +68,10 @@ Later: scheduled updates, auto-publish, diary moves into the site.
 
 - `content/sections.yml`: the site sections (`id`, `order`, optional `tab: sailing`, `title.en`, `title.ua`).
 - `content/en/projects/<id>.md`: one story per project. The file name is the project id and URL slug.
-  - Front matter: `id` (same as the file name; Pages CMS names new files from it), `title`, `section` (a section id), `order` (position inside the section),
-    `description` (one line), `cover` (photo URL for the project card).
+  - Front matter: `id` (same as the file name; Pages CMS names new files from it), `title`, `search_title` (optional: the headline in Google
+    and the browser tab; the page keeps `title`; Viktor approved all 34 in Nov 2026), `section` (a section id), `order` (position inside the section),
+    `description` (one line), `cover` (photo URL for the project card). Pages in `content/*/pages/` take `search_title` too; Home, Projects and
+    Sailing take theirs from `search_titles:` in site.yml. The build adds schema.org JSON-LD (Article + breadcrumbs; Organization + WebSite on Home).
   - Body is plain Markdown:
     - `## Heading` starts a chapter. Text before the first heading is the intro.
     - `### Heading` is a small heading inside a chapter (not a new chapter; chapter links `#cN` count only `##`).

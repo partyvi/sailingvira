@@ -1,6 +1,7 @@
 ---
 id: small-electronics
 title: "Small electronics projects"
+search_title: "DIY boat electronics: bilge, LPG, shower controllers"
 section: electric
 order: 6
 description: "Home-made controllers: KhatkaPi, LPG, shower, dry bilge, tank fill, lights."

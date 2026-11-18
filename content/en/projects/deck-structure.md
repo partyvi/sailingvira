@@ -1,6 +1,7 @@
 ---
 id: deck-structure
 title: "Deck nightmare & stanchions"
+search_title: "Rotten deck core repair and stanchion rebedding, Irwin 34"
 section: hull
 order: 1
 description: "Re-coring the starboard deck, the deck-to-hull joint, stanchions and drains."
