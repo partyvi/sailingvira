@@ -75,33 +75,37 @@ Laminated plywood piece in the corner of the pilot berth is both inside and outs
 
 Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring-part-1-cockpit.html)
 
-#New my diagram.
+#New my harness diagram. 
+lines representing 2/3 wire cables
 ![New wiring diagram](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7wtQ9oG1IJcwJWnS1jx6GXa7CrU1TB9h96pXWGUoHFN25hGWgaWSiPQOuHbJjQ0BgSN815L_kv_FtA3poFOMye2007T983DMzZtsgT4lzK6kpqggZVVfIfJ24TlKPlfFfOyxfDA8D57aePz0xE_cnzx2aFXpZyw_hw9OxBhnVRetyVJzVNwCutM5CBQ/s1600/Electric.png)
 
 ## Starting to buld harnesses
 Cut in size and build new harness using doubble isolated cable, then wrap harness tape (looks like very thick and wide isolation tape)
 ![Pulling out the old wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8zSdhL_3Fy4u7OzXZSpH4r7bhj1td-8uNxs7qp_RHWxLy6N3Ho6DCtgEkTFrMvOiRBhRLaoHBIWSv5F1au7coMnpoT8iBIfLNNZMV_UGo88IenxAc_BD6aaCGiEjcUI9GzhCCqQvRImvwSoR8LZxh69cRXyw6T_8CVGRkfRK1HaJSaCkr8udsroKryA/s1600/IMG_3778.HEIC)
-
-
-![Original wiring run along the hull above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-JEPsRzmJoFlrH6r8sukwk2px9rVFYg2Lx_aNV_1vtGVjx8S1dLA9no3mPuRQAtgXRlLT2xV6nKP-MgM3GRBJQm6FYK3AKSoa6UXYgoVxvulsFduEOlBdt-aSOuW1pHrpDO4sdwzCkMWIJWc-rr-VJ7uQtKBsykJuTFLfeW9M8ogEDzF0oKBt3M0og/s1600/IMG_3788.HEIC) 
-1
 ![Bundle of old wiring coming out of a locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUzhUN6Lf8J3nGMASFGCK570v7NYZavW8Jk5oJ2q8rJegB81-wdW93HrVjwtqHTPcDzxjxQtjABPq3FnuWRt7qv6kJZbDpCQtVGtZuq2KxwL4BoizEuf-oKYU33jDBr2UD90-jD-F1rFtVgZOuvo41drzDXmSsGhtYmKzOzPEmMh25QdRrgBJmkvDftQ/s1600/IMG_3780.HEIC)
-2
+
+
+![new wiring run along the hull above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-JEPsRzmJoFlrH6r8sukwk2px9rVFYg2Lx_aNV_1vtGVjx8S1dLA9no3mPuRQAtgXRlLT2xV6nKP-MgM3GRBJQm6FYK3AKSoa6UXYgoVxvulsFduEOlBdt-aSOuW1pHrpDO4sdwzCkMWIJWc-rr-VJ7uQtKBsykJuTFLfeW9M8ogEDzF0oKBt3M0og/s1600/IMG_3788.HEIC) 
+
+Port side harness
+![New harness along the hull, starboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitejI5vQazwjf0_4_j1Eymzfc_0MCwoNfSnVsED6zLUKSzkRvGnu6Epyl2XU0EtkIP15CvUtYwYsOews3Y1tgovQ2yHV547BmZDsFdMx4x8Qrp-hwqgW1wO0dhBbh7Ve_ZYFTUZ8M20OkrEPrpDvOIjyy_6xNKt1cauMFpbbEvC6W4m4tRBakWKABDYg/s1600/IMG_3827.HEIC)
+![New harness clipped above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZMoE5Hzw5WHTcCwtgQX5lRxBmpoTrXVgbPGQPhg-LYJ3n70sm4XCzTa2PPHO3_jZA4m_fFmpU1FlhL4QFFZk8s9x4dH2ZOiVBiHmmpakJig-DGCuuF5iyopnvueQC1VXWirm8U-bOsvTI_3kqAjs7hyTsIhRFvdqsoivB0s7gjwi6Z6Hrk17obsJNw/s1600/IMG_3828.HEIC)
+![New wiring above the galley](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDF3oXnscOo7RimH-yxFV_7eRlK62Uiujo9qKqVRxSq1GQ1nNpkIEedAnAgX2cssqN2a7TLS2q9CTpTXVQG3eBzMmFg9ZhQJadrSUOSKfF1m-dX00d9dA7mzETkeWxS92j-OQrNJuhoH-EfEg348ZEgo10wV-wWeC4mWrTFOl6v4xlYKNsTUxlWFcH3g/s1600/IMG_3829.HEIC)
+
+Starboard
+Old harness removed and new is waiting to be installed
 ![Mounting blocks glued to the hull for the harness](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAiwYf02cx4H0qNKRscBSsn95LOtEMQuRfnOZE2cyHzxXZP6jjoZR7OEIvh9vfzjQswNCq9SXcskr-GkmuC4LmUan6IDEKFXJamUFJF2ncDgGkDRdhKlyIUPpk2_Qs221yeqRplsAvrZBoqTZCWSZ_TMqxMff9klCypdOg0hSjoty-FiH3W3M-QqLROg/s1600/IMG_3809.HEIC)
-3
+
+
 ![New harness along the port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmwTiPAShkYtpITeM2SzQcAiOqNmOev5FpdtSTnifnGh_PF3mk7UKCyHSKaL-t1ONbF9SSCNxeicIZ9ARDJxBGct9LxH7m-6QNo5Q6EWPpy9fCKrYW_JBnOoNyztBClCVjDXHWVE9VCwEH7ZGIsTnvg9MmWeY_DukUYWpuQFG4E1yqd6OO6z1-nYZeQ/s1600/IMG_3814.HEIC)
 
-4
-![Pile of new tinned marine wire](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnaisx3LlpigkAN6EvyxVjRII-h9wD5DZ7Ctw3BpmY5f54IdNRistPYFEp0lmqcPV1BfQ8mhy3nPtv0D0iLI12VSf5BSnLd2Hq-tx6R0mKdvsGSSFkKLv3hZrq0aVaaZh4zEIK8Cx5904lmD8EdFJVG6VZqNHepo6XLZEZQ4lZKA-qixKmDYymsRZjow/s1600/IMG_3805.HEIC)
-5![New wires at the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3-JdZCMKujODuYCelWhF8XiOTbOqAPD4T_RBBgHRXy85JIo3Hrg0awJ7OZHV2u0zfmKNHdQkyteVOm-qsr6N3x2Q3oLyMnt5nOKg007jn4Pkx2_Yqhblrqj2-auLdM-GWRnTKFOw2yG-LBoqDXwM46T_qKISzwSiEBTqrhjvzrk_KiE7EQJ-xBPomQg/s1600/IMG_3813.HEIC)
+![New wires waiting to be tedminated](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3-JdZCMKujODuYCelWhF8XiOTbOqAPD4T_RBBgHRXy85JIo3Hrg0awJ7OZHV2u0zfmKNHdQkyteVOm-qsr6N3x2Q3oLyMnt5nOKg007jn4Pkx2_Yqhblrqj2-auLdM-GWRnTKFOw2yG-LBoqDXwM46T_qKISzwSiEBTqrhjvzrk_KiE7EQJ-xBPomQg/s1600/IMG_3813.HEIC)
 
 Diary: [17 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-917-new-wiring-part-2-cockpit.html)
 
 Wires for an electric toilet, the refrigerator, the autopilot and the pumps, all organized along the hull sides. I tested the original battery charger, and, surprise, it was broken: no real charge current, just a little pulsing. A new 3x5 A charger went in, in a temporary place.
 
-![New harness along the hull, starboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitejI5vQazwjf0_4_j1Eymzfc_0MCwoNfSnVsED6zLUKSzkRvGnu6Epyl2XU0EtkIP15CvUtYwYsOews3Y1tgovQ2yHV547BmZDsFdMx4x8Qrp-hwqgW1wO0dhBbh7Ve_ZYFTUZ8M20OkrEPrpDvOIjyy_6xNKt1cauMFpbbEvC6W4m4tRBakWKABDYg/s1600/IMG_3827.HEIC)
-![New harness clipped above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZMoE5Hzw5WHTcCwtgQX5lRxBmpoTrXVgbPGQPhg-LYJ3n70sm4XCzTa2PPHO3_jZA4m_fFmpU1FlhL4QFFZk8s9x4dH2ZOiVBiHmmpakJig-DGCuuF5iyopnvueQC1VXWirm8U-bOsvTI_3kqAjs7hyTsIhRFvdqsoivB0s7gjwi6Z6Hrk17obsJNw/s1600/IMG_3828.HEIC)
-![New wiring above the galley](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDF3oXnscOo7RimH-yxFV_7eRlK62Uiujo9qKqVRxSq1GQ1nNpkIEedAnAgX2cssqN2a7TLS2q9CTpTXVQG3eBzMmFg9ZhQJadrSUOSKfF1m-dX00d9dA7mzETkeWxS92j-OQrNJuhoH-EfEg348ZEgo10wV-wWeC4mWrTFOl6v4xlYKNsTUxlWFcH3g/s1600/IMG_3829.HEIC)
+
 ![Wiring bundles in the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_W_-bbEIxWBvn2VtyR_GPbGNvX1g_crBClTbEJsBHqyEN0uT5VuNj15BLF3Pl9JuWmN5fc-F7fjKVqw4OvItZl12NlBYUOmb0CwNIEMEJ18YaeDT9O-b1vNvm6kgH1zAgMOnaKgZZl_imlYkILOfNHvBehkyWeR-oetKmbcfP9NkP5fDkKl1v4L2a3A/s1600/IMG_3830.HEIC)
 ![Wires for the toilet, fridge and pumps under the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrgFwc_DFgv5M9nTtOCAYWR9PYp5XWmKqE2HPD8ufsbtRwvwnefmmXFl1eA9zTPmCObovXQiUOVEgxt3zbP0WoVGZlNO17aw7XBPH9dq-toE6X7T9L5i-v7hQHYRbImhuWOSAiD4Oed0WNwsJWk-eGiW8Eaoaw2zYvTG-_eFfIUhAALHxx16gcBHj5Yg/s1600/IMG_3833.HEIC)
 ![Temporary charger mount next to the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM7lVP2CFmUOsrV2PXtr48mpqYMF06AEoHz5v1EJWMG65IjL-gILV-wUHlH_xx_htPtCZlawaX5MHsdpq19y6Yx46G1xhPm1JxHvMTx-tOGuV11NyVDE77qPxeYeE9rwIQwNjqLNmy0Q77xNwBnJAsn6xaVq3-nBT80HcfTC2qmAWUYildqOqDsZk1dQ/s1600/IMG_3831.HEIC)
