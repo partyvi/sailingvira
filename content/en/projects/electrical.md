@@ -26,6 +26,7 @@ That month the new shore power cord went in, and the old one was retired due to 
 
 Diary: [22 Jan 2022](https://irwin34.blogspot.com/2022/01/day11-122-port-side-stay-chainplate.html)
 
+
 ##The steaming light mount. Really?
 
 It is fun, but this light will be replaced only in 2026 when I would redo mast coating on boatyard.
