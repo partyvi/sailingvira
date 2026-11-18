@@ -60,7 +60,7 @@ a{color:var(--accent)}
   text-decoration:none;white-space:nowrap;padding-block:2px;border-bottom:2px solid transparent}
 .tabs a:hover{color:#fff}
 .tabs a[aria-current]{color:#fff;border-bottom-color:#E0B85C}
-@media (max-width:1290px){.band .lang{order:2;margin-left:auto}.tabs{order:3;flex-basis:100%}}
+@media (max-width:1420px){.band .lang{order:2;margin-left:auto}.tabs{order:3;flex-basis:100%}}
 @media (max-width:620px){.tabs{gap:0 14px}.tabs a{font-size:16.5px}}
 .wrap{max-width:900px;margin:0 auto;padding:8px max(16px,env(safe-area-inset-right,0px)) 48px max(16px,env(safe-area-inset-left,0px))}
 .mono{font-family:var(--f-mono);font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}

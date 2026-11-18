@@ -129,7 +129,7 @@ content:
         label: Tab it belongs to
         type: select
         options:
-          values: [home, boat, projects, sailing, workshop, videos, about, contact]
+          values: [home, boat, projects, sailing, workshop, videos, links, about, contact]
       - { name: eyebrow, label: Small line above the title, type: string }
       - { name: description, label: One-line description, type: string }
       - { name: cover, label: Photo for sharing (URL), type: string }
@@ -162,7 +162,7 @@ content:
         label: Tab it belongs to
         type: select
         options:
-          values: [home, boat, projects, sailing, workshop, videos, about, contact]
+          values: [home, boat, projects, sailing, workshop, videos, links, about, contact]
       - { name: eyebrow, label: Small line above the title, type: string }
       - { name: description, label: One-line description, type: string }
       - { name: cover, label: Photo for sharing (URL), type: string }
