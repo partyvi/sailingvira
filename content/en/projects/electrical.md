@@ -273,18 +273,14 @@ Diary: [29 Jan 2024](https://irwin34.blogspot.com/2024/01/day-121-122-123-12124-
 
 With the 3 kW inverter and the lithium battery working, I wanted a switch for that "sweet couple". But the first time I connected the battery to the inverter, the BMS shut it off: a huge current spike from charging the inverter's input capacitors. So the capacitors have to be charged first. I added a button and a 100 Ω resistor across the main switch, with an LED showing the voltage across the resistor. Now I "prime" the inverter: press the button and wait until the LED goes out, then switch on. Here's the new power switch panel, dry-fitted.
 
-I also found something pressing on the back of the big cockpit screen, stressing the LCD. It was a USB extender box stuck between the plywood and the display. I cut a hole to take off the strain. It was like digging around a land mine: cut the plywood without breaking into the adapter. I scratched it a little, but it still works. A nice cover next time.
-
 ![Battery switch on the bulkhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgR2tcPevkb-iv67dkIypsL9qdz0DqBDeN8RWjFVBWUfEGv2vSiRyI_W7DldhdtKoEyAgkysxLKOu5jJLCPH4xuWYvw-NgiLsbr2F8NS493-56Gm8vWJG2HM4P76Bwpl5ySt4ZCInysxhdJNdBNylrcnPxsB3br6m5UKv7fvZ1bfLxBvGJokgCrhRvCw65/s1600/IMG_7406.HEIC)
-![Hole behind the cockpit display](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfRg8oRm7Uq1rTgoR4ELf31M0iMZrCdxqJu3gAu-RoeqEzv_cRjQmrrQoRMdP-c203MiSZFZVGMtU1MLyZZy1SEc9GeupwaZtK-yUxuDuEklhAn9WkPFHBKGGxk1bZAnYv0ANgEVVGAFQwZx1RlQdtQRKOjA0NyDubwp_N0I5YiAaMkzOb3vlbKbpzCzkq/s1600/IMG_7404.HEIC)
 
 Diary: [3 Feb 2024](https://irwin34.blogspot.com/2024/02/day-124125-12823-23-24-wind-instrument.html)
 
-All the antenna cables are now joined with N-type connectors, ready to close the headliner. Testing with a handheld VHF, the signal is much better from the masthead antenna. Unfortunately there's no radio check service in Austin; at least I didn't find one. And a "booster" battery, another 1,200 Wh, went in next to my 2,480 Wh lithium-ion inverter battery. The small wire powers the smart monitor. I still need to figure out how to secure the batteries in the locker.
-
+## Antenna cable 
+All the antenna cables are now joined with N-type connectors, ready to close the headliner. Testing with a handheld VHF, the signal is much better from the masthead antenna. Unfortunately there's no radio check service in Austin; at least I didn't find one.
 ![Antenna cables along the ceiling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdWs-6bccy6mMYpbo-g3PX77jQZ_C4417l5t2Cd5fdcweAlg1p2alUV2meTObiIcd5pIzd5v3nSIOdgcIcWxaJ6mhLx9dKtBZSMTIBUUU4cE57uZTgT9n5v-C3Jipl47fyDh44C7RuPa7t7oqdkapdIZBo211iOXOltjStbdEP1Ix59Zkrlg_9VYCyHApW/s1600/IMG_7631.HEIC)
 ![Handheld VHF testing the masthead antenna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcQZqNKFP4TUkHUEvNM1Z8VSZKk53uWCus2CtLXUOuYqEvc-qGDn2p0kPreMVfVUBIbX0c8MnGtBfQOjKqOlvPowCEtzIT5fevJDI61UHKupUJZAt176EZs6Ww0kgmDa6BjJ03M2Y3rZ6gqsyNeCYlLUYHS8r4fyAD62IdJkahSXOIds2bLE3shBxS4mbz/s1600/IMG_7632.HEIC)
-![Booster battery next to the inverter battery](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGyPa_JzQ5148MfvK294m3cOGoH1s1Ml-7F4UuTxx6jeJj9Zr82KluA1jS9qV2FcGbRWcwe3qQyWCatuZ41mhZTc8yvGlbZOi5D6zzb3BCKXNS8Crp5XNiKLBYcQI33SFR1IUH0kdRTCF267ISSC1aooawFV25M5FrBSQJi7MevAI13xt9DVlM8sq9qIxC/s1600/IMG_7630.HEIC)
 
 Diary: [25 Feb 2024](https://irwin34.blogspot.com/2024/02/day-132-225-getting-itchy-again.html)
 
@@ -335,9 +331,9 @@ Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind
 
 ## Lithium lessons
 
-In 2025 the lithium-ion inverter battery (2,480 Wh plus the 1,200 Wh booster) was replaced with one 315 Ah LiFePO4 battery.
+For safety perspective,  when i moved boat to Galveston Bay, in 2025 the lithium-ion inverter battery (2,480 Wh plus the 1,200 Wh booster) was replaced with one 315 Ah LiFePO4 battery. One thing to have boat in small lake, where i can swim side to side, other thing is big water.
 
-March 2026: the new 100 Ah LiFePO4 house battery had been in for a few weeks without a proper fuse. A class-T fuse went on the battery cable. Breaker guards went on the main panel. And a Victron 25 A charger for the inverter battery was wired in behind the panel. Still to do: its 110 V feed, and a relay to block charging when the 110 V system runs from the inverter.
+March 2026: the new 100 Ah LiFePO4 house battery had been in for a few weeks without a proper fuse, but always disconnected when not under supervision. A class-T fuse went on the battery cable. A Victron 25 A charger for the inverter battery was wired in behind the panel. Still to do: its 110 V feed, and a relay to block charging when the 110 V system runs from the inverter.
 
 ![Victron 25 A charger behind the panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqwQ5ZT3V_QSB8Cp8l6lADtiCRCWkUcZZTquOkeKAHhRGvfNHLlOgoCdSzypw-HJh_1Gk7EZnKlNs7URWZ55WH3jenqcm2PI5_UXtVJcXBsIDUw8PTGNXsSDXat-jtfUP9Xgmo6hyphenhyphentwwHCI8ZPKYc7Xw1wys-9HmEkPa0P1OiG5BkM9wv3EacyiKpi0Amc/s1600/IMG_0983.HEIC)
 ![Class-T fuse on the LiFePO4 house battery](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFULt___Wau1YLoiCvE5ro8jzV0SbO08AmWZjMHz24F-jV_5HdSDAlNvTEyQdjPi4cwD1timy_nnF6nAbm4Z93R9WqH4y7MdX_cs-AVGb8ynfPBjiqUzuD_72dOVAfPYBDr0oTubbG0V4LtVAKHPnw_TU6y9oOdj-ZOiRW83W64WBwbJbPPR2ZlGyP86c/s1600/IMG_0894.HEIC)
