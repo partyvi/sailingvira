@@ -1,7 +1,7 @@
 ---
 id: links
 title: "Корисні посилання"
-search_title: "Корисні ресурси для яхти своїми руками: Irwin 34, OpenPlotter, деталі й постачальники"
+search_title: "Корисні посилання для яхти: Irwin 34, OpenPlotter, постачальники"
 slug: links/
 tab: links
 eyebrow: "Ресурси"
