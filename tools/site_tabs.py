@@ -9,5 +9,6 @@ TABS = [("home", "", {"en": "Home", "ua": "Головна"}),
         ("diary", None, {"en": "Boat diary", "ua": "Щоденник"}),
         ("workshop", "workshop/", {"en": "Workshop", "ua": "Майстерня"}),
         ("videos", "videos/", {"en": "Videos", "ua": "Відео"}),
+        ("links", "links/", {"en": "Links", "ua": "Посилання"}),
         ("about", "about/", {"en": "About me", "ua": "Про мене"}),
         ("contact", "contact/", {"en": "Contact", "ua": "Контакти"})]

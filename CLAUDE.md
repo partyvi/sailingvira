@@ -10,7 +10,8 @@ The site is live at **sailingvira.com** (GitHub Pages custom domain since 14 Nov
 - **Languages:** English and Ukrainian from the start (`/engine/` and `/ua/engine/`; folders and keys use `ua`, the HTML language code stays `uk`). Every update is written in both.
 - **Structure:** 2 levels. 8 sections (`content/sections.yml`), 36 projects (`content/en/projects/`). Moved pages forward via `redirects:` in `content/site.yml`.
 - **Tabs (agreed Nov 2026, style A 'Logbook'):** Home · The Boat · Projects · Sailing · Boat diary (Blogger at
-  diary.sailingvira.com; story Diary links keep the irwin34.blogspot.com URLs, Blogger redirects them) · Workshop · Videos · About me · Contact. A section with `tab: sailing` shows under Sailing
+  diary.sailingvira.com; story Diary links keep the irwin34.blogspot.com URLs, Blogger redirects them) · Workshop · Videos · Links (Useful links page,
+  `content/*/pages/links.md`, Nov 2026) · About me · Contact. A section with `tab: sailing` shows under Sailing
   (`/voyages/`), the rest under Projects (`/projects/`). Project URLs stay `/<id>/`.
 - **Tone:** first person, Viktor's voice, "telling the story by a campfire". Simple, human, short sentences,
   his small jokes and reactions. Keep ALL facts, numbers, part names and prices. No generic explanations,
