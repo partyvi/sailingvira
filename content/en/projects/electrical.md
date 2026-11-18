@@ -51,13 +51,14 @@ Fun #2: the 110 V outlet by the nav desk had no box at all; it was just pushed i
 
 Diary: [4 Sep 2022](https://irwin34.blogspot.com/2022/09/days-45-46-93-94-air-conditioner.html)
 
+## Batteries check
 In September I also did a quick test of the house and start batteries: one had 5–6 Ah left, the other 10–15. Both were on the edge of death, so I replaced them.
 
+## Come back to 12V
 Then I found that ALL the original wiring was thick stranded copper, not tinned, and oxidized. Even inside the original harness there were twisted joints. And on my boat every port side wire goes from the main panel to the bow and back. I don't see why. There's a perfect path under the companionway step, and Irwin's own diagram shows the wires there, not around the whole boat. It's not just wire length; it also makes the system more vulnerable to lightning. Here's a nice example of an ORIGINAL power harness: it looks like the wires came out a bit short, and they extended them.
 
-All the wiring was 40 years old, and I didn't trust it anymore, so I decided to replace everything. A couple of hours went into digging out space to route the wires. Then I built the harness, with every wire tagged at both ends, and glued mounting blocks to the hull every 18 inches to hold it.
+All the wiring was 40 years old, and I didn't trust it anymore, so I decided to replace everything. A couple of hours went into digging out space to route the wires. Then I built the harness, with every wire tagged at both ends, and glued mounting blocks to the hull every 18 inches to hold harness.
 
-![Original wiring joint under tape, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4w_Iw27cTytQovsZrjUjc5RaJzxDvp5pTetg1gi6sSwOJwGPz_F3u3ZLdNb-49AJcHqZnWQnWCvsnVX3NNIFD-lYU3FwUc0trEKIuO31QurCqvt1B7OVbdKR2L8vNBg-hjGXY4EjyroKDlJmy67uVKIoxk-UXcWA15nHkIqUCBtP6qDHmzNbWcn5pZw/s1600/IMG_3758.HEIC)
 ![Main cabin side panels removed, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPNqRHoZtSYFoYQaSiOgsZnZd0kNbZCAsFmYpWM4BqoOeVhaHKM6pGiAVaAXMyL_rq3qwGv6YY3aq4JqsQVawwQzv-3DN4akj_XeLbJ6-Eg8FYCzBpaPuQQpt5zdesOfkBoQ78n14Mn2q3qSBF2c_216xQQIIxJHdZnZHnQKr3v41kZBbplHKrccQRQQ/s1600/IMG_3772.HEIC)
 ![Original wiring run along the hull above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-JEPsRzmJoFlrH6r8sukwk2px9rVFYg2Lx_aNV_1vtGVjx8S1dLA9no3mPuRQAtgXRlLT2xV6nKP-MgM3GRBJQm6FYK3AKSoa6UXYgoVxvulsFduEOlBdt-aSOuW1pHrpDO4sdwzCkMWIJWc-rr-VJ7uQtKBsykJuTFLfeW9M8ogEDzF0oKBt3M0og/s1600/IMG_3788.HEIC)
 ![Pulling out the old wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8zSdhL_3Fy4u7OzXZSpH4r7bhj1td-8uNxs7qp_RHWxLy6N3Ho6DCtgEkTFrMvOiRBhRLaoHBIWSv5F1au7coMnpoT8iBIfLNNZMV_UGo88IenxAc_BD6aaCGiEjcUI9GzhCCqQvRImvwSoR8LZxh69cRXyw6T_8CVGRkfRK1HaJSaCkr8udsroKryA/s1600/IMG_3778.HEIC)
