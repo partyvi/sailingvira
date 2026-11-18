@@ -27,13 +27,10 @@ I knew the gearshift was hard, so hard that the remote control mount was losing 
 
 Diary: [31 Dec 2021](https://irwin34.blogspot.com/2021/12/day-5-some-engine-check-sump-and-bilge.html)
 
-On Day 6 I took the shift cable and the whole control box out for cleaning, finished pulling the rotten plywood out of the front cabin, replaced the fuel gauge, put a "winter heater" in the engine compartment (a 200 W lamp on a thermostat), and cleaned the rotten wood out of the head to open access to the chainplates. Only the cabinet door and the drawer module are reusable.
+On Day 6 I took the shift cable and the whole control box out for cleaning,,and  replaced the fuel gauge, put a "winter heater" in the engine compartment (a 200 W lamp on a thermostat)
 
 ![Old engine control box with the shift cable](https://blogger.googleusercontent.com/img/a/AVvXsEi33mKwy9wUZ9kAp8lXeYZ0N8kNKVDHrEB0vQvJj15L__9z0c6ey2b-7J-3l4QJScOKTebIIAmVPvp3qCJ5hRW86uS15MR7nmHkkWz4vc7ZivozfzYfb5hwdj3-zqV7SZxKTBMcTOl8QfPnfLd4eYrPwZbhTzQznSDsMcM2PoYHWCTfgKUIek2sC8Godw=s1600)
 ![Engine control mechanism taken out for cleaning](https://blogger.googleusercontent.com/img/a/AVvXsEi1ovMpyh-f-eRlRnLWbDtfM-mJbVVOTfUEQRl4vpkVvXhIHqNQ8k7OVCgk1zpFEa3ZsEzjncoUQkabV6wVSSV5jILFcymmUOv3YQ6vAhnXIoYyi5pA6YNgIOQzaLMIylvKL9iEsdXYSCpHC_rT15TLHhFsO7AEnoyyp8Sl2i-Nrmp4tu4Iwulg7qrQ4g=s1600)
-![Head with rotted wood cleaned out](https://blogger.googleusercontent.com/img/a/AVvXsEiXhSpdSQz2jOUFwnSgEqCbC0Rdmn1RGv1dFQN-FZLgJXL6CQMV8_PPEr1t25djonHoiYvo5_-ypP3W9CS169J5wntIL8G0rYGCTXH7Wpb5FtFxvNpoC6cgbyrZ4tZ0AMDoyhCMrIpNucLpDMx6r_wafU_slXn87TiZUX9yElNdrBSONLb1uGDb5i7hBg=s1600)
-![Front cabin with the rotted plywood removed](https://blogger.googleusercontent.com/img/a/AVvXsEjAwoHC5FE8w8nr_-DoW2dC0KnUDd4KTtXcJVN932tc0lfEfuiRWUG5dJMsvqOSHxS-bPUS3dlyCukq_te24y5LeexdzyYRaj6MnUp328BldmOF9XE_qLAje5pqJXrSbDGqOs2_Q3eRLsoBEde3CHRoPVCcoshfU6B7j38sIx3Qtsz0Xv4FpFelEtIzVQ=s1600)
-![Water stains at the fuel gauge area](https://blogger.googleusercontent.com/img/a/AVvXsEjI0u8POET7badqT9x2vsgtKerbRnMPJEcvzCe5kF7DbUzoxyQ3Xk2bVv1AafsagYf8CkInz0SXwGaknkCbkvZfQfCeaTdivbrbVRHFAGOeIPIqUBckWfsrk0GTqUXDC72gY80o_rPiMk2l9Ta3zDdMS82x5RJ1OLU2To5rNTON1iUvqlqZw1kS0DI6Lw=s1600)
 ![Old fuel gauge sender on the tank](https://blogger.googleusercontent.com/img/a/AVvXsEgNbbNyKju_KAr2G3SPEkM3bq8vj8QqTy1SS77SAvhTaQWJRvEfs4dOaWXM2H78Jjjq6n4Gy8ZwCXzCuRVWN34vXE4LeEzKgWLilI5pLxrswDI-SrI5TEOS-yagWqVCat8W4saZuePRDpxw1lMpO6eP6wLn5-Wvc4lBfa_xyLl04eTpRbgMbvDAQzr8gQ=s1600)
 
 Diary: [3 Jan 2022](https://irwin34.blogspot.com/2022/01/6-13-6-hours-generator-clutch-cable.html)
