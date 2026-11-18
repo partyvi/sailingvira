@@ -245,7 +245,7 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <link href='{x(LIVE)}/assets/favicon-32.png' rel='icon' type='image/png'/>
 <link href='{x(LIVE)}/assets/apple-touch-icon.png' rel='apple-touch-icon'/>
 <b:include data='blog' name='google-analytics'/>
-<title><b:if cond='data:view.isHomepage'>Boat diary · {x(NAME)}<b:else/><data:view.title.escaped/> · Boat diary · {x(NAME)}</b:if></title>
+<title><b:if cond='data:view.isHomepage'>Boat diary · {x(NAME)}<b:else/><b:eval expr='snippet(data:view.title, {{ length: 52, links: false, linebreaks: false, ellipsis: true }})'/> · {x(NAME)}</b:if></title>
 <link href='https://fonts.googleapis.com' rel='preconnect'/>
 <link href='{FONTS}' rel='stylesheet'/>
 <b:skin version='1.0.0'><![CDATA[{CSS}]]></b:skin>
