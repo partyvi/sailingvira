@@ -518,7 +518,7 @@ def feedback_html(lang, slug, rel, path):
     href = f"{rel}{url_of(lang)}contact/?from=" + urllib.parse.quote(page_url, safe="")
     u = UI[lang]
     return (f'<aside class="fb"><p>{u["fb_text"]}</p>'
-            f'<a class="fbbtn" href="{esc(href)}">✉ {u["fb_btn"]}</a></aside>')
+            f'<a class="fbbtn" href="{esc(href)}" rel="nofollow">✉ {u["fb_btn"]}</a></aside>')
 
 COFFEE_LEAD = {  # Buy Me a Coffee box text by page (English only, Viktor, Nov 2026)
     "story": ("Enjoyed this story?", "If it saved you some time or money, you can buy me a coffee. "
