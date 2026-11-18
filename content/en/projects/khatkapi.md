@@ -4,6 +4,7 @@ title: "Baseboard for a Raspberry Pi based OpenPlotter computer"
 search_title: "Raspberry Pi 5 baseboard for OpenPlotter: KhatkaPi"
 section: electric
 order: 5
+related: [navigation, navpod]
 description: "KhatkaPi: the baseboard I designed to protect a Raspberry Pi 5 running OpenPlotter on a boat. The design files are public."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDISQp8fKd3wdyEauK5By6n9kwOg3wM9lpZgHxupcTVw_d5sU8bJBr5DTX0cuYpmaS5clgsjyNUUNf9lG_fRs8NCcQ7ccVKTR0lJLfagkZ8GR1HEilVxqmn0bYAynU_aDoSwdK6VTRy8q5D1dLjR2Ap9rf94b0tec7e8IfWdvWwuZRjOKDqzG5fOXg1LLx/s1600/59089.png"
 ---

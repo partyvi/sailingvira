@@ -4,6 +4,7 @@ title: "Щогла"
 search_title: "Щогла: сходинки, покриття Nyalic і ремонт"
 section: rig
 order: 1
+related: [standing, sails]
 description: "Огляд топу, сходинки на щоглі, спуск, покриття Nyalic і налаштування."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpcN0OMu-xRUIoO_nuoqDctoFmus5xFdlhfKtMey18d6gZB0HBhwsW47Lc6AdLuwM4vdMGRhiu38-Z12aVFL4OMQHFykRRcFw8MTLVNcA7zSTnZvIDI2t5lhGgJw8UkZJvL6LXhsvxS3sSFlq2ObIwBAXwDGCAFwTClnCnrIwLQI7HDdIK9GI0qtZlFQ/s1600/IMG_3396.HEIC"
 ---

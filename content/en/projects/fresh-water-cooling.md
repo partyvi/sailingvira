@@ -4,6 +4,7 @@ title: "Fresh water cooling"
 search_title: "Yanmar 2QM20 fresh water cooling conversion, DIY"
 section: engine
 order: 2
+related: [engine, water]
 description: "Converting the Yanmar 2QM20 to fresh water cooling with off-the-shelf parts and a few I made myself."
 cover: "/assets/photos/fwc-cooling-flow.webp"
 ---
@@ -128,7 +129,9 @@ Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine
 
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
-**The engine runs.** [Watch it on YouTube](https://www.youtube.com/watch?v=wEJMYpkyAtA).
+**The engine runs.**
+
+Video: [The engine runs on fresh water cooling](https://www.youtube.com/watch?v=wEJMYpkyAtA)
 
 **The heat exchanger.** During installation I found a problem: on the engine, the heat exchanger inlet had no access. So I mounted the heat exchanger separately from the engine: above the wet muffler, as close to the engine as possible, level, and high enough that air runs out by itself. A little longer hoses, but much better access to the heat exchanger. It took two hours to get it tight, with about 2 inches between it and the wet exhaust hose. Finding a place for the coolant expansion tank was a little struggle too; for now it's on the wall to the right.
 
@@ -141,7 +144,9 @@ Diary: [30 Mar 2025](https://irwin34.blogspot.com/2025/03/day-193-engine-finishi
 
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
-**The manual starter, finished.** Installed and tested on the boat. A bearing block in the engine room wall, and instead of a whole handle, an adapter for a standard sailboat winch handle. That solved two problems at once: how to make a handy handle, and where to store it. The full story with the photos is in the Engine story: [A hand crank, again](../engine/#c9). And here's the [starter in action on YouTube](https://www.youtube.com/watch?v=E6v5dPIL5Ig).
+**The manual starter, finished.** Installed and tested on the boat. A bearing block in the engine room wall, and instead of a whole handle, an adapter for a standard sailboat winch handle. That solved two problems at once: how to make a handy handle, and where to store it. The full story with the photos is in the Engine story: [A hand crank, again](../engine/#c9).
+
+Video: [The manual starter in action](https://www.youtube.com/watch?v=E6v5dPIL5Ig)
 
 **The long run.** So far, about 15 hours since the engine went to fresh water cooling. Some people said it's good, some said it would kill the engine instantly. So far the engine works. Zero issues. I've run it several times for an hour or so at cruising RPM, about 2,000. On February 13, 2026 we motored 5 hours nonstop at 2,000–2,200 RPM. The engine found its thermal balance at about 76 °C coolant out, and 70 °C after the heat exchanger, going back into the block. No sign of overheating. The old Yanmar is doing just fine with its new life.
 

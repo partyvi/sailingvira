@@ -4,6 +4,7 @@ title: "Deck painting & hatches"
 search_title: "Painting a sailboat deck and fitting new hatches"
 section: hull
 order: 2
+related: [deck-structure, ports]
 description: "Fourteen weeks of sanding, priming and painting, new hatches and companionway."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfVQdBFWludbXj5NF1-gb2goQQ-RS-YlD77BwZt07PFJWfLAWXUeIZrHwACXEqHpRpvtLoBdvknohqM7Btb1Dtg2rSWb8K032ExvL0V7H-3jX1AA2nx2D_fu1cYUjI7fqZ355t5Dyg3IUb1OgxnEtfkquWty1NXPXX0PR7FOclaQIgXpyTzthNi3NgDDc/s1600/IMG_8305.HEIC"
 ---

@@ -4,6 +4,7 @@ title: "Базова плата для комп'ютера OpenPlotter на Rasp
 search_title: "Базова плата Raspberry Pi 5 для OpenPlotter: KhatkaPi"
 section: electric
 order: 5
+related: [navigation, navpod]
 description: "KhatkaPi: базова плата, яку я спроєктував, щоб захистити Raspberry Pi 5 з OpenPlotter на човні. Файли проєкту відкриті."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDISQp8fKd3wdyEauK5By6n9kwOg3wM9lpZgHxupcTVw_d5sU8bJBr5DTX0cuYpmaS5clgsjyNUUNf9lG_fRs8NCcQ7ccVKTR0lJLfagkZ8GR1HEilVxqmn0bYAynU_aDoSwdK6VTRy8q5D1dLjR2Ap9rf94b0tec7e8IfWdvWwuZRjOKDqzG5fOXg1LLx/s1600/59089.png"
 ---

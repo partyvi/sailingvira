@@ -4,6 +4,7 @@ title: "Ілюмінатори"
 search_title: "Заміна відкривних ілюмінаторів на Irwin 34"
 section: hull
 order: 3
+related: [windows, deck-paint]
 description: "Шість нових ілюмінаторів, що відчиняються: шаблон для фрезера, скошена прокладка під кожен і нові фанерні панелі всередині."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuDHb696jBS-VnMmaBFv8m2dNxoMLC4dJnM5YbU8IEpOfjgE1-LXDI9m44DYRCZMls92lX-DgodhpLLq53lytltifjUqqN9J2joFVFIuUi7_OtfkzOAKIC--e_Ummwf9UCgUM6lXci9K6Lq3vHm8WR75t_Pt_DB67aUYpnuc2O3bvkICnptL3Aody9vg/s1600/IMG_3344.HEIC"
 ---

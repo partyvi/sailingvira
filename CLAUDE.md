@@ -70,7 +70,8 @@ Later: scheduled updates, auto-publish, diary moves into the site.
 - `content/en/projects/<id>.md`: one story per project. The file name is the project id and URL slug.
   - Front matter: `id` (same as the file name; Pages CMS names new files from it), `title`, `search_title` (optional: the headline in Google
     and the browser tab; the page keeps `title`; Viktor approved all 34 in Nov 2026), `section` (a section id), `order` (position inside the section),
-    `description` (one line), `cover` (photo URL for the project card). Pages in `content/*/pages/` take `search_title` too; Home, Projects and
+    `description` (one line), `cover` (photo URL for the project card), `related` (up to 2 project ids, cards at the end of the story;
+    the English file decides, Viktor can edit). Pages in `content/*/pages/` take `search_title` too; Home, Projects and
     Sailing take theirs from `search_titles:` in site.yml. The build adds schema.org JSON-LD (Article + breadcrumbs; Organization + WebSite on Home).
   - Body is plain Markdown:
     - `## Heading` starts a chapter. Text before the first heading is the intro.
@@ -92,6 +93,10 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   `coffee_url` (Viktor's Buy Me a Coffee page): a coffee box on English project stories, Workshop and the sailing log only
   (not Contact, The Boat or Ukrainian pages; Viktor, Nov 2026), side by side with the feedback box on wide screens,
   and sailingvira.com/coffee/ forwards there. Tips only: no sales tax, no Stripe Tax.
+- Search: the build writes `search/index.json` per language (every story chapter and page) and a `/search/` page that searches it in
+  the browser (noindex, not in the sitemap); a magnifier icon in the header links to it.
+- Videos in stories: Viktor's own YouTube videos from his diary posts sit after the matching diary day as `Video:` lines (Nov 2026: 19 videos).
+  Videos by other people that he linked as inspiration are not embedded.
 - `tools/build.py`: builds the static site into `site/` (`pip install -r requirements.txt`):
   `/<id>/` and `/ua/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a
   Ukrainian file shows the English text with a note. Styles and the photo viewer are in `tools/assets/`.

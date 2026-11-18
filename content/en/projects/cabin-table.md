@@ -4,6 +4,7 @@ title: "Cabin table"
 search_title: "DIY teak cabin table with a lift leg"
 section: interior
 order: 3
+related: [cushions, cabin-sole]
 description: "A 40-year-old Formica table replaced with a new one made from teak countertop leftovers."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmF7NYSLtGOTuzSWqH7IVMTXPoVZjqUsONGPfEKfRi2drJmrUzs8Vl1YFILULfPY1cmvt4z8y9hH7Nc-gUB7aINsynlRb0LQU2kLvMtgtZ_djafGiA5Y8LjqY9CJAb3M6DD9pBakq-2xNGVF9KrEFrf6K7DEgOXIdpUtHh7EQl_PVya2C46NusHxAPX3R/s1600/IMG_0349.HEIC"
 ---
@@ -67,6 +68,8 @@ Later in June Maria and I found it a bit low in the up position, so I added spac
 ![Checking the table height on its post](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_MOOfetRif5fmRYdYt3AReW9Voy3UcGgwY19IvIepnw0Sxc8CfrXmf-rBnchW_BC2a8czAXBI73_eZn8RQU3PU9Wz1PMiQ0J6ZaiEa0WafGX7L8IZvP9SSMUxDw63i1tqHwi-3tu839hfdjB1ih737zsgqsu6TM3u9C0IRfh1b1IOyqzcd8VwWYjLqMq/s1600/IMG_0891.HEIC)
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
+
+Video: [The table goes down and becomes a bed](https://www.youtube.com/watch?v=wjSEItdCYys)
 
 And here it is in the finished main cabin: teak top, new cushions around it, and still enough room to walk past. Not so massive after all.
 

@@ -4,6 +4,7 @@ title: "Брашпиль, ланцюговий ящик і якір"
 search_title: "Встановлення вживаного брашпиля Lewmar і носового ролика"
 section: hull
 order: 5
+related: [electrical, deck-paint]
 description: "Нова основа брашпиля, перебудований ланцюговий ящик, роульс і якірний трос."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkeg4FNZ0fDsH87EBlDE4EOnJQfqzSLo0KJMZj6fwDr_0VRY_WBHW_zGOzTgM1qchxlaT2XxyW0Gt4mj9V_tbMfoYHBfqjJcDu0507x3xGSaowczZenh3PB7mTeXoTUiYOU1nCq5uTwmZ-LW7esbT6bT2pu27dzSqkm-iztcpLctRz33mwEdlUIj1MKJh/s1600/IMG_8757.HEIC"
 ---

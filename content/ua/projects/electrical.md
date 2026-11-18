@@ -4,6 +4,7 @@ title: "Електрична система"
 search_title: "Нова проводка старої яхти: щит, батареї, ELCI"
 section: electric
 order: 1
+related: [small-electronics, nav-station]
 description: "Нова проводка, електрощит, батареї, інвертор, берегове живлення і ELCI."
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HyOq3x_pKZjDGXloN-Viv-gVOY_tz9cUl9jrVHuEn60GyXW-k7J53xhBOGh15P7aXt1Ciwwso9t54f1QoxAA5NC0PS2JG7JDe6fijFzJsr02kXPvdK_RIVYaijw403U7rquGzUCg3Oyt2fqQfikFIBRXhHW2nz-xUfGd_dd5sACiYIrwJE0YsjXYEjF/s1600/IMG_6092.HEIC
 ---

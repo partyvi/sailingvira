@@ -4,6 +4,7 @@ title: "Маленькі електронні проєкти"
 search_title: "Саморобна електроніка для яхти: трюм, газ, душ"
 section: electric
 order: 6
+related: [khatkapi, electrical]
 description: "Саморобні контролери: KhatkaPi, газ, душ, сухий трюм, заповнення бака, підсвітка."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhml60cJ2eyTEz4fk6Vo1EDjs62pEWRDHkr09-IgniENoSdHyR7k9-OYhIq1CUs9Wn1FOKVOaLEurlXtQBmyrWpKo_BfUF5dvpxR4tm3uZqK4qJaB4sApl1938sluqZN1lMt81DhwyNXbuWCNrkHemjTsqDqiPyZNtR1-dU2iCfZgxjWrMLtYyljd2hkdPE/s1600/09E31248-A495-48A6-85D7-CF81C8BF50F8.jpg"
 ---

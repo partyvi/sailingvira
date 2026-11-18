@@ -4,6 +4,7 @@ title: "Штурманський стіл"
 search_title: "Новий штурманський стіл із 21-дюймовим дисплеєм"
 section: interior
 order: 5
+related: [navigation, electrical]
 description: "Штурманський стіл, перебудований навколо 21-дюймового дисплея, з власною панеллю, датчиками баків, принтером і світлом, що приглушується."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7xYoKfjrgEkoY5rRo5DjTCy3GTOCimDxHTPBv_CHtdj6_hHiJipJi3fXAReboC022WY5cyy2N0KucpMBQJcZ3G3AzpHbznXb9pEGndYP_gdzRJlP9ECJCbyLA4rDDg3r_RT_fTe7enOlUJufEO5Jok0ACzopdmWAx9tWDPcUUBZiGrHElnkTAmQjg95Ei/s1600/IMG_7174.HEIC"
 ---

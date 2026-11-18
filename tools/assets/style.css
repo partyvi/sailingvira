@@ -232,3 +232,17 @@ figure.video{margin:18px 0}
 .vframe{position:relative;aspect-ratio:16/9;border-radius:6px;overflow:hidden;background:#000}
 .vframe iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 figure.video figcaption{font-family:var(--f-mono);font-size:12.5px;color:var(--muted);margin-top:6px}
+.band .srch{order:3;display:flex;align-items:center;color:#DCE7EC;padding:2px 4px;border-radius:4px}
+.band .srch:hover{color:#fff}
+@media (max-width:860px){.band .srch{order:2;margin-left:auto}.band .lang{margin-left:0}}
+.sbox input{width:100%;font:inherit;font-size:20px;padding:12px 14px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink)}
+.sbox input:focus{outline:2px solid var(--accent);outline-offset:1px}
+#sinfo{margin:10px 0 6px}
+.sr{display:block;padding:14px 0;border-bottom:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.sr b{display:block;font-family:var(--f-display);font-size:21px;font-weight:600;color:var(--accent)}
+.sr b span{color:var(--muted);font-weight:500}
+.sr .sn{display:block;margin-top:4px;color:var(--muted);font-size:16px;line-height:1.5}
+.sr mark{background:rgba(140,106,28,.22);color:inherit;border-radius:2px;padding:0 1px}
+.related{margin-top:48px}
+.related h2{font-family:var(--f-display);font-size:28px;font-weight:600;text-transform:uppercase;margin:0 0 14px}
+.related .cards{grid-template-columns:repeat(auto-fill,minmax(260px,1fr));max-width:620px}

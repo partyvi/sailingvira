@@ -4,6 +4,7 @@ title: Sailing log
 search_title: "Sailing an Irwin 34 on Lake Travis and Galveston Bay"
 section: voyages
 order: 1
+related: [jailbreak, sails]
 description: Sailing days, people, weather and life around the boat.
 cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0CeIQMam6k3P-oa3_nMz4emrs-tvq6kRc_6E3vIk19D0kRlihOxChihE4qN7QuG_AueFzu6T2BnN_wVYyaRTsfyCKg8UKmxSdx2iTmSDu7_0kyvJM5sTzkjJ2vB8ELDZ6kVoMnqf9R4prWQqN8GUlNCAr0oLC0qVuv0RutGI_5XJmflkmTyT9F7QUG6RN/s1600/IMG_1572.HEIC
 ---
@@ -232,9 +233,13 @@ May 2025, a happy sailing day. 15–25 knots, a little overwhelming, but lots of
 
 Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-200-new-cushions-happy-sailing.html)
 
+Video: [A happy sailing day in 15–25 knots](https://www.youtube.com/watch?v=KICgYPHNjkc)
+
 In June I had been fighting with a 4G Wi-Fi hotspot plus a Wi-Fi client plus a router, so I could reach my OpenPlotter computer remotely. Then I found a pretty cheap 4G/Wi-Fi/Ethernet router in an IP67 outdoor housing, with PoE, so no separate power cable. One device instead of three, and it could go on the mast. So far it works great even inside the cabin, by a port window: up to 8 Mb/s in a spot where a phone barely gets calls. And a couple of hours of afternoon sailing.
 
 Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
+
+Video: [An afternoon sail, June 2025](https://www.youtube.com/watch?v=gJGSP7XUJRo)
 
 In July Lake Travis got its water back: 20 feet in 24 hours. We have a lot of water! We had some sailing fun on Saturday, about 4 hours. We went upstream, and after about 1.5 hours of nice sailing the police stopped us and POLITELY asked us to go back to the marina. Then we learned that the lake was closed to recreational boats because of all the floating debris, and that the search operation was still going on.
 
@@ -242,6 +247,8 @@ In July Lake Travis got its water back: 20 feet in 24 hours. We have a lot of wa
 ![Lake Travis full of water again, July 2025](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J-cOcbTqP4yhyphenhyphenk50aDzEgZuXbZw3KcaJtbJLGXxiWTK5YEkg5vvERsfW7T5A5yg2yTmvqGOAwIDz7q8B53410zAEXhf7_TETzPJxI3odB9qwjPQ0I08ostCAxuRIiyqTecgmQfiTjhyphenhyphenPpYDmsF8uEe3dyboCHOciQBYYpi2NANhwOfRcYnXoGyzlrsoM/s1600/Travis.png)
 
 Diary: [12 Jul 2025](https://irwin34.blogspot.com/2025/07/day-207-water-came-back-to-lake.html)
+
+Video: [Lake Travis after the flood, July 2025](https://www.youtube.com/watch?v=WvpkmJKm620)
 
 A couple of pictures of the boat.
 
@@ -259,6 +266,12 @@ September: a nice day, about 6 hours cruising Lake Travis in an almost steady 10
 
 Diary: [14 Sep 2025](https://irwin34.blogspot.com/2025/09/day-224-nice-sailing-6-hours-of-staddy.html)
 
+Video: [Sailing Lake Travis, September 2025](https://www.youtube.com/watch?v=eQUFs0R0fyg)
+
+Video: [Sailing Lake Travis, September 2025](https://www.youtube.com/watch?v=BLNYG6OTiZw)
+
+Video: [The marina moves a whole dock with 20 boats](https://www.youtube.com/watch?v=PCC8hV999MM)
+
 The last sail of the year with friends was one of the best. A nice steady wind, 4–5 knots, never more than 15° of heel. Everything perfect. Then three weeks out of town, and then the jailbreak.
 
 ![Last sail of the year with friends](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjbhZRDXhW3G91n7QhQhZa3bDS_2-IUyhyphenhyphenEkFBhk8O6Cv9KT4phKdqyp5108kuReTVtEFiBnL7IApbC46X0h8d7jKcA2Ss3n30aoV0woh8e3PrvQyAmQi0cNtm-_yjkQmkenJJI132mbVta4L7YmAZ2GC3fABQ3KW8OidBuZUY_e85H2zFKjj_M-bPWZ5/s1600/IMG_1353.HEIC)
@@ -267,6 +280,14 @@ The last sail of the year with friends was one of the best. A nice steady wind, 
 ![Last sail of the year with friends](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB0RIvH8nb2wydJ-0EwVT6-qgQFju0iIpkODKCG9Kes38G-TgC6qGogEJvPHXVg6a49BJJV2NFyEOSOiGc8QTdlVFbz4QgCj0Oxdcve0ECGGSFzn_i3wIv74PM7Slm3J16zOoMAoKKyoJixtZ7hSQoESqBCEnaGIRrIH7yQ2D9A8T4PUVA7_K-TldG8LFK/s1600/IMG_1376.HEIC)
 
 Diary: [29 Sep 2025](https://irwin34.blogspot.com/2025/09/day-226-nice-sailing-with-friends-last.html)
+
+Video: [Boats passing us](https://www.youtube.com/watch?v=x8TYEaaK1Dw)
+
+Video: [Boats passing us](https://www.youtube.com/watch?v=k9NK1XtC2qQ)
+
+Video: [Boats passing us](https://www.youtube.com/watch?v=Kb8FmJqGDMQ)
+
+Video: [Boats passing us](https://www.youtube.com/watch?v=R5TdQmT0Vbk)
 
 Wooden horses to hold the mast during transport. And a little motoring out to the lake and back, the last on Lake Travis.
 
@@ -325,6 +346,10 @@ April: a very active Sunday. 20–25 knots and 2–3 foot seas with a 3–4 seco
 ![Active Sunday sail on the bay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5wyCOB6wGQsGFsRAnnB2k27_F4DlRVZs7c-NrAqSY_q2gjCWgA2z0UMdFXeGvEy_l7P9MXIdHJ0-EmslYIPNALKOZO-YFHHDmDENAj5YTrQzwbGAyZgLDWpO5hK0rvIxotwYm3akFWjOPhJvSVYCveKftxU_EjdGFUXOUrDyE_VJmIDdR8h167eEN3ocX/s1600/IMG_1182.HEIC)
 
 Diary: [13 Apr 2026](https://irwin34.blogspot.com/2026/04/day-261-262-repairig-damaged-countertop.html)
+
+Video: [20–25 knots, the autopilot steering](https://www.youtube.com/watch?v=OwL9SxfESv4)
+
+Video: [20–25 knots, the autopilot steering](https://www.youtube.com/watch?v=LLvq3L9mrtg)
 
 ## Brochure forecasts
 

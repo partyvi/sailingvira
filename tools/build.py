@@ -601,13 +601,47 @@ def search_title(m, title):
     return f"{m.get('search_title') or title} · {site['name']}"
 
 
-def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home=False, path=None, ld=None):
+RELATED = {"en": "Related stories", "ua": "Схожі історії"}
+
+SEARCH_UI = {
+    "en": {"title": "Search", "lead": "Search all the stories, chapters and pages.", "ph": "e.g. Dyneema, ELCI, PyPilot, epoxy…",
+           "none": "Nothing found. Try another word.", "found": "found", "short": "Type at least 2 letters."},
+    "ua": {"title": "Пошук", "lead": "Пошук по всіх історіях, розділах і сторінках.", "ph": "напр. Dyneema, ELCI, PyPilot, епоксидка…",
+           "none": "Нічого не знайдено. Спробуйте інше слово.", "found": "знайдено", "short": "Введіть щонайменше 2 літери."},
+}
+
+
+def plain(blocks):
+    """Text of a list of blocks, without tags (for the search index)."""
+    out = []
+    for b in blocks:
+        if "p" in b:
+            out.append(b["p"])
+        elif "h3" in b:
+            out.append(b["h3"])
+        elif "ul" in b:
+            out += b["ul"]
+        elif "items" in b:
+            out += [" ".join(str(x or "") for x in it[2:5]) for it in b["items"]]
+        elif "table" in b:
+            out += [" ".join(r) for r in b["table"]]
+        elif "video" in b:
+            out.append(b["video"][0])
+    return html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", " ".join(out)))).strip()
+
+
+SEARCH = {l: [] for l in LANGS}  # per language: {p: page title, c: chapter, u: address, t: text}
+
+
+def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home=False, path=None, ld=None, noindex=False):
     path = path or url_of(lang) + slug + "index.html"
     rel = "../" * path.count("/")
     home_href = rel + url_of(lang) or "./"
     alts = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{BASE}/{url_of(l)}{slug}">' for l in LANGS)
     alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}/{slug}">'
     robots = '<meta name="robots" content="noindex, nofollow">' if site.get("noindex") else ""
+    if noindex and not robots:
+        robots = '<meta name="robots" content="noindex">'
     lang_links = "".join(
         f'<a href="{rel + url_of(l) + slug or "./"}" hreflang="{HTML_LANG[l]}"{" aria-current=page" if l == lang else ""}>{ {"en": "EN", "ua": "УКР"}[l]}</a>'
         for l in LANGS)
@@ -642,7 +676,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 <body>
 <header class="banner{" home" if home else ""}" style="background-image:url('{esc(banner)}')">
 <div class="band"><a class="brand" href="{home_href}">{esc(site["name"])}</a>
-<span class="lang">{lang_links}</span>
+<a class="srch" href="{rel}{url_of(lang)}search/" aria-label="{SEARCH_UI[lang]["title"]}" title="{SEARCH_UI[lang]["title"]}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></a><span class="lang">{lang_links}</span>
 <nav class="tabs" aria-label="{"Sections" if lang == "en" else "Розділи"}">{tabs}</nav></div>
 {hero}</header>
 <div class="wrap">
@@ -781,9 +815,16 @@ for lang in LANGS:
         note = "" if translated else f'<p class="note">{ui["missing"]}</p>'
         head = (f'<header class="phead"><span class="eyebrow">{esc(group)}</span><h1>{esc(title)}</h1>'
                 f'<p>{esc(blurb)}</p>{note}</header>')
+        rel_ids = [r for r in (EN[pid]["meta"].get("related") or []) if r in EN and r != pid][:2]
+        related = (f'<section class="related"><h2>{RELATED[lang]}</h2>{cards_html(rel_ids, lang, "../")}</section>' if rel_ids else "")
         html_body = (head + f'<div class="layout"><div class="story">' + "\n".join(body) + "</div>"
-                     f'<aside class="toc">{"".join(toc)}</aside></div>' + nav)
+                     f'<aside class="toc">{"".join(toc)}</aside></div>' + related + nav)
         photos = photos_of(p)
+        base_u = f"{url_of(lang)}{pid}/"
+        if p["intro"]:
+            SEARCH[lang].append({"p": title, "c": "", "u": base_u, "t": plain(p["intro"])})
+        for ci, c in enumerate(p["chapters"]):
+            SEARCH[lang].append({"p": title, "c": c["h"], "u": f"{base_u}#c{ci + 1}", "t": plain(c["blocks"])})
         cover = m.get("cover") or (photos[-1] if photos else "")
         dates = sorted(d for c in p["chapters"] for d in chapter_info(c)[0] if d)
         art = {"@type": "Article", "headline": m.get("search_title") or title, "name": title, "description": blurb,
@@ -832,6 +873,10 @@ for lang in LANGS:
         if m.get("updated"):  # e.g. the Upgrades log, kept in step with the blog page
             body.append(f'<p class="updated mono">{UPDATED[lang]}: {fmt_full(str(m["updated"]), lang)}</p>')
         side = f'<aside class="toc">{"".join(toc)}</aside>' if len(toc) > 2 else ""
+        if slug != "contact/":
+            SEARCH[lang].append({"p": title, "c": "", "u": f"{url_of(lang)}{slug}", "t": plain(pg["intro"])})
+            for ci, c in enumerate(pg["chapters"]):
+                SEARCH[lang].append({"p": title, "c": c["h"], "u": f"{url_of(lang)}{slug}#c{ci + 1}", "t": plain(c["blocks"])})
         page(slug, lang, search_title(m, title), blurb,
              head + f'<div class="layout{"" if side else " one"}"><div class="story">' + "\n".join(body) + f"</div>{side}</div>",
              m.get("cover", ""), lightbox=True, tab=m.get("tab"))
@@ -914,6 +959,31 @@ window.svDiary = function (d) {{
     web = {"@type": "WebSite", "name": site["name"], "url": BASE, "inLanguage": [HTML_LANG[l] for l in LANGS], "publisher": {"@id": f"{BASE}/#org"}}
     page("", lang, home_title, text(h["intro"], lang), body,
          site.get("banner_home", ""), tab="home", home=True, ld=[org, web])
+
+# -- search pages: index + a page that searches it in the browser
+for lang in LANGS:
+    su = SEARCH_UI[lang]
+    os.makedirs(f"{OUT}/{url_of(lang)}search", exist_ok=True)
+    json.dump([e for e in SEARCH[lang] if e["t"] or e["c"]], open(f"{OUT}/{url_of(lang)}search/index.json", "w"), ensure_ascii=False, separators=(",", ":"))
+    root = "../" * (url_of(lang) + "search/").count("/")
+    body = (f'<header class="phead"><h1>{su["title"]}</h1><p>{su["lead"]}</p></header>'
+            f'<form class="sbox" role="search" onsubmit="return false"><input id="q" type="search" autocomplete="off" '
+            f'placeholder="{esc(su["ph"])}" aria-label="{su["title"]}"></form><p class="mono" id="sinfo"></p><div id="sres"></div>'
+            "<script>(function(){var T=" + json.dumps({k: su[k] for k in ("none", "found", "short")}, ensure_ascii=False) + ",R=" + json.dumps(root) + ",D=null;"
+            "function n(s){return(s||'').toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[\u2019\u02bc]/g,\"'\")}"
+            "function e(s){return s.replace(/[&<>\"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]})}"
+            "var q=document.getElementById('q'),out=document.getElementById('sres'),info=document.getElementById('sinfo');"
+            "function run(){var v=q.value.trim();try{history.replaceState(null,'',v?'?q='+encodeURIComponent(v):location.pathname)}catch(x){}"
+            "var w=n(v).split(/\\s+/).filter(function(x){return x.length>1});if(!w.length){out.innerHTML='';info.textContent=v?T.short:'';return}"
+            "if(!D){fetch('index.json').then(function(r){return r.json()}).then(function(d){D=d.map(function(x){return{x:x,a:n(x.p),b:n(x.c),c:n(x.t)}});run()});return}"
+            "var res=[];D.forEach(function(d){var s=0;for(var i=0;i<w.length;i++){var k=w[i],h=(d.a.indexOf(k)>=0?8:0)+(d.b.indexOf(k)>=0?5:0),m=d.c.split(k).length-1;if(!h&&!m)return;s+=h+Math.min(m,6)}res.push([s,d])});"
+            "res.sort(function(a,b){return b[0]-a[0]});info.textContent=res.length+' '+T.found;if(!res.length){out.innerHTML='<p>'+T.none+'</p>';return}"
+            "out.innerHTML=res.slice(0,40).map(function(r){var d=r[1],t=d.x.t,i=d.c.indexOf(w[0]),a=Math.max(0,i-90),sn=(a?'…':'')+t.slice(a,a+230)+(t.length>a+230?'…':'');"
+            "sn=e(sn);w.forEach(function(k){var re=new RegExp('('+k.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&')+')','gi');sn=sn.replace(re,'<mark>$1</mark>')});"
+            "return '<a class=\"sr\" href=\"'+R+d.x.u+'\"><b>'+e(d.x.p)+(d.x.c?' <span>· '+e(d.x.c)+'</span>':'')+'</b><span class=\"sn\">'+sn+'</span></a>'}).join('')}"
+            "var tm;q.addEventListener('input',function(){clearTimeout(tm);tm=setTimeout(run,150)});"
+            "var p=new URLSearchParams(location.search).get('q');if(p){q.value=p;run()}q.focus()})();</script>")
+    page("search/", lang, f"{su['title']} · {site['name']}", su["lead"], body, noindex=True)
 
 # -- 404, sitemap, robots
 page("", "en", f"{UI['en']['notfound']} · {site['name']}", UI["en"]["notfound_text"],

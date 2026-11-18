@@ -4,6 +4,7 @@ title: "Двигун"
 search_title: "Yanmar 2QM20: зняття, подушки, ручний запуск"
 section: engine
 order: 1
+related: [fresh-water-cooling, fuel]
 description: "Yanmar 2QM20: витягування, нові подушки, двоконтурне охолодження, ручний старт."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylVI5WD8VkU_v-oeMEh_N9LAuTvcMgDyPzrXEGsSBdmsBlqWa1tSag_Q9Tq9V3UQtaLYXf8YO4KJo8dcaQ3u_3x727-WYrSEroHb-fCPmuLvpP1mXx4zm0UBQ6Yvv7091TOgKGyN_n6283Dlo-yvEjzm-k9CIll_adJZjahS_pXMbjwbnS2ytapy8MJ4/s1600/IMG_0309.HEIC"
 ---
@@ -225,6 +226,8 @@ Diary: [12 Jan 2025](https://irwin34.blogspot.com/2025/01/day-184-engine-base-in
 
 Diary: [19 Jan 2025](https://irwin34.blogspot.com/2025/01/day-185-engine-base-sanding-and-fillets.html)
 
+Video: [Білий дим на високих обертах](https://www.youtube.com/watch?v=-jICoR5etc0)
+
 Щоб змінити момент впорскування на 2QM20, насос повністю знімають і додають або прибирають прокладки між насосом і блоком. 0,1 мм прокладки — це приблизно 10° на колінвалу. Я знайшов три прокладки по 0,34 мм. Без жодної виходило на 1–2° рано. Прокладка 0,1 мм була б доречна, але я не знайшов, а трохи пізно для мене краще, ніж трохи рано. Тож одна 0,34 повернулася на місце, приблизно на 22° (−3 до мітки). Зібрав і завів: тепер він крутиться аж до 3 200 об/хв без білого диму! 3 200 — трохи забагато, але ПРОБЛЕМУ виправлено.
 
 ![Паливний насос на двигуні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaPcGdzDhnNqq8Hf1n_OyJcYGnh-oi1lnhk4Q1hEMenJ7x20Uez3DgV4ssxIj6oRxoCt35JypwRJgGuIqgLumCJ6Pniea7nkNx_Ko_vuAjvJw-EWbxnBZW5KBsSxg2vB0nSojpahejNi10vWCTOw8NHpa-nv_E4QDWvR7H2Xk45Wtd0jsN3st8M5YLBA0Y/s1600/pump.png)
@@ -380,6 +383,8 @@ Diary: [27 May 2025](https://irwin34.blogspot.com/2025/05/day-199-engine-monitor
 
 Diary: [13 May 2025](https://irwin34.blogspot.com/2025/05/day-197-engine-testing-under-full-load.html)
 
+Video: [Двигун працює](https://www.youtube.com/watch?v=wEJMYpkyAtA)
+
 У червні: нові подушки двигуна, Ellebogen GT-SDD55 (#120450-06802), як порадив їхній торговий представник. Я планував підняти двигун талями, але на Irwin 34 просто над ним трап у каюту. Автомобільний домкрат? Під двигуном не вистачає місця, щоб підняти його рівно. Хтось на форумі порадив баскетбольний м'яч як підйомну подушку, і це працює абсолютно чудово. Баскетбольний м'яч за $9, запханий здутим між масляним піддоном і дном трюму, потім накачаний — і 400-фунтовий двигун піднявся легко й рівно. На відміну від домкратів, він навіть дає зсувати двигун з боку в бік. Потім двигун опустили назад і перевірили. Усе працює добре. Найкращі $9, які я витратив на цей човен.
 
 ![Баскетбольний м'яч, яким піднімали двигун](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLU_OlbsXJesV3Uq3uVbcqDXXrkfLBgqtG5DH-N-_MaON-EP-yMs2bG769_rYfvUSi7BxFFSBWIdFGMusgWxvUjtD-LAcuI34Vng4uKoyEW5YUUb9CXTnfMu4a1w36W5GpJYv-j33XPB6TdT_fj5MEZ8gciB_74RRko_1mapDDhqaL0KwCuDhWTY62-dMs/s1600/Untitled.png)
@@ -387,6 +392,8 @@ Diary: [13 May 2025](https://irwin34.blogspot.com/2025/05/day-197-engine-testing
 ![Подушка двигуна збоку](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAnMiG2NYTh00qaDg7rhhJxryBY2twdz_MF5qrQ8LhSp6n7ZLfTLLhR8uOfAesPLQbwUvzn9Rpu4hwHOifem8hnQgSxxpd2j4J0cuLhIF4c_5n9MQqPX23uo1u4MClSLgK9qbzBHvc0gX75zzvKH9gVIsdVrRVt7F-QWeYTQP8rVG0MtouwSYEll0APWCq/s1600/IMG_0785.HEIC)
 
 Diary: [7 Jun 2025](https://irwin34.blogspot.com/2025/06/day-202-new-cushions-finished-engine.html)
+
+Video: [На нових подушках: перевірка двигуна](https://www.youtube.com/watch?v=w7tDSJbc6jM)
 
 Дрібниці: після того як двигун став на місце, масла було на 30 мм вище мітки, тож я трохи відкачав (мабуть). Поміряв муфту, раптом знайду спосіб поставити м'яку муфту; стандартна не підходить. Може, колись своя версія. Не впевнений, що надрукований TPU витримає, але було б цікаво спробувати. Я порахував близько 110 кг дотичної сили на кожен гвинт при повних 20 к.с. і 866 об/хв на виході редуктора. Муфта 4 дюйми в діаметрі, 76–77 мм між центрами гвинтів. Поміряв осадку: близько 4,2 фута, а від води до верху носового релінга 10 футів, тож на трейлері разом близько 14 футів. І вкрутив гвинти в карданний підвіс плити, загерметизував плату контролера сухого трюму поліуретановим покриттям і замінив коробку з ПЗВ на DIN-рейці, яку зламав кількома тижнями раніше.
 

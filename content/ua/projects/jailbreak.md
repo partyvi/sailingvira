@@ -4,6 +4,7 @@ title: "Втеча з озера і верф"
 search_title: "Перевезення яхти з озера Тревіс у Кема, Техас"
 section: story
 order: 2
+related: [sailing, mast]
 description: "Як ми покинули обміліле озеро Тревіс заради Кема, і дев'ять днів на березі."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4AojRpatKVIhIuqm669ho9bWItjoojQvkZ5EDQIahHTv3NwRXQkZs4lk9uyFZxGyx8SE4reBvMBcEU0eN5-4OABigjaJhwIKGX4d0V5aQRegHRQItpBt3FtWr4jQjcrxpUlzRGGYvE1SQMKXQQk1XOlM5VO11KqCutyQuVnwNcJfLuMxBQTVMh_8K4pM/s1600/Resized_20251111_194347_1762911848395.jpeg"
 ---
@@ -247,6 +248,8 @@ Diary: [17 Feb 2026](https://irwin34.blogspot.com/2026/02/day-254-255-final-thin
 ![«Віра» заходить у Kemah Boardwalk Marina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVAp81Yfc7Q1Gk18iOvuaqcIbafCEvZ0mZMUdSdG5IHQ0MtYe_m2JDMAN9a0wY9Yf9JqxdL_RVS2wFSjJQk3uCiTBsXRxMeZQ0yqReHlmFaN_vgB7RfOykRJDUvMs57dqbA1yTY4vVbWwymacDkXwG5aTKwoIK3RlriE00oTp8whGgqGRlUZtetzGWLk0x/s1600/IMG_0797.HEIC)
 
 Diary: [17 Feb 2026](https://irwin34.blogspot.com/2026/02/day-254-255-final-things-on-hard-mast.html)
+
+Video: [З топу щогли: під мостом (найцікавіше після 3:26)](https://www.youtube.com/watch?v=aFN6vJsOABw)
 
 ## Наступний день і перерва
 

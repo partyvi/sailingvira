@@ -4,6 +4,7 @@ title: "Камбуз"
 search_title: "Новий камбуз яхти: тикова стільниця, газ"
 section: interior
 order: 6
+related: [refrigerator, water]
 description: "Згнилий камбуз, перебудований заново: нова основа, тикова стільниця, газ, пофарбовані шафки, шухляда і мікрохвильовка на кардані."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsbXWCT2ZOqOM6OsnMUMTlgcTnOXinePHozsxOW5tR2f6J1QhXq2e6HZ8DQ2PLqFGLuq3ZBGK4BAe5WIdkjFfAYZq3NDebE7cAZxvtQ3cJNiFbOQwZFLKUalhCAEnHVdGRcy-Z9UbeXk6GrdkG3qhxUJeEVgwLKp-VuVylbAKaVXsxbdRZWXew98mHtf1/s1600/IMG_1195.HEIC"
 ---

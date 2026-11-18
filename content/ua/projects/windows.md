@@ -4,6 +4,7 @@ title: "Глухі вікна"
 search_title: "Як я переміг протікання фіксованих вікон яхти"
 section: hull
 order: 4
+related: [ports, deck-structure]
 description: "Два довгі глухі вікна: чотири спроби, тести на адгезію і нарешті суха каюта."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcbIOm2n9jBRQUMA0ST4GfkKc5rJSu8x0SkHgmC1gIMVlnSNIj_MByA0zL2_LSGfcrViXUUH9EaaxoIFXDkZQR7Wqhx53zNWK75dD-SNSxD47cxvQd6StaiKVZD5_FQFBJRQk891JhOzIcufyz-rKgUsdxZs15cfJAhuNawlz4aXn5xzWvWLUNpodKjbp2/s1600/IMG_7092.HEIC"
 ---

@@ -4,6 +4,7 @@ title: "NavPod"
 search_title: "Саморобний NavPod: дисплей біля штурвала на Raspberry Pi"
 section: electric
 order: 3
+related: [navigation, khatkapi]
 description: "Блок біля штурвала з 7-дюймовим екраном і 26 справжніми кнопками, що говорить з OpenPlotter, Signal K і PyPilot."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeW_Ub1562uLkio219CyFr11SFzcktXplddLgQGq0wwOwFdv49VCkQSAyphmLo3NYXEtQuod5oR6DLCAbqlw2D7KdFXBtEYT4gJk3AYhTAF1hl9k7tz1REF1Szyvfht1z72WBUFBYZd6yKczcJYQ1x41WxqEfJGtAiLB98brBWeEI8SorbjiVxm9aYUk2x/s1600/IMG_2272.HEIC"
 ---

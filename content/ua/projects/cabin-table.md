@@ -4,6 +4,7 @@ title: "Стіл у каюті"
 search_title: "Тиковий стіл у каюту з підйомною ніжкою"
 section: interior
 order: 3
+related: [cushions, cabin-sole]
 description: "40-річний стіл з формікою замінений на новий, зроблений із залишків тикової стільниці."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmF7NYSLtGOTuzSWqH7IVMTXPoVZjqUsONGPfEKfRi2drJmrUzs8Vl1YFILULfPY1cmvt4z8y9hH7Nc-gUB7aINsynlRb0LQU2kLvMtgtZ_djafGiA5Y8LjqY9CJAb3M6DD9pBakq-2xNGVF9KrEFrf6K7DEgOXIdpUtHh7EQl_PVya2C46NusHxAPX3R/s1600/IMG_0349.HEIC"
 ---
@@ -67,6 +68,8 @@ Diary: [2 Jun 2025](https://irwin34.blogspot.com/2025/06/day-201-new-cushions-co
 ![Перевіряю висоту столу на стійці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5_MOOfetRif5fmRYdYt3AReW9Voy3UcGgwY19IvIepnw0Sxc8CfrXmf-rBnchW_BC2a8czAXBI73_eZn8RQU3PU9Wz1PMiQ0J6ZaiEa0WafGX7L8IZvP9SSMUxDw63i1tqHwi-3tu839hfdjB1ih737zsgqsu6TM3u9C0IRfh1b1IOyqzcd8VwWYjLqMq/s1600/IMG_0891.HEIC)
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
+
+Video: [Стіл опускається й стає ліжком](https://www.youtube.com/watch?v=wjSEItdCYys)
 
 А ось він у готовому головному салоні: тикова стільниця, нові подушки навколо, і пройти повз ще є де. Не такий уже він і масивний.
 

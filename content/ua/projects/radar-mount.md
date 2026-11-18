@@ -4,6 +4,7 @@ title: "Кріплення радара"
 search_title: "Саморобне алюмінієве кріплення радара на щоглу"
 section: electric
 order: 4
+related: [navigation, mast]
 description: "Цільне алюмінієве кріплення радара на щоглу: $115 замість $300–500."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9jqpfvxR6LpfEIttDeo9-Vs24BuiMnrnYWRV1dsCVnVm-oUwEdW3DmtNzNz6wwCs9GGWfisI39Ee0spgRKSBk4V8iHCE5OOKfcN0bwUCf3cNSD8AOXZUpz51USY78ypPqw_WuPrkiMW9fJUemG_CnzzW0bPWBggLtH0tvWEIUG5YVsDLPn1hsdvDwt4Z4/s1600/R52.png"
 ---

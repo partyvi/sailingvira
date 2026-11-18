@@ -4,6 +4,7 @@ title: "Дерево в інтер'єрі"
 search_title: "Інтер'єр яхти: перегородки, стеля, лак"
 section: interior
 order: 1
+related: [nav-station, galley]
 description: "Переборки, обшивка стелі, шафки, накладки і багато шарів лаку."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi9AkLCf0eRaKfL6tkOh6yc4XEjwhTj_o_T8H4TiHVnLZpENlaY9G3jbTVBEvAbWSYHZ8xvDDEdK5j5s8mEziQh5j-XzSD7X2chEkdnT6fEnarIWT5URs4YH7MLTwEUFbYCBDF-aA4mrL2o8_AjlGptzppCUcxbYnPqYpQB9m2PwLvGUqGKI7fgU5N1y_-/s1600/IMG_0788.HEIC"
 ---

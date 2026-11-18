@@ -4,6 +4,7 @@ title: "Паливний бак"
 search_title: "Ремонт вбудованого паливного бака епоксидкою"
 section: engine
 order: 3
+related: [engine, steering]
 description: "Як я відкрив вбудований бак, що протікав, і відновив його паливостійкою епоксидкою."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMeQY7Yy-wDHYHhNJbo5CfeKGpEho1FnsWHa_u5Aozcp_XzV50fJYsbBsF-UUUVkx9ShF1Ixlghyzpuh4PHSNeAwv3ieInyo1nDwSkBe4ZJPUg0RKxq1L46IllarUr9pbFPqwyEmFlBLd6aUDiOjbwBJ_rzMyOcJjoXCKKixar48q9TQoOlizfqAmatSoq/s1600/IMG_8799.HEIC"
 ---
