@@ -197,7 +197,7 @@ I replaced all the 110 V outlets and crimped proper ring terminals. For now they
 
 Diary: [4 Jul 2023](https://irwin34.blogspot.com/2023/07/day-97-7424-new-electric-panel.html)
 
-## The dock turned 90 degrees
+## The dock turned 90 degrees, need to run inverter.
 
 October 2023. I usually get to the marina early, and that day I came at about 7 AM and... didn't see my boat. Even more, I didn't see THE DOCK my boat was on. I called the marina owner, and of course he doesn't answer at 7 AM on a Saturday. Short story: they had turned the whole dock, with all the boats, 90 degrees. Five very hard minutes, and then I found my boat.
 
@@ -213,25 +213,15 @@ Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-
 
 That was the first time I ran the inverter on the boat. A "dry" install: the inverter on a cardboard box, its output to the wires I'd run for it, low-voltage cables to the battery, and start. Everything worked perfectly. The 110 V panel lit the inverter lamp, and I switched the input to "inverter". With just one battery I could only use about 1 kW without tripping the BMS, but that was enough for the lead battery charger, the lights, a fan, and now and then the big shop vac and some power tools.
 
-I'd put a battery monitor screen on the DC panel, but it shows the battery current, not the house loads. When anything charges the battery, you see the battery current, not what the house uses. So I added another meter next to the refrigerator thermostat, to see the real 12 V consumption. I'm not proud of this solution, but better now than later. I also dry-fit a battery monitor and shunt on the lead battery and left it a few days to see how much they drain: under 10 mA, so about 5,000 hours, or roughly 7 months, to drain the battery. I think that's OK for "self-discharge".
+@@ Battery monitor
+I'd put a battery monitor screen on the DC panel, but it shows the battery current, not the house loads. When charger and loads connected to the battery, you can see the total battery current, not what the house uses. So I added another meter next to the refrigerator thermostat, to see the real 12 V consumption. I'm not proud of this solution, but better now than later. (later Thermostat will be replaced with AC voltage/current meter the same size, so it will be at least resonable) I also dry-fit a battery monitor and shunt on the lead battery and left it a few days to see how much they drain: under 10 mA, so about 5,000 hours, or roughly 7 months, to drain the battery. I think that's OK for "self-discharge".
 
 ![Nav station panel with the battery monitor and current meter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFWtZseRktKBPak6J8gMMuG3aHeNM0b2hFPYG2b4GjSlNMdwtHpjLxqINJL4Qy8EkgBmpLs2RUpDJxW9rUKc6xkT6zj9ANcE2KuHL-ZcfGCjXIo8B2Q2KrBF5iS0Z5oYNXv7rE9qdb4LY5-tO1wupMwbH4bTE-2UWm_FIFci9jdHIHxP-zAStNCp7aRd8/s1600/Untitled.png)
 ![Junctek battery monitor on the 12 V panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHW1mFNFyN8Wh8oK_3M7hemGPYmzXLNGbwYlj32GgtEWr1mNRQzEOfm5pu9lXLbW4sMNml1g0oUsPwSIA7_Z7rABrbpFInuilPM_uCJoHHfMyHFTjddgwq1r6M2xZUBL7V6OxMgjp_aqO1Wt36dphpoxd-rWpoW-uai4E-iHlDae1zRZuz9gWndIm3OTbA/s1600/IMG_6727.HEIC)
 
 Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-surprise.html)
 
-## The nav desk panel
 
-In January 2024 I built a panel at the nav table, with water and fuel tank gauges and a small 2.5-inch thermal printer, just in case I want to print a "ticket". The light over the desk dims from "good enough for surgery" to "hard to see anything". The black water gauge sits in the head, where you'll check it before use. The whole nav station story is in [Nav station](../nav-station/).
-
-![Head with the black water gauge by the door](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgknA_v77jmd9NvGHy1KDEaQ6ai1BLXWF0owJ3Z0NfgqvRSHBVlxARTmNQ-mEhMs2O70HG1uLLrT7D3J1vBxIDrMOPmeGVtMWP70RhndfK1hkqkTCEr4th6fQzb6Xl-x60dYFD0WUorwBW7fXo04AEC3qzyoD95HYidB48-r5d3bP-0-JEfze4nT7zuC1Dg/s1600/IMG_7142.HEIC)
-
-Diary: [3 Jan 2024](https://irwin34.blogspot.com/2024/01/day-119-1124-happy-new-year-8-hours.html)
-
-I connected that black water gauge to an indicator in the head, powered from the "WC" breaker, so when you go to flush, you can see how much room is left for "stuff". I powered up the thermal printer; it's always nice to have something aboard that can print. Then I got ready for the cold with the engine compartment heater. And then, COLD WEATHER: −5 °C outside, the docks covered with ice, and the lake at about +15 °C, steaming like tea in a cup.
-
-![Black water tank gauge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Gzh4y40h7S9su9kXCigjdafEXoM0wfKlNe7SfzOhr8ISM6q8GSuFwY8L6xCMQSJqAFqKTSuV1-UwLAIN9mZsznOGIIB0malUN7fAE9LjCew_P9ojn1pkj0UgiwaPBtL9IT3EmukHssitzAC2HCwxrrN_3nvVHqj8k2ZnGGumDdN_FmZIglFr6_BKra2I/s1600/IMG_7281.HEIC)
-![Engine compartment heater](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDoJH5MHGsh2MHfCza0pwuyASEEIcGoRsJKADLVxnCV7RESvi-04Ls6cJ7GPsN9yc4OZ9sLHBHvePDxcYJXbEmYf75jiLo-mmfPkCMZiGOhmXd84Grz7AER2axKn9dazWpj0j6huxsl5v0opHKD9lJmbeLypWhFIw12pnhttDMCi4zhSCcDzTuNjg7ELuD/s1600/IMG_7272.HEIC)
 ![Fog over Lake Travis on a cold morning](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOlmLJ-rGrwyyLh7HaxgfouI_mPTuQLuZ7-0CV8DTmMWvbhSJvmZzarqoqNw3nu3X6XNpcLggoxSahy9LRNZ258y1N0rKJU1g-I9Ln88nVOpZMct1QWt07lDh3792xeg667v1VXrHwoibZ4Ptu3v_Fnvx5QWtj_Y08TFC9lvnUF2K6Wa22x0nP-HC5K4eb/s1600/IMG_7291.HEIC)
 
 Diary: [18 Jan 2024](https://irwin34.blogspot.com/2024/01/day-120-11324-small-companion-way-steps.html)
