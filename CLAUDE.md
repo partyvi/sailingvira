@@ -73,6 +73,7 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   - Body is plain Markdown:
     - `## Heading` starts a chapter. Text before the first heading is the intro.
     - `### Heading` is a small heading inside a chapter (not a new chapter; chapter links `#cN` count only `##`).
+    - `Video: [title](YouTube link)` shows the video playing inside the page (youtube-nocookie embed), title as caption.
     - Paragraphs are separated by a blank line. `- ` is a list item. Inline Markdown works.
     - `![description](url)` is a photo. The description is the alt text and the photo viewer caption, written from
       what the photo shows (`tools/alts.py`). Photos one after another (blank lines allowed) form one gallery.
