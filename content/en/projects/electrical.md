@@ -233,7 +233,6 @@ I had replaced all the wiring after the breaker panel with high-flex tinned wire
 Now its time had come. It took three days: one to take the old wiring apart, one to look at the engine wiring and start building the new, and one to finish, tidy, label and zip-tie.
 
 What I didn't like about the original battery wiring:
-
 - Old wires heavily oxidized, with many broken strands.
 - Low-quality crimps, with strands sticking out of the terminals.
 - The battery switch 7 feet from the batteries.
