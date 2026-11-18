@@ -6,7 +6,7 @@ order: 5
 description: "The nav table rebuilt around a 21-inch display, with its own switch panel, tank gauges, a printer and a light that dims."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7xYoKfjrgEkoY5rRo5DjTCy3GTOCimDxHTPBv_CHtdj6_hHiJipJi3fXAReboC022WY5cyy2N0KucpMBQJcZ3G3AzpHbznXb9pEGndYP_gdzRJlP9ECJCbyLA4rDDg3r_RT_fTe7enOlUJufEO5Jok0ACzopdmWAx9tWDPcUUBZiGrHElnkTAmQjg95Ei/s1600/IMG_7174.HEIC"
 ---
-A dedicated navigation desk is one of the things I like most in the Irwin 34. In my diary it goes by many names: nav table, chart table, nav desk, navigator desk, nav station. Same place, same desk. Here's how it went from rotten plywood hidden under wallpaper to a desk with a 21-inch display, its own switch panel, tank gauges, a little printer and a light that dims from "good enough for surgery" to "hard to see anything". Some of the woodwork is also in [Interior woodwork](../interior-wood/), and the electronics behind the screen are in [Navigation & autopilot](../navigation/).
+A dedicated navigation desk is one of the things I like most in the Irwin 34. In my diary it goes by many names: nav table, chart table, nav desk, navigator desk, nav station. Same place, same desk. Here's how it went from rotten plywood hidden under wallpaper to a desk with a 21-inch display, its own switch panel, tank gauges, a little printer and a light that dims from "good enough for surgery" to "hard to see anything". Some of the woodwork is also in [Interior woodwork](../interior-wood/), and the electronics behind the screen are in [Navigation instruments & autopilot](../navigation/).
 
 ## What I started with
 

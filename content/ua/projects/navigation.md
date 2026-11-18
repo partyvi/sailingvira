@@ -1,6 +1,6 @@
 ---
 id: navigation
-title: "Навігація й авторульовий"
+title: "Навігаційні прилади й авторульовий"
 section: electric
 order: 2
 description: "OpenPlotter, авторульовий, вітромір, AIS, радар і NavPod."

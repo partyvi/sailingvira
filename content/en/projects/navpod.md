@@ -6,7 +6,7 @@ order: 3
 description: "A helm head unit with a 7-inch screen and 26 real buttons, talking to OpenPlotter, Signal K and PyPilot."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeW_Ub1562uLkio219CyFr11SFzcktXplddLgQGq0wwOwFdv49VCkQSAyphmLo3NYXEtQuod5oR6DLCAbqlw2D7KdFXBtEYT4gJk3AYhTAF1hl9k7tz1REF1Szyvfht1z72WBUFBYZd6yKczcJYQ1x41WxqEfJGtAiLB98brBWeEI8SorbjiVxm9aYUk2x/s1600/IMG_2272.HEIC"
 ---
-Touch screens and wet fingers don't mix. So I built a "NavPod" for the helm: a second Raspberry Pi with a bright 7-inch screen and real buttons, sitting on the pedestal guard and talking to the main OpenPlotter computer. It's not a brand-name NavPod; it just looks like one. The rest of the navigation system is in [Navigation & autopilot](../navigation/).
+Touch screens and wet fingers don't mix. So I built a "NavPod" for the helm: a second Raspberry Pi with a bright 7-inch screen and real buttons, sitting on the pedestal guard and talking to the main OpenPlotter computer. It's not a brand-name NavPod; it just looks like one. The rest of the navigation system is in [Navigation instruments & autopilot](../navigation/).
 
 ## The NavPod idea
 
