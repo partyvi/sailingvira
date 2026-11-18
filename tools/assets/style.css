@@ -114,7 +114,7 @@ h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.0
 .band .lang{order:3;display:flex;gap:4px}
 .band .lang a{font-family:var(--f-mono);font-size:12.5px;color:#DCE7EC;text-decoration:none;padding:2px 6px;border:1px solid transparent;border-radius:4px}
 .band .lang a[aria-current]{border-color:rgba(255,255,255,.45);color:#fff}
-.tabs{order:2;flex:1;display:flex;gap:2px 18px;overflow-x:auto;scrollbar-width:none;min-width:0}
+.tabs{order:2;flex:1;display:flex;flex-wrap:wrap;gap:2px 18px;min-width:0}
 .tabs::-webkit-scrollbar{display:none}
 .tabs a{font-family:var(--f-display);font-size:18px;font-weight:500;letter-spacing:.04em;text-transform:uppercase;
   color:#E8F1F4;text-decoration:none;white-space:nowrap;padding-block:2px;border-bottom:2px solid transparent}
@@ -246,3 +246,6 @@ figure.video figcaption{font-family:var(--f-mono);font-size:12.5px;color:var(--m
 .related{margin-top:48px}
 .related h2{font-family:var(--f-display);font-size:28px;font-weight:600;text-transform:uppercase;margin:0 0 14px}
 .related .cards{grid-template-columns:repeat(auto-fill,minmax(260px,1fr));max-width:620px}
+/* the menu: one line only when everything fits (EN needs ~1105 px, UA ~1270 px); otherwise the tabs get their own row and wrap */
+@media (max-width:1290px){.band .srch{order:2;margin-left:auto}.band .lang{order:2;margin-left:0}.tabs{order:3;flex-basis:100%}}
+@media (max-width:620px){.tabs{gap:0 14px}.tabs a{font-size:16.5px}}
