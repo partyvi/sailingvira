@@ -84,41 +84,30 @@ lines representing 2/3 wire cables
 Cut in size and build new harness using doubble isolated cable, then wrap harness tape (looks like very thick and wide isolation tape)
 ![Pulling out the old wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8zSdhL_3Fy4u7OzXZSpH4r7bhj1td-8uNxs7qp_RHWxLy6N3Ho6DCtgEkTFrMvOiRBhRLaoHBIWSv5F1au7coMnpoT8iBIfLNNZMV_UGo88IenxAc_BD6aaCGiEjcUI9GzhCCqQvRImvwSoR8LZxh69cRXyw6T_8CVGRkfRK1HaJSaCkr8udsroKryA/s1600/IMG_3778.HEIC)
 ![Bundle of old wiring coming out of a locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUzhUN6Lf8J3nGMASFGCK570v7NYZavW8Jk5oJ2q8rJegB81-wdW93HrVjwtqHTPcDzxjxQtjABPq3FnuWRt7qv6kJZbDpCQtVGtZuq2KxwL4BoizEuf-oKYU33jDBr2UD90-jD-F1rFtVgZOuvo41drzDXmSsGhtYmKzOzPEmMh25QdRrgBJmkvDftQ/s1600/IMG_3780.HEIC)
-
-
 ![new wiring run along the hull above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-JEPsRzmJoFlrH6r8sukwk2px9rVFYg2Lx_aNV_1vtGVjx8S1dLA9no3mPuRQAtgXRlLT2xV6nKP-MgM3GRBJQm6FYK3AKSoa6UXYgoVxvulsFduEOlBdt-aSOuW1pHrpDO4sdwzCkMWIJWc-rr-VJ7uQtKBsykJuTFLfeW9M8ogEDzF0oKBt3M0og/s1600/IMG_3788.HEIC) 
 
 Port side harness
+
 ![New harness along the hull, starboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitejI5vQazwjf0_4_j1Eymzfc_0MCwoNfSnVsED6zLUKSzkRvGnu6Epyl2XU0EtkIP15CvUtYwYsOews3Y1tgovQ2yHV547BmZDsFdMx4x8Qrp-hwqgW1wO0dhBbh7Ve_ZYFTUZ8M20OkrEPrpDvOIjyy_6xNKt1cauMFpbbEvC6W4m4tRBakWKABDYg/s1600/IMG_3827.HEIC)
 ![New harness clipped above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZMoE5Hzw5WHTcCwtgQX5lRxBmpoTrXVgbPGQPhg-LYJ3n70sm4XCzTa2PPHO3_jZA4m_fFmpU1FlhL4QFFZk8s9x4dH2ZOiVBiHmmpakJig-DGCuuF5iyopnvueQC1VXWirm8U-bOsvTI_3kqAjs7hyTsIhRFvdqsoivB0s7gjwi6Z6Hrk17obsJNw/s1600/IMG_3828.HEIC)
 ![New wiring above the galley](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDF3oXnscOo7RimH-yxFV_7eRlK62Uiujo9qKqVRxSq1GQ1nNpkIEedAnAgX2cssqN2a7TLS2q9CTpTXVQG3eBzMmFg9ZhQJadrSUOSKfF1m-dX00d9dA7mzETkeWxS92j-OQrNJuhoH-EfEg348ZEgo10wV-wWeC4mWrTFOl6v4xlYKNsTUxlWFcH3g/s1600/IMG_3829.HEIC)
 
-Starboard
-Old harness removed and new is waiting to be installed
+Starboard. Old harness removed and new is waiting to be installed
 ![Mounting blocks glued to the hull for the harness](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAiwYf02cx4H0qNKRscBSsn95LOtEMQuRfnOZE2cyHzxXZP6jjoZR7OEIvh9vfzjQswNCq9SXcskr-GkmuC4LmUan6IDEKFXJamUFJF2ncDgGkDRdhKlyIUPpk2_Qs221yeqRplsAvrZBoqTZCWSZ_TMqxMff9klCypdOg0hSjoty-FiH3W3M-QqLROg/s1600/IMG_3809.HEIC)
-
-
 ![New harness along the port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmwTiPAShkYtpITeM2SzQcAiOqNmOev5FpdtSTnifnGh_PF3mk7UKCyHSKaL-t1ONbF9SSCNxeicIZ9ARDJxBGct9LxH7m-6QNo5Q6EWPpy9fCKrYW_JBnOoNyztBClCVjDXHWVE9VCwEH7ZGIsTnvg9MmWeY_DukUYWpuQFG4E1yqd6OO6z1-nYZeQ/s1600/IMG_3814.HEIC)
-
 ![New wires waiting to be tedminated](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3-JdZCMKujODuYCelWhF8XiOTbOqAPD4T_RBBgHRXy85JIo3Hrg0awJ7OZHV2u0zfmKNHdQkyteVOm-qsr6N3x2Q3oLyMnt5nOKg007jn4Pkx2_Yqhblrqj2-auLdM-GWRnTKFOw2yG-LBoqDXwM46T_qKISzwSiEBTqrhjvzrk_KiE7EQJ-xBPomQg/s1600/IMG_3813.HEIC)
 
 Diary: [17 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-917-new-wiring-part-2-cockpit.html)
 
-Wires for an electric toilet, the refrigerator, the autopilot and the pumps, all organized along the hull sides. I tested the original battery charger, and, surprise, it was broken: no real charge current, just a little pulsing. A new 3x5 A charger went in, in a temporary place.
+Wires for an electric toilet, the refrigerator, the autopilot and the pumps, all organized along the hull sides. 
 
+## Battery charger replaced
 
-![Wiring bundles in the main cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_W_-bbEIxWBvn2VtyR_GPbGNvX1g_crBClTbEJsBHqyEN0uT5VuNj15BLF3Pl9JuWmN5fc-F7fjKVqw4OvItZl12NlBYUOmb0CwNIEMEJ18YaeDT9O-b1vNvm6kgH1zAgMOnaKgZZl_imlYkILOfNHvBehkyWeR-oetKmbcfP9NkP5fDkKl1v4L2a3A/s1600/IMG_3830.HEIC)
-![Wires for the toilet, fridge and pumps under the deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrgFwc_DFgv5M9nTtOCAYWR9PYp5XWmKqE2HPD8ufsbtRwvwnefmmXFl1eA9zTPmCObovXQiUOVEgxt3zbP0WoVGZlNO17aw7XBPH9dq-toE6X7T9L5i-v7hQHYRbImhuWOSAiD4Oed0WNwsJWk-eGiW8Eaoaw2zYvTG-_eFfIUhAALHxx16gcBHj5Yg/s1600/IMG_3833.HEIC)
-![Temporary charger mount next to the nav station](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM7lVP2CFmUOsrV2PXtr48mpqYMF06AEoHz5v1EJWMG65IjL-gILV-wUHlH_xx_htPtCZlawaX5MHsdpq19y6Yx46G1xhPm1JxHvMTx-tOGuV11NyVDE77qPxeYeE9rwIQwNjqLNmy0Q77xNwBnJAsn6xaVq3-nBT80HcfTC2qmAWUYildqOqDsZk1dQ/s1600/IMG_3831.HEIC)
-![NOCO Genius 5x3 battery charger mounted](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVYneYC_P8dFgUtatZIH2z2eSmvdtQO-R1NRLAif1TRFLN3HYtFq3GXjLl_QNiAsaU-GjEJiME_ghWBD6vKAnSrlL8-KioF5gE7KZr_9rHHKb1X115UOtoXaf1tUCF2Y8K21CEz4Gj7SBTsBzEQOM5ZatZimD1w-oW8PXK-qvWcowPxgOOVO1jRBrzpA/s1600/IMG_3837.HEIC)
+I tested the original battery charger, and, surprise, it was broken: no real charge current, just a little pulsing. A new 3x5 A charger went in, in a temporary place.
+
+![NOCO Genius 5x3 battery charger temporary mounted](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVYneYC_P8dFgUtatZIH2z2eSmvdtQO-R1NRLAif1TRFLN3HYtFq3GXjLl_QNiAsaU-GjEJiME_ghWBD6vKAnSrlL8-KioF5gE7KZr_9rHHKb1X115UOtoXaf1tUCF2Y8K21CEz4Gj7SBTsBzEQOM5ZatZimD1w-oW8PXK-qvWcowPxgOOVO1jRBrzpA/s1600/IMG_3837.HEIC)
 
 Diary: [24 Sep 2022](https://irwin34.blogspot.com/2022/09/days-48-924-new-wiring-part-3-cockpit.html)
-
-And in March 2023, at home, a small side project: one of my 18 V Bosch tool batteries had a broken latch cam. I broke it years ago and held it with masking tape, and it finally got too annoying. So I modeled and 3D printed a new cam. Once you have a 3D printer, nothing is broken for long.
-
-![Cam for a Bosch 18 V battery, 3D model](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8V8dZgTTGONQufGsuTRZrvpncozTkH4mzWlgeK2b_QhaKjvVmvaN0kcDl-HC_0NBzEnNWaPCCqg3A1BrQEcwSXjED_GP7T9MBNaIzN_wi2lE7lqMFooQBa5ir_8I2PukZ9MTrlXgQl2AHT77mvIQ_qOfnFh9F8aAAcGSC8qcfvcXCUNuNpz3OhBjkg/s1600/111.png)
-
-Diary: [11 Apr 2023](https://irwin34.blogspot.com/2023/04/bosch-10v-li-ion-battery-cam-repair.html)
 
 ## Inverters and lithium
 
@@ -135,7 +124,7 @@ To make the 3 kW inverter work with a 10.8 V lithium battery, I had to change it
 
 Diary: [22 Oct 2022](https://irwin34.blogspot.com/2022/10/day-53-1016-paint-day-water-tank.html)
 
-Then I made a flat floor for the lithium battery in that compartment. Maybe I can fit a fifth pack there.
+Then I made a flat floor for the lithium battery in that compartment. Maybe I can fit a one more 10.5V 60Ah pack there.
 
 ![Flat floor for the lithium battery in the locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0GMQtRomKc-d1POATxKfWauddmFF01tGys06C5RwGuJXBBQz4z_KhZKWN5z1bJEEJ3i9LEBlKGfaYlTOjqvlDICM-t0UEnOayKbJKVQLk-GI49onPf7zd-ptu4gM0AjgCSx6vboxRVxeqsVNUPssWUGD7QTkF01kyE56sprtiZ9ckmKrc5PVYtqPhw/s1600/IMG_4215.HEIC)
 
@@ -143,11 +132,15 @@ Diary: [19 Nov 2022](https://irwin34.blogspot.com/2022/11/day-62-111922-front-ca
 
 ## Off the old panel
 
-In April 2023 terminal blocks went on the back of the fuse box, and all the high-current and 110 V wiring was terminated.
+In April 2023 terminal blocks went on the back of the main breaker/switch box, all the DC and 110 V wiring was terminated.
+Later i plan to put plastic cover over 110V terminals.
+
+There still escential wires (navigation lights) To be able to sale boat. so ther was onld and new wiring at the same time, so pretty hard to see order there.
+
+why i keep this mess? I sailed her at least once in mouuth to remind myself and her :-) why i need to do all this hard work.
 
 ![Terminal blocks on the back of the fuse box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibqqo_6XFyd8sR_UkVBpU8hOpqZh-iobyCuWFYp9x8VuTNBQ_IvfA6tEcw1DUhq7TcdtVWjwUUmXykVXz7ScrqJrjeGaNLpIcqFGChrYv41jywNGa2LmFFSo_f0IYJ0T29-axqfQiH2stHW7edYlaADl5ItVUd3mPq6TF_CvbxSj5J0Q1eWgIR8ZzIww/s1600/IMG_5630.HEIC)
 ![Fuse box terminals and new wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEuX8dBZrsEJ-HMuX5l7TdB90kQCQf3OIRkI38MayE-GPIuA45gpAlkwP4bGefy6wsIzoX1521Uh0iHdKbenx4Nwon9On0LPcubqajvLq61BZfBCuoH2J7CSniPWDgZXPBO-uFF8Fe4nXCTXLBNFtJRVGjNg_bT0WQBdjZtd71Y4Mt6muzqAjbBaM1Jg/s1600/IMG_5681.HEIC)
-![Fuse box with labeled terminals](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkRegF3IU-dnG13c6lGvEOB8616FeQj_L33sSGCEKGNtTH4gWxezW_12Z0jG5_FqXQrb_QkFfho0DGsq9DiJxxuTr4CNoOFtUI9KtZhg3xZ--EWUSbMTwlww8wDDiSQRlUa0MjIqJ_XTw_ptbwpIl_0gjzy4Wv_I6dgGgW8kA_IEP6X6Eyaq8JrpwAA/s1600/IMG_5682.HEIC)
 ![Back of the fuse box with new wiring done](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvu88kmLtNsHakrOte7_hm93UUYOY96no_EOLovgZnLU7A8FiYSIGSt36hlW-YCnoKUw5zt4XlOBLy9jOTjMHMlVdAquRkzZzfDgoT8FW3TKkHcHRFNtm0r1flTvPxh--bqwjoIulwR69COb8PmhUkMmZv3JB4hTOw925ZvOT836PYy-0fIQrlc4oe8Q/s1600/IMG_5683.HEIC)
 
 Diary: [22 Apr 2023](https://irwin34.blogspot.com/2023/04/day-86-42423-refrigerator-electrical-8.html)
@@ -163,7 +156,6 @@ Diary: [13 May 2023](https://irwin34.blogspot.com/2023/05/day-90-51323-bimini-ga
 
 Then a 110 V outlet in the front cabin, and a 12 V outlet and a USB charger there too. A temporary switch for the nav lights. Time to build a switch panel.
 
-![Front cabin 110 V outlet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIKjkieIjF80LuvwsSI1dIdivZkBruDbKkQ1BZA-eyhYa3H8U9b2PRoR4VhjouAFnBE6gZZvGyhDKi1XoCfyAfZhId4QdO1zOxRLXiFK7RjfFvH8OjcmcGMdx9BAjE7RZqOjLjA54nIh-VsNPIm7GMFuzFReJCuRFDFwZsVwClJxpYCNR9IhzpvYfu6A/s1600/IMG_5823.HEIC)
 ![Front cabin 12 V outlet and USB charger](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRIRISAfKfiuMSJEo3L-D08lqAa9zaxNpGhejdou5DShvmtIQvSqI2fkIsrGYW5ao7uSTcZ4dfkZxC6avROs2kqxJUmucskuf3WMzUWu82KgJJX6RhxklCG9HdeIZGIqDyrwLE8QRD2wW8bulFbn5tQNr-TYeiyqe8KuWaKQvYIwq98Rx8BWt9hpxXFA/s1600/IMG_5905.HEIC)
 
 Diary: [27 May 2023](https://irwin34.blogspot.com/2023/05/day-91-52723-fixed-window-ports.html)
