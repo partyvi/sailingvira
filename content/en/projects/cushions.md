@@ -24,7 +24,7 @@ In April I started. I ordered from [Sailrite](https://www.sailrite.com): 30 yard
 
 Here's the list. Two almost identical 4-inch V-berth cushions, with good foam. The big port U-shaped seat, 6 inches, with fair foam that I'm thinking of replacing. The port cushion over the table, 6 inches, good foam. The starboard settee, which sat over the leaking fuel tank, so its foam was trash. The pilot berth, which came with no cushion at all, so new foam and a template. And the settee backs: I had the original port set, but it had been stored in a wet garage, and the foam was beyond saving. In three of my six cushions the foam was fine, with no smell or mold, so those just got new covers.
 
-I learned how to make cushions from [Sailrite's videos](https://www.youtube.com/@sailrite), which helped a lot. The V-berth cushions are very similar, but the starboard one has a rounded corner on purpose. One picture, but about 8 hours of work. They still need some steaming. Not bad for the first cushions in my life?
+I learned how to make cushions from [Sailrite's videos](https://www.sailrite.com/how-to-make-box-cushion), which helped a lot. The V-berth cushions are very similar, but the starboard one has a rounded corner on purpose. One picture, but about 8 hours of work. They still need some steaming. Not bad for the first cushions in my life?
 
 ![New V-berth cushions on the floor at home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 
