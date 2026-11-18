@@ -18,7 +18,8 @@ In January 2022 I took the alternator home to check it. I hoped it was just the 
 Diary: [17 Jan 2022](https://irwin34.blogspot.com/2022/01/day-7-checking-alternator-2-hours-at.html)
 Diary: [10 Jan 2022](https://irwin34.blogspot.com/2022/01/day-10-116-install-63a-alternator-take.html)
 
-That month the new shore power cord went in, and the old one was retired.
+## Shore cord
+That month the new shore power cord went in, and the old one was retired due to my bad feelings to burned plastic and black copper.
 
 ![New shore power cord on the dock](https://blogger.googleusercontent.com/img/a/AVvXsEjCgirQhRiQGYm9ATSIOPe3MB6EbUdSOQLbjWCZAkWnLSmTYHcgZI6m2F3cfavYOt1b1o-9MrheMRHqXVwvLurJG-gqDhcGxoC1wLO5LiqNnnWvBDcYFzTQQYSp2lNkN-2hYj1V3GvqU-jzjNAkbUeqo2OTevOMCl29GxQnjqHy9aoDANXo23cQvDR2Sw=s1600)
 ![Shore power cord plugged into the boat](https://blogger.googleusercontent.com/img/a/AVvXsEjqoribUGXX_dMz1TjJUP7O_w_JW5e-FPH8wko02dJRLB1qRh5o1PXTi14j6wdYxZPwVQGI6SikQuU9PnUyu1i7kB21AkSb2FzlNf0w-fabpfIpmwzvf3Y_rZOL9z9zadPLUeyDGidbPTgFTGqKxDnLZodoPvoZcFETgDHeSGImONi4uBfHFdItqE6k_w=s1600)
