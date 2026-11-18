@@ -904,7 +904,7 @@ for lang in LANGS:
     rows = "".join(
         f'<a class="drow" href="{esc(u)}" target="_blank" rel="noopener"><i style="background-image:url(\'{esc(size(img, "w240"))}\')"></i>'
         f'<span><b>{esc(t)}</b><span class="mono">{fmt(d, lang)}</span></span></a>' for d, t, u, img in LATEST)
-    sail_cover = EN["sailing"]["meta"].get("cover", "")
+    sail_cover = EN["galveston-bay-sailing"]["meta"].get("cover", "")
     boat_cover = site.get("tile_boat") or EN["hull-bottom"]["meta"].get("cover", "")
     root = "../" if lang == "ua" else ""  # home page -> site root, for assets/
 

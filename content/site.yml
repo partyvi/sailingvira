@@ -46,5 +46,6 @@ home:
     ua: Від занедбаного проєктного човна на озері Тревіс до плавань у великій воді.
 # Old page addresses that forward to new ones (after projects were split or renamed).
 redirects:
+  sailing/: lake-travis-sailing/
   galley-fridge/: galley/
   sole-cushions/: cushions/
