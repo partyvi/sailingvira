@@ -84,7 +84,7 @@ February 2023: an oil check and 30 minutes at mid RPM. All good, a little white 
 
 Diary: [24 Feb 2023](https://irwin34.blogspot.com/2023/02/day-79-225-head-cabinet-rebuld-8-hours.html)
 
-## The exhaust and the hole to the cabin
+## The poor guy exhaust and mixing elbow
 
 In October 2024 I looked at the exhaust. It's made of 1-1/2 inch black steel pipe, probably water plumbing. Does it work? Sure. Will it keep working? Maybe. Is the mixing elbow great? Maybe. I don't like it. Will I redo it? Maybe, later, likely. Here are the dimensions, just in case.
 
@@ -92,6 +92,8 @@ In October 2024 I looked at the exhaust. It's made of 1-1/2 inch black steel pip
 ![Notebook sketch of the exhaust dimensions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCl2ijGtn2t4Pnpl0B4PJP9iTcAYYSoroIu4CDX92Nef-aUuLwdcUbKCsSly-UOPAAQrOANG7E8OcLvUqcDn1avmHXTOHytyBNEDb13lB5JMVnGZahZdyzvQMKMxK63TfSKSOrfEEStaBMdUJNtlBIdVPK-efJnkSuVuLlIg6d-gsj1U7Jc3cdXOoAlIcq/s1600/IMG_9210.HEIC)
 
 Diary: [26 Oct 2024](https://irwin34.blogspot.com/2024/10/day-173-102624-engine-oil-change.html)
+
+## Hole from engine compartment to the cabin glassed. 
 
 Then the engine room "shelf". The builders had left an opening there: just a hole from the engine room straight into the cabin. So the engine room wall hung in the air, and any splash there ended up making the pilot berth really wet. I glassed it over. I also stiffened the joint between the bulkhead and the deck. It was very weak; the bulkhead moved about an inch from side to side when the steering was loaded. I'm not sure this is the right fix, but I hope it supports the bulkhead sideways. The extra glass will be cut or ground later.
 
