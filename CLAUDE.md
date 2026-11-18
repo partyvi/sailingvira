@@ -107,6 +107,13 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   at the last sync, raw); `save` stores the new copy. Runs once a month as a scheduled Claude task: new or changed
   items go into both pages word for word (typos fixed, UA translated), `updated:` in the front matter is set to the
   blog page's date (shown at the bottom of the page), then a PR that Claude merges.
+- `tools/blogger_fix_h1.py` (Nov 2026, pending): Bing flagged "more than one H1" on diary posts: 142 of 245 posts have "Main
+  heading" (<h1>) lines in the text. Viktor approved changing them to "Heading" (<h2>) through the Blogger API. He backed up the blog
+  with Google Takeout first (links valid about a week from 18 Nov). Steps in a NEW session on the environment "Blog irwin34 (Blogger
+  access)" after Viktor adds a network secret for host www.googleapis.com (Authorization: Bearer, token from the OAuth Playground,
+  scope https://www.googleapis.com/auth/blogger, valid 1 hour): run `python3 tools/blogger_fix_h1.py` (dry run, show Viktor the list),
+  then `--one <id>` on one post and let Viktor check it on the diary, then `--all` after his OK, then remind him to delete the secret.
+  Pages are already fixed by hand; the script only touches live posts.
 - `tools/sailing_log.py`: Viktor's sailing log (Google Sheet "Boat dates",
   https://docs.google.com/spreadsheets/d/17d6xNwKSKXRW21_t-V-_qv_YgEjKrWsUt2m98LCfUnQ). When Viktor asks to update the log:
   download the sheet as .xlsx through the Google Drive connector (not into the repo: it holds real crew names), run
