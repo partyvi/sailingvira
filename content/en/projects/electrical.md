@@ -59,18 +59,24 @@ In September I also did a quick test of the house and start batteries: one had 5
 Then I found that ALL the original wiring was thick stranded copper, not tinned, and oxidized. Even inside the original harness there were twisted joints. And on my boat every port side wire goes from the main panel to the bow and back. I don't see why. There's a perfect path under the companionway step, and Irwin's own diagram shows the wires there, not around the whole boat. It's not just wire length; it also makes the system more vulnerable to lightning. Here's a nice example of an ORIGINAL power harness: it looks like the wires came out a bit short, and they extended them.
 
 All the wiring was 40 years old, and I didn't trust it anymore, so I decided to replace everything. A couple of hours went into digging out space to route the wires. Then I built the harness, with every wire tagged at both ends, and glued mounting blocks to the hull every 18 inches to hold harness.
-
-![Main cabin side panels removed, port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPNqRHoZtSYFoYQaSiOgsZnZd0kNbZCAsFmYpWM4BqoOeVhaHKM6pGiAVaAXMyL_rq3qwGv6YY3aq4JqsQVawwQzv-3DN4akj_XeLbJ6-Eg8FYCzBpaPuQQpt5zdesOfkBoQ78n14Mn2q3qSBF2c_216xQQIIxJHdZnZHnQKr3v41kZBbplHKrccQRQQ/s1600/IMG_3772.HEIC)
-![Original wiring run along the hull above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-JEPsRzmJoFlrH6r8sukwk2px9rVFYg2Lx_aNV_1vtGVjx8S1dLA9no3mPuRQAtgXRlLT2xV6nKP-MgM3GRBJQm6FYK3AKSoa6UXYgoVxvulsFduEOlBdt-aSOuW1pHrpDO4sdwzCkMWIJWc-rr-VJ7uQtKBsykJuTFLfeW9M8ogEDzF0oKBt3M0og/s1600/IMG_3788.HEIC)
+1
+![Original wiring run along the hull above the settee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-JEPsRzmJoFlrH6r8sukwk2px9rVFYg2Lx_aNV_1vtGVjx8S1dLA9no3mPuRQAtgXRlLT2xV6nKP-MgM3GRBJQm6FYK3AKSoa6UXYgoVxvulsFduEOlBdt-aSOuW1pHrpDO4sdwzCkMWIJWc-rr-VJ7uQtKBsykJuTFLfeW9M8ogEDzF0oKBt3M0og/s1600/IMG_3788.HEIC) 
+2
 ![Pulling out the old wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8zSdhL_3Fy4u7OzXZSpH4r7bhj1td-8uNxs7qp_RHWxLy6N3Ho6DCtgEkTFrMvOiRBhRLaoHBIWSv5F1au7coMnpoT8iBIfLNNZMV_UGo88IenxAc_BD6aaCGiEjcUI9GzhCCqQvRImvwSoR8LZxh69cRXyw6T_8CVGRkfRK1HaJSaCkr8udsroKryA/s1600/IMG_3778.HEIC)
+3
+
 ![Bundle of old wiring coming out of a locker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUzhUN6Lf8J3nGMASFGCK570v7NYZavW8Jk5oJ2q8rJegB81-wdW93HrVjwtqHTPcDzxjxQtjABPq3FnuWRt7qv6kJZbDpCQtVGtZuq2KxwL4BoizEuf-oKYU33jDBr2UD90-jD-F1rFtVgZOuvo41drzDXmSsGhtYmKzOzPEmMh25QdRrgBJmkvDftQ/s1600/IMG_3780.HEIC)
+4
 ![Hull above the settee with old wire runs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsqTDv3ZHHVM8uMEowGAiRaZUIaoju1CIQrA4xCnBo8untg1QVxJBWftJ915L9Z2-xbzjaJLL6RK_h47k6SMryvmKSIS8GnwUcxJe4yvEPKN9WYkoYk0Bo4fwg0aId1we-59CufGlwe0EgUFV2WuT7oe8FD0owESr98ouvE14iOp6qNG7a-wFCHxxMQ/s1600/IMG_3790.HEIC)
 
 Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring-part-1-cockpit.html)
 
-Two observations that are not about wiring. There's lots of unused space in the corner left of the nav desk. My first thought: WOW, a nice place to hide electronics. But it would be a nightmare to reach for maintenance. And the laminated plywood piece in the corner of the pilot berth is both inside and outside: it's not glassed on the outside, so water gets into it easily. When I removed it, I got a "nice" opening from under the engine room hatch into the cabin. That should be glassed, not just plywood.
+Two observations that are not about wiring. There's lots of unused space in the corner left of the nav desk. My first thought: WOW, a nice place to hide electronics. But it would be a nightmare to reach for maintenance. (However i use this space for inverter later)
 
 ![Wires through the hull-to-deck area](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqdSYjwYrox_j_yn1ShleqwIqSJWP9wYoQde1xJ5jOmznY9v9SF8cW_NoiX2LjT4AqsVuJ1oMj041eVO_RL7N7sCYGYNIjj0Q5iw8b2M-GCAeihOZb5EGSN2Mky6eSpk8laI4wTdlla2xDB0-YhNtW0keJG4tMh6CTdLPChKgKbdNaB2ihJ54zYx76A/s1600/IMG_3774.HEIC)
+
+Taminated plywood piece in the corner of the pilot berth is both inside and outside: it's not glassed on the outside, so water gets into it easily. When I removed it, I got a "nice" opening from under the engine room hatch into the cabin. That should be glassed, not just plywood. (Later, much later i glassed the top of this hole from engine room side).
+
 ![Unused space next to the nav station, marked with arrows](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJ7W-mQxVtaqY-MAMZrjj5k7_250PiqQ9hKeEN6-caCIeWXOT157Pt68Bxv6xFp0Ka8j7mxGf_2DZvUNSJAQnlvy8RBuEy36mpYxYhSs4SkPG8kHFXtC4viV0dzUALgw9R4JTkYOkHOHhR1ivaqyfIRkroNzqN1vNeDRnuBD4nZH1XuGyWIB3E6aDMQ/s1600/pic122.png)
 ![Cockpit locker opening into the cabin, wiring inside](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZtQMXw2DhDX1nioq9YioXb3PXrhx-m9hhnehKWMeiPyYb7giUXmmPKxYG2reC8r322sqo--WkLD9Q-s3hZQGzhXriyZYRWgSbrM4u2t8UgfZA5Sng-IB4KpQquxbUQMNOi__nBRUF43PgehOYzc4XT-UNzifTAYWq3Z3pOJkJGJaWA--HbfdNZkuYeg/s1600/IMG_3775.HEIC)
 ![Engine hatch corner opening into the cabin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpkY_5h4e3n5J6cLnOjoi9WGZTVCN6jJeMHhaSTRDFlWi4y4UV2kxFO4psaKoBNUGXDc2Bmjuk86aBAk11fRf5T2_u9svWQxmEQ82h4ZurCvCwFMbzjkr5FKfmi0pZBgHNvHIUu9VYyd30nQdq02afqo3adEeERQiaRo7Njg8L3KkdQwKjd_In5DZMGg/s1600/IMG_3777.HEIC)
@@ -80,6 +86,8 @@ Diary: [10 Sep 2022](https://irwin34.blogspot.com/2022/09/days-47-910-new-wiring
 Then came the new wiring system, following my wiring diagram.
 
 ![New wiring diagram](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7wtQ9oG1IJcwJWnS1jx6GXa7CrU1TB9h96pXWGUoHFN25hGWgaWSiPQOuHbJjQ0BgSN815L_kv_FtA3poFOMye2007T983DMzZtsgT4lzK6kpqggZVVfIfJ24TlKPlfFfOyxfDA8D57aePz0xE_cnzx2aFXpZyw_hw9OxBhnVRetyVJzVNwCutM5CBQ/s1600/Electric.png)
+
+
 ![Mounting blocks glued to the hull for the harness](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAiwYf02cx4H0qNKRscBSsn95LOtEMQuRfnOZE2cyHzxXZP6jjoZR7OEIvh9vfzjQswNCq9SXcskr-GkmuC4LmUan6IDEKFXJamUFJF2ncDgGkDRdhKlyIUPpk2_Qs221yeqRplsAvrZBoqTZCWSZ_TMqxMff9klCypdOg0hSjoty-FiH3W3M-QqLROg/s1600/IMG_3809.HEIC)
 ![New harness along the port side](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmwTiPAShkYtpITeM2SzQcAiOqNmOev5FpdtSTnifnGh_PF3mk7UKCyHSKaL-t1ONbF9SSCNxeicIZ9ARDJxBGct9LxH7m-6QNo5Q6EWPpy9fCKrYW_JBnOoNyztBClCVjDXHWVE9VCwEH7ZGIsTnvg9MmWeY_DukUYWpuQFG4E1yqd6OO6z1-nYZeQ/s1600/IMG_3814.HEIC)
 ![Pile of new tinned marine wire](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnaisx3LlpigkAN6EvyxVjRII-h9wD5DZ7Ctw3BpmY5f54IdNRistPYFEp0lmqcPV1BfQ8mhy3nPtv0D0iLI12VSf5BSnLd2Hq-tx6R0mKdvsGSSFkKLv3hZrq0aVaaZh4zEIK8Cx5904lmD8EdFJVG6VZqNHepo6XLZEZQ4lZKA-qixKmDYymsRZjow/s1600/IMG_3805.HEIC)
