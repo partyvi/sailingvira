@@ -1,6 +1,7 @@
 ---
 id: standing
 title: "Стоячий такелаж і путенси"
+search_title: "Нові путенси й такелаж з Dyneema своїми руками"
 section: rig
 order: 2
 description: "Нові путенси, обрив штага і перехід на дайніму."

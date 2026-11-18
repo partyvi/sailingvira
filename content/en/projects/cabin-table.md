@@ -1,6 +1,7 @@
 ---
 id: cabin-table
 title: "Cabin table"
+search_title: "DIY teak cabin table with a lift leg"
 section: interior
 order: 3
 description: "A 40-year-old Formica table replaced with a new one made from teak countertop leftovers."

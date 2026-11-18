@@ -1,6 +1,7 @@
 ---
 id: boat
 title: "Човен"
+search_title: "Irwin Citation 34: характеристики, огляд і покращення"
 slug: boat/
 tab: boat
 eyebrow: "Irwin Citation 34 · 1978"

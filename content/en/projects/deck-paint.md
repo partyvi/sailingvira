@@ -1,6 +1,7 @@
 ---
 id: deck-paint
 title: "Deck painting & hatches"
+search_title: "Painting a sailboat deck and fitting new hatches"
 section: hull
 order: 2
 description: "Fourteen weeks of sanding, priming and painting, new hatches and companionway."

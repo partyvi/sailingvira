@@ -1,6 +1,7 @@
 ---
 id: windlass
 title: "Windlass, chain locker & anchor"
+search_title: "Installing a used Lewmar windlass and bow roller"
 section: hull
 order: 5
 description: "New windlass mount, rebuilt chain locker, bow roller and anchor rode."

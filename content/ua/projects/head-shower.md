@@ -1,6 +1,7 @@
 ---
 id: head-shower
 title: "Гальюн і душ"
+search_title: "Гальюн і душ на яхті, електричний унітаз"
 section: interior
 order: 8
 description: "Стіни душу, шафка в гальюні, душ, що береже воду, і справжній унітаз."

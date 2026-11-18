@@ -1,6 +1,7 @@
 ---
 id: khatkapi
 title: "Базова плата для комп'ютера OpenPlotter на Raspberry Pi"
+search_title: "Базова плата Raspberry Pi 5 для OpenPlotter: KhatkaPi"
 section: electric
 order: 5
 description: "KhatkaPi: базова плата, яку я спроєктував, щоб захистити Raspberry Pi 5 з OpenPlotter на човні. Файли проєкту відкриті."

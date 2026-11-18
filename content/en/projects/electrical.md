@@ -1,6 +1,7 @@
 ---
 id: electrical
 title: Electrical system
+search_title: "Rewiring an old sailboat: panel, batteries, ELCI"
 section: electric
 order: 1
 description: New wiring, electric panel, batteries, inverter, shore power and ELCI.

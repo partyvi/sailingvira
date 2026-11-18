@@ -1,6 +1,7 @@
 ---
 id: aircon
 title: Air conditioning & ventilation
+search_title: "Installing marine air conditioning on a 34-foot sailboat"
 section: interior
 order: 10
 description: Webasto unit, raw water pump trouble, ducts and teak vents.

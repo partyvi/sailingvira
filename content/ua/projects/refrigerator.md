@@ -1,6 +1,7 @@
 ---
 id: refrigerator
 title: Холодильник
+search_title: "Як я перетворив льодовий ящик на холодильник 12 В"
 section: interior
 order: 7
 description: Стара льодова скриня, що стала холодильником, компресор, який помер

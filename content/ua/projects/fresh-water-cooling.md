@@ -1,6 +1,7 @@
 ---
 id: fresh-water-cooling
 title: "Охолодження прісною водою"
+search_title: "Yanmar 2QM20: переведення на прісну воду своїми руками"
 section: engine
 order: 2
 description: "Переведення Yanmar 2QM20 на охолодження прісною водою: готові деталі і кілька саморобних."

@@ -1,6 +1,7 @@
 ---
 id: sails
 title: "Sails & running rigging"
+search_title: "New mainsail, reefing, sail pack and dodger"
 section: rig
 order: 3
 description: "Sail pack, the new mainsail, boom, reefing, winches, bimini and dodger."

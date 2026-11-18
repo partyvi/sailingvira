@@ -1,6 +1,7 @@
 ---
 id: sailing
 title: Sailing log
+search_title: "Sailing an Irwin 34 on Lake Travis and Galveston Bay"
 section: voyages
 order: 1
 description: Sailing days, people, weather and life around the boat.

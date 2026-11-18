@@ -1,6 +1,7 @@
 ---
 id: engine
 title: Engine
+search_title: "Yanmar 2QM20 rebuild: removal, mounts, manual start"
 section: engine
 order: 1
 description: "Yanmar 2QM20: haul-out, new mounts, fresh water cooling, manual starter."

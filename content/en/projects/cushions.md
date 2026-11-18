@@ -1,6 +1,7 @@
 ---
 id: cushions
 title: "Cushions"
+search_title: "Sewing boat cushions yourself with Sailrite"
 section: interior
 order: 4
 description: "Hand-sewn cushions for the whole cabin, and 3D-printed locker latches."
@@ -19,11 +20,11 @@ In February 2025 I re-oiled the galley countertop and worked out the cushion mat
 
 Diary: [16 Feb 2025](https://irwin34.blogspot.com/2025/02/day-188-engine-mount-angles-dry-fit-and.html)
 
-In April I started. I ordered from Sailrite: 30 yards of Outdura Chesterfield Graphite 54-inch upholstery fabric ($22.95 a yard), a 50-foot #5 YKK molded-tooth zipper chain ($30.90), pulls, top and bottom stops, and Tex 90 Cadet Grey UV polyester thread. The foam came from Foam Factory: a full sheet of 6-inch Lux regular foam, 82 x 76 inches, for $169, for the seats, and a half sheet of 3-inch foam, $43.99, for the settee backs.
+In April I started. I ordered from [Sailrite](https://www.sailrite.com): 30 yards of Outdura Chesterfield Graphite 54-inch upholstery fabric ($22.95 a yard), a 50-foot #5 YKK molded-tooth zipper chain ($30.90), pulls, top and bottom stops, and Tex 90 Cadet Grey UV polyester thread. The foam came from Foam Factory: a full sheet of 6-inch Lux regular foam, 82 x 76 inches, for $169, for the seats, and a half sheet of 3-inch foam, $43.99, for the settee backs.
 
 Here's the list. Two almost identical 4-inch V-berth cushions, with good foam. The big port U-shaped seat, 6 inches, with fair foam that I'm thinking of replacing. The port cushion over the table, 6 inches, good foam. The starboard settee, which sat over the leaking fuel tank, so its foam was trash. The pilot berth, which came with no cushion at all, so new foam and a template. And the settee backs: I had the original port set, but it had been stored in a wet garage, and the foam was beyond saving. In three of my six cushions the foam was fine, with no smell or mold, so those just got new covers.
 
-I learned how to make cushions from Sailrite's videos, which helped a lot. The V-berth cushions are very similar, but the starboard one has a rounded corner on purpose. One picture, but about 8 hours of work. They still need some steaming. Not bad for the first cushions in my life?
+I learned how to make cushions from [Sailrite's videos](https://www.youtube.com/@sailrite), which helped a lot. The V-berth cushions are very similar, but the starboard one has a rounded corner on purpose. One picture, but about 8 hours of work. They still need some steaming. Not bad for the first cushions in my life?
 
 ![New V-berth cushions on the floor at home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzYr4rcHYWr1FWp-6-Y7mzCNl2y6vpMh3_b5f6oApGnIsYyAKXHKgcb2v64kTouB4sM5XY5UXL4vYEf4ztfYisyOuLbtqy7mCdmHen3AiH29AXzVHqK821ThBUoqPu3mI1uKmeiIj2AX6wQSc5CUCdks4WMFsRvgHqkh81nYkWg5KHazc1qx3Asmipt0H/s1600/IMG_0425.HEIC)
 

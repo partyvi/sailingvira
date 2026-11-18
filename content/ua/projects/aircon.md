@@ -1,6 +1,7 @@
 ---
 id: aircon
 title: Кондиціонування і вентиляція
+search_title: "Кондиціонер на 34-футовій яхті"
 section: interior
 order: 10
 description: Агрегат Webasto, муки з помпою забортної води, повітроводи і тикові решітки.

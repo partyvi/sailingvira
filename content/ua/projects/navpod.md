@@ -1,6 +1,7 @@
 ---
 id: navpod
 title: "NavPod"
+search_title: "Саморобний NavPod: дисплей біля штурвала на Raspberry Pi"
 section: electric
 order: 3
 description: "Блок біля штурвала з 7-дюймовим екраном і 26 справжніми кнопками, що говорить з OpenPlotter, Signal K і PyPilot."

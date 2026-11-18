@@ -1,9 +1,10 @@
 ---
 id: radar-mount
 title: "Кріплення радара"
+search_title: "Саморобне алюмінієве кріплення радара на щоглу"
 section: electric
 order: 4
-description: "Цільне алюмінієве кріплення радара на щоглу: $114 замість $300–500."
+description: "Цільне алюмінієве кріплення радара на щоглу: $115 замість $300–500."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9jqpfvxR6LpfEIttDeo9-Vs24BuiMnrnYWRV1dsCVnVm-oUwEdW3DmtNzNz6wwCs9GGWfisI39Ee0spgRKSBk4V8iHCE5OOKfcN0bwUCf3cNSD8AOXZUpz51USY78ypPqw_WuPrkiMW9fJUemG_CnzzW0bPWBggLtH0tvWEIUG5YVsDLPn1hsdvDwt4Z4/s1600/R52.png"
 ---
 Син подарував мені радар B&G Halo20+, і йому потрібен був дім на щоглі. Готові кріплення коштують $300–500 і більше, тож я спроєктував своє: одна деталь з алюмінію за $114. Це є і в моїй оригінальній статті в щоденнику: [Rigid radar mount for $115](https://diary.sailingvira.com/p/rigid-radar-mount-for-115.html).

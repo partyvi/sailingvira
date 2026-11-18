@@ -1,6 +1,7 @@
 ---
 id: reports
 title: Progress reports
+search_title: "Irwin 34 refit progress reports, 2021–2026"
 section: story
 order: 3
 description: Half-year reports and lists of what was done.

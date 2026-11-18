@@ -1,6 +1,7 @@
 ---
 id: ports
 title: "Opening ports"
+search_title: "Replacing opening portlights on an Irwin 34"
 section: hull
 order: 3
 description: "Six new opening ports: a routing template, an angled shim for each one and new plywood panels inside."

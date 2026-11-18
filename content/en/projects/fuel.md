@@ -1,6 +1,7 @@
 ---
 id: fuel
 title: "Fuel tank"
+search_title: "Repairing a leaking integral fuel tank with epoxy"
 section: engine
 order: 3
 description: "Opening the leaking integral tank and rebuilding it with fuel-resistant epoxy."

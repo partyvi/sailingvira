@@ -1,6 +1,7 @@
 ---
 id: nav-station
 title: "Nav station (chart table)"
+search_title: "Nav station rebuild with a built-in 21-inch display"
 section: interior
 order: 5
 description: "The nav table rebuilt around a 21-inch display, with its own switch panel, tank gauges, a printer and a light that dims."

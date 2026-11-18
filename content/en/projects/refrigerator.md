@@ -1,6 +1,7 @@
 ---
 id: refrigerator
 title: Refrigerator
+search_title: "Converting a boat ice box into a 12 V refrigerator"
 section: interior
 order: 7
 description: The old ice chest turned into a refrigerator, a compressor that

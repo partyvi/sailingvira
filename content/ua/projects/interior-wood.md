@@ -1,6 +1,7 @@
 ---
 id: interior-wood
 title: "Дерево в інтер'єрі"
+search_title: "Інтер'єр яхти: перегородки, стеля, лак"
 section: interior
 order: 1
 description: "Переборки, обшивка стелі, шафки, накладки і багато шарів лаку."

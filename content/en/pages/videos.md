@@ -1,6 +1,7 @@
 ---
 id: videos
 title: "Videos"
+search_title: "Sailing and boat refit videos"
 slug: videos/
 tab: videos
 eyebrow: "Sailing Vira on YouTube"

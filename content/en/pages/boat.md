@@ -1,6 +1,7 @@
 ---
 id: boat
 title: "The Boat"
+search_title: "Irwin Citation 34 specs, review and upgrades"
 slug: boat/
 tab: boat
 eyebrow: "Irwin Citation 34 · 1978"

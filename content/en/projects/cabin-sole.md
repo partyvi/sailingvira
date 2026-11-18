@@ -1,6 +1,7 @@
 ---
 id: cabin-sole
 title: "Cabin sole"
+search_title: "New cabin sole with vinyl planks, DIY"
 section: interior
 order: 2
 description: "Polishing the old gelcoat floor, then a new floor from paper templates, sand bags and vinyl planks."

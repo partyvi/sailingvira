@@ -1,6 +1,7 @@
 ---
 id: workshop
 title: "Workshop"
+search_title: "Free sailboat DIY files: 3D models, drawings, PCBs"
 slug: workshop/
 tab: workshop
 eyebrow: "Files to download"

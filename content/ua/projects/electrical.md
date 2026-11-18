@@ -1,6 +1,7 @@
 ---
 id: electrical
 title: "Електрична система"
+search_title: "Нова проводка старої яхти: щит, батареї, ELCI"
 section: electric
 order: 1
 description: "Нова проводка, електрощит, батареї, інвертор, берегове живлення і ELCI."

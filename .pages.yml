@@ -23,6 +23,10 @@ content:
         label: Title
         type: string
         required: true
+      - name: search_title
+        label: Search title (optional)
+        type: string
+        description: The headline in Google and the browser tab. Empty = the title. Put the words people search for first.
       - name: section
         label: Section
         type: string
@@ -68,6 +72,10 @@ content:
         label: Title
         type: string
         required: true
+      - name: search_title
+        label: Search title (optional)
+        type: string
+        description: The headline in Google and the browser tab. Empty = the title. Put the words people search for first.
       - name: section
         label: Section
         type: string
@@ -105,6 +113,7 @@ content:
     fields:
       - { name: id, label: Id (file name), type: string, required: true }
       - { name: title, label: Title, type: string, required: true }
+      - { name: search_title, label: Search title (optional), type: string, description: "The headline in Google and the browser tab. Empty = the title." }
       - { name: slug, label: Address on the site (e.g. boat/likes/), type: string, required: true }
       - name: tab
         label: Tab it belongs to
@@ -137,6 +146,7 @@ content:
     fields:
       - { name: id, label: Id (file name), type: string, required: true }
       - { name: title, label: Title, type: string, required: true }
+      - { name: search_title, label: Search title (optional), type: string, description: "The headline in Google and the browser tab. Empty = the title." }
       - { name: slug, label: Address on the site (e.g. boat/likes/), type: string, required: true }
       - name: tab
         label: Tab it belongs to

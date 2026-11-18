@@ -1,6 +1,7 @@
 ---
 id: head-shower
 title: Head & shower
+search_title: "Boat head and shower rebuild, electric toilet"
 section: interior
 order: 8
 description: Shower walls, head cabinet, a shower that saves water, and a real toilet.

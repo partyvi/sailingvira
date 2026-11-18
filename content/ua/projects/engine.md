@@ -1,6 +1,7 @@
 ---
 id: engine
 title: "Двигун"
+search_title: "Yanmar 2QM20: зняття, подушки, ручний запуск"
 section: engine
 order: 1
 description: "Yanmar 2QM20: витягування, нові подушки, двоконтурне охолодження, ручний старт."

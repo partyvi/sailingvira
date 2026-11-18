@@ -1,6 +1,7 @@
 ---
 id: standing
 title: "Standing rigging & chainplates"
+search_title: "New chainplates and Dyneema standing rigging, DIY"
 section: rig
 order: 2
 description: "New chainplates, the forestay failure and the switch to Dyneema."

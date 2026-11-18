@@ -1,6 +1,7 @@
 ---
 id: reports
 title: "Звіти про прогрес"
+search_title: "Звіти про відновлення Irwin 34, 2021–2026"
 section: story
 order: 3
 description: "Піврічні звіти і списки зробленого."
