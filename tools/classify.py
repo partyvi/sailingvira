@@ -9,7 +9,7 @@ R=[
 ("radar-mount", r"radar"),
 ("small-electronics", r"khatka|controller|brightness|tri-?color|anchor light|power switch|dry bilge|small electronic|lpg solenoid|engine monitor|thermostat|wattcycle|battery monitor"),
 ("standing", r"chainplate|chain plate|forestay|backstay|shroud|standing rigging|dyneema|rope terminator"),
-("sailing", r"^sailing|sailing\b|sail out|sunset sail|happy sailing|miles in|get out for"),
+("galveston-bay-sailing", r"^sailing|sailing\b|sail out|sunset sail|happy sailing|miles in|get out for"),
 ("deck-structure", r"hull to deck|deck to hull|rail removal"),
 ("beginning", r"welcome to my new old|known issues|problems found later|what i like|what i don.t like|wrong and good|beginning"),
 ("reports", r"report|things are done|what is done|improved vs|trello"),
@@ -42,12 +42,12 @@ R=[
 ("deck-paint", r"paint|priming|primer|no-?skid|fairing|sanding|hatch|companion"),
 ("deck-structure", r"deck|core|stanchion|lifeline|drain|toe ?rail|hull to deck|cleat|handle"),
 ("interior-wood", r"interior|cabin|headliner|ceiling|trim|varnish|bulkhead|wall|cabinet|drawer|door|teak|wood|v-?berth|liner|shelf|shelves|insulation"),
-("sailing", r"sailing|sail out|happy|weather|lake|trip|birthday|wind puff|road|family|friends|girls|marina|dock|picture|fun|kemah|galveston"),
+("galveston-bay-sailing", r"sailing|sail out|happy|weather|lake|trip|birthday|wind puff|road|family|friends|girls|marina|dock|picture|fun|kemah|galveston"),
 ]
 L={ # label fallback
 "Engine":"engine","Engine monitor":"small-electronics","Electric":"electrical","Electrical":"electrical","Mast":"mast","chainplates":"standing","Deck":"deck-structure",
 "Painting":"deck-paint","Windows":"windows","interior":"interior-wood","Galley":"galley","Refrigerator":"refrigerator","Air conditioner":"aircon",
-"Water tankage":"water","Head":"head-shower","shower":"head-shower","Sailing":"sailing","Navigation":"navigation","Instruments":"navigation","autopilot":"navigation",
+"Water tankage":"water","Head":"head-shower","shower":"head-shower","Sailing":"galveston-bay-sailing","Navigation":"navigation","Instruments":"navigation","autopilot":"navigation",
 "Windlass":"windlass","chain locker":"windlass","Fuel Tank":"fuel","Hull":"hull-bottom","Cushions":"cushions","Sails":"sails","Sailpack":"sails",
 "Report":"reports","Bilge Pump":"bilge-pumps","Wood":"interior-wood","Stanchions":"deck-structure","Structural":"deck-structure","Garage":"engine","horor":"beginning","Headliner":"interior-wood",
 }
@@ -69,7 +69,7 @@ def cls(p,s):
         if re.search(rx,pt): return sub
     for l in p["labels"]:
         if l in L: return L[l]
-    return "sailing"
+    return "galveston-bay-sailing"
 res=collections.defaultdict(list)
 for p in posts:
     for i,s in enumerate(p["sections"]):
