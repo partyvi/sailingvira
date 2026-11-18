@@ -213,7 +213,7 @@ Diary: [28 Oct 2023](https://irwin34.blogspot.com/2023/10/day-111-1028-very-bad-
 
 That was the first time I ran the inverter on the boat. A "dry" install: the inverter on a cardboard box, its output to the wires I'd run for it, low-voltage cables to the battery, and start. Everything worked perfectly. The 110 V panel lit the inverter lamp, and I switched the input to "inverter". With just one battery I could only use about 1 kW without tripping the BMS, but that was enough for the lead battery charger, the lights, a fan, and now and then the big shop vac and some power tools.
 
-@@ Battery monitor
+## Battery monitor
 I'd put a battery monitor screen on the DC panel, but it shows the battery current, not the house loads. When charger and loads connected to the battery, you can see the total battery current, not what the house uses. So I added another meter next to the refrigerator thermostat, to see the real 12 V consumption. I'm not proud of this solution, but better now than later. (later Thermostat will be replaced with AC voltage/current meter the same size, so it will be at least resonable) I also dry-fit a battery monitor and shunt on the lead battery and left it a few days to see how much they drain: under 10 mA, so about 5,000 hours, or roughly 7 months, to drain the battery. I think that's OK for "self-discharge".
 
 ![Nav station panel with the battery monitor and current meter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFWtZseRktKBPak6J8gMMuG3aHeNM0b2hFPYG2b4GjSlNMdwtHpjLxqINJL4Qy8EkgBmpLs2RUpDJxW9rUKc6xkT6zj9ANcE2KuHL-ZcfGCjXIo8B2Q2KrBF5iS0Z5oYNXv7rE9qdb4LY5-tO1wupMwbH4bTE-2UWm_FIFci9jdHIHxP-zAStNCp7aRd8/s1600/Untitled.png)
