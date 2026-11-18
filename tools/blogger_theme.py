@@ -258,7 +258,7 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <img alt='Sailing Vira' class='hero-logo' height='100' src='{x(SITE)}/assets/logo-round.png' width='100'/>
 </header>
 <div class='wrap'>
-<div id='sv-js'/>
+<div id='sv-js'><b:if cond='data:view.isHomepage'><header class='phead'><span class='eyebrow'>Irwin Citation 34 · 1978</span><h1>Boat diary</h1><p>Every work day on Vira, as it happened. Newest first.</p></header></b:if></div>
 <b:section class='main' id='main' showaddelement='yes'>
 <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2' visible='true'>
 <b:widget-settings>
