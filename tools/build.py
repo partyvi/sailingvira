@@ -596,9 +596,15 @@ def ld_crumbs(lang, items):
         for i, (n, sl) in enumerate(items)]}
 
 
+def with_name(t):
+    """'<t> · Sailing Vira', or just <t> when that would pass 70 characters (Bing and Google cut longer titles)."""
+    full = f"{t} · {site['name']}"
+    return full if len(full) <= 70 else t
+
+
 def search_title(m, title):
     """'search_title' in front matter: the headline in Google and the browser tab; the page keeps its title."""
-    return f"{m.get('search_title') or title} · {site['name']}"
+    return with_name(m.get('search_title') or title)
 
 
 RELATED = {"en": "Related stories", "ua": "Схожі історії"}
@@ -652,13 +658,13 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
     og_img = f'<meta property="og:image" content="{esc(size(img_abs, "w1200"))}">' if image else ""
     lb = ""
     if lightbox:
-        lb = (f'<div class="lb" id="lb" hidden><img id="lbimg" alt=""><div class="bar"><span id="lbcap"></span>'
+        lb = (f'<div class="lb" id="lb" hidden><img id="lbimg" alt="{UI[lang]["open"]}"><div class="bar"><span id="lbcap"></span>'
               f'<span class="ctl"><button id="lbprev" aria-label="{UI[lang]["prev"]}">←</button>'
               f'<button id="lbnext" aria-label="{UI[lang]["next"]}">→</button>'
               f'<button id="lbclose">{UI[lang]["close"]}</button></span></div></div>'
               f'<script src="{rel}assets/app.js?v={ASSET_V}"></script>')
     banner = asset(site.get("banner_home" if home else "banner_strip"), rel)
-    hero = f'<img class="hero-logo" src="{rel}assets/logo-round.png" width="120" height="120" alt="">' + (f'<div class="hero-t"><h1>{esc(text(site["home"]["title"], lang))}</h1></div>' if home else "")
+    hero = f'<img class="hero-logo" src="{rel}assets/logo-round.png" width="120" height="120" alt="{esc(site['name'])}">' + (f'<div class="hero-t"><h1>{esc(text(site["home"]["title"], lang))}</h1></div>' if home else "")
     doc = f"""<!doctype html>
 <html lang="{HTML_LANG[lang]}">
 <head>
@@ -779,6 +785,7 @@ if site.get("coffee_url") and '<footer class="foot' in log_html:  # coffee box a
         '.coffee p{margin:0;font-size:18px;flex:1 1 260px}.cfbtn{font-family:var(--f-display);font-size:20px;font-weight:600;'
         'text-transform:uppercase;letter-spacing:.04em;padding:8px 22px;border-radius:6px;background:var(--brass);color:#fff;'
         'text-decoration:none;white-space:nowrap}</style>' + coffee_box("log") + '\n  <footer class="foot'), 1)
+log_html = log_html.replace('<img id="lb-img" alt="">', '<img id="lb-img" alt="Photo">')  # no empty alt (Bing warning)
 open(f"{OUT}/sailing-log/index.html", "w", encoding="utf-8").write(log_html)
 
 posts = {(v["date"], v["ptitle"]) for v in sec.values() if v["kind"] == "post"}
@@ -844,7 +851,7 @@ for lang in LANGS:
         label = TAB[key][1][lang]
         lead = HOME_UI[lang]["projects_p"] if key == "projects" else HOME_UI[lang]["sail_p"]
         st = text((site.get("search_titles") or {}).get(key), lang) if (site.get("search_titles") or {}).get(key) else ""
-        page(slug, lang, f"{st or label} · {site['name']}", lead,
+        page(slug, lang, with_name(st or label), lead,
              f'<header class="phead"><h1>{esc(label)}</h1><p>{esc(lead)}</p></header>' + groups_html(key, lang, "../"),
              tab=key, ld=[ld_crumbs(lang, [(site["name"], ""), (label, slug)])])
 
@@ -952,7 +959,7 @@ window.svDiary = function (d) {{
 </script>
 <script src="{esc(diary_feed)}/feeds/posts/default?alt=json-in-script&amp;max-results=5&amp;callback=svDiary" async></script>"""
     hst = (site.get("search_titles") or {}).get("home")
-    home_title = f"{text(hst, lang)} · {site['name']}" if hst else f"{site['name']} · {text(h['eyebrow'], lang)}"
+    home_title = with_name(text(hst, lang)) if hst else f"{site['name']} · {text(h['eyebrow'], lang)}"
     org = {"@type": "Organization", "@id": f"{BASE}/#org", "name": site["name"], "url": BASE,
            "logo": f"{BASE}/assets/logo-round.png", "founder": ld_owner(),
            "sameAs": [u for u in (site.get("youtube_url"), site.get("diary_url")) if u]}
@@ -1002,15 +1009,17 @@ for old_slug, new_slug in (site.get("redirects") or {}).items():  # moved pages:
         target = f"{BASE}/{url_of(l)}{new_slug}"
         os.makedirs(f"{OUT}/{url_of(l)}{old_slug}", exist_ok=True)
         open(f"{OUT}/{url_of(l)}{old_slug}index.html", "w").write(
-            f'<!doctype html><meta charset="utf-8"><title>Moved</title><meta name="robots" content="noindex">'
+            f'<!doctype html><meta charset="utf-8"><title>Moved · {site["name"]}</title><meta name="robots" content="noindex">'
+            f'<meta name="description" content="This page has moved to {target}">'
             f'<link rel="canonical" href="{target}"><meta http-equiv="refresh" content="0; url={target}">'
-            f'<p><a href="{target}">{target}</a></p>')
+            f'<h1>This page has moved</h1><p><a href="{target}">{target}</a></p>')
 if site.get("coffee_url"):  # sailingvira.com/coffee/ -> Buy Me a Coffee page
     t = site["coffee_url"]
     os.makedirs(f"{OUT}/coffee", exist_ok=True)
     open(f"{OUT}/coffee/index.html", "w").write(
-        f'<!doctype html><meta charset="utf-8"><title>Buy me a coffee</title><meta name="robots" content="noindex">'
-        f'<meta http-equiv="refresh" content="0; url={t}"><p><a href="{t}">{t}</a></p>')
+        f'<!doctype html><meta charset="utf-8"><title>Buy me a coffee · {site["name"]}</title><meta name="robots" content="noindex">'
+        f'<meta name="description" content="Support Sailing Vira on Buy Me a Coffee.">'
+        f'<meta http-equiv="refresh" content="0; url={t}"><h1>Buy me a coffee</h1><p><a href="{t}">{t}</a></p>')
 if VIDEOS:  # saved with the site, so a later build can reuse it when YouTube is down
     open(f"{OUT}/videos.json", "w").write(json.dumps(VIDEOS, ensure_ascii=False))
 os.system(f'{sys.executable} "{B}/tools/blogger_theme.py" "{B}" "{OUT}/blogger-theme.xml"')

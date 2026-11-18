@@ -1,7 +1,7 @@
 ---
 id: links
 title: "Useful links"
-search_title: "Useful sailboat DIY resources: Irwin 34, OpenPlotter, parts and suppliers"
+search_title: "Useful sailboat DIY links: Irwin 34, OpenPlotter, suppliers"
 slug: links/
 tab: links
 eyebrow: "Resources"
