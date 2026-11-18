@@ -1,6 +1,6 @@
 ---
 id: navigation
-title: Navigation & autopilot
+title: "Navigation instruments & autopilot"
 section: electric
 order: 2
 description: OpenPlotter, autopilot, wind instrument, AIS, radar and the NavPod.

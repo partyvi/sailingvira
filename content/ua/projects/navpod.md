@@ -6,7 +6,7 @@ order: 3
 description: "Блок біля штурвала з 7-дюймовим екраном і 26 справжніми кнопками, що говорить з OpenPlotter, Signal K і PyPilot."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeW_Ub1562uLkio219CyFr11SFzcktXplddLgQGq0wwOwFdv49VCkQSAyphmLo3NYXEtQuod5oR6DLCAbqlw2D7KdFXBtEYT4gJk3AYhTAF1hl9k7tz1REF1Szyvfht1z72WBUFBYZd6yKczcJYQ1x41WxqEfJGtAiLB98brBWeEI8SorbjiVxm9aYUk2x/s1600/IMG_2272.HEIC"
 ---
-Сенсорні екрани й мокрі пальці не дружать. Тож я зробив для штурвала «NavPod»: другий Raspberry Pi з яскравим 7-дюймовим екраном і справжніми кнопками, що сидить на огорожі педесталу й говорить з головним комп'ютером OpenPlotter. Це не фірмовий NavPod, він лише схожий. Решта навігаційної системи — у [Навігації й авторульовому](../navigation/).
+Сенсорні екрани й мокрі пальці не дружать. Тож я зробив для штурвала «NavPod»: другий Raspberry Pi з яскравим 7-дюймовим екраном і справжніми кнопками, що сидить на огорожі педесталу й говорить з головним комп'ютером OpenPlotter. Це не фірмовий NavPod, він лише схожий. Решта навігаційної системи — у [Навігаційних приладах і авторульовому](../navigation/).
 
 ## Ідея NavPod
 
