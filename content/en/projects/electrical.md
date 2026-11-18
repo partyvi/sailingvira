@@ -164,11 +164,13 @@ Diary: [17 Jun 2023](https://irwin34.blogspot.com/2023/06/day-94-61723-galley-co
 
 Next: four galley outlets, a bottom plate separating the distribution panel compartment from the engine room, and the design of the new electric panel.
 
+## A new panel
+
 ![CAD model of the new electric panel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi72diMtbURqGgUkIAr0z0dJ3wBIx_xlE8bWBa4lswmFmDy3KG5jIJylAmxQHEcpdpOlf152eb8615o0Zqe2_uqfDTgPua6TWnUPzlxEzMnE4_QoDGcD05mn6aNnShwkSmE2Mh3oMrGfrJKFyATs7x2pgm8IsnVXqAelbc60bqe7X9jMAcqoxQ1ShHiRqKw/s1600/Panel.png)
 
 Diary: [24 Jun 2023](https://irwin34.blogspot.com/2023/06/day-95-61724-galley-countertop-final.html)
 
-## A new panel
+
 
 July 2023: the new panel design, manufacturing in the garage, assembly, and the first dry fit. Really tight, but it fits.
 
@@ -180,12 +182,11 @@ July 2023: the new panel design, manufacturing in the garage, assembly, and the 
 Diary: [1 Jul 2023](https://irwin34.blogspot.com/2023/07/day-96-7124-electric-panel-buld-galley.html)
 
 Then it was installed. All the old wiring is gone except one connection, the bow nav lights. The indicators are color-coded:
-
 - Red: a problem, or something to pay attention to (bilge pump running, LPG, engine room light, service fuel pump).
 - Yellow: circuits that run when someone's aboard or underway.
 - Green: can or must stay on.
 
-I replaced all the 110 V outlets and crimped proper ring terminals. For now they're simple household outlets. It would be nice to have something more "marine", but I didn't find anything reasonable. Main power is reconnected to the new wiring, with a 25 A GFCI in an IP68 box between the main inlet and the panel, 2 feet from the shore power port. It's very hard to meet the rule about distance from the wet exhaust hose. No idea what to do about that.
+I replaced all the 110 V outlets and crimped proper ring terminals. For now they're simple household outlets. It would be nice to have something more "marine", but I didn't find anything reasonable. Main power is reconnected to the new wiring, with a 25 A GFCI in an IP68 box between the main inlet and the panel, 2 feet from the shore power port.  (laer was replacer with propper marine ELCI device). It's very hard to meet the rule about distance from the wet exhaust hose. No idea what to do about that.
 
 ![Back of the new panel with red wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlSd5Snmy49z_XmInRoaYsSLuC4TD5SHLf0mrirAlP51uR5UbTsKipRDCEva9slSxQMXScw4VrRiJq8tnLnhNbOZ4r-Uj_qDzlLUir3G35uGxWWYzXw54VeGUTGh2j5azphELTAustOFP1l6LGijXdiE9i_GCX5ktO8qWp091czHPLcvGMJWBLqSWTlNQF/s1600/IMG_6089.HEIC)
 ![New panel wiring, close up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd-luemqSpANySepYOIz8lUbZ4MAkvf1eUDS0bQoIN7w5d65-4UCVkYH4ZPfyh43coAnNLQH8XvX8tLhDduXaIoSb0MOSalgUShLNgagw-Aq0LSrTp98mqy3OyPBXzytawfIITdlQBKxcEWb556e6i3sFKPZkn34kGDM_Ni31-4Z00_VbTgTZad-b4VGRL/s1600/IMG_6091.HEIC)
