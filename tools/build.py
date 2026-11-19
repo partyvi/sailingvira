@@ -664,7 +664,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
               f'<button id="lbclose">{UI[lang]["close"]}</button></span></div></div>'
               f'<script src="{rel}assets/app.js?v={ASSET_V}"></script>')
     banner = asset(site.get("banner_home" if home else "banner_strip"), rel)
-    hero = f'<img class="hero-logo" src="{rel}assets/logo-round.png" width="120" height="120" alt="{esc(site['name'])}">' + (f'<div class="hero-t"><h1>{esc(text(site["home"]["title"], lang))}</h1></div>' if home else "")
+    hero = f'<img class="hero-logo" src="{rel}assets/logo-round.webp" width="120" height="120" alt="{esc(site['name'])}">' + (f'<div class="hero-t"><h1>{esc(text(site["home"]["title"], lang))}</h1></div>' if home else "")
     doc = f"""<!doctype html>
 <html lang="{HTML_LANG[lang]}">
 <head>
@@ -675,7 +675,7 @@ def page(slug, lang, title, desc, body, image="", lightbox=False, tab=None, home
 {robots}<link rel="canonical" href="{BASE}/{url_of(lang)}{slug}">{alts}
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{BASE}/{url_of(lang)}{slug}">{og_img}{ld_html(ld)}
-<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" href="/assets/favicon-32.png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="image" href="{esc(banner)}" fetchpriority="high"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" href="/assets/favicon-32.png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <link rel="stylesheet" href="{rel}assets/style.css?v={ASSET_V}">
 </head>
@@ -903,10 +903,12 @@ for lang in LANGS:
 
     # -- home
     h, hu = site["home"], HOME_UI[lang]
+    MOSAIC = [pid for pid in order if tab_of(pid) == "projects"]
+    MOSAIC = MOSAIC[:len(MOSAIC) // 8 * 8] or MOSAIC  # full rows of 8 only
     mosaic = "".join(
         f'<i title="{esc(project(pid, lang)[0]["meta"]["title"])}" '
         f'style="background-image:url(\'{esc(size(EN[pid]["meta"].get("cover", ""), "s200-c"))}\')"></i>'
-        for pid in order if tab_of(pid) == "projects")
+        for pid in MOSAIC)
     proj_n = sum(1 for pid in order if tab_of(pid) == "projects")
     rows = "".join(
         f'<a class="drow" href="{esc(u)}" target="_blank" rel="noopener"><i style="background-image:url(\'{esc(size(img, "w240"))}\')"></i>'
