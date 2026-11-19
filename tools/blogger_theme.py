@@ -255,7 +255,7 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <div class='band'><a class='brand' href='{x(SITE)}/' id='sv-brand'>{x(NAME)}</a>
 <span class='lang'><a class='on' data-l='en' href='#'>EN</a><a data-l='ua' href='#'>УКР</a></span>
 <nav aria-label='Sections' class='tabs' id='sv-tabs'>{tabs}</nav></div>
-<img alt='Sailing Vira' class='hero-logo' height='100' src='{x(SITE)}/assets/logo-round.png' width='100'/>
+<img alt='Sailing Vira' class='hero-logo' height='100' src='{x(SITE)}/assets/logo-round.webp' width='100'/>
 </header>
 <div class='wrap'>
 <div id='sv-js'><b:if cond='data:view.isHomepage'><header class='phead'><span class='eyebrow'>Irwin Citation 34 · 1978</span><h1>Boat diary</h1><p>Every work day on Vira, as it happened. Newest first.</p></header></b:if></div>
