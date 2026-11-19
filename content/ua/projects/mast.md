@@ -308,8 +308,8 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 А ось як зовнішня проводка рифів на гіку виглядає тепер, уже остаточно: риф-шкентелі йдуть зовні вздовж гіка, крізь невеликі напрямні, до блоків і лебідки біля щогли.
 
-![Риф-шкентелі проходять крізь напрямну під гіком](/assets/photos/mast-reefs-1.webp)
-![Два риф-шкентелі в напрямній на гіку, з рифовим гаком](/assets/photos/mast-reefs-2.webp)
-![Риф-шкентелі вздовж гіка до щогли, біля причалу](/assets/photos/mast-reefs-3.webp)
-![Панорама гіка із зовнішньою проводкою рифів](/assets/photos/mast-reefs-4.webp)
-![Лебідка на гіку і риф-шкентелі, погляд у корму](/assets/photos/mast-reefs-5.webp)
+![Риф-шкентелі проходять крізь напрямну під гіком](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgREo-0FJdlE28ys8la3-l31XZ15VndXS9YK329tZ_yjWHtvtO7EH0kl_dNkxP7ChaI6jRwheEHXceYBso-p352_ECzhQ9nRcn94LndhPAc5Q6hw94wkgymIOw-1FfC8gi1OM1AOBljTc3NwiESEQx1lFECqybMYrpNWYX9qeJfV83AhUlBlMjuh7ymgYng/s920/sv-mast-reefs-1.jpg)
+![Два риф-шкентелі в напрямній на гіку, з рифовим гаком](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGuyu79RcPPDW-LAyBk5EaInR_7MNZQ5PhRXiZBeZikx6qrSjGH1lLur6X1CHnpkQyRnzn3wSO6MYyRiz0vA38e5EtrQzIFuS51DzNz0fc_FlQa0UQqcHc8kCSWgjYJ_xB7LSJ5easGKaVA1m6dSdIHTewgCoCXkYwvQ6GMCRvaJ5h5OlioqEk8BcxBoW5/s1226/sv-mast-reefs-2.jpg)
+![Риф-шкентелі вздовж гіка до щогли, біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKD7CdlG52bmELuJ5sVA4hu_nralC_AVu3UoeKIcBroEydtM4jADdAsW9joWtpl7WsjNcX0DXpnfBeQVQhHOGYNyQwkPhuBSi9mSiLdb_g4eOcHqGzTxktyfRNW3TPdEauHDwvnQHjoT-5AmOuZwjqIul5k-_k5bMBTrCX38bxKiKqReZyUwDlz5f-4PF_/s1226/sv-mast-reefs-3.jpg)
+![Панорама гіка із зовнішньою проводкою рифів](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybkc8W1JlQWmgi1G-VwyDNu_fmI1YjoDFJnShKRcji1ijx2WgyoIeyIjVSj6DPZ11a64O11oLdXKsFBXoRTxhX-KRyPFP7bo-bjkeTjO_SpYs1U1MNJabaE5IjTf5sci5ZahOI9XaezAgf0gJW2oCRnzyKOJJjYHdCt3IWTIyQrqT7fHQrBl7Ba2JDG1P/s1800/sv-mast-reefs-4.jpg)
+![Лебідка на гіку і риф-шкентелі, погляд у корму](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjnd9yE4S-e1MSNx1d1Jt3G61LjFFmoIC3YIKgjmDe3UMw1pbA3H295DiXDN8wW3RdBd_ZtKzDK3ZOgu_XzQCd6PwR62XrYc0tM0CHo3K_qTgF11qFFjR8kEsei8mCPBb93x-Xn3drK6Y_DNzeWiNTUgdVXUIgrC5Is33ysU10lgfQL3My38pMrf6CuV7K/s1226/sv-mast-reefs-5.jpg)

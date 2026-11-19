@@ -251,7 +251,7 @@ theme = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <b:skin version='1.0.0'><![CDATA[{CSS}]]></b:skin>
 </head>
 <body>
-<header class='banner' style='background-image:url({x(SITE)}/assets/banner-strip.webp)'>
+<header class='banner' style='background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUGenV-f-ZEELmyQnJHFf-J3mFbAH7mYb75Jc6oAkIoS-4VGQJXw5De1aM7yn5F9syd8AF9abKltpFgY8_8P7WhhJxwM96qr96nYAelEONdvzuJnf6KAQEOp0Opx6EKzKz6mFN2OXGNaswNBT-ZFBWi5mJta-xYUhoaIjaS8ZrnJYF3UVaHxYMW-LU3V76/s1800-rw/sv-banner-strip.jpg)'>
 <div class='band'><a class='brand' href='{x(SITE)}/' id='sv-brand'>{x(NAME)}</a>
 <span class='lang'><a class='on' data-l='en' href='#'>EN</a><a data-l='ua' href='#'>УКР</a></span>
 <nav aria-label='Sections' class='tabs' id='sv-tabs'>{tabs}</nav></div>

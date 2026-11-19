@@ -308,8 +308,8 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 And this is how the external reef rigging on the boom looks now, in its final form: the reef lines run outside along the boom, through small guides, to the blocks and the winch near the mast.
 
-![Reef lines running through a guide under the boom](/assets/photos/mast-reefs-1.webp)
-![Two reef lines in a guide on the boom, with a reef hook](/assets/photos/mast-reefs-2.webp)
-![Reef lines along the boom to the mast, at the dock](/assets/photos/mast-reefs-3.webp)
-![Panorama of the boom with the external reef rigging](/assets/photos/mast-reefs-4.webp)
-![Winch on the boom and the reef lines, looking aft](/assets/photos/mast-reefs-5.webp)
+![Reef lines running through a guide under the boom](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgREo-0FJdlE28ys8la3-l31XZ15VndXS9YK329tZ_yjWHtvtO7EH0kl_dNkxP7ChaI6jRwheEHXceYBso-p352_ECzhQ9nRcn94LndhPAc5Q6hw94wkgymIOw-1FfC8gi1OM1AOBljTc3NwiESEQx1lFECqybMYrpNWYX9qeJfV83AhUlBlMjuh7ymgYng/s920/sv-mast-reefs-1.jpg)
+![Two reef lines in a guide on the boom, with a reef hook](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGuyu79RcPPDW-LAyBk5EaInR_7MNZQ5PhRXiZBeZikx6qrSjGH1lLur6X1CHnpkQyRnzn3wSO6MYyRiz0vA38e5EtrQzIFuS51DzNz0fc_FlQa0UQqcHc8kCSWgjYJ_xB7LSJ5easGKaVA1m6dSdIHTewgCoCXkYwvQ6GMCRvaJ5h5OlioqEk8BcxBoW5/s1226/sv-mast-reefs-2.jpg)
+![Reef lines along the boom to the mast, at the dock](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKD7CdlG52bmELuJ5sVA4hu_nralC_AVu3UoeKIcBroEydtM4jADdAsW9joWtpl7WsjNcX0DXpnfBeQVQhHOGYNyQwkPhuBSi9mSiLdb_g4eOcHqGzTxktyfRNW3TPdEauHDwvnQHjoT-5AmOuZwjqIul5k-_k5bMBTrCX38bxKiKqReZyUwDlz5f-4PF_/s1226/sv-mast-reefs-3.jpg)
+![Panorama of the boom with the external reef rigging](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybkc8W1JlQWmgi1G-VwyDNu_fmI1YjoDFJnShKRcji1ijx2WgyoIeyIjVSj6DPZ11a64O11oLdXKsFBXoRTxhX-KRyPFP7bo-bjkeTjO_SpYs1U1MNJabaE5IjTf5sci5ZahOI9XaezAgf0gJW2oCRnzyKOJJjYHdCt3IWTIyQrqT7fHQrBl7Ba2JDG1P/s1800/sv-mast-reefs-4.jpg)
+![Winch on the boom and the reef lines, looking aft](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjnd9yE4S-e1MSNx1d1Jt3G61LjFFmoIC3YIKgjmDe3UMw1pbA3H295DiXDN8wW3RdBd_ZtKzDK3ZOgu_XzQCd6PwR62XrYc0tM0CHo3K_qTgF11qFFjR8kEsei8mCPBb93x-Xn3drK6Y_DNzeWiNTUgdVXUIgrC5Is33ysU10lgfQL3My38pMrf6CuV7K/s1226/sv-mast-reefs-5.jpg)

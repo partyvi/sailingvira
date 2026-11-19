@@ -4,7 +4,7 @@ title: "Про мене"
 search_title: "Про Віктора, інженера й яхтсмена"
 slug: about/
 tab: about
-portrait: assets/viktor.webp
+portrait: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUZ7OC-lWBjsUhVscH8qxHTm31PfYV41MyPhe4tACibcEofAzFkZNp0LcTjIwA9059QGgvcDaNFyYIovIYKYGgDhCMf0GnKPxyjrZN_H65c4XvJvNzcy5WqfFTxkYF1n4oKta4H_nKjWx_M9Kl9pOfjSHlcqwKvQzC1wpPj_TH72wdYQyRKJ-8KsX64Men/s620-rw/sv-viktor.jpg
 updated: 2026-11-13
 eyebrow: "Віктор"
 description: "Хто стоїть за «Вірою»: інженер, який полагодить майже все, і яхтсмен, якого тягнуло в море."

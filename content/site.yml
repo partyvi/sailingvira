@@ -18,11 +18,11 @@ coffee_url: "https://buymeacoffee.com/partyviq"  # Buy Me a Coffee: box at the e
 contact_form: "https://api.web3forms.com/submit"
 contact_key: "b0442e87-70b4-4122-b632-31bca1d3d31b"
 # Banner photos: Home (16:7) and all other pages (5:1). A path in the site or a full photo URL.
-banner_home: assets/banner-home.webp
-banner_strip: assets/banner-strip.webp
-tile_boat: assets/tile-boat.webp
-tile_workshop: assets/tile-workshop.webp
-tile_about: assets/tile-about.webp
+banner_home: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg3FHKSCbbyuJHAlMvKeCvQuB2uz2e8Uem06TeCNCTx2D1m-q9a6IHsW8WwaXznm5wKIfQZL1zo66EnRj1_WAIs_tx4Ii2aPqkxFM79fudD_VCBisSB5hmsXx8Jqn-H7CQsgKCvAOjjuQLO_Dk7_2Z1d_io7mUOwGTxI7KRtNHwdcUS_QP_qAvFn81udwU/s1800-rw/sv-banner-home.jpg
+banner_strip: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUGenV-f-ZEELmyQnJHFf-J3mFbAH7mYb75Jc6oAkIoS-4VGQJXw5De1aM7yn5F9syd8AF9abKltpFgY8_8P7WhhJxwM96qr96nYAelEONdvzuJnf6KAQEOp0Opx6EKzKz6mFN2OXGNaswNBT-ZFBWi5mJta-xYUhoaIjaS8ZrnJYF3UVaHxYMW-LU3V76/s1800-rw/sv-banner-strip.jpg
+tile_boat: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXrqAGizsrFxb_owiLc_0Oo8I-4IHyP3NHlf-ru3uLa9vmFN72Oeng1CP6fDJmllz9JDaBTJtsPnnjPxnvp9AS0T5GFh4rT5T2HaIpA2IN-mN1ElpcBFp1aS4ZOTK1F-lR_7rj14sm5sW_AVzTB5_50IRw-ZdNejGPbsV39vlP5CQD-UD-hhTWvP3Yesyx/s760-rw/sv-tile-boat.jpg
+tile_workshop: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwuhzUqpqsKM8sckbzSBs7SMa9hdJrY1MsiKK2Lu0YFDu9_R7egXrFQmywTkh9oRPw3mTespfRsB_3vGIZQiP0YlukT9_EMveAkU82f0Tg6h3cebaYJVQh4VTGRi6xkvX-fxLMKbSiiZzN55t-4smM4d9gKRLhXV1zsIxqX1QkNP9zU8tSUWyl21h3oJZb/s865-rw/sv-tile-workshop.jpg
+tile_about: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEK6knvOR4V0lIMig9FRmY8bF6bVFPaNVLeLvPdLCaINjbmKpSjJBDLjKzzvGnXQt2IXdLc_y4hIkiVIdtyVO3aOjJIIwwCM7aK6o7J7gUMT8DCe3LNEsuh24YnlGBCzy1ZJgn_E5xHh9tK0pCyDut7dwsKCq1r0TlsFbGGGRkDAKhw3V4SubF6Um5QS29/s760-rw/sv-tile-about.jpg
 # Headlines in Google and the browser tab for pages without their own file (the page keeps its title).
 search_titles:
   home:

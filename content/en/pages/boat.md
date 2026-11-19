@@ -19,7 +19,7 @@ Card: [Upgrades log](boat/upgrades/) | Everything that is better now than when s
 
 Ted Irwin drew her, and Irwin Yachts in Florida built her from 1978 to 1985, about 305 boats. She's a masthead sloop with a solid fiberglass hull, a roomy 11-foot-3 beam and classic 70s lines. There were two keels: a deeper fin and a shoal keel with a centerboard.
 
-![Irwin Citation 34 drawings: sail plan, inboard profile and accommodation plan](/assets/irwin34-drawing.webp)
+![Irwin Citation 34 drawings: sail plan, inboard profile and accommodation plan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8P59wJJoi3syV96homRSCsNjt0wwQPgi88DMEqBYev_ncUV1aEvS19lI5I_RqlEPh3Yv8dYXxV1OgMLlADbb3yNcN79CwZcgDlW3aAphMlCpYyqVLWWmpfVBXnprEuk63y3GF5YH9NVfkiEHRORZl52Xek0BYM6vn0yBC_oKlMX9esWmEljCv8LZf5Wqb/s1912/sv-irwin34-drawing.jpg)
 
 | | Irwin Citation 34 |
 |---|---|
