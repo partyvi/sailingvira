@@ -19,7 +19,7 @@ Card: [Журнал покращень](boat/upgrades/) | Усе, що тепе�
 
 Її намалював Тед Ірвін, а Irwin Yachts у Флориді будувала з 1978 по 1985 рік, близько 305 човнів. Це шлюп із топовим такелажем, монолітним склопластиковим корпусом, просторою шириною 11 футів 3 дюйми і класичними лініями 70-х. Кілів було два: глибший плавниковий і мілкий із швертом.
 
-![Креслення Irwin Citation 34: вітрильне озброєння, поздовжній розріз і планування](/assets/irwin34-drawing.webp)
+![Креслення Irwin Citation 34: вітрильне озброєння, поздовжній розріз і планування](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8P59wJJoi3syV96homRSCsNjt0wwQPgi88DMEqBYev_ncUV1aEvS19lI5I_RqlEPh3Yv8dYXxV1OgMLlADbb3yNcN79CwZcgDlW3aAphMlCpYyqVLWWmpfVBXnprEuk63y3GF5YH9NVfkiEHRORZl52Xek0BYM6vn0yBC_oKlMX9esWmEljCv8LZf5Wqb/s1912/sv-irwin34-drawing.jpg)
 
 | | Irwin Citation 34 |
 |---|---|

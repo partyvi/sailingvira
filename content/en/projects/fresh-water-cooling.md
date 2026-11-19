@@ -6,7 +6,7 @@ section: engine
 order: 2
 related: [engine, water]
 description: "Converting the Yanmar 2QM20 to fresh water cooling with off-the-shelf parts and a few I made myself."
-cover: "/assets/photos/fwc-cooling-flow.webp"
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimjaEe06B8KUrEmTzFbV8DQDLHLtq5gIZ-A4xsvadvHcQNbKQ5B8zmZU9r2kkrgp57DgPlJh19CcVJ-HYnGmIPpHLazEFboqS2qX8q0WpmtHAI1Yv-KiUqK1jWgzngiV6hZkjQDpauFAVpOiIRacXIf0uQ06Bgr_uykKE1vmkllCFscIPElxOSzutLiL8g/s847/sv-fwc-cooling-flow.jpg"
 ---
 My Yanmar 2QM20 is in very good shape. It probably never saw salt water, and I'd like it to work for me forever. So I converted it to fresh water cooling. The story below follows my original diary article step by step: [Engine - Fresh water cooling](https://diary.sailingvira.com/p/engine-fresh-water-cooling-in-progress.html). First, the plan in three pictures: how the coolant flows through the engine, where the fresh water pump and the heat exchanger go, and the new hoses.
 
