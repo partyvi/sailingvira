@@ -5,7 +5,7 @@ search_title: "Перевезення яхти з озера Тревіс у К�
 section: story
 order: 2
 related: [lake-travis-sailing, galveston-bay-sailing]
-description: "Як ми покинули обміліле озеро Тревіс заради Кема, і дев'ять тижнів на березі."
+description: "Як ми покинули обміліле озеро Тревіс заради Кема, і тринадцять тижнів на березі."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4AojRpatKVIhIuqm669ho9bWItjoojQvkZ5EDQIahHTv3NwRXQkZs4lk9uyFZxGyx8SE4reBvMBcEU0eN5-4OABigjaJhwIKGX4d0V5aQRegHRQItpBt3FtWr4jQjcrxpUlzRGGYvE1SQMKXQQk1XOlM5VO11KqCutyQuVnwNcJfLuMxBQTVMh_8K4pM/s1600/Resized_20251111_194347_1762911848395.jpeg"
 ---
 Чотири роки «Віра» жила на озері Тревіс: 34-футовий вітрильник на озері, звідки немає виходу у велику воду. Як скаковий кінь на задньому дворі. Восени 2025-го я вирішив це виправити. Я назвав це втечею з в'язниці.
@@ -123,9 +123,9 @@ Diary: [12 Nov 2025](https://irwin34.blogspot.com/2025/11/day-230-231-jailbreak-
 
 Diary: [12 Nov 2025](https://irwin34.blogspot.com/2025/11/day-230-231-jailbreak-succeded.html)
 
-## Дев'ять тижнів на березі
+## Тринадцять тижнів на березі
 
-Потім почався робочий марафон. Багато днів «на човні чотири руки»: Марія і я або Вік і я. Деякі дні я працював сам.
+Потім почався робочий марафон. Загалом Віра простояла на березі 13 тижнів: 35 робочих днів, переважно по 9–10 годин. Перші 9 днів — суцільне шліфування і склотканина. Багато днів «на човні чотири руки»: Марія і я або Вік і я. Деякі дні я працював сам.
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
