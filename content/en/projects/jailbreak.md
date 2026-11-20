@@ -5,7 +5,7 @@ search_title: "Moving a sailboat from Lake Travis to Kemah, TX"
 section: story
 order: 2
 related: [lake-travis-sailing, galveston-bay-sailing]
-description: "Leaving drought-struck Lake Travis for Kemah, and nine weeks on the hard."
+description: "Leaving drought-struck Lake Travis for Kemah, and thirteen weeks on the hard."
 cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4AojRpatKVIhIuqm669ho9bWItjoojQvkZ5EDQIahHTv3NwRXQkZs4lk9uyFZxGyx8SE4reBvMBcEU0eN5-4OABigjaJhwIKGX4d0V5aQRegHRQItpBt3FtWr4jQjcrxpUlzRGGYvE1SQMKXQQk1XOlM5VO11KqCutyQuVnwNcJfLuMxBQTVMh_8K4pM/s1600/Resized_20251111_194347_1762911848395.jpeg"
 ---
 For four years Vira lived on Lake Travis: a 34-foot sailboat on a lake with no way out to big water. Like a racehorse in a backyard. In the fall of 2025 I decided to fix that. I called it the jailbreak.
@@ -123,9 +123,9 @@ At about 1:30 PM we were at the boatyard. An hour later the owner showed up and 
 
 Diary: [12 Nov 2025](https://irwin34.blogspot.com/2025/11/day-230-231-jailbreak-succeded.html)
 
-## Nine weeks on the hard
+## Thirteen weeks on the hard
 
-Then the work marathon began. Many days were "four hands on the boat": Maria and me, or Vic and me. Some days I worked alone.
+Then the work marathon began. In total Vira spent 13 weeks on the hard: 35 work days, mostly 9–10 hours each. The first 9 days were just grinding and glass. Many days were "four hands on the boat": Maria and me, or Vic and me. Some days I worked alone.
 
 Diary: [16 Nov 2025](https://irwin34.blogspot.com/2025/11/day-232233-blisters-openning-grinding.html)
 Diary: [3 Dec 2025](https://irwin34.blogspot.com/2025/12/days-223-232-9-days-work-marathon.html)
