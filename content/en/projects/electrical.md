@@ -399,3 +399,18 @@ From bare copper twisted under tape to an ELCI, a smart power switch and every w
 ![ELCI label](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26seaoPEsXLaudrfXbbrtm6V_3mkF7mfCKoYPCp07gGzcZ-gS5iBAXhXuNRgltch9DszulRL-0hbPcI6fY1gjGo-AgLRlZRz-5u_XPswMoPEIY99flJx5gEKoxpIyJDn94_h4B1-wodsTgAjqwee_4c7wJntEqXvqbtygtbiJszXDmAQqmZr91ps_XE0n/s1600/IMG_1453.HEIC)
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
+
+## Solar on the bimini
+
+The solar panel dry fit I did on October 5.
+
+![Solar panel dry fit on the bimini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKnn1q1B-U67peuvYmx1wfv5EdgjVXt60ppKFH7vRCTa7JwIwAxFup4bYv3bAOevANNObh31pgzv-9EbOQnSK3_rTvzx3BlX8J1QrpSVaKJpJ4aDP83fEVVxlJ7yZyipOx0qDVOhbTNap-JXm8ehu4_1U64UF_IsbS1W0Pt-5lY5pWWZLhXbCkhWZMFt4/s1600/IMG_2700.HEIC)
+
+Now I'm getting the bimini top ready for two semi-flexible 200 W panels, 400 W of solar in total. I readjusted the bimini frame to make the top less "humpy", and added two longitudinal battens for extra support and a flatter surface under the panels. I also sewed 16 outdoor-grade Velcro straps onto the bimini canvas. They hold the panels securely, and the panels still come off easily when needed.
+
+With all that done, the canvas is back in place, waiting for the next stage. Now it's time to get all the electrical parts and wiring ready before the panels go on.
+
+![Bimini top with 16 Velcro straps sewn on for the solar panels](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHVLJh-kYjAEqlPjyeSc0kc6O_MaYH-Zb18ucfWGdUVacbjgn8plVbiidXXYvKqmhbpJ_b5dlhg8Ldf4IdjF0xjOtelnSOU0W2nklykwTVFFNZyOlaIGNwKPUVsYRkO4Z02XwYkuR_w9MXdrdeOONS03tFQ7x_6iYvxeAgNvKOaBOnQRoj5OMnKX0gNUh0/s1600/IMG_2872.HEIC)
+![Bimini frame from below, readjusted for a flatter top](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlg4mWNRHHO4urWtPykhH8yqjcLJ7nuYZKPrXmK8OHHfCss3QUO-UC_UzsilBjJyLa0igX8PliTcwrxUEU8VrcSrvjqTvsRs6Kmsdd8L-FvqxClAAFgiE3KxuEJpFgvFCl3ryvcnPWnfP2fnD2djehRMYJPR_yREb_voN69MQFHoZjyOQCJzRjdQdWb9ZH/s1600/IMG_2844.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)

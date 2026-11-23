@@ -200,3 +200,21 @@ So in June 2026 I replaced it with a SeaFlo 500 GPH, 115 V magnetic-drive AC pum
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
 
 In August 2026 I replaced the air filter. The old one was really old and full of dust. Fresh air, in every sense.
+
+## The mysterious line in the bilge
+
+November 2026. This time, when I came aboard, I found tiny drops of water in the bilge, right where the keel goes into the hull. A quick taste test: salt water. Not a good sign, especially with what looked like an 8-inch hairline crack. Very disappointing...
+
+So I started investigating, and soon found that the "crack" was just a dirt line that wiped away easily. A waterline: a little water had collected in the bilge, evaporated, and left a dirty mark on the surface.
+
+Long story short: when I replaced the A/C raw water pump, I accidentally "touched" the 90-degree fitting on the thru-hull. That disturbed the old, dried thread sealant and made a very small leak, literally just enough to make the area wet. And salt residue pulls moisture, so the area never seemed to dry completely.
+
+Now the most interesting part. When the A/C is running, this fitting is on the suction side of the pump, so water doesn't leak out. And I usually close the thru-hull when I leave the boat, so only the little water left in the A/C raw water system can escape into the bilge. Over two or three weeks, whatever could leak made its way into the bilge and evaporated. No standing water, no obvious leak, just a mysterious line "painted" on the side of the bilge.
+
+As often happens, the investigation took longer than the repair. The quarters there are pretty tight, so I had to remove the raw water strainer to disconnect the hose from the thru-hull. Then I found that the 90-degree fitting wasn't tight at all. I took it off, put on fresh thread sealant and sealing tape, and put everything back together.
+
+![A/C raw water pump and strainer above the bronze thru-hull](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6AaFXLjWIfxllP2_2dqjoBMR1WIQmdZGQB1PHVn2mn7kXp76cyShyChxZBh_zOAfDfLLqji9Xddtc_siSdvh92c3du0y7lPsXRU8d-H7ctK1dUsr2hISWyarEa44Fm8uiqZQrIeUGsxkuqHNKmxBJrZs898yiWArzr-EgEShg7RomMtlO1F_OgssI24HN/s1600/Untitled.png)
+
+Hopefully the mysterious line won't come back. I still want to do a dye penetrant inspection there, just to make sure there is no real surface crack. Another small boat mystery solved ;-)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)

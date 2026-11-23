@@ -350,3 +350,29 @@ June 2025: snaps for hatch covers. Yes, I bit the bullet and drilled the deck ag
 ![Hatch cover on the cabin top](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqG4nsQ5W38Cdgbgjna6xD4qF_9glxZfZaz9zonpwnkcl4MDeUbwI5oUEiwPJ9A1_8alIIfwR9e_LoIDLX9jMJn_soXXUp8pUTCFAMiZ_OsCRp3-Uugg10Ag2cn_P7DHUrsAl5uKDwHr6NC4Om-w6D3yX1EjWhDvef4OVp7bUDa9-HUi0dE7LH4KW3znm/s1600/IMG_0870.HEIC)
 
 Diary: [22 Jun 2025](https://irwin34.blogspot.com/2025/06/day-204-hatches-covers-cabin-table.html)
+
+## Four years later: the first stanchion leak
+
+November 2026. After four years I found the first signs of a deck leak. It started exactly where I expected: at a stanchion.
+
+![Stanchion base on the deck by the toe rail, two screws hold the flange](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOY-s5c_FZRJTX2DuXy9Ws_w_3CWe7WJplASI_jJXbia26phmz00nmrwaQDuEb8ahIbUy_FLI-E3azeHqAs3cha2FaMU22c-RRZ615uG3fRn675PP7ei5CdRo8sEQwXGVqbxOsWWEuP7eKbnQmaXH_vPoSLkhAozcCn-yxNbYjJ8ew9CFsOPBSUTinf4hs/s1600/Untitled.png)
+
+The problem is in the original construction. Irwin used a through-deck mount: the stanchion tube goes about 6 inches below the deck, and only two screws (now machine screws) hold the flange. The outer edge of the flange sits on the toe rail and overlaps it by about 1/8 inch, and the inner edge has a 1/4-inch-wide thickened area. So nothing keeps the stanchion from moving. The rest of the flange has a 1/8-inch gap filled with sealant.
+
+The tube itself takes the load if someone falls against the lifelines, and I believe it does that job well. But the small movements every time people grab the stanchions while boarding slowly break the seal and the mounting hardware. Today I could pull the tube out by hand.
+
+Four years ago I did everything you would normally do: 3M 4200 sealant, bedded the base to the deck, let the sealant set, then tightened the screws. This time I tried a combination:
+
+- Countersunk the large hole in the deck where the stanchion tube goes through.
+- Packed the joint between the tube and the flange with butyl tape.
+- Normal bedding with 3M 4000 UV between the flange and the deck.
+
+The idea: the flexible butyl around the tube takes the small movements, and the usual seal stays under the flange.
+
+### Lessons learned
+
+My old decision to drill a drain hole at the bottom of the mounting block was a good one. Water drained freely instead of sitting inside the block. That kept the wood from soaking for a long time, and I saw the leak early, before any serious damage.
+
+And stanchion re-bedding goes into my preventive maintenance schedule: once every three years, not when the first leak shows up. Another small lesson of boat ownership: sometimes it's better to schedule maintenance than to let the boat remind you it's due ;-)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)

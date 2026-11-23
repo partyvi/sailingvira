@@ -152,6 +152,13 @@ Video: [Ручний стартер у дії](https://www.youtube.com/watch?v=E
 
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
+**Анод теплообмінника.** Листопад 2026-го: ось усе, що лишилося від анода за дев'ять місяців служби. Тож ще один пункт у графік профілактики: міняти анод теплообмінника кожні 9–12 місяців. Добра новина: анод у дуже зручному місці, тож заміна швидка й проста.
+
+![Що лишилося від анода теплообмінника за дев'ять місяців](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjksrGfyF1ONlSGreSaeUz5QV2zIuVi5s-IhegiyFJHpx0shyphenhyphen9pNUpMRPrSEwPyNA5yn_1pzI5A3Use0ZtQvI_Hyczmus_1xMTd5ULNBCm91V75ccAXbm6FPT7Hhwikv5XHncJGFe0rsVaj6HWhVtA4TLRQmnfTGvhXoBeaBLX4qSKkdYYiNZpYu0PPM4aW/s1600/IMG_2854.HEIC)
+![Теплообмінник, анод у зручному місці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkiGlSVwanKNofPvW1FSnBxOB1NMZ3ndRpvj_dCjFwb3c0evbobHguNSsIlNN2b9_IDh4XBqrj5OUmrTX3PgVLbqzgHQs8LESPez9gY0V8QAqWL1ZTzf3Iq8jqzvlfM1C4RvpG8LE68u5JXY_fc9Af5EsRg8vJpoWDvWepgR_A0rqPO5GSSaqSc0XAtL_J/s1600/IMG_2855.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
+
 ## По ходу, у щоденнику
 
 Стаття вище — чистова версія. У щоденнику все йшло день за днем, у домашньому гаражі, і там є ще кілька фото.

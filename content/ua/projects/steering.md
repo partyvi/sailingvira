@@ -185,3 +185,15 @@ Diary: [15 Dec 2025](https://irwin34.blogspot.com/2025/12/day-235-236-thru-hulls
 У березні 2026-го я приклеїв датчик температури до графітового кільця ущільнення. Звучить просто. Але J-B Weld виявився недостатньо густим, щоб утримати датчик, чи то кабель був занадто жорсткий, тож я боровся з мокрою епоксидкою просто біля відполірованої поверхні ущільнення, намагаючись не ляпнути на неї жодної краплі.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
+
+## Кошлатий штуртрос
+
+Листопад 2026-го. На штуртросі почали з'являтися «волосинки» — час його міняти. Схоже, він ще оригінальний ;-)
+
+Зробив заміри: діаметр 0,1865 дюйма (мабуть, 3/16"), довжина 62,5 дюйма. Щоб виміряти довжину, я проклав нитку тим самим шляхом, що й трос, а потім поміряв нитку.
+
+![Ланцюг і штуртрос у колонці, вздовж траси троса — нитка](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIJXC1mO5zY2YgQ6AUVXiQDAuosbc01_DCbWb_vGC6RzbdZzKsLeo7sJyuEcvz3J6nyM2RhF-MY4qh3qeTnSB3W0cZG5nrG9YwR6wm-XW7CPJ8vy_q-DAJxnOqwFrCEsPXhKEmkPHa9GiAqYs1jVmJ_Ui9wjdHCMT2Mq4iu-xSwSEXA3J810MjjP4IpiKe/s1600/IMG_2856.HEIC)
+![Шківи штуртроса і квадрант під кокпітом](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizd_WF0ING40Jq9vY96d3Re6BzCMulYtQwxHlrm_AeuZ92Gd16Xnw7sgrHazc2AD4MNecA_ql5phyOETRGrop4u-2tSwCdt8f1sVCmyXW6qa-OYvy6N98ATL3GumIKs0Ixoh_F9iCoOB_ksLW3Q2DgcOmhlox_FHHbjQH7yyQieNYDO1YrV17ymv1fmxMg/s1600/IMG_2857.HEIC)
+![Міряю нитку: довжина троса 62,5 дюйма](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwrIzqfDfUaEQ0KWs5waxRZTOvO0n-cCA3DQbzH9EkKlg7h-ziUc2GZrbnyy-mw0GCiGjVLlEP2r5RIyvQhSfpUQbkUJzSxO4W1wWiuygPZvBtPGQvW1T8Kl0ulyFjkL43n6aMIUMLqjgGbPK7X1uN6_1zdR_qy_5ywnoyxuPRn0R2pwqWN_7oUXQNiza/s1600/IMG_2859.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)

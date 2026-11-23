@@ -313,3 +313,11 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 ![Риф-шкентелі вздовж гіка до щогли, біля причалу](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKD7CdlG52bmELuJ5sVA4hu_nralC_AVu3UoeKIcBroEydtM4jADdAsW9joWtpl7WsjNcX0DXpnfBeQVQhHOGYNyQwkPhuBSi9mSiLdb_g4eOcHqGzTxktyfRNW3TPdEauHDwvnQHjoT-5AmOuZwjqIul5k-_k5bMBTrCX38bxKiKqReZyUwDlz5f-4PF_/s1226/sv-mast-reefs-3.jpg)
 ![Панорама гіка із зовнішньою проводкою рифів](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybkc8W1JlQWmgi1G-VwyDNu_fmI1YjoDFJnShKRcji1ijx2WgyoIeyIjVSj6DPZ11a64O11oLdXKsFBXoRTxhX-KRyPFP7bo-bjkeTjO_SpYs1U1MNJabaE5IjTf5sci5ZahOI9XaezAgf0gJW2oCRnzyKOJJjYHdCt3IWTIyQrqT7fHQrBl7Ba2JDG1P/s1800/sv-mast-reefs-4.jpg)
 ![Лебідка на гіку і риф-шкентелі, погляд у корму](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjnd9yE4S-e1MSNx1d1Jt3G61LjFFmoIC3YIKgjmDe3UMw1pbA3H295DiXDN8wW3RdBd_ZtKzDK3ZOgu_XzQCd6PwR62XrYc0tM0CHo3K_qTgF11qFFjR8kEsei8mCPBb93x-Xn3drK6Y_DNzeWiNTUgdVXUIgrC5Is33ysU10lgfQL3My38pMrf6CuV7K/s1226/sv-mast-reefs-5.jpg)
+
+## Втомлений гусак
+
+Листопад 2026-го. Я поміряв втомлену деталь гусака гіка й зробив швидкий ескіз, щоб змоделювати її в 3D і замовити нову.
+
+![Ескіз деталі гусака з розмірами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLS4bmQIAYGgMKD0GOR_01OYTCJgATd4GE81ACMnc8nhbxpgpSCsSDhUchUFdDjPcLmYXzuRylIdv4249Q2xZ5bFOlqFnaH7f7REUTdgwa-FuWDPmhTGhrBwrWHGT4mFVJv7wcGoMFQg77HF5tYRpAqxVuRkTNy8TI_-beP3eqq1J3_0AdYTKo9BAZk9Pq/s1600/IMG_2948.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)

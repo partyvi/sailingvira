@@ -179,7 +179,7 @@ October: two hours out in the bay, but really bumpy for the crew we had. 15 knot
 
 Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-thermostat-bumpy.html)
 
-November 2026: a nice couple of hours of evening sailing on Saturday. And that's where the log stands for now. To be continued, on the water.
+November 2026: a nice couple of hours of evening sailing on Saturday.
 
 ![Evening sail on Galveston Bay, November 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpHiptoy5o9Uzw6n7ba4qd73uMVYILTnVOVxQgDyvSAJYYPCmZaVlO0yacvrVxiOAhOm9RIcfs3s3-fnJvwFl4C5Qfluk3iCG6MMVZOuPdtTnuOQ3rLmVXdaP_hy6xYcAdMipuqxfdTD9ctiv1zcM8VVOHNnMNE0J9L2BkqJcfIMUuu95I9Eh1iTuSn3S/s1600/IMG_2799.HEIC)
 ![Evening sail on Galveston Bay, November 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil4kpvcMzXmm_vPVJcDLppESszQgqLoPPyOUeCtWqz5fbs5WqSp7nr6h1wRqlRmfR-C7IKRXTpAJaK_IUIlbvHHktaJiQEFQtc9rJOqgCAVZ2YOpxx224oLmjwQ6W7wUB_yRf8vUzUOFvcLIKw__8AkI7n41BDMk3fXg0Pm-H0-XMyDJR3jMD1394Xd5Js/s1600/IMG_2800.HEIC)
@@ -187,3 +187,41 @@ November 2026: a nice couple of hours of evening sailing on Saturday. And that's
 ![Evening sail on Galveston Bay, November 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJzvmmk2uG99zTR2KozyZu3wa6ioZXjKuocMhyphenhyphenI3QTnNJkX4IT-32g2lJsQONuuQ90GTeag2oEcQt-cMcm-8SKKHF9K1bVRT0j4GR9zEu136Uu_Lpmb2FTa-EAyumiTmLSph3yr7gK89fTSFF2B5i7hfE58OThFfoVYjdklmRHpz3hrlUJPT63hx0kLi_q/s1600/IMG_2801.HEIC)
 
 Diary: [10 Nov 2026](https://irwin34.blogspot.com/2026/11/day-282-finished-refrigeratior-lid.html)
+
+## Two sailboats make a race
+
+Saturday, 21 November 2026. Early morning in Kemah Boardwalk Marina, the water like a mirror.
+
+![Early morning in Kemah Boardwalk Marina, mirror-calm water](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG9nxi4WXAdJxVKnTVM-cdbJqFLOH8BJ5PPfBTaBs1Z24Tgyi-Ysc1NJgBsrZyjTk9OxytOx5TUMWXJstwhyphenhyphenMLFE-FIx0DX7reIe0FEo8-wZsll5tIWPjAO_hJe24v8PhpW4ja7HlqqBCA9C62nU_7-feYu0BRi8N4zl3C7YK7pBj7lKb9oi8ZzJ5vZP3D/s1600/IMG_2917.HEIC)
+
+Out in the bay, everyone was waiting for the wind. Well, actually we had some wind: about 1 knot. A nice calm day :-) And yes, the picture is real ;-)
+
+![Calm bay from Vira's foredeck, sailboats waiting for wind](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzrFMsGY7Xw7YmymRhQduDXQTLzOkW1BTfLsV1U2S1oWixt8ZRX8CyzX8f2XQfgOIeRU6s4XEfs8xXW4V_IxqFoS8NV7WTniA0Bi8391PoHaQBiKnIx5qJYewUj3yB5xBZVmm33mtxXvHH3VezsNfLyLQCWUfis4x4HDTqlXM1v292_DVswfd83pvpfqeP/s1600/IMG_2949.JPG)
+![Crew at the mast, looking for wind](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWEAm3ofWCn51cPKWEKzFyjai9PHrIAaiJaWA1XsGkQPnlCL2ViaqFVkUEC9Dwi7o5NTRMElkptQLzDeyXg7s0IevHp5869HZhhAqVB7twdv9PBKokcP2ZJ6shZLyELeLfziOIYKjfhNWW8C14QUty8FWucJpTyh6SDtR362H-OMYM_zrqgu3KTNkeEXQR/s1600/IMG_2924.HEIC)
+![Flat calm water, white sails and clouds on the horizon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhJ78Hoea5Oe93Vvf702JasHz8RvaR6FDVy-sqj2y7IklRTK0T1QTGmSw7hmmrVM-5n73yYwsNb-xrylPteaUhB_q6RBZUhyCvOa8CMk0MRu1UlAydQwLKJLh-a4f_X7jmB-oahnFj9nDBWlL7maEgmeslWIsm17bKpDMNPHEomAurs04g1VxVURpoSEo6/s1600/IMG_2946.HEIC)
+
+At about noon the wind started to pick up. Little puffs, and we were doing 3 knots SOG. The autopilot took the helm, making slow progress, and I was hiding in the sail's shadow ;-)
+
+![Genoa filling in a light puff, view along the side deck](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNsY35c-dM5XnsGHOaEJTgHNk4NQP2QZ2gK6fWi6tUhxlbOOlQKpC-5tWq2-GdoXi1JgjHSW_pdl6HvYkY5Y6dYCG3MJfT-2aLyfgKWM1cGBPKQpP2QbQscg5Kv8897Q1Dg8GYZxtq1GuR5r2wcwivQyNxuRCzrsrDoGFe9r2ikHIP2dIaY2BBpnQ6Ty1G/s1600/IMG_2958.HEIC)
+![Relaxing on the foredeck in the sail's shadow while the autopilot steers](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDsQW-jvbM3zkBD2Kmu6ZeDP3BBM-hpAPndKHO8QLxCYymuqdCY5a18CAJJLc1ZDi3TMr02nAE6JC94pWqXhwsYZJUGupBKjTqwzqqzw-AvjiZpLs_j9-JPrUKbuFvHSnwPEszKdu2uHmyhYJZsUBE04ZcFfdqNngoDBWjOXAN467gIMmRz4QPI5mSAeOb/s1600/IMG_2928.HEIC)
+
+As they say, whenever two sailboats see each other, a race begins, even if nobody is actually racing ;-) We had our share of wins and losses, but it was a lot of fun. Thanks to everyone who made the day so enjoyable!
+
+![Sailboat alone on the calm bay under big clouds](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Nlw7-naIH_Q8Xn1GFnX_iJPDLUcvPv2NHqNCOxN0ZNoGr4zZaRmuP_TajAjzWg0v1zgCaFEfrmfaASFsz3B4v-LtLHZwJ2ulgzV9lSdWBrzXoU_9uCIREzpzBiTDNQf36pCf8P9Fx1jVNj6KJVeq7WdP1-1IEVtRimZQnHYS-QGp7EyhjkvFjDbpFrt7/s1600/IMG_2939.HEIC)
+![Sailboat with crew in the cockpit, a tug passing behind](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhybZCmCoQS0-uCWl3JADjebgyBVSDR8yWQZZm00Jtyg0uxBIv69nE-LSDuNf-2CDjxyF7DGp97FXTtNmmrYtsYbB7_X-qCMqHwVc7KX4rGodyRnx8Qh5GIj-ASuFDg51Vh9ucDi90pA58QdwNLqeqJEDwPLhaIe81_kTNf0bn48yowh6DI7t8Fk8wg3WVp/s1600/IMG_2980.HEIC)
+![Sloop under full sail, port cranes on the horizon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj71YhW4ol8-IbawkPgTCw-xmof7jsvPmXWomwthVLTfmVaucgfKQzFnJIZrebdaOGARWRDJHYwY5ii3zkl39ahqJSQG3_hdbVGWx4zVRoVkvHsGe2e3tvPm2a-kyEJ2qBuB4bSyfD4hnT0kdLx3IShVcxzH8YJcE1h3RTfgoS-YBq7YQbGHszQcI-7VJCA/s1600/IMG_2985.HEIC)
+![Sailboat passing a container ship in the bay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Skt7r2vYU7o-P5J1X_PQ3TR016J5A7LJ9Pi0e0MwoiR6vk6M8i9xmE-itiBzsR2z2ixaPf73LaBN9KOCr5DPH3LekZWPOujMmzDAzkV2w9vdIlIXxlp-TAtIsrpiVhu_IOh_JVa6l904BtIDmBkKeBhJy_EaLg2E3hUOfs0savxN9yowB5Zh4EMqRHXf/s1600/IMG_2989.HEIC)
+![Green-hulled sailboat, port cranes behind](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghA9X8YuBcEeKX3kYavTq2biWGUIn2du49a5G1pBy7kyU6Fs6YQYLtClCCCZiOSsTF4yhyphenhyphenA42ut1Rm045ORsAFZ636R4QsMu4pz0eCgrr6FG2_Ykw4nVSSXvMcl6XJAgsPbD7x89R26RIdy0CXaCjdIfCdk4Ebasx16H_LINKVWmTV36sWTz1BkSyUOz39/s1600/IMG_2993.HEIC)
+![Sloop with a blue-trimmed genoa sailing along the shore](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_Mx3rcw43V02IDiPsE3-zAQu2S_FY5YHmQZv33-m_wQkaCzy3XSaLIhk_mlZj9kzORZtHc6Wd-JRtACDXeupcMYtTdP8Hr63rzEMpj7cxO4duH9lsMNZEchKrFaB3BI9vrG_q009Dp5HDIe5lNSB313UoZO8P9fYp2yrN6e-9MAiT6HrQ96ka8a_PiEz/s1600/IMG_2994.HEIC)
+
+Do you recognize your boat in these pictures? Say hi in the comments under the diary post, or send me a message through the [Contact](../contact/) page. Tell me which boat is yours, and I'll be happy to send you all the photos I have of it!
+
+And now, a small favor. It's a little frustrating being the one behind the camera: I always have plenty of pictures of other boats, but almost none of my own. If anyone happens to have a picture of Vira sailing, from the side, I would really appreciate it if you could share it with me!
+
+Then we headed home.
+
+![Genoa and mainsail against the sun, heading home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnLmqLqtP1UDKZGMcr-hIDI_lpDlM2OchjHIf5lT-Xi5DLHWSVd-MKVgtHcxZcDZQ4NgeW-DeZDRcbJ1otx9DXeT75yVT0D1QXuBNPg1lvigew4CwXi1dObYtShrH-zAK-v0wxqVBxlstfkkaanbKLxk-TR790Vh1_2E6R45l_DfPKrO_Q0cJeQTfqAsvs/s1600/IMG_2991.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
+
+And that's where the log stands for now. To be continued, on the water.
