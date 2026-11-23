@@ -763,10 +763,12 @@ SOON = {"en": "This page is being built. Come back soon.", "ua": "Ця стор�
 HOME_UI = {
     "en": {"projects_t": "Projects", "projects_p": "Everything I rebuilt on Vira, one story per project.",
            "all": "All {n} projects →", "sail_p": "Days on the water: from Lake Travis to Galveston Bay.",
-           "diary_t": "Latest from the diary", "diary_all": "Open the diary →", "go": "Open →"},
+           "diary_t": "Latest from the diary", "diary_all": "Open the diary →", "go": "Open →",
+           "new_t": "New on the site"},
     "ua": {"projects_t": "Проєкти", "projects_p": "Усе, що я відновив на «Вірі», по історії на кожен проєкт.",
            "all": "Усі {n} проєкти →", "sail_p": "Дні на воді: від озера Тревіс до Галвестонської затоки.",
-           "diary_t": "Свіже зі щоденника", "diary_all": "Відкрити щоденник →", "go": "Відкрити →"},
+           "diary_t": "Свіже зі щоденника", "diary_all": "Відкрити щоденник →", "go": "Відкрити →",
+           "new_t": "Нове на сайті"},
 }
 
 
@@ -792,6 +794,32 @@ posts = {(v["date"], v["ptitle"]) for v in sec.values() if v["kind"] == "post"}
 stats = {"posts": len(posts), "photos": sum(len(photos_of(EN[p])) for p in order),
          "first": min(p[0] for p in posts)[:4], "last": max(p[0] for p in posts)[:4],
          "days": max(d for p in posts for d in (daynums(p[1]) or [0]))}
+def photo_key(u):
+    """A Blogger photo URL without its size part, to compare photos across sizes."""
+    return re.sub(r"/[swh]\d+[^/]*/([^/]+)$", r"/\1", re.sub(r"=[swh]\d+[^/]*$", "", u or ""))
+
+
+def latest_chapters(lang, n=3):
+    """The n newest story chapters (by their newest diary link); ties keep the order of the diary post."""
+    sec_pos = {}  # (diary url, project) -> position of that section in the blog data
+    for k, v in sec.items():
+        sec_pos.setdefault((v["url"], v["sub"]), int(k[1:]))
+    out = []
+    for pid in order:
+        p, _ = project(pid, lang)
+        for ci, c in enumerate(p["chapters"]):
+            dated = sorted((POSTS[u][0], u) for u in c["links"] if u in POSTS)
+            if not dated:
+                continue
+            d, u = dated[-1]
+            keys = {photo_key(PHOTOS[i]) for x in sec.values() if x["url"] == u for i in x["imgs"] if i in PHOTOS}
+            ph = [x for b in c["blocks"] if "g" in b for x, _ in b["g"]]
+            img = next((x for x in ph if photo_key(x) in keys), ph[-1] if ph else p["meta"].get("cover", ""))
+            out.append((d, -sec_pos.get((u, pid), 10**6), pid, ci + 1, c["h"], p["meta"]["title"], img))
+    out.sort(key=lambda r: (r[0], r[1]), reverse=True)
+    return out[:n]
+
+
 LATEST = latest_posts()
 
 for lang in LANGS:
@@ -913,6 +941,10 @@ for lang in LANGS:
     rows = "".join(
         f'<a class="drow" href="{esc(u)}" target="_blank" rel="noopener"><i style="background-image:url(\'{esc(size(img, "w240"))}\')"></i>'
         f'<span><b>{esc(t)}</b><span class="mono">{fmt(d, lang)}</span></span></a>' for d, t, u, img in LATEST)
+    news = "".join(
+        f'<a class="drow" href="{pid}/#c{cn}"><i style="background-image:url(\'{esc(size(img, "w240"))}\')"></i>'
+        f'<span><b>{esc(ch)}</b><span class="mono">{esc(st)} · {fmt(d, lang)}</span></span></a>'
+        for d, _, pid, cn, ch, st, img in latest_chapters(lang))
     sail_cover = EN["galveston-bay-sailing"]["meta"].get("cover", "")
     boat_cover = site.get("tile_boat") or EN["hull-bottom"]["meta"].get("cover", "")
     root = "../" if lang == "ua" else ""  # home page -> site root, for assets/
@@ -941,6 +973,7 @@ for lang in LANGS:
 <h2>{PAGES["boat"][lang][0]}</h2><p>{esc(PAGES["boat"][lang][1])}</p><span class="go">{hu["go"]}</span></a>
 <a class="tile" href="voyages/"><div class="ph" style="background-image:url('{esc(size(sail_cover, "w600"))}')"></div>
 <h2>{TAB["sailing"][1][lang]}</h2><p>{hu["sail_p"]}</p><span class="go">{hu["go"]}</span></a>
+<div class="tile wide"><h2>{hu["new_t"]}</h2><div class="diary">{news}</div></div>
 <div class="tile wide"><h2><a href="{esc(diary_feed)}" target="_blank" rel="noopener">{hu["diary_t"]}</a></h2>
 <div class="diary" id="diary">{rows}</div><a class="go" href="{esc(diary_feed)}" target="_blank" rel="noopener">{hu["diary_all"]}</a></div>
 {simple("workshop")}{video_tile}{simple("about")}{simple("contact")}
