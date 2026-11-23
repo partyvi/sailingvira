@@ -2463,5 +2463,29 @@
   "weather": "Sunset sailing, Some breeze, overcast",
   "sail": "Nice relaxing night sailing at main sail only 4.5 kn stable speed. Mostly on close reach course. Just relaxing. Coming back is challenge due to hard to see channel buoys on bright beach lighting background.",
   "problems": "No problems."
+ },
+ {
+  "date": "2026-11-21",
+  "boat": "Vira",
+  "model": "Irwin Citation 34",
+  "water": "Galveston Bay, TX",
+  "frm": "Kemah",
+  "to": "Kemah",
+  "hours": 5.0,
+  "nm": 22.0,
+  "avg": 4.4,
+  "t24": 105.6,
+  "wind_min": 0.0,
+  "wind_max": 12.0,
+  "gust": 12.0,
+  "waves": "0.3",
+  "temp_f": 72,
+  "temp_c": 22,
+  "motor": 0.7,
+  "aboard": 2,
+  "role": "skipper",
+  "weather": "Morning sailing, started with light wind near Kemah, about 10AM, then calmed to zero, about an hour drifting, then get to stable 8-11kn. Sunny, flat water.",
+  "sail": "Morning sailing, started with light wind near Kemah, about 10AM, then calmed to zero, about an hour drifting, then had several hours of fun sailing at flat water. Nice relaxing, than fun sailing. Learned how to use Radar.",
+  "problems": "No problems."
  }
 ]
