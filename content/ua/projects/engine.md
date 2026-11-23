@@ -427,4 +427,13 @@ Diary: [2 Feb 2026](https://irwin34.blogspot.com/2026/02/days-250-252-mast-coati
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
+## Ремінь генератора
+
+Листопад 2026-го: підтягнув ремінь генератора. Ще один пункт у список обслуговування, раз на 12 місяців.
+
+![Перевірка натягу ременя генератора рукою](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYAKhqxSnhyphenhyphenNhgirdlaqnd0s4cUnes4wPSJSqk19RG0N49BoKggoGxx7XQhCFPxLNnu5JbiLuB3ahAusSlf7sDfY-yCMWGbycDO_-elaiNgp56kzJjYCZjXY2bb_qNGEpoowu550FnIpWmDcdxy5rNEZbynojsQLu372icphI0okDMaXfNYq4JD2JCY09V/s1600/IMG_2853.HEIC)
+![Регулювальна планка генератора і ремінь на двигуні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QBzxannqkVmxbupdcwMKS3Y9oM-LVmjw99u7GOQVuR9y-DzPygT6F3G5FYOauMpKm9WWHop37g5_-VicOKv2OuKkVRVJ3A2f7kUf-o_-APZa4N6rgwJ_xDsQDmHqXePQTDa0HxAlIRmY2DnV-ddmrruVod8Ao0WM3fPhm7hVEsdA5Jl1igLbgZxRbkf3/s1600/IMG_2852.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
+
 Як двигун працює після переходу на прісну воду, розказано в кінці історії [Охолодження прісною водою](../fresh-water-cooling/).

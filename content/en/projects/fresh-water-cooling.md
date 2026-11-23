@@ -152,6 +152,13 @@ Video: [The manual starter in action](https://www.youtube.com/watch?v=E6v5dPIL5I
 
 Story page: [Engine - Fresh water cooling](https://irwin34.blogspot.com/p/engine-fresh-water-cooling-in-progress.html)
 
+**The heat exchanger anode.** November 2026: this is all that's left of the anode after nine months of service. So, one more item for the preventive maintenance schedule: replace the heat exchanger anode every 9–12 months. The good news: the anode is in a very convenient place, so replacing it is quick and easy.
+
+![What is left of the heat exchanger anode after nine months](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjksrGfyF1ONlSGreSaeUz5QV2zIuVi5s-IhegiyFJHpx0shyphenhyphen9pNUpMRPrSEwPyNA5yn_1pzI5A3Use0ZtQvI_Hyczmus_1xMTd5ULNBCm91V75ccAXbm6FPT7Hhwikv5XHncJGFe0rsVaj6HWhVtA4TLRQmnfTGvhXoBeaBLX4qSKkdYYiNZpYu0PPM4aW/s1600/IMG_2854.HEIC)
+![Heat exchanger with the anode in an easy-to-reach spot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkiGlSVwanKNofPvW1FSnBxOB1NMZ3ndRpvj_dCjFwb3c0evbobHguNSsIlNN2b9_IDh4XBqrj5OUmrTX3PgVLbqzgHQs8LESPez9gY0V8QAqWL1ZTzf3Iq8jqzvlfM1C4RvpG8LE68u5JXY_fc9Af5EsRg8vJpoWDvWepgR_A0rqPO5GSSaqSc0XAtL_J/s1600/IMG_2855.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
+
 ## Along the way, in the diary
 
 The article above is the clean version. In the diary it went day by day, in the home garage, and a few more photos came with it.

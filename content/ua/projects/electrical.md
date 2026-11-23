@@ -399,3 +399,18 @@ Walmart повернув гроші за зламаний, і я замовив 
 ![Етикетка ELCI](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26seaoPEsXLaudrfXbbrtm6V_3mkF7mfCKoYPCp07gGzcZ-gS5iBAXhXuNRgltch9DszulRL-0hbPcI6fY1gjGo-AgLRlZRz-5u_XPswMoPEIY99flJx5gEKoxpIyJDn94_h4B1-wodsTgAjqwee_4c7wJntEqXvqbtygtbiJszXDmAQqmZr91ps_XE0n/s1600/IMG_1453.HEIC)
 
 Diary: [2 Jun 2026](https://irwin34.blogspot.com/2026/06/day-267-268-elci-installed-part2-ac-raw.html)
+
+## Сонце на біміні
+
+Примірка сонячної панелі, яку я зробив 5 жовтня.
+
+![Примірка сонячної панелі на біміні](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKnn1q1B-U67peuvYmx1wfv5EdgjVXt60ppKFH7vRCTa7JwIwAxFup4bYv3bAOevANNObh31pgzv-9EbOQnSK3_rTvzx3BlX8J1QrpSVaKJpJ4aDP83fEVVxlJ7yZyipOx0qDVOhbTNap-JXm8ehu4_1U64UF_IsbS1W0Pt-5lY5pWWZLhXbCkhWZMFt4/s1600/IMG_2700.HEIC)
+
+Тепер я готую тент біміні під дві напівгнучкі панелі по 200 Вт — разом 400 Вт сонця. Я переналаштував каркас біміні, щоб верх був менш «горбатим», і додав дві поздовжні рейки для додаткової опори й рівнішої поверхні під панелі. А ще пришив до тенту 16 вуличних липучок Velcro. Вони надійно тримають панелі, і при потребі панелі легко знімаються.
+
+Коли все це зроблено, тент знову на місці й чекає наступного етапу. Тепер час підготувати всю електрику й проводку, перш ніж ставити панелі.
+
+![Біміні з 16 нашитими липучками для сонячних панелей](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHVLJh-kYjAEqlPjyeSc0kc6O_MaYH-Zb18ucfWGdUVacbjgn8plVbiidXXYvKqmhbpJ_b5dlhg8Ldf4IdjF0xjOtelnSOU0W2nklykwTVFFNZyOlaIGNwKPUVsYRkO4Z02XwYkuR_w9MXdrdeOONS03tFQ7x_6iYvxeAgNvKOaBOnQRoj5OMnKX0gNUh0/s1600/IMG_2872.HEIC)
+![Каркас біміні знизу, переналаштований для рівнішого верху](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlg4mWNRHHO4urWtPykhH8yqjcLJ7nuYZKPrXmK8OHHfCss3QUO-UC_UzsilBjJyLa0igX8PliTcwrxUEU8VrcSrvjqTvsRs6Kmsdd8L-FvqxClAAFgiE3KxuEJpFgvFCl3ryvcnPWnfP2fnD2djehRMYJPR_yREb_voN69MQFHoZjyOQCJzRjdQdWb9ZH/s1600/IMG_2844.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)

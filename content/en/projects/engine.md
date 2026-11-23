@@ -427,5 +427,13 @@ When I put the engine and the shaft coupling together, I couldn't find the right
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
 
+## Alternator belt
+
+November 2026: I adjusted the alternator belt tension. One more thing for the maintenance list, every 12 months.
+
+![Checking the alternator belt tension by hand](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYAKhqxSnhyphenhyphenNhgirdlaqnd0s4cUnes4wPSJSqk19RG0N49BoKggoGxx7XQhCFPxLNnu5JbiLuB3ahAusSlf7sDfY-yCMWGbycDO_-elaiNgp56kzJjYCZjXY2bb_qNGEpoowu550FnIpWmDcdxy5rNEZbynojsQLu372icphI0okDMaXfNYq4JD2JCY09V/s1600/IMG_2853.HEIC)
+![Alternator adjusting bracket and the belt on the engine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QBzxannqkVmxbupdcwMKS3Y9oM-LVmjw99u7GOQVuR9y-DzPygT6F3G5FYOauMpKm9WWHop37g5_-VicOKv2OuKkVRVJ3A2f7kUf-o_-APZa4N6rgwJ_xDsQDmHqXePQTDa0HxAlIRmY2DnV-ddmrruVod8Ao0WM3fPhm7hVEsdA5Jl1igLbgZxRbkf3/s1600/IMG_2852.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
 
 How the engine runs since the fresh water conversion is at the end of the [Fresh water cooling](../fresh-water-cooling/) story.

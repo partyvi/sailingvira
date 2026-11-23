@@ -179,7 +179,7 @@ Diary: [21 Sep 2026](https://irwin34.blogspot.com/2026/09/days-279-boom-reorgani
 
 Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-thermostat-bumpy.html)
 
-Листопад 2026-го: гарні кілька годин вечірнього походу в суботу. На цьому журнал поки що зупиняється. Далі буде — на воді.
+Листопад 2026-го: гарні кілька годин вечірнього походу в суботу.
 
 ![Вечірнє плавання в Галвестонській затоці, листопад 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpHiptoy5o9Uzw6n7ba4qd73uMVYILTnVOVxQgDyvSAJYYPCmZaVlO0yacvrVxiOAhOm9RIcfs3s3-fnJvwFl4C5Qfluk3iCG6MMVZOuPdtTnuOQ3rLmVXdaP_hy6xYcAdMipuqxfdTD9ctiv1zcM8VVOHNnMNE0J9L2BkqJcfIMUuu95I9Eh1iTuSn3S/s1600/IMG_2799.HEIC)
 ![Вечірнє плавання в Галвестонській затоці, листопад 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil4kpvcMzXmm_vPVJcDLppESszQgqLoPPyOUeCtWqz5fbs5WqSp7nr6h1wRqlRmfR-C7IKRXTpAJaK_IUIlbvHHktaJiQEFQtc9rJOqgCAVZ2YOpxx224oLmjwQ6W7wUB_yRf8vUzUOFvcLIKw__8AkI7n41BDMk3fXg0Pm-H0-XMyDJR3jMD1394Xd5Js/s1600/IMG_2800.HEIC)
@@ -187,3 +187,41 @@ Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-th
 ![Вечірнє плавання в Галвестонській затоці, листопад 2026](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJzvmmk2uG99zTR2KozyZu3wa6ioZXjKuocMhyphenhyphenI3QTnNJkX4IT-32g2lJsQONuuQ90GTeag2oEcQt-cMcm-8SKKHF9K1bVRT0j4GR9zEu136Uu_Lpmb2FTa-EAyumiTmLSph3yr7gK89fTSFF2B5i7hfE58OThFfoVYjdklmRHpz3hrlUJPT63hx0kLi_q/s1600/IMG_2801.HEIC)
 
 Diary: [10 Nov 2026](https://irwin34.blogspot.com/2026/11/day-282-finished-refrigeratior-lid.html)
+
+## Дві яхти — вже регата
+
+Субота, 21 листопада 2026-го. Ранній ранок у марині Kemah Boardwalk, вода як дзеркало.
+
+![Ранок у марині Kemah Boardwalk, вода як дзеркало](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG9nxi4WXAdJxVKnTVM-cdbJqFLOH8BJ5PPfBTaBs1Z24Tgyi-Ysc1NJgBsrZyjTk9OxytOx5TUMWXJstwhyphenhyphenMLFE-FIx0DX7reIe0FEo8-wZsll5tIWPjAO_hJe24v8PhpW4ja7HlqqBCA9C62nU_7-feYu0BRi8N4zl3C7YK7pBj7lKb9oi8ZzJ5vZP3D/s1600/IMG_2917.HEIC)
+
+У затоці всі чекали на вітер. Ну, чесно кажучи, вітер у нас був: десь 1 вузол. Гарний спокійний день :-) І так, фото справжнє ;-)
+
+![Штиль у затоці з бака Віри, яхти чекають на вітер](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzrFMsGY7Xw7YmymRhQduDXQTLzOkW1BTfLsV1U2S1oWixt8ZRX8CyzX8f2XQfgOIeRU6s4XEfs8xXW4V_IxqFoS8NV7WTniA0Bi8391PoHaQBiKnIx5qJYewUj3yB5xBZVmm33mtxXvHH3VezsNfLyLQCWUfis4x4HDTqlXM1v292_DVswfd83pvpfqeP/s1600/IMG_2949.JPG)
+![Член екіпажу біля щогли шукає вітер](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWEAm3ofWCn51cPKWEKzFyjai9PHrIAaiJaWA1XsGkQPnlCL2ViaqFVkUEC9Dwi7o5NTRMElkptQLzDeyXg7s0IevHp5869HZhhAqVB7twdv9PBKokcP2ZJ6shZLyELeLfziOIYKjfhNWW8C14QUty8FWucJpTyh6SDtR362H-OMYM_zrqgu3KTNkeEXQR/s1600/IMG_2924.HEIC)
+![Дзеркальна вода, білі вітрила й хмари на горизонті](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhJ78Hoea5Oe93Vvf702JasHz8RvaR6FDVy-sqj2y7IklRTK0T1QTGmSw7hmmrVM-5n73yYwsNb-xrylPteaUhB_q6RBZUhyCvOa8CMk0MRu1UlAydQwLKJLh-a4f_X7jmB-oahnFj9nDBWlL7maEgmeslWIsm17bKpDMNPHEomAurs04g1VxVURpoSEo6/s1600/IMG_2946.HEIC)
+
+Десь опівдні вітер почав посилюватися. Легенькі подуви, і ми йшли 3 вузли SOG. Автопілот став за штурвал і потихеньку просувався вперед, а я ховався в тіні вітрила ;-)
+
+![Генуя наповнюється легким подувом, погляд уздовж борту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNsY35c-dM5XnsGHOaEJTgHNk4NQP2QZ2gK6fWi6tUhxlbOOlQKpC-5tWq2-GdoXi1JgjHSW_pdl6HvYkY5Y6dYCG3MJfT-2aLyfgKWM1cGBPKQpP2QbQscg5Kv8897Q1Dg8GYZxtq1GuR5r2wcwivQyNxuRCzrsrDoGFe9r2ikHIP2dIaY2BBpnQ6Ty1G/s1600/IMG_2958.HEIC)
+![Відпочинок на баку в тіні вітрила, поки кермує автопілот](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDsQW-jvbM3zkBD2Kmu6ZeDP3BBM-hpAPndKHO8QLxCYymuqdCY5a18CAJJLc1ZDi3TMr02nAE6JC94pWqXhwsYZJUGupBKjTqwzqqzw-AvjiZpLs_j9-JPrUKbuFvHSnwPEszKdu2uHmyhYJZsUBE04ZcFfdqNngoDBWjOXAN467gIMmRz4QPI5mSAeOb/s1600/IMG_2928.HEIC)
+
+Як кажуть, щойно дві яхти побачать одна одну — починається регата, навіть якщо ніхто насправді не змагається ;-) Ми й вигравали, й програвали, але було дуже весело. Дякую всім, хто зробив цей день таким приємним!
+
+![Самотня яхта на спокійній затоці під великими хмарами](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Nlw7-naIH_Q8Xn1GFnX_iJPDLUcvPv2NHqNCOxN0ZNoGr4zZaRmuP_TajAjzWg0v1zgCaFEfrmfaASFsz3B4v-LtLHZwJ2ulgzV9lSdWBrzXoU_9uCIREzpzBiTDNQf36pCf8P9Fx1jVNj6KJVeq7WdP1-1IEVtRimZQnHYS-QGp7EyhjkvFjDbpFrt7/s1600/IMG_2939.HEIC)
+![Яхта з екіпажем у кокпіті, позаду проходить буксир](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhybZCmCoQS0-uCWl3JADjebgyBVSDR8yWQZZm00Jtyg0uxBIv69nE-LSDuNf-2CDjxyF7DGp97FXTtNmmrYtsYbB7_X-qCMqHwVc7KX4rGodyRnx8Qh5GIj-ASuFDg51Vh9ucDi90pA58QdwNLqeqJEDwPLhaIe81_kTNf0bn48yowh6DI7t8Fk8wg3WVp/s1600/IMG_2980.HEIC)
+![Шлюп під повними вітрилами, на горизонті портові крани](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj71YhW4ol8-IbawkPgTCw-xmof7jsvPmXWomwthVLTfmVaucgfKQzFnJIZrebdaOGARWRDJHYwY5ii3zkl39ahqJSQG3_hdbVGWx4zVRoVkvHsGe2e3tvPm2a-kyEJ2qBuB4bSyfD4hnT0kdLx3IShVcxzH8YJcE1h3RTfgoS-YBq7YQbGHszQcI-7VJCA/s1600/IMG_2985.HEIC)
+![Яхта на тлі контейнеровоза в затоці](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Skt7r2vYU7o-P5J1X_PQ3TR016J5A7LJ9Pi0e0MwoiR6vk6M8i9xmE-itiBzsR2z2ixaPf73LaBN9KOCr5DPH3LekZWPOujMmzDAzkV2w9vdIlIXxlp-TAtIsrpiVhu_IOh_JVa6l904BtIDmBkKeBhJy_EaLg2E3hUOfs0savxN9yowB5Zh4EMqRHXf/s1600/IMG_2989.HEIC)
+![Яхта з зеленим корпусом, позаду портові крани](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghA9X8YuBcEeKX3kYavTq2biWGUIn2du49a5G1pBy7kyU6Fs6YQYLtClCCCZiOSsTF4yhyphenhyphenA42ut1Rm045ORsAFZ636R4QsMu4pz0eCgrr6FG2_Ykw4nVSSXvMcl6XJAgsPbD7x89R26RIdy0CXaCjdIfCdk4Ebasx16H_LINKVWmTV36sWTz1BkSyUOz39/s1600/IMG_2993.HEIC)
+![Шлюп із синьою смугою на генуї йде вздовж берега](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_Mx3rcw43V02IDiPsE3-zAQu2S_FY5YHmQZv33-m_wQkaCzy3XSaLIhk_mlZj9kzORZtHc6Wd-JRtACDXeupcMYtTdP8Hr63rzEMpj7cxO4duH9lsMNZEchKrFaB3BI9vrG_q009Dp5HDIe5lNSB313UoZO8P9fYp2yrN6e-9MAiT6HrQ96ka8a_PiEz/s1600/IMG_2994.HEIC)
+
+Впізнали свою яхту на цих фото? Привітайтеся в коментарях під дописом у щоденнику або напишіть мені через сторінку [Контакт](../contact/). Скажіть, яка яхта ваша, і я з радістю надішлю всі її фото, що в мене є!
+
+А тепер маленьке прохання. Трохи прикро бути тим, хто завжди за камерою: фото чужих яхт у мене повно, а своєї — майже жодного. Якщо раптом у когось є фото Віри під вітрилами збоку, я буду дуже вдячний, якщо поділитеся!
+
+Потім ми пішли додому.
+
+![Генуя і грот проти сонця, курс додому](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnLmqLqtP1UDKZGMcr-hIDI_lpDlM2OchjHIf5lT-Xi5DLHWSVd-MKVgtHcxZcDZQ4NgeW-DeZDRcbJ1otx9DXeT75yVT0D1QXuBNPg1lvigew4CwXi1dObYtShrH-zAK-v0wxqVBxlstfkkaanbKLxk-TR790Vh1_2E6R45l_DfPKrO_Q0cJeQTfqAsvs/s1600/IMG_2991.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
+
+На цьому журнал поки що зупиняється. Далі буде — на воді.

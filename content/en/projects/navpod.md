@@ -102,3 +102,13 @@ In July, the final install. It's not a brand-name NavPod; it just looks like one
 ![NavPod from behind, guard rail and wiring](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6aRBS89VleNcHl8A1PnTAuJYyyUuVF1XgU1PdFIpmTwA99cwa4YtV8f1Xsb2V5w3CzuQo2bABfpnqY2QIcmuDRFQja1Lw2qKlGeC5-UicjXBTbnXUckLWu1l4hAK4kDmkZ-nWCTrv5SWMllMcVAi8m2zOptKvlGLctiH1bPKJ4KjQelG9TquOHK2XLOM_/s1600/IMG_2269.HEIC)
 
 Diary: [30 Jul 2026](https://irwin34.blogspot.com/2026/07/day-272-273-new-outhull-line-setup.html)
+
+## Fresh desiccant
+
+November 2026. I needed to replace the USB keyboard/mouse adapter and check the NavPod inside for any signs of water. As soon as I opened it, I swapped the humidity absorber packs for fresh ones.
+
+![NavPod at the helm above the compass](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivsCujc9xvvJToKUDhxuC3wwHWlAhewvx-6YiPRBXIVcGzhEO23CZs6K0B2D1WRD2yeUnmbVpXWY8AewRzTFvz-qhlI2vLt7YBN-JL6o-5-6KVBEFv2UIH5zKa-meG7N4ck6u1HPYKGauhabRujlEadAQDjgpgqBTRfhZuWzV_EJEqyTbI51-7QIugtYM5/s1600/IMG_2849.HEIC)
+![NavPod opened: the back box with silica gel packs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoO1y-olTqVkiR6xp_ElXyjtI2fpZMJVKZp2RFatMsPijhyphenhyphen5mW1iDTRP-E1lCUQ1xI12GOQH021ZB3OKfVlDke6AGyzrEYMELuoSjmHHCoEdVJ6R-htuHOwhn-oA_NUk6N8e4tuB9YqReYtp6k4RjRY6rflIMDndJBcCVxyIA_9klNOdCdFJBGzswEBMl1/s1600/IMG_2845.HEIC)
+![NavPod front swung open on the helm](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXoKWeRfNZN55lrMgOw11pCEU_e0qk033s8HW1qIKdXYX9kY6enXzsv5fCl2G0mRKNH1-1nr9oyhuw_lRhcNbxbVlX-AP3e7Bsef5dGYc_w7DFlR-wZt_niG8W5szvP8zdTXJhNaTyyOnp728edHN5lUMvxk6d4o3jeX06zK-oGBeADADTQfcD0IO6Qi5Z/s1600/IMG_2847.HEIC)
+
+Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
