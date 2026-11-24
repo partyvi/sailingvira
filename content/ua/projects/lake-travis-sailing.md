@@ -274,6 +274,8 @@ Video: [Марина переставляє цілий причал із 20 чо
 
 Diary: [29 Sep 2025](https://irwin34.blogspot.com/2025/09/day-226-nice-sailing-with-friends-last.html)
 
+Video: [Віра на озері Тревіс](https://www.youtube.com/watch?v=9WxkpN0WYXw)
+
 Video: [Повз нас проходять човни](https://www.youtube.com/watch?v=x8TYEaaK1Dw)
 
 Video: [Повз нас проходять човни](https://www.youtube.com/watch?v=k9NK1XtC2qQ)
