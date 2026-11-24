@@ -188,6 +188,8 @@ Diary: [5 Oct 2026](https://irwin34.blogspot.com/2026/10/days280-refrigerator-th
 
 Diary: [10 Nov 2026](https://irwin34.blogspot.com/2026/11/day-282-finished-refrigeratior-lid.html)
 
+Video: [Вечірній похід, 10 листопада 2026](https://www.youtube.com/watch?v=6fCFJWMSjxQ)
+
 ## Дві яхти — вже регата
 
 Субота, 21 листопада 2026-го. Ранній ранок у марині Kemah Boardwalk, вода як дзеркало.
@@ -223,5 +225,13 @@ Diary: [10 Nov 2026](https://irwin34.blogspot.com/2026/11/day-282-finished-refri
 ![Генуя і грот проти сонця, курс додому](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnLmqLqtP1UDKZGMcr-hIDI_lpDlM2OchjHIf5lT-Xi5DLHWSVd-MKVgtHcxZcDZQ4NgeW-DeZDRcbJ1otx9DXeT75yVT0D1QXuBNPg1lvigew4CwXi1dObYtShrH-zAK-v0wxqVBxlstfkkaanbKLxk-TR790Vh1_2E6R45l_DfPKrO_Q0cJeQTfqAsvs/s1600/IMG_2991.HEIC)
 
 Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
+
+Video: [Ґалвестон-Бей, спокійна вода](https://www.youtube.com/watch?v=r9jANP8_vSg)
+
+Video: [Спокійне плавання по рівній воді, легкий вітер](https://www.youtube.com/watch?v=PyHbyLzoKLs)
+
+Video: [Віра під вітрилами в Ґалвестон-Бей](https://www.youtube.com/watch?v=m2_8Zj8KZcM)
+
+Video: [Бакштаг у Ґалвестон-Бей](https://www.youtube.com/watch?v=zcDcRz_ePoo)
 
 На цьому журнал поки що зупиняється. Далі буде — на воді.

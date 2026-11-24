@@ -96,7 +96,7 @@ Later: scheduled updates, auto-publish, diary moves into the site.
   and sailingvira.com/coffee/ forwards there. Tips only: no sales tax, no Stripe Tax.
 - Search: the build writes `search/index.json` per language (every story chapter and page) and a `/search/` page that searches it in
   the browser (noindex, not in the sitemap); a magnifier icon in the header links to it.
-- Videos in stories: Viktor's own YouTube videos from his diary posts sit after the matching diary day as `Video:` lines (Nov 2026: 19 videos).
+- Videos in stories: Viktor's own YouTube videos from his diary posts sit after the matching diary day as `Video:` lines (Nov 2026: 25 videos).
   Videos by other people that he linked as inspiration are not embedded.
 - `tools/build.py`: builds the static site into `site/` (`pip install -r requirements.txt`):
   `/<id>/` and `/ua/<id>/` pages, home pages, sitemap.xml, robots.txt, 404.html. A project without a

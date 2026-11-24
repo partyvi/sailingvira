@@ -188,6 +188,8 @@ November 2026: a nice couple of hours of evening sailing on Saturday.
 
 Diary: [10 Nov 2026](https://irwin34.blogspot.com/2026/11/day-282-finished-refrigeratior-lid.html)
 
+Video: [Evening sail, 10 November 2026](https://www.youtube.com/watch?v=6fCFJWMSjxQ)
+
 ## Two sailboats make a race
 
 Saturday, 21 November 2026. Early morning in Kemah Boardwalk Marina, the water like a mirror.
@@ -223,5 +225,13 @@ Then we headed home.
 ![Genoa and mainsail against the sun, heading home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnLmqLqtP1UDKZGMcr-hIDI_lpDlM2OchjHIf5lT-Xi5DLHWSVd-MKVgtHcxZcDZQ4NgeW-DeZDRcbJ1otx9DXeT75yVT0D1QXuBNPg1lvigew4CwXi1dObYtShrH-zAK-v0wxqVBxlstfkkaanbKLxk-TR790Vh1_2E6R45l_DfPKrO_Q0cJeQTfqAsvs/s1600/IMG_2991.HEIC)
 
 Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
+
+Video: [Galveston Bay, calm water](https://www.youtube.com/watch?v=r9jANP8_vSg)
+
+Video: [Calm sailing on flat water, light wind](https://www.youtube.com/watch?v=PyHbyLzoKLs)
+
+Video: [Vira sailing in Galveston Bay](https://www.youtube.com/watch?v=m2_8Zj8KZcM)
+
+Video: [Broad reach in Galveston Bay](https://www.youtube.com/watch?v=zcDcRz_ePoo)
 
 And that's where the log stands for now. To be continued, on the water.
