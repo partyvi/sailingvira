@@ -6,7 +6,7 @@ section: voyages
 order: 1
 related: [galveston-bay-sailing, jailbreak]
 description: "Days on Lake Travis, 2021–2025: friends aboard, docks that move, a lake that dried up and came back."
-cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP8PkuIRpoyl8Fx5S-Ghr2qzEU8UhDUr3p1liQGdgUDEFT6orUegWdq0jt5D2K_wAOER74Elg2zhdb-cu5Dp_1XBzmc-okzUor6bbJK0mIlvRCyPfbYbG3311uxWOkEy4MzliS0DJG5CB6zaWp2fn19pwpsYJIxOoqPSz4luwS5NKU0NcuilItNYUYiQ/s1600/IMG_3540.HEIC"
+cover: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUMZoygnOeaBudylI5yA-Hj6pNtZzF7AqCziEonUiQqOrQbYTqqZhVJUj4TKdln6DX1G5EvWYPB1bovtDg3aA-4lA8OxsKTb19XTc6LHqZmqAGiq2S-2rZHn2ix07BeDvYSazqSWDrRLGsZbpMnaF4AC0gUzppYosFJ-jlmEY5tppMJ5Rv5X6OiHn6x5w/s1600/IMG_0714.HEIC"
 ---
 All this work is for one thing: to go sailing. These are the days on Lake Travis, 2021–2025: the people who came along, docks that move, a lake that dries up and then comes back, and a 76 mph gust. The story goes on in [Day sailing Galveston Bay](../galveston-bay-sailing/).
 
