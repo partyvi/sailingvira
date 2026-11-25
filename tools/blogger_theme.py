@@ -228,7 +228,7 @@ JS = """
   else if (!widgetPosts) {
     if (/^\\/\\d{4}\\/\\d{2}\\/.+\\.html$/.test(p)) post("posts");
     else if (/^\\/p\\/.+\\.html$/.test(p)) post("pages");
-    else if ((m = p.match(/^\\/search\\/label\\/(.+)$/))) { labelName = decodeURIComponent(m[1]); list("/feeds/posts/summary/-/" + encodeURIComponent(labelName)); }
+    else if ((m = p.match(/^\\/search\\/label\\/(.+)$/))) { labelName = decodeURIComponent(m[1]); list(["", "feeds", "posts", "summary", "-", encodeURIComponent(labelName)].join("/")); }
     else list("/feeds/posts/summary");
   }
 })();
