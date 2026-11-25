@@ -436,4 +436,36 @@ November 2026: I adjusted the alternator belt tension. One more thing for the ma
 
 Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
 
+## Engine room tour
+
+November 2026. On the Irwin 34 you get to the engine through a removable panel in the cockpit floor. Literally 1/3 of the cockpit floor comes off! You get access where on most boats you have to snake in upside down. You can even stand in there, if you're careful :-)
+
+![Engine room access hatch in the cockpit floor, open](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lVYBpzvKiyDoXI87KBpL3zxZHkuhTpYieYQdbbIEOYvUIcblOo_tZZFPrbeGzOtgWbfpasP86P3BOyWVofvodbSm-EYEv_4WEAH1IGGzAhN-FqhgEXnUcIWvQkzvbZiy0D3g__w5XFIJbI15WpvIz-GoRpuKrjNTWyjMLsVtp53N4JmsiNS-036DT53z/s1600/IMG_2869.HEIC)
+
+OK, jump in.
+
+Forward view, to the flywheel side of the engine. From here you reach the transmission, the drive shaft seal, the engine control cables, the air filter, the fuel filters, the oil dipstick and oil fill, the mixing elbow, the wet muffler, and both the log and depth transducers.
+
+![Forward view of the engine room: the transmission, fuel filters and wrapped exhaust](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg04R8YmgqYSPTTGNECgXpMEF0TirB_kmarSIS6cIGEujaqbbjTV1Cs0a6wJacCf_ahkw3me0sWFzPN0UXHboZz66t5dKjsCBfiUxJQxo8XYrPt5qB5ZfYUiFkhhfsVCcSS0-PSwsliltMFX0hazTbRqwHHgjpSwHfsJ8qDlri9C9B8e_2cMmeMN9DfxI2S/s1600/IMG_2862.HEIC)
+
+View aft. Down on the left, the membrane pump for the dry bilge. On the left, on a small pedestal, the refrigerator compressor. The white and black hoses are the cockpit drain line and the tubing from the dry bilge pump. In the center, the 8-gallon water heater. Top right corner, the autopilot actuator. Then, far right, the gray box is the engine monitoring module (just monitoring: the engine itself needs no electronics), and the fuel filters, depth and log transducers.
+
+![View aft in the engine room: water heater, fridge compressor and the shaft](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTJVkKolGGN38yyKs6kU7Xdm9Mc7WNi5lA7R8_lWgV3B_I6fhH3qVE1s7J5KpYY4RVDJFbnPFhSLRyTGvjYrFzVPGVva8ElAHfQnuBea5XhlxEvT3jOOXXYEpOM_ni0MpMh4OBNHFrgZeSujPNO8DfeALhdZYFxMOPnixtP5NRcFxvJ2Eyy54ICW5ZilqY/s1600/IMG_2867.HEIC)
+
+A better view of the port side: the same filters and the engine monitoring module.
+
+![Port side of the engine room: fuel filters and the engine monitor box](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwJ7KGtbtjX__wsFwzg6vMdaJnzzOLjmty99R_Srq-9JifFpseEjMIlCc_CoeSMvViOTBvbupKldEUJ9CFlKAjxE4WV1usKo2gmB3mGO3xXiW1yZbkXOqHyJPlIe1ZnjJb9faqwGjtFxbRoa6DAz9PFqAKFFxYPHMzVVSGA7KKigYU-3eJ3HD1k19-Msr5/s1600/IMG_2866.HEIC)
+
+Starboard side, better view. Top left, the heat exchanger; left, the hot exhaust and the mixing elbow, the wet muffler, and the refrigerator compressor.
+
+![Starboard side: heat exchanger, wrapped exhaust, wet muffler and fridge compressor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnQ_NkUtZtv17Ci2NDAyd79RLqRvkztCE_YafYU0w4f78PU7L1txWiqUEd9BShqCx0tW3I-SlPXEDWocFCo2K2g6bv7tuYhCiSjsg9MP2Ul8eP46wJeseEuPPHI42Z5YZtNwO9yxWn_GdUwWbeAYllr9bPAoy4nbM5uGSrzyEAllvBxu7qn9n-VOfpNjL/s1600/IMG_2863.HEIC)
+
+Far aft: the X-crossed cockpit drains, the steering cables and quadrant, the autopilot rudder arm and drive, the wiring to the steering pedestal, and the cold water line to the cockpit wash-down head.
+
+![Far aft under the cockpit: crossed drains, steering quadrant and autopilot drive](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggDBoFslxlXhlVONAXbSjmuCTeXcPaaUG_uHnVop1Rs_2CzxLow75_1CR3NSjvkkXdoCRXC4tWrtMNLSuXKDcGopTmZFt6AY8sC-w5fEAxm6rqpaVxKspqvPYWMBHcgFILFEZiYSq9K0gaEiKXK7DBeVVQ0-_TSyveGVaPqJMoBTxpL246ja4ZRfw8Iy8J/s1600/IMG_2864.HEIC)
+
+Diary: [24 Nov 2026](https://irwin34.blogspot.com/2026/11/my-irwin34-engine-room-tour-photos-and.html)
+
+Video: [Engine room tour](https://www.youtube.com/watch?v=2gbqqSnC1Z8)
+
 How the engine runs since the fresh water conversion is at the end of the [Fresh water cooling](../fresh-water-cooling/) story.

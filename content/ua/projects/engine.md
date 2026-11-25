@@ -436,4 +436,36 @@ Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind
 
 Diary: [21 Nov 2026](https://irwin34.blogspot.com/2026/11/nice-relaxing-sailing-sailing-small.html)
 
+## Екскурсія моторним відсіком
+
+Листопад 2026-го. На Irwin 34 до двигуна дістаєшся через знімну панель у підлозі кокпіту. Буквально 1/3 підлоги кокпіту знімається! Маєш доступ там, де на більшості човнів доводиться повзати вниз головою. Там навіть можна стояти, якщо обережно :-)
+
+![Відкритий люк моторного відсіку в підлозі кокпіту](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lVYBpzvKiyDoXI87KBpL3zxZHkuhTpYieYQdbbIEOYvUIcblOo_tZZFPrbeGzOtgWbfpasP86P3BOyWVofvodbSm-EYEv_4WEAH1IGGzAhN-FqhgEXnUcIWvQkzvbZiy0D3g__w5XFIJbI15WpvIz-GoRpuKrjNTWyjMLsVtp53N4JmsiNS-036DT53z/s1600/IMG_2869.HEIC)
+
+Ну що, стрибаємо.
+
+Погляд уперед, на бік маховика. Звідси доступ до реверс-редуктора, ущільнення валу, тросів керування двигуном, повітряного фільтра, паливних фільтрів, щупа й горловини для оливи, змішувального коліна, мокрого глушника, а також до обох датчиків — лага й ехолота.
+
+![Погляд уперед у моторному відсіку: редуктор, паливні фільтри й обмотаний вихлоп](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg04R8YmgqYSPTTGNECgXpMEF0TirB_kmarSIS6cIGEujaqbbjTV1Cs0a6wJacCf_ahkw3me0sWFzPN0UXHboZz66t5dKjsCBfiUxJQxo8XYrPt5qB5ZfYUiFkhhfsVCcSS0-PSwsliltMFX0hazTbRqwHHgjpSwHfsJ8qDlri9C9B8e_2cMmeMN9DfxI2S/s1600/IMG_2862.HEIC)
+
+Погляд у корму. Зліва внизу — мембранна помпа сухого трюму. Зліва, на невеликій підставці, — компресор холодильника. Білий і чорний шланги — злив кокпіту й трубка від помпи сухого трюму. По центру — 8-галонний бойлер. У правому верхньому куті — привід автопілота. Далі, праворуч, сіра коробка — модуль моніторингу двигуна (тільки моніторинг: самому двигуну електроніка не потрібна), а також паливні фільтри, датчики ехолота й лага.
+
+![Погляд у корму в моторному відсіку: бойлер, компресор холодильника і вал](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTJVkKolGGN38yyKs6kU7Xdm9Mc7WNi5lA7R8_lWgV3B_I6fhH3qVE1s7J5KpYY4RVDJFbnPFhSLRyTGvjYrFzVPGVva8ElAHfQnuBea5XhlxEvT3jOOXXYEpOM_ni0MpMh4OBNHFrgZeSujPNO8DfeALhdZYFxMOPnixtP5NRcFxvJ2Eyy54ICW5ZilqY/s1600/IMG_2867.HEIC)
+
+Лівий борт краще видно: ті самі фільтри і модуль моніторингу двигуна.
+
+![Лівий борт моторного відсіку: паливні фільтри й коробка монітора двигуна](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwJ7KGtbtjX__wsFwzg6vMdaJnzzOLjmty99R_Srq-9JifFpseEjMIlCc_CoeSMvViOTBvbupKldEUJ9CFlKAjxE4WV1usKo2gmB3mGO3xXiW1yZbkXOqHyJPlIe1ZnjJb9faqwGjtFxbRoa6DAz9PFqAKFFxYPHMzVVSGA7KKigYU-3eJ3HD1k19-Msr5/s1600/IMG_2866.HEIC)
+
+Правий борт, краще видно. Зліва вгорі — теплообмінник; зліва — гарячий вихлоп і змішувальне коліно, мокрий глушник і компресор холодильника.
+
+![Правий борт: теплообмінник, обмотаний вихлоп, мокрий глушник і компресор холодильника](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnQ_NkUtZtv17Ci2NDAyd79RLqRvkztCE_YafYU0w4f78PU7L1txWiqUEd9BShqCx0tW3I-SlPXEDWocFCo2K2g6bv7tuYhCiSjsg9MP2Ul8eP46wJeseEuPPHI42Z5YZtNwO9yxWn_GdUwWbeAYllr9bPAoy4nbM5uGSrzyEAllvBxu7qn9n-VOfpNjL/s1600/IMG_2863.HEIC)
+
+Найдальше в кормі: перехрещені навхрест зливи кокпіту, штуртроси й квадрант, важіль і привід автопілота на баллері, проводка до штурвальної колонки й холодна вода до душу в кокпіті.
+
+![Найдальше в кормі під кокпітом: перехрещені зливи, квадрант і привід автопілота](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggDBoFslxlXhlVONAXbSjmuCTeXcPaaUG_uHnVop1Rs_2CzxLow75_1CR3NSjvkkXdoCRXC4tWrtMNLSuXKDcGopTmZFt6AY8sC-w5fEAxm6rqpaVxKspqvPYWMBHcgFILFEZiYSq9K0gaEiKXK7DBeVVQ0-_TSyveGVaPqJMoBTxpL246ja4ZRfw8Iy8J/s1600/IMG_2864.HEIC)
+
+Diary: [24 Nov 2026](https://irwin34.blogspot.com/2026/11/my-irwin34-engine-room-tour-photos-and.html)
+
+Video: [Екскурсія моторним відсіком](https://www.youtube.com/watch?v=2gbqqSnC1Z8)
+
 Як двигун працює після переходу на прісну воду, розказано в кінці історії [Охолодження прісною водою](../fresh-water-cooling/).
