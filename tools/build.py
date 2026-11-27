@@ -12,7 +12,7 @@ https://sailingvira.com/ and at a GitHub Pages sub-path.
 
 Story body format: see CLAUDE.md.
 """
-import hashlib, html, json, os, re, shutil, sys
+import glob, hashlib, html, json, os, re, shutil, sys
 import yaml, markdown
 
 B = sys.argv[1] if len(sys.argv) > 1 else "."
@@ -304,6 +304,16 @@ def youtube_videos():
                      "date": i["snippet"]["publishedAt"][:10]} for i in data.get("items", [])
                     if i["snippet"].get("resourceId", {}).get("kind") == "youtube#video"]
             vids.sort(key=lambda v: v["date"], reverse=True)
+            try:  # the filming date, where the video has one set on YouTube (recordingDetails)
+                for i in range(0, len(vids), 50):
+                    q = urllib.parse.urlencode({"part": "recordingDetails", "id": ",".join(v["id"] for v in vids[i:i + 50]), "key": key})
+                    rec = {x["id"]: (x.get("recordingDetails") or {}).get("recordingDate", "")[:10]
+                           for x in json.loads(urllib.request.urlopen(f"https://www.googleapis.com/youtube/v3/videos?{q}", timeout=20).read()).get("items", [])}
+                    for v in vids[i:i + 50]:
+                        if rec.get(v["id"]):
+                            v["recorded"] = rec[v["id"]]
+            except Exception as e:
+                print(f"Videos: no recording dates ({type(e).__name__})")
             if vids:
                 print(f"Videos: {len(vids)} from the YouTube API")
                 return vids
@@ -371,7 +381,49 @@ def youtube_videos():
     return []
 
 
-VIDEOS = youtube_videos()
+MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+
+
+def filmed_dates(videos):
+    """When each video was filmed, not uploaded: the date set on YouTube; else the diary day it sits after
+    in a story; else a date in its title ("November 10, 2026", "2025 April"); else the upload date."""
+    story = {}  # video id -> date of the diary day above it in a story
+    for path in sorted(glob.glob(f"{B}/content/en/projects/*.md")):
+        last = None
+        for line in open(path, encoding="utf-8"):
+            if line.startswith("## "):
+                last = None
+            m = re.match(r"Diary:\s*\[[^\]]*\]\(([^)\s]+)\)", line)
+            if m and m.group(1) in POSTS:
+                last = POSTS[m.group(1)][0]
+            v = VIDEO.match(line.strip())
+            if v and last:
+                story.setdefault(v.group(3), last)
+    mon = "|".join(MONTHS)
+    def from_title(t):
+        t = (t or "").lower()
+        m = re.search(rf"({mon})\s+(\d{{1,2}}),?\s+(20\d\d)", t)
+        if m:
+            return f"{m.group(3)}-{MONTHS.index(m.group(1)) + 1:02d}-{int(m.group(2)):02d}"
+        m = re.search(rf"(20\d\d)\s+({mon})|({mon})\s+(20\d\d)", t)
+        if m:
+            y, mo = (m.group(1), m.group(2)) if m.group(1) else (m.group(4), m.group(3))
+            return f"{y}-{MONTHS.index(mo) + 1:02d}-15"
+        return ""
+    src = {"YouTube": 0, "story": 0, "title": 0, "upload": 0}
+    for v in videos:
+        for k, d in (("YouTube", v.get("recorded")), ("story", story.get(v["id"])), ("title", from_title(v.get("title"))), ("upload", v["date"])):
+            if d:
+                v["filmed"] = d
+                src[k] += 1
+                break
+    if videos:
+        print("Videos: filming dates from " + ", ".join(f"{k} {n}" for k, n in src.items()))
+    videos.sort(key=lambda v: v["filmed"], reverse=True)
+    return videos
+
+
+VIDEOS = filmed_dates(youtube_videos())
 FORM_UI = {"en": {"name": "Your name", "email": "Your email (so I can answer)", "msg": "Message", "send": "Send", "subject": "new message from the site", "sending": "Sending…", "ok": "Thank you! Your message was sent. I'll answer as soon as I can.", "err": "Sorry, the message could not be sent", "retry": "Please try again later.",
                   "off": "The contact form opens soon. Until then, leave a comment on any diary post."},
            "ua": {"name": "Ваше ім'я", "email": "Ваш email (щоб я міг відповісти)", "msg": "Повідомлення", "send": "Надіслати", "subject": "нове повідомлення з сайту (UA)", "sending": "Надсилаю…", "ok": "Дякую! Повідомлення надіслано. Відповім, щойно зможу.", "err": "Вибачте, повідомлення не вдалося надіслати", "retry": "Спробуйте, будь ласка, пізніше.",
@@ -391,7 +443,7 @@ def special_html(kind, lang):
         return '<div class="items vids">' + "".join(
             f'<a class="item" href="https://www.youtube.com/watch?v={esc(v["id"])}" target="_blank" rel="noopener">'
             f'<span class="ph" style="background-image:url(\'https://i.ytimg.com/vi/{esc(v["id"])}/hqdefault.jpg\')"><b>▶</b></span>'
-            f'<span class="tx"><h3>{esc(v["title"])}</h3><span class="mono">{fmt(v["date"], lang)}</span></span></a>'
+            f'<span class="tx"><h3>{esc(v["title"])}</h3><span class="mono">{fmt(v.get("filmed") or v["date"], lang)}</span></span></a>'
             for v in VIDEOS) + f'</div><p><a class="dl" href="{yt}" target="_blank" rel="noopener">YouTube @sailingvira ↗</a></p>'
     if kind == "contact form":
         f, action, key = FORM_UI[lang], site.get("contact_form", ""), site.get("contact_key", "")
