@@ -64,6 +64,7 @@ Item: ![Hand drawing of the gooseneck part with measurements](https://lh3.google
 Item: ![Placeholder: no picture yet](/assets/placeholder-3d.webp) [Binoculars holder](workshop/) | A wall holder with a hook for the binoculars. | https://drive.google.com/drive/folders/15EfCTmqlmHh_jN13ND1FOz9Y019yvN95
 Item: ![Placeholder: no picture yet](/assets/placeholder-3d.webp) [Line organisers](sails/#c8) | A printed line organiser (bottom part, high version). | https://drive.google.com/drive/folders/1ew2GJWJusU2M5dQRfIYkam2pR4bTcDA7
 Item: ![Finished NavPod at the helm](https://lh3.googleusercontent.com/d/1KSttwr6C4Iuj11UoY5tbKa-JEx00hxTb=w1600) [NavPod](navpod/#c2) | A helm head unit with a 7-inch screen and 26 buttons, talking to OpenPlotter, Signal K and PyPilot. | https://drive.google.com/drive/folders/1ReS4Thk2oQI7VY-jQYOO1Q96z7rVhjHG
+Item: ![GPS in its printed outdoor housing on the stern rail](https://lh3.googleusercontent.com/d/1QCEunMDrSZQ2UxOfAb3Y_2RIEwgvDGnG=w1600) [GPS holder](navigation/#c19) | An outdoor housing and stern rail mount for a 10 Hz u-blox GPS module. | https://drive.google.com/drive/folders/17ZfsrbmIyKDHeInPpl3XEeMANags6vSx
 
 ## Drawings and sketches
 
