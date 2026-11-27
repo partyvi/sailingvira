@@ -64,6 +64,7 @@ Item: ![Ескіз деталі гусака з розмірами](https://lh3.
 Item: ![Заглушка: фото ще немає](/assets/placeholder-3d.webp) [Тримач бінокля](workshop/) | Настінний тримач із гачком для бінокля. | https://drive.google.com/drive/folders/15EfCTmqlmHh_jN13ND1FOz9Y019yvN95
 Item: ![Заглушка: фото ще немає](/assets/placeholder-3d.webp) [Органайзери шкотів](sails/#c8) | Надрукований органайзер шкотів (нижня частина, висока версія). | https://drive.google.com/drive/folders/1ew2GJWJusU2M5dQRfIYkam2pR4bTcDA7
 Item: ![Готовий NavPod біля штурвала](https://lh3.googleusercontent.com/d/1KSttwr6C4Iuj11UoY5tbKa-JEx00hxTb=w1600) [NavPod](navpod/#c2) | Блок біля штурвала з 7-дюймовим екраном і 26 кнопками, що спілкується з OpenPlotter, Signal K і PyPilot. | https://drive.google.com/drive/folders/1ReS4Thk2oQI7VY-jQYOO1Q96z7rVhjHG
+Item: ![GPS у надрукованому вуличному корпусі на кормовому релінгу](https://lh3.googleusercontent.com/d/1QCEunMDrSZQ2UxOfAb3Y_2RIEwgvDGnG=w1600) [Тримач GPS](navigation/#c19) | Вуличний корпус і кріплення на кормовий релінг для 10-герцового модуля GPS u-blox. | https://drive.google.com/drive/folders/17ZfsrbmIyKDHeInPpl3XEeMANags6vSx
 
 ## Креслення й ескізи
 
