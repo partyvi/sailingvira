@@ -20,7 +20,6 @@ description: "3D-моделі, креслення й електроніка з �
 Плати, які я спроєктував для «Віри». Схеми, файли плат і прошивки.
 
 Item: ![Базова плата KhatkaPi з Raspberry Pi 5 для OpenPlotter](https://lh3.googleusercontent.com/d/1KW3wz9A8nFfRYXlbbW9npAU517vk5nlB=w1600) [Базова плата KhatkaPi](khatkapi/) | Базова плата для Raspberry Pi 5 з OpenPlotter: захищені USB, NMEA 0183, IMU, порти авторульового і живлення. | https://drive.google.com/drive/folders/1IqOpz1vnvWenuL4K53b3StyTXSHzqNlG
-Item: ![Готовий NavPod біля штурвала](https://lh3.googleusercontent.com/d/1KSttwr6C4Iuj11UoY5tbKa-JEx00hxTb=w1600) [NavPod](navpod/#c2) | Блок біля штурвала з 7-дюймовим екраном і 26 кнопками, що спілкується з OpenPlotter, Signal K і PyPilot. | https://drive.google.com/drive/folders/1ReS4Thk2oQI7VY-jQYOO1Q96z7rVhjHG
 Item: ![Плата монітора двигуна, проєкт](https://lh3.googleusercontent.com/d/1nRo2Gv0mRKHG2muzrr5h9YcTkhiUr36y=w1600) [Монітор двигуна](engine/#c11) | Температури, тиск масла, тривоги, тахометр і напруги батарей від Yanmar до Signal K. | https://drive.google.com/drive/folders/1iiCY_UlGTZ958FWmzQ6h_vTaHi_cKw1U
 Item: ![Зібрана плата термостата](https://lh3.googleusercontent.com/d/1bh1JEpKMPaJLWZaQxO-0MB3B9ehBWjZg=w1600) [Термостат холодильника](refrigerator/#c5) | Термостат холодильника з тривогами і веб-інтерфейсом через Wi-Fi. | https://drive.google.com/drive/folders/1GossbxpIG1vC7lTJxotnUFrRx9we03rG
 Item: ![Плата контролера сухого трюму, 3D-рендер](https://lh3.googleusercontent.com/d/1ma2M7y_A66_fXGVM4va1luAly31ywcUm=w1600) [Контролер сухого трюму](small-electronics/#c2) | Вмикає маленьку самовсмоктувальну помпу на 3 хвилини кожні 24 години, щоб трюм був сухий. | https://drive.google.com/drive/folders/1lGRzbgjsC-mM-ptNYNYtzqV7rmt9GSeM
@@ -64,6 +63,7 @@ Item: ![Штаг і закрутка на носі](https://lh3.googleuserconten
 Item: ![Ескіз деталі гусака з розмірами](https://lh3.googleusercontent.com/d/1oqwH3VXfsXVc5R6CYpyjROkehfaSalpH=w1600) [Гусак гіка](mast/#c10) | Нова з'єднувальна деталь для втомленого гусака, змодельована за моїми замірами. | https://drive.google.com/drive/folders/1S06z5CrtS7P7ixhyAIQ_FhAvIx6XNNyI
 Item: ![Заглушка: фото ще немає](/assets/placeholder-3d.webp) [Тримач бінокля](workshop/) | Настінний тримач із гачком для бінокля. | https://drive.google.com/drive/folders/15EfCTmqlmHh_jN13ND1FOz9Y019yvN95
 Item: ![Заглушка: фото ще немає](/assets/placeholder-3d.webp) [Органайзери шкотів](sails/#c8) | Надрукований органайзер шкотів (нижня частина, висока версія). | https://drive.google.com/drive/folders/1ew2GJWJusU2M5dQRfIYkam2pR4bTcDA7
+Item: ![Готовий NavPod біля штурвала](https://lh3.googleusercontent.com/d/1KSttwr6C4Iuj11UoY5tbKa-JEx00hxTb=w1600) [NavPod](navpod/#c2) | Блок біля штурвала з 7-дюймовим екраном і 26 кнопками, що спілкується з OpenPlotter, Signal K і PyPilot. | https://drive.google.com/drive/folders/1ReS4Thk2oQI7VY-jQYOO1Q96z7rVhjHG
 
 ## Креслення й ескізи
 
