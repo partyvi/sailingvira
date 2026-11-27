@@ -543,6 +543,8 @@ Small things that last weekend:
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)
 
+Video: [Underwater walk-around at the boatyard](https://www.youtube.com/watch?v=ugMGN_7f894)
+
 In March, in the water at Kemah, I filled the front water tank to check the waterline. Simple, if you have a second person on the valve. Mine ended up flooding the V-berth, and I had to rescue the cushions. But I checked it: the painted waterline came out exactly where it should be.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)

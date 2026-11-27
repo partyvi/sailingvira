@@ -543,6 +543,8 @@ Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registr
 
 Diary: [8 Feb 2026](https://irwin34.blogspot.com/2026/02/day-253-254-put-registration-number-and.html)
 
+Video: [Огляд підводної частини на верфі](https://www.youtube.com/watch?v=ugMGN_7f894)
+
 У березні, вже на воді в Кемі, я заповнив передній водяний бак, щоб перевірити ватерлінію. Просто, якщо є друга людина на крані. Мій помічник урешті затопив носову каюту, і мені довелося рятувати подушки. Але я перевірив: пофарбована ватерлінія вийшла точно там, де треба.
 
 Diary: [9 Mar 2026](https://irwin34.blogspot.com/2026/03/day-256-257-fixing-wind-instrument.html)
