@@ -500,9 +500,11 @@ def blocks_html(blocks, lang, alt, rel=""):
                 href = u if re.match(r"https?://", u) else rel + url_of(lang) + u
                 btn = (f'<a class="dl" href="{esc(f)}" target="_blank" rel="noopener">{dl} ↓</a>' if f
                        else f'<span class="dl soon">{soon}</span>')
-                cards.append(f'<div class="item"><a class="ph" href="{esc(href)}" style="background-image:url(\'{esc(size(img, "w600"))}\')" aria-label="{esc(t)}"></a>'
+                ph = (f'<a class="ph" href="{esc(f)}" target="_blank" rel="noopener" aria-label="{dl}: {esc(t)}"' if f
+                      else f'<a class="ph" href="{esc(href)}" aria-label="{esc(t)}"')
+                cards.append(f'<div class="item">{ph} style="background-image:url(\'{esc(size(img, "w600"))}\')"></a>'
                              f'<div class="tx"><h3><a href="{esc(href)}">{esc(t)}</a></h3><p>{inline(note or "")}</p>'
-                             f'<div class="act"><a class="st" href="{esc(href)}">{st} →</a>{btn}</div></div></div>')
+                             f'<div class="act">{btn}<a class="st" href="{esc(href)}">{st} →</a></div></div></div>')
             h.append('<div class="items">' + "".join(cards) + "</div>")
         elif "pairs" in b:
             was, now = PAIR_UI[lang]

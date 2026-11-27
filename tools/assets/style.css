@@ -188,6 +188,12 @@ a.mosaic:hover i{opacity:.8}
 .item .st{font-family:var(--f-display);font-size:17px;text-transform:uppercase;text-decoration:none}
 .dl{font-family:var(--f-mono);font-size:12.5px;padding:3px 10px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none}
 .dl.soon{border-color:var(--line);color:var(--muted)}
+.item .act{justify-content:space-between}
+.item .dl{font-family:var(--f-display);font-size:17px;text-transform:uppercase;letter-spacing:.02em;padding:7px 16px;border-radius:6px;
+  background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+.item .dl:hover{filter:brightness(1.12)}
+.item .dl.soon{background:none;color:var(--muted);border-color:var(--line);font-size:14px;font-weight:400}
+.item .st{margin-left:auto}
 
 /* videos and contact form */
 .vids .item{text-decoration:none;color:inherit}
