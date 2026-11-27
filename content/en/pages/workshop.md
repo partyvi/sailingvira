@@ -20,7 +20,6 @@ These are the designs I made for my own boat. They are not tested or certified. 
 Boards I designed for Vira. Schematics, board files and firmware.
 
 Item: ![KhatkaPi baseboard with Raspberry Pi 5 running](https://lh3.googleusercontent.com/d/1KW3wz9A8nFfRYXlbbW9npAU517vk5nlB=w1600) [KhatkaPi baseboard](khatkapi/) | A baseboard for the Raspberry Pi 5 that runs OpenPlotter: protected USB, NMEA 0183, IMU, autopilot and power ports. | https://drive.google.com/drive/folders/1IqOpz1vnvWenuL4K53b3StyTXSHzqNlG
-Item: ![Finished NavPod at the helm](https://lh3.googleusercontent.com/d/1KSttwr6C4Iuj11UoY5tbKa-JEx00hxTb=w1600) [NavPod](navpod/#c2) | A helm head unit with a 7-inch screen and 26 buttons, talking to OpenPlotter, Signal K and PyPilot. | https://drive.google.com/drive/folders/1ReS4Thk2oQI7VY-jQYOO1Q96z7rVhjHG
 Item: ![Engine monitor board design](https://lh3.googleusercontent.com/d/1nRo2Gv0mRKHG2muzrr5h9YcTkhiUr36y=w1600) [Engine monitor](engine/#c11) | Temperatures, oil pressure, alarms, tachometer and battery voltages from the Yanmar to Signal K. | https://drive.google.com/drive/folders/1iiCY_UlGTZ958FWmzQ6h_vTaHi_cKw1U
 Item: ![Assembled thermostat board](https://lh3.googleusercontent.com/d/1bh1JEpKMPaJLWZaQxO-0MB3B9ehBWjZg=w1600) [Fridge thermostat](refrigerator/#c5) | A refrigerator thermostat with alarms and a Wi-Fi web interface. | https://drive.google.com/drive/folders/1GossbxpIG1vC7lTJxotnUFrRx9we03rG
 Item: ![Dry bilge controller board, 3D render](https://lh3.googleusercontent.com/d/1ma2M7y_A66_fXGVM4va1luAly31ywcUm=w1600) [Dry bilge controller](small-electronics/#c2) | Runs a small self-priming pump for 3 minutes every 24 hours to keep the bilge dry. | https://drive.google.com/drive/folders/1lGRzbgjsC-mM-ptNYNYtzqV7rmt9GSeM
@@ -64,6 +63,7 @@ Item: ![Forestay and furler at the bow](https://lh3.googleusercontent.com/d/1bos
 Item: ![Hand drawing of the gooseneck part with measurements](https://lh3.googleusercontent.com/d/1oqwH3VXfsXVc5R6CYpyjROkehfaSalpH=w1600) [Gooseneck](mast/#c10) | A new connector part for the tired gooseneck, modeled from my measurements. | https://drive.google.com/drive/folders/1S06z5CrtS7P7ixhyAIQ_FhAvIx6XNNyI
 Item: ![Placeholder: no picture yet](/assets/placeholder-3d.webp) [Binoculars holder](workshop/) | A wall holder with a hook for the binoculars. | https://drive.google.com/drive/folders/15EfCTmqlmHh_jN13ND1FOz9Y019yvN95
 Item: ![Placeholder: no picture yet](/assets/placeholder-3d.webp) [Line organisers](sails/#c8) | A printed line organiser (bottom part, high version). | https://drive.google.com/drive/folders/1ew2GJWJusU2M5dQRfIYkam2pR4bTcDA7
+Item: ![Finished NavPod at the helm](https://lh3.googleusercontent.com/d/1KSttwr6C4Iuj11UoY5tbKa-JEx00hxTb=w1600) [NavPod](navpod/#c2) | A helm head unit with a 7-inch screen and 26 buttons, talking to OpenPlotter, Signal K and PyPilot. | https://drive.google.com/drive/folders/1ReS4Thk2oQI7VY-jQYOO1Q96z7rVhjHG
 
 ## Drawings and sketches
 
